@@ -1,0 +1,65 @@
+<svg id="Enigma" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #cd2667;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f6f6f6;
+      }
+
+      .cls-3 {
+        fill: #efefef;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Enigma_copy" data-name="Enigma copy">
+    <path id="InsideB1" class="cls-2" d="M180,214l76-45,77,46-77,41Z"/>
+    <path id="InsideB2" class="cls-3" d="M176.832,213.154L253.8,256.472l-1.337,89.684-74.007-46.184Z"/>
+    <path id="InsideB3" class="cls-4" d="M334.012,214l-77,43.318L258.347,347l74.037-46.184Z"/>
+    <path id="Box1" class="cls-5" d="M256,79l154,90V344L256,433,102,346V171Z"/>
+    <path id="Box2" class="cls-5" d="M256,167.022l77.975,45.493v88.459L256,345.962l-77.975-43.977V213.526Z"/>
+    <path id="Line" class="cls-6" d="M99.03,173.481l3.94-6.962,159,90-3.94,6.962Z"/>
+    <path id="Line_2" data-name="Line 2" class="cls-6" d="M412,173.954l-3.943-6.966L249,257.046l3.943,6.966Z"/>
+    <path id="Line_3" data-name="Line 3" class="cls-6" d="M252,256h8V433h-8V256Z"/>
+    <g id="Dots">
+      <g id="Top">
+        <circle id="Top-2" data-name="Top" class="cls-7" cx="256" cy="142" r="6"/>
+        <circle id="Top_2" data-name="Top 2" class="cls-7" cx="256" cy="111" r="6"/>
+      </g>
+      <g id="Left">
+        <circle id="Left-2" data-name="Left" class="cls-7" cx="156.656" cy="313.656" r="6"/>
+        <circle id="Left_2" data-name="Left 2" class="cls-7" cx="129.812" cy="329.156" r="6"/>
+      </g>
+      <g id="Right">
+        <circle id="Right-2" data-name="Right" class="cls-7" cx="356.015" cy="314.11" r="6.016"/>
+        <circle id="Right_2" data-name="Right 2" class="cls-7" cx="382.985" cy="329.89" r="6.016"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="256px" height="256px" viewBox="0 0 490 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>POR</title>
+    <g id="PORLOGO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POR">
+            <path d="M0,245 C0,380.094 109.906,490 245,490 C380.094,490 490,380.094 490,245 C490,109.906 380.094,0 245,0 C109.906,0 0,109.906 0,245 Z" id="Full" fill="#101010"></path>
+            <text id="0000000019d6689c-000" font-family="Courier New, Courier, monospace" font-size="20" font-weight="bold" line-spacing="23" letter-spacing="2.3" fill="#fff">
+                <tspan x="100" y="103" xml:space="preserve">  <tspan>0000000019d6689c</tspan></tspan>
+                <tspan x="100" y="126" xml:space="preserve"> <tspan>00000000019d6689c08</tspan></tspan>
+                <tspan x="100" y="149">000000000019d6689c085</tspan>
+                <tspan x="100" y="172">00000<tspan xml:space="preserve">           </tspan>9c085</tspan>
+                <tspan x="100" y="195">00000<tspan xml:space="preserve">            </tspan>c085</tspan>
+                <tspan x="100" y="218">00000<tspan xml:space="preserve">            </tspan>c085</tspan>
+                <tspan x="100" y="241">00000<tspan xml:space="preserve">           </tspan>9c085</tspan>
+                <tspan x="100" y="264">00000<tspan xml:space="preserve">    </tspan>019d6689c085</tspan>
+                <tspan x="100" y="287">00000<tspan xml:space="preserve">   </tspan>0019d6689c085</tspan>
+                <tspan x="100" y="310">00000<tspan xml:space="preserve">  </tspan>00019d6689c</tspan>
+                <tspan x="100" y="333">00000</tspan>
+                <tspan x="100" y="356">00000</tspan>
+                <tspan x="100" y="379">00000</tspan>
+                <tspan x="100" y="402">00000</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

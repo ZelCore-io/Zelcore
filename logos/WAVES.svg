@@ -1,0 +1,19 @@
+<svg id="WAVES" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #05f;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="WAVES-2" data-name="WAVES" class="cls-2" d="M409.892,255.847L256.114,408.971,102.361,255.847,256.114,102.724Z"/>
+</svg>

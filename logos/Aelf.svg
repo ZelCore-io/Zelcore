@@ -1,0 +1,26 @@
+<!-- Made by Zel Technologies GmbH, https://zeltechnologies.com -->
+<svg id="Aelf" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2b60bf;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Aelf-2" data-name="Aelf">
+    <circle id="Big_Round" data-name="Big Round" class="cls-2" cx="362.5" cy="255.5" r="69.5"/>
+    <circle id="Round_Up" data-name="Round Up" class="cls-2" cx="272.5" cy="126.5" r="33.5"/>
+    <circle id="Round_Down" data-name="Round Down" class="cls-2" cx="272.5" cy="391.5" r="33.5"/>
+    <path id="Drop_Up" data-name="Drop Up" class="cls-3" d="M98,178c0-41.485,36.216-51,50-51,40.373,0,49.686,43.189,56,50.938,2.048,6.134,13.205,21.448,22,26.062,23.808,5.746,27.361-1.415,41-1,8.477,0,18,8.462,18,20,0,9.018-8.787,19.177-18.066,19-24.628.678-19.414-20.882-45.9-32-27.7-4.546-47.384,19-72.992,19C132.529,229,98,219.485,98,178Z"/>
+    <path id="Drop_Down" data-name="Drop Down" class="cls-3" d="M98,334c0,41.485,36.216,51,50,51,40.373,0,49.686-43.189,56-50.938,2.048-6.134,13.205-21.448,22-26.062,23.808-5.746,27.361,1.415,41,1,8.477,0,18-8.462,18-20,0-9.018-8.787-19.177-18.066-19-24.628-.678-19.414,20.882-45.9,32-27.7,4.546-47.384-19-72.992-19C132.529,283,98,292.515,98,334Z"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg id="Substratum" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #ef4138;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Substratum-2" data-name="Substratum">
+    <path id="S" class="cls-2" d="M213,108L195,93l-61,47L378,325l-16,14"/>
+    <path id="S2" class="cls-2" d="M299,404l18,15,61-47.006L134,186.971l16-14"/>
+    <path id="Bottom" class="cls-2" d="M335,359l-79,59L134,326h61l79,60"/>
+    <path id="Top" class="cls-2" d="M177,153l79-59,122,92H317l-79-60"/>
+  </g>
+</svg>

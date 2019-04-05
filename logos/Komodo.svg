@@ -1,0 +1,27 @@
+<svg id="Komodo" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #316565;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 55px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main_copy_20" data-name="Main copy 20" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Outer" class="cls-2" d="M166,166l91-40,89,40,40,91-40,94-89,35-91-35-40-94Z"/>
+  <path id="Inner" class="cls-3" d="M215.492,215.582l40.958-18.023,40.058,18.023,18,41-18,42.354-40.058,15.77-40.958-15.77-18-42.354Z"/>
+</svg>

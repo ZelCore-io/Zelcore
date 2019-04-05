@@ -1,0 +1,32 @@
+<svg id="Genesis" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1ea1ef;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="New">
+    <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+    <path id="G_Down" data-name="G Down" class="cls-2" d="M289,274l-11,55s-61.585-.409-81.053-0.862C189.982,328.328,191,321,191,321s19.858-95.532,26.865-128.085C219.572,182.687,228,183,228,183H393a152.592,152.592,0,0,1,18,73A154.767,154.767,0,0,1,157,375H318l30-140H250l-8,39h47Z"/>
+    <path id="G_Small" data-name="G Small" class="cls-2" d="M132.637,349.857A154.663,154.663,0,0,1,102,274h46S138.866,318.789,132.637,349.857Z"/>
+    <path id="G_Top" data-name="G Top" class="cls-2" d="M256,101a155.826,155.826,0,0,1,97,34H214c-37.107,0-43,33-43,33l-16,68H102C112.04,160.1,177.352,101,256,101Z"/>
+    <circle id="Outer" class="cls-3" cx="256" cy="256" r="179"/>
+  </g>
+</svg>

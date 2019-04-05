@@ -1,0 +1,19 @@
+<svg id="Loopring" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c60ff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f3f3f3;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Loopring-2" data-name="Loopring" class="cls-2" d="M78,302.634L195.568,115V397Zm205.469-51.572H434L199.963,394.805l114.272-92.171Z"/>
+</svg>

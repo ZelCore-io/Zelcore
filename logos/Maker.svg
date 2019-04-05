@@ -1,0 +1,26 @@
+<svg id="Maker" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #1abc9c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Maker-2" data-name="Maker">
+    <path id="Left" class="cls-2" d="M104,363.907V154l131,97.55V363.907"/>
+    <path id="Right" class="cls-2" d="M407.5,364.5V154.5l-131,97.591V364.5"/>
+  </g>
+</svg>

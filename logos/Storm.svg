@@ -1,0 +1,19 @@
+<svg id="Storm" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #6b38df;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Storm-2" data-name="Storm" class="cls-2" d="M147,283h92L214,416l11,2L365,222H274L297,90l-11-2Z"/>
+</svg>

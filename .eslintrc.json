@@ -1,0 +1,83 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "parser": "babel-eslint"
+    },
+    "extends": [
+        "airbnb-base",
+        "plugin:vue/recommended"
+    ],
+    "plugins": [
+        "vue"
+    ],
+    "rules": {
+        "no-console": "off",
+        "indent": [
+            "error",
+            2,
+            {
+                "SwitchCase": 1
+            }
+        ],
+        "linebreak-style": [
+            "error",
+            "windows"
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "import/extensions": [
+            "error",
+            "always",
+            {
+                "js": "never",
+                "vue": "never"
+            }
+        ],
+        "no-param-reassign": [
+            "error",
+            {
+                "props": true,
+                "ignorePropertyModificationsFor": [
+                    "state",
+                    "tx",
+                    "event"
+                ]
+            }
+        ],
+        "max-len": [
+            "error",
+            {
+                "code": 300,
+                "ignoreUrls": true,
+                "ignoreTrailingComments": true
+            }
+        ],
+        "vue/no-use-v-if-with-v-for": [
+            "error",
+            {
+                "allowUsingIterationVar": true
+            }
+        ]
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "extensions": [
+                    ".js",
+                    ".jsx",
+                    ".vue"
+                ]
+            }
+        }
+    }
+}

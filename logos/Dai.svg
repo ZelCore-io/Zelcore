@@ -1,0 +1,19 @@
+<svg id="DAI" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #ffce45;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="DAI-2" data-name="DAI" class="cls-2" d="M76.813,256L256,76.813,435.188,256,256,435.188ZM138,244.663L256,112,375,244.663H293L256,205l-34,39.663H138Z"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg id="AppCoins" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fe6b79;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 50px;
+      }
+
+      .cls-3 {
+        stroke-width: 22px;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="AppCoins-2" data-name="AppCoins">
+    <path id="A" class="cls-2" d="M172,355s71.574-190,74-196c3.282-5.821,15.486-6.212,19,0,2.331,6,75,197,75,197"/>
+    <path id="_-" data-name="-" class="cls-2" d="M194,306H315"/>
+    <path id="Top" class="cls-3" d="M160,224h54m-54,34h48m141-34H301m49,34H307"/>
+  </g>
+</svg>

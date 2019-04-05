@@ -1,0 +1,25 @@
+<svg id="zilliqa" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #49c1bf;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f6f6f6;
+      }
+    </style>
+  </defs>
+  <path id="Main_copy_7" data-name="Main copy 7" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Z" class="cls-2" d="M313,209v42L202,307l110,55v42L148,325V282l113-55L148,173V130Z"/>
+  <path id="L" class="cls-3" d="M148,131l43-19,163,80-41,19Z"/>
+  <path id="I" class="cls-2" d="M312,210v41l42-19V191Zm-0.1,63V404l42.157-20V254Z"/>
+</svg>

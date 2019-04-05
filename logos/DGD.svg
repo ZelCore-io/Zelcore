@@ -1,0 +1,19 @@
+<svg id="DGD" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #c09f57;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="DGD-2" data-name="DGD" class="cls-2" d="M124,116h77v30H124V116Zm95-2h27V236H122V164h97V114Zm45,0H386v26H292v71h70V189H312V164h77v72H264V114ZM125,261H325c53.12,0,75,45.384,75,74s-23.542,73-75.245,73H124Zm22-72h70v22H147V189Zm11,104H325c19.245,0,40,16.955,40,42s-23.609,41-42,41H158V293Z"/>
+</svg>

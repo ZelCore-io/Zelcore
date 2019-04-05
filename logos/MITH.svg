@@ -1,0 +1,36 @@
+<svg id="MITH" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #4ee5cf;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 14px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Outer" class="cls-2" d="M97,324l51-55,61-88,50,65,50-98,65,110,43,66H97Z"/>
+  <path id="Line1" class="cls-3" d="M208,184l-4,52-58,33,25,55,51-67,37,39V243l49-90-1,87,64,13-5,71"/>
+  <path id="Line2" class="cls-3" d="M203,236l55,59,56,28,50-1-56-83"/>
+  <path id="Line3" class="cls-4" d="M306,240l-70,82"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg id="Hush" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2d2d2d;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main_copy_15" data-name="Main copy 15" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Hush-2" data-name="Hush">
+    <rect id="Round1" class="cls-2" x="129" y="137" width="29" height="226" rx="14.5" ry="14.5"/>
+    <rect id="Round2" class="cls-2" x="183" y="106" width="28" height="146" rx="14" ry="14"/>
+    <rect id="Round3" class="cls-2" x="182" y="277" width="29" height="115" rx="14.5" ry="14.5"/>
+    <path id="Round4" class="cls-3" d="M253,90a14,14,0,0,1,14,14v47a16.12,16.12,0,0,0-14-8c-8.86.135-14,8-14,8V104A14,14,0,0,1,253,90Z"/>
+    <path id="Round5" class="cls-3" d="M253,171a14,14,0,0,1,14,14v56c-0.243,6.265-3.755,6.122-5,6-3.949-.025-23-24-23-24V185A14,14,0,0,1,253,171Z"/>
+    <rect id="Round6" class="cls-2" x="238" y="272" width="29" height="65" rx="14.5" ry="14.5"/>
+    <path id="Round7" class="cls-3" d="M253,368c8.008,0,11.345-4.8,14-10.5v50a14.5,14.5,0,0,1-29,0v-50C241.791,364.429,244.992,368,253,368Z"/>
+    <rect id="Round8" class="cls-2" x="295" y="106" width="30" height="103" rx="15" ry="15"/>
+    <rect id="Round9" class="cls-2" x="296" y="237" width="28" height="155" rx="14" ry="14"/>
+    <rect id="Round10" class="cls-2" x="353" y="137" width="29" height="226" rx="14.5" ry="14.5"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg id="Safecoin" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #00688b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e6e6e6;
+        stroke-width: 15px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #efefef;
+      }
+    </style>
+  </defs>
+  <path id="Main_copy_21" data-name="Main copy 21" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Safecoin-2" data-name="Safecoin">
+    <path id="Main" class="cls-2" d="M117,176L255,96l140,80V336L256,416,117,336V176Z"/>
+    <path id="S" class="cls-3" d="M256,139l100,58-18,11-82-47-73,42,24,15,49-29,59,34v56l50,27L256,371,155,313l18-10,83,48,74-45-23-12-51,30-59-33V231l-50-28Z"/>
+    <path id="Keyhole" class="cls-4" d="M256,225c-3.19,0-16,1-17,16,0,10,6,12.689,11,16-1.155,4-8,31-8,31h27s-7.308-28.529-8-31c4-2.039,11-4.937,11-16C270,226,259.19,225,256,225Z"/>
+  </g>
+</svg>

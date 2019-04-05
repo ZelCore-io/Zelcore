@@ -1,0 +1,30 @@
+<svg id="Snowgem" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #d21e2b;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main_copy_23" data-name="Main copy 23" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Snowgem_copy" data-name="Snowgem copy">
+    <path id="L" class="cls-2" d="M101,168l36,21V323l-36,21V168Z"/>
+    <path id="R" class="cls-2" d="M412,168l-36,21V323l36,21V168Z"/>
+    <path id="TL" class="cls-2" d="M103,165l36.187,20.677,116.047-67L255.42,77Z"/>
+    <path id="TR" class="cls-2" d="M410,165.253l-36.09,20.736L258.172,118.8,257.986,77Z"/>
+    <path id="BL" class="cls-2" d="M103,348l36.187-20.677,116.047,67L255.42,436Z"/>
+    <path id="BR" class="cls-2" d="M410,347.747l-36.09-20.736L258.172,394.2,257.986,436Z"/>
+    <path id="CTR" class="cls-2" d="M256,256h23v-7l30-17,32,19,6-9-27-15,27-16-6-9-27,15V187H304v36l-30,17-13-8V200l33-19-5-8-28,15V157h-5v99Z"/>
+    <path id="CTL" class="cls-2" d="M256,256H233v-7l-30-17-32,19-6-9,27-15-27-16,6-9,27,15V187h10v36l30,17,13-8V200l-33-19,5-8,28,15V157h5v99Z"/>
+    <path id="CBR" class="cls-2" d="M256,256h23v7l30,17,32-19,6,9-27,15,27,16-6,9-27-15v30H304V289l-30-17-13,8v32l33,19-5,8-28-15v31h-5V256Z"/>
+    <path id="CTL-2" data-name="CTL" class="cls-2" d="M256,256H233v7l-30,17-32-19-6,9,27,15-27,16,6,9,27-15v30h10V289l30-17,13,8v32l-33,19,5,8,28-15v31h5V256Z"/>
+  </g>
+</svg>

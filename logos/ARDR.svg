@@ -1,0 +1,19 @@
+<svg id="ARDR" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #1158af;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Ardor" class="cls-2" d="M101,368L256.416,100l38.629,68.12L178.259,368H101ZM246.534,260.441l38.629,48.4L183.649,368Zm1.8-4.481L322,215.625,412,368H340.861Z"/>
+</svg>

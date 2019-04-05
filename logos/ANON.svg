@@ -1,0 +1,28 @@
+<svg id="ANON" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #ba252b;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main-F" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <circle id="Round" class="cls-2" cx="256" cy="256" r="175"/>
+  <path id="A" class="cls-3" d="M118,363l43-60-33-7,24-34,32,8L311,92l15,6-46,67,13,4,47-66,14,8-44,62,35,234-38,17-13-87-86-21-57,78-12-9,52-74-13-3-50,66Zm115-81,44-61,11,74Z"/>
+</svg>

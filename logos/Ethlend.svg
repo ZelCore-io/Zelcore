@@ -1,0 +1,23 @@
+<svg id="ETHLend" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #00acc7;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="LEND">
+    <path id="Down" class="cls-2" d="M151,263l28-28,98,98-97,97-29-29,69-69Zm69,69-69-69"/>
+    <path id="Middle" class="cls-2" d="M193,222l28-28,97,97-28,28Z"/>
+    <path id="Top" class="cls-2" d="M360,110L332,82l-98,98,97,97,29-29-69-69Zm-69,69,69-69"/>
+  </g>
+</svg>

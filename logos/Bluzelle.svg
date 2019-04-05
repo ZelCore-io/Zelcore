@@ -1,0 +1,39 @@
+<svg id="Bluzelle" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #18578c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Rectangle">
+    <path id="Rectangle_SW" data-name="Rectangle SW" class="cls-2" d="M198,280c10.386,19.392,14.343,23.579,35,34-7.611,7.611-30.545,30.748-30.545,30.748L168.1,310.392S189.152,288.848,198,280Z"/>
+    <path id="Rectangle_SE" data-name="Rectangle SE" class="cls-2" d="M315.051,280c-10.4,19.467-14.364,23.67-35.051,34.131,7.622,7.64,30.589,30.867,30.589,30.867L345,310.51S323.911,288.882,315.051,280Z"/>
+    <path id="Rectangle_NE" data-name="Rectangle NE" class="cls-2" d="M315.051,232c-10.4-19.467-14.364-23.67-35.051-34.131,7.622-7.64,30.589-30.867,30.589-30.867L345,201.49S323.911,223.118,315.051,232Z"/>
+    <path id="Rectangle_NW" data-name="Rectangle NW" class="cls-2" d="M197.949,232c10.4-19.467,14.364-23.67,35.051-34.131C225.378,190.229,202.411,167,202.411,167L168.005,201.49S189.089,223.118,197.949,232Z"/>
+    <path id="Rectangle_W" data-name="Rectangle W" class="cls-2" d="M194.406,265c-0.89-9-.935-9,0.6-17.936-9.938-.005-40.017-0.072-40.017-0.072l0.054,17.861S182.852,265,194.406,265Z"/>
+    <path id="Rectangle_N" data-name="Rectangle N" class="cls-2" d="M247,194.406c9-.89,9-0.935,17.936.6,0-9.938.072-40.017,0.072-40.017l-17.861.054S247,182.852,247,194.406Z"/>
+    <path id="Rectangle_E" data-name="Rectangle E" class="cls-2" d="M318.594,247c0.89,9,.935,9-0.6,17.936,9.938,0,40.017.072,40.017,0.072l-0.054-17.861S330.148,247,318.594,247Z"/>
+    <path id="Rectangle_S" data-name="Rectangle S" class="cls-2" d="M265,318.594c-9,.89-9,0.935-17.936-0.6-0.005,9.938-.072,40.017-0.072,40.017l17.861-.054S265,330.148,265,318.594Z"/>
+  </g>
+  <g id="Rounds">
+    <circle id="Middle" class="cls-3" cx="256" cy="256" r="44"/>
+    <circle id="Round_N" data-name="Round N" class="cls-3" cx="256" cy="107" r="30"/>
+    <circle id="Round_NW" data-name="Round NW" class="cls-3" cx="151" cy="151" r="30"/>
+    <circle id="Round_W" data-name="Round W" class="cls-3" cx="108" cy="256" r="30"/>
+    <circle id="Round_SW" data-name="Round SW" class="cls-3" cx="151" cy="361" r="30"/>
+    <circle id="Round_S" data-name="Round S" class="cls-3" cx="256" cy="405" r="30"/>
+    <circle id="Round_NE" data-name="Round NE" class="cls-3" cx="362" cy="151" r="30"/>
+    <circle id="Round_E" data-name="Round E" class="cls-3" cx="405" cy="256" r="30"/>
+    <circle id="Round_SE" data-name="Round SE" class="cls-3" cx="362" cy="361" r="30"/>
+  </g>
+</svg>

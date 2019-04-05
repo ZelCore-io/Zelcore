@@ -1,0 +1,21 @@
+<svg id="Chain_Link" data-name="Chain Link" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2a5ada;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 65px;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="ChainLink" class="cls-2" d="M133.12,189.44L256,117.76l122.88,71.68V322.56L256,394.24,133.12,322.56V189.44Z"/>
+</svg>

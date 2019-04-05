@@ -1,0 +1,80 @@
+<svg id="Power_Ledger" data-name="Power Ledger" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #00cdd7;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.2;
+      }
+
+      .cls-3 {
+        opacity: 0.25;
+      }
+
+      .cls-4 {
+        opacity: 0.3;
+      }
+
+      .cls-5 {
+        opacity: 0.35;
+      }
+
+      .cls-6 {
+        opacity: 0.4;
+      }
+
+      .cls-7 {
+        opacity: 0.45;
+      }
+
+      .cls-8 {
+        opacity: 0.55;
+      }
+
+      .cls-9 {
+        opacity: 0.6;
+      }
+
+      .cls-10 {
+        opacity: 0.65;
+      }
+
+      .cls-11 {
+        opacity: 0.7;
+      }
+
+      .cls-12 {
+        opacity: 0.75;
+      }
+
+      .cls-13 {
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <g id="Power_Ledger-2" data-name="Power Ledger">
+    <path id="T_copy_11" data-name="T copy 11" class="cls-2" d="M337.425,116.305l19.94,74.419-74.418,19.94-19.941-74.418Z"/>
+    <path id="T_copy_10" data-name="T copy 10" class="cls-3" d="M396.849,175.823l-19.94,74.418L302.491,230.3l19.94-74.418Z"/>
+    <path id="T_copy_9" data-name="T copy 9" class="cls-4" d="M419.133,255.983l-54.478,54.478-54.478-54.478,54.478-54.478Z"/>
+    <path id="T_copy_8" data-name="T copy 8" class="cls-5" d="M396.852,337.707l-74.418,19.94-19.94-74.418,74.418-19.941Z"/>
+    <path id="T_copy_7" data-name="T copy 7" class="cls-6" d="M337.708,397.24L263.29,377.3l19.94-74.418,74.418,19.94Z"/>
+    <path id="T_copy_6" data-name="T copy 6" class="cls-7" d="M256,419.446l-54.478-54.478L256,310.49l54.478,54.478Z"/>
+    <path id="T_copy_5" data-name="T copy 5" class="cls-8" d="M176.289,397.249l-19.94-74.418,74.418-19.94,19.94,74.418Z"/>
+    <path id="T_copy_4" data-name="T copy 4" class="cls-9" d="M115.414,337.718l19.94-74.418,74.418,19.94-19.94,74.418Z"/>
+    <path id="T_copy_3" data-name="T copy 3" class="cls-10" d="M94.141,255.993l54.478-54.478L203.1,255.993l-54.478,54.478Z"/>
+    <path id="T_copy_2" data-name="T copy 2" class="cls-11" d="M115.42,175.819l74.419-19.941,19.94,74.419-74.418,19.94Z"/>
+    <path id="T_copy" data-name="T copy" class="cls-12" d="M174.294,116.3l74.419,19.94-19.941,74.418-74.418-19.94Z"/>
+    <path id="T" class="cls-13" d="M256,94.1l54.478,54.478L256,203.06l-54.478-54.477Z"/>
+  </g>
+</svg>

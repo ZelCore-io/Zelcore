@@ -1,0 +1,19 @@
+<svg id="ARK" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #c9292c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Ark-2" data-name="Ark" class="cls-2" d="M421,380L256.6,206.309,91,380,256.6,113ZM227.33,277h58.14L256.6,247.105Zm103.451,47.26-26.464-27.872H208.485l-26.464,27.872h148.76Z"/>
+</svg>

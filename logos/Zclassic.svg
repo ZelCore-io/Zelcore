@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-2 {
+        fill: #c86f35;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        stroke-width: 42px;
+      }
+    </style>
+  </defs>
+  <g id="ZClassic">
+    <path id="Main" class="cls-2" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+    <g id="ZCL">
+      <path id="Z" class="cls-3" d="M267,175H140l-20,42H243ZM369,336H185l92-161h51L260,296H389Z"/>
+      <circle id="Round_inner1" data-name="Round inner1" class="cls-4" cx="256" cy="256" r="139.031"/>
+      <circle id="Round_inner2" data-name="Round inner2" class="cls-4" cx="256" cy="256" r="176.969"/>
+      <path id="Round_outer" data-name="Round outer" class="cls-5" d="M377.918,356.506a158,158,0,1,1-.479-201.589"/>
+    </g>
+  </g>
+</svg>

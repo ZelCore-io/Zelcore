@@ -1,0 +1,19 @@
+<svg id="Zcash" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #f4b728;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Main" data-name="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="Z" class="cls-2" d="M171,145h59V102h51v42h64s0.177,25.608,0,37c0.462,15.705-7,24-7,24L241,315H344v51H280l3,44H229V367H167s-1.125-29.993-1-38c0.11-14.632,7-22,7-22l96-110H171V145Z"/>
+</svg>
