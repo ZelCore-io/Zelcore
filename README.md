@@ -1,6 +1,6 @@
 # ZelCore
 
-Istructions and resources to be added WIP
+Instructions and resources to be added WIP
 
 Open source components of ZelCore
 
