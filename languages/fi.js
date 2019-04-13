@@ -1,6 +1,6 @@
 export default {
   message: {
-    // Universal
+    // Universal FINNISH IN PROGRESS
     zelcore: "ZelCore",
     zelcore_website: "ZelCore.io",
     zelcore_website_text: "ZelCore Website",
