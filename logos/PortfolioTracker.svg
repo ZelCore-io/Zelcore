@@ -1,0 +1,34 @@
+<svg id="Portfolio_Tracker" data-name="Portfolio Tracker" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #232220;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        fill: #232220;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Main" class="cls-1" cx="255.5" cy="255.5" r="228.5"/>
+  <circle id="Pie" class="cls-2" cx="256" cy="256" r="130.188"/>
+  <path id="PieLine" class="cls-3" d="M251.43,123.94h10.14V257.914H251.43V123.94Z"/>
+  <path id="PieLine2" class="cls-3" d="M261.232,250.517v10.139H127.258V250.517H261.232Z"/>
+  <path id="PieLine3" class="cls-3" d="M259.519,254.848l-8.78,5.069L183.752,143.893l8.78-5.07Z"/>
+  <path id="Line1" class="cls-4" d="M221.617,337.452l-7.234-6.9,42-44,7.234,6.9Z"/>
+  <path id="Line2" class="cls-4" d="M251.464,296.536l7.072-7.072,22,22-7.072,7.072Z"/>
+  <path id="Line3" class="cls-4" d="M278.536,313.536l-7.072-7.072,54-54,7.072,7.072Z"/>
+  <path id="Arrow" class="cls-4" d="M296.112,294.99l37.768-37.769-0.075,28.5,10.1-10.1L344,240l-35.62.1-10.1,10.1,28.5-.076-37.769,37.768Z"/>
+</svg>
