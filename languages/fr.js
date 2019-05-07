@@ -2,6 +2,7 @@ export default {
   message: {
     // universel
     zelcore: "ZelCore",
+    zelcoreplus: "ZelCore+",
     zelcore_website: "ZelCore.io",
     zelcore_website_text: "Site Web ZelCore",
     info_zelcore_io: "info@zelcore.io",
@@ -792,8 +793,8 @@ export default {
     error_obtaining_usdt_data: "Erreur lors de l'obtention des données USDT",
     account_updated_to_zelcore: "Compte mis à jour vers ZelCore",
     wrong_updating_account_to_zelcore: "Une erreur s'est produite lors de la mise à jour du compte sur ZelCore. Veuillez contacter l'équipe Zel",
-    error_connecting_zelpro_database: "Erreur de connexion à la base de données ZelPro",
-    incapable_intiate_zelpro_correctly: "Impossible d'intégrer ZelPro correctement.",
+    error_connecting_zelpro_database: "Erreur de connexion à la base de données ZelCore+",
+    incapable_intiate_zelpro_correctly: "Impossible d'intégrer ZelCore+ correctement.",
     error_decrypting_contacts: "Une erreur s'est produite lors du déchiffrement des contacts. Des valeurs par défaut seront utilisées. Les contacts chiffrés sont sauvegardés.",
     send_dot: "Envoi en cours ...",
     invalid_address: "adresse invalide",
