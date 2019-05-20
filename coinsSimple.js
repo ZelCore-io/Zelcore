@@ -495,7 +495,7 @@ const coins = {
   zrx: {
     coin: "zrx",
     name: "0x",
-    uri: ["zrx"],
+    uri: ["0x", "zrx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1539,7 +1539,7 @@ const coins = {
   electrify: {
     coin: "electrify",
     name: "Electrify",
-    uri: ["electrify", "elec"],
+    uri: ["electrify.asia", "electrify", "elec"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2187,7 +2187,7 @@ const coins = {
     addresses: [],
     fiatRate: 0,
     api: [
-      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x0000000000085d4780B73119b644AE5ecd22b376&address=",
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x0000000000085d4780b73119b644ae5ecd22b376&address=",
     ],
     unit: "TUSD",
     type: "eth",
@@ -2204,7 +2204,7 @@ const coins = {
       normal: 15,
       fast: 20,
     },
-    contractAddress: "0x0000000000085d4780B73119b644AE5ecd22b376",
+    contractAddress: "0x0000000000085d4780b73119b644ae5ecd22b376",
     color: "#56cabd",
     decimals: 18,
   },
@@ -2939,7 +2939,7 @@ const coins = {
   mft: {
     coin: "mft",
     name: "Mainframe Token",
-    uri: ["mainframetoken", "mft"],
+    uri: ["mainframe", "mainframetoken", "mft"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3051,7 +3051,7 @@ const coins = {
   brd: {
     coin: "brd",
     name: "Bread",
-    uri: ["breadtoken", "bread", "brd"],
+    uri: ["bread", "breadtoken", "brd"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3693,7 +3693,7 @@ const coins = {
   holotoken: {
     coin: "holotoken",
     name: "HoloToken",
-    uri: ["halotoken", "hot"],
+    uri: ["holo", "holotoken", "hot"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4085,7 +4085,7 @@ const coins = {
   viberate: {
     coin: "viberate",
     name: "Viberate",
-    uri: ["vibrate"],
+    uri: ["viberate", "vib"],
     addresses: [],
     fiatRate: 0,
     api: [
