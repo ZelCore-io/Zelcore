@@ -2,6 +2,7 @@ const coins = {
   zelcash: {
     coin: "zelcash",
     name: "ZelCash",
+    uri: ["zelcash", "zel"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     wif: "80",
@@ -40,6 +41,7 @@ const coins = {
   testnet: {
     coin: "testnet",
     name: "Test Coin",
+    uri: ["testnet", "testzel"],
     pubKeyHash: "1d25",
     scriptHash: "1cba",
     wif: "ef",
@@ -78,6 +80,7 @@ const coins = {
   bitcoin: {
     coin: "bitcoin",
     name: "Bitcoin",
+    uri: ["bitcoin", "btc"],
     pubKeyHash: "00",
     scriptHash: "05",
     normalAddress: "1",
@@ -107,15 +110,16 @@ const coins = {
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 15,
-      normal: 50,
-      fast: 115,
+      economy: 25,
+      normal: 160,
+      fast: 250,
     },
     color: "#f7931a",
   },
   ethereum: {
     coin: "ethereum",
     name: "Ethereum",
+    uri: ["ethereum", "eth"],
     slip: 60,
     addresses: [],
     fiatRate: 0,
@@ -145,6 +149,7 @@ const coins = {
   litecoin: {
     coin: "litecoin",
     name: "Litecoin",
+    uri: ["litecoin", "ltc"],
     pubKeyHash: "30",
     scriptHash: "32",
     normalAddress: "L",
@@ -183,6 +188,7 @@ const coins = {
   zcash: {
     coin: "zcash",
     name: "Zcash",
+    uri: ["zcash", "zec"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -221,6 +227,7 @@ const coins = {
   bitcoinz: {
     coin: "bitcoinz",
     name: "BitcoinZ",
+    uri: ["bitcoinz", "btcz"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -259,6 +266,7 @@ const coins = {
   ravencoin: {
     coin: "ravencoin",
     name: "Ravencoin",
+    uri: ["ravencoin", "rvn"],
     pubKeyHash: "3c",
     scriptHash: "7a",
     normalAddress: "R",
@@ -270,7 +278,7 @@ const coins = {
     addresses: [],
     fiatRate: 0,
     api: [
-      "https://explorer.rvn.zelcore.io/api/",
+      "https://api.ravencoin.org/api/",
     ],
     pathunix: "raven",
     path: "Raven",
@@ -288,15 +296,16 @@ const coins = {
     ],
     fee: 0.00001,
     feepolicy: {
-      economy: 1,
-      normal: 5,
-      fast: 10,
+      economy: 4,
+      normal: 8,
+      fast: 16,
     },
     color: "#f05239",
   },
   bitcore: {
     coin: "bitcore",
     name: "Bitcore",
+    uri: ["bitcore", "btx"],
     pubKeyHash: "03",
     scriptHash: "7d",
     normalAddress: "2",
@@ -335,6 +344,7 @@ const coins = {
   hush: {
     coin: "hush",
     name: "Hush",
+    uri: ["hush"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -373,6 +383,7 @@ const coins = {
   binance: {
     coin: "binance",
     name: "Binance",
+    uri: ["binance", "bnb"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -400,6 +411,7 @@ const coins = {
   sonm: {
     coin: "sonm",
     name: "Sonm",
+    uri: ["sonm"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -427,6 +439,7 @@ const coins = {
   omisego: {
     coin: "omisego",
     name: "OmiseGO",
+    uri: ["omisego", "omg"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -454,6 +467,7 @@ const coins = {
   zilliqa: {
     coin: "zilliqa",
     name: "Zilliqa",
+    uri: ["zilliqa", "zil"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -481,6 +495,7 @@ const coins = {
   zrx: {
     coin: "zrx",
     name: "0x",
+    uri: ["zrx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -508,6 +523,7 @@ const coins = {
   golem: {
     coin: "golem",
     name: "Golem",
+    uri: ["golem", "gnt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -535,6 +551,7 @@ const coins = {
   kucoin: {
     coin: "kucoin",
     name: "KuCoin",
+    uri: ["kucoin", "kcs"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -562,6 +579,7 @@ const coins = {
   bat: {
     coin: "bat",
     name: "BAT",
+    uri: ["basicattentiontoken", "bat"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -589,6 +607,7 @@ const coins = {
   maker: {
     coin: "maker",
     name: "Maker",
+    uri: ["maker", "mkr"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -616,6 +635,7 @@ const coins = {
   kyber: {
     coin: "kyber",
     name: "Kyber",
+    uri: ["kyber", "knc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -643,6 +663,7 @@ const coins = {
   enigma: {
     coin: "enigma",
     name: "Enigma",
+    uri: ["enigma", "eng"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -670,6 +691,7 @@ const coins = {
   tenx: {
     coin: "tenx",
     name: "TenX",
+    uri: ["tenx", "pay"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -697,6 +719,7 @@ const coins = {
   substratum: {
     coin: "substratum",
     name: "Substratum",
+    uri: ["substratum", "sub"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -724,6 +747,7 @@ const coins = {
   civic: {
     coin: "civic",
     name: "Civic",
+    uri: ["civic", "cvc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -751,6 +775,7 @@ const coins = {
   stox: {
     coin: "stox",
     name: "Stox",
+    uri: ["stox", "stx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -778,6 +803,7 @@ const coins = {
   bitcoingold: {
     coin: "bitcoingold",
     name: "Bitcoin Gold",
+    uri: ["bitcoingold", "btg"],
     pubKeyHash: "26",
     scriptHash: "17",
     normalAddress: "G",
@@ -816,6 +842,7 @@ const coins = {
   snowgem: {
     coin: "snowgem",
     name: "Snowgem",
+    uri: ["snowgem", "xsg"],
     pubKeyHash: "1c28",
     scriptHash: "1c2d",
     normalAddress: "s1",
@@ -854,6 +881,7 @@ const coins = {
   btcp: {
     coin: "btcp",
     name: "Bitcoin Private",
+    uri: ["bitcoinprivate", "btcp"],
     pubKeyHash: "1325",
     scriptHash: "13af",
     normalAddress: "b1",
@@ -892,6 +920,7 @@ const coins = {
   anon: {
     coin: "anon",
     name: "Anon",
+    uri: ["anon"],
     pubKeyHash: "0582",
     scriptHash: "5389",
     normalAddress: "An",
@@ -930,6 +959,7 @@ const coins = {
   zen: {
     coin: "zen",
     name: "Horizen",
+    uri: ["horizen", "zen"],
     pubKeyHash: "2089",
     scriptHash: "2096",
     normalAddress: "zn",
@@ -968,6 +998,7 @@ const coins = {
   safecoin: {
     coin: "safecoin",
     name: "Safecoin",
+    uri: ["safecoin", "safe"],
     pubKeyHash: "3d",
     scriptHash: "56",
     normalAddress: "R",
@@ -1006,6 +1037,7 @@ const coins = {
   komodo: {
     coin: "komodo",
     name: "Komodo",
+    uri: ["komodo", "kmd"],
     pubKeyHash: "3c",
     scriptHash: "55",
     normalAddress: "R",
@@ -1044,6 +1076,7 @@ const coins = {
   zcoin: {
     coin: "zcoin",
     name: "Zcoin",
+    uri: ["zcoin", "xzc"],
     pubKeyHash: "52",
     scriptHash: "07",
     normalAddress: "a",
@@ -1082,6 +1115,7 @@ const coins = {
   usdt: {
     coin: "usdt",
     name: "Tether",
+    uri: ["tether", "usdt"],
     pubKeyHash: "00",
     scriptHash: "05",
     normalAddress: "1",
@@ -1119,6 +1153,7 @@ const coins = {
   zero: {
     coin: "zero",
     name: "Zero",
+    uri: ["zero"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -1157,6 +1192,7 @@ const coins = {
   bitcoincash: {
     coin: "bitcoincash",
     name: "Bitcoin Cash",
+    uri: ["bitcoincash", "bch"],
     pubKeyHash: "00",
     scriptHash: "05",
     normalAddress: "1",
@@ -1195,6 +1231,7 @@ const coins = {
   arcblock: {
     coin: "arcblock",
     name: "ArcBlock",
+    uri: ["arcblock", "abt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1222,6 +1259,7 @@ const coins = {
   adex: {
     coin: "adex",
     name: "AdEx",
+    uri: ["adex", "adx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1249,6 +1287,7 @@ const coins = {
   aeternity: {
     coin: "aeternity",
     name: "Aeternity",
+    uri: ["aeternity", "ae"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1276,6 +1315,7 @@ const coins = {
   airswap: {
     coin: "airswap",
     name: "AirSwap",
+    uri: ["airswap", "ast"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1303,6 +1343,7 @@ const coins = {
   bigbom: {
     coin: "bigbom",
     name: "Bigbom",
+    uri: ["bigbom", "bbo"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1330,6 +1371,7 @@ const coins = {
   appcoins: {
     coin: "appcoins",
     name: "AppCoins",
+    uri: ["appcoins", "appc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1357,6 +1399,7 @@ const coins = {
   bluzelle: {
     coin: "bluzelle",
     name: "Bluzelle",
+    uri: ["bluzelle", "blz"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1384,6 +1427,7 @@ const coins = {
   bancor: {
     coin: "bancor",
     name: "Bancor",
+    uri: ["bancor", "bnt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1411,6 +1455,7 @@ const coins = {
   coinfi: {
     coin: "coinfi",
     name: "CoinFi",
+    uri: ["coinfi", "cofi"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1438,6 +1483,7 @@ const coins = {
   dai: {
     coin: "dai",
     name: "Dai",
+    uri: ["dai"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1465,6 +1511,7 @@ const coins = {
   digixgoldtoken: {
     coin: "digixgoldtoken",
     name: "Digix Gold",
+    uri: ["digixgoldtoken", "dgx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1492,6 +1539,7 @@ const coins = {
   electrify: {
     coin: "electrify",
     name: "Electrify",
+    uri: ["electrify", "elec"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1519,6 +1567,7 @@ const coins = {
   aelf: {
     coin: "aelf",
     name: "Aelf",
+    uri: ["aelf", "elf"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1546,6 +1595,7 @@ const coins = {
   enjincoin: {
     coin: "enjincoin",
     name: "EnjinCoin",
+    uri: ["enjincoin", "enj"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1573,6 +1623,7 @@ const coins = {
   storj: {
     coin: "storj",
     name: "Storj",
+    uri: ["storj"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1600,6 +1651,7 @@ const coins = {
   iost: {
     coin: "iost",
     name: "IOST",
+    uri: ["iost"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1627,6 +1679,7 @@ const coins = {
   dent: {
     coin: "dent",
     name: "DENT",
+    uri: ["dent"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1654,6 +1707,7 @@ const coins = {
   ethlend: {
     coin: "ethlend",
     name: "ETHLend",
+    uri: ["ethlend", "lend"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1681,6 +1735,7 @@ const coins = {
   chainlink: {
     coin: "chainlink",
     name: "ChainLink",
+    uri: ["chainlink", "link"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1708,6 +1763,7 @@ const coins = {
   decentraland: {
     coin: "decentraland",
     name: "Decentraland",
+    uri: ["decentraland", "mana"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1735,6 +1791,7 @@ const coins = {
   loopring: {
     coin: "loopring",
     name: "Loopring",
+    uri: ["loopring", "lrc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1762,6 +1819,7 @@ const coins = {
   qash: {
     coin: "qash",
     name: "QASH",
+    uri: ["qash"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1789,6 +1847,7 @@ const coins = {
   iconomi: {
     coin: "iconomi",
     name: "Iconomi",
+    uri: ["iconomi", "icn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1816,6 +1875,7 @@ const coins = {
   mco: {
     coin: "mco",
     name: "MCO",
+    uri: ["monaco", "mco"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1843,6 +1903,7 @@ const coins = {
   poet: {
     coin: "poet",
     name: "po.et",
+    uri: ["poet", "poe"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1870,6 +1931,7 @@ const coins = {
   polymath: {
     coin: "polymath",
     name: "Polymath",
+    uri: ["polymath", "poly"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1897,6 +1959,7 @@ const coins = {
   powerledger: {
     coin: "powerledger",
     name: "Power Ledger",
+    uri: ["powerledger", "powr"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1924,6 +1987,7 @@ const coins = {
   ripiocredit: {
     coin: "ripiocredit",
     name: "Ripio Credit",
+    uri: ["ripiocredit", "rcn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1951,6 +2015,7 @@ const coins = {
   raidentoken: {
     coin: "raidentoken",
     name: "Raiden Token",
+    uri: ["raidentoken", "rdn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -1978,6 +2043,7 @@ const coins = {
   requestnetwork: {
     coin: "requestnetwork",
     name: "Request Network",
+    uri: ["requestnetwork", "req"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2005,6 +2071,7 @@ const coins = {
   status: {
     coin: "status",
     name: "Status",
+    uri: ["status", "snt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2032,6 +2099,7 @@ const coins = {
   salt: {
     coin: "salt",
     name: "SALT",
+    uri: ["salt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2059,6 +2127,7 @@ const coins = {
   storm: {
     coin: "storm",
     name: "STORM",
+    uri: ["storm"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2086,6 +2155,7 @@ const coins = {
   eidoo: {
     coin: "eidoo",
     name: "Eidoo",
+    uri: ["eidoo", "edo"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2113,6 +2183,7 @@ const coins = {
   trueusd: {
     coin: "trueusd",
     name: "TrueUSD",
+    uri: ["trueusd", "tusd"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2140,6 +2211,7 @@ const coins = {
   dentacoin: {
     coin: "dentacoin",
     name: "Dentacoin",
+    uri: ["dentacoin", "dcn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2154,7 +2226,7 @@ const coins = {
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
     ],
-    fee: 63000,
+    fee: 150000,
     feepolicy: {
       economy: 10,
       normal: 15,
@@ -2167,6 +2239,7 @@ const coins = {
   wax: {
     coin: "wax",
     name: "WAX",
+    uri: ["wax"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2194,6 +2267,7 @@ const coins = {
   wings: {
     coin: "wings",
     name: "Wings",
+    uri: ["wings"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2221,6 +2295,7 @@ const coins = {
   data: {
     coin: "data",
     name: "Data",
+    uri: ["data"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2248,6 +2323,7 @@ const coins = {
   funfair: {
     coin: "funfair",
     name: "FunFair",
+    uri: ["funfair", "fun"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2275,6 +2351,7 @@ const coins = {
   kin: {
     coin: "kin",
     name: "KIN",
+    uri: ["kin"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2302,6 +2379,7 @@ const coins = {
   zclassic: {
     coin: "zclassic",
     name: "Zclassic",
+    uri: ["zclassic", "zcl"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -2340,6 +2418,7 @@ const coins = {
   sirin: {
     coin: "sirin",
     name: "Sirin",
+    uri: ["sirin", "srn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2367,6 +2446,7 @@ const coins = {
   aurora: {
     coin: "aurora",
     name: "Aurora",
+    uri: ["aurora", "aoa"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2394,6 +2474,7 @@ const coins = {
   theta: {
     coin: "theta",
     name: "Theta",
+    uri: ["theta"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2421,6 +2502,7 @@ const coins = {
   dash: {
     coin: "dash",
     name: "Dash",
+    uri: ["dash"],
     pubKeyHash: "4C",
     scriptHash: "10",
     wif: "CC",
@@ -2459,6 +2541,7 @@ const coins = {
   monero: {
     coin: "monero",
     name: "Monero",
+    uri: ["monero", "xmr"],
     pubKeyHash: "4C",
     wif: "CC",
     normalAddress: "4",
@@ -2504,6 +2587,7 @@ const coins = {
   usdc: {
     coin: "usdc",
     name: "USD Coin",
+    uri: ["usdcoin", "usdc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2531,6 +2615,7 @@ const coins = {
   gusd: {
     coin: "gusd",
     name: "Gemini Dollar",
+    uri: ["geminidollar", "gusd"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2558,6 +2643,7 @@ const coins = {
   pax: {
     coin: "pax",
     name: "Paxos Standard",
+    uri: ["paxosstandard", "pax"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2585,6 +2671,7 @@ const coins = {
   etc: {
     coin: "etc",
     name: "Ethereum Classic",
+    uri: ["ethereumclassic", "etc"],
     slip: 61,
     addresses: [],
     fiatRate: 0,
@@ -2613,6 +2700,7 @@ const coins = {
   coni: {
     coin: "coni",
     name: "Coni",
+    uri: ["coni"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2640,6 +2728,7 @@ const coins = {
   tok: {
     coin: "tok",
     name: "Tokok",
+    uri: ["tokok", "tok"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2667,6 +2756,7 @@ const coins = {
   genesis: {
     coin: "genesis",
     name: "Genesis",
+    uri: ["genesis", "genx"],
     pubKeyHash: "1c",
     scriptHash: "3f",
     wif: "30",
@@ -2709,6 +2799,7 @@ const coins = {
   por: {
     coin: "por",
     name: "Proof Of Review",
+    uri: ["proofofreview", "por"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2736,6 +2827,7 @@ const coins = {
   bzedge: {
     coin: "bzedge",
     name: "BZEdge",
+    uri: ["bzedge", "bze"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
     normalAddress: "t1",
@@ -2774,6 +2866,7 @@ const coins = {
   bithereum: {
     coin: "bithereum",
     name: "Bithereum",
+    uri: ["bithereum", "bth"],
     pubKeyHash: "19",
     scriptHash: "28",
     wif: "80",
@@ -2818,6 +2911,7 @@ const coins = {
   adt: {
     coin: "adt",
     name: "AdToken",
+    uri: ["adtoken", "adt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2845,6 +2939,7 @@ const coins = {
   mft: {
     coin: "mft",
     name: "Mainframe Token",
+    uri: ["mainframetoken", "mft"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2872,6 +2967,7 @@ const coins = {
   atl: {
     coin: "atl",
     name: "ATLANT",
+    uri: ["atlant", "atl"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2899,6 +2995,7 @@ const coins = {
   ant: {
     coin: "ant",
     name: "Aragon",
+    uri: ["aragon", "ant"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2926,6 +3023,7 @@ const coins = {
   arn: {
     coin: "arn",
     name: "Aeron",
+    uri: ["aeron", "arn"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2953,6 +3051,7 @@ const coins = {
   brd: {
     coin: "brd",
     name: "Bread",
+    uri: ["breadtoken", "bread", "brd"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -2980,6 +3079,7 @@ const coins = {
   rep: {
     coin: "rep",
     name: "Augur",
+    uri: ["augur", "rep"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3007,6 +3107,7 @@ const coins = {
   qkc: {
     coin: "qkc",
     name: "QuarkChain Token",
+    uri: ["quarkchaintoken", "quarkchain", "qkc", "quark"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3034,6 +3135,7 @@ const coins = {
   loom: {
     coin: "loom",
     name: "LOOM",
+    uri: ["loom"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3061,6 +3163,7 @@ const coins = {
   eurs: {
     coin: "eurs",
     name: "STASIS EURS",
+    uri: ["stasiseurs", "eurs", "stasis"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3088,6 +3191,7 @@ const coins = {
   commercium: {
     coin: "commercium",
     name: "Commercium",
+    uri: ["commercium", "cmm"],
     pubKeyHash: "1c",
     scriptHash: "33",
     normalAddress: "C",
@@ -3126,6 +3230,7 @@ const coins = {
   groestlcoin: {
     coin: "groestlcoin",
     name: "Groestlcoin",
+    uri: ["groestlcoin", "grs"],
     pubKeyHash: "24",
     scriptHash: "05",
     wif: "80",
@@ -3168,6 +3273,7 @@ const coins = {
   gunthy: {
     coin: "gunthy",
     name: "GUNTHY",
+    uri: ["gunthy"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3195,6 +3301,7 @@ const coins = {
   metal: {
     coin: "metal",
     name: "Metal",
+    uri: ["metal", "mtl"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3222,6 +3329,7 @@ const coins = {
   ethos: {
     coin: "ethos",
     name: "EthOS",
+    uri: ["ethos"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3249,6 +3357,7 @@ const coins = {
   singularitynet: {
     coin: "singularitynet",
     name: "SingularityNET",
+    uri: ["singularitynet", "agi"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3276,6 +3385,7 @@ const coins = {
   ambrosus: {
     coin: "ambrosus",
     name: "Ambrosus",
+    uri: ["ambrosus", "amb"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3303,6 +3413,7 @@ const coins = {
   blockmasoncreditprotocol: {
     coin: "blockmasoncreditprotocol",
     name: "BlockMason Credit Protocol",
+    uri: ["blockmasoncreditprotocol", "bcpt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3330,6 +3441,7 @@ const coins = {
   blox: {
     coin: "blox",
     name: "Blox",
+    uri: ["blox", "cdt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3357,6 +3469,7 @@ const coins = {
   celertoken: {
     coin: "celertoken",
     name: "CelerToken",
+    uri: ["celertoken", "celer", "celr"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3384,6 +3497,7 @@ const coins = {
   cindicator: {
     coin: "cindicator",
     name: "Cindicator",
+    uri: ["cindicator", "cnd"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3411,6 +3525,7 @@ const coins = {
   streamrdatacoin: {
     coin: "streamrdatacoin",
     name: "Streamr DATAcoin",
+    uri: ["streamrdatacoin", "streamr", "datacoin"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3438,6 +3553,7 @@ const coins = {
   agrello: {
     coin: "agrello",
     name: "Agrello",
+    uri: ["agrello", "dlt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3465,6 +3581,7 @@ const coins = {
   dock: {
     coin: "dock",
     name: "Dock",
+    uri: ["dock"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3492,6 +3609,7 @@ const coins = {
   everex: {
     coin: "everex",
     name: "Everex",
+    uri: ["everex", "evx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3519,6 +3637,7 @@ const coins = {
   gifto: {
     coin: "gifto",
     name: "Gifto",
+    uri: ["gifto", "gto"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3546,6 +3665,7 @@ const coins = {
   genesisvision: {
     coin: "genesisvision",
     name: "Genesis Vision",
+    uri: ["genesisvision", "gvt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3573,6 +3693,7 @@ const coins = {
   holotoken: {
     coin: "holotoken",
     name: "HoloToken",
+    uri: ["halotoken", "hot"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3600,6 +3721,7 @@ const coins = {
   insolar: {
     coin: "insolar",
     name: "Insolar",
+    uri: ["insolar", "ins"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3627,6 +3749,7 @@ const coins = {
   iotex: {
     coin: "iotex",
     name: "IoTeX",
+    uri: ["iotex", "iotx"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3654,6 +3777,7 @@ const coins = {
   selfkey: {
     coin: "selfkey",
     name: "SelfKey",
+    uri: ["selfkey", "key"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3681,6 +3805,7 @@ const coins = {
   lunyr: {
     coin: "lunyr",
     name: "Lunyr",
+    uri: ["lunyr", "lun"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3708,6 +3833,7 @@ const coins = {
   monetha: {
     coin: "monetha",
     name: "Monetha",
+    uri: ["monetha", "mth"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3735,6 +3861,7 @@ const coins = {
   oax: {
     coin: "oax",
     name: "oax",
+    uri: ["oax"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3762,6 +3889,7 @@ const coins = {
   ost: {
     coin: "ost",
     name: "OST",
+    uri: ["ost"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3789,6 +3917,7 @@ const coins = {
   populous: {
     coin: "populous",
     name: "Populous",
+    uri: ["populous", "ppt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3816,6 +3945,7 @@ const coins = {
   quantstamp: {
     coin: "quantstamp",
     name: "Quantstamp",
+    uri: ["quantstamp", "qsp"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3843,6 +3973,7 @@ const coins = {
   ren: {
     coin: "ren",
     name: "Ren",
+    uri: ["ren"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3870,6 +4001,7 @@ const coins = {
   iexecrlc: {
     coin: "iexecrlc",
     name: "iExec RLC",
+    uri: ["iexecrlc", "rlc"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3897,6 +4029,7 @@ const coins = {
   singulardtv: {
     coin: "singulardtv",
     name: "SingularDTV",
+    uri: ["singulardtv", "sngls"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3924,6 +4057,7 @@ const coins = {
   tierion: {
     coin: "tierion",
     name: "Tierion",
+    uri: ["tierion", "tnt"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3951,6 +4085,7 @@ const coins = {
   viberate: {
     coin: "viberate",
     name: "Viberate",
+    uri: ["vibrate"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -3978,6 +4113,7 @@ const coins = {
   vibe: {
     coin: "vibe",
     name: "VIBE",
+    uri: ["vibe"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4005,6 +4141,7 @@ const coins = {
   tael: {
     coin: "tael",
     name: "Tael",
+    uri: ["tael", "wabi"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4032,6 +4169,7 @@ const coins = {
   wepower: {
     coin: "wepower",
     name: "WePower",
+    uri: ["wepower", "wpr"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4059,6 +4197,7 @@ const coins = {
   dibicoin: {
     coin: "dibicoin",
     name: "Dibicoin",
+    uri: ["dibicoin", "dibi"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4086,6 +4225,7 @@ const coins = {
   bitcoinzero: {
     coin: "bitcoinzero",
     name: "Bitcoin Zero",
+    uri: ["bitcoinzero", "bzx"],
     pubKeyHash: "4b",
     scriptHash: "22",
     wif: "d2",
@@ -4127,7 +4267,8 @@ const coins = {
   },
   etherparty: {
     coin: "etherparty",
-    name: "Fuel Token",
+    name: "Etherparty",
+    uri: ["etherparty", "fueltoken", "fuel"],
     addresses: [],
     fiatRate: 0,
     api: [
@@ -4155,6 +4296,7 @@ const coins = {
   bnbBinance: {
     coin: "bnbBinance",
     name: "Binance Chain",
+    uri: ["binancechain", "binance", "bnbbinance", "binancebnb", "bnb"],
     slip: 714,
     addresses: [],
     fiatRate: 0,
@@ -4182,35 +4324,6 @@ const coins = {
     color: "#b0b0b0",
     decimals: 8,
   },
-  /* bnbBitcoin: {
-    coin: "bnbBitcoin",
-    name: "Bitcoin BNB",
-    addresses: [],
-    fiatRate: 0,
-    api: [
-      "https://dex.binance.org/",
-      "https://dex-european.binance.org/",
-      "https://dex-asiapacific.binance.org/",
-      "https://dex-atlantic.binance.org/",
-    ],
-    unit: "BTC.B",
-    type: "bnb",
-    explorer: [
-      "https://explorer.binance.org/tx/",
-    ],
-    logolink: "static/logos/BTC.svg",
-    node: [
-      "https://explorer.binance.org/",
-    ],
-    fee: 0.00125,
-    feepolicy: {
-      economy: 0.5,
-      normal: 1,
-      fast: 2,
-    },
-    color: "#abcdef",
-    decimals: 8,
-  }, */
 };
 export default {
   coins,
