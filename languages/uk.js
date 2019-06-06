@@ -3,7 +3,7 @@ export default {
     // Universal
     zelcore: "ZelCore",
     zelcoreplus: "ZelCore+",   
-  	zelcore_website: "ZelCore.io",
+    zelcore_website: "ZelCore.io",
     zelcore_website_text: "ZelCore Веб-сайт",
     info_zelcore_io: "info@zelcore.io",
     save: "Зберегти",
@@ -171,7 +171,7 @@ export default {
     retrieving: "Витяг детермінованих гаманців",
 
     // Portfolio.vue
-  	add_asset: "Додати актив",
+    add_asset: "Додати актив",
     add_assets: "Додати активи",
     stable_assets: "Стабільні активи",
     coins: "Монети",
@@ -524,7 +524,7 @@ export default {
     private_keys_in_wif: "Приватні ключі у Wallet Import Format для ",
     d2fa_is_not_activated_yet: "d2FA ще не активовано. Easy Login не може бути встановлений.",
     language: "Мова",
-  	full_node_encryption: "Шифрування гаманця повної ноди",
+    full_node_encryption: "Шифрування гаманця повної ноди",
     full_node_encryption_message: "ZelCore шифрує ваш файл повної ноди wallet.dat за замовчуванням. Це робить файл wallet.dat асоційованим лише з одним обліковим записом ZelCore, а шифрування також запобігає доступу інших осіб до вашого гаманця. \n"
     + "Однак ваш wallet.dat повної ноди не може бути доступний з іншого гаманця ніж ZelCore, наприклад, ZELmate. Якщо шифрування вимкнено, wallet.dat поділяється між усіма обліковими записами ZelCore, а також між іншими гаманцями.",
 
@@ -597,7 +597,7 @@ export default {
     exchange_in_progress: "Проводиться обмін!",
     error_obtaining_minimum_trade: "Помилка отримання мінімально можливої суми для торгівлі",
     error_obtaining_probable_ex_amount: "Помилка отримання можливої обмінної суми",
-	  selling_amount_higher_cryptowolf: "Сума продажу вище, ніж CryptoWolf може обробити. Натисніть кнопку Max, щоб ввести максимально допустиму суму продажу.",
+    selling_amount_higher_cryptowolf: "Сума продажу вище, ніж CryptoWolf може обробити. Натисніть кнопку Max, щоб ввести максимально допустиму суму продажу.",
 
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML/KYC.",
@@ -648,7 +648,7 @@ export default {
     coinswitch: "CoinSwitch",
     cryptowolf: "CryptoWolf",
     cryptowolf_terms: "Умови CryptoWolf",
-  	cryptowolf_status: "Статус CryptoWolf",
+    cryptowolf_status: "Статус CryptoWolf",
     cryptowolf_error_status_last: "Помилка при отриманні поточного стану останнього обміну з CryptoWolf",
 
     // install.vue
