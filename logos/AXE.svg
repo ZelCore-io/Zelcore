@@ -1,0 +1,24 @@
+<svg id="AXE" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a0ea;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
+  <path id="X" class="cls-2" d="M177.664,108.544l-69.12,69.12L186.88,256l-78.336,78.336,69.12,69.12L256,279.04l78.336,124.416,69.12-69.12L325.12,256l78.336-78.336-69.12-69.12L256,232.96Z"/>
+  <path id="TopBottom" class="cls-2" d="M256,279.04L177.664,403.456,256,325.12l78.336,78.336Zm0-46.08,78.336-124.416L256,186.88l-78.336-78.336Z"/>
+</svg>

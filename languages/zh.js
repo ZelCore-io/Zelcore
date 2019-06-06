@@ -868,7 +868,7 @@ export default {
     cryptowolf_wants_trade: "CryptoWolf想交易。向CryptoWolf发送资金。",
     cryptowolf_refused: "被CryptoWolf拒绝交换！",
     cryptowolf_error_markets: "获取当前CryptoWolf市场时出错。",
-    cryptowolf_error_pair: "获取当前CryptoWolf {pair}对时出错。",   
+    cryptowolf_error_pair: "获取当前CryptoWolf {pair}对时出错。",
     cryptowolf_exchange_hour: "一个交易通常需要一个小时完成。",
     cryptowolf_is_initializing: "CryptoWolf正在初始化中",
     cryptowolf_terms_agree: "为了达成交易，请阅读并同意CryptoWolf条款",

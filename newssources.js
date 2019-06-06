@@ -1371,6 +1371,33 @@ const newssources = {
         pic: "static/logos/FUEL.svg",
       },
     ],
+    ripple: [
+      {
+        name: "Ripple Blog",
+        feed: "https://ripple.com/insights/feed",
+        site: "https://ripple.com/",
+        about: "Ripple is centralized payment protocol used to hold fiat currency, cryptocurrency and commodities. Ripple has been adopted by banks and payment networks as settlement infrastructure technology.",
+        pic: "static/logos/XRP.svg",
+      },
+    ],
+    axe: [
+      {
+        name: "Axe Reddit",
+        feed: "https://www.reddit.com/r/AXErunners/.rss",
+        site: "https://axerunners.com/",
+        about: "AXE is a decentralized X11-based cryptocurrency. The foundation of AXE network is hybrid PoW/PoSe system. First-tier nodes provide hash power to move data and secure the blockchain, while the second tier of full nodes adds extra privacy and increases network performance.",
+        pic: "static/logos/AXE.svg",
+      },
+    ],
+    unussedleo: [
+      {
+        name: "Bitfinex",
+        feed: "https://medium.com/feed/@bitfinex",
+        site: "https://medium.com/@Bitfinex",
+        about: "Bitfinex is a cryptocurrency exchange owned and operated by iFinex Inc., which is headquartered in Hong Kong and registered in the British Virgin Islands. Their LEO Token is mostly used for reduced exchange fees.",
+        pic: "static/logos/LEO.svg",
+      },
+    ],
   },
 };
 

@@ -6414,6 +6414,97 @@ const coininfo = {
       },
     },
   },
+  axe: {
+    description: "AXE is a decentralized X11-based cryptocurrency. The foundation of AXE network is hybrid PoW/PoSe system. First-tier nodes provide hash power to move data and secure the blockchain, while the second tier of full nodes adds extra privacy and increases network performance.",
+    total_supply: 21000000,
+    circulating_supply: 4763453,
+    links: {
+      homepage: [
+        "https://axerunners.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://insight.axecore.net/",
+        "https://explorer.axe.zelcore.io/",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/BqhteaU",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/axerunners",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2569112",
+      telegram_channel_identifier: "https://t.me/axerunners",
+      subreddit_url: "https://www.reddit.com/r/AXErunners",
+      repos_url: {
+        github: [
+          "https://github.com/AXErunners",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  unussedleo: {
+    description: "LEO, a utility token at the heart of the iFinex ecosystem",
+    total_supply: 1000000000,
+    circulating_supply: 660000000,
+    links: {
+      homepage: [
+        "https://www.bitfinex.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "https://etherscan.io/address/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://medium.com/bitfinex",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/bitfinex",
+      facebook_username: "https://www.facebook.com/bitfinex1",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/bfxtelegram",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "",
+          "",
+          "",
+          "",
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   zelcash: {
     description: "Zelcash is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelDex and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,

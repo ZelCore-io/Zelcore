@@ -108,7 +108,8 @@ export default {
     sign: "signer",
     sign_and_send: "Signer et envoyer",
     new_pin: "Nouveau code PIN",
-    easy_login_text: "Zel ID Easy Login fournit une option stockée localement pour vous connecter rapidement à un compte en utilisant la phrase sélectionner, le PIN, l'empreinte digitale ou la reconnaissance faciale. Easy Login nécessite l'activation de d2FA sur votre compte et ne peut être activé que pour un seul compte!",
+    easy_login_text: "Zel ID Easy Login fournit une option stockée localement pour vous connecter rapidement à un compte en utilisant la phrase sélectionner, le PIN, l'empreinte digitale ou la reconnaissance faciale. \n"
+    + "Easy Login nécessite l'activation de d2FA sur votre compte et ne peut être activé que pour un seul compte!",
     easy_login_disabled: "Easy Login désactivée",
     easy_sign_phrase: "Phrase Easy Sign invalide",
     easy_login_phrase_no_match: "Les phrases Easy Login ne correspondent pas",
@@ -160,7 +161,8 @@ export default {
     no_keep_copy: "ZelCore ne conserve pas de copie de votre mot de passe non chiffré, que ce soit localement ou à distance. En raison de cette fonctionnalité, il n’existe aucun moyen de récupérer le mot de passe, ni de le changer. \n"
     + "Si vous perdez (ou oubliez) votre nom d'utilisateur ou votre mot de passe, vous perdrez l'accès à votre portefeuille de façon PERMANENTE. Il est donc TRÈS IMPORTANT et IMPÉRATIF de conserver une copie de vos informations dans un endroit sûr.",
     software_as_is: "LE LOGICIEL EST FOURNI 'TEL QUEL', SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS DE MANIÈRE LIBRE, ET NON LIMITÉE AUX GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'INFRACTION. \n"
-                    + "EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DE DOMMAGES OU D'AUTRE RESPONSABILITÉ, QU'IL SOIT UN ACTION DE CONTRAT, DE LICENCE OU AUTREMENT, RÉSULTANT DU LOGICIEL, DU LOGICIEL, DE L'UTILISATION OU DE TOUTE VENTE DANS LE LOGICIEL. ",
+                    + "EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DE DOMMAGES OU D'AUTRE RESPONSABILITÉ, QU'IL SOIT UN ACTION DE CONTRAT, DE LICENCE OU AUTREMENT, \n"
+                    + "RÉSULTANT DU LOGICIEL, DU LOGICIEL, DE L'UTILISATION OU DE TOUTE VENTE DANS LE LOGICIEL. ",
     backup_backup_backup: "SAUVEGARDE, SAUVEGARDE, SAUVEGARDE encore!",
     im_aware_register: "Je suis au courant, inscrivez-vous!",
 
@@ -307,7 +309,8 @@ export default {
     no_shieldable_amount: "Aucune quantité à protéger n'a été trouvée.",
     bouclier: "Bouclier",
     rescan_blockchain: "Rescan blockchain",
-    rescan_blockchain_info: "Parcourt la blockchain pour trouver les transactions manquantes dans votre portefeuille. Utile si vous avez importé une adresse dont vous savez qu'elle contient des fonds. Cette action redémarre le daemon de monnaies avec l'option de réanalyse. Votre portefeuille ne sera pas opérationnel pendant au moins une heure! ",
+    rescan_blockchain_info: "Parcourt la blockchain pour trouver les transactions manquantes dans votre portefeuille. Utile si vous avez importé une adresse dont vous savez qu'elle contient des fonds. Cette action redémarre le daemon de monnaies avec l'option de réanalyse. \n"
+    + "Votre portefeuille ne sera pas opérationnel pendant au moins une heure! ",
     rescan: "Rescan",
     configuration_file: "Fichier de configuration",
     configuration_file_info: "Modifiez facilement le fichier de configuration de votre monnaie directement dans ZelCore.",
@@ -398,14 +401,16 @@ export default {
     continue_zelnode_setup: "Continuer la configuration de ZelNode",
     blocks: "Blocs",
     setup: "Installer",
-    welcome_zelnodes_first: "Bienvenue dans ZelNodes. Tout d'abord, il est recommandé de sauvegarder nos adresses existantes. Vous pouvez sauvegarder chaque clé privée en plaçant votre portefeuille à l'emplacement souhaité ou en sauvegardant une clé privée contenant uniquement les adresses de votre choix.",
+    welcome_zelnodes_first: "Bienvenue dans ZelNodes. Tout d'abord, il est recommandé de sauvegarder nos adresses existantes. \n"
+    + "Vous pouvez sauvegarder chaque clé privée en plaçant votre portefeuille à l'emplacement souhaité ou en sauvegardant une clé privée contenant uniquement les adresses de votre choix.",
     backup_single_address: "Sauvegarder une adresse unique",
     backup_all_addresses: "Sauvegarder toutes les adresses",
     skip: "Passer",
     backup_address_info: "Ceci générera un fichier dans le répertoire d'exportation listant toutes les clés privées avec leurs adresses associées.",
     enter_zelnode_name: "Entrez le nom de votre ZelNode",
     automatic_log_out: "Déconnexion automatique",
-    auto_log_out_info_full_node: "Génial! Examinez vos paramètres de déconnexion automatique. Les opérations dans un nœud complet prennent un certain temps, en particulier lorsque vous avez besoin de réindexer. Nous vous recommandons donc de définir la déconnexion automatique à une heure ultérieure ou de la désactiver en déplaçant le curseur.",
+    auto_log_out_info_full_node: "Génial! Examinez vos paramètres de déconnexion automatique. Les opérations dans un nœud complet prennent un certain temps, en particulier lorsque vous avez besoin de réindexer. \n"
+    + "Nous vous recommandons donc de définir la déconnexion automatique à une heure ultérieure ou de la désactiver en déplaçant le curseur.",
     next_step: "Prochaine étape",
     configuration_done_reindex1: "Nous avons modifié votre fichier de configuration. Un nouvel index de votre chaîne de blocs est nécessaire pour que ZelNodes fonctionne correctement.",
     configuration_done_reindex2: "Vous pouvez revérifier la configuration modifiée ci-dessous. Continuez en la sauvegardant pour lancer la réindexation. L'action de réindexation prendra plusieurs heures.",
@@ -670,7 +675,8 @@ export default {
 
     // Infobulles et texte de script
     auto_updates_disabled: "Les mises à jour automatiques de ZelCore sont désactivées. Votre version est peut-être obsolète!",
-    launches_a_fullnode_extended: "Lance un nœud complet avec des fonctions étendues! ZelCore utilisant le cryptage, vos fonds ne seront pas accessibles dans un logiciel de nœud complet autre que ZelCore. FullNode est réservé aux utilisateurs expérimentés. Si vous ne savez pas ce qu'est le FullNode, ne l'utilisez pas!",
+    launches_a_fullnode_extended: "Lance un nœud complet avec des fonctions étendues! ZelCore utilisant le cryptage, vos fonds ne seront pas accessibles dans un logiciel de nœud complet autre que ZelCore. \n"
+    + "FullNode est réservé aux utilisateurs expérimentés. Si vous ne savez pas ce qu'est le FullNode, ne l'utilisez pas!",
     wrong_pin: "Mauvais code PIN - Accès refusé",
     error_d2fa_cert: "Une erreur dans le certificat d2FA pourrait constituer une atteinte à la sécurité. Veuillez contacter l'équipe ZelCore.",
     incapable_to_paste: "Impossible de coller",
