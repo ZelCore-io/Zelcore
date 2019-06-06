@@ -3,7 +3,7 @@ export default {
     // Universal
     zelcore: "ZelCore",
     zelcoreplus: "ZelCore+",   
-  	zelcore_website: "ZelCore.io",
+    zelcore_website: "ZelCore.io",
     zelcore_website_text: "ZelCore Веб-сайт",
     info_zelcore_io: "info@zelcore.io",
     save: "Зберегти",
@@ -171,7 +171,7 @@ export default {
     retrieving: "Витяг детермінованих гаманців",
 
     // Portfolio.vue
-  	add_asset: "Додати актив",
+    add_asset: "Додати актив",
     add_assets: "Додати активи",
     stable_assets: "Стабільні активи",
     coins: "Монети",
@@ -184,7 +184,7 @@ export default {
     add_non_zero_balances: "Додати активи з не нульовим балансом до портфеля",
     hide_zero_balance_assets: "Сховати активи з нульовим балансом з мого портфеля",
     smartify: "Smartify", // name of feature
-  	hide_assets: "Приховати активи",
+    hide_assets: "Приховати активи",
 
     // Install.vue
     installing: "Установка",
@@ -254,7 +254,7 @@ export default {
     no_openalias_found: "Не знайдено записів OpenAlias для: {domain}",
     multiple_addresses_found: "Для даного домену знайдено кілька адрес: {domain}",
     failed_decode_oa: "Не вдалося декодувати адресу OpenAlias: {address}: {error}",
-	  scan: "Сканування",
+    scan: "Сканування",
 
     // mainland.vue
     take_some_mins: "Це може зайняти кілька хвилин, будьте терплячими.",
@@ -524,7 +524,7 @@ export default {
     private_keys_in_wif: "Приватні ключі у Wallet Import Format для ",
     d2fa_is_not_activated_yet: "d2FA ще не активовано. Easy Login не може бути встановлений.",
     language: "Мова",
-  	full_node_encryption: "Шифрування гаманця повної ноди",
+    full_node_encryption: "Шифрування гаманця повної ноди",
     full_node_encryption_message: "ZelCore шифрує ваш файл повної ноди wallet.dat за замовчуванням. Це робить файл wallet.dat асоційованим лише з одним обліковим записом ZelCore, а шифрування також запобігає доступу інших осіб до вашого гаманця. \n"
     + "Однак ваш wallet.dat повної ноди не може бути доступний з іншого гаманця ніж ZelCore, наприклад, ZELmate. Якщо шифрування вимкнено, wallet.dat поділяється між усіма обліковими записами ZelCore, а також між іншими гаманцями.",
 
@@ -597,7 +597,7 @@ export default {
     exchange_in_progress: "Проводиться обмін!",
     error_obtaining_minimum_trade: "Помилка отримання мінімально можливої суми для торгівлі",
     error_obtaining_probable_ex_amount: "Помилка отримання можливої обмінної суми",
-	  selling_amount_higher_cryptowolf: "Сума продажу вище, ніж CryptoWolf може обробити. Натисніть кнопку Max, щоб ввести максимально допустиму суму продажу.",
+    selling_amount_higher_cryptowolf: "Сума продажу вище, ніж CryptoWolf може обробити. Натисніть кнопку Max, щоб ввести максимально допустиму суму продажу.",
 
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML/KYC.",
@@ -648,7 +648,7 @@ export default {
     coinswitch: "CoinSwitch",
     cryptowolf: "CryptoWolf",
     cryptowolf_terms: "Умови CryptoWolf",
-  	cryptowolf_status: "Статус CryptoWolf",
+    cryptowolf_status: "Статус CryptoWolf",
     cryptowolf_error_status_last: "Помилка при отриманні поточного стану останнього обміну з CryptoWolf",
 
     // install.vue
@@ -1056,7 +1056,7 @@ export default {
     buy_orders_total: "Купити замовлення всього:",
     sell_orders_total: "Продати замовлення всього:",
     no_buy_orders: "Немає ордерів на купівлю",
-    no_sell_orders: "Немає ордерів на продажу",
+    no_sell_orders: "Немає ордерів на продаж",
     loading: "Завантаження...",
     available_amount: "Доступна сума:",
     price_two: "Ціна:",
@@ -1091,8 +1091,8 @@ export default {
     error_buy_order: "Помилка розміщення ордеру на купівлю",
     enter_price_sell: "Введіть ціну, за якою продаватиметься спочатку",
     enter_amount__sell_first: "Введіть суму, яку продати спочатку",
-    sell_order_placed: "Ордер на продажу встановлено",
-    error_sell_order: "Помилка розміщення ордеру на продажу",
+    sell_order_placed: "Ордер на продаж встановлено",
+    error_sell_order: "Помилка розміщення ордеру на продаж",
     market_pause: "Ринок {0}/{1} призупинено",
     price_order_book: "Ціна ({0}/{1})",
     ask: "Ask",
