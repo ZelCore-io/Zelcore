@@ -184,7 +184,7 @@ export default {
     add_non_zero_balances: "Додати активи з не нульовим балансом до портфеля",
     hide_zero_balance_assets: "Сховати активи з нульовим балансом з мого портфеля",
     smartify: "Smartify", // name of feature
-  	hide_assets: "Приховати активи",
+    hide_assets: "Приховати активи",
 
     // Install.vue
     installing: "Установка",
@@ -254,7 +254,7 @@ export default {
     no_openalias_found: "Не знайдено записів OpenAlias для: {domain}",
     multiple_addresses_found: "Для даного домену знайдено кілька адрес: {domain}",
     failed_decode_oa: "Не вдалося декодувати адресу OpenAlias: {address}: {error}",
-	  scan: "Сканування",
+    scan: "Сканування",
 
     // mainland.vue
     take_some_mins: "Це може зайняти кілька хвилин, будьте терплячими.",
