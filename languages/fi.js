@@ -482,7 +482,7 @@ export default {
     connecting: "Yhdistää...",
     connected: "Yhdistetty",
 
- ffullnode: "Valitettavasti emme tarjoa täydensolmun tukea Ethereumille tällä hetkellä. Ole hyvä ja käytä geth:ia tai parity:a.",
+    ffullnode: "Valitettavasti emme tarjoa täydensolmun tukea Ethereumille tällä hetkellä. Ole hyvä ja käytä geth:ia tai parity:a.",
     no_ethereumclassic_fullnode: "Valitettavasti emme tarjoa täydensolmun tukea Ethereum Classic:lle tällä hetkellä.",
     no_bitcoincash_fullnode: "Valitettavasti emme tarjoa täydensolmun tukea Bitcoin Cash ABC:lle tällä hetkellä.",
     no_bitcoinsv_fullnode: "Valitettavasti emme tarjoa täydensolmun tukea Bitcoin Cash SV:lle tällä hetkellä.",
