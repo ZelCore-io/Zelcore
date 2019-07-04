@@ -1,4 +1,6 @@
-# ZelCore
+# ZelCore [![Build Status](https://travis-ci.com/zelcash/ZelTreZ.svg?token=AqeptMGfHhWiejBbMZiF&branch=master)](https://travis-ci.com/zelcash/ZelTreZ)
+
+# ZelCore Mobile [![Build Status](https://travis-ci.com/zelcash/ZelTreZ_Mobile.svg?token=AqeptMGfHhWiejBbMZiF&branch=master)](https://travis-ci.com/zelcash/ZelTreZ_Mobile)
 
 - Open issue or create a Pull request
 - Add or correct language (look at en.js for English source for translation)
