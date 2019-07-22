@@ -6549,6 +6549,310 @@ const coininfo = {
       },
     },
   },
+  beaxy: {
+    description: "Beaxy aims to create the ultimate all-in-one cryptocurrency exchange, with more tools at your disposal than ever before, and a user experience that is unmatched. Lifetime referral rewards, coin staking loyalty program, instant FIAT deposits, 24/7 customer support, charting inside the exchange, mobile app functionality with custom alerts, unique trading pairs, four layers of security architecture, and enhanced transaction throughput are just some of the ways we stand out from other platforms and offer you the best possible trading experience.",
+    total_supply: 500000000,
+    circulating_supply: 500000000,
+    links: {
+      homepage: [
+        "https://www.beaxy.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "https://ethplorer.io/address/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "https://enjinx.io/eth/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://medium.com/beaxy-exchange",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://www.reddit.com/r/BeaxyExchange/",
+        "https://twitter.com/BeaxyExchange",
+        "",
+      ],
+      announcement_url: [
+        "https://support.beaxy.com/hc/en-us/sections/360000239354-Announcements",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/BeaxyExchange",
+      facebook_username: "https://www.facebook.com/beaxyexchange/",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2912122.0",
+      telegram_channel_identifier: "https://t.me/Beaxy",
+      subreddit_url: "https://www.reddit.com/r/BeaxyExchange/",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  stableusd: {
+    description: "StableUSD (USDS) is a fiat-collateralized stablecoin created by Stably. Each StableUSD token is legally backed and redeemable for a US Dollar held in escrow accounts managed by Stably's regulated trustees, such as Prime Trust.",
+    total_supply: 5742204,
+    circulating_supply: 5742204,
+    links: {
+      homepage: [
+        "http://www.stably.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "https://ethplorer.io/address/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "https://enjinx.io/eth/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://medium.com/stably-blog",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "https://twitter.com/StablyCoin",
+        "",
+      ],
+      announcement_url: [
+        "https://medium.com/@stablycoin",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/StablyCoin",
+      facebook_username: "https://www.facebook.com/stablycoin",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  nuke: {
+    description: "Half Life ($NUKE) is a currency that grows by shrinking.",
+    total_supply: 965389,
+    circulating_supply: 965389,
+    links: {
+      homepage: [
+        "http://www.nuketoken.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "https://ethplorer.io/address/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "https://enjinx.io/eth/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/joinchat/AAAAAFRkqWjAFv-iFvtomQ",
+        "https://discordapp.com/invite/6yWt6Xv",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/NukeToken/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/joinchat/AAAAAFRkqWjAFv-iFvtomQ",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  dogecoin: {
+    description: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
+    total_supply: null,
+    circulating_supply: 120080274518,
+    links: {
+      homepage: [
+        "https://dogecoin.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://dogechain.info/",
+        "https://live.blockcypher.com/doge/",
+        "https://dogechain.info/chain/Dogecoin",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "http://webchat.freenode.net/?nick=Shibe..&channels=%23dogecoin&prompt=1",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/dogecoin/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "http://www.reddit.com/r/dogecoin",
+      repos_url: {
+        github: [
+          "https://github.com/dogecoin/dogecoin",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  digibyte: {
+    description: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
+    total_supply: 21000000000,
+    circulating_supply: 11959860275,
+    links: {
+      homepage: [
+        "https://www.digibyte.io",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://digiexplorer.info/",
+        "https://chainz.cryptoid.info/dgb/",
+        "https://digibyteblockexplorer.com/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/DigiByteCoin",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/DigiByteCoin/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/Digibyte",
+      repos_url: {
+        github: [
+          "https://github.com/digibyte-core",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  sinovate: {
+    description: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
+      + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
+    total_supply: 1186614344,
+    circulating_supply: 503123490,
+    links: {
+      homepage: [
+        "https://sinovate.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "http://explorer.sinovate.io/",
+        "http://sin.ccore.online/orphan",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/SinovateChain",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/SinovateChain/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/SINOVATEblockchain",
+        ],
+        bitbucket: [],
+      },
+    },
+    stellar: {
+      description: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
+        + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
+      total_supply: 105142706350,
+      circulating_supply: 19425874842,
+      links: {
+        homepage: [
+          "https://www.stellar.org/",
+          "",
+          "",
+        ],
+        explorer: [
+          "https://dashboard.stellar.org/",
+          "https://stellar.expert/explorer/public/",
+          "https://steexp.com/",
+          "https://stellarscan.io/",
+          "",
+        ],
+        official_forum_url: [
+          "https://keybase.io/team/stellar.public",
+          "https://stellarcommunity.org/",
+          "https://galactictalk.org/",
+        ],
+        chat_url: [
+          "https://keybase.io/team/stellar.public",
+          "https://stellarcommunity.org/",
+          "https://galactictalk.org/",
+        ],
+        announcement_url: [
+          "https://bitcointalk.org/index.php?topic=1428573.0",
+          "",
+        ],
+        twitter_screen_name: "https://twitter.com/stellarorg/",
+        facebook_username: "",
+        bitcointalk_thread_identifier: "",
+        telegram_channel_identifier: "",
+        subreddit_url: "",
+        repos_url: {
+          github: [
+            "https://github.com/stellar",
+          ],
+          bitbucket: [],
+        },
+      },
+    },
+  },
 };
 export default {
   coininfo,

@@ -1380,6 +1380,15 @@ const newssources = {
         pic: "static/logos/XRP.svg",
       },
     ],
+    eos: [
+      {
+        name: "EOS news",
+        feed: "https://cointelegraph.com/rss/tag/eos",
+        site: "https://eos.io/",
+        about: "EOS.IO is a blockchain protocol powered by the native cryptocurrency EOS",
+        pic: "static/logos/EOS.svg",
+      },
+    ],
     axe: [
       {
         name: "Axe Reddit",
@@ -1396,6 +1405,70 @@ const newssources = {
         site: "https://medium.com/@Bitfinex",
         about: "Bitfinex is a cryptocurrency exchange owned and operated by iFinex Inc., which is headquartered in Hong Kong and registered in the British Virgin Islands. Their LEO Token is mostly used for reduced exchange fees.",
         pic: "static/logos/LEO.svg",
+      },
+    ],
+    beaxy: [
+      {
+        name: "Beaxy Exchange Medium",
+        feed: "https://medium.com/feed/beaxy-exchange",
+        site: "https://medium.com/beaxy-exchange",
+        about: "Blog related to Beaxy Exchange",
+        pic: "static/logos/BXY.svg",
+      },
+    ],
+    stableusd: [
+      {
+        name: "Stably Medium",
+        feed: "https://medium.com/feed/stably-blog",
+        site: "https://medium.com/stably-blog",
+        about: "StableUSD (USDS) is a fiat-collateralized stablecoin created by Stably. Each StableUSD token is legally backed and redeemable for a US Dollar held in escrow accounts managed by Stably's regulated trustees, such as Prime Trust.",
+        pic: "static/logos/USDS.svg",
+      },
+    ],
+    nuke: [
+      {
+        name: "Half Life Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=NukeToken",
+        site: "https://twitter.com/NukeToken",
+        about: "NUKE is a currency that grows by shrinking.",
+        pic: "static/logos/NUKE.svg",
+      },
+    ],
+    dogecoin: [
+      {
+        name: "Dogeocin Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=dogecoin",
+        site: "https://twitter.com/dogecoin",
+        about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
+        pic: "static/logos/DOGE.svg",
+      },
+    ],
+    digibyte: [
+      {
+        name: "DigiByte Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=DigiByteCoin",
+        site: "https://twitter.com/DigiByteCoin",
+        about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
+        pic: "static/logos/DGB.svg",
+      },
+    ],
+    sinovate: [
+      {
+        name: "Sinovate Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=SinovateChain",
+        site: "https://twitter.com/SinovateChain",
+        about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
+        + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
+        pic: "static/logos/SIN.svg",
+      },
+    ],
+    stellar: [
+      {
+        name: "Stellar Medium",
+        feed: "https://medium.com/feed/@StellarOrg/",
+        site: "https://medium.com/@StellarOrg",
+        about: "The Stellar network is an open source, distributed, and community owned network used to facilitate cross-asset transfers of value.",
+        pic: "static/logos/XLM.svg",
       },
     ],
   },

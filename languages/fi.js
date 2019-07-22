@@ -1268,7 +1268,7 @@ export default {
     specify_wallet: "Ole hyvä ja määrittele lompakko",
     invalid_lot_size: "Virheellinen määrä. Määrän pitää olla arvon {value} monikerta.",
     bitmex_apilimit: "Bittmexilla on API määrärajoitus, joka voi johtaa virheeseen, jossa vaihtopörssi ei lataannu ollenkaan. Jos kohtaat ongelmia, ole hyvä ja ota yhteyttä Bitmexiin nostaaksesi API kirjautumistietojesi määrää.",
-    
+
     // mobile js
     unable_save_avatar: "Ei voida tallentaa uutta avataria",
     failed_change_avatar: "Avatarin vaihto epäonnistui",
