@@ -14,9 +14,10 @@ d) Beginning ? is mandatory
 e) Action parameter 'action' is expected. Without specifying an ?action= protocol will fall back to its default action which is a pay action
 
 ### Protocol actions
-Currently 2 protocol actions are implemented with many more to come
+Currently 3 protocol actions are implemented with many more to come
 a) pay
 b) sign
+c) getaddress
 
 ### Pay action
 Pay action is designed for third parties to request payments for ZelCore users. An example is a merchendise store generating a zel protocol url link which upon clicking launches ZelCore and fills payments neccessary data and thus significantly simplifies payment process while keeping high security standards.
@@ -49,7 +50,7 @@ b) *message* - a message that user shall sign
 
 **Sign action can have**
 c) *icon* - and Icon of your service. This icon will be shown to the user
-d) *callback*- Callback url to which ZelCore POSTs the data in following format
+d) *callback* - Callback url to which ZelCore POSTs the data in following format
 
 > stringified data as a standard query string of following Object =
 ```
@@ -66,5 +67,48 @@ d) *callback*- Callback url to which ZelCore POSTs the data in following format
 
 *Example of sign action url*
 ```
-zel:?action=sign&message=Zel%20ID%20Login%20vdcwxyehi3z6ro9t7jszq&icon=http%3A%2F%2Fzelid.io%2Fimg%2FzelID.svg&callback=http%3A%2F%2Fdev.authparty.io%2Fapi%2Fv1%2Fauthorize_login%3Fmodal_id%3DWpKmMMyWqRZonzA
+zel:?action=sign&message=Zel%20ID%20Login%20vdcwxyehi3z6ro9t7jszq&icon=http%3A%2F%2Fzelid.io%2Fimg%2FzelID.svg&callback=http%3A%2F%2Fzelid.io%2Fapi%2Flogin
+```
+
+### GetAddress Action
+GetAddress action is designed to provide third parties with information of a currently logged users address for a specific coin requested by the uri scheme design of zelcore. Websites and other application can simply request users address via Zel protocol to fill it to forms and other usecases. ZelCore opens a dialog with an easy possibility to copy an address and also can provide a response with a callback via default post option, get or deeplink callback type of option.
+
+**GetAddress action must have**
+a) *?action=getaddress* - getaddress action must be defined
+b) *coin* - a coin following zelcores uri scheme that a third party is requesting
+
+**GetAddress action can have**
+c) *icon* - and Icon of your service. This icon will be shown to the user
+d) *callback* - Callback url to which ZelCore POSTs, GETs or deeplink the data in format described below
+e) *callbacktype* - Callback type either post, get, deeplink. Defaults to post
+
+Example of Post response
+> stringified data as a standard query string of following Object =
+```
+{
+   address - requested coin address eg. t1W3DXSzNbXPWF7ghEU3xcqjLfBAKJGcmN4
+}
+```
+> Furthermore following header will be attached
+```
+"Content-Type": "application/x-www-form-urlencoded"
+```
+
+Example of Get response
+- assumption of callback address is https://zelprotocolcallback.io/receivedaddress/secrettoken?address=
+> Following url will be asked by zelcore
+```
+https://zelprotocolcallback.io/receivedaddress/secrettoken?address=t1W3DXSzNbXPWF7ghEU3xcqjLfBAKJGcmN4
+```
+
+Example of Deeplink response
+- assumption of callback address is zel:?action=receiveaddress&coin=zelcash&address=
+> Following deeplink will be opened by zelcore
+```
+zel:?action=receiveaddress&coin=zelcash&address=t1W3DXSzNbXPWF7ghEU3xcqjLfBAKJGcmN4
+```
+
+*Example of getaddress action url*
+```
+zel:?action=getaddress&coin=zelcash&icon=http%3A%2F%2Fzelid.io%2Fimg%2FzelID.svg&callback=http%3A%2F%2Fzelid.io%2Fapi%2Fgetaddress
 ```
