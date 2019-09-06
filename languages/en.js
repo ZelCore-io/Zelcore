@@ -56,6 +56,7 @@ export default {
     exit_full_node: "Exit full node",
     action_shutdown_fullnode: "This action will shut down your full node wallet. Do you wish to continue?",
     close_action: "Close Action",
+    news: "News",
 
     // words
     approx_symbol: "~",
@@ -69,6 +70,8 @@ export default {
     apps: "Apps",
     exchange: "Exchange",
     portfolio: "Portfolio",
+    token: "Token:",
+    tokenUnit: "TOKEN",
 
     // Zel ID
     zel_id: "Zel ID",
@@ -176,6 +179,12 @@ export default {
     stable_assets: "Stable Assets",
     coins: "Coins",
     eth_tokens: "Ethereum Tokens",
+    ethereum_network: "Ethereum Network",
+    tron_network: "Tron Network",
+    omni_network: "Omni Layer",
+    neo_network: "NEO Network",
+    ontology_network: "Ontology Network",
+    giftcard_tokens: "Giftcard Tokens",
     my_assets: "My Assets",
     add_hide_smartify: "Add, Hide or Smartify your Assets",
     add_assets_portfolio: "Add Assets to Portfolio",
@@ -241,6 +250,7 @@ export default {
                          + "a transaction to be visible on Omni Explorer and even more to be shown in transaction table, please be patient! Transaction is instantly visible in your Bitcoin ZelCore wallet.",
     warning_monero_fee: "Warning: Monero fee is not known prior the transaction creation, this is just an approximation. Transaction creation takes a few seconds.",
     warning_ripple: "Ripple fee is calculated automatically depending on the network. It takes a while till transaction is visible in transaction history and on the explorer.",
+    warning_neo: "Transactions take a few seconds to be reflected in transaction table and shown on explorer",
     edit: "Edit",
     delete: "Delete",
     show_in_explorer: "Show in explorer",
@@ -269,6 +279,7 @@ export default {
     new_account: "New account",
     no_eos_accounts: "No EOS accounts available",
     select_account: "Select account",
+    neo_whole_numbers: "Please, enter only whole amount of NEO (1, 2 etc... )",
 
     // mainland.vue
     take_some_mins: "This can take a few minutes, please be patient.",
@@ -664,7 +675,7 @@ export default {
     cryptowolf_terms: "CryptoWolf Terms",
     cryptowolf_status: "CryptoWolf status",
     cryptowolf_error_status_last: "Error while obtaining current status of last exchange from CryptoWolf",
-    cryptowolf_trading_disabled: "Cryptowolf trading is temporarily disabled due to poor peformance and lack of features.",
+    cryptowolf_trading_disabled: "Cryptowolf trading is temporarily disabled due to not being in complience with ZelCore standards.",
 
     // install.vue
     sprout_proving_key: "Sprout proving key",
@@ -703,6 +714,9 @@ export default {
     no_ripple_fullnode: "Sorry, We do not offer full node support for Ripple at this moment.",
     no_stellar_fullnode: "Sorry, We do not offer full node support for Stellar Lumens at this moment.",
     no_eos_fullnode: "Sorry, We do not offer full node support for EOS at this moment.",
+    no_tron_fullnode: "Sorry, We do not offer full node support for TRON at this moment.",
+    no_neo_fullnode: "Sorry, We do not offer full node support for NEO at this moment.",
+    no_ontology_fullnode: "Sorry, We do not offer full node support for Ontology at this moment.",
     sorry_showing_fees: "We are sorry, showing fees is currently unsupported. Please examine the transaction on an explorer by clicking on it.",
     error_obtaining_usdt_csv: "Error while obtaining USDT data for CSV export",
     no_message_received: "No message received to sign",
@@ -1057,6 +1071,7 @@ export default {
     sync: "Sync",
     syncing: "Syncing...",
     synchronize_wallet: "Synchronize wallet",
+    remove_asset: "Remove asset from portfolio tracker",
     amount_must_be_filled: "Amount must be filled",
     price_must_be_filled: "Price must be filled",
     type_must_be_filled: "Type must be filled",
@@ -1309,12 +1324,12 @@ export default {
     country_restriction: "Restricted access",
     not_enough_kmd_reward: "Not enough KMD rewards to create a transaction",
     calculating: "Calculating...",
-    komodo_rewards: "Komodo Rewards",
-    claim_komodo_reward: "Claim Komodo Rewards",
-    claim_komodo_reward_info: "Here you can easily claim your Komodo rewards",
-    claim_komodo_amount: "Possible amount to claim: {value} {unit}",
-    claim_komodo_amount_calc: "Possible amount to claim: {value}",
-    claim_komodo_fee: "Transaction fee: {value} {unit}",
+    coin_rewards: "{coin} Rewards",
+    claim_coin_reward: "Claim {coin} Rewards",
+    claim_coin_reward_info: "Here you can easily claim your {coin} rewards",
+    claim_coin_amount: "Possible amount to claim: {value} {unit}",
+    claim_coin_amount_calc: "Possible amount to claim: {value}",
+    claim_coin_fee: "Transaction fee: {value} {unit}",
     claim: "Claim",
     awaiting_coinrequest: "Awaiting CoinRequest...",
     view_on_coinrequest: "View on CoinRequest",
@@ -1324,6 +1339,27 @@ export default {
     no_memo_attached: "No memo attached",
     no_acc_or_wallet: "No active wallet or account is present in your ZelCore",
     no_stellar_tx_in_wallet: "No transaction associated with selected wallet found",
+    no_fiat_history: "Fiat history is unavailable",
+
+    voucher: "Voucher",
+    apply_voucher: "Apply Voucher",
+    voucher_days: "{0} days",
+    voucher_plan: "Voucher Plan:",
+    enter_voucher: "Enter Voucher",
+
+    insufficient_funds_for_ontology: "Inssufficient ontology gas.",
+    gas_claimed: "{coinname} GAS claimed. Transaction URL is {explorer}{txid}",
+
+    // getaddress request
+    eos_activation_required_or_not_present_in_wallet: "Request for an EOS address was received but an EOS account activation is required or EOS is not present in default exchange wallet",
+    invalid_getaddress_request: "An invalid request for get default address of a specific coin received.",
+    requested_address: "Requested address for {coinname}: ",
+    getaddress_asked_by: "Following entity is asking for your address: {asker}",
+    copy_address: "Copy address",
+    provide_address: "Provide address",
+    address_sent: "Address sent",
+    address_sending_failed: "Address sending failed",
+    address_requested: "Address requested",
 
     // mobile js
     unable_save_avatar: "Unable to save new avatar",
@@ -1348,5 +1384,6 @@ export default {
     high: "High",
     low: "Low",
     close_zelcore_q: "Exit ZelCore?",
+    swipe_for_news: "Swipe for News",
   },
 };

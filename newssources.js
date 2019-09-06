@@ -150,7 +150,7 @@ const newssources = {
     zcash: [
       {
         name: "Zcash Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=zcashco",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=zcashco",
         site: "https://twitter.com/zcashco",
         about: "Zcash is a privacy-protectig, digital currency built on strong science.",
         pic: "static/logos/ZEC.svg",
@@ -159,7 +159,7 @@ const newssources = {
     bitcoinz: [
       {
         name: "BitcoinZ Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=BitcoinZTeam",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=BitcoinZTeam",
         site: "https://twitter.com/bitcoinzteam",
         about: "BitcoinZ - 100% community focused and ran Zcash fork.",
         pic: "static/logos/BTCZ.svg",
@@ -177,7 +177,7 @@ const newssources = {
     bitcore: [
       {
         name: "Bitcore Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=Bitcore_BTX",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=Bitcore_BTX",
         site: "  https://twitter.com/Bitcore_BTX",
         about: "Bitcore is a cryptocurrency that is based on 0.15.2 of Bitcoin Core.",
         pic: "static/logos/BTX.svg",
@@ -249,7 +249,7 @@ const newssources = {
     kucoin: [
       {
         name: "Kucoin Blog",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=kucoincom",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=kucoincom",
         site: "https://twitter.com/kucoincom",
         about: "Kucoin is a cryptocurrency exchange.",
         pic: "static/logos/KCS.svg",
@@ -404,7 +404,16 @@ const newssources = {
         name: "Tether Blog",
         feed: "https://tether.to/feed/",
         site: "https://tether.to/press/",
-        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol.",
+        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on the Ethereum blockchain via the ERC20 Token Standard.",
+        pic: "static/logos/USDT.svg",
+      },
+    ],
+    usdtERC: [
+      {
+        name: "Tether Blog",
+        feed: "https://tether.to/feed/",
+        site: "https://tether.to/press/",
+        about: "USDT is a cryptocurrency asset issued on the Ethereum blockchain via the ERC20 Token Standard. It is also issued on the Bitcoin blockchain via the Omni Layer Protocol.",
         pic: "static/logos/USDT.svg",
       },
     ],
@@ -906,7 +915,7 @@ const newssources = {
     genesis: [
       {
         name: "Genesis Blog",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=genx_network",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=genx_network",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX.svg",
@@ -987,7 +996,7 @@ const newssources = {
     brd: [
       {
         name: "BRD Blog",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=brdhq",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=brdhq",
         site: "https://twitter.com/brdhq",
         about: "BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies.",
         pic: "static/logos/BRD.svg",
@@ -1050,7 +1059,7 @@ const newssources = {
     gunthy: [
       {
         name: "Gunthy Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=gunthyio",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=gunthyio",
         site: "https://twitter.com/Gunthyio",
         about: "Emotionless trading.",
         pic: "static/logos/GUNTHY.svg",
@@ -1104,7 +1113,7 @@ const newssources = {
     blox: [
       {
         name: "Blox Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=Blox_Official",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=Blox_Official",
         site: "https://twitter.com/Blox_Official",
         about: "Blox is a platform for managing crypto assets.",
         pic: "static/logos/CDT.svg",
@@ -1347,7 +1356,7 @@ const newssources = {
     dibicoin: [
       {
         name: "Dibicoin Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=dibicoin",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=dibicoin",
         site: "https://twitter.com/dibicoin",
         about: "Who let the DIBI out?",
         pic: "static/logos/DIBI.svg",
@@ -1428,7 +1437,7 @@ const newssources = {
     nuke: [
       {
         name: "Half Life Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=NukeToken",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=NukeToken",
         site: "https://twitter.com/NukeToken",
         about: "NUKE is a currency that grows by shrinking.",
         pic: "static/logos/NUKE.svg",
@@ -1437,16 +1446,34 @@ const newssources = {
     dogecoin: [
       {
         name: "Dogeocin Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=dogecoin",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=dogecoin",
         site: "https://twitter.com/dogecoin",
         about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
         pic: "static/logos/DOGE.svg",
       },
     ],
+    tron: [
+      {
+        name: "TRON",
+        feed: "https://medium.com/feed/@Tronfoundation",
+        site: "https://tron.network/",
+        about: "TRON (TRX) strives to build the future of a truly decentralized internet and global free content entertainment system that utilizes blockchain technology.",
+        pic: "static/logos/TRX.svg",
+      },
+    ],
+    bittorrent: [
+      {
+        name: "BitTorrent Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=bittorrent",
+        site: "https://twitter.com/bittorrent",
+        about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
+        pic: "static/logos/BTT.svg",
+      },
+    ],
     digibyte: [
       {
         name: "DigiByte Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=DigiByteCoin",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=DigiByteCoin",
         site: "https://twitter.com/DigiByteCoin",
         about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
         pic: "static/logos/DGB.svg",
@@ -1455,11 +1482,39 @@ const newssources = {
     sinovate: [
       {
         name: "Sinovate Twitter",
-        feed: "https://twitrss.me/twitter_user_to_rss/?user=SinovateChain",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=SinovateChain",
         site: "https://twitter.com/SinovateChain",
         about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
         + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
         pic: "static/logos/SIN.svg",
+      },
+    ],
+    neo: [
+      {
+        name: "NEO news",
+        feed: "https://neonewstoday.com/feed/",
+        site: "https://neo.org/",
+        about: "NEO (NEO), formerly Antshares, aims to build a 'smart economy' by incorporating digital assets, digital identities, and smart contracts.",
+        pic: "static/logos/NEO.svg",
+      },
+    ],
+    gas: [
+      {
+        name: "NEO news",
+        feed: "https://neonewstoday.com/feed/",
+        site: "https://neo.org/",
+        about: "NEO (NEO), formerly Antshares, aims to build a 'smart economy' by incorporating digital assets, digital identities, and smart contracts.",
+        pic: "static/logos/NEO.svg",
+      },
+    ],
+    neofish: [
+      {
+        name: "NEO news",
+        feed: "https://neonewstoday.com/feed/",
+        site: "https://neo.org/",
+        about: "FishChain, an Ethereum-based blockchain game, has announced its intention to launch a NEO-based counterpart called NeoFish, alongside an airdrop of the NEP-5 version of its FISH token.\n"
+        + "FishChain combines a mining mechanism and fishing gameplay with a token model, with the goal of creating an interactive, player-driven marketplace and ecosystem.",
+        pic: "static/logos/NEO.svg",
       },
     ],
     stellar: [
@@ -1471,6 +1526,83 @@ const newssources = {
         pic: "static/logos/XLM.svg",
       },
     ],
+    gcstar: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCSTAR.svg",
+      },
+    ],
+    gctgt: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCTGT.svg",
+      },
+    ],
+    gcwal: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCWAL.svg",
+      },
+    ],
+    gcbest: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCBEST.svg",
+      },
+    ],
+    gchd: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCHD.svg",
+      },
+    ],
+    gclowe: [
+      {
+        name: "Fabrix Medium",
+        feed: "https://medium.com/feed/fabrx-blockchain/",
+        site: "https://medium.com/fabrx-blockchain",
+        about: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+        pic: "static/logos/GCLOWE.svg",
+      },
+    ],
+    ontology: [
+      {
+        name: "Ontology Medium",
+        feed: "https://medium.com/feed/ontologynetwork/",
+        site: "https://medium.com/ontologynetwork",
+        about: "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+        + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
+        + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
+        pic: "static/logos/ONT.svg",
+      },
+    ],
+    ontologygas: [
+      {
+        name: "Ontology Medium",
+        feed: "https://medium.com/feed/ontologynetwork/",
+        site: "https://medium.com/ontologynetwork",
+        about: "Ontology gas is token used for paying transactions on ontology network. Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+        + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
+        + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
+        pic: "static/logos/ONG.svg",
+      },
+    ],
+
   },
 };
 
