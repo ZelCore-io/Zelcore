@@ -7713,76 +7713,118 @@ const coininfo = {
         bitbucket: [],
       },
     },
-    ontology: {
-      description: "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+  },
+  ontology: {
+    description: "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
       + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
       + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
-      total_supply: 1000000000,
-      circulating_supply: 533255142,
-      links: {
-        homepage: [
-          "https://ont.io/",
-          "",
-          "",
+    total_supply: 1000000000,
+    circulating_supply: 533255142,
+    links: {
+      homepage: [
+        "https://ont.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.ont.io/",
+      ],
+      official_forum_url: [
+        "https://www.reddit.com/r/OntologyNetwork/",
+      ],
+      chat_url: [
+      ],
+      announcement_url: [
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ontologynetwork",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/ontio",
         ],
-        explorer: [
-          "https://explorer.ont.io/",
-        ],
-        official_forum_url: [
-          "https://www.reddit.com/r/OntologyNetwork/",
-        ],
-        chat_url: [
-        ],
-        announcement_url: [
-          "",
-        ],
-        twitter_screen_name: "https://twitter.com/ontologynetwork",
-        facebook_username: "",
-        bitcointalk_thread_identifier: "",
-        telegram_channel_identifier: "",
-        subreddit_url: "",
-        repos_url: {
-          github: [
-            "https://github.com/ontio",
-          ],
-          bitbucket: [],
-        },
+        bitbucket: [],
       },
     },
-    ontologygas: {
-      description: "Ontology gas is token used for paying transactions on ontology network. Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+  },
+  ontologygas: {
+    description: "Ontology gas is token used for paying transactions on ontology network. Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
       + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
       + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
-      total_supply: 1000000000,
-      circulating_supply: null,
-      links: {
-        homepage: [
-          "https://ont.io/",
-          "",
-          "",
+    total_supply: 1000000000,
+    circulating_supply: null,
+    links: {
+      homepage: [
+        "https://ont.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.ont.io/",
+      ],
+      official_forum_url: [
+        "https://www.reddit.com/r/OntologyNetwork/",
+      ],
+      chat_url: [
+      ],
+      announcement_url: [
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ontologynetwork",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/ontio",
         ],
-        explorer: [
-          "https://explorer.ont.io/",
-        ],
-        official_forum_url: [
-          "https://www.reddit.com/r/OntologyNetwork/",
-        ],
-        chat_url: [
-        ],
-        announcement_url: [
-          "",
-        ],
-        twitter_screen_name: "https://twitter.com/ontologynetwork",
-        facebook_username: "",
-        bitcointalk_thread_identifier: "",
-        telegram_channel_identifier: "",
-        subreddit_url: "",
-        repos_url: {
-          github: [
-            "https://github.com/ontio",
-          ],
-          bitbucket: [],
-        },
+        bitbucket: [],
+      },
+    },
+  },
+  dmme: {
+    description: "DMme is a messenger mobile application. It will be built using military grade end to end encryption. Anonymous, data is accessible by the user only. Full control, the user decide who to chat with, and authroise/block members. No phone number required, no one is able to track you via your mobile provider to not rely on advertising for stream of income. Reward, portion of each subscription is given back to the community. Subscription based, to not rely on advertising for stream of income.",
+    total_supply: 60000000,
+    circulating_supply: 60000000,
+    links: {
+      homepage: [
+        "https://dmme.app//",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "https://ethplorer.io/address/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "https://enjinx.io/eth/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/AQY6zab",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/DMmecoin",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5106323.0",
+      telegram_channel_identifier: "https://t.me/Dmmecoin",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
       },
     },
   },

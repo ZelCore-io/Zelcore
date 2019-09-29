@@ -2510,6 +2510,7 @@ const coins = {
     api: [
       "https://backend.xmr.zelcore.io",
       "https://backend2.xmr.zelcore.io",
+      "https://backend3.xmr.zelcore.io",
     ],
     pathunix: "monero",
     path: "Monero",
@@ -2626,7 +2627,7 @@ const coins = {
     unit: "ETC",
     type: "etc",
     explorer: [
-      "https://etherhub.io/tx/",
+      "https://blockscout.com/etc/mainnet/tx/",
     ],
     logolink: "static/logos/ETC.svg",
     node: [
@@ -4196,7 +4197,7 @@ const coins = {
   },
   bnbBinance: {
     coin: "bnbBinance",
-    name: "Binance Chain",
+    name: "BNB",
     uri: ["binancecoin", "binancechain", "binance", "bnbbinance", "binancebnb", "bnb"],
     slip: 714,
     addresses: [],
@@ -5032,6 +5033,33 @@ const coins = {
       fast: 20,
     },
     color: "#489ED7",
+  },
+  dmme: {
+    coin: "dmme",
+    name: "DMme",
+    uri: ["dmme"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x9556f8ee795d991ff371f547162d5efb2769425f&address=",
+    ],
+    unit: "DMME",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/DMME.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x9556f8ee795d991ff371f547162d5efb2769425f",
+    color: "#7BC619",
+    decimals: 18,
   },
 };
 export default {

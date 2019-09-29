@@ -374,9 +374,9 @@ const newssources = {
     ],
     safecoin: [
       {
-        name: "Safecoin Blog",
-        feed: "https://medium.com/feed/safenetwork",
-        site: "https://medium.com/safenetwork",
+        name: "Safecoin Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=safecoins",
+        site: "https://twitter.com/safecoins",
         about: "Safecoin is the cryptocurrency of the SAFE (Secure Access For Everyone) network.",
         pic: "static/logos/SAFE.svg",
       },
@@ -825,8 +825,8 @@ const newssources = {
     aurora: [
       {
         name: "Aurora Blog",
-        feed: "https://medium.com/feed/idex",
-        site: "https://medium.com/idex",
+        feed: "https://medium.com/feed/@AuroraOfficial",
+        site: "https://medium.com/@AuroraOfficial",
         about: "Decentralized cryptobanking and financial platform",
         pic: "static/logos/AOA.svg",
       },
@@ -1602,7 +1602,15 @@ const newssources = {
         pic: "static/logos/ONG.svg",
       },
     ],
-
+    dmme: [
+      {
+        name: "DMme Blog",
+        feed: "https://medium.com/feed/@.Bio_Logik./",
+        site: "https://medium.com/@.Bio_Logik./",
+        about: "The Next Generation Of Messaging Mobile Application",
+        pic: "static/logos/DMME.svg",
+      },
+    ],
   },
 };
 
