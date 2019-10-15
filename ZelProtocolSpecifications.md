@@ -102,10 +102,10 @@ https://zelprotocolcallback.io/receivedaddress/secrettoken?address=t1W3DXSzNbXPW
 ```
 
 Example of Deeplink response
-- assumption of callback address is zel:?action=receiveaddress&coin=zelcash&address=
+- assumption of callback address is myprotocol://getaddressresponse/
 > Following deeplink will be opened by zelcore
 ```
-zel:?action=receiveaddress&coin=zelcash&address=t1W3DXSzNbXPWF7ghEU3xcqjLfBAKJGcmN4
+myprotocol://getaddressresponse/t1W3DXSzNbXPWF7ghEU3xcqjLfBAKJGcmN4
 ```
 
 *Example of getaddress action url*
