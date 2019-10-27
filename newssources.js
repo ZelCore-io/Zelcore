@@ -1466,7 +1466,8 @@ const newssources = {
         name: "BitTorrent Twitter",
         feed: "https://twitrss.me/mobile_twitter_to_rss/?user=bittorrent",
         site: "https://twitter.com/bittorrent",
-        about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
+        about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. \n"
+          + "BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
         pic: "static/logos/BTT.svg",
       },
     ],
@@ -1609,6 +1610,15 @@ const newssources = {
         site: "https://medium.com/@.Bio_Logik./",
         about: "The Next Generation Of Messaging Mobile Application",
         pic: "static/logos/DMME.svg",
+      },
+    ],
+    veriblock: [
+      {
+        name: "Veriblock Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=VeriBlock",
+        site: "https://twitter.com/VeriBlock",
+        about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
+        pic: "static/logos/VBK.svg",
       },
     ],
   },

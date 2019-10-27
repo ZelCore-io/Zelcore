@@ -5061,6 +5061,32 @@ const coins = {
     color: "#7BC619",
     decimals: 18,
   },
+  veriblock: {
+    coin: "veriblock",
+    name: "VeriBlock",
+    uri: ["veriblock", "vbk"],
+    addresses: [],
+    api: [
+      "https://explore.veriblock.org/api/address/",
+    ],
+    unit: "VBK",
+    type: "veriblock",
+    explorer: [
+      "https://explorer.vbk.zelcore.io/api/address/",
+      "https://explore.veriblock.org/api/address/",
+    ],
+    logolink: "static/logos/VBK.svg",
+    node: [
+      "https://proxy.vbk.zelcore.io/",
+    ],
+    fee: 0.00045,
+    feepolicy: {
+      economy: 1.5,
+      normal: 2,
+      fast: 5,
+    },
+    color: "#2461a5",
+  },
 };
 export default {
   coins,

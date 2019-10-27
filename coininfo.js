@@ -7828,6 +7828,48 @@ const coininfo = {
       },
     },
   },
+  veriblock: {
+    description: "The VeriBlock blockchain implements the Proof-of-Proof consensus protocol and is designed to allow the efficient, secure, and easy-to-implement inheritance of Bitcoin’s Proof-of-Work security by a theoretically unbounded quantity of additional blockchains.",
+    total_supply: 2100000000,
+    circulating_supply: 364696339,
+    links: {
+      homepage: [
+        "https://www.veriblock.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explore.veriblock.org",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.gg/wJZEjry",
+        "https://t.me/joinchat/Ce9nI06lMKOndhoNTkjLKw",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/VeriBlock",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/joinchat/Ce9nI06lMKOndhoNTkjLKw",
+      subreddit_url: "https://reddit.com/r/veriblock",
+      repos_url: {
+        github: [
+          "https://github.com/VeriBlock/nodecore-releases",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
