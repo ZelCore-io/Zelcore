@@ -98,6 +98,8 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.btc.zelcore.io/api/",
+      "https://insight.bitpay.com/api/",
+      "https://blockexplorer.com/api/",
     ],
     pathunix: "bitcoin",
     path: "Bitcoin",
@@ -108,10 +110,12 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.btc.zelcore.io/tx/",
+      "https://insight.bitpay.com/tx/",
+      "https://blockexplorer.com/tx/",
     ],
     logolink: "static/logos/BTC.svg",
     node: [
-      "explorer.btc.zelcore.io",
+      "explorer.btc.zelcore.io", "insight.bitpay.com", "blockexplorer.com",
     ],
     fee: 0.0000226,
     feepolicy: {
@@ -1202,8 +1206,17 @@ const coins = {
     wif: "80",
     slip: 145,
     addresses: [],
-    api: [
-      "https://blockdozer.com/api/",
+    api: ["bch.imaginary.cash", "blackie.c3-soft.com", "electron.jochen-hoenicke.de"],
+    proxy: [
+      "https://proxy.genx.zelcore.io/?server=bch.imaginary.cash&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.grs.zelcore.io/?server=bch.imaginary.cash&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.sin.zelcore.io/?server=bch.imaginary.cash&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.genx.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.grs.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.sin.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.genx.zelcore.io/?server=electron.jochen-hoenicke.de&port=51002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.grs.zelcore.io/?server=electron.jochen-hoenicke.de&port=51002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.sin.zelcore.io/?server=electron.jochen-hoenicke.de&port=51002&contype=tls&coin=bitcoincash&call=",
     ],
     pathunix: "bitcoincash",
     path: "Bitcoin Cash",
@@ -1211,10 +1224,8 @@ const coins = {
     config: "bitcoin",
     rpcport: 8332,
     testnetrpcport: 18332,
-    type: "btc",
-    explorer: [
-      "https://blockdozer.com/tx/",
-    ],
+    type: "electrum",
+    explorer: ["https://blockchair.com/bitcoin-cash/transaction/", "https://explorer.bitcoin.com/bch/tx/"],
     logolink: "static/logos/BCH.svg",
     node: [
       "blockdozer.com",
@@ -1472,18 +1483,18 @@ const coins = {
   },
   dai: {
     coin: "dai",
-    name: "Dai",
-    uri: ["dai"],
+    name: "Sai",
+    uri: ["sai"],
     addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359&address=",
     ],
-    unit: "DAI",
+    unit: "SAI",
     type: "eth",
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DAI.svg",
+    logolink: "static/logos/SAI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
     ],
@@ -1494,7 +1505,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
-    color: "#ffce45",
+    color: "#FFCA26",
     decimals: 18,
   },
   digixgoldtoken: {
@@ -4195,8 +4206,8 @@ const coins = {
     color: "#3d4c7c",
     decimals: 18,
   },
-  bnbBinance: {
-    coin: "bnbBinance",
+  bnbbinance: {
+    coin: "bnbbinance",
     name: "BNB",
     uri: ["binancecoin", "binancechain", "binance", "bnbbinance", "binancebnb", "bnb"],
     slip: 714,
@@ -4640,9 +4651,12 @@ const coins = {
     ],
     logolink: "static/logos/NEO.svg",
     node: [
+      "http://seed9.ngd.network:10332",
+      "https://seed0.cityofzion.io:443",
+      "http://rpc1.go.nspcc.ru:10332",
+      "http://seed1.red4sec.com:10332",
       "http://seed1.aphelion-neo.com:10332",
       "http://seed5.neo.org:10332",
-      "http://seed4.aphelion-neo.com:10332",
     ],
     fee: 0,
     feepolicy: {
@@ -4650,7 +4664,7 @@ const coins = {
       normal: 0,
       fast: 0,
     },
-    color: "#58bf00",
+    color: "#00E599",
     decimals: 18,
   },
   gas: {
@@ -4667,11 +4681,14 @@ const coins = {
     explorer: [
       "https://neoscan.io/transaction/",
     ],
-    logolink: "static/logos/NEO.svg",
+    logolink: "static/logos/GAS.svg",
     node: [
+      "http://seed9.ngd.network:10332",
+      "https://seed0.cityofzion.io:443",
+      "http://rpc1.go.nspcc.ru:10332",
+      "http://seed1.red4sec.com:10332",
       "http://seed1.aphelion-neo.com:10332",
       "http://seed5.neo.org:10332",
-      "http://seed4.aphelion-neo.com:10332",
     ],
     fee: 0,
     feepolicy: {
@@ -4679,7 +4696,7 @@ const coins = {
       normal: 0,
       fast: 0,
     },
-    color: "#58bf00",
+    color: "#00E599",
     decimals: 18,
   },
   neofish: {
@@ -4698,9 +4715,12 @@ const coins = {
     ],
     logolink: "static/logos/NEO.svg",
     node: [
+      "http://seed9.ngd.network:10332",
+      "https://seed0.cityofzion.io:443",
+      "http://rpc1.go.nspcc.ru:10332",
+      "http://seed1.red4sec.com:10332",
       "http://seed1.aphelion-neo.com:10332",
       "http://seed5.neo.org:10332",
-      "http://seed4.aphelion-neo.com:10332",
     ],
     fee: 0,
     feepolicy: {
@@ -5068,12 +5088,12 @@ const coins = {
     addresses: [],
     api: [
       "https://explore.veriblock.org/api/address/",
+      "https://explorer.vbk.zelcore.io/api/address/",
     ],
     unit: "VBK",
     type: "veriblock",
     explorer: [
-      "https://explorer.vbk.zelcore.io/api/address/",
-      "https://explore.veriblock.org/api/address/",
+      "https://explore.veriblock.org/tx/",
     ],
     logolink: "static/logos/VBK.svg",
     node: [
@@ -5086,6 +5106,222 @@ const coins = {
       fast: 5,
     },
     color: "#2461a5",
+  },
+  huobitoken: {
+    coin: "huobitoken",
+    name: "Huobi Token",
+    uri: ["huobitoken", "ht"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x6f259637dcd74c767781e37bc6133cd6a68aa161&address=",
+    ],
+    unit: "HT",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/HT.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    color: "#357CE1",
+    decimals: 18,
+  },
+  busd: {
+    coin: "busd",
+    name: "Binance USD",
+    uri: ["busd", "binanceusd"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x4Fabb145d64652a948d72533023f6E7A623C7C53&address=",
+    ],
+    unit: "BUSD",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/BUSD.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    color: "#F0B90B",
+    decimals: 18,
+  },
+  okb: {
+    coin: "okb",
+    name: "OKB",
+    uri: ["okb"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x9556f8ee790x75231f58b43240c9718dd58b4967c5114342a86c5d991ff371f547162d5efb2769425f&address=",
+    ],
+    unit: "OKB",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/OKB.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x75231f58b43240c9718dd58b4967c5114342a86c",
+    color: "#5795F1",
+    decimals: 18,
+  },
+  bitforextoken: {
+    coin: "bitforextoken ",
+    name: "BitForex Token",
+    uri: ["bitforextoken", "bf"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x5b71bee9d961b1b848f8485eec8d8787f80217f5&address=",
+    ],
+    unit: "BF",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/BF.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+    color: "#14C393",
+    decimals: 18,
+  },
+  mxtoken: {
+    coin: "mxtoken",
+    name: "MX Token",
+    uri: ["mxtoken", "mx"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x11eef04c884e24d9b7b4760e7476d06ddf797f36&address=",
+    ],
+    unit: "MX",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/MX.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+    color: "#41B37D",
+    decimals: 18,
+  },
+  zbtoken: {
+    coin: "zbtoken",
+    name: "ZB Token",
+    uri: ["zbtoken", "zb"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xbd0793332e9fb844a52a205a233ef27a5b34b927&address=",
+    ],
+    unit: "ZB",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/ZB.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+    color: "#E6201A",
+    decimals: 18,
+  },
+  hotbittoken: {
+    coin: "hotbittoken",
+    name: "Hotbit Token",
+    uri: ["hotbittoken", "hotbit", "htb"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941&address=",
+    ],
+    unit: "HTB",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/HTB.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+    color: "#1AB394",
+    decimals: 18,
+  },
+  huobipooltoken: {
+    coin: "huobipooltoken",
+    name: "Huobi Pool Token",
+    uri: ["huobipooltoken", "hpt"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xa66daa57432024023db65477ba87d4e7f5f95213&address=",
+    ],
+    unit: "HPT",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/HPT.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0xa66daa57432024023db65477ba87d4e7f5f95213",
+    color: "#357CE1",
+    decimals: 18,
   },
 };
 export default {

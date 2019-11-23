@@ -192,7 +192,7 @@ const newssources = {
         pic: "static/logos/BNB.svg",
       },
     ],
-    bnbBinance: [
+    bnbbinance: [
       {
         name: "Binance Blog",
         feed: "https://medium.com/feed/@binance",
@@ -518,11 +518,11 @@ const newssources = {
     ],
     dai: [
       {
-        name: "Dai Blog",
+        name: "Sai Blog",
         feed: "https://medium.com/feed/@MakerDAO",
         site: "https://medium.com/@MakerDAO",
-        about: "Dai is an asset-backed, hard currency for the 21st century. The first decentralized stablecoin on the Ethereum blockchain.",
-        pic: "static/logos/DAI.svg",
+        about: "Sai is an asset-backed, hard currency for the 21st century. The first decentralized stablecoin on the Ethereum blockchain.",
+        pic: "static/logos/SAI.svg",
       },
     ],
     digixgoldtoken: [
@@ -1619,6 +1619,78 @@ const newssources = {
         site: "https://twitter.com/VeriBlock",
         about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
         pic: "static/logos/VBK.svg",
+      },
+    ],
+    huobitoken: [
+      {
+        name: "Huobi Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=HuobiGlobal",
+        site: "https://twitter.com/HuobiGlobal",
+        about: "The Leading Global Digital Asset Exchange.",
+        pic: "static/logos/HT.svg",
+      },
+    ],
+    busd: [
+      {
+        name: "Binance Blog",
+        feed: "https://medium.com/feed/@binance",
+        site: "https://medium.com/@binance",
+        about: "Binance Exchange provides cryptocurrency trading for fintech and blockchain enthusiasts globally, with multilingual support over a variety of services.",
+        pic: "static/logos/BUSD.svg",
+      },
+    ],
+    okb: [
+      {
+        name: "OKEx Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=OKEx",
+        site: "https://twitter.com/OKEx",
+        about: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
+        pic: "static/logos/OKB.svg",
+      },
+    ],
+    bitforextoken: [
+      {
+        name: "BitForex Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=bitforexcom",
+        site: "https://twitter.com/bitforexcom",
+        about: "A global top-10 cryptocurrency exchange leader — BitForex provides powerful tools letting you take full control of your digital asset trades and management.",
+        pic: "static/logos/BF.svg",
+      },
+    ],
+    mxtoken: [
+      {
+        name: "MXC Blog",
+        feed: "https://medium.com/feed/@mxc.com",
+        site: "https://medium.com/@mxc.com",
+        about: "More than just an exchange.",
+        pic: "static/logos/MX.svg",
+      },
+    ],
+    zbtoken: [
+      {
+        name: "ZB Blog",
+        feed: "https://medium.com/feed/@zbhk",
+        site: "https://medium.com/@zbhk",
+        about: "ZB Global is a world's leading blockchain assets financial service provider.",
+        pic: "static/logos/ZB.svg",
+      },
+    ],
+    hotbittoken: [
+      {
+        name: "Hotbit Blog",
+        feed: "https://medium.com/feed/@hotbit",
+        site: "https://medium.com/@hotbit",
+        about: "Hotbit is one of the professional digital asset exchange platforms that provide trading services among major digital currencies like Bitcoin and Ethereum.",
+        pic: "static/logos/HTB.svg",
+      },
+    ],
+    huobipooltoken: [
+      {
+        name: "Huobi Pool Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=EOS_huobipool",
+        site: "https://twitter.com/EOS_huobipool",
+        about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
+        pic: "static/logos/HPT.svg",
       },
     ],
   },

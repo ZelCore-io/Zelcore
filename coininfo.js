@@ -847,7 +847,7 @@ const coininfo = {
       },
     },
   },
-  bnbBinance: {
+  bnbbinance: {
     description: "Binance Coin is the cryptocurrency of the <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://www.coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://www.coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://www.coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://www.coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
     total_supply: 183345602,
     circulating_supply: 144443301,
@@ -4145,7 +4145,7 @@ const coininfo = {
     },
   },
   dai: {
-    description: "Dai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Dai is worth $1, and will always be worth $1, regardless of how much Dai is in existence. There is no centralized authority like Tether that backs its value, and no traditional bank that backs each Dai with a real US dollar. There is nothing that can be shut down, and no centralized authority that needs to be trusted. Dai lives entirely within the Ethereum blockchain using smart contracts.\r\n\r\n*Features of Dai:\r\n1. Dai is always worth $1 USD each\r\n2. It can be freely traded like any other ERC20 token\r\n3. Anyone with an Ethereum wallet can own, accept, and transfer it\r\n4. It can be exchanged without any middleman\r\n5. No individual person or company has control over it\r\n6. No government or authority can shut it down\r\n\r\n*How Dai Works?\r\nDai is a masterpiece of game theory that carefully balances economic incentives in the pursuit of one goal — a token that is continuously approaching the value of $1 USD.\r\n\r\nWhen Dai is worth above $1, mechanisms work to decrease the price. When Dai is worth below $1, mechanisms work to increase the price. The rational actors that take part in these mechanisms do so because they earn money anytime Dai is not perfectly worth $1. This is why Dai is always floating slightly above or below $1 — it is an endless wave function bouncing infinitely close to $1, but never quite achieving it. The farther Dai goes from $1, the more incentive there is to fix it. This is the magic of Dai.\r\n\r\n*How is Dai Created?\r\nDai is simply a loan against Ethereum. By using the MakerDAO dApp, advanced users can take loans out in Dai against their ETH holdings.\r\n\r\nFirst, ETH is turned into “wrapped ETH” (WETH), which is simply an ERC20 wrapping around ETH. This “tokenizes” ETH so it can be used like any other ERC20 token. Next, WETH is turned into “pooled ETH” (PETH), which means it joins a large pool of Ethereum that is the collateral for all Dai created. Once you have PETH, you can create a “collateralized debt position” (CDP), which locks up your PETH and allows you to draw Dai against your collateral, which is PETH. As you draw out Dai, the ratio of debt in the CDP increases. There is a debt limit that sets a maximum amount of Dai you can draw against your CDP. Once you have Dai, you can spend or trade it freely like any other ERC20 token.\r\n\r\n*There are several important reasons why you would create Dai, despite the hassle:\r\n\r\n1. You need a loan, and have an asset (ETH) to use as collateral for your loan\r\n\r\n2. You believe ETH is going up in value. You can use your CDP to buy ETH on margin — you lock up your ETH in a CDP, draw Dai against it, use the Dai to buy more ETH on an exchange, and then use that ETH to further increase the size of your CDP. This can be accomplished without any third-party or centralized authority allowing you to do so — margin trading can be accomplished entirely on the blockchain.\r\n\r\n3. The demand for Dai has driven the price above $1 USD. When this occurs, you can create Dai then immediately sell it on an exchange for greater than $1 USD. This is essentially free money, and is one of the mechanisms the Maker system uses to keep Dai pegged to $1 USD. Dai being worth over $1 USD encourages more Dai to be created.\r\nThese three reasons are enough to ensure that Dai is continually created.",
+    description: "Sai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Sai is worth $1, and will always be worth $1, regardless of how much Sai is in existence. There is no centralized authority like Tether that backs its value, and no traditional bank that backs each Sai with a real US dollar. There is nothing that can be shut down, and no centralized authority that needs to be trusted. Sai lives entirely within the Ethereum blockchain using smart contracts.\r\n\r\n*Features of Sai:\r\n1. Sai is always worth $1 USD each\r\n2. It can be freely traded like any other ERC20 token\r\n3. Anyone with an Ethereum wallet can own, accept, and transfer it\r\n4. It can be exchanged without any middleman\r\n5. No individual person or company has control over it\r\n6. No government or authority can shut it down\r\n\r\n*How Sai Works?\r\nSai is a masterpiece of game theory that carefully balances economic incentives in the pursuit of one goal — a token that is continuously approaching the value of $1 USD.\r\n\r\nWhen Sai is worth above $1, mechanisms work to decrease the price. When Sai is worth below $1, mechanisms work to increase the price. The rational actors that take part in these mechanisms do so because they earn money anytime Sai is not perfectly worth $1. This is why Sai is always floating slightly above or below $1 — it is an endless wave function bouncing infinitely close to $1, but never quite achieving it. The farther Sai goes from $1, the more incentive there is to fix it. This is the magic of Sai.\r\n\r\n*How is Sai Created?\r\nSai is simply a loan against Ethereum. By using the MakerDAO dApp, advanced users can take loans out in Sai against their ETH holdings.\r\n\r\nFirst, ETH is turned into “wrapped ETH” (WETH), which is simply an ERC20 wrapping around ETH. This “tokenizes” ETH so it can be used like any other ERC20 token. Next, WETH is turned into “pooled ETH” (PETH), which means it joins a large pool of Ethereum that is the collateral for all Sai created. Once you have PETH, you can create a “collateralized debt position” (CDP), which locks up your PETH and allows you to draw Sai against your collateral, which is PETH. As you draw out Sai, the ratio of debt in the CDP increases. There is a debt limit that sets a maximum amount of Sai you can draw against your CDP. Once you have Sai, you can spend or trade it freely like any other ERC20 token.\r\n\r\n*There are several important reasons why you would create Sai, despite the hassle:\r\n\r\n1. You need a loan, and have an asset (ETH) to use as collateral for your loan\r\n\r\n2. You believe ETH is going up in value. You can use your CDP to buy ETH on margin — you lock up your ETH in a CDP, draw Sai against it, use the Sai to buy more ETH on an exchange, and then use that ETH to further increase the size of your CDP. This can be accomplished without any third-party or centralized authority allowing you to do so — margin trading can be accomplished entirely on the blockchain.\r\n\r\n3. The demand for Sai has driven the price above $1 USD. When this occurs, you can create Sai then immediately sell it on an exchange for greater than $1 USD. This is essentially free money, and is one of the mechanisms the Maker system uses to keep Sai pegged to $1 USD. Sai being worth over $1 USD encourages more Sai to be created.\r\nThese three reasons are enough to ensure that Sai is continually created.",
     total_supply: 84184453,
     circulating_supply: 84184453,
     links: {
@@ -7866,6 +7866,346 @@ const coininfo = {
         github: [
           "https://github.com/VeriBlock/nodecore-releases",
         ],
+        bitbucket: [],
+      },
+    },
+  },
+  huobitoken: {
+    description: "Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange. The HT can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special Huobi events, receive crypto rewards from seasonal buybacks and trade with other cryptocurrencies listed on the Huobi exchange.",
+    total_supply: 500000000,
+    circulating_supply: 241284047,
+    links: {
+      homepage: [
+        "https://www.hbg.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "https://ethplorer.io/address/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "https://enjinx.io/eth/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/huobiglobalofficial",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/HuobiGlobal",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/huobiglobalofficial",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  busd: {
+    description: "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    total_supply: 22785300,
+    circulating_supply: 17785300,
+    links: {
+      homepage: [
+        "https://www.paxos.com/busd/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "https://ethplorer.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "https://enjinx.io/eth/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/binanceexchange",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/binance",
+      facebook_username: "binanceexchange",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/binance",
+      repos_url: {
+        github: [
+          "https://github.com/binance-exchange/node-binance-api",
+          "https://github.com/binance-exchange/php-binance-api",
+          "https://github.com/binance-exchange/binance-official-api-docs",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  okb: {
+    description: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
+    total_supply: 300000000,
+    circulating_supply: 20000000,
+    links: {
+      homepage: [
+        "https://www.okex.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "https://enjinx.io/eth/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/OKExchinesegroup",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/OKEx",
+      facebook_username: "OKExOfficial",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/OKExchinesegroup",
+      subreddit_url: "https://www.reddit.com/r/OKEx/",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  bitforextoken: {
+    description: "BitForex Token is the native asset of the Bitforex exchange.",
+    total_supply: 10000000000,
+    circulating_supply: 4251590766,
+    links: {
+      homepage: [
+        "https://www.bitforex.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "https://ethplorer.io/address/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "https://enjinx.io/eth/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/BitForexEnglish",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/bitforexcom",
+      facebook_username: "bitforexcom",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/BitForexEnglish",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  mxtoken: {
+    description: "MX is the native token of the MXC trading platform. MX holders reportedly benefit from asset appreciation, rebates on platform revenue, supervision, and voting. MX can be obtained through mining or purchases.",
+    total_supply: 948208804,
+    circulating_supply: 221954841,
+    links: {
+      homepage: [
+        "https://www.mxc.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "https://ethplorer.io/address/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "https://enjinx.io/eth/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/MXCEnglish",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/MXC_Exchange",
+      facebook_username: "mxcexchangeofficial",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/MXCEnglish",
+      subreddit_url: "https://www.reddit.com/user/MXC_Exchange",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  zbtoken: {
+    description: "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange. The ZB can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special ZB launchpad events, receive crypto rewards from seasonal buybacks, and trade with other cryptocurrencies listed on the ZB exchange.",
+    total_supply: 2100000000,
+    circulating_supply: 463288810,
+    links: {
+      homepage: [
+        "https://www.zb.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://ethplorer.io/address/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://enjinx.io/eth/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/ZB_English",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Zb_group",
+      facebook_username: "ZBGlobalGroup",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/ZB_English",
+      subreddit_url: "https://www.reddit.com/r/ZBExchange",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  hotbittoken: {
+    description: "Hotbit Token (HTB) is a cryptocurrency token and operates on the Ethereum platform.",
+    total_supply: 2500000000,
+    circulating_supply: 221954841,
+    links: {
+      homepage: [
+        "https://www.hotbit.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "https://ethplorer.io/address/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "https://enjinx.io/eth/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Hotbit_English",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Hotbit_news",
+      facebook_username: "Hotbit.io",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Hotbit_English",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  huobipooltoken: {
+    description: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
+    total_supply: 9929432936,
+    circulating_supply: 5076332936,
+    links: {
+      homepage: [
+        "https://www.huobipool.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "https://ethplorer.io/address/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "https://enjinx.io/eth/token/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/HuobiGlobal",
+      facebook_username: "100024349513191",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
         bitbucket: [],
       },
     },
