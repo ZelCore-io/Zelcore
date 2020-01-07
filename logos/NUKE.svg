@@ -1,19 +1,13 @@
-<svg id="NUKE" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #fb351f;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="NUKE-2" data-name="NUKE" class="cls-2" d="M254.752,445L183.99,371.717V224.434l44.37-19.175L184.006,186.1V88L256,130.312,327.986,88v98.085l-44.37,19.176,44.37,19.175V371.826Zm-48.834-82.126,49.114,50.876,51.026-50.985V238.855L256,217.208l-50.078,21.631V362.875Zm13.2-185.479L256,193.34l36.874-15.928L256,155.734Zm58.491-34.373,28.46,16.721V126.3ZM205.918,126.3v33.441l28.46-16.721Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="NUKE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FB351F;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="NUKE-2" class="st1" d="M243.8,434L173,360.7V213.4l44.4-19.2L173,175.1V77l72,42.3L317,77v98.1l-44.4,19.2l44.4,19.2
+	v147.4L243.8,434z M194.9,351.9l49.1,50.9l51-51V227.9L245,206.2l-50.1,21.6L194.9,351.9L194.9,351.9z M208.1,166.4l36.9,15.9
+	l36.9-15.9L245,144.7L208.1,166.4z M266.6,132l28.5,16.7v-33.4L266.6,132z M194.9,115.3v33.4l28.5-16.7L194.9,115.3z"/>
 </svg>

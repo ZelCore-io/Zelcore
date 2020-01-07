@@ -1,19 +1,13 @@
-<svg id="TRX" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #eb0029;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="TRX-2" data-name="TRX" class="cls-2" d="M335.953,170.744L120,131,233.649,417,392,224.052Zm-3.475,17.513,33.033,31.4L275.16,236.02ZM255.54,232.748l-95.232-78.989L315.955,182.4Zm-6.788,13.969L233.23,375.105,149.5,164.389Zm14.374,6.816,100.046-18.121L248.414,375.241Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="TRX" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EB0029;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="TRX-2" class="st1" d="M325,159.7L109,120l113.6,286L381,213.1L325,159.7z M321.5,177.3l33,31.4L264.2,225L321.5,177.3z
+	 M244.5,221.7l-95.2-79L305,171.4L244.5,221.7z M237.8,235.7l-15.5,128.4l-83.7-210.7L237.8,235.7z M252.1,242.5l100-18.1
+	L237.4,364.2L252.1,242.5z"/>
 </svg>

@@ -1,19 +1,13 @@
-<svg id="XRP" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #0a93eb;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="XRP-2" data-name="XRP" class="cls-2" d="M355.838,134h40.643l-84.557,87.744a76.378,76.378,0,0,1-110.842,0L116.526,134h40.642L221.4,200.657a48.374,48.374,0,0,0,70.2,0Zm-199.2,244H116l85.079-88.287a76.381,76.381,0,0,1,110.843,0L397,378H356.357L291.6,310.8a48.374,48.374,0,0,0-70.2,0Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="XRP" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0A93EB;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="XRP-2" class="st1" d="M344.8,123h40.6l-84.6,87.7c-29,30.6-77.4,31.9-108,2.9c-1-0.9-1.9-1.9-2.9-2.9L105.5,123h40.6
+	l64.2,66.7c18.4,19.4,49,20.2,68.4,1.8c0.6-0.6,1.2-1.2,1.8-1.8L344.8,123z M145.6,367H105l85.1-88.3c29-30.6,77.4-31.9,108-2.9
+	c1,0.9,1.9,1.9,2.9,2.9L386,367h-40.6l-64.8-67.2c-18.4-19.4-49-20.2-68.4-1.8c-0.6,0.6-1.2,1.2-1.8,1.8L145.6,367z"/>
 </svg>

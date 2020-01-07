@@ -1,19 +1,13 @@
-<svg id="Monaco" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #002d72;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Monaco-2" data-name="Monaco" class="cls-2" d="M256,82L105,168.473V342.58L256,430l150-87.42V168.473ZM182.335,238.685L142,268l54.547,93.491H218.24L243,338V326.061L217,301V261ZM218,227l12,33.79-4.136,37.617h58.591L280,260.79,292.681,227H218Zm76,34v40l-26,25.061V338l24.681,23.491h21.641L367.578,268l-39.353-29.315ZM196.547,157.447l-14.212,59.816h145.89l-13.9-59.816H196.547Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Monaco" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#002D72;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path class="st1" d="M122.5,35.5L47,78.7v87.1l75.5,43.7l75-43.7V78.7L122.5,35.5z M92.8,73.2h58.9l7,29.9H85.7L92.8,73.2z
+	 M116,163.5l-12.4,11.7H92.8l-27.3-46.7l20.2-14.7L103,125v20l13,12.5V163.5z M107.4,143.7l2.1-18.8l-6-16.9h37.3l-6.3,16.9
+	l2.2,18.8H107.4z M151.7,175.2h-10.8l-12.3-11.7v-6l13-12.5v-20l17.1-11.2l19.7,14.7L151.7,175.2z"/>
 </svg>

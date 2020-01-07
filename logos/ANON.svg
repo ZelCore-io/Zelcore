@@ -1,28 +1,14 @@
-<svg id="ANON" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #ba252b;
-      }
-
-      .cls-1, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 7px;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main-F" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <circle id="Round" class="cls-2" cx="256" cy="256" r="175"/>
-  <path id="A" class="cls-3" d="M118,363l43-60-33-7,24-34,32,8L311,92l15,6-46,67,13,4,47-66,14,8-44,62,35,234-38,17-13-87-86-21-57,78-12-9,52-74-13-3-50,66Zm115-81,44-61,11,74Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ANON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BA252B;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FFFFFF;}
+</style>
+<path id="Main-F" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<circle id="Round" class="st1" cx="122.5" cy="122.5" r="87.5"/>
+<path class="st2" d="M171.5,50l-7-4L141,79l-6.5-2l23-33.5l-7.5-3l-63.5,89l-16-4l-12,17L75,146l-21.5,30l5,5.5l25-33L90,150l-26,37
+	l6,4.5l28.5-39l43,10.5l6.5,43.5l19-8.5L149.5,81L171.5,50z M111,135.5l22-30.5l5.5,37L111,135.5z"/>
 </svg>

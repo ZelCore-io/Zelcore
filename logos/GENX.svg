@@ -1,32 +1,20 @@
-<svg id="Genesis" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #1ea1ef;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-
-      .cls-3 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 5px;
-      }
-    </style>
-  </defs>
-  <g id="New">
-    <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-    <path id="G_Down" data-name="G Down" class="cls-2" d="M289,274l-11,55s-61.585-.409-81.053-0.862C189.982,328.328,191,321,191,321s19.858-95.532,26.865-128.085C219.572,182.687,228,183,228,183H393a152.592,152.592,0,0,1,18,73A154.767,154.767,0,0,1,157,375H318l30-140H250l-8,39h47Z"/>
-    <path id="G_Small" data-name="G Small" class="cls-2" d="M132.637,349.857A154.663,154.663,0,0,1,102,274h46S138.866,318.789,132.637,349.857Z"/>
-    <path id="G_Top" data-name="G Top" class="cls-2" d="M256,101a155.826,155.826,0,0,1,97,34H214c-37.107,0-43,33-43,33l-16,68H102C112.04,160.1,177.352,101,256,101Z"/>
-    <circle id="Outer" class="cls-3" cx="256" cy="256" r="179"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Genesis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1EA1EF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="New">
+	<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+	<path id="G_Down" class="st1" d="M139,131.5l-5.5,27.5c0,0-30.8-0.2-40.5-0.4c-3.5,0.1-3-3.6-3-3.6s9.9-47.8,13.4-64
+		c0.9-5.1,5.1-5,5.1-5H191c6,11.2,9.1,23.8,9,36.5c0.1,42.7-34.5,77.4-77.3,77.5c-18.2,0-35.8-6.3-49.7-18h80.5l15-70h-49l-4,19.5
+		H139z"/>
+	<path id="G_Small" class="st1" d="M60.8,169.4c-8.4-11-13.7-24.1-15.3-37.9h23C68.5,131.5,63.9,153.9,60.8,169.4z"/>
+	<path id="G_Top" class="st1" d="M122.5,45c17.6,0,34.7,6,48.5,17h-69.5C82.9,62,80,78.5,80,78.5l-8,34H45.5
+		C50.5,74.6,83.2,45,122.5,45z"/>
+	<circle id="Outer" class="st2" cx="122.5" cy="122.5" r="89.5"/>
+</g>
 </svg>

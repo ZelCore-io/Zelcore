@@ -1,20 +1,15 @@
-<svg id="Civic" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #3ab03e;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main_copy_18" data-name="Main copy 18" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="C" class="cls-2" d="M375,292.08h43C415,355,335,422.55,256,422c-71,0-164-57-164-166C95,150,180,90,256,90c104,0,159,90,164,130H375c0-25-50-92.23-119-88-91,0-123,83-123,124,2,54,37,121.6,123,124C345,380,370,310,375,292.08Z"/>
-  <path id="Key" class="cls-2" d="M256,195c-21,0-38,17.869-38,40,0,22.617,25,35,25,35v47h30V270s25.089-12.178,25-35C298.124,221.753,290,195,256,195Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Civic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3AB03E;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main_copy_18" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="C" class="st1" d="M182,140.5h21.5c-1.5,31.5-41.5,65.2-81,65c-35.5,0-82-28.5-82-83c1.5-53,44-83,82-83
+	c52,0,79.5,45,82,65H182c0-12.5-25-46.1-59.5-44C77,60.5,61,102,61,122.5c1,27,18.5,60.8,61.5,62C167,184.5,179.5,149.5,182,140.5z"
+	/>
+<path id="Key" class="st1" d="M122.5,92c-10.5,0-19,8.9-19,20c0,11.3,12.5,17.5,12.5,17.5V153h15v-23.5c0,0,12.5-6.1,12.5-17.5
+	C143.6,105.4,139.5,92,122.5,92z"/>
 </svg>

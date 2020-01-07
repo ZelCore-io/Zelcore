@@ -100,7 +100,7 @@ export default {
     create_or_change_pin: "Créez ou modifiez votre code PIN d2FA",
     disable_your_d2fa: "Désactiver votre d2FA",
     d2fa_requires_minimum: "d2FA requiert la présence d'un montant minimal de 0,0002 ZEL dans votre portefeuille pour pouvoir diffuser une transaction d2FA. Les modifications sont prises en compte après la confirmation de la transaction et la reconnexion au compte.",
-    d2fa_adds_another_layer: "d2FA ajoute une couche supplémentaire de protection et de sécurité. Vous ne pourrez ni signer ni effectuer de tâches de sécurité concernant votre compte sans ce code PIN modifiable. Le code PIN est stocké directement dans la blockchain sous une forme cryptée. \n"
+    d2fa_adds_another_layer: "d2FA ajoute une couche supplémentaire de protection et de sécurité. Vous ne pourrez ni signer ni effectuer de tâches de sécurité concernant votre compte sans ce code PIN modifiable. Le code PIN est stocké directement dans la blockchain sous une forme cryptée. "
     + "Personne sauf vous ne pouvez modifier votre signature d2FA!",
     create_or_change_easy: "Créer ou modifier Easy Login",
     signing_address: "Adresse de signature:",
@@ -108,7 +108,7 @@ export default {
     sign: "signer",
     sign_and_send: "Signer et envoyer",
     new_pin: "Nouveau code PIN",
-    easy_login_text: "Zel ID Easy Login fournit une option stockée localement pour vous connecter rapidement à un compte en utilisant la phrase sélectionner, le PIN, l'empreinte digitale ou la reconnaissance faciale. \n"
+    easy_login_text: "Zel ID Easy Login fournit une option stockée localement pour vous connecter rapidement à un compte en utilisant la phrase sélectionner, le PIN, l'empreinte digitale ou la reconnaissance faciale. "
     + "Easy Login nécessite l'activation de d2FA sur votre compte et ne peut être activé que pour un seul compte!",
     easy_login_disabled: "Easy Login désactivée",
     easy_sign_phrase: "Phrase Easy Sign invalide",
@@ -158,10 +158,10 @@ export default {
 
     // account warning
     password_is_key: "Votre mot de passe est la clé pour accéder à vos fonds, rendez-le aussi fort que possible!",
-    no_keep_copy: "ZelCore ne conserve pas de copie de votre mot de passe non chiffré, que ce soit localement ou à distance. En raison de cette fonctionnalité, il n’existe aucun moyen de récupérer le mot de passe, ni de le changer. \n"
+    no_keep_copy: "ZelCore ne conserve pas de copie de votre mot de passe non chiffré, que ce soit localement ou à distance. En raison de cette fonctionnalité, il n’existe aucun moyen de récupérer le mot de passe, ni de le changer. "
     + "Si vous perdez (ou oubliez) votre nom d'utilisateur ou votre mot de passe, vous perdrez l'accès à votre portefeuille de façon PERMANENTE. Il est donc TRÈS IMPORTANT et IMPÉRATIF de conserver une copie de vos informations dans un endroit sûr.",
-    software_as_is: "LE LOGICIEL EST FOURNI 'TEL QUEL', SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS DE MANIÈRE LIBRE, ET NON LIMITÉE AUX GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'INFRACTION. \n"
-                    + "EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DE DOMMAGES OU D'AUTRE RESPONSABILITÉ, QU'IL SOIT UN ACTION DE CONTRAT, DE LICENCE OU AUTREMENT, \n"
+    software_as_is: "LE LOGICIEL EST FOURNI 'TEL QUEL', SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS DE MANIÈRE LIBRE, ET NON LIMITÉE AUX GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'INFRACTION. "
+                    + "EN AUCUN CAS, LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DE DOMMAGES OU D'AUTRE RESPONSABILITÉ, QU'IL SOIT UN ACTION DE CONTRAT, DE LICENCE OU AUTREMENT, "
                     + "RÉSULTANT DU LOGICIEL, DU LOGICIEL, DE L'UTILISATION OU DE TOUTE VENTE DANS LE LOGICIEL. ",
     backup_backup_backup: "SAUVEGARDE, SAUVEGARDE, SAUVEGARDE encore!",
     im_aware_register: "Je suis au courant, inscrivez-vous!",
@@ -231,14 +231,14 @@ export default {
     payment_note: "Note de paiement",
     warning_eth_contracts: "Attention: les contrats Ethereum prennent quelques minutes pour s'afficher dans l'explorateur! Les contrats nécessitent la présence d'Ethereum dans votre portefeuille, un gaz qui alimente l'exécution du contrat.",
     warning_etc_transactions: "Attention: il faut un certain temps pour qu'une transaction Ethereum Classic soit répertoriée dans une table de transactions.",
-    warning_usdt_is_btc: "Attention: Tether est un jeton Bitcoin et nécessite donc que BTC effectue une transaction. En outre, les frais de transaction Bitcoin, 0.000006 BTC, doivent être \n"
-                         + "envoyé à l'adresse de destination selon les besoins du réseau Bitcoin. Le processus d'envoi prend quelques secondes et peut prendre jusqu'à quelques minutes pour \n"
+    warning_usdt_is_btc: "Attention: Tether est un jeton Bitcoin et nécessite donc que BTC effectue une transaction. En outre, les frais de transaction Bitcoin, 0.000006 BTC, doivent être "
+                         + "envoyé à l'adresse de destination selon les besoins du réseau Bitcoin. Le processus d'envoi prend quelques secondes et peut prendre jusqu'à quelques minutes pour "
                          + "une transaction devant être visible dans Omni Explorer et plus encore dans la table des transactions, veuillez patienter! La transaction est immédiatement visible dans votre portefeuille Bitcoin ZelCore.",
     warning_monero_fee: "Attention: les frais Monero ne sont pas connus avant la création de la transaction, il ne s'agit que d'une approximation. La création d'une transaction prend quelques secondes.",
     edit: "Modifier",
     delete: "Supprimer",
     show_in_explorer: "Afficher dans l'explorateur",
-    full_node_launch_note: "En raison de l’utilisation du chiffrement par ZelCore, vos fonds ne seront pas accessibles dans un autre logiciel de noeud complet que ZelCore. Full Node est réservé aux utilisateurs avancés, \n"
+    full_node_launch_note: "En raison de l’utilisation du chiffrement par ZelCore, vos fonds ne seront pas accessibles dans un autre logiciel de noeud complet que ZelCore. Full Node est réservé aux utilisateurs avancés, "
                            + "Si vous ne savez pas ce qu'est un nœud complet, ne l'utilisez pas! Sauvegardez fréquemment les clés privées des adresses que vous utilisez.",
     launch_full_node: "Lancer le nœud complet",
     destination_address: "Adresse de destination",
@@ -309,7 +309,7 @@ export default {
     no_shieldable_amount: "Aucune quantité à protéger n'a été trouvée.",
     bouclier: "Bouclier",
     rescan_blockchain: "Rescan blockchain",
-    rescan_blockchain_info: "Parcourt la blockchain pour trouver les transactions manquantes dans votre portefeuille. Utile si vous avez importé une adresse dont vous savez qu'elle contient des fonds. Cette action redémarre le daemon de monnaies avec l'option de réanalyse. \n"
+    rescan_blockchain_info: "Parcourt la blockchain pour trouver les transactions manquantes dans votre portefeuille. Utile si vous avez importé une adresse dont vous savez qu'elle contient des fonds. Cette action redémarre le daemon de monnaies avec l'option de réanalyse. "
     + "Votre portefeuille ne sera pas opérationnel pendant au moins une heure! ",
     rescan: "Rescan",
     configuration_file: "Fichier de configuration",
@@ -352,7 +352,7 @@ export default {
     do_not_change_rpc_ports3: "Une réindexation est nécessaire si un index est modifié (par exemple, txindex est défini sur actif).",
     save_and_reindex: "Enregistrer et réindexer",
     zelnode_configuration_change_restart1: "Après la modification de la configuration de Zelnode, un redémarrage du démon est effectué automatiquement.",
-    zelnode_configuration_change_restart2: "N'oubliez pas que les ZelNodes nécessitent également une modification du fichier de configuration de ZelCash (zelcash.conf). Vous devez modifier cette configuration de ZelCash dans Outils avant de modifier cette configuration de ZelNodes.",
+    zelnode_configuration_change_restart2: "N'oubliez pas que les ZelNodes nécessitent également une modification du fichier de configuration de Zel (zelcash.conf). Vous devez modifier cette configuration de Zel dans Outils avant de modifier cette configuration de ZelNodes.",
     zelnode_configuration_change_restart3: "Des fichiers de configuration mal configurés peuvent entraîner un dysfonctionnement du portefeuille!",
     my_zelnodes: "Mes ZelNodes",
     all_zelnodes: "Tous les ZelNodes",
@@ -401,7 +401,7 @@ export default {
     continue_zelnode_setup: "Continuer la configuration de ZelNode",
     blocks: "Blocs",
     setup: "Installer",
-    welcome_zelnodes_first: "Bienvenue dans ZelNodes. Tout d'abord, il est recommandé de sauvegarder nos adresses existantes. \n"
+    welcome_zelnodes_first: "Bienvenue dans ZelNodes. Tout d'abord, il est recommandé de sauvegarder nos adresses existantes. "
     + "Vous pouvez sauvegarder chaque clé privée en plaçant votre portefeuille à l'emplacement souhaité ou en sauvegardant une clé privée contenant uniquement les adresses de votre choix.",
     backup_single_address: "Sauvegarder une adresse unique",
     backup_all_addresses: "Sauvegarder toutes les adresses",
@@ -409,7 +409,7 @@ export default {
     backup_address_info: "Ceci générera un fichier dans le répertoire d'exportation listant toutes les clés privées avec leurs adresses associées.",
     enter_zelnode_name: "Entrez le nom de votre ZelNode",
     automatic_log_out: "Déconnexion automatique",
-    auto_log_out_info_full_node: "Génial! Examinez vos paramètres de déconnexion automatique. Les opérations dans un nœud complet prennent un certain temps, en particulier lorsque vous avez besoin de réindexer. \n"
+    auto_log_out_info_full_node: "Génial! Examinez vos paramètres de déconnexion automatique. Les opérations dans un nœud complet prennent un certain temps, en particulier lorsque vous avez besoin de réindexer. "
     + "Nous vous recommandons donc de définir la déconnexion automatique à une heure ultérieure ou de la désactiver en déplaçant le curseur.",
     next_step: "Prochaine étape",
     configuration_done_reindex1: "Nous avons modifié votre fichier de configuration. Un nouvel index de votre chaîne de blocs est nécessaire pour que ZelNodes fonctionne correctement.",
@@ -457,7 +457,7 @@ export default {
     daemon_restart_performed_after: "Un redémarrage du démon sera effectué après confirmation de cette nouvelle configuration.",
     zelnodes_configuration_loading: "La configuration de ZelNodes est en cours de chargement ...",
     save_and_continue: "Sauvegarder et continuer",
-    configuration_file_for_server: "Vous trouverez ci-dessous le fichier de configuration ZelCash généré pour votre serveur. Copiez le texte et collez-le dans le fichier ~/.zelcash/zelcash.conf de votre serveur. Ensuite, commencez par démarrer votre serveur ZelNode. \n"
+    configuration_file_for_server: "Vous trouverez ci-dessous le fichier de configuration Zel généré pour votre serveur. Copiez le texte et collez-le dans le fichier ~/.zelcash/zelcash.conf de votre serveur. Ensuite, commencez par démarrer votre serveur ZelNode. "
     + "Une fois votre serveur ZelNode synchronisé, vous pouvez activer votre ZelNode. Notez que l'activation peut prendre jusqu'à une demi-heure.",
     copy_configuration: "Copier la configuration dans le presse-papier",
     activate_my_zelnode: "Activer mon ZelNode!",
@@ -529,7 +529,7 @@ export default {
     d2fa_is_not_activated_yet: "d2FA n'est pas encore activé. Le Easy Login ne peut pas être défini.",
     language: "Langue",
     full_node_encryption: "Cryptage complet du portefeuille de noeuds",
-    full_node_encryption_message: "ZelCore crypte par défaut votre fichier wallet.dat de nœud complet. Ainsi, le fichier wallet.dat est associé uniquement à un compte ZelCore et le cryptage empêche également d'autres personnes d'accéder à votre portefeuille. \n"
+    full_node_encryption_message: "ZelCore crypte par défaut votre fichier wallet.dat de nœud complet. Ainsi, le fichier wallet.dat est associé uniquement à un compte ZelCore et le cryptage empêche également d'autres personnes d'accéder à votre portefeuille. "
     + "Cependant, votre portefeuille complet wallet.dat ne peut pas être accédé depuis un logiciel de portefeuille autre que ZelCore tel que ZELmate. Si le cryptage est désactivé, wallet.dat est partagé entre tous les comptes ZelCore et les autres logiciels de portefeuille.",
 
 
@@ -675,7 +675,7 @@ export default {
 
     // Infobulles et texte de script
     auto_updates_disabled: "Les mises à jour automatiques de ZelCore sont désactivées. Votre version est peut-être obsolète!",
-    launches_a_fullnode_extended: "Lance un nœud complet avec des fonctions étendues! ZelCore utilisant le cryptage, vos fonds ne seront pas accessibles dans un logiciel de nœud complet autre que ZelCore. \n"
+    launches_a_fullnode_extended: "Lance un nœud complet avec des fonctions étendues! ZelCore utilisant le cryptage, vos fonds ne seront pas accessibles dans un logiciel de nœud complet autre que ZelCore. "
     + "FullNode est réservé aux utilisateurs expérimentés. Si vous ne savez pas ce qu'est le FullNode, ne l'utilisez pas!",
     wrong_pin: "Mauvais code PIN - Accès refusé",
     error_d2fa_cert: "Une erreur dans le certificat d2FA pourrait constituer une atteinte à la sécurité. Veuillez contacter l'équipe ZelCore.",

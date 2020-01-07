@@ -1,19 +1,12 @@
-<svg id="DASH" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #008de4;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main-F" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="D" class="cls-2" d="M120,278c4.222-17.944,6.181-45,33-45H254c-0.511,14.886-1.834,45-33,45H120Zm69-85,8-45h97c4.25,0,91-7.172,91,76-1.974,72.533-32.307,139-121,139H159l8-45h94c68.7,0,68.732-71.286,70-85,0-15.854-6.66-40-54-40H189Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="DASH" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#008DE4;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main-F" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="D" class="st1" d="M54.5,133.5c2.1-9,3.1-22.5,16.5-22.5h50.5c-0.3,7.4-0.9,22.5-16.5,22.5H54.5z M89,91l4-22.5h48.5
+	c2.1,0,45.5-3.6,45.5,38c-1,36.3-16.2,69.5-60.5,69.5H74l4-22.5h47c34.4,0,34.4-35.6,35-42.5c0-7.9-3.3-20-27-20H89z"/>
 </svg>

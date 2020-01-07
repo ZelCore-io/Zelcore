@@ -1,19 +1,11 @@
-<svg id="Litecoin" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #385d9a;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="L" class="cls-2" d="M216,127L180,265l-31,11-10,38,30-10-21,80H359l14-51H241l17-62,39-14,10-39-39,14,28-105H216Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Litecoin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#385D9A;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="L" class="st1" d="M205,116l-36,138l-31,11l-10,38l30-10l-21,80h211l14-51H230l17-62l39-14l10-39l-39,14l28-105H205z"/>
 </svg>

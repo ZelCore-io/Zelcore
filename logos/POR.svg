@@ -1,24 +1,61 @@
-<svg width="256px" height="256px" viewBox="0 0 490 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>POR</title>
-    <g id="PORLOGO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="POR">
-            <path d="M0,245 C0,380.094 109.906,490 245,490 C380.094,490 490,380.094 490,245 C490,109.906 380.094,0 245,0 C109.906,0 0,109.906 0,245 Z" id="Full" fill="#101010"></path>
-            <text id="0000000019d6689c-000" font-family="Courier New, Courier, monospace" font-size="20" font-weight="bold" line-spacing="23" letter-spacing="2.3" fill="#fff">
-                <tspan x="100" y="103" xml:space="preserve">  <tspan>0000000019d6689c</tspan></tspan>
-                <tspan x="100" y="126" xml:space="preserve"> <tspan>00000000019d6689c08</tspan></tspan>
-                <tspan x="100" y="149">000000000019d6689c085</tspan>
-                <tspan x="100" y="172">00000<tspan xml:space="preserve">           </tspan>9c085</tspan>
-                <tspan x="100" y="195">00000<tspan xml:space="preserve">            </tspan>c085</tspan>
-                <tspan x="100" y="218">00000<tspan xml:space="preserve">            </tspan>c085</tspan>
-                <tspan x="100" y="241">00000<tspan xml:space="preserve">           </tspan>9c085</tspan>
-                <tspan x="100" y="264">00000<tspan xml:space="preserve">    </tspan>019d6689c085</tspan>
-                <tspan x="100" y="287">00000<tspan xml:space="preserve">   </tspan>0019d6689c085</tspan>
-                <tspan x="100" y="310">00000<tspan xml:space="preserve">  </tspan>00019d6689c</tspan>
-                <tspan x="100" y="333">00000</tspan>
-                <tspan x="100" y="356">00000</tspan>
-                <tspan x="100" y="379">00000</tspan>
-                <tspan x="100" y="402">00000</tspan>
-            </text>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Lager_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#101010;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'CourierNewPS-BoldMT';}
+	.st3{font-size:10.449px;}
+	.st4{letter-spacing:1;}
+</style>
+<title>POR</title>
+<g id="PORLOGO">
+	<g id="POR">
+		<path id="Full" class="st0" d="M0,128c0,70.6,57.4,128,128,128s128-57.4,128-128S198.6,0,128,0S0,57.4,0,128z"/>
+		<text transform="matrix(1 0 0 1 52.2451 53.8125)" class="st1 st2 st3 st4">  </text>
+		<text transform="matrix(1 0 0 1 67.189 53.8125)" class="st1 st2 st3 st4">0000000019d6689c</text>
+		<text transform="matrix(1 0 0 1 186.7417 53.8125)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 65.8286)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 59.7168 65.8286)" class="st1 st2 st3 st4">00000000019d6689c08</text>
+		<text transform="matrix(1 0 0 1 201.6855 65.8286)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 77.8447)" class="st1 st2 st3 st4">000000000019d6689c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 77.8447)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 89.8613)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 89.8613)" class="st1 st2 st3 st4">           </text>
+		<text transform="matrix(1 0 0 1 171.7979 89.8613)" class="st1 st2 st3 st4">9c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 89.8613)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 101.8779)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 101.8779)" class="st1 st2 st3 st4">            </text>
+		<text transform="matrix(1 0 0 1 179.2695 101.8779)" class="st1 st2 st3 st4">c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 101.8779)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 113.894)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 113.894)" class="st1 st2 st3 st4">            </text>
+		<text transform="matrix(1 0 0 1 179.2695 113.894)" class="st1 st2 st3 st4">c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 113.894)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 125.9101)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 125.9101)" class="st1 st2 st3 st4">           </text>
+		<text transform="matrix(1 0 0 1 171.7979 125.9101)" class="st1 st2 st3 st4">9c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 125.9101)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 137.9268)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 137.9268)" class="st1 st2 st3 st4">    </text>
+		<text transform="matrix(1 0 0 1 119.4932 137.9268)" class="st1 st2 st3 st4">019d6689c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 137.9268)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 149.9429)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 149.9429)" class="st1 st2 st3 st4">   </text>
+		<text transform="matrix(1 0 0 1 112.0215 149.9429)" class="st1 st2 st3 st4">0019d6689c085</text>
+		<text transform="matrix(1 0 0 1 209.1577 149.9429)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 161.959)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 161.959)" class="st1 st2 st3 st4">  </text>
+		<text transform="matrix(1 0 0 1 104.5488 161.959)" class="st1 st2 st3 st4">00019d6689c</text>
+		<text transform="matrix(1 0 0 1 186.7417 161.959)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 173.9756)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 173.9756)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 185.9922)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 185.9922)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 198.0083)" class="st1 st2 st3 st4">00000</text>
+		<text transform="matrix(1 0 0 1 89.605 198.0083)" class="st1 st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 52.2451 210.0244)" class="st1 st2 st3 st4">00000</text>
+	</g>
+</g>
 </svg>

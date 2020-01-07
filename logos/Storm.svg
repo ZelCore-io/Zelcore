@@ -1,19 +1,11 @@
-<svg id="Storm" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #6b38df;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Storm-2" data-name="Storm" class="cls-2" d="M147,283h92L214,416l11,2L365,222H274L297,90l-11-2Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Storm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6B38DF;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Storm-2" class="st1" d="M68,136h46l-12.5,66.5l5.5,1l70-98h-45.5l11.5-66l-5.5-1L68,136z"/>
 </svg>

@@ -1,23 +1,15 @@
-<svg id="ETHLend" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #00acc7;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="LEND">
-    <path id="Down" class="cls-2" d="M151,263l28-28,98,98-97,97-29-29,69-69Zm69,69-69-69"/>
-    <path id="Middle" class="cls-2" d="M193,222l28-28,97,97-28,28Z"/>
-    <path id="Top" class="cls-2" d="M360,110L332,82l-98,98,97,97,29-29-69-69Zm-69,69,69-69"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ETHLend" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00ACC7;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="LEND">
+	<path id="Down" class="st1" d="M70,126l14-14l49,49l-48.5,48.5L70,195l34.5-34.5L70,126z M104.5,160.5L70,126"/>
+	<path id="Middle" class="st1" d="M91,105.5l14-14l48.5,48.5l-14,14L91,105.5z"/>
+	<path id="Top" class="st1" d="M174.5,49.5l-14-14l-49,49L160,133l14.5-14.5L140,84L174.5,49.5z M140,84l34.5-34.5"/>
+</g>
 </svg>

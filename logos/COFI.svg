@@ -1,22 +1,14 @@
-<svg id="CoinFi" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #23adf0;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: square;
-        stroke-width: 9px;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="CoinFi-2" data-name="CoinFi" class="cls-2" d="M143,223a32.971,32.971,0,0,0-18-5c-9.4,0-35,7.609-35,37,0,30.03,24.686,37,35,37,9.948-.045,19-6,19-6m57-68c19.571,0,35,18.023,35,37s-14.769,37-35,37c-18.433,0-37-15.7-37-37A36.993,36.993,0,0,1,201,218Zm53,1v73m47-16H281V220s1.482-.067,3,0c9.572,12.307,41.834,60.766,50,72,1.52,0.077,3,0,3,0V219m-57,73h31m46,1V220h46m-13,36H357m64-37v75"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="CoinFi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#23ADF0;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linecap:square;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="CoinFi-2" class="st1" d="M66,106c-2.7-1.7-5.8-2.6-9-2.5c-4.7,0-17.5,3.8-17.5,18.5c0,15,12.3,18.5,17.5,18.5
+	c5,0,9.5-3,9.5-3 M95,103.5c9.8,0,17.5,9,17.5,18.5s-7.4,18.5-17.5,18.5c-9.2,0-18.5-7.9-18.5-18.5C76.5,111.8,84.8,103.5,95,103.5
+	C95,103.5,95,103.5,95,103.5z M121.5,104v36.5 M145,132.5h-10v-28c0,0,0.7,0,1.5,0c4.8,6.2,20.9,30.4,25,36c0.8,0,1.5,0,1.5,0V104
+	 M134.5,140.5H150 M173,141v-36.5h23 M189.5,122.5H173 M205,104v37.5"/>
 </svg>

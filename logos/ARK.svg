@@ -1,19 +1,12 @@
-<svg id="ARK" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #c9292c;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Ark-2" data-name="Ark" class="cls-2" d="M421,380L256.6,206.309,91,380,256.6,113ZM227.33,277h58.14L256.6,247.105Zm103.451,47.26-26.464-27.872H208.485l-26.464,27.872h148.76Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ARK" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C9292C;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="Ark-2" class="st1" d="M410,369L245.6,195.3L80,369l165.6-267L410,369z M216.3,266h58.1l-28.9-29.9L216.3,266z
+	 M319.8,313.3l-26.5-27.9h-95.8L171,313.3H319.8z"/>
 </svg>

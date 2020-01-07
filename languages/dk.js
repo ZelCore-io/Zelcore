@@ -99,7 +99,7 @@ export default {
     create_or_change_pin: "Opret eller skift din d2FA-pinkode",
     disable_your_d2fa: "Deaktiver din d2FA",
     d2fa_requires_minimum: "d2FA kræver at du har et minimumsbeløb på 0,0002 ZEL i din tegnebog for at udsende en d2FA-transaktion. Ændringer træder i kraft efter transaktionen er bekræftet, og kontoen er logget på igen.",
-    d2fa_adds_another_layer: "d2FA tilføjer et andet lag med beskyttelse og sikkerhed.Du vil ikke kunne underskrive eller udføre sikkerhedsopgaver vedrørende din konto uden denne ændrede PIN-kode. PIN-koden gemmes direkte på blockchain i krypteret form. \n"
+    d2fa_adds_another_layer: "d2FA tilføjer et andet lag med beskyttelse og sikkerhed.Du vil ikke kunne underskrive eller udføre sikkerhedsopgaver vedrørende din konto uden denne ændrede PIN-kode. PIN-koden gemmes direkte på blockchain i krypteret form. "
     + "Ingen, andre end dig kan ændre din d2FA underskrift!",
     create_or_change_easy: "Opret eller ændr Easy Login",
     signing_address: "Underskrifts address:",
@@ -156,9 +156,9 @@ export default {
 
     // account warning
     password_is_key: "Din adgangskode er nøglen til at få adgang til dine penge, gør det så stærkt som muligt!",
-    no_keep_copy: "ZelCore opbevarer ikke en kopi af dit ukrypterede kodeord lokalt eller eksternt. Derfor er der ingen mulighed for at hente adgangskoden eller ændre den. \n"
+    no_keep_copy: "ZelCore opbevarer ikke en kopi af dit ukrypterede kodeord lokalt eller eksternt. Derfor er der ingen mulighed for at hente adgangskoden eller ændre den. "
     + "Hvis du mister (eller glemmer) enten dit brugernavn eller din adgangskode, vil du miste adgangen til din tegnebog PERMANENTT. Det er således meget vigtigt og NØDVENDIGT at du opbevarer en kopi af dine oplysninger sikkert.",
-    software_as_is: "SOFTWAREN LEVERES 'SOM DEN ER', UDEN GARANTI AF ENHVER ART, UDTRYKKELIG ELLER UNDERFORSTÅET, INKLUSIVE MEN IKKE BEGRÆNSET TIL GARANTIER OM SALGBARHED, EGNETHED TIL ET BESTEMT FORMÅL OG IKKE-OVERTRÆDELSE. \n"
+    software_as_is: "SOFTWAREN LEVERES 'SOM DEN ER', UDEN GARANTI AF ENHVER ART, UDTRYKKELIG ELLER UNDERFORSTÅET, INKLUSIVE MEN IKKE BEGRÆNSET TIL GARANTIER OM SALGBARHED, EGNETHED TIL ET BESTEMT FORMÅL OG IKKE-OVERTRÆDELSE. "
                     + "UNDER INGEN OMSTÆNDIGHEDEER SKAL FORFATTER ELLER OPRETSHAVER VÆRE ANSVARLIGE FOR EVENTUELLE KRAV, SKADER ELLER ANDET ANSVAR, OM EN KONTRAKT, TORT ELLER ANDET, OPSTÅET AF ELLER I FORBINDELSE MED SOFTWAREN ELLER ANVENDELSEN ELLER ANDRE FORHOLD I SOFTWAREN.",
     backup_backup_backup: "BACKUP, BACKUP, BACKUP igen!",
     im_aware_register: "Jeg er opmærksom på det, Tilmeld!",
@@ -228,14 +228,14 @@ export default {
     payment_note: "Betalingsnote",
     warning_eth_contracts: "Advarsel: Ethereum kontrakter tager et par minutter at blive vist i explorer! Kontrakter kræver at Ethereum er til stede i din tegnebog, som en Gas, der sørger for kontraktens udførelse.",
     warning_etc_transactions: "Advarsel: Det tager et stykke tid for en Ethereum Classic-transaktion at blive opført i en transaktionstabel.",
-    warning_usdt_is_btc: "Advarsel: Tether er en Bitcoin-token og kræver derfor, at BTC udfører en transaktion. Udover Bitcoin-transaktionsgebyrer skal 0.000006 BTC være \n"
-                         + "sendt til destinationsadressen som et Bitcoin netværkskrav. Sendingsprocessen tager nogle sekunder, og det kan tage op til et par minutter for \n"
+    warning_usdt_is_btc: "Advarsel: Tether er en Bitcoin-token og kræver derfor, at BTC udfører en transaktion. Udover Bitcoin-transaktionsgebyrer skal 0.000006 BTC være "
+                         + "sendt til destinationsadressen som et Bitcoin netværkskrav. Sendingsprocessen tager nogle sekunder, og det kan tage op til et par minutter for "
                          + "en transaktionat blive synlig på Omni Explorer og endnu mere at blive vist i transaktionstabellen, så vær tålmodig! Transaktionen er øjeblikkeligt synlig i din Bitcoin ZelCore-tegnebog.",
     warning_monero_fee: "Advarsel: Monero-gebyr er ikke kendt før transaktionsoprettelsen, dette er kun omtrentligt. Transaktionsoprettelse tager et par sekunder.",
     edit: "Rediger",
     delete: "Slet",
     show_in_explorer: "Vis i explorer",
-    full_node_launch_note: "Da ZelCore benytter kryptering, vil dine midler ikke være tilgængelige i anden Fuld Node software end ZelCore. Fuld node er kun for avancerede brugere. \n"
+    full_node_launch_note: "Da ZelCore benytter kryptering, vil dine midler ikke være tilgængelige i anden Fuld Node software end ZelCore. Fuld node er kun for avancerede brugere. "
                            + "Hvis du ikke ved, hvad Fuld Node er, skal du ikke bruge det! Vær venlig at sikkerhedskopiere private nøgler til adresser, du bruger.",
     launch_full_node: "Start Fuld Node",
     destination_address: "Destinations adresse",
@@ -348,7 +348,7 @@ export default {
     do_not_change_rpc_ports3: "En reindeksering er nødvendig, hvis noget indeks ændres (f.eks. txindex er sættes til aktiv).",
     save_and_reindex: "Gem og reindekser",
     zelnode_configuration_change_restart1: "Efter en ændring i Zelnode-konfigurationen genstartes Daemon automatisk.",
-    zelnode_configuration_change_restart2: "Husk at ZelNoder kræver en ændring i ZelCash-konfigurationsfilen også (zelcash.conf). Du skal ændre denne ZelCash-konfiguration i Værktøjer før du ændrer denne ZelNodes-konfiguration.",
+    zelnode_configuration_change_restart2: "Husk at ZelNoder kræver en ændring i Zel-konfigurationsfilen også (zelcash.conf). Du skal ændre denne Zel-konfiguration i Værktøjer før du ændrer denne ZelNodes-konfiguration.",
     zelnode_configuration_change_restart3: "Fejlkonfigurerede konfigurationsfiler kan forårsage funktionsfejl!",
     my_zelnodes: "Mine ZelNoder",
     all_zelnodes: "Alle ZelNoder",
@@ -397,7 +397,7 @@ export default {
     continue_zelnode_setup: "Fortsæt ZelNode Setup",
     blocks: "Blokke",
     setup: "Setup",
-    welcome_zelnodes_first: "Velkommen til ZelNodes. For det første anbefales det at sikkerhedskopiere vores eksisterende adresser. \n"
+    welcome_zelnodes_first: "Velkommen til ZelNodes. For det første anbefales det at sikkerhedskopiere vores eksisterende adresser. "
                           + "Du kan enten sikkerhedskopiere hver privat nøgle ved at dumpe din tegnebog til det ønskede sted eller sikkerhedskopiere en privat nøgle med kun de adresser, du ønsker.",
     backup_single_address: "Backup  enkelt adresse",
     backup_all_addresses: "Backup alle adresser",
@@ -452,7 +452,7 @@ export default {
     daemon_restart_performed_after: "En Daemon genstart vil blive udført efter bekræftelse af denne nye konfiguration.",
     zelnodes_configuration_loading: "ZelNodes Configuration indlæses ...",
     save_and_continue: "Gem og fortsæt",
-    configuration_file_for_server: "Herunder kan du finde din genererede ZelCash konfigurationsfil til din Server. Kopier teksten og indsæt den i ~/.zelcash/zelcash.conf fil på din server. Start dernæst din Server ZelNode. \n"
+    configuration_file_for_server: "Herunder kan du finde din genererede Zel konfigurationsfil til din Server. Kopier teksten og indsæt den i ~/.zelcash/zelcash.conf fil på din server. Start dernæst din Server ZelNode. "
     + "Når din server ZelNode er synkroniseret, kan du aktivere din ZelNode. Bemærk, at aktivering kan tage op til en halv time.",
     copy_configuration: "Kopier konfiguration til udklipsholder",
     activate_my_zelnode: "Aktiver min ZelNode!",
@@ -524,7 +524,7 @@ export default {
     d2fa_is_not_activated_yet: "d2FA er ikke aktiveret endnu. Easy Login kan ikke indstilles.",
     language: "Sprog",
     full_node_encryption: "Fuld Node tegnebog kryptering",
-    full_node_encryption_message: "ZelCore krypterer som standard din Fulde Node wallet.dat-fil. Dette gør at wallet.dat-filen kun er tilknyttet en ZelCore-konto, og kryptering forhindrer også andre personer end dig adgang til din tegnebog. \n"
+    full_node_encryption_message: "ZelCore krypterer som standard din Fulde Node wallet.dat-fil. Dette gør at wallet.dat-filen kun er tilknyttet en ZelCore-konto, og kryptering forhindrer også andre personer end dig adgang til din tegnebog. "
     + "Men din Fuld Node wallet.dat kan ikke åbnes fra anden tegnebog software end ZelCore som ZELmate. Hvis kryptering er deaktiveret deles wallet.dat blandt alle ZelCore-konti og også andre tegnebogsprogrammer.",
 
 

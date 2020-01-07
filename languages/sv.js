@@ -55,7 +55,7 @@ export default {
     create_or_change_pin: "Skapa eller ändra din d2FA PIN",
     disable_your_d2fa: "Inaktivera din d2FA",
     d2fa_requires_minimum: "d2FA kräver minst 0,0002 ZEL i din plånbok för att sända en d2FA transaktion. Ändringar träder i kraft efter att transaktionen har bekräftats och konto inloggats på nytt.",
-    d2fa_adds_another_layer: "d2FA lägger till ytterligare ett lager skydd och säkerhet. Du kommer inte att kunna underteckna eller utföra säkerhetsuppgifter angående ditt konto utan denna ändringsbara PIN-kod. PIN-koden sparas direkt på blockchain i krypterad form. \n"
+    d2fa_adds_another_layer: "d2FA lägger till ytterligare ett lager skydd och säkerhet. Du kommer inte att kunna underteckna eller utföra säkerhetsuppgifter angående ditt konto utan denna ändringsbara PIN-kod. PIN-koden sparas direkt på blockchain i krypterad form. "
       + "Ingen utom du kan ändra din d2FA signatur!",
     create_or_change_easy: "Skapa eller ändra Easy Login",
     signing_address: "Signerings adress:",
@@ -99,7 +99,7 @@ export default {
     // account warning
     password_is_key: "Ditt lösenord är nyckeln till dina tillgångar, gör det så starkt som möjligt!",
     no_keep_copy: "Ditt lösenord är nyckeln till dina tillgångar, gör det så starkt som möjligt!",
-    software_as_is: "PROGRAMVARAN LEVERAS 'SOM DEN ÄR', UTAN GARANTI AV NÅGOT TYP, UTTRYCKLIGT ELLER UNDERFÖRSTÅDD, INKLUSIV MEN INTE BEGRÄNSAT TILL GARANTIERNA FÖR SÄLJBARHET, PASSAR FÖR ETT SÄRSKILT SYFTE OCH INTRÅNG. \n"
+    software_as_is: "PROGRAMVARAN LEVERAS 'SOM DEN ÄR', UTAN GARANTI AV NÅGOT TYP, UTTRYCKLIGT ELLER UNDERFÖRSTÅDD, INKLUSIV MEN INTE BEGRÄNSAT TILL GARANTIERNA FÖR SÄLJBARHET, PASSAR FÖR ETT SÄRSKILT SYFTE OCH INTRÅNG. "
       + "INNEHÅLLSFÖRSÄLJARE TAR INTE ANSVAR FÖR, SKADOR ELLER ANDRA SKYLDIGHETER, OM EN ÅTGÄRDER AV KONTRAKT, FÖRSEELSE ELLER PÅ ANNAT SÄTT, FRÅN, UTAN ELLER I SAMBAND MED PROGRAMVARAN ELLER ANVÄNDNINGEN ELLER ANDRA FÖRHANDLINGAR I PROGRAMVARA.",
     backup_backup_backup: "BACKUP, BACKUP, BACKUP igen!",
     im_aware_register: "Jag är medveten, registrera!",
@@ -144,14 +144,14 @@ export default {
     attach_payment_id: "Bifoga betalnings ID",
     warning_eth_contracts: "Varning: Ethereum kontrakt tar några minuter att visas i explorer! Kontrakt kräver att Ethereum är närvarande i din plånbok som är Gas som driver kontraktsuppförande.",
     warning_etc_transactions: "Varning: Det tar ett tag för en Ethereum Classic transaktion att listas i en transaktionstabell.",
-    warning_usdt_is_btc: "Varning: Tether är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara \n"
-      + "skickat till destinationsadressen som ett Bitcoin nätverkskrav. Sändning av proccess tar några sekunder och det kan ta upp till några minuter för \n"
+    warning_usdt_is_btc: "Varning: Tether är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara "
+      + "skickat till destinationsadressen som ett Bitcoin nätverkskrav. Sändning av proccess tar några sekunder och det kan ta upp till några minuter för "
       + "en transaktion som är synlig på Omni Explorer och ännu mer att visas i transaktionstabellen, var tålmodig! Transaktionen är direkt synlig i din Bitcoin ZelCore plånbok.",
     warning_monero_fee: "Varning: Monero avgiften är inte känd före transaktionsupprättandet, det här är bara en uppskattning. Transaktionsskapande tar några sekunder.",
     edit: "Redigera",
     delete: "Radera",
     show_in_explorer: "Visa i explorer",
-    full_node_launch_note: "På grund av att ZelCore använder kryptering kommer dina medel inte att vara tillgängliga i annan full nod-program än ZelCore. Full nod är endast för avancerade användare, \n"
+    full_node_launch_note: "På grund av att ZelCore använder kryptering kommer dina medel inte att vara tillgängliga i annan full nod-program än ZelCore. Full nod är endast för avancerade användare, "
       + "om du inte vet vad Full Node är, använd det inte! Var snäll och säkerhetskopiera privata nycklar till adresser du använder.",
     launch_full_node: "Starta Full Node",
 

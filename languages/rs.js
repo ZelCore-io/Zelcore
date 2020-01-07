@@ -1,4 +1,4 @@
-﻿export default {
+export default {
   message: {
     // Universal
     zelcore: "ZelCore",
@@ -100,7 +100,7 @@
     create_or_change_pin: "Izradi ili promeni svoj d2FA PIN",
     disable_your_d2fa: "Onemogući svoj d2FA",
     d2fa_requires_minimum: "d2FA zahteva da minimalni iznos od 0,0002 ZEL bude prisutan u vašem novčaniku kako bi se emitovala d2FA transakcija. Promene stupaju na snagu nakon potvrde transakcije i ponovnog prijavljivanja na nalog.",
-    d2fa_adds_another_layer: "d2FA dodaje još jedan sloj zaštite i sigurnosti. Nećete moći potpisati ili izvršiti sigurnosne zadatke koji se odnose na vaš nalog bez tog promenljivog PIN-a. PIN se čuva direktno u blockchain u šifrovanom obliku. \n"
+    d2fa_adds_another_layer: "d2FA dodaje još jedan sloj zaštite i sigurnosti. Nećete moći potpisati ili izvršiti sigurnosne zadatke koji se odnose na vaš nalog bez tog promenljivog PIN-a. PIN se čuva direktno u blockchain u šifrovanom obliku. "
     + "Niko osim vas ne može menjati vaš d2FA potpis!",
     create_or_change_easy: "Stvori ili promeni jednostavnu prijavu",
     signature_address: "Adresa za prijavu:",
@@ -157,9 +157,9 @@
 
     // account warning
     password_is_key: "Vaša je lozinka ključ za pristup vašim sredstvima, učinite je što jačom!",
-    no_keep_copy: "ZelCore ne čuva kopiju vaše nešifrovane lozinke lokalno ili daljinski. Zbog ove osobine ne postoji način da se povrati lozinka niti da se promeni. \n"
+    no_keep_copy: "ZelCore ne čuva kopiju vaše nešifrovane lozinke lokalno ili daljinski. Zbog ove osobine ne postoji način da se povrati lozinka niti da se promeni. "
     + "Ako izgubite (ili zaboravite) svoje korisničko ime ili lozinku, izgubićete pristup svom novčaniku TRAJNO. Stoga je VRLO VAŽNO i IMPERATIVNO čuvati kopiju svojih podataka za pristup na sigurnom mestu.",
-    software_as_is: "SOFTVER SE PRUŽA 'KAO TAKAV', BEZ GARANCIJE BILO KOJE VRSTE, IZRIČITIH ILI IMPLICITNIH, UKLJUČUJUĆI, ALI NE OGRANIČAVAJUĆI NA JAMSTVA ZA PRODAJU, PRIKLADNOST ZA ODREĐENU NAMJENU I NEPOVRATU. \n"
+    software_as_is: "SOFTVER SE PRUŽA 'KAO TAKAV', BEZ GARANCIJE BILO KOJE VRSTE, IZRIČITIH ILI IMPLICITNIH, UKLJUČUJUĆI, ALI NE OGRANIČAVAJUĆI NA JAMSTVA ZA PRODAJU, PRIKLADNOST ZA ODREĐENU NAMJENU I NEPOVRATU. "
                     + "AUTORI ILI NOSITELJI AUTORSKIH PRAVA NEĆE BITI ODGOVORNI ZA BILO KOJI ZATHEV, ŠTETU ILI DRUGU ODGOVORNOST, UKLJUČENI U, U KOJOJ DJELUJU, U POGLEDU SOFTVERA ILI KORIŠTENJA ILI DRUGIH POSLOVA U SOFTVERU. ",
     backup_backup_backup: "BACKUP, BACKUP, BACKUP opet!",
     im_aware_register: "Svestan sam, registriruj se!",
@@ -236,7 +236,7 @@
     edit: "Uredi",
     delete: "Izbriši",
     show_in_explorer: "Prikaži u istraživaču",
-    full_node_launch_note: "Zbog ZelCore-a koji koristi enkripciju, vaša sredstva neće biti dostupna u drugom full node softveru osim ZelCore-a. Full node je samo za napredne korisnike, \n"
+    full_node_launch_note: "Zbog ZelCore-a koji koristi enkripciju, vaša sredstva neće biti dostupna u drugom full node softveru osim ZelCore-a. Full node je samo za napredne korisnike, "
                            + "ako ne znate što je full node, nemojte ga koristiti! Molimo vas da često kopirate privatne ključeve adresa koje koristite.",
     launch_full_node: "Pokreni full node",
     destination_adress: "Odredišna adresa",
@@ -307,7 +307,7 @@
     no_shieldable_amount: "Ne postoji iznos za zaštitu.",
     shield: "Štit",
     rescan_blockchain: "Ponovno skeniraj blockchain",
-    rescan_blockchain_info: "Prolazi kroz blockchain kako bi pronašao transakcije koje nedostaju iz vašeg novčanika. Korisno ako ste uvezli adresu za koju znate da ima određenih sredstava. \n"
+    rescan_blockchain_info: "Prolazi kroz blockchain kako bi pronašao transakcije koje nedostaju iz vašeg novčanika. Korisno ako ste uvezli adresu za koju znate da ima određenih sredstava. "
     + "Ova radnja će ponovno pokrenuti daemon novčića s opcijom ponovnog skeniranja. Novčanik neće biti operativan do sat vremena! ",
     rescan: "Ponovo skeniraj",
     configuration_file: "Konfiguracioni fajl",
@@ -350,7 +350,7 @@
     do_not_change_rpc_ports3: "Ponovno indeksiranje je potrebno ako se neki indeks menja (npr. txindex se postavlja na aktivno).",
     save_and_reindex: "Sačuvaj i ponovo indeksiraj",
     zelnode_configuration_change_restart1: "Nakon promene konfiguracije ZelNode-a, automatski će se izvršiti ponovno pokretanje daemona.",
-    zelnode_configuration_change_restart2: "Imajte na umu da ZelNodes takođe zahtevaju promenu u ZelCash konfiguracionom fajlu (zelcash.conf). Trebate izmijeniti ovu ZelCash konfiguraciju u Alati prije izmjene ove ZelNodes konfiguracije.",
+    zelnode_configuration_change_restart2: "Imajte na umu da ZelNodes takođe zahtevaju promenu u Zel konfiguracionom fajlu (zelcash.conf). Trebate izmijeniti ovu Zel konfiguraciju u Alati prije izmjene ove ZelNodes konfiguracije.",
     zelnode_configuration_change_restart3: "Pogrešno konfigurisani konfiguracioni fajlovi mogu uzrokovati kvar novčanika!",
     my_zelnodes: "Moji ZelNodes-i",
     all_zelnodes: "Svi ZelNodes-i",
@@ -399,7 +399,7 @@
     continue_zelnode_setup: "Nastavi s postavljanjem ZelNode-a",
     blocks: "Blokovi",
     setup: "Postavljanje",
-    welcome_zelnodes_first: "Dobro došli u ZelNodes. Prvo se preporučuje da napravite sigurnosnu kopiju naših postojećih adresa. \n"
+    welcome_zelnodes_first: "Dobro došli u ZelNodes. Prvo se preporučuje da napravite sigurnosnu kopiju naših postojećih adresa. "
     + "Možete ili izraditi sigurnosnu kopiju svakog privatnog ključa tako što ćete svoj novčanik ostaviti na željenom mestu ili napraviti sigurnosnu kopiju privatnog ključa samo onih adresa koje želite.",
     backup_single_address: "Sigurnosna kopija jedne adrese",
     backup_all_addresses: "Sigurnosna kopija svih adresa",
@@ -454,7 +454,7 @@
     daemon_restart_performed_after: "Ponovno pokretanje daemona izvršiće se nakon potvrde nove konfiguracije.",
     zelnodes_configuration_loading: "Konfiguracija ZelNodes se učitava ...",
     save_and_continue: "Sačuvaj i nastavi",
-    configuration_file_for_server: "Ispod možete pronaći vašu generisani ZelCash konfiguracioni fajl za vaš server. Kopirajte tekst i zalepite ga u ~ / .zelcash / zelcash.conf datoteku na vašem serveru. Zatim nastavite sa prvim pokretanjem servera ZelNode-a. \n"
+    configuration_file_for_server: "Ispod možete pronaći vašu generisani Zel konfiguracioni fajl za vaš server. Kopirajte tekst i zalepite ga u ~ / .zelcash / zelcash.conf datoteku na vašem serveru. Zatim nastavite sa prvim pokretanjem servera ZelNode-a. "
     + "Kada se server ZelNode-a sinhronizuje, možete aktivirati svoj ZelNode. Napominjemo da aktivacija može potrajati i do pola sata.",
     copy_configuration: "Kopiraj konfiguraciju u međuspremnik",
     activate_my_zelnode: "Aktiviraj moj ZelNode!",
@@ -526,7 +526,7 @@
     d2fa_is_not_activated_yet: "d2FA još nije aktiviran. Jednostavno prijavljivanje nije moguće postaviti.",
     language: "Jezik",
     full_node_encryption: "Šifrovanje full node novčanika",
-    full_node_encryption_message: "ZelCore podrazumevano šifruje vaš full node fajl wallet.dat. To čini fajl wallet.dat povezanim samo s jednim ZelCore nalogom, a šifrovanje takođe sprečava druge osobe da pristupe novčaniku. \n"
+    full_node_encryption_message: "ZelCore podrazumevano šifruje vaš full node fajl wallet.dat. To čini fajl wallet.dat povezanim samo s jednim ZelCore nalogom, a šifrovanje takođe sprečava druge osobe da pristupe novčaniku. "
     + "Međutim, vašem full node wallet.dat ne može se pristupiti iz drugog softvera nosim ZelCore-a kao što je ZELmate. Ako je enkripcija onemogućena, wallet.dat deli se između svih ZelCore naloga i drugih softverskih platformi.",
 
     // Exchange.vue

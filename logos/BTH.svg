@@ -1,20 +1,15 @@
-<svg id="Bithereum" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #f8c545;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Eth" class="cls-2" d="M256,87L152,259h0l104,61m0,0,104-61h0L256,87m0,338L360,279,256,339.994,152,279,256,425"/>
-  <path id="B" class="cls-1" d="M223,199h10v-8h13v8h6v-8h13v8s21,1.213,21,21a22.184,22.184,0,0,1-6,15s9,6.014,9,16c0,21.665-24,23-24,23v6H252v-6h-6v6H233v-6H223V260h7V213h-7V199Zm19.987,14.049H265.18S272,214.133,272,221s-6.82,8-6.82,8H242.987V213.049Zm0,46.921V242H266.18s8.82,0.191,8.82,9-8.82,8.97-8.82,8.97H242.987Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Bithereum" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F8C545;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Eth" class="st1" d="M122.5,38l-52,86l0,0l52,30.5 M122.5,154.5l52-30.5l0,0l-52-86 M122.5,207l52-73l-52,30.5l-52-30.5
+	L122.5,207"/>
+<path class="st0" d="M134.5,112c1.9-2,3-4.7,3-7.5C137.5,94.6,127,94,127,94v-4h-6.5v4h-3v-4H111v4h-5v7h3.5v23.5H106v7h5v3h6.5v-3
+	h3v3h6.5v-3c0,0,12-0.7,12-11.5C139,115,134.5,112,134.5,112z M116,101h11.1c0,0,3.4,0.5,3.4,4c0,3.4-3.4,4-3.4,4H116V101z
+	 M127.6,124.5H116v-9h11.6c0,0,4.4,0.1,4.4,4.5S127.6,124.5,127.6,124.5z"/>
 </svg>

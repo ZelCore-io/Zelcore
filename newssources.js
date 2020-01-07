@@ -50,13 +50,13 @@ const newssources = {
       about: "Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has grown up around it. Founded by Mihai Alisie and Vitalik Buterin, the creator of Ethereum, in May 2012",
       pic: "static/news/bitcoinmagazine.svg",
     },
-    {
-      name: "Crypto Insider",
-      feed: "https://cryptoinsider.com/feed/",
-      site: "https://cryptoinsider.com/",
-      about: "Crypto Insider provides news about the crypto-space from journalists truly interested in upholding the sense of journalistic integrity.",
-      pic: "static/news/cryptoinsider.svg",
-    },
+    // {
+    //   name: "Crypto Insider",
+    //   feed: "https://cryptoinsider.com/feed/",
+    //   site: "https://cryptoinsider.com/",
+    //   about: "Crypto Insider provides news about the crypto-space from journalists truly interested in upholding the sense of journalistic integrity.",
+    //   pic: "static/news/cryptoinsider.svg",
+    // },
     {
       name: "/r/CryptoCurrency",
       feed: "https://www.reddit.com/r/CryptoCurrency/.rss",
@@ -1691,6 +1691,15 @@ const newssources = {
         site: "https://twitter.com/EOS_huobipool",
         about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
         pic: "static/logos/HPT.svg",
+      },
+    ],
+    golfcoin: [
+      {
+        name: "Golfcoin Twitter",
+        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=golfcoin",
+        site: "https://twitter.com/golfcoin",
+        about: "Rewards program for the golf industry.",
+        pic: "static/logos/GOLF.svg",
       },
     ],
   },

@@ -1,36 +1,20 @@
-<svg id="Po.et" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #43b880;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-
-      .cls-3, .cls-4 {
-        fill: none;
-        stroke: #fff;
-        stroke-width: 17px;
-      }
-
-      .cls-3 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Po.et-2" data-name="Po.et">
-    <path id="Middle" class="cls-2" d="M106,400h24L354,176c7.088-8.575-4.43-19.529-13-11Z"/>
-    <path id="Outer" class="cls-3" d="M156,361l1-80S273.514,165.486,305,134c18.384-18.384,56.519-17.589,77,6,21.254,22.667,18.637,56.363,2,73L236,361H156Z"/>
-    <path id="Top_Line" data-name="Top Line" class="cls-4" d="M299,141v76h79"/>
-    <path id="Middle_Line" data-name="Middle Line" class="cls-4" d="M251,190v76h79"/>
-    <path id="Bottom_Line" data-name="Bottom Line" class="cls-4" d="M202,239v76h79"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Po.et" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#43B880;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:8;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Po.et-2">
+	<path id="Middle" class="st1" d="M47.5,194.5h12l112-112c3.5-4.3-2.2-9.8-6.5-5.5L47.5,194.5z"/>
+	<path id="Outer" class="st2" d="M72.5,175l0.5-40c0,0,58.3-57.8,74-73.5c9.2-9.2,28.3-8.8,38.5,3c10.6,11.3,9.3,28.2,1,36.5l-74,74
+		H72.5z"/>
+	<path id="Top_Line" class="st3" d="M144,65v38h39.5"/>
+	<path id="Middle_Line" class="st3" d="M120,89.5v38h39.5"/>
+	<path id="Bottom_Line" class="st3" d="M95.5,114v38H135"/>
+</g>
 </svg>

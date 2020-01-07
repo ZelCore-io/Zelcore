@@ -1,19 +1,13 @@
-<svg id="BnB" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #f3ba2f;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main_copy_14" data-name="Main copy 14" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="BnB-2" data-name="BnB" class="cls-2" d="M164.865,198.691l90.619-90.7,90.69,90.7-33.3,33.516-57.39-57.452-57.532,57.452ZM221.794,255.5l33.69-33.43,33.808,33.43-33.808,33.711ZM140.75,222.07l33.466,33.43L140.75,289.211,107.984,255.5ZM336.19,255.5l34.161-33.43,32.641,33.43-32.641,33.711Zm-23.316,23.552,33.3,33.354-90.69,90.606-90.619-90.606,33.087-33.354,57.532,57.636Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="BnB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F3BA2F;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main_copy_14" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="BnB-2" class="st1" d="M76.9,93.8l45.3-45.3l45.3,45.3l-16.6,16.8l-28.7-28.7l-28.8,28.7L76.9,93.8z M105.4,122.2
+	l16.8-16.7l16.9,16.7l-16.9,16.9L105.4,122.2z M64.9,105.5l16.7,16.7l-16.7,16.9l-16.4-16.9L64.9,105.5z M162.6,122.2l17.1-16.7
+	l16.3,16.7l-16.3,16.9L162.6,122.2z M150.9,134l16.6,16.7L122.2,196l-45.3-45.3L93.5,134l28.8,28.8L150.9,134z"/>
 </svg>

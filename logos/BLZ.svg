@@ -1,39 +1,35 @@
-<svg id="Bluzelle" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #18578c;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Rectangle">
-    <path id="Rectangle_SW" data-name="Rectangle SW" class="cls-2" d="M198,280c10.386,19.392,14.343,23.579,35,34-7.611,7.611-30.545,30.748-30.545,30.748L168.1,310.392S189.152,288.848,198,280Z"/>
-    <path id="Rectangle_SE" data-name="Rectangle SE" class="cls-2" d="M315.051,280c-10.4,19.467-14.364,23.67-35.051,34.131,7.622,7.64,30.589,30.867,30.589,30.867L345,310.51S323.911,288.882,315.051,280Z"/>
-    <path id="Rectangle_NE" data-name="Rectangle NE" class="cls-2" d="M315.051,232c-10.4-19.467-14.364-23.67-35.051-34.131,7.622-7.64,30.589-30.867,30.589-30.867L345,201.49S323.911,223.118,315.051,232Z"/>
-    <path id="Rectangle_NW" data-name="Rectangle NW" class="cls-2" d="M197.949,232c10.4-19.467,14.364-23.67,35.051-34.131C225.378,190.229,202.411,167,202.411,167L168.005,201.49S189.089,223.118,197.949,232Z"/>
-    <path id="Rectangle_W" data-name="Rectangle W" class="cls-2" d="M194.406,265c-0.89-9-.935-9,0.6-17.936-9.938-.005-40.017-0.072-40.017-0.072l0.054,17.861S182.852,265,194.406,265Z"/>
-    <path id="Rectangle_N" data-name="Rectangle N" class="cls-2" d="M247,194.406c9-.89,9-0.935,17.936.6,0-9.938.072-40.017,0.072-40.017l-17.861.054S247,182.852,247,194.406Z"/>
-    <path id="Rectangle_E" data-name="Rectangle E" class="cls-2" d="M318.594,247c0.89,9,.935,9-0.6,17.936,9.938,0,40.017.072,40.017,0.072l-0.054-17.861S330.148,247,318.594,247Z"/>
-    <path id="Rectangle_S" data-name="Rectangle S" class="cls-2" d="M265,318.594c-9,.89-9,0.935-17.936-0.6-0.005,9.938-.072,40.017-0.072,40.017l17.861-.054S265,330.148,265,318.594Z"/>
-  </g>
-  <g id="Rounds">
-    <circle id="Middle" class="cls-3" cx="256" cy="256" r="44"/>
-    <circle id="Round_N" data-name="Round N" class="cls-3" cx="256" cy="107" r="30"/>
-    <circle id="Round_NW" data-name="Round NW" class="cls-3" cx="151" cy="151" r="30"/>
-    <circle id="Round_W" data-name="Round W" class="cls-3" cx="108" cy="256" r="30"/>
-    <circle id="Round_SW" data-name="Round SW" class="cls-3" cx="151" cy="361" r="30"/>
-    <circle id="Round_S" data-name="Round S" class="cls-3" cx="256" cy="405" r="30"/>
-    <circle id="Round_NE" data-name="Round NE" class="cls-3" cx="362" cy="151" r="30"/>
-    <circle id="Round_E" data-name="Round E" class="cls-3" cx="405" cy="256" r="30"/>
-    <circle id="Round_SE" data-name="Round SE" class="cls-3" cx="362" cy="361" r="30"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Bluzelle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#18578C;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Rectangle">
+	<path id="Rectangle_SW" class="st1" d="M93.5,134.5c5.2,9.7,7.2,11.8,17.5,17c-3.8,3.8-15.3,15.4-15.3,15.4l-17.2-17.2
+		C78.6,149.7,89.1,138.9,93.5,134.5z"/>
+	<path id="Rectangle_SE" class="st1" d="M152,134.5c-5.2,9.7-7.2,11.8-17.5,17.1c3.8,3.8,15.3,15.4,15.3,15.4l17.2-17.2
+		C167,149.8,156.5,138.9,152,134.5z"/>
+	<path id="Rectangle_NE" class="st1" d="M152,110.5c-5.2-9.7-7.2-11.8-17.5-17.1c3.8-3.8,15.3-15.4,15.3-15.4L167,95.2
+		C167,95.2,156.5,106.1,152,110.5z"/>
+	<path id="Rectangle_NW" class="st1" d="M93.5,110.5c5.2-9.7,7.2-11.8,17.5-17.1C107.2,89.6,95.7,78,95.7,78L78.5,95.2
+		C78.5,95.2,89,106.1,93.5,110.5z"/>
+	<path id="Rectangle_W" class="st1" d="M91.7,127c-0.4-4.5-0.5-4.5,0.3-9c-5,0-20,0-20,0l0,8.9C72,126.9,85.9,127,91.7,127z"/>
+	<path id="Rectangle_N" class="st1" d="M118,91.7c4.5-0.4,4.5-0.5,9,0.3c0-5,0-20,0-20l-8.9,0C118.1,72,118,85.9,118,91.7z"/>
+	<path id="Rectangle_E" class="st1" d="M153.8,118c0.4,4.5,0.5,4.5-0.3,9c5,0,20,0,20,0l0-8.9C173.5,118.1,159.6,118,153.8,118z"/>
+	<path id="Rectangle_S" class="st1" d="M127,153.8c-4.5,0.4-4.5,0.5-9-0.3c0,5,0,20,0,20l8.9,0C126.9,173.5,127,159.6,127,153.8z"/>
+</g>
+<g id="Rounds">
+	<circle id="Middle" class="st1" cx="122.5" cy="122.5" r="22"/>
+	<circle id="Round_N" class="st1" cx="122.5" cy="48" r="15"/>
+	<circle id="Round_NW" class="st1" cx="70" cy="70" r="15"/>
+	<circle id="Round_W" class="st1" cx="48.5" cy="122.5" r="15"/>
+	<circle id="Round_SW" class="st1" cx="70" cy="175" r="15"/>
+	<circle id="Round_S" class="st1" cx="122.5" cy="197" r="15"/>
+	<circle id="Round_NE" class="st1" cx="175.5" cy="70" r="15"/>
+	<circle id="Round_E" class="st1" cx="197" cy="122.5" r="15"/>
+	<circle id="Round_SE" class="st1" cx="175.5" cy="175" r="15"/>
+</g>
 </svg>

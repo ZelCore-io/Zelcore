@@ -1,47 +1,29 @@
-<svg id="Decentraland" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #bfb5af;
-      }
-
-      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
-        fill: none;
-        stroke: #fff;
-        stroke-width: 14px;
-      }
-
-      .cls-2, .cls-4, .cls-6 {
-        stroke-linecap: round;
-      }
-
-      .cls-2, .cls-4 {
-        stroke-linejoin: round;
-      }
-
-      .cls-5 {
-        stroke-linecap: square;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Decentraland-2" data-name="Decentraland">
-    <circle id="Main-2" data-name="Main" class="cls-2" cx="256" cy="256" r="172"/>
-    <circle id="Round1" class="cls-2" cx="189" cy="163" r="34"/>
-    <path id="Mountain1" class="cls-3" d="M84,260h20l26-47h30l16,51,34-8,18,10"/>
-    <path id="Mountain2" class="cls-3" d="M205,296l43-55,27,12,21-13,33-36,14,18,9-6h5l24,32,16-3,26,30"/>
-    <path id="Round2" class="cls-3" d="M301,235a54,54,0,1,1,39.292-16.957"/>
-    <path id="Ground" class="cls-4" d="M92,307s7.552,0.009,19.22.3m24.643,0.9c2.634,0.126,5.328.265,8.066,0.42m25.749,1.857C204.483,313.62,237.865,319.605,238,331c-4.585,22.772-33.143,22.253-36,42,9.825,16.014,77.269,12.859,132,36"/>
-    <path id="Tree" class="cls-5" d="M110,305c8.753,7.408,21.721,6.918,29,0-2.6-8.832-14-42-14-42S113.116,296.193,110,305Z"/>
-    <path id="Tree2" class="cls-5" d="M140,318c8.753,7.408,21.721,6.918,29,0-2.6-8.832-14-42-14-42S143.116,309.193,140,318Z"/>
-    <path id="Bush" class="cls-6" d="M256,346c0-23.95,31.252-24.954,34-29,2.619,4.066,34,5.5,34,29C320.352,359.708,261.205,361.01,256,346Z"/>
-    <path id="Bush2" class="cls-6" d="M326,305c0-23.95,31.252-24.954,34-29,2.619,4.066,34,5.5,34,29C390.352,318.708,331.205,320.01,326,305Z"/>
-    <path id="Bush3" class="cls-6" d="M290,269c0-23.95,31.252-24.954,34-29,2.619,4.066,34,5.5,34,29C354.352,282.708,295.205,284.01,290,269Z"/>
-    <path id="Stick" class="cls-4" d="M359,350V330s-0.967-9.3-12-15c-6.491,0,29.593.129,23,0-10.419,5.671-11,15-11,15"/>
-    <path id="Stick2" class="cls-4" d="M324,340V294s-0.967-9.3-12-15c-6.491,0,29.593.129,23,0-10.419,5.671-11,15-11,15"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Decentraland" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BFB5AF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:7;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-linecap:square;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-linecap:round;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Decentraland-2">
+	<circle id="Main-2" class="st1" cx="122.5" cy="122.5" r="86"/>
+	<circle id="Round1" class="st1" cx="89" cy="76" r="17"/>
+	<path id="Mountain1" class="st2" d="M36.5,124.5h10l13-23.5h15l8,25.5l17-4l9,5"/>
+	<path id="Mountain2" class="st2" d="M97,142.5l21.5-27.5l13.5,6l10.5-6.5l16.5-18l7,9l4.5-3h2.5l12,16l8-1.5l13,15"/>
+	<path id="Round2" class="st2" d="M145,112c-14.9,0-27-12.1-27-27c0-14.9,12.1-27,27-27s27,12.1,27,27c0,6.9-2.6,13.5-7.4,18.5"/>
+	<path id="Ground" class="st1" d="M40.5,148c0,0,3.8,0,9.6,0.1 M62.4,148.6c1.3,0.1,2.7,0.1,4,0.2 M79.3,149.7
+		c17.4,1.6,34.1,4.6,34.2,10.3c-2.3,11.4-16.6,11.1-18,21c4.9,8,38.6,6.4,66,18"/>
+	<path id="Tree" class="st3" d="M49.5,147c4.4,3.7,10.9,3.5,14.5,0c-1.3-4.4-7-21-7-21S51.1,142.6,49.5,147z"/>
+	<path id="Tree2" class="st3" d="M64.5,153.5c4.4,3.7,10.9,3.5,14.5,0c-1.3-4.4-7-21-7-21S66.1,149.1,64.5,153.5z"/>
+	<path id="Bush" class="st4" d="M122.5,167.5c0-12,15.6-12.5,17-14.5c1.3,2,17,2.8,17,14.5C154.7,174.4,125.1,175,122.5,167.5z"/>
+	<path id="Bush2" class="st4" d="M157.5,147c0-12,15.6-12.5,17-14.5c1.3,2,17,2.8,17,14.5C189.7,153.9,160.1,154.5,157.5,147z"/>
+	<path id="Bush3" class="st4" d="M139.5,129c0-12,15.6-12.5,17-14.5c1.3,2,17,2.8,17,14.5C171.7,135.9,142.1,136.5,139.5,129z"/>
+	<path id="Stick" class="st1" d="M174,169.5v-10c0,0-0.5-4.6-6-7.5c-3.2,0,14.8,0.1,11.5,0c-5.2,2.8-5.5,7.5-5.5,7.5"/>
+	<path id="Stick2" class="st1" d="M156.5,164.5v-23c0,0-0.5-4.6-6-7.5c-3.2,0,14.8,0.1,11.5,0c-5.2,2.8-5.5,7.5-5.5,7.5"/>
+</g>
 </svg>

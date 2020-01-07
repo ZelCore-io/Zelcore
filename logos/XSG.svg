@@ -1,30 +1,26 @@
-<svg id="Snowgem" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #d21e2b;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main_copy_23" data-name="Main copy 23" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Snowgem_copy" data-name="Snowgem copy">
-    <path id="L" class="cls-2" d="M101,168l36,21V323l-36,21V168Z"/>
-    <path id="R" class="cls-2" d="M412,168l-36,21V323l36,21V168Z"/>
-    <path id="TL" class="cls-2" d="M103,165l36.187,20.677,116.047-67L255.42,77Z"/>
-    <path id="TR" class="cls-2" d="M410,165.253l-36.09,20.736L258.172,118.8,257.986,77Z"/>
-    <path id="BL" class="cls-2" d="M103,348l36.187-20.677,116.047,67L255.42,436Z"/>
-    <path id="BR" class="cls-2" d="M410,347.747l-36.09-20.736L258.172,394.2,257.986,436Z"/>
-    <path id="CTR" class="cls-2" d="M256,256h23v-7l30-17,32,19,6-9-27-15,27-16-6-9-27,15V187H304v36l-30,17-13-8V200l33-19-5-8-28,15V157h-5v99Z"/>
-    <path id="CTL" class="cls-2" d="M256,256H233v-7l-30-17-32,19-6-9,27-15-27-16,6-9,27,15V187h10v36l30,17,13-8V200l-33-19,5-8,28,15V157h5v99Z"/>
-    <path id="CBR" class="cls-2" d="M256,256h23v7l30,17,32-19,6,9-27,15,27,16-6,9-27-15v30H304V289l-30-17-13,8v32l33,19-5,8-28-15v31h-5V256Z"/>
-    <path id="CTL-2" data-name="CTL" class="cls-2" d="M256,256H233v7l-30,17-32-19-6,9,27,15-27,16,6,9,27-15v30h10V289l30-17,13,8v32l-33,19,5,8,28-15v31h5V256Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Snowgem" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D21E2B;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main_copy_23" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Snowgem_copy">
+	<path id="L" class="st1" d="M45,78.5L63,89v67l-18,10.5V78.5z"/>
+	<path id="R" class="st1" d="M200.5,78.5l-18,10.5v67l18,10.5V78.5z"/>
+	<path id="TL" class="st1" d="M46,77l18.1,10.3l58-33.5l0.1-20.8L46,77z"/>
+	<path id="TR" class="st1" d="M199.5,77.1l-18,10.4l-57.9-33.6L123.5,33L199.5,77.1z"/>
+	<path id="BL" class="st1" d="M46,168.5l18.1-10.3l58,33.5l0.1,20.8L46,168.5z"/>
+	<path id="BR" class="st1" d="M199.5,168.4l-18-10.4l-57.9,33.6l-0.1,20.9L199.5,168.4z"/>
+	<path id="CTR" class="st1" d="M122.5,122.5H134V119l15-8.5l16,9.5l3-4.5l-13.5-7.5l13.5-8l-3-4.5l-13.5,7.5V88h-5v18l-15,8.5
+		l-6.5-4v-16l16.5-9.5l-2.5-4l-14,7.5V73h-2.5V122.5z"/>
+	<path id="CTL" class="st1" d="M122.5,122.5H111V119l-15-8.5L80,120l-3-4.5l13.5-7.5L77,100l3-4.5l13.5,7.5V88h5v18l15,8.5l6.5-4
+		v-16L103.5,85l2.5-4l14,7.5V73h2.5V122.5z"/>
+	<path id="CBR" class="st1" d="M122.5,122.5H134v3.5l15,8.5l16-9.5l3,4.5l-13.5,7.5l13.5,8l-3,4.5l-13.5-7.5v15h-5v-18l-15-8.5
+		l-6.5,4v16l16.5,9.5l-2.5,4l-14-7.5V172h-2.5V122.5z"/>
+	<path id="CTL-2" class="st1" d="M122.5,122.5H111v3.5l-15,8.5L80,125l-3,4.5l13.5,7.5L77,145l3,4.5l13.5-7.5v15h5v-18l15-8.5l6.5,4
+		v16l-16.5,9.5l2.5,4l14-7.5V172h2.5V122.5z"/>
+</g>
 </svg>

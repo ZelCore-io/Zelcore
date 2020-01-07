@@ -1,28 +1,16 @@
-<svg id="Gemini_Dollar" data-name="Gemini Dollar" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #20bcd4;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-width: 28px;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main-F" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Bottom" class="cls-2" d="M199.946,421.011c60.906,0,110.063-48.3,110.063-108.972V201.989H201.945C137.386,201.989,91,248.392,91,313,91,376.447,138.038,421.011,199.946,421.011Z"/>
-  <path id="Top" class="cls-2" d="M313.054,90.989c-60.906,0-110.063,48.3-110.063,108.972v110.05H311.055C375.614,310.011,422,263.608,422,199,422,135.553,374.962,90.989,313.054,90.989Z"/>
-  <path id="Line_Bottom" data-name="Line Bottom" class="cls-3" d="M201,296v28H96V296H201Z"/>
-  <path id="Line_Top" data-name="Line Top" class="cls-3" d="M417,188v28H312V188H417Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Gemini_Dollar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#20BCD4;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:14;}
+	.st2{fill:#FFFFFF;}
+</style>
+<path id="Main-F" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Bottom" class="st1" d="M94.5,205c30.5,0,55-24.1,55-54.5v-55h-54C63.2,95.5,40,118.7,40,151C40,182.7,63.5,205,94.5,205z"
+	/>
+<path id="Top" class="st1" d="M151,40c-30.5,0-55,24.2-55,54.5v55h54c32.3,0,55.5-23.2,55.5-55.5C205.5,62.3,182,40,151,40z"/>
+<path id="Line_Bottom" class="st2" d="M95,142.5v14H42.5v-14H95z"/>
+<path id="Line_Top" class="st2" d="M203,88.5v14h-52.5v-14H203z"/>
 </svg>

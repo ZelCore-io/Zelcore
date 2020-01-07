@@ -1,20 +1,12 @@
-<svg id="SUQA" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #e76b38;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Left" class="cls-2" d="M248.88,419V296.96S166.96,256,166.96,215c0-42.938,81.92-122,81.92-122S85.04,200.727,85.04,263C85.04,324.906,248.88,419,248.88,419Z"/>
-  <path id="Right" class="cls-2" d="M263,93V215.04s82,40.96,82,81.96c0,42.938-82,122-82,122s164-107.727,164-170C426.991,187.094,263,93,263,93Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="SUQA" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E76B38;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Left" class="st1" d="M118.9,204v-61c0,0-41-20.5-41-41c0-21.5,41-61,41-61S37,94.9,37,126C37,157,118.9,204,118.9,204z"/>
+<path id="Right" class="st1" d="M126,41v61c0,0,41,20.5,41,41c0,21.5-41,61-41,61s82-53.9,82-85C208,88,126,41,126,41z"/>
 </svg>

@@ -1,24 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-2 {
-        fill: #00a3ff;
-      }
-
-      .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-3 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-width: 9px;
-      }
-    </style>
-  </defs>
-  <g id="AirSwap">
-    <path id="Main" class="cls-2" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-    <path id="AirSwap-2" data-name="AirSwap" class="cls-3" d="M113,256c6.761-6.7,143-143,143-143S394.272,252.673,397,256C326.828,330.351,189.5,329.827,113,256ZM221,364c34-1.98,74.983-18.721,92-29-15.193,18.194-59,63-59,63S236.49,379.873,221,364ZM180,245c66.537-27.263,145.428-1.7,163,11-9.248,5.579-30.343,18.258-59,22C259.648,258.4,207.761,247.507,180,245Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Lager_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00A3FF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;}
+</style>
+<g id="AirSwap">
+	<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+	<path id="AirSwap-2" class="st1" d="M51,122.5c3.4-3.3,71.5-71.5,71.5-71.5s69.1,69.8,70.5,71.5C157.9,159.7,89.2,159.4,51,122.5z
+		 M105,176.5c17-1,37.5-9.4,46-14.5c-7.6,9.1-29.5,31.5-29.5,31.5S112.7,184.4,105,176.5z M84.5,117c33.3-13.6,72.7-0.8,81.5,5.5
+		c-4.6,2.8-15.2,9.1-29.5,11C124.3,123.7,98.4,118.3,84.5,117z"/>
+</g>
 </svg>

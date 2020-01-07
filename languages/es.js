@@ -100,7 +100,7 @@ export default {
     create_or_change_pin: "Crea o cambia tu PIN d2FA",
     disable_your_d2fa: "Deshabilita tu d2FA",
     d2fa_requires_minimum: "d2FA requiere una cantidad mínima de 0.0002 ZEL para estar presente en su billetera para transmitir una transacción d2FA. Los cambios se harán efectivos después de que se confirme la transacción y se vuelva a iniciar sesión en la cuenta.",
-    d2fa_adds_another_layer: "d2FA agrega otra capa de protección y seguridad. No podrá firmar ni realizar tareas de seguridad relacionadas con su cuenta sin este PIN modificable. El PIN se almacena directamente en el blockchain en forma cifrada. \n"
+    d2fa_adds_another_layer: "d2FA agrega otra capa de protección y seguridad. No podrá firmar ni realizar tareas de seguridad relacionadas con su cuenta sin este PIN modificable. El PIN se almacena directamente en el blockchain en forma cifrada. "
     + "¡Nadie excepto usted puede modificar tu firma d2FA!",
     create_or_change_easy: "Crear o cambiar Easy Login",
     signing_address: "Dirección de firma:",
@@ -157,10 +157,10 @@ export default {
 
     // account warning
     password_is_key: "¡Su contraseña es la clave para acceder a sus fondos, hacer lo más fuerte posible!",
-    no_keep_copy: "ZelCore no guarda una copia de su contraseña no cifrada local o remotamente. Debido a esta función, no hay forma de recuperar la contraseña ni de cambiarla. \n"
+    no_keep_copy: "ZelCore no guarda una copia de su contraseña no cifrada local o remotamente. Debido a esta función, no hay forma de recuperar la contraseña ni de cambiarla. "
     + "Si pierde (o olvida) su nombre de usuario o contraseña, perderá el acceso a su billetera PERMANENTE. Por lo tanto, es MUY IMPORTANTE e IMPERATIVO que guarde una copia de su información en algún lugar seguro",
-    software_as_is: "EL SOFTWARE SE PROPORCIONA 'TAL CUAL', SIN GARANTÍA DE NINGÚN TIPO, EXPRESO O IMPLÍCITO, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFLUENCIA. \n"
-                    + "EN NINGÚN CASO, LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA QUE SEA RESPONSABLE DE UN CONTRATO, CORTE U OTRA MANERA, DERIVADOS DE, \n"
+    software_as_is: "EL SOFTWARE SE PROPORCIONA 'TAL CUAL', SIN GARANTÍA DE NINGÚN TIPO, EXPRESO O IMPLÍCITO, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFLUENCIA. "
+                    + "EN NINGÚN CASO, LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA QUE SEA RESPONSABLE DE UN CONTRATO, CORTE U OTRA MANERA, DERIVADOS DE, "
                     + "FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS REPARACIONES EN EL SOFTWARE.",
     backup_backup_backup: "¡RESPALDAR, RESPALDAR, RESPALDAR otra vez!",
     im_aware_register: "¡Estoy consciente, registrate!",
@@ -230,14 +230,14 @@ export default {
     payment_note: "Nota de pago",
     warning_eth_contracts: "Advertencia: los contratos de Ethereum tardan unos minutos en mostrarse en el explorador. Los contratos requieren que Ethereum esté presente en su billetera, que es un gas que impulsa la ejecución del contrato",
     warning_etc_transactions: "Advertencia: la transacción de Ethereum Classic tarda un tiempo en aparecer en una tabla de transacciones",
-    warning_usdt_is_btc: "Advertencia: la conexión es un token de Bitcoin y, por lo tanto, requiere que BTC realice una transacción. Además de las tarifas de transacción de Bitcoin, 0.000006 BTC tiene que ser \n"
-                         + "enviado a la dirección de destino como un requisito de la red Bitcoin. El proceso de envío tarda unos segundos y puede demorar unos minutos para \n"
+    warning_usdt_is_btc: "Advertencia: la conexión es un token de Bitcoin y, por lo tanto, requiere que BTC realice una transacción. Además de las tarifas de transacción de Bitcoin, 0.000006 BTC tiene que ser "
+                         + "enviado a la dirección de destino como un requisito de la red Bitcoin. El proceso de envío tarda unos segundos y puede demorar unos minutos para "
                          + "una transacción para ser visible en Omni Explorer y aún más para ser mostrada en la tabla de transacciones, por favor sea paciente. La transacción se ve instantáneamente en su billetera de Bitcoin ZelCore",
     warning_monero_fee: "Advertencia: la tarifa de Monero no se conoce antes de la creación de la transacción, esto es solo una aproximación. La creación de la transacción demora unos segundos",
     edit: "Editar",
     delete: "Eliminar",
     show_in_explorer: "Mostrar en el explorador",
-    full_node_launch_note: "Debido a que ZelCore utiliza el cifrado, no se podrá acceder a sus fondos en otro software de nodo completo que no sea ZelCore. El nodo completo es solo para usuarios avanzados, \n"
+    full_node_launch_note: "Debido a que ZelCore utiliza el cifrado, no se podrá acceder a sus fondos en otro software de nodo completo que no sea ZelCore. El nodo completo es solo para usuarios avanzados, "
                            + "si no sabe qué es el nodo completo, ¡no lo use! Por favor haga una copia de seguridad de las claves privadas de las direcciones que está usando.",
     launch_full_node: "Launch Nodo Complito",
     destination_address: "Dirección de destino",
@@ -308,7 +308,7 @@ export default {
     no_shieldable_amount: "No se ha encontrado una cantidad que se pueda proteger.",
     shield: "Escudo",
     rescan_blockchain: "Reescanear blockchain",
-    rescan_blockchain_info: "Recorre la cadena de bloques para encontrar transacciones que faltan en su billetera. Útil si ha importado una dirección que sabe que tiene algunos fondos. Esta acción reiniciará el daemon de monedas con la opción de volver a escanear. \n"
+    rescan_blockchain_info: "Recorre la cadena de bloques para encontrar transacciones que faltan en su billetera. Útil si ha importado una dirección que sabe que tiene algunos fondos. Esta acción reiniciará el daemon de monedas con la opción de volver a escanear. "
                           + "Su billetera no estará operativa hasta a una hora! ",
     rescan: "Reescanear",
     configruation_: "Archivo de Configuración",
@@ -322,7 +322,7 @@ export default {
     restart_daemon: "Reiniciar Daemon",
     restart_daemon_info: "El reinicio de Daemon es necesario cuando se cambian algunos archivos de configuración, por ejemplo, en la configuración de ZelNode o MasterNode",
     reindex_blockchain: "Reindexar blockchain",
-    reindex_blockchain_info: "Reconstruye el índice de la cadena de bloques y el estado de la cadena desde cero. Útil cuando experimenta problemas con la cartera y se bloquea. \n"
+    reindex_blockchain_info: "Reconstruye el índice de la cadena de bloques y el estado de la cadena desde cero. Útil cuando experimenta problemas con la cartera y se bloquea. "
                           + "Esta acción reiniciará el daemon de monedas con la opción de reindexación. ¡Su billetera no estará operativa durante varias horas!",
     insert_private_key_here: "Insertar clave privada aquí",
     insert_private_address: "Insertar dirección privada",
@@ -333,7 +333,7 @@ export default {
     setup_zelnodes: "Guía de instalación",
     create_zelnode_key: "Crear clave ZelNode",
     create_zelnode_key_info: "Crea una nueva clave privada de ZelNode",
-    zelnode_private_key: "ZelNode private key:",
+    zelnode_private_key: "ZelNode Private Key:",
     show_available_zelnode_outputs: "Mostrar las salidas disponibles de ZelNode",
     show_available_zelnode_outputs_info: "Enumera todos los resultados de transacción disponibles que se pueden usar para un ZelNode",
     show_zelnode_outputs: "Mostrar salidas de ZelNode",
@@ -352,7 +352,7 @@ export default {
     do_not_change_rpc_ports3: "Se necesita reindexar si se está cambiando algún índice (por ejemplo, txindex se está configurando como activo)",
     save_and_reindex: "Guardar y reindexar",
     zelnode_configuration_change_restart1: "Después de un cambio en la configuración de Zelnode, el reinicio de un demonio se realizará automáticamente.",
-    zelnode_configuration_change_restart2: "Tenga en cuenta que ZelNodes requiere un cambio en el archivo de configuración de ZelCash también (zelcash.conf). Debe modificar esta configuración de ZelCash en Herramientas antes de modificar esta configuración de ZelNodes",
+    zelnode_configuration_change_restart2: "Tenga en cuenta que ZelNodes requiere un cambio en el archivo de configuración de Zel también (zelcash.conf). Debe modificar esta configuración de Zel en Herramientas antes de modificar esta configuración de ZelNodes",
     zelnode_configuration_change_restart3: "¡Los archivos de configuración mal configurados pueden causar un mal funcionamiento de la cartera!",
     my_zelnodes: "My ZelNodes",
     all_zelnodes: "Todos los ZelNodes",
@@ -401,7 +401,7 @@ export default {
     continue_zelnode_setup: "Continuar configuración de ZelNode",
     blocks: "Bloques",
     setup: "configuración",
-    welcome_zelnodes_first: "Bienvenido a ZelNodes. En primer lugar, se recomienda hacer una copia de seguridad de nuestras direcciones existentes. \n"
+    welcome_zelnodes_first: "Bienvenido a ZelNodes. En primer lugar, se recomienda hacer una copia de seguridad de nuestras direcciones existentes. "
                           + "Puede hacer una copia de seguridad de cada clave privada descargando su billetera en la ubicación que desee o haga una copia de seguridad de una clave privada de solo las direcciones que desee",
     backup_single_address: "Backup Single address",
     backup_all_addresses: "Copia de seguridad de todas las direcciones",
@@ -409,7 +409,7 @@ export default {
     backup_address_info: "Esto generará un archivo en el directorio de exportación que enumera todas las claves privadas con sus direcciones asociadas",
     enter_zelnode_name: "Ingrese el nombre de su ZelNode",
     automatic_log_out: "Cierre de sesión automático",
-    auto_log_out_info_full_node: "¡Impresionante! Mire su configuración de cierre de sesión automático. Las operaciones en el nodo completo toman algún tiempo, \n"
+    auto_log_out_info_full_node: "¡Impresionante! Mire su configuración de cierre de sesión automático. Las operaciones en el nodo completo toman algún tiempo, "
                                 + "especialmente cuando se necesita reindexar. Por lo tanto, recomendamos configurar el cierre de sesión automático en un tiempo mayor o deshabilitarlo moviendo el control deslizante",
     next_step: "Siguiente paso",
     configuration_done_reindex1: "Hemos modificado su archivo de configuración. Se requiere una reindexación de su blockchain para que ZelNodes funcione correctamente",
@@ -457,7 +457,7 @@ export default {
     daemon_restart_performed_after: "Se realizará un reinicio del daemon después de confirmar esta nueva configuración.",
     zelnodes_configuration_loading: "La configuración de ZelNodes se está cargando ...",
     save_and_continue: "Guardar y continuar",
-    configuration_file_for_server: "A continuación, puede encontrar su archivo de configuración ZelCash generado para su servidor. Copie el texto y péguelo en el archivo ~ / .zelcash / zelcash.conf en su servidor. Luego, primero inicie su Server ZelNode. \n"
+    configuration_file_for_server: "A continuación, puede encontrar su archivo de configuración Zel generado para su servidor. Copie el texto y péguelo en el archivo ~ / .zelcash / zelcash.conf en su servidor. Luego, primero inicie su Server ZelNode. "
     + "Una vez que su servidor ZelNode esté sincronizado, puede activar su ZelNode. Tenga en cuenta que la activación puede demorar hasta media hora.",
     copy_configuration: "Copiar configuración al portapapeles",
     enable_my_zelnode: "Activate my ZelNode!",
@@ -529,7 +529,7 @@ export default {
     d2fa_is_not_activated_yet: "d2FA no está activado todavía. No se puede establecer el Easy Login.",
     language: "idioma",
     full_node_encryption: "Cifrado de billetera de nodo completo",
-    full_node_encryption_message: "ZelCore cifra de forma predeterminada el archivo wallet.dat de su nodo completo. Esto hace que el archivo wallet.dat se asocie solo con una cuenta de ZelCore y el cifrado también impide que otras personas accedan a su billetera. \n"
+    full_node_encryption_message: "ZelCore cifra de forma predeterminada el archivo wallet.dat de su nodo completo. Esto hace que el archivo wallet.dat se asocie solo con una cuenta de ZelCore y el cifrado también impide que otras personas accedan a su billetera. "
     + "Sin embargo, no se puede acceder a su nodo completo wallet.dat desde otro software de cartera que no sea ZelCore, como ZELmate. Si el cifrado está deshabilitado, wallet.dat se comparte entre todas las cuentas de ZelCore y también otros programas de billetera.",
 
 

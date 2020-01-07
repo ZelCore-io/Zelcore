@@ -156,9 +156,9 @@ export default {
 
     // account warning
     password_is_key: "Parolanız paranıza erişmenin anahtarıdır, mümkün olduğu kadar güçlü kılın!",
-    no_keep_copy: "ZelCore, şifrelenmemiş şifrenizin bir kopyasını yerel olarak veya uzaktan tutmuyor. Bu özellik nedeniyle şifreyi almanın ya da değiştirmenin bir yolu yoktur. \n"
+    no_keep_copy: "ZelCore, şifrelenmemiş şifrenizin bir kopyasını yerel olarak veya uzaktan tutmuyor. Bu özellik nedeniyle şifreyi almanın ya da değiştirmenin bir yolu yoktur. "
     + "Kullanıcı adınızı veya şifrenizi kaybederseniz (veya unutursanız), cüzdanınıza kalıcı olarak erişiminizi kaybedersiniz. Bu nedenle bilgilerinizin bir kopyasını güvenli bir yerde saklamanız ÇOK ÖNEMLİ ve ZORUNLU.",
-    software_as_is: "THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. \n"
+    software_as_is: "THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. "
                     + "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
     backup_backup_backup: "BACKUP, BACKUP, BACKUP again!",
     im_aware_register: "Farkındayım, Kayıt ol!",
@@ -231,15 +231,15 @@ export default {
     tag: "TAG",
     warning_eth_contracts: "Uyarı: Ethereum sözleşmelerinin kaşifte gösterilmesi birkaç dakika alıyor! Sözleşmeler, cüzdanınızda sözleşmenin yerine getirilmesini sağlayan bir Gaz olan Ethereum'un bulunmasını gerektiriyor.",
     warning_etc_transactions: "Uyarı: Bir Ethereum Classic işleminin işlem tablosunda listelenmesi biraz zaman alıyor.",
-    warning_usdt_is_btc: "Uyarı: Tether bir Bitcoin belirtecidir ve BTC'nin bir işlem gerçekleştirmesini gerektirir. Bitcoin işlem ücretlerine ek olarak, 0.000006 BTC olmalıdır \n"
-                         + "Hedef adrese bir Bitcoin ağ gereksinimi olarak gönderildi. Gönderme işlemi birkaç saniye sürüyor ve için birkaç dakika sürebilir \n"
+    warning_usdt_is_btc: "Uyarı: Tether bir Bitcoin belirtecidir ve BTC'nin bir işlem gerçekleştirmesini gerektirir. Bitcoin işlem ücretlerine ek olarak, 0.000006 BTC olmalıdır "
+                         + "Hedef adrese bir Bitcoin ağ gereksinimi olarak gönderildi. Gönderme işlemi birkaç saniye sürüyor ve için birkaç dakika sürebilir "
                          + "a Omni Explorer’da görünebilecek bir işlem ve işlem tablosunda gösterilebilecek bir işlem varsa, lütfen sabırlı olun! İşlem Bitcoin ZelCore cüzdanınızda anında görülebilir.",
     warning_monero_fee: "Warning: Uyarı: Monero ücreti işlem oluşturmadan önce bilinmiyor, bu sadece bir yaklaşım. İşlem oluşturma birkaç saniye sürer.",
     warning_ripple: "Ripple ücreti şebekeye bağlı olarak otomatik olarak hesaplanır. İşlem geçmişinde ve gezginde işlemlerin görünmesi biraz zaman alır.",
     edit: "Düzenle",
     delete: "Sil",
     show_in_explorer: "Gezginde göster",
-    full_node_launch_note: "Şifreleme kullanan ZelCore nedeniyle, fonlarınıza ZelCore dışındaki başka bir tam düğüm yazılımında erişilemez. Tam Düğüm yalnızca ileri düzey kullanıcılar içindir, \n"
+    full_node_launch_note: "Şifreleme kullanan ZelCore nedeniyle, fonlarınıza ZelCore dışındaki başka bir tam düğüm yazılımında erişilemez. Tam Düğüm yalnızca ileri düzey kullanıcılar içindir, "
                            + "Tam Düğümün ne olduğunu bilmiyorsanız kullanmayın! Lütfen kullandığınız adreslerin özel anahtarlarını sık sık yedekleyin.",
     launch_full_node: "Tüm Düğümü Başlat",
     destination_address: "Hedef adres",
@@ -352,7 +352,7 @@ export default {
     do_not_change_rpc_ports3: "Bazı dizinler değiştiriliyorsa reindex gerekir (örn. txindex aktif olarak ayarlanmış). ",
     save_and_reindex: "Kaydet ve yeniden dizine ekle",
     zelnode_configuration_change_restart1: "Bir Zelnode yapılandırma değişikliğinden sonra, bir arka plan programı otomatik olarak başlatılır.",
-    zelnode_configuration_change_restart2: "ZelNodes'in ZelCash yapılandırma dosyasında da değişiklik gerektirdiğini unutmayın (zelcash.conf). Bu ZelNodes yapılandırmasını değiştirmeden önce Araçlar'daki bu ZelCash yapılandırmasını değiştirmelisiniz.",
+    zelnode_configuration_change_restart2: "ZelNodes'in Zel yapılandırma dosyasında da değişiklik gerektirdiğini unutmayın (zelcash.conf). Bu ZelNodes yapılandırmasını değiştirmeden önce Araçlar'daki bu Zel yapılandırmasını değiştirmelisiniz.",
     zelnode_configuration_change_restart3: "Yanlış yapılandırılmış konfigürasyon dosyaları cüzdanın bozulmasına neden olabilir!",
     my_zelnodes: "Benim ZelNodes",
     all_zelnodes: "Tüm ZelNodes",
@@ -408,7 +408,7 @@ export default {
     backup_address_info: "Bu, dışa aktarma dizininde, tüm özel anahtarları ilişkilendirilmiş adresleriyle listeleyen bir dosya oluşturur.",
     enter_zelnode_name: "ZelNode'unuzun adını girin",
     automatic_log_out: "Otomatik Oturumu Kapat",
-    auto_log_out_info_full_node: "Harika! Otomatik çıkış ayarlarınıza bir göz atın. Tam düğümdeki işlemler, özellikle reindex'e ihtiyaç duyulduğunda biraz zaman alır. Bu nedenle, otomatik oturumu kapatmanın daha yüksek bir süreye ayarlanmasını veya kaydırıcıyı \n"
+    auto_log_out_info_full_node: "Harika! Otomatik çıkış ayarlarınıza bir göz atın. Tam düğümdeki işlemler, özellikle reindex'e ihtiyaç duyulduğunda biraz zaman alır. Bu nedenle, otomatik oturumu kapatmanın daha yüksek bir süreye ayarlanmasını veya kaydırıcıyı "
       + "hareket ettirerek devre dışı bırakmanızı öneririz.",
     next_step: "Sonraki adım",
     configuration_done_reindex1: "Yapılandırma dosyanızı değiştirdik. ZelNodes'ın düzgün çalışması için blok zincirinizin reindex edilmesi gerekiyor.",
@@ -456,7 +456,7 @@ export default {
     daemon_restart_performed_after: "Bu yeni yapılandırmayı onayladıktan sonra bir arka plan programı yeniden başlatılacak.",
     zelnodes_configuration_loading: "ZelNodes Yapılandırması yükleniyor ...",
     save_and_continue: "Kaydet ve Devam Et",
-    configuration_file_for_server: "Aşağıda, Sunucunuz için oluşturulan ZelCash yapılandırma dosyasını bulabilirsiniz. Metni kopyalayın ve sunucunuzdaki ~ / .zelcash / zelcash.conf dosyasına yapıştırın. Ardından ilk önce Server ZelNode'unuzu başlatarak izleyin. \n"
+    configuration_file_for_server: "Aşağıda, Sunucunuz için oluşturulan Zel yapılandırma dosyasını bulabilirsiniz. Metni kopyalayın ve sunucunuzdaki ~ / .zelcash / zelcash.conf dosyasına yapıştırın. Ardından ilk önce Server ZelNode'unuzu başlatarak izleyin. "
       + "Sunucunuz ZelNode eşitlendiğinde, ZelNode'unuzu etkinleştirebilirsiniz. Etkinleştirmenin yarım saat kadar sürebileceğini unutmayın.",
     copy_configuration: "Yapılandırmayı panoya kopyala",
     activate_my_zelnode: "ZelNode'umu etkinleştir!",
@@ -528,7 +528,7 @@ export default {
     d2fa_is_not_activated_yet: "d2FA henüz aktif değil. Kolay Giriş ayarlanamaz.",
     language: "Dil",
     full_node_encryption: "Tam düğüm cüzdan şifreleme",
-    full_node_encryption_message: "ZelCore, varsayılan olarak tüm düğüm wallet.dat dosyanızı şifreler. Bu, wallet.dat dosyasının yalnızca bir ZelCore hesabıyla ilişkilendirilmesini sağlar ve şifreleme ayrıca diğer kişilerin sizin cüzdanınıza erişmesini önler. \n"
+    full_node_encryption_message: "ZelCore, varsayılan olarak tüm düğüm wallet.dat dosyanızı şifreler. Bu, wallet.dat dosyasının yalnızca bir ZelCore hesabıyla ilişkilendirilmesini sağlar ve şifreleme ayrıca diğer kişilerin sizin cüzdanınıza erişmesini önler. "
     + "Ancak, tam düğüm wallet.dat dosyasına, ZELmate gibi ZelCore'dan başka bir cüzdan yazılımından erişilemiyor. Şifreleme devre dışı bırakılırsa, wallet.dat tüm ZelCore hesapları ve diğer cüzdan yazılımları arasında paylaşılır.",
 
 
@@ -1252,7 +1252,7 @@ export default {
     api_service: "API Hizmeti",
     backend_updated: "Backend  hizmetleri güncellendi",
     startheight: "Başlat Bloğu:",
-    cryptonight_rescan: "Arka Plan çözümü, {0} Başlat Bloğundan beri adresinizle senkronize edildi. Tarama işlemi {1} / {2} 'dir. Adresinizin Başlat Bloğundan önce işlem aldığını düşünüyorsanız, adresinizin yeniden taranmasını başlatmalısınız. \n"
+    cryptonight_rescan: "Arka Plan çözümü, {0} Başlat Bloğundan beri adresinizle senkronize edildi. Tarama işlemi {1} / {2} 'dir. Adresinizin Başlat Bloğundan önce işlem aldığını düşünüyorsanız, adresinizin yeniden taranmasını başlatmalısınız. "
     + "Bu, özellikle Backend çözümünü değiştirme senaryosunda faydalıdır. Yeniden tarama işlemi birkaç saat sürebilir.",
     cryptonight_rescan2: "Lütfen tekrar taramak istediğiniz son blok sayısını girin",
     number_of_blocks: "Yeniden taranacak blok sayısı",

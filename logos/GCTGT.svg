@@ -1,16 +1,14 @@
-<svg id="Target" xmlns="http://www.w3.org/2000/svg" width="500" height="350" viewBox="0 0 500 350">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #c00;
-      }
-
-      .cls-2 {
-        fill: #fff;
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <rect id="Card" class="cls-1" x="14" y="43" width="472" height="264" rx="20" ry="20"/>
-  <path id="Target-2" data-name="Target" class="cls-2" d="M249.918,291.724a116.714,116.714,0,1,1,116.71-116.675,116.7,116.7,0,0,1-116.71,116.675M249.918,0C153.327,0,75,78.366,75,175.049,75,271.659,153.327,350,249.918,350,346.55,350,425,271.659,425,175.049,425,78.366,346.55,0,249.918,0Zm0,115.065a59.97,59.97,0,1,0,60.025,59.984,59.9,59.9,0,0,0-60.025-59.984"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 472 350" style="enable-background:new 0 0 472 350;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CC0000;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Card" class="st0" d="M20,43h432c11,0,20,9,20,20v224c0,11-9,20-20,20H20c-11,0-20-9-20-20V63C0,52,9,43,20,43z"/>
+<path id="Target-2" class="st1" d="M235.9,291.7c-64.5,0-116.7-52.3-116.7-116.7c0-64.5,52.3-116.7,116.7-116.7
+	S352.6,110.5,352.6,175c0,0,0,0,0,0C352.6,239.5,300.4,291.7,235.9,291.7 M235.9,0C139.3,0,61,78.4,61,175
+	c0,96.6,78.3,175,174.9,175c96.6,0,175.1-78.3,175.1-175C411,78.4,332.5,0,235.9,0z M235.9,115.1c-33.1,0-59.9,26.9-59.9,60
+	c0,33.1,26.9,59.9,60,59.9c33.1,0,59.9-26.9,59.9-60c0-33.1-26.7-59.9-59.8-60C236.1,115.1,236,115.1,235.9,115.1"/>
 </svg>

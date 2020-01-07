@@ -1,7 +1,7 @@
 const coins = {
   zelcash: {
     coin: "zelcash",
-    name: "ZelCash",
+    name: "Zel",
     uri: ["zelcash", "zel"],
     pubKeyHash: "1cb8",
     scriptHash: "1cbd",
@@ -28,7 +28,10 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.zel.zelcore.io/tx/",
+      "https://explorer.zel.cash/tx/",
       "https://explorer2.zel.cash/tx/",
+      "https://explorer.zelcash.online/tx/",
+      "https://explorer-asia.zel.cash/tx/",
     ],
     logolink: "static/logos/ZEL.svg",
     node: [
@@ -81,7 +84,7 @@ const coins = {
       normal: 5,
       fast: 10,
     },
-    color: "#abcabc",
+    color: "#3e30a0",
   },
   bitcoin: {
     coin: "bitcoin",
@@ -169,6 +172,8 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.ltc.zelcore.io/api/",
+      "https://insight.litecore.io/api/",
+      "https://litecoinblockexplorer.net/api/",
     ],
     pathunix: "litecoin",
     path: "Litecoin",
@@ -179,10 +184,14 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.ltc.zelcore.io/tx/",
+      "https://insight.litecore.io/tx/",
+      "https://litecoinblockexplorer.net/tx/",
     ],
     logolink: "static/logos/LTC.svg",
     node: [
       "explorer.ltc.zelcore.io",
+      "insight.litecore.io",
+      "litecoinblockexplorer.net",
     ],
     fee: 0.0004,
     feepolicy: {
@@ -205,9 +214,7 @@ const coins = {
     wif: "80",
     slip: 133,
     addresses: [],
-    api: [
-      "https://explorer2.zec.zelcore.io/api/",
-    ],
+    api: ["https://explorer2.zec.zelcore.io/api/", "https://explorer.zec.zelcore.io/api/", "https://explorer2.zecmate.com/api/", "https://explorer.zecmate.com/api/", "https://explorer.z.cash/api/"],
     pathunix: "zcash",
     path: "Zcash",
     unit: "ZEC",
@@ -215,13 +222,9 @@ const coins = {
     rpcport: 8232,
     testnetrpcport: 18232,
     type: "zcash",
-    explorer: [
-      "https://explorer2.zec.zelcore.io/tx/",
-    ],
+    explorer: ["https://explorer2.zec.zelcore.io/tx/", "https://explorer.zec.zelcore.io/tx/", "https://explorer2.zecmate.com/tx/", "https://explorer.zecmate.com/tx/", "https://explorer.z.cash/tx/"],
     logolink: "static/logos/ZEC.svg",
-    node: [
-      "explorer2.zec.zelcore.io",
-    ],
+    node: ["explorer2.zec.zelcore.io", "explorer.zec.zelcore.io", "explorer2.zecmate.com", "explorer2.zecmate.com", "explorer.z.cash"],
     fee: 0.0000226,
     feepolicy: {
       economy: 1,
@@ -245,6 +248,8 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer2.btcz.zelcore.io/api/",
+      "https://explorer.btcz.zelcore.io/api/",
+      "https://explorer.btcz.rocks/api/",
     ],
     pathunix: "bitcoinz",
     path: "BitcoinZ",
@@ -255,10 +260,14 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer2.btcz.zelcore.io/tx/",
+      "https://explorer.btcz.zelcore.io/tx/",
+      "https://explorer.btcz.rocks/tx/",
     ],
     logolink: "static/logos/BTCZ.svg",
     node: [
       "explorer2.btcz.zelcore.io",
+      "explorer.btcz.zelcore.io",
+      "explorer.btcz.rocks",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -283,6 +292,10 @@ const coins = {
     addresses: [],
     api: [
       "https://api.ravencoin.org/api/",
+      "https://explorer.rvn.zelcore.io/api/",
+      "https://ravencoin.network/api/",
+      "https://ravenexplorer.minermore.com/api/",
+      "https://explorer.ravenland.org/api/",
     ],
     pathunix: "raven",
     path: "Raven",
@@ -293,10 +306,18 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.rvn.zelcore.io/tx/",
+      "https://api.ravencoin.org/tx/",
+      "https://ravencoin.network/tx/",
+      "https://ravenexplorer.minermore.com/tx/",
+      "https://explorer.ravenland.org/tx/",
     ],
     logolink: "static/logos/RVN.svg",
     node: [
       "explorer.rvn.zelcore.io",
+      "api.ravencoin.org",
+      "ravencoin.network",
+      "ravenexplorer.minermore.com",
+      "explorer.ravenland.org",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -573,7 +594,7 @@ const coins = {
   },
   bat: {
     coin: "bat",
-    name: "BAT",
+    name: "Basic Attention Token",
     uri: ["basicattentiontoken", "bat"],
     addresses: [],
     api: [
@@ -840,6 +861,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.xsg.zelcore.io/api/",
+      "https://explorer.snowgem.org/api/",
     ],
     pathunix: "snowgem",
     path: "Snowgem",
@@ -850,10 +872,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.xsg.zelcore.io/tx/",
+      "https://explorer.snowgem.org/tx/",
     ],
     logolink: "static/logos/XSG.svg",
     node: [
       "explorer.xsg.zelcore.io",
+      "explorer.snowgem.org",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -916,6 +940,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.anon.zelcore.io/api/",
+      "https://explorer2.anon.zelcore.io/api/",
     ],
     pathunix: "anon",
     path: "Anon",
@@ -926,10 +951,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.anon.zelcore.io/tx/",
+      "https://explorer2.anon.zelcore.io/tx/",
     ],
     logolink: "static/logos/ANON.svg",
     node: [
       "explorer.anon.zelcore.io",
+      "explorer2.anon.zelcore.io",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -954,6 +981,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.zensystem.io/api/",
+      "https://explorer.zen-solutions.io/api/",
     ],
     pathunix: "zen",
     path: "ZEN",
@@ -964,10 +992,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.zensystem.io/tx/",
+      "https://explorer.zen-solutions.io/tx/",
     ],
     logolink: "static/logos/ZEN.svg",
     node: [
       "explorer.zensystem.io",
+      "explorer.zen-solutions.io",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -992,6 +1022,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.safe.zelcore.io/api/",
+      "https://explorer.safecoin.org/api/",
     ],
     pathunix: "safecoin",
     path: "Safecoin",
@@ -1002,10 +1033,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.safe.zelcore.io/tx/",
+      "https://explorer.safecoin.org/tx/",
     ],
     logolink: "static/logos/SAFE.svg",
     node: [
       "explorer.safe.zelcore.io",
+      "explorer.safecoin.org",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -1030,6 +1063,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.kmd.zelcore.io/api/",
+      "https://www.kmdexplorer.io/api/",
     ],
     pathunix: "komodo",
     path: "Komodo",
@@ -1040,10 +1074,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.kmd.zelcore.io/tx/",
+      "https://www.kmdexplorer.io/tx/",
     ],
     logolink: "static/logos/KMD.svg",
     node: [
       "explorer.kmd.zelcore.io",
+      "www.kmdexplorer.io",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -1068,6 +1104,8 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.zcoin.zelcore.io/api/",
+      "https://insight.zcoin.io/api/",
+      "https://explorer.zcoin.io/api/",
     ],
     pathunix: "zcoin",
     path: "Zcoin",
@@ -1078,10 +1116,14 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.zcoin.zelcore.io/tx/",
+      "https://insight.zcoin.io/tx/",
+      "https://explorer.zcoin.io/tx/",
     ],
     logolink: "static/logos/XZC.svg",
     node: [
       "explorer.zcoin.zelcore.io",
+      "insight.zcoin.io",
+      "explorer.zcoin.io",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -1170,6 +1212,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.zer.zelcore.io/api/",
+      "https://insight.zerocurrency.io/insight/api/",
     ],
     pathunix: "zero",
     path: "Zero",
@@ -1180,10 +1223,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.zer.zelcore.io/tx/",
+      "https://insight.zerocurrency.io/insight/tx/",
     ],
     logolink: "static/logos/ZER.svg",
     node: [
       "explorer.zer.zelcore.io",
+      "insight.zerocurrency.io",
     ],
     fee: 0.0000226,
     feepolicy: {
@@ -1748,7 +1793,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x514910771af9ca656af840dff83e8264ecf986ca",
-    color: "#3effff",
+    color: "#2A5ADA",
     decimals: 18,
   },
   decentraland: {
@@ -2479,6 +2524,8 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.dash.zelcore.io/api/",
+      "https://insight.dash.org/insight/api/",
+      "https://explorer.mydashwallet.org/api/",
     ],
     pathunix: "dashcore",
     path: "DashCore",
@@ -2489,10 +2536,14 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.dash.zelcore.io/tx/",
+      "https://insight.dash.org/insight/tx/",
+      "https://explorer.mydashwallet.org/tx/",
     ],
     logolink: "static/logos/DASH.svg",
     node: [
       "explorer.dash.zelcore.io",
+      "insight.dash.org",
+      "explorer.mydashwallet.org",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -2519,6 +2570,8 @@ const coins = {
     slip: 128,
     addresses: [],
     api: [
+      "https://zel.mymonero.com:8443",
+      "https://api.mymonero.com:8443",
       "https://backend.xmr.zelcore.io",
       "https://backend2.xmr.zelcore.io",
       "https://backend3.xmr.zelcore.io",
@@ -2532,6 +2585,8 @@ const coins = {
     type: "cryptonight",
     explorer: [
       "https://explorer.xmr.zelcore.io/tx/",
+      "https://moneroblocks.info/tx/",
+      "https://xmrchain.net/tx/",
     ],
     logolink: "static/logos/XMR.svg",
     node: [
@@ -2797,6 +2852,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.bze.zelcore.io/api/",
+      "https://explorer.getbze.com/api/",
     ],
     pathunix: "bzedge",
     path: "BZEdge",
@@ -2807,10 +2863,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.bze.zelcore.io/tx/",
+      "https://explorer.getbze.com/tx/",
     ],
     logolink: "static/logos/BZE.svg",
     node: [
       "explorer.bze.zelcore.io",
+      "explorer.getbze.com",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -2863,7 +2921,7 @@ const coins = {
       normal: 10,
       fast: 20,
     },
-    color: "#fafb48",
+    color: "#F8C545",
   },
   adt: {
     coin: "adt",
@@ -3150,6 +3208,7 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.cmm.zelcore.io/api/",
+      "https://explorer.commercium.net/api/",
     ],
     pathunix: "commercium",
     path: "Commercium",
@@ -3160,10 +3219,12 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.cmm.zelcore.io/tx/",
+      "https://explorer.commercium.net/tx/",
     ],
     logolink: "static/logos/CMM.svg",
     node: [
       "explorer.cmm.zelcore.io",
+      "explorer.commercium.net",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -3189,10 +3250,26 @@ const coins = {
     addresses: [],
     api: [
       "explorer.grs.zelcore.io",
+      "electrum10.groestlcoin.org",
+      "electrum11.groestlcoin.org",
+      "electrum13.groestlcoin.org",
+      "electrum14.groestlcoin.org",
     ],
     proxy: [
       "https://proxy.grs.zelcore.io/?server=127.0.0.1&port=56002&contype=tls&coin=groestlcoin&call=",
       "https://proxy.bth.zelcore.io/?server=explorer.grs.zelcore.io&port=56002&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum10.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum10.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum10.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum11.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum11.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum11.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum13.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum13.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum13.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum14.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum14.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum14.groestlcoin.org&port=50001&contype=tls&coin=groestlcoin&call=",
     ],
     pathunix: "groestlcoin",
     path: "Groestlcoin",
@@ -3203,10 +3280,12 @@ const coins = {
     type: "electrum",
     explorer: [
       "https://explorer.grs.zelcore.io/tx/",
+      "https://groestlsight.groestlcoin.org/tx/",
     ],
     logolink: "static/logos/GRS.svg",
     node: [
       "explorer.grs.zelcore.io",
+      "groestlsight.groestlcoin.org",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -3240,7 +3319,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x3684b581db1f94b721ee0022624329feb16ab653",
-    color: "#0081ab",
+    color: "#C79D5F",
     decimals: 18,
   },
   metal: {
@@ -4131,7 +4210,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
-    color: "#e67e22",
+    color: "#183c87",
     decimals: 3,
   },
   bitcoinzero: {
@@ -4177,7 +4256,7 @@ const coins = {
       normal: 10,
       fast: 20,
     },
-    color: "#ffffff",
+    color: "#000000",
   },
   etherparty: {
     coin: "etherparty",
@@ -4389,7 +4468,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
-    color: "#F5DB24",
+    color: "#0B171F",
     decimals: 18,
   },
   beaxy: {
@@ -4484,6 +4563,10 @@ const coins = {
     addresses: [],
     chainID: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     api: [
+      "https://api.eossweden.org",
+      "https://api.eosdetroit.io",
+      "https://eos.eoscafeblock.com",
+      "https://eosbp.atticlab.net",
       "https://eos.greymass.com:443",
     ],
     pathunix: "eos",
@@ -4494,6 +4577,8 @@ const coins = {
     type: "eos",
     explorer: [
       "https://eosflare.io/tx/",
+      "https://www.eosx.io/tx/",
+      "https://eospark.com/tx/",
     ],
     logolink: "static/logos/EOS.svg",
     node: [
@@ -4524,10 +4609,22 @@ const coins = {
     addresses: [],
     api: [
       "explorer.doge.zelcore.io",
+      "electrum3.cipig.net",
+      "electrum2.cipig.net",
+      "electrum1.cipig.net",
     ],
     proxy: [
       "https://proxy.doge.zelcore.io/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
       "https://proxy.zel.network/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
     ],
     pathunix: "dogecoin",
     path: "Dogecoin",
@@ -4538,10 +4635,12 @@ const coins = {
     type: "electrum",
     explorer: [
       "https://explorer.doge.zelcore.io/tx/",
+      "http://dogechain.info/tx/",
     ],
     logolink: "static/logos/DOGE.svg",
     node: [
       "explorer.doge.zelcore.io",
+      "dogechain.info",
     ],
     fee: 0,
     feepolicy: {
@@ -4567,9 +4666,21 @@ const coins = {
     addresses: [],
     api: [
       "explorer.dgb.zelcore.io",
+      "electrum3.cipig.net",
+      "electrum2.cipig.net",
+      "electrum1.cipig.net",
     ],
     proxy: [
       "https://proxy.dgb.zelcore.io/?server=127.0.0.1&port=50002&contype=tls&coin=digibyte&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum3.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum3.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum3.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum2.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum2.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum1.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum1.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10059&contype=tls&coin=digibyte&call=",
     ],
     pathunix: "digibyte",
     path: "DigiByte",
@@ -4580,10 +4691,12 @@ const coins = {
     type: "electrum",
     explorer: [
       "https://explorer.dgb.zelcore.io/tx/",
+      "https://digiexplorer.info/tx/",
     ],
     logolink: "static/logos/DGB.svg",
     node: [
       "explorer.dgb.zelcore.io",
+      "digiexplorer.info",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -4629,9 +4742,9 @@ const coins = {
     ],
     fee: 0.00001,
     feepolicy: {
-      economy: 5,
-      normal: 10,
-      fast: 20,
+      economy: 2500,
+      normal: 5000,
+      fast: 10000,
     },
     color: "#ffffff",
   },
@@ -4648,6 +4761,7 @@ const coins = {
     contractScriptHash: "c56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
     explorer: [
       "https://neoscan.io/transaction/",
+      "https://neotracker.io/tx/",
     ],
     logolink: "static/logos/NEO.svg",
     node: [
@@ -4680,6 +4794,7 @@ const coins = {
     contractScriptHash: "602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
     explorer: [
       "https://neoscan.io/transaction/",
+      "https://neotracker.io/tx/",
     ],
     logolink: "static/logos/GAS.svg",
     node: [
@@ -4712,6 +4827,7 @@ const coins = {
     contractScriptHash: "833ff069a6f04488192bbfd9334699719c8c9c63",
     explorer: [
       "https://neoscan.io/transaction/",
+      "https://neotracker.io/tx/",
     ],
     logolink: "static/logos/NEO.svg",
     node: [
@@ -4728,7 +4844,7 @@ const coins = {
       normal: 0,
       fast: 0,
     },
-    color: "#32a4be",
+    color: "#58BF00",
     decimals: 4,
   },
   stellar: {
@@ -4751,10 +4867,14 @@ const coins = {
     type: "stellar",
     explorer: [
       "https://stellarscan.io/transaction/",
+      "https://steexp.com/tx/",
+      "https://stellarchain.io/tx/",
     ],
     logolink: "static/logos/XLM.svg",
     node: [
       "https://stellarscan.io/",
+      "https://steexp.com/",
+      "https://stellarchain.io/",
     ],
     fee: 0.00001,
     feepolicy: {
@@ -5105,7 +5225,7 @@ const coins = {
       normal: 2,
       fast: 5,
     },
-    color: "#2461a5",
+    color: "#12284B",
   },
   huobitoken: {
     coin: "huobitoken",
@@ -5321,6 +5441,33 @@ const coins = {
     },
     contractAddress: "0xa66daa57432024023db65477ba87d4e7f5f95213",
     color: "#357CE1",
+    decimals: 18,
+  },
+  golfcoin: {
+    coin: "golfcoin",
+    name: "Golfcoin",
+    uri: ["golfcoin", "golf"],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x020c710646e23ab868dbe5b88004892797fe4efb&address=",
+    ],
+    unit: "GOLF",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/GOLF.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x020c710646e23ab868dbe5b88004892797fe4efb",
+    color: "#ffffff",
     decimals: 18,
   },
 };

@@ -1,30 +1,19 @@
-<svg id="Ethereum" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #b0b0b0;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-
-      .cls-3 {
-        fill: #efefef;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Eth_copy" data-name="Eth copy">
-    <path id="Shape1" class="cls-2" d="M256,87L152,259l104-47V87Z"/>
-    <path id="Shape2" class="cls-2" d="M256,87L360,259,256,212V87Z"/>
-    <path id="Shape3" class="cls-3" d="M152,258l104-47V320Z"/>
-    <path id="Shape4" class="cls-3" d="M360,258L256,211V320Z"/>
-    <path id="Shape5" class="cls-2" d="M152,279l104,61v85Z"/>
-    <path id="Shape6" class="cls-2" d="M360,279L256,340v85Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ethereum" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B0B0B0;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#EFEFEF;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Eth_copy">
+	<path id="Shape1" class="st1" d="M122.5,38l-52,86l52-23.5V38z"/>
+	<path id="Shape2" class="st1" d="M122.5,38l52,86l-52-23.5V38z"/>
+	<path id="Shape3" class="st2" d="M70.5,123.5l52-23.5v54.5L70.5,123.5z"/>
+	<path id="Shape4" class="st2" d="M174.5,123.5l-52-23.5v54.5L174.5,123.5z"/>
+	<path id="Shape5" class="st1" d="M70.5,134l52,30.5V207L70.5,134z"/>
+	<path id="Shape6" class="st1" d="M174.5,134l-52,30.5V207L174.5,134z"/>
+</g>
 </svg>

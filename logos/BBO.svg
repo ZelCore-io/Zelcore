@@ -1,28 +1,16 @@
-<svg id="Bigbom" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #4dae4a;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 17px;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Lines" class="cls-2" d="M172,133V277M202,74V277m31-169V277m30-144V277M141,190V320m144,71c49.922-18.9,54-55,54-55"/>
-  <path id="Out" class="cls-3" d="M284,188c0.074,7.329.35,11.065,0,18,33.5,3.51,90.108,38.893,92,112,0,43.507-36.406,112-111,112-75.52-3.345-113.408-57.12-115-114a164.412,164.412,0,0,1-17,0c0,46.935,32,126.738,128,130,88.632,0,129-74.8,129-128C391.393,220,300.553,188,284,188Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Bigbom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4DAE4A;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:8.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Lines" class="st1" d="M80.5,61v72 M95.5,31.5V133 M111,48.5V133 M126,61v72 M65.3,89.6v65 M137,190
+	c25-9.4,27-27.5,27-27.5"/>
+<path id="Out" class="st2" d="M136.5,88.5c0,3.7,0.2,5.5,0,9c16.8,1.8,45.1,19.4,46,56c0,21.8-18.2,56-55.5,56
+	c-37.8-1.7-56.7-28.6-57.5-57c-2.8,0.1-5.7,0.1-8.5,0c0,23.5,16,63.4,64,65c44.3,0,64.5-37.4,64.5-64
+	C190.2,104.5,144.8,88.5,136.5,88.5z"/>
 </svg>

@@ -1,21 +1,13 @@
-<svg id="ONG" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #489ED7;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-width: 7px;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="ONG-2" data-name="ONG" class="cls-2" d="M164.311,329.648V385.6m51.461-40.171V413M280.1,345.429v38.737m67.184-54.518v73.183m-29.211-135.5L159.308,107.991v97.557m0,0.059a97.133,97.133,0,0,0,165.817,68.949L187.756,136.684m12.394,12.2L353.714,303.106V205.548m0,0A97.134,97.134,0,0,0,187.9,136.541L325.265,274.413"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ONG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#489ED7;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:7;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<path id="ONG-2" class="st1" d="M153.3,318.6v56 M204.8,334.4V402 M269.1,334.4v38.7 M336.3,318.6v73.2 M307.1,256.3L148.3,97v97.6
+	 M148.3,194.6c-0.1,53.6,43.2,97.3,96.9,97.4c25.9,0.1,50.7-10.2,69-28.5L176.8,125.7 M189.1,137.9l153.6,154.2v-97.6 M342.7,194.5
+	c0.2-53.6-43.2-97.3-96.8-97.5c-25.9-0.1-50.7,10.2-69,28.4l137.4,137.9"/>
 </svg>

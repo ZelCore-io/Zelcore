@@ -6850,50 +6850,6 @@ const coininfo = {
       },
     },
   },
-  suqa: {
-    description: "SUQA is a new open source peer to peer digital currency that gives the investors 5 % apr interest from term deposits even if the wallet is offline (the most secure way)\r\n\r\nIt is based on an improved code of the secure and widely used Bitcoin Blockchain with a brand new advanced X22i POW algo which is completely ASIC, FPGA and QUANTUM resistant.",
-    total_supply: 1180000000,
-    circulating_supply: 612437485.603475,
-    links: {
-      homepage: [
-        "https://suqa.org/",
-        "",
-        "",
-      ],
-      explorer: [
-        "Suqaexplorer.com",
-        "",
-        "",
-        "",
-        "",
-      ],
-      official_forum_url: [
-        "",
-        "",
-        "",
-      ],
-      chat_url: [
-        "https://discord.gg/qrtU7Y9",
-        "",
-        "",
-      ],
-      announcement_url: [
-        "",
-        "",
-      ],
-      twitter_screen_name: "https://twitter.com/SUQAfoundation",
-      facebook_username: "SUQAFoundation",
-      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5038269",
-      telegram_channel_identifier: "https://t.me/Suqafoundation",
-      subreddit_url: "https://www.reddit.com/r/suqa/",
-      repos_url: {
-        github: [
-          "https://github.com/SUQAORG/SUQA-CORE",
-        ],
-        bitbucket: [],
-      },
-    },
-  },
   axe: {
     description: "AXE is a decentralized X11-based cryptocurrency. The foundation of AXE network is hybrid PoW/PoSe system. First-tier nodes provide hash power to move data and secure the blockchain, while the second tier of full nodes adds extra privacy and increases network performance.",
     total_supply: 21000000,
@@ -6986,18 +6942,18 @@ const coininfo = {
     },
   },
   zelcash: {
-    description: "Zelcash is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelDex and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    description: "Zel is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,
     circulating_supply: 61640450,
     links: {
       homepage: [
-        "https://zel.cash/",
+        "https://zel.network/",
         "",
         "",
       ],
       explorer: [
         "https://explorer.zel.cash/",
-        "https://explorer.zel.zeltrez.io/",
+        "https://explorer.zel.zelcore.io/",
         "",
         "",
         "",
@@ -7008,7 +6964,7 @@ const coininfo = {
         "",
       ],
       chat_url: [
-        "https://discord.gg/tTpj2Wm",
+        "https://discord.io/zel",
         "",
         "",
       ],
@@ -7030,18 +6986,18 @@ const coininfo = {
     },
   },
   testnet: {
-    description: "TESTZEL - is the unit of cryptocurrency on the Zel Kamiooka Testnet. This is not ZEL, but it's testnet unit. Zel holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelDex and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    description: "TESTZEL - is the unit of cryptocurrency on the Zel Kamata Testnet. This is not ZEL, but it's testnet unit. Zel holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,
     circulating_supply: 61640450,
     links: {
       homepage: [
-        "https://zel.cash/",
+        "https://zel.network/",
         "",
         "",
       ],
       explorer: [
         "https://explorer.zel.cash/",
-        "https://explorer.zel.zeltrez.io/",
+        "https://explorer.zel.zelcore.io/",
         "",
         "",
         "",
@@ -7052,7 +7008,7 @@ const coininfo = {
         "",
       ],
       chat_url: [
-        "https://discord.gg/tTpj2Wm",
+        "https://discord.io/zel",
         "",
         "",
       ],
@@ -8203,6 +8159,48 @@ const coininfo = {
       facebook_username: "100024349513191",
       bitcointalk_thread_identifier: null,
       telegram_channel_identifier: "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  golfcoin: {
+    description: "Rewards program for the golf industry.",
+    total_supply: 100000000000,
+    circulating_supply: 35341279386,
+    links: {
+      homepage: [
+        "https://www.golfcoin.cc/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "https://ethplorer.io/address/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "https://enjinx.io/eth/token/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.co/t8RuUg5XMf",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/golfcoin",
+      facebook_username: "golfcoin",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.co/t8RuUg5XMf",
       subreddit_url: "",
       repos_url: {
         github: [],

@@ -1,53 +1,59 @@
-<svg id="KIN" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #003ec5;
-      }
-
-      .cls-1, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="KIN-2" data-name="KIN">
-    <path id="TopLeft" class="cls-2" d="M203,182h7a10,10,0,0,1,10,10v17a0,0,0,0,1,0,0H203a10,10,0,0,1-10-10v-7A10,10,0,0,1,203,182Z"/>
-    <path id="TopRight" class="cls-2" d="M307,182h7a10,10,0,0,1,10,10v7a10,10,0,0,1-10,10H297a0,0,0,0,1,0,0V192A10,10,0,0,1,307,182Z"/>
-    <path id="BottomLeft" class="cls-2" d="M203,289h17a0,0,0,0,1,0,0v17a10,10,0,0,1-10,10h-7a10,10,0,0,1-10-10v-7A10,10,0,0,1,203,289Z"/>
-    <path id="BottomRight" class="cls-2" d="M297,289h17a10,10,0,0,1,10,10v7a10,10,0,0,1-10,10h-7a10,10,0,0,1-10-10V289A0,0,0,0,1,297,289Z"/>
-    <rect id="Top" class="cls-2" x="245" y="158" width="27" height="27" rx="10" ry="10"/>
-    <rect id="Bottom" class="cls-2" x="245" y="318" width="27" height="27" rx="10" ry="10"/>
-    <rect id="Left" class="cls-2" x="165" y="237" width="27" height="27" rx="10" ry="10"/>
-    <rect id="Right" class="cls-2" x="323" y="237" width="27" height="27" rx="10" ry="10"/>
-    <path id="K" class="cls-3" d="M220,211v80h19c3.456,0,6-2.3,6-5V275s1.179-11,12-11,13,11,13,11v10a6.129,6.129,0,0,0,6,6h21V271c0-3.2-1.3-7-6-7h-9s-12-2.531-12-13,11-13,11-13h11c2.449,0,6-2.755,6-6V211H277c-4,0-7,2.755-7,6v10s-1.145,11-12,11-14-11-14-11V216c0-2.1-2.2-5-5-5H220Zm-7,135a9,9,0,1,1-9,9A9,9,0,0,1,213,346Zm88-3a9,9,0,1,1-9,9A9,9,0,0,1,301,343Zm57-59a9,9,0,1,1-9,9A9,9,0,0,1,358,284Zm1-84a9,9,0,1,1-9,9A9,9,0,0,1,359,200Zm-60-59a9,9,0,1,1-9,9A9,9,0,0,1,299,141Zm-81,0a9,9,0,1,1-9,9A9,9,0,0,1,218,141Zm-59,60a9,9,0,1,1-9,9A9,9,0,0,1,159,201Zm0,83a9,9,0,1,1-9,9A9,9,0,0,1,159,284Z"/>
-    <g id="Rounds">
-      <circle id="Round" class="cls-2" cx="96" cy="316" r="7"/>
-      <path id="Round2" class="cls-3" d="M133,364a4,4,0,1,1-4,4A4,4,0,0,1,133,364Zm37-28a5,5,0,1,1-5,5A5,5,0,0,1,170,336Z"/>
-      <circle id="Round3" class="cls-2" cx="187" cy="404" r="4"/>
-      <circle id="Round4" class="cls-2" cx="256" cy="428" r="7"/>
-      <circle id="Round5" class="cls-2" cx="318" cy="401" r="5"/>
-      <circle id="Round6" class="cls-2" cx="259" cy="377" r="5"/>
-      <circle id="Round7" class="cls-2" cx="368" cy="369" r="5"/>
-      <circle id="Round8" class="cls-2" cx="412" cy="315" r="8"/>
-      <circle id="Round9" class="cls-2" cx="347" cy="341" r="5"/>
-      <path id="Round10" class="cls-3" d="M425,245a5,5,0,1,1-5,5A5,5,0,0,1,425,245Zm-39,0a5,5,0,1,1-5,5A5,5,0,0,1,386,245Z"/>
-      <circle id="Round11" class="cls-2" cx="416" cy="181" r="4"/>
-      <circle id="Round12" class="cls-2" cx="347" cy="161" r="5"/>
-      <circle id="Round13" class="cls-2" cx="377" cy="132" r="4"/>
-      <circle id="Round14" class="cls-2" cx="320" cy="92" r="7"/>
-      <circle id="Round15" class="cls-2" cx="258" cy="125" r="5"/>
-      <circle id="Round16" class="cls-2" cx="256" cy="83" r="6"/>
-      <circle id="Round17" class="cls-2" cx="190" cy="95" r="4"/>
-      <circle id="Round18" class="cls-2" cx="170" cy="162" r="5"/>
-      <circle id="Round19" class="cls-2" cx="134" cy="133" r="8"/>
-      <circle id="Round20" class="cls-2" cx="103" cy="185" r="5"/>
-      <circle id="Round21" class="cls-2" cx="134" cy="250" r="5"/>
-      <circle id="Round22" class="cls-2" cx="86" cy="251" r="4"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="KIN" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#003EC5;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="KIN-2">
+	<path id="TopLeft" class="st1" d="M96,85.5h3.5c2.8,0,5,2.2,5,5V99l0,0H96c-2.8,0-5-2.2-5-5v-3.5C91,87.7,93.2,85.5,96,85.5z"/>
+	<path id="TopRight" class="st1" d="M148,85.5h3.5c2.8,0,5,2.2,5,5V94c0,2.8-2.2,5-5,5H143l0,0v-8.5C143,87.7,145.2,85.5,148,85.5z"
+		/>
+	<path id="BottomLeft" class="st1" d="M96,139h8.5l0,0v8.5c0,2.8-2.2,5-5,5H96c-2.8,0-5-2.2-5-5V144C91,141.2,93.2,139,96,139z"/>
+	<path id="BottomRight" class="st1" d="M143,139h8.5c2.8,0,5,2.2,5,5v3.5c0,2.8-2.2,5-5,5H148c-2.8,0-5-2.2-5-5V139L143,139z"/>
+	<path id="Top" class="st1" d="M122,73.5h3.5c2.8,0,5,2.2,5,5V82c0,2.8-2.2,5-5,5H122c-2.8,0-5-2.2-5-5v-3.5
+		C117,75.7,119.2,73.5,122,73.5z"/>
+	<path id="Bottom" class="st1" d="M122,153.5h3.5c2.8,0,5,2.2,5,5v3.5c0,2.8-2.2,5-5,5H122c-2.8,0-5-2.2-5-5v-3.5
+		C117,155.7,119.2,153.5,122,153.5z"/>
+	<path id="Left" class="st1" d="M82,113h3.5c2.8,0,5,2.2,5,5v3.5c0,2.8-2.2,5-5,5H82c-2.8,0-5-2.2-5-5V118C77,115.2,79.2,113,82,113
+		z"/>
+	<path id="Right" class="st1" d="M161,113h3.5c2.8,0,5,2.2,5,5v3.5c0,2.8-2.2,5-5,5H161c-2.8,0-5-2.2-5-5V118
+		C156,115.2,158.2,113,161,113z"/>
+	<path id="K" class="st1" d="M104.5,100v40h9.5c1.7,0,3-1.1,3-2.5V132c0,0,0.6-5.5,6-5.5c5.4,0,6.5,5.5,6.5,5.5v5c0,1.6,1.4,3,3,3
+		H143v-10c0-1.6-0.6-3.5-3-3.5h-4.5c0,0-6-1.3-6-6.5s5.5-6.5,5.5-6.5h5.5c1.2,0,3-1.4,3-3V100H133c-2,0-3.5,1.4-3.5,3v5
+		c0,0-0.6,5.5-6,5.5s-7-5.5-7-5.5v-5.5c0-1.1-1.1-2.5-2.5-2.5H104.5z M101,167.5c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5
+		S98.5,167.5,101,167.5z M145,166c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5S142.5,166,145,166z M173.5,136.5
+		c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5S171,136.5,173.5,136.5z M174,94.5c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5
+		s-4.5-2-4.5-4.5S171.5,94.5,174,94.5z M144,65c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5S141.5,65,144,65z M103.5,65
+		c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5S99,72,99,69.5S101,65,103.5,65z M74,95c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5
+		l0,0C69.5,97,71.5,95,74,95z M74,136.5c2.5,0,4.5,2,4.5,4.5s-2,4.5-4.5,4.5s-4.5-2-4.5-4.5S71.5,136.5,74,136.5z"/>
+	<g id="Rounds">
+		<circle id="Round" class="st1" cx="42.5" cy="152.5" r="3.5"/>
+		<path id="Round2" class="st1" d="M61,176.5c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S59.9,176.5,61,176.5z M79.5,162.5
+			c1.4,0,2.5,1.1,2.5,2.5s-1.1,2.5-2.5,2.5S77,166.4,77,165S78.1,162.5,79.5,162.5z"/>
+		<circle id="Round3" class="st1" cx="88" cy="196.5" r="2"/>
+		<circle id="Round4" class="st1" cx="122.5" cy="208.5" r="3.5"/>
+		<circle id="Round5" class="st1" cx="153.5" cy="195" r="2.5"/>
+		<circle id="Round6" class="st1" cx="124" cy="183" r="2.5"/>
+		<circle id="Round7" class="st1" cx="178.5" cy="179" r="2.5"/>
+		<circle id="Round8" class="st1" cx="200.5" cy="152" r="4"/>
+		<circle id="Round9" class="st1" cx="168" cy="165" r="2.5"/>
+		<path id="Round10" class="st1" d="M207,117c1.4,0,2.5,1.1,2.5,2.5s-1.1,2.5-2.5,2.5s-2.5-1.1-2.5-2.5S205.6,117,207,117z
+			 M187.5,117c1.4,0,2.5,1.1,2.5,2.5s-1.1,2.5-2.5,2.5s-2.5-1.1-2.5-2.5S186.1,117,187.5,117z"/>
+		<circle id="Round11" class="st1" cx="202.5" cy="85" r="2"/>
+		<circle id="Round12" class="st1" cx="168" cy="75" r="2.5"/>
+		<circle id="Round13" class="st1" cx="183" cy="60.5" r="2"/>
+		<circle id="Round14" class="st1" cx="154.5" cy="40.5" r="3.5"/>
+		<circle id="Round15" class="st1" cx="123.5" cy="57" r="2.5"/>
+		<circle id="Round16" class="st1" cx="122.5" cy="36" r="3"/>
+		<circle id="Round17" class="st1" cx="89.5" cy="42" r="2"/>
+		<circle id="Round18" class="st1" cx="79.5" cy="75.5" r="2.5"/>
+		<circle id="Round19" class="st1" cx="61.5" cy="61" r="4"/>
+		<circle id="Round20" class="st1" cx="46" cy="87" r="2.5"/>
+		<circle id="Round21" class="st1" cx="61.5" cy="119.5" r="2.5"/>
+		<circle id="Round22" class="st1" cx="37.5" cy="120" r="2"/>
+	</g>
+</g>
 </svg>

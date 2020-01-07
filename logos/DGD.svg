@@ -1,19 +1,18 @@
-<svg id="DGD" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #c09f57;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="DGD-2" data-name="DGD" class="cls-2" d="M124,116h77v30H124V116Zm95-2h27V236H122V164h97V114Zm45,0H386v26H292v71h70V189H312V164h77v72H264V114ZM125,261H325c53.12,0,75,45.384,75,74s-23.542,73-75.245,73H124Zm22-72h70v22H147V189Zm11,104H325c19.245,0,40,16.955,40,42s-23.609,41-42,41H158V293Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="DGD" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C09F57;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"/>
+<g>
+	<rect x="113" y="105" class="st1" width="77" height="30"/>
+	<polygon class="st1" points="378,153 301,153 301,178 351,178 351,200 281,200 281,129 375,129 375,103 253,103 253,225 378,225 	
+		"/>
+	<path class="st1" d="M314,250H114l-1,147h200.8c51.7,0,75.2-44.4,75.2-73C389,295.4,367.1,250,314,250z M312,365H147v-83h167
+		c19.2,0,40,17,40,42C354,349,330.4,365,312,365z"/>
+	<path class="st1" d="M235,103h-27v50h-97v72h124V103z M206,200h-70v-22h70V200z"/>
+</g>
 </svg>

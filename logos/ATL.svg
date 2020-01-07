@@ -1,19 +1,13 @@
-<svg id="Atlant" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #004dff;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Atlant-2" data-name="Atlant" class="cls-2" d="M276.869,99.543c19.79,10.447,27.658,35.545,17.577,56.041L177.062,394.245c-10.087,20.5-34.31,28.652-54.094,18.2s-27.658-35.538-17.577-56.034l117.39-238.661c10.081-20.5,34.3-28.652,54.088-18.205V99.543ZM360.618,262.7l-45.353,91.152L335.012,394c10.075,20.485,34.267,28.634,54.039,18.187s27.639-35.507,17.552-55.985l-45.991-93.5h0.006Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Atlant" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#004DFF;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Atlant-2" class="st1" d="M132.9,44.3c9.9,5.2,13.8,17.8,8.8,28L83,191.6c-5,10.2-17.2,14.3-27,9.1s-13.8-17.8-8.8-28
+	l58.7-119.3C110.9,43.1,123,39,132.9,44.3L132.9,44.3z M174.8,125.9l-22.7,45.6l9.9,20.1c5,10.2,17.1,14.3,27,9.1s13.8-17.8,8.8-28
+	L174.8,125.9L174.8,125.9L174.8,125.9z"/>
 </svg>

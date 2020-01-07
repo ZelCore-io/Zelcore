@@ -1,34 +1,19 @@
-<svg id="Portfolio_Tracker" data-name="Portfolio Tracker" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #232220;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 10px;
-      }
-
-      .cls-3 {
-        fill: #232220;
-      }
-
-      .cls-3, .cls-4 {
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <circle id="Main" class="cls-1" cx="255.5" cy="255.5" r="228.5"/>
-  <circle id="Pie" class="cls-2" cx="256" cy="256" r="130.188"/>
-  <path id="PieLine" class="cls-3" d="M251.43,123.94h10.14V257.914H251.43V123.94Z"/>
-  <path id="PieLine2" class="cls-3" d="M261.232,250.517v10.139H127.258V250.517H261.232Z"/>
-  <path id="PieLine3" class="cls-3" d="M259.519,254.848l-8.78,5.069L183.752,143.893l8.78-5.07Z"/>
-  <path id="Line1" class="cls-4" d="M221.617,337.452l-7.234-6.9,42-44,7.234,6.9Z"/>
-  <path id="Line2" class="cls-4" d="M251.464,296.536l7.072-7.072,22,22-7.072,7.072Z"/>
-  <path id="Line3" class="cls-4" d="M278.536,313.536l-7.072-7.072,54-54,7.072,7.072Z"/>
-  <path id="Arrow" class="cls-4" d="M296.112,294.99l37.768-37.769-0.075,28.5,10.1-10.1L344,240l-35.62.1-10.1,10.1,28.5-.076-37.769,37.768Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Portfolio_Tracker" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 457 457" style="enable-background:new 0 0 457 457;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#232220;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#232220;}
+</style>
+<circle id="Main" class="st0" cx="228.5" cy="228.5" r="228.5"/>
+<circle id="Pie" class="st1" cx="229" cy="229" r="130.2"/>
+<path id="PieLine" class="st2" d="M224.4,96.9h10.1v134h-10.1V96.9z"/>
+<path id="PieLine2" class="st2" d="M234.2,223.5v10.1h-134v-10.1H234.2z"/>
+<path id="PieLine3" class="st2" d="M232.5,227.8l-8.8,5.1l-67-116l8.8-5.1L232.5,227.8z"/>
+<path id="Line1" d="M194.6,310.5l-7.2-6.9l42-44l7.2,6.9L194.6,310.5z"/>
+<path id="Line2" d="M224.5,269.5l7.1-7.1l22,22l-7.1,7.1L224.5,269.5z"/>
+<path id="Line3" d="M251.5,286.5l-7.1-7.1l54-54l7.1,7.1L251.5,286.5z"/>
+<path id="Arrow" d="M269.1,268l37.8-37.8l-0.1,28.5l10.1-10.1L317,213l-35.6,0.1l-10.1,10.1l28.5-0.1L262,260.9L269.1,268z"/>
 </svg>

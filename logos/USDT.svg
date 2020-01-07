@@ -1,19 +1,13 @@
-<svg id="Tether" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #26a17a;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main_copy_10" data-name="Main copy 10" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="T" class="cls-2" d="M138,126v58h87v38s-120.316,5.287-124,33c-2.35,28.59,124,35,124,35V412h63V290s123.717-5.774,123-34-123-35-123-35V184h87V126H138Zm87,101s-104.206,2.785-110,26c-0.952,24.161,109.749,27.6,141,28,32.374-.641,141.654-4.21,140-28-1.654-22.137-108-27-108-27v43s-15,1-32,1-31-1-31-1V227Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Tether" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#26A17A;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main_copy_10" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path class="st1" d="M138.5,105V86.5H182v-29H63.5v29H107v19c0,0-60.2,2.6-62,16.5c-1.2,14.3,62,17.5,62,17.5v61h31.5v-61
+	c0,0,61.9-2.9,61.5-17C199.6,108.4,138.5,105,138.5,105z M122.5,135c-15.6-0.2-71-1.9-70.5-14c2.9-11.6,55-13,55-13v21
+	c0,0,7,0.5,15.5,0.5s16-0.5,16-0.5v-21.5c0,0,53.2,2.4,54,13.5C193.3,132.9,138.7,134.7,122.5,135z"/>
 </svg>

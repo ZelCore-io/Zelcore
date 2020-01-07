@@ -100,8 +100,8 @@ export default {
     create_or_change_pin: "Erstelle oder ändere eigene 2FA PIN",
     disable_your_d2fa: "Deaktivere eigene d2FA",
     d2fa_requires_minimum: "d2FA benötigt einen Mindestbetrag von 0.0002 ZEL, der in Ihrer Wallet vorhanden sein muss, um eine d2FA Transaktion zu broadcasten. Änderungen werden wirksam, nachdem die Transaktion bestätigt und erneut in den Account eingeloggt worden ist.",
-    d2fa_adds_another_layer: "d2FA fügt eine weitere Ebene für Schutz und Sicherheit hinzu. Sie werden nicht in der Lage sein, sicherheitsrelevante, Ihren Account betreffende Aufgaben ohne diese änderbare PIN zu signieren oder durchzuführen. \n"
-    + "Die PIN wird direkt auf der Blockchain in verschlüsselter Form hinterlegt. \n"
+    d2fa_adds_another_layer: "d2FA fügt eine weitere Ebene für Schutz und Sicherheit hinzu. Sie werden nicht in der Lage sein, sicherheitsrelevante, Ihren Account betreffende Aufgaben ohne diese änderbare PIN zu signieren oder durchzuführen. "
+    + "Die PIN wird direkt auf der Blockchain in verschlüsselter Form hinterlegt. "
     + "Niemand außer Ihnen kann Ihre d2FA Signatur verändern!",
     create_or_change_easy: "Erstelle oder Ändere Easy Login",
     signing_address: "Signierende Adressee:",
@@ -109,7 +109,7 @@ export default {
     sign: "signieren",
     sign_and_send: "Signieren und Senden",
     new_pin: "Neue PIN",
-    easy_login_text: "Zel-ID Easy Login liefert eine lokal gespeicherte Option zur schnellen Anmeldung im Account unter Verwendung Ihrer gewählten Phrase, PIN, Fingerabdruck oder Face-ID. \n"
+    easy_login_text: "Zel-ID Easy Login liefert eine lokal gespeicherte Option zur schnellen Anmeldung im Account unter Verwendung Ihrer gewählten Phrase, PIN, Fingerabdruck oder Face-ID. "
     + "Easy Login benötigt, dass d2FA für Ihren Account aktiviert ist und kann nur für einen Account aktiviert werden!",
     easy_login_disabled: "Easy Login deaktiviert",
     easy_sign_phrase: "Ungültige Easy Sign Phrase",
@@ -159,9 +159,9 @@ export default {
 
     // Account Warnung
     password_is_key: "Ihr Passwort ist der Schlüssel zum Zugang zu Ihren Geldmitteln, machen Sie es so sicher wie möglich!",
-    no_keep_copy: "ZelCore behält keine Abschrift Ihres unverschlüsselten Passwortes ein, weder lokal noch entfernt. Aufgrund dieses Features gibt es keinen Weg Ihr Passwort wiederherzustellen oder zu ändern. \n"
+    no_keep_copy: "ZelCore behält keine Abschrift Ihres unverschlüsselten Passwortes ein, weder lokal noch entfernt. Aufgrund dieses Features gibt es keinen Weg Ihr Passwort wiederherzustellen oder zu ändern. "
     + "Wenn Sie Ihren Benutzernamen oder Passwort verlieren (oder vergessen), werden Sie DAUERHAFT den Zugang zu Ihrer Wallet verlieren. Daher ist es WICHTIG und UNERLÄSSLICH, dass Sie eine Kopie Ihrer Informationen an einem sicheren Ort aufbewahren.",
-    software_as_is: "DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIEẞLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. \n"
+    software_as_is: "DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIEẞLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. "
                     + "IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR ZU MACHEN, OB INFOLGE DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERS IM ZUSAMMENHANG MIT DER SOFTWARE ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN. ",
     backup_backup_backup: "BACKUP, BACKUP, BACKUP nochmal!",
     im_aware_register: "Ist mir klar, registrieren!",
@@ -231,14 +231,14 @@ export default {
     payment_note: "Zahlungsnotiz",
     warning_eth_contracts: "Warnung: Ethereum Contracts benötigen einige Minuten bis diese im Explorer angezeigt werden! Contracts benötigen das Vorhandensein von Ethereum in Ihrer Wallet, was das Gas darstellt, dass die Ausführung antreibt.",
     warning_etc_transactions: "Warnung: Es dauert eine Weile bis eine Ethereum Classic Transaktion in der Transaktionstabelle gelistet ist.",
-    warning_usdt_is_btc: "Warnung: Tether ist ein Bitcoin Token und bedarf daher BTC zur Ausführung einer Transaktion. Zusätzlich zu Bitcoin Transaktionsgebühren müssen 0.000006 BTC \n"
-                         + "an die Zieladresse als Auflage des Bitcoin Netzwerks gesendet werden. Sendeprozess dauert einige Sekunden und es könnte bis zu einigen Minuten dauern bis \n"
+    warning_usdt_is_btc: "Warnung: Tether ist ein Bitcoin Token und bedarf daher BTC zur Ausführung einer Transaktion. Zusätzlich zu Bitcoin Transaktionsgebühren müssen 0.000006 BTC "
+                         + "an die Zieladresse als Auflage des Bitcoin Netzwerks gesendet werden. Sendeprozess dauert einige Sekunden und es könnte bis zu einigen Minuten dauern bis "
                          + "eine Transaktion auf dem Omni Explorer sichtbar wird und sogar länger bis diese in der Transaktionstabelle angezeigt wird, bitte seien Sie geduldig! Transaktion ist sofort sichtbar in Ihrer Bitcoin ZelCore Wallet.",
     warning_monero_fee: "Warnung: Monero Gebühr ist nicht vor Erstellung der Transaktion bekannt, es handelt sich um eine Näherung. Erstellung der Transaktion braucht wenige Sekunden.",
     edit: "Bearbeiten",
     delete: "Löschen",
     show_in_explorer: "Zeige in Explorer",
-    full_node_launch_note: "Aufgrund der von ZelCore eingesetzten Verschlüsselung, werden Ihre Geldmittel nicht in anderer, von ZelCore abweichender, Full-Node Software zugänglich sein. Full-Node ist nur für fortgeschrittene Nutzer: \n"
+    full_node_launch_note: "Aufgrund der von ZelCore eingesetzten Verschlüsselung, werden Ihre Geldmittel nicht in anderer, von ZelCore abweichender, Full-Node Software zugänglich sein. Full-Node ist nur für fortgeschrittene Nutzer: "
                            + "Wenn Sie nicht wissen, was eine Full-Node ist, nutzen Sie es bitte nicht! Bitte sichern Sie regelmäßig Ihre Privatekeys der Adressen, die Sie in Benutzung haben.",
     launch_full_node: "Starte Full Node",
     destination_address: "Zieladresse",
@@ -303,7 +303,7 @@ export default {
     no_shieldable_amount: "Keinen shieldbaren Betrag gefunden.",
     shield: "Shield",
     rescan_blockchain: "Blockchain rescannen",
-    rescan_blockchain_info: "Geht durch die Blockchain, um Transaktionen zu finden, die in Ihrer Wallet fehlen. Nützlich, wenn Sie eine Adresse importiert haben, von der Sie wissen, dass sie einige Geldmittel hat. \n"
+    rescan_blockchain_info: "Geht durch die Blockchain, um Transaktionen zu finden, die in Ihrer Wallet fehlen. Nützlich, wenn Sie eine Adresse importiert haben, von der Sie wissen, dass sie einige Geldmittel hat. "
                             + "Diese Aktion startet den Coin Daemon neu mit Rescan-Option. Ihre Wallet wird für bis zu einer Stunde nicht betriebsbereit sein!",
     rescan: "Rescan",
     configuration_file: "Konfigurationsdatei",
@@ -346,7 +346,7 @@ export default {
     do_not_change_rpc_ports3: "Ein Reindex wird benötigt, sobald ein Index verändert worden ist (z.B. txindex ist auf aktiv gesetzt worden). ",
     save_and_reindex: "Speichern und Reindex",
     zelnode_configuration_change_restart1: "Nach einer Änderung einer Zelnode Konfiguration wird automatisch ein Daemon Neustart durchgeführt.",
-    zelnode_configuration_change_restart2: "Behalten Sie bitte im Hinterkopf, dass ZelNodes ebenfalls eine Änderung an der ZelCash Konfigurationsdatei (zelcash.conf) benötigt. Sie sollten diese ZelCash Konfiguration in Tools anpassen, bevor Sie diese ZelNodes Konfiguration abändern.",
+    zelnode_configuration_change_restart2: "Behalten Sie bitte im Hinterkopf, dass ZelNodes ebenfalls eine Änderung an der Zel Konfigurationsdatei (zelcash.conf) benötigt. Sie sollten diese Zel Konfiguration in Tools anpassen, bevor Sie diese ZelNodes Konfiguration abändern.",
     zelnode_configuration_change_restart3: "Fehlerhaft konfigurierte Konfigurationsdateien können zur Fehlfunktion der Wallet führen!",
     my_zelnodes: "Meine ZelNodes",
     all_zelnodes: "Alle ZelNodes",
@@ -450,7 +450,7 @@ export default {
     daemon_restart_performed_after: "Ein Daemon Neustart wird nach Bestätigung dieser neuen Konfiguration durchgeführt.",
     zelnodes_configuration_loading: "ZelNodes Konfiguration lädt...",
     save_and_continue: "Speichern und fortfahren",
-    configuration_file_for_server: "Unten finden Sie die für Ihren Server generierte ZelCash Konfigurationsdatei. Kopieren Sie den Text und fügen Sie diesen in die ~/.zelcash/zelcash.conf Datei auf Ihrem Server ein. Im Anschluss daran starten Sie Ihre Server Zelnode. \n"
+    configuration_file_for_server: "Unten finden Sie die für Ihren Server generierte Zel Konfigurationsdatei. Kopieren Sie den Text und fügen Sie diesen in die ~/.zelcash/zelcash.conf Datei auf Ihrem Server ein. Im Anschluss daran starten Sie Ihre Server Zelnode. "
     + "Sobald Ihre Server ZelNode gesynct ist, können Sie Ihre ZelNode aktivieren. Bitte seien Sie vorgewarnt, dass dies bis zu einer halben Stunde dauern kann.",
     copy_configuration: "Kopiere Konfiguration in Zwischenablage",
     activate_my_zelnode: "Aktiviere meine ZelNode!",
@@ -665,7 +665,7 @@ export default {
 
     // Tooltips and scipt text
     auto_updates_disabled: "ZelCore Auto-Updates sind deaktiviert. Ihre Version könnte veraltet sein!",
-    launches_a_fullnode_extended: "Startet eine Full-Node mit erweiterten Funktionen! Aufgrund der von ZelCore eingesetzten Verschlüsselung, werden Ihre Geldmittel nicht in anderer, von ZelCore abweichender, Full-Node Software zugänglich sein. \n"
+    launches_a_fullnode_extended: "Startet eine Full-Node mit erweiterten Funktionen! Aufgrund der von ZelCore eingesetzten Verschlüsselung, werden Ihre Geldmittel nicht in anderer, von ZelCore abweichender, Full-Node Software zugänglich sein. "
                                   + "Full-Node ist nur für fortgeschrittene Nutzer: Wenn Sie nicht wissen, was eine Full-Node ist, nutzen Sie es bitte nicht!",
     wrong_pin: "Falsche PIN - Zugang  verweigert",
     error_d2fa_cert: "Fehler in d2FA Zertifikat, mögliche Sicherheitslücke. Bitte ZelCore-Team kontaktieren.",

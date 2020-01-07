@@ -1,32 +1,19 @@
-<svg id="Stox" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #710afc;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: none;
-        stroke: #fff;
-        stroke-linejoin: round;
-        stroke-width: 6px;
-      }
-
-      .cls-3 {
-        stroke-linecap: round;
-      }
-    </style>
-  </defs>
-  <path id="Main_copy_25" data-name="Main copy 25" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Stox-2" data-name="Stox">
-    <path id="S" class="cls-2" d="M74.23,299.885s37.08,2.583,40.875-42.617c1.055-32.286,29.379-45.2,35.765-45.2h63.867"/>
-    <path id="T" class="cls-2" d="M186.636,258.559v43.909"/>
-    <path id="O" class="cls-3" d="M282.441,214.648c23.277,0,42.146,19.082,42.146,42.62s-18.869,42.619-42.146,42.619-42.147-19.081-42.147-42.619S259.164,214.648,282.441,214.648Z"/>
-    <path id="X" class="cls-2" d="M346.3,214.65c23.28,0,42.152,19.081,42.152,42.618s-18.872,42.617-42.152,42.617"/>
-    <path id="X2" class="cls-2" d="M436.993,214.65c-23.28,0-42.152,19.081-42.152,42.618s18.872,42.617,42.152,42.617"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Stox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#710AFC;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path id="Main_copy_25" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Stox-2">
+	<path id="S" class="st1" d="M31.6,144.4c0,0,18.5,1.3,20.4-21.3c0.5-16.1,14.7-22.6,17.9-22.6h31.9"/>
+	<path id="T" class="st1" d="M87.8,123.8v22"/>
+	<path id="O" class="st2" d="M135.7,101.8c11.6,0,21.1,9.5,21.1,21.3s-9.4,21.3-21.1,21.3s-21.1-9.5-21.1-21.3
+		S124.1,101.8,135.7,101.8z"/>
+	<path id="X" class="st1" d="M167.6,101.8c11.6,0,21.1,9.5,21.1,21.3s-9.4,21.3-21.1,21.3"/>
+	<path id="X2" class="st1" d="M213,101.8c-11.6,0-21.1,9.5-21.1,21.3s9.4,21.3,21.1,21.3"/>
+</g>
 </svg>

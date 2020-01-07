@@ -1,80 +1,35 @@
-<svg id="Power_Ledger" data-name="Power Ledger" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #00cdd7;
-      }
-
-      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
-        fill-rule: evenodd;
-      }
-
-      .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        opacity: 0.2;
-      }
-
-      .cls-3 {
-        opacity: 0.25;
-      }
-
-      .cls-4 {
-        opacity: 0.3;
-      }
-
-      .cls-5 {
-        opacity: 0.35;
-      }
-
-      .cls-6 {
-        opacity: 0.4;
-      }
-
-      .cls-7 {
-        opacity: 0.45;
-      }
-
-      .cls-8 {
-        opacity: 0.55;
-      }
-
-      .cls-9 {
-        opacity: 0.6;
-      }
-
-      .cls-10 {
-        opacity: 0.65;
-      }
-
-      .cls-11 {
-        opacity: 0.7;
-      }
-
-      .cls-12 {
-        opacity: 0.75;
-      }
-
-      .cls-13 {
-        opacity: 0.8;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Power_Ledger-2" data-name="Power Ledger">
-    <path id="T_copy_11" data-name="T copy 11" class="cls-2" d="M337.425,116.305l19.94,74.419-74.418,19.94-19.941-74.418Z"/>
-    <path id="T_copy_10" data-name="T copy 10" class="cls-3" d="M396.849,175.823l-19.94,74.418L302.491,230.3l19.94-74.418Z"/>
-    <path id="T_copy_9" data-name="T copy 9" class="cls-4" d="M419.133,255.983l-54.478,54.478-54.478-54.478,54.478-54.478Z"/>
-    <path id="T_copy_8" data-name="T copy 8" class="cls-5" d="M396.852,337.707l-74.418,19.94-19.94-74.418,74.418-19.941Z"/>
-    <path id="T_copy_7" data-name="T copy 7" class="cls-6" d="M337.708,397.24L263.29,377.3l19.94-74.418,74.418,19.94Z"/>
-    <path id="T_copy_6" data-name="T copy 6" class="cls-7" d="M256,419.446l-54.478-54.478L256,310.49l54.478,54.478Z"/>
-    <path id="T_copy_5" data-name="T copy 5" class="cls-8" d="M176.289,397.249l-19.94-74.418,74.418-19.94,19.94,74.418Z"/>
-    <path id="T_copy_4" data-name="T copy 4" class="cls-9" d="M115.414,337.718l19.94-74.418,74.418,19.94-19.94,74.418Z"/>
-    <path id="T_copy_3" data-name="T copy 3" class="cls-10" d="M94.141,255.993l54.478-54.478L203.1,255.993l-54.478,54.478Z"/>
-    <path id="T_copy_2" data-name="T copy 2" class="cls-11" d="M115.42,175.819l74.419-19.941,19.94,74.419-74.418,19.94Z"/>
-    <path id="T_copy" data-name="T copy" class="cls-12" d="M174.294,116.3l74.419,19.94-19.941,74.418-74.418-19.94Z"/>
-    <path id="T" class="cls-13" d="M256,94.1l54.478,54.478L256,203.06l-54.478-54.477Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Power_Ledger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00CDD7;}
+	.st1{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st2{opacity:0.25;fill:#FFFFFF;enable-background:new    ;}
+	.st3{opacity:0.3;fill:#FFFFFF;enable-background:new    ;}
+	.st4{opacity:0.35;fill:#FFFFFF;enable-background:new    ;}
+	.st5{opacity:0.4;fill:#FFFFFF;enable-background:new    ;}
+	.st6{opacity:0.45;fill:#FFFFFF;enable-background:new    ;}
+	.st7{opacity:0.55;fill:#FFFFFF;enable-background:new    ;}
+	.st8{opacity:0.6;fill:#FFFFFF;enable-background:new    ;}
+	.st9{opacity:0.65;fill:#FFFFFF;enable-background:new    ;}
+	.st10{opacity:0.7;fill:#FFFFFF;enable-background:new    ;}
+	.st11{opacity:0.75;fill:#FFFFFF;enable-background:new    ;}
+	.st12{opacity:0.8;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Power_Ledger-2">
+	<path id="T_copy_11" class="st1" d="M163.2,52.7l10,37.2l-37.2,10l-10-37.2L163.2,52.7z"/>
+	<path id="T_copy_10" class="st2" d="M192.9,82.4l-10,37.2l-37.2-10l10-37.2L192.9,82.4z"/>
+	<path id="T_copy_9" class="st3" d="M204.1,122.5l-27.2,27.2l-27.2-27.2l27.2-27.2L204.1,122.5z"/>
+	<path id="T_copy_8" class="st4" d="M192.9,163.4l-37.2,10l-10-37.2l37.2-10L192.9,163.4z"/>
+	<path id="T_copy_7" class="st5" d="M163.4,193.1l-37.2-10l10-37.2l37.2,10L163.4,193.1z"/>
+	<path id="T_copy_6" class="st6" d="M122.5,204.2L95.3,177l27.2-27.2l27.2,27.2L122.5,204.2z"/>
+	<path id="T_copy_5" class="st7" d="M82.6,193.1l-10-37.2l37.2-10l10,37.2L82.6,193.1z"/>
+	<path id="T_copy_4" class="st8" d="M52.2,163.4l10-37.2l37.2,10l-10,37.2L52.2,163.4z"/>
+	<path id="T_copy_3" class="st9" d="M41.6,122.5l27.2-27.2l27.2,27.2l-27.2,27.2L41.6,122.5z"/>
+	<path id="T_copy_2" class="st10" d="M52.2,82.4l37.2-10l10,37.2l-37.2,10L52.2,82.4z"/>
+	<path id="T_copy" class="st11" d="M81.6,52.7l37.2,10l-10,37.2l-37.2-10L81.6,52.7z"/>
+	<path id="T" class="st12" d="M122.5,41.5l27.2,27.2L122.5,96L95.3,68.8L122.5,41.5z"/>
+</g>
 </svg>

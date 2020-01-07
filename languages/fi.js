@@ -100,7 +100,7 @@ export default {
     create_or_change_pin: "Luo tai vaihda d2FA PIN-lukusi",
     disable_your_d2fa: "Aseta d2FA:si pois pääätä",
     d2fa_requires_minimum: "d2FA:n käyttöönotto edellyttää, että lompakossasi on vähintään 0.0002 ZEL, jolloin d2FA-tapahtuma voidaan lähettää lohkoketjuun. Muutokset tulevat voimaan sen jälkeen, kun tapahtuma on vahvistettu ja tilille on kirjauduttu uudelleen.",
-    d2fa_adds_another_layer: "d2FA lisää toisen suoja- ja turvakerroksen. Et voi allekirjoittaa tai suorittaa tiliäsi koskevia turvallisuutta vaativia tehtäviä ilman tätä vaihdettavaa PIN-koodia. PIN-koodi tallennetaan suoraan lohkoketjuun salatussa muodossa. \n"
+    d2fa_adds_another_layer: "d2FA lisää toisen suoja- ja turvakerroksen. Et voi allekirjoittaa tai suorittaa tiliäsi koskevia turvallisuutta vaativia tehtäviä ilman tätä vaihdettavaa PIN-koodia. PIN-koodi tallennetaan suoraan lohkoketjuun salatussa muodossa. "
     + "Kukaan muu kuin sinä ei voi muokata d2FA-allekirjoitustasi!",
     create_or_change_easy: "Luo tai vaihda Helppo Sisäänkirjautuminen",
     signing_address: "Allekirjoituksen osoite:",
@@ -108,7 +108,7 @@ export default {
     sign: "allekirjoita",
     sign_and_send: "Allekirjoita ja Lähetä",
     new_pin: "Uusi PIN",
-    easy_login_text: "Zel ID Helppo Sisäänkirjautuminen tarjoaa paikallisesti tallennetun vaihtoehdon, jolla voit nopeasti kirjautua tiliisi valitsemasi lauseen, PIN-luvun, sormenjäljen tai kasvotunnuksen avulla. \n"
+    easy_login_text: "Zel ID Helppo Sisäänkirjautuminen tarjoaa paikallisesti tallennetun vaihtoehdon, jolla voit nopeasti kirjautua tiliisi valitsemasi lauseen, PIN-luvun, sormenjäljen tai kasvotunnuksen avulla. "
     + "Helppo Sisäänkirjautuminen edellyttää, että d2FA aktivoidaan tililläsi ja se voidaan aktivoida vain yhdelle tilille!",
     easy_login_disabled: "Helppo Sisäänkirjautuminen asetettu pois käytöstä",
     easy_sign_phrase: "Väärä Helppo Sisäänkirjautuminen lause",
@@ -158,10 +158,10 @@ export default {
 
     // account warning
     password_is_key: "Salasanasi on avain varoihisi, tee siitä mahdollisimman vahva!",
-    no_keep_copy: "ZelCore ei säilytä salaamattoman salasanasi kopiota paikallisesti tai etänä. Tämän ominaisuuden vuoksi salasanaa ei voi palauttaa eikä sitä voi muuttaa. \n"
+    no_keep_copy: "ZelCore ei säilytä salaamattoman salasanasi kopiota paikallisesti tai etänä. Tämän ominaisuuden vuoksi salasanaa ei voi palauttaa eikä sitä voi muuttaa. "
     + "Jos menetät (tai unohdat) joko käyttäjätunnuksesi tai salasanasi, menetät lompakkosi PYSYVÄSTI. Siten on ERITTÄIN TÄRKEÄÄ ja EHDOTONTA, että säilytät kopion kirjautumistunnuksista jossain turvallisessa paikassa.",
-    software_as_is: "OHJELMISTO TARJOTAAN 'SELLAISENAAN' ILMAN MINKÄÄNLAISTA TAKUUTA, TARKKAA TAI EPÄSUORAA, SISÄLTÄEN MUTTA EI RAJOITTUEN KÄYTTÖTARKOITUKSEEN SOPIVUUDEN, EI-LOUKKAAVUUDEN JA KAUPPAKELPOISUUDEN TAKUUN. \n"
-                    + "TEKIJÖITÄ TAI KOPIOSUOJAN HALTIJOITA EI VOIDA PITÄÄ MISSÄÄN TAPAUKSESSA PITÄÄ VASTUULLISENA MISTÄÄN VAATEESTA, VAHINGOSTA TAI VASTAAVASTA KORVAUSVAATIMUKSESTA, OLIPA KYSE SOPIMUKSEEN LIITTYVÄSTÄ TOIMESTA, \n"
+    software_as_is: "OHJELMISTO TARJOTAAN 'SELLAISENAAN' ILMAN MINKÄÄNLAISTA TAKUUTA, TARKKAA TAI EPÄSUORAA, SISÄLTÄEN MUTTA EI RAJOITTUEN KÄYTTÖTARKOITUKSEEN SOPIVUUDEN, EI-LOUKKAAVUUDEN JA KAUPPAKELPOISUUDEN TAKUUN. "
+                    + "TEKIJÖITÄ TAI KOPIOSUOJAN HALTIJOITA EI VOIDA PITÄÄ MISSÄÄN TAPAUKSESSA PITÄÄ VASTUULLISENA MISTÄÄN VAATEESTA, VAHINGOSTA TAI VASTAAVASTA KORVAUSVAATIMUKSESTA, OLIPA KYSE SOPIMUKSEEN LIITTYVÄSTÄ TOIMESTA, "
                     + "VAHINGOSTA TAI VASTAAVASTA, OHJELMISTOSTA JOHTUVASTA TAI SEN KÄYTTÖÖN LIITTYVISTÄ ONGELMISTA.",
     backup_backup_backup: "VARMUUSKOPIOI, VARMUUSKOPIOI, VARMUUSKOPIOI vielä kerran!",
     im_aware_register: "Olen tietoinen, Rekisteröi!",
@@ -234,15 +234,15 @@ export default {
     tag: "TAG",
     warning_eth_contracts: "Varoitus: Ethereum-sopimuksilta kestää muutaman minuutin, ennenkuin ne näkyvät lohkoketjuselaimessa.  Sopimukset edellyttävät, että Ethereumia on lompakossa, koska se toimii Gas-maksuna sopimuksen suorittamisessa.",
     warning_etc_transactions: "Varoitus: Ethereum Classic-tapahtuman listaaminen tapahtumataulukkoon kestää jonkin aikaa.",
-    warning_usdt_is_btc: "Varoitus: Tether on Bitcoin-tokeni ja vaatii siten BTC:n suorittamaan siirtotapahtuman. Bitcoin-siirtomaksun lisäksi määränpääosoitteeseen on lähetettävä 0,000006 BTC \n"
-                         + "Bitcoin-verkon vaatimuksena. Lähetysprosessi kestää pari sekuntia, ja saattaa kestää muutaman minuutin, kunnes \n"
+    warning_usdt_is_btc: "Varoitus: Tether on Bitcoin-tokeni ja vaatii siten BTC:n suorittamaan siirtotapahtuman. Bitcoin-siirtomaksun lisäksi määränpääosoitteeseen on lähetettävä 0,000006 BTC "
+                         + "Bitcoin-verkon vaatimuksena. Lähetysprosessi kestää pari sekuntia, ja saattaa kestää muutaman minuutin, kunnes "
                          + "tapahtuma on näkyvissä Omni Explorerissa ja vielä kauemmin, ennenkuin se näkyy tapahtumataulukossa. Ole kärsivällinen! Siirto näkyy välittömästi Bitcoin ZelCore-lompakossasi.",
     warning_monero_fee: "Varoitus: Monero-siirtomaksua ei tiedetä ennen siirron luomista, tämä on vain likiarvo. Siirron luominen kestää muutaman sekunnin.",
     warning_ripple: "Ripple siirtomaksu lasketaan automaattisesti verkon tilasta riippuen. Vie hetken, kunnes siirto näkyy siirtohistoriassa ja selaimessa.",
     edit: "Muokkaa",
     delete: "Poista",
     show_in_explorer: "Näytä selaimessa",
-    full_node_launch_note: "ZelCoren käyttämän salauksen vuoksi varasi eivät ole käytettävissä muissa Täydensolmunohjelmistoissa kuin ZelCore. Täysi solmu on vain kokeneille \n"
+    full_node_launch_note: "ZelCoren käyttämän salauksen vuoksi varasi eivät ole käytettävissä muissa Täydensolmunohjelmistoissa kuin ZelCore. Täysi solmu on vain kokeneille "
                            + "käyttäjille. Jos et tiedä mikä Täysisolmu on, älä käytä sitä! Varmuuskopioi käyttämiesi osoitteiden yksityiset avaimet säännöllisesti.",
     launch_full_node: "Käynnistä Täysisolmu",
     destination_address: "Kohdeosoite",
@@ -313,7 +313,7 @@ export default {
     no_shieldable_amount: "Ei löydetty suojattavaa määrää.",
     shield: "Suojaa",
     rescan_blockchain: "Uudelleenskannaa lohkoketju",
-    rescan_blockchain_info: "Toiminto käy läpi lohkoketjun löytääkseen siirrot jotka puuttuvat lompakostasi. Käytännöllinen, jos olet tuonut osoitteen, jonka tiedät sisältävän varoja. Tämä toiminto uudelleenkäynnistää kolikon daemonin uudelleenskannaus optiolla. \n"
+    rescan_blockchain_info: "Toiminto käy läpi lohkoketjun löytääkseen siirrot jotka puuttuvat lompakostasi. Käytännöllinen, jos olet tuonut osoitteen, jonka tiedät sisältävän varoja. Tämä toiminto uudelleenkäynnistää kolikon daemonin uudelleenskannaus optiolla. "
     + "Lompakkosi ei ole toimintakuntoinen noin tuntiin!",
     rescan: "Uudelleenskannaa",
     configuration_file: "Asetustiedosto",
@@ -356,7 +356,7 @@ export default {
     do_not_change_rpc_ports3: "Uudelleenindeksointia tarvitaan, jos jokin indeksi muuttuu (esim. Txindex on asetettu aktiiviseksi).",
     save_and_reindex: "Tallenna ja uudelleenindeksoi",
     zelnode_configuration_change_restart1: "Zelnoodin määrittelymuutoksen jälkeen daemon käynnistetään uudelleen automaattisesti.",
-    zelnode_configuration_change_restart2: "Muista, että ZelNoodit tarvitsevat muokkauksen myös ZelCash-määrittelytiedostossa (zelcash.conf). Sinun pitäisi muokata tätä ZelCash-asetustiedostoa Työkalut-kohdassa ennen tämän ZelNoodi-määrittelytiedoston muokkaamista.",
+    zelnode_configuration_change_restart2: "Muista, että ZelNoodit tarvitsevat muokkauksen myös Zel-määrittelytiedostossa (zelcash.conf). Sinun pitäisi muokata tätä Zel-asetustiedostoa Työkalut-kohdassa ennen tämän ZelNoodi-määrittelytiedoston muokkaamista.",
     zelnode_configuration_change_restart3: "Väärin määritellyt määritystiedostot voivat aiheuttaa lompakon toimintahäiriön!",
     my_zelnodes: "Minun ZelNoodini",
     all_zelnodes: "Kaikki ZelNoodit",
@@ -412,7 +412,7 @@ export default {
     backup_address_info: "Tämä luo tiedoston vientihakemistoon, jossa luetellaan kaikki yksityiset avaimet ja niihin liittyvät osoitteet.",
     enter_zelnode_name: "Syötä ZelNoodisi nimi",
     automatic_log_out: "Automaattinen Uloskirjautuminen",
-    auto_log_out_info_full_node: "Mahtavaa! Tutustu automaattisen uloskirjautumisen asetuksiin. Täydensolmun toiminnot vievät jonkin aikaa, varsinkin kun uudelleenindeksointia tarvitaan. \n"
+    auto_log_out_info_full_node: "Mahtavaa! Tutustu automaattisen uloskirjautumisen asetuksiin. Täydensolmun toiminnot vievät jonkin aikaa, varsinkin kun uudelleenindeksointia tarvitaan. "
     + "Siksi suosittelemme automaattisen uloskirjautumisen asettamista suurempaan aika-asetukseen tai poistamaan sen käytöstä siirtämällä liukusäädintä.",
     next_step: "Seuraava vaihe",
     configuration_done_reindex1: "Olemme muuttaneet määritystiedostoasi. Lohkoketjun uudelleenindeksointi on suoritettava ZelNoodin toiminnan takaamiseksi.",
@@ -460,7 +460,7 @@ export default {
     daemon_restart_performed_after: "Daemonin uudelleenkäynnistys suoritetaan tämän uuden määrityksen vahvistamisen jälkeen.",
     zelnodes_configuration_loading: "ZelNoodi määritystä ladataan...",
     save_and_continue: "Tallenna ja Jatka",
-    configuration_file_for_server: "Alla näet generoidun ZelCash-määritystiedoston palvelimellesi. Kopioi teksti ja liitä se palvelimen ~/.zelcash/zelcash.conf-tiedostoon. Jatka sitten käynnistämällä palvelimen ZelNoodi. \n"
+    configuration_file_for_server: "Alla näet generoidun Zel-määritystiedoston palvelimellesi. Kopioi teksti ja liitä se palvelimen ~/.zelcash/zelcash.conf-tiedostoon. Jatka sitten käynnistämällä palvelimen ZelNoodi. "
     + "Kun palvelimesi ZelNoodi on synkronoitu, voit aktivoida ZelNoodisi. Huomaa, että aktivointi voi kestää jopa puoli tuntia.",
     copy_configuration: "Kopioi määritys leikepöydälle",
     activate_my_zelnode: "Aktivoi ZelNoodini!",
@@ -532,7 +532,7 @@ export default {
     d2fa_is_not_activated_yet: "d2FA ei ole vielä aktivoitu. Helppoa Kirjautumista ei voida asettaa.",
     language: "Kieli",
     full_node_encryption: "Täydensolmun lompakon salaus",
-    full_node_encryption_message: "ZelCore salaa oletusarvoisesti Täydensolmun wallet.dat-tiedostosi. Tämä linkittää wallet.dat-tiedoston vain yhteen ZelCore-tiliin ja salaus estää myös muita henkilöitä käyttämästä lompakkoasi. \n"
+    full_node_encryption_message: "ZelCore salaa oletusarvoisesti Täydensolmun wallet.dat-tiedostosi. Tämä linkittää wallet.dat-tiedoston vain yhteen ZelCore-tiliin ja salaus estää myös muita henkilöitä käyttämästä lompakkoasi. "
     + "Täydensolmun wallet.dat ei kuitenkaan ole muiden lompakko-ohjelmien (esim. ZELmate) kuin ZelCoren käytettävissä. Jos salaus on poistettu käytöstä, wallet.dat voidaan jakaa kaikkien ZelCore-tilien ja muiden lompakko-ohjelmistojen välillä.",
 
 
@@ -1256,7 +1256,7 @@ export default {
     api_service: "API-palvelu",
     backend_updated: "Taustapalvelut päivitetty",
     startheight: "Aloituslohko:",
-    cryptonight_rescan: "Taustapalvelu on synkronoitu osoitteesi kanssa lähtien Aloituslohkosta {0}. Skannauksen eteneminen {1} / {2}. Jos luulet, että osoitteesi on saanut siirron ennen Aloituslohkoa sinun tulee käynnistää osoitteesi Uudelleenskannaus. \n"
+    cryptonight_rescan: "Taustapalvelu on synkronoitu osoitteesi kanssa lähtien Aloituslohkosta {0}. Skannauksen eteneminen {1} / {2}. Jos luulet, että osoitteesi on saanut siirron ennen Aloituslohkoa sinun tulee käynnistää osoitteesi Uudelleenskannaus. "
     + "Tämä on erityisen tärkeää, jos olet vaihtanut Taustaratkaisua. Uudelleenskannaus voi vielä muutaman tunnin.",
     cryptonight_rescan2: "Ole hyvä ja syötä uudelleenskannattavien uusimpien lohkojen määrä",
     number_of_blocks: "Uudelleenskannattavien lohkojen määrä",

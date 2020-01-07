@@ -1,32 +1,14 @@
-<svg id="QKC" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #00cbff;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .cls-2 {
-        stroke-width: 30px;
-      }
-
-      .cls-3 {
-        stroke-width: 24px;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <path id="Left" class="cls-2" d="M114.538,149.522V363.478"/>
-  <path id="Right" class="cls-2" d="M398.462,149.522V363.478"/>
-  <path id="Logo" class="cls-3" d="M116.291,146.9L256.5,319.814,396.709,147.775V366.1L256.5,195.806,116.291,366.1V146.9Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="QKC" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00CBFF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<path id="Left" class="st1" d="M51.8,69.3v107"/>
+<path id="Right" class="st1" d="M193.7,69.3v107"/>
+<path id="Logo" class="st2" d="M52.6,67.9l70.1,86.5l70.1-86v109.2l-70.1-85.1l-70.1,85.1V67.9z"/>
 </svg>

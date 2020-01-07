@@ -1,35 +1,17 @@
-<svg id="Aurora" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #6ee4e5;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .cls-2 {
-        stroke-width: 8px;
-      }
-
-      .cls-3 {
-        stroke-width: 3px;
-      }
-    </style>
-  </defs>
-  <path id="Full" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Aurora-2" data-name="Aurora">
-    <path id="Left" class="cls-2" d="M256,105L93,294,256,407V105Z"/>
-    <path id="Right" class="cls-2" d="M256,105.031L419,294.012,256,407V105.031Z"/>
-    <path id="First_Line" data-name="First Line" class="cls-3" d="M150,334c14.635-11.5,104.047,25.225,62-70s43-22,43-22,40.237,32.547,51,44"/>
-    <path id="Second_Line" data-name="Second Line" class="cls-3" d="M227,135c-7.8,35.4,29,75.405,71,95,24.31,13.924,115.954,17,71,100"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Aurora" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6EE4E5;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path id="Full" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Aurora-2">
+	<path id="Left" class="st1" d="M122.5,47L41,141.5l81.5,56.5V47z"/>
+	<path id="Right" class="st1" d="M122.5,47l81.5,94.5L122.5,198V47z"/>
+	<path id="First_Line" class="st2" d="M69.5,161.5c7.3-5.8,52,12.6,31-35s21.5-11,21.5-11s20.1,16.3,25.5,22"/>
+	<path id="Second_Line" class="st2" d="M108,62c-3.9,17.7,14.5,37.7,35.5,47.5c12.2,7,58,8.5,35.5,50"/>
+</g>
 </svg>

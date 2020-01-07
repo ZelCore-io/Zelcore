@@ -1,26 +1,21 @@
-<!-- Made by Zel Technologies GmbH, https://zeltechnologies.com -->
-<svg id="Aelf" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
-<defs>
-    <style>
-      .cls-1 {
-        fill: #2b60bf;
-      }
-
-      .cls-1, .cls-3 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path id="Main" class="cls-1" d="M11,256c0,135.094,109.906,245,245,245S501,391.094,501,256,391.094,11,256,11,11,120.906,11,256Z"/>
-  <g id="Aelf-2" data-name="Aelf">
-    <circle id="Big_Round" data-name="Big Round" class="cls-2" cx="362.5" cy="255.5" r="69.5"/>
-    <circle id="Round_Up" data-name="Round Up" class="cls-2" cx="272.5" cy="126.5" r="33.5"/>
-    <circle id="Round_Down" data-name="Round Down" class="cls-2" cx="272.5" cy="391.5" r="33.5"/>
-    <path id="Drop_Up" data-name="Drop Up" class="cls-3" d="M98,178c0-41.485,36.216-51,50-51,40.373,0,49.686,43.189,56,50.938,2.048,6.134,13.205,21.448,22,26.062,23.808,5.746,27.361-1.415,41-1,8.477,0,18,8.462,18,20,0,9.018-8.787,19.177-18.066,19-24.628.678-19.414-20.882-45.9-32-27.7-4.546-47.384,19-72.992,19C132.529,229,98,219.485,98,178Z"/>
-    <path id="Drop_Down" data-name="Drop Down" class="cls-3" d="M98,334c0,41.485,36.216,51,50,51,40.373,0,49.686-43.189,56-50.938,2.048-6.134,13.205-21.448,22-26.062,23.808-5.746,27.361,1.415,41,1,8.477,0,18-8.462,18-20,0-9.018-8.787-19.177-18.066-19-24.628-.678-19.414,20.882-45.9,32-27.7,4.546-47.384-19-72.992-19C132.529,283,98,292.515,98,334Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Aelf" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245 245" style="enable-background:new 0 0 245 245;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B60BF;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="Main" class="st0" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5S190,0,122.5,0S0,55,0,122.5z"/>
+<g id="Aelf-2">
+	<circle id="Big_Round" class="st1" cx="175.8" cy="122.2" r="34.8"/>
+	<circle id="Round_Up" class="st1" cx="130.8" cy="57.8" r="16.8"/>
+	<circle id="Round_Down" class="st1" cx="130.8" cy="190.2" r="16.8"/>
+	<path id="Drop_Up" class="st1" d="M43.5,83.5c0-20.7,18.1-25.5,25-25.5c20.2,0,24.8,21.6,28,25.5c1,3.1,6.6,10.7,11,13
+		c11.9,2.9,13.7-0.7,20.5-0.5c4.2,0,9,4.2,9,10c0,4.5-4.4,9.6-9,9.5c-12.3,0.3-9.7-10.4-22.9-16c-13.8-2.3-23.7,9.5-36.5,9.5
+		C60.8,109,43.5,104.2,43.5,83.5z"/>
+	<path id="Drop_Down" class="st1" d="M43.5,161.5c0,20.7,18.1,25.5,25,25.5c20.2,0,24.8-21.6,28-25.5c1-3.1,6.6-10.7,11-13
+		c11.9-2.9,13.7,0.7,20.5,0.5c4.2,0,9-4.2,9-10c0-4.5-4.4-9.6-9-9.5c-12.3-0.3-9.7,10.4-22.9,16c-13.8,2.3-23.7-9.5-36.5-9.5
+		C60.8,136,43.5,140.8,43.5,161.5z"/>
+</g>
 </svg>
