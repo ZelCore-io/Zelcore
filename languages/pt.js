@@ -114,7 +114,7 @@ export default {
     disable_your_d2fa: "Desative seu d2FA",
     d2fa_requires_minimum: "O d2FA exige que um valor mínimo de 0,0002 ZEL esteja presente na sua carteira para transmitir uma transação d2FA. As alterações são efetuadas após a transação ser confirmada e a conta reconectada.",
     d2fa_adds_another_layer: "O d2FA adiciona outra camada de proteção e segurança. Você não poderá assinar ou executar tarefas de segurança relacionadas à sua conta sem esse PIN alterável. O PIN é armazenado diretamente na blockchain de forma criptografada. "
-    + "Ninguém, exceto você pode modificar sua assinatura d2FA!",
+      + "Ninguém, exceto você pode modificar sua assinatura d2FA!",
     create_or_change_easy: "Crie ou altere sua conexão fácil",
     signing_address: "Endereço de assinatura:",
     signature: "Assinatura:",
@@ -174,10 +174,10 @@ export default {
     // account warning
     password_is_key: "Sua senha é a chave para acessar seus fundos, torná-lo o mais forte possível!",
     no_keep_copy: "O ZelCore não mantém uma cópia da sua senha não criptografada local ou remotamente. Devido a esse recurso, não há como recuperar a senha nem alterá-la. "
-    + "Se você perder (ou esquecer) seu nome de usuário ou senha, perderá o acesso à sua carteira PERMANENTEMENTE. Portanto, é MUITO IMPORTANTE e IMPERATIVO manter uma cópia de suas informações em algum lugar seguro.",
+      + "Se você perder (ou esquecer) seu nome de usuário ou senha, perderá o acesso à sua carteira PERMANENTEMENTE. Portanto, é MUITO IMPORTANTE e IMPERATIVO manter uma cópia de suas informações em algum lugar seguro.",
     software_as_is: "O SOFTWARE É FORNECIDO 'TAL COMO ESTÁ', SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM OBJETIVO ESPECÍFICO E NÃO INFRACÇÃO. "
-                    + "EM NENHUM CASO OS AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, "
-                    + "FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTROS NEGOCIOS NO PROGRAMAS.",
+      + "EM NENHUM CASO OS AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, TORT OU OUTRA FORMA, DECORRENTE DE, "
+      + "FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTROS NEGOCIOS NO PROGRAMAS.",
     backup_backup_backup: "CÓPIA DE SEGURANÇA, CÓPIA DE SEGURANÇA, CÓPIA DE SEGURANÇA novamente!",
     im_aware_register: "Estou ciente, Registo!",
 
@@ -188,6 +188,10 @@ export default {
     retrieving: "Recuperando carteiras determinísticas",
     unable_redirect: "Não foi possível continuar o redirecionamento enquanto estiver no Full Node. Por favor saia do Full Node e tente novamente.",
     invalid_request_received: "Uma solicitação de pagamento inválida foi obtida. Valor ou endereço ausente.",
+    zelnodes_online: "ZelNodes Confirmados",
+    all_zelnodes_online: "Todos os seus ZelNodes encontram-se confirmados na rede.",
+    zelnodes_offline: "ZelNodes não Confirmados",
+    following_zelnodes_offline: "Os seguintes ZelNodes não se encontram confirmados na rede: {zelnodes}",
 
     // Portfolio.vue
     portfolio_empty: "Seu portfólio está vazio! Pressione o sinal + para adicionar ativos.",
@@ -262,11 +266,11 @@ export default {
     memo: "Memo",
     memo2: "Memo:",
     warning_eth_contracts: "Aviso: os contratos Ethereum levam alguns minutos para serem mostrados no explorer! Os contratos exigem que o Ethereum esteja presente em sua carteira, que é o Gas que possibilita a execução de contratos. "
-                           + "Se você deseja enviar o valor máximo, verifique se o botão Máximo está realçado.",
+      + "Se você deseja enviar o valor máximo, verifique se o botão Máximo está realçado.",
     warning_etc_transactions: "Aviso: leva um tempo para uma transação de Ethereum Classic ser listada em uma tabela de transações.",
     warning_usdt_is_btc: "Aviso: o Tether é um token de Bitcoin e, portanto, exige que o BTC realize uma transação. Além das taxas de transação do Bitcoin, deve ser 0,000006 BTC "
-                         + "enviado ao endereço de destino como um requisito de rede Bitcoin. O processo de envio leva alguns segundos e pode levar alguns minutos para "
-                         + "uma transação para ser visível no Omni Explorer e ainda mais para ser mostrada na tabela de transações, seja paciente! A transação é visível instantaneamente na sua carteira Bitcoin ZelCore.",
+      + "enviado ao endereço de destino como um requisito de rede Bitcoin. O processo de envio leva alguns segundos e pode levar alguns minutos para "
+      + "uma transação para ser visível no Omni Explorer e ainda mais para ser mostrada na tabela de transações, seja paciente! A transação é visível instantaneamente na sua carteira Bitcoin ZelCore.",
     warning_monero_fee: "Aviso: a taxa Monero não é conhecida antes da criação da transação, é apenas uma aproximação. A criação da transação leva alguns segundos.",
     warning_ripple: "A taxa de Ripple é calculada automaticamente, dependendo da rede. Demora um pouco até que a transação seja visível no histórico de transações e no explorer.",
     warning_neo: "As transações levam alguns segundos para serem refletidas na tabela de transações e mostradas no explorer",
@@ -274,7 +278,7 @@ export default {
     delete: "Excluir",
     show_in_explorer: "Mostrar no Explorer",
     full_node_launch_note: "Devido ao ZelCore utilizar criptografia, seus fundos não estarão acessíveis em outro software de Node Completo que não seja o ZelCore. Se o Node Completo for apenas para usuários avançados, "
-                           + "se você não souber o que é Node Completo - Full Node, não o use! Faça backup frequentemente das chaves privadas dos endereços que você está usando.",
+      + "se você não souber o que é Node Completo - Full Node, não o use! Faça backup frequentemente das chaves privadas dos endereços que você está usando.",
     launch_full_node: "Iniciar Node Completo",
     destination_address: "Endereço de destino",
     destination_address_cruxid: "Endereço de destino ou CruxID",
@@ -286,10 +290,9 @@ export default {
     no_payment_note: "Nenhuma nota de pagamento",
     insert_payment_id: "Inserir código de pagamento",
     transaction_sent: "Transação enviada!",
-    zelnode_monitor_mobile: "Adicionar ZelNode à Monitorização",
-    add_zelnode_to_monitor_alias: "Nome do ZelNode a adicionar à monitorização:",
-    add_zelnode_to_monitor_info: "Com estas functionalidade irás poder pesquisar/adicionar o Zelnode à Monitorização do Zelcore Mobile. "
-                                + "Poderás monitorizar o teu ZelNode no teu telemóvel e receber notificações caso fique offline. Esta funcionalidade só está disponível no telemóvel para subscritores do ZelCore+.",
+    zelnode_monitor_mobile: "Adicionar ZelNodes ao ZelCore Mobile",
+    add_zelnode_to_monitor_info: "Com estas functionalidade irás poder adicionar/renovar os teus ZelNodes ao teu Zelcore Mobile. "
+      + "Poderás monitorizar os teus ZelNode no teu telemóvel e receber notificações caso fiquem offline. Esta funcionalidade só está disponível no telemóvel para subscritores do ZelCore+.",
     add_to_monitoring: "Adicionar à Monitorização",
     initiate_full_node: "Iniciar o lançamento do Node Completo",
     invalid_openalias_prefix: "Prefixo OpenAlias inválido",
@@ -310,19 +313,22 @@ export default {
     xrp_activation_required: "A ativação de XRP é necessária",
     xrp_requires_locked: "É necessário 20 XRP como uma reserva bloqueada. Clique para ver detalhes.",
     confirmations: "Confirmações: {confirmations}",
+    internal_transaction: "Transacção Interna: Sim",
     tx_fee_paid: "Taxa de transação: {txfee} {unit}",
     paid: "Pago",
     price_history: "Histórico de Preços",
     empty: "Vazio",
     transactions: "Transações",
     change_mode: "Alterar modo",
-    asset_transfered: "Ativo: {asset}",
+    asset_transferred: "Ativo: {asset}",
     show_information: "Mostrar informações",
 
     // mainland.vue
     take_some_mins: "Isso pode levar alguns minutos, por favor seja paciente.",
 
     // Overview.vue
+    show_hide_balance: "Carregar para mostrar/esconder o saldo",
+    unconfirmed_balance: "Saldo por confirmar",
     zelnodes: "zelnodes",
     daemon_status: "Estado Daemon: {status}",
     peers: "Pares: {count}",
@@ -359,19 +365,19 @@ export default {
     ipaddress: "IP",
     output_index: "Índice de saída",
     delete_zelnode_info: "Está prestes a apagar o zelnode com o nome {zelnodeAlias} do ficheiro de definições. "
-                    + "A sua carteira irá reiniciar para aplicar as alterações e libertar o montante do zelnode.",
+      + "A sua carteira irá reiniciar para aplicar as alterações e libertar o montante do zelnode.",
     yes_delete_zelnode: "Sim, apagar o ZelNode",
     delete_zelnode: "Apagar ZelNode",
     edit_zelnode: "Editar ZelNode",
     edit_zelnode_info: "Está prestes a alterar o zelnode com o nome {zelnodeAlias} do ficheiro de definições. "
-                    + "A sua carteira irá reiniciar para aplicar as alterações.",
+      + "A sua carteira irá reiniciar para aplicar as alterações.",
 
     // zelnodes dialog
     simple_setup_and_management_zelnodes: "Configuração e gerenciamento simples de seus ZelNodes",
     export_wallet: "Exportar carteira",
     export_wallet_info: "Isso irá gerar um arquivo no diretório de exportação, listando todas as chaves privadas com seus endereços associados",
     import_wallet_info: "Isso erá importar todos os endereços a partir de um ficheiro, após a importação a carteira irá iniciar automaticamente um rescan que pode demorar vários minutos/horas, não deixe a sua carteira desligar-se automaticamente. "
-                + "A sua carteira será desbloqueada para uso quando o processo terminar",
+      + "A sua carteira será desbloqueada para uso quando o processo terminar",
     click_to_choose_path: "Clique para escolher o caminho",
     import_export: "Importação / Exportação",
     import_export_info: "Importe um endereço para sua carteira FullNode ou exporte sua carteira.",
@@ -392,7 +398,7 @@ export default {
     daemon_experimental_features: "A criptografia Daemon é um recurso experimental. Use-o por sua conta e risco. Faça backup de todas as suas chaves privadas antes de definir esse recurso.",
     turn_on_experimental_features: "Sua carteira precisa ser reiniciada para ativar os recursos experimentais antes que você possa definir sua senha de criptografia Daemon.",
     daemon_encryption_info: "Permite ativar ou alterar a senha da criptografia Daemon.",
-    daemon_excryption_experimental: "Sim, entendo que esse recurso é experimental e quero usá-lo por minha conta e risco.",
+    daemon_encryption_experimental: "Sim, entendo que esse recurso é experimental e quero usá-lo por minha conta e risco.",
     accept_experimental_features: "Você precisa aceitar recursos experimentais.",
     all_fields_are_mandatory: "Todos os campos são obrigatórios.",
     daemon_encryption_set: "Conjunto de criptografia daemon",
@@ -402,7 +408,7 @@ export default {
     new_password: "Nova senha",
     rescan_blockchain: "Verificar novamente o blockchain",
     rescan_blockchain_info: "Percorre a blockchain para encontrar transações que estão faltando em sua carteira. Útil se você importou um endereço que você sabe que possui alguns fundos. Esta ação reiniciará o daemon de moedas com a opção redigitalizar. "
-                            + "Sua carteira não estará operacional por até uma hora! Antes de executar desabilite a funcionalidade de auto-logout nas definições!",
+      + "Sua carteira não estará operacional por até uma hora! Antes de executar desabilite a funcionalidade de auto-logout nas definições!",
     rescan: "Verificar novamente",
     configuration_file: "Arquivo de configuração",
     configuration_file_info: "Modifique seu arquivo de configuração de moedas diretamente dentro do ZelCore com facilidade.",
@@ -410,9 +416,14 @@ export default {
     edit_zelnode_file: "Editar arquivo de configuração ZelNode",
     zelnode_conf_loading: "Configuração ZelNode está carregando...",
     confirmed: "Confirmado",
+    offline: "Desligado",
     active_since: "Ativo Desde",
     tx_hash: "Hash de transação",
     output_number: "Número de saída",
+    new_full_node_detected: "Nova versão de Cliente/Daemon detectada",
+    new_full_node_detected_info: "Uma nova versão do cliente/daemon full node foi encontrada para download no repositório do Zelcore, é recomendado utilizar a última versão, deseja actualizar?",
+    yes_update: "Sim, actualizar!",
+    no_continue_with_current: "Não actualizar!",
     daemon_encrypted: "Daemon Criptografado",
     daemon_encrypted_unlock_message: "Sua carteira é Daemon criptografada, para usá-la precisa ser desbloqueada com senha. Sua carteira será desbloqueada para uso enquanto o nó completo estiver em execução, esteja seguro.",
     unlock: "Desbloquear",
@@ -513,7 +524,7 @@ export default {
     enter_zelnode_addr: "Digite o endereço do seu ZelNode",
     automatic_log_out: "Sair automático",
     auto_log_out_info_full_node: "Muito Bem! Dê uma olhada nas definições de logout automático. As operações no FullNode levam algum tempo, especialmente quando é necessário reindexar. "
-                                 + "Portanto, recomendamos definir a saída automática para um tempo mais alto ou desativá-la movendo o controle deslizante.",
+      + "Portanto, recomendamos definir a saída automática para um tempo mais alto ou desativá-la movendo o controle deslizante.",
     next_step: "Próxima Etapa",
     configuration_done_reindex1: "Nós modificamos seu arquivo de configuração. É necessária uma reindexação do seu blockchain para que o ZelNodes opere corretamente.",
     configuration_done_reindex2: "Você pode verificar novamente a configuração modificada abaixo. Continue salvando-o para iniciar a reindexação. A ação da reindexação levará várias horas.",
@@ -563,7 +574,7 @@ export default {
     zelnodes_configuration_loading: "A configuração de ZelNodes está carregando...",
     save_and_continue: "Salve e continue",
     configuration_file_for_server: "Abaixo, você pode encontrar o arquivo de configuração Zel gerado para o seu servidor. Copie o texto e cole-o no arquivo ~/.zelcash / zelcash.conf no seu servidor. Em seguida, inicie primeiro o ZelNode do servidor. "
-    + "Depois que o ZelNode do servidor estiver sincronizado, você poderá ativar o ZelNode. Observe que a ativação pode levar até meia hora.",
+      + "Depois que o ZelNode do servidor estiver sincronizado, você poderá ativar o ZelNode. Observe que a ativação pode levar até meia hora.",
     copy_configuration: "Copiar configuração para a área de transferência",
     activate_my_zelnode: "Ativar meu ZelNode!",
     congratulations_please_follow: "Parabéns! Por favor, siga com",
@@ -599,6 +610,7 @@ export default {
     daemon_issue: "Erro - Full Node Não Iniciando",
     error_saving_config_file: "Erro ao salvar o arquivo de configuração. Se a carteira não se conectar, feche o full node.",
     error_saving_zelnode_config_file: "Erro ao salvar o arquivo zelnode.conf. Se a carteira não se conectar, feche o full node.",
+    publicprivatebalance: "Saldo Público: {0} Saldo Privado: {1}",
 
     // Apps.vue
     zel_apps_and_tools: "Aplicativos e Ferramentas Zel",
@@ -644,9 +656,13 @@ export default {
     language: "Idioma",
     full_node_encryption: "Criptografia de carteira Full Node",
     full_node_encryption_message: "Por padrão, o ZelCore criptografa seu arquivo wallet.dat do Full Node. Isso faz com que o arquivo wallet.dat seja associado apenas a uma conta ZelCore e a criptografia também impede que outras pessoas acessem sua carteira.. "
-    + "No entanto, seu Full Node wallet.dat não pode ser acessado a partir de outro software de carteira que não seja o ZelCore, como o ZELmate. Se a criptografia estiver desativada, wallet.dat será compartilhado entre todas as contas ZelCore e também outros softwares de carteira. "
-    + "ATENÇÃO! Se você usou o Full Node no zelcore com criptografia, ative e desative a criptografia se você ativar o Full Node novamente no ZelCore, uma nova wallet.dat será criada e usada.",
+      + "No entanto, seu Full Node wallet.dat não pode ser acessado a partir de outro software de carteira que não seja o ZelCore, como o ZELmate. Se a criptografia estiver desativada, wallet.dat será compartilhado entre todas as contas ZelCore e também outros softwares de carteira. "
+      + "ATENÇÃO! Se você usou o Full Node no zelcore com criptografia, ative e desative a criptografia se você ativar o Full Node novamente no ZelCore, uma nova wallet.dat será criada e usada.",
     maximum_only_one_destination: "O botão máximo no Full Node atualizará apenas o primeiro valor de destino. Não use esse recurso se estiver enviando para muitos destinos.",
+    full_node_path: "Nó Completo - Pasta de Destino dos blockchains",
+    default_path: "Usar pasta Default",
+    full_node_path_message: "ZelCore utiliza a pasta definida por defeito nos daemon quando corre um nó completo para guardar a informação da blockchain. Agora podes definir uma nova localização por defeito que será utilizada por todas as moeadas.  "
+      + "Se já usavas o nó completo anteriormente para alguma moeda, copia toda a informação da pasta default onde anteriormente estava guardada a informação do nó completo dessa moeda para a nova pasta criada. Não utilize pastas de rede, não funcionarão.",
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Trocas",
@@ -838,6 +854,7 @@ export default {
     click_to_copy_contract_addr: "Clique para copiar o endereço do contrato",
     click_to_open_explorer: "Clique para abrir no explorador",
     open_in_explorer: "Abrir no explorador",
+    open_zelflux: "Abrir ZelFlux",
     click_to_include_fees: "Clique para incluir taxas",
     click_to_hide_fees: "Clique para ocultar",
     zelcore_is_closing: "ZelCore está fechando",
@@ -1127,7 +1144,7 @@ export default {
     reduce_only_text: "Um pedido de redução somente reduzirá sua posição, não a aumentará. Se esse pedido aumentar sua posição, ele é alterado ou cancelado.",
     position_closed_successfully: "Posição encerrada com sucesso",
     exchange_time_in_force_label: "O tempo em vigor para este pedido. Se o seu pedido for definido como ImmediateOrCancel, qualquer parte não preenchida deixada imediatamente após o posicionamento será cancelada. "
-                                  + "Se definido como FillOrKill, o pedido será executado apenas se a quantidade total puder ser preenchida imediatamente.",
+      + "Se definido como FillOrKill, o pedido será executado apenas se a quantidade total puder ser preenchida imediatamente.",
     exchange_my_open_orders: "Minhas ordens em aberto",
     exchange_my_closed_orders: "Meus pedidos fechados",
     exchange_invalid_data: "Dados inválidos",
@@ -1433,9 +1450,9 @@ export default {
     startheight: "Iniciar bloco:",
     starttx: "Iniciar Trans.:",
     cryptonight_rescan: "A solução de Backend é sincronizada com o seu endereço desde o Bloco inicial {0}. O progresso da digitalização é {1}/{2}. Se você acha que seu endereço recebeu uma transação antes do Start Block, inicie uma nova verificação do seu endereço. "
-    + "Isso é especialmente útil em um cenário de alternância da solução de Backend. A nova verificação da ação pode levar algumas horas.",
+      + "Isso é especialmente útil em um cenário de alternância da solução de Backend. A nova verificação da ação pode levar algumas horas.",
     cryptonight_rescan_mymonero: "A solução de back-end é sincronizada com o seu endereço desde o início da transação {0}. O progresso da digitalização é {1} / {2}. Se você acha que seu endereço recebeu uma transação antes do Start Block, inicie uma nova verificação do seu endereço. \n"
-    + "Isso é especialmente útil em um cenário de alternância da solução de back-end. A nova verificação da ação pode levar algumas horas.",
+      + "Isso é especialmente útil em um cenário de alternância da solução de back-end. A nova verificação da ação pode levar algumas horas.",
     cryptonight_rescan2: "Insira o número dos últimos blocos que você deseja verificar novamente",
     cryptonight_rescan2_mymonero: "Por favor, insira a altura inicial do bloco, desde quando você deseja que seu endereço esteja sincronizado com o blockchain",
     number_of_blocks: "Número de blocos a serem verificados novamente",
@@ -1451,8 +1468,8 @@ export default {
     invalid_lot_size: "Montante inválido. O valor deve ser um múltiplo de {value}.",
     bitmex_apilimit: "O Bitmex possui um limite de taxa de API que pode causar o carregamento da troca. Se você estiver tendo problemas, entre em contato com o Bitmex para aumentar o limite para suas credenciais da API. Recursos mais avançados serão adicionados em breve.",
     tos_exchange: "Os seguintes países estão sujeitos a alguns regulamentos legais: Estados Unidos da América, Albânia, Bósnia e Herzegovina, Bielorrússia, Congo, Costa do Marfim, Crimeia, Cuba, Iraque, Irã, Japão, Coréia do Norte, Libéria, Macedônia, Mianmar, Sérvia , Sudão, Síria e Zimbábue "
-                  + "Observe que os usuários que se conectam a uma rede virtual privada ou a um serviço de proxy dos países listados, "
-                  + "não é recomendado negociar e acessar essas interfaces regulamentadas por meio do ZelCore e que apenas os usuários finais são responsáveis por estar cientes de suas restrições governamentais locais.",
+      + "Observe que os usuários que se conectam a uma rede virtual privada ou a um serviço de proxy dos países listados, "
+      + "não é recomendado negociar e acessar essas interfaces regulamentadas por meio do ZelCore e que apenas os usuários finais são responsáveis por estar cientes de suas restrições governamentais locais.",
     continue: "Continuar",
     country_restriction: "Acesso restrito",
     not_enough_kmd_reward: "Recompensas KMD insuficientes para criar uma transação",
@@ -1469,6 +1486,7 @@ export default {
     view_on_coinrequest: "Ver no CoinRequest",
     maximum_spendable_amount: "Quantia gastável máxima:",
     address_spendable_amount: "Quantia gastável do endereço:",
+    send_remaining_balance_back_to_source: "Enviar o montante que sobrar de volta para o endereço de origem",
     no_private_address: "Nenhum endereço privado presente na carteira",
     no_memo_attached: "Nenhuma nota anexada",
     no_acc_or_wallet: "Nenhuma carteira ou conta ativa está presente no seu ZelCore",
@@ -1541,6 +1559,33 @@ export default {
     select_proxy: "Selecione seu servidor proxy preferido. Útil se o seu provedor de internet bloquear alguns serviços.",
     you_are_offline: "Você parece estar offline. Por favor, verifique sua conexão à internet",
 
+    // ZelNodesDashboard
+    last_month_rewards: "Ganhos últimos 31d",
+    last_week_rewards: "Ganhos últimos 7d",
+    last_day_rewards: "Ganhos últimas 24h",
+    map_filter: "Filtros do Mapa",
+    isp_org: "Organizações ISP",
+    country: "Países",
+    zelflux_info: "Informação ZelFlux",
+    select_zelnode_to_flux_info: "Seleccione um dos seus ZelNodes ou um do mapa para verificar a informação ZelFlux.",
+    cores_in_use: "Cores em uso: {0}",
+    dapps_running: "Número de ZelApps: {0}",
+    flux_version: "Versão ZelFlux: {0}",
+    dapps_cpu: "Dapps cpu bloqueado: {0}",
+    dapps_ram: "Dapps ram bloqueado: {0}",
+    dapps_ssd: "Dapps ssd bloqueado: {0}",
+    zelbench_status: "Status último Teste: {0}",
+    zelbench_version: "Versão ZelBench: {0}",
+    zelbench_time: "Data último Teste: {0}",
+    zelbench_eps: "EPS último Teste: {0}",
+    zelbench_dd_write_speeed: "Velocidade Escrita último Teste: {0}",
+    zelnode_alias: "Nome ZelNode: {0}",
+    error_getting_zelnodes: "Erro a obter informação do ZelNode do explorador",
+    error_getting_geolocation: "Erro a obter a geolocalização dos ZelNodes",
+    error_getting_zelnodes_transactions: "Erro a obter as transacções do ZelNode",
+    error_getting_flux_info: "Erro a obter a informação do ZelFlux",
+    filter_dapps_running: "Nº de ZelApps a Correr",
+
     // mobile js
     unable_save_avatar: "Não foi possível salvar o novo avatar",
     failed_change_avatar: "Falha ao alterar o avatar",
@@ -1550,7 +1595,7 @@ export default {
     qr_code_scanned: "Código QR digitalizado",
     sorry_no_monero_send: "Lamentamos, atualmente o envio do Monero só é possível através do ZelCore da área de trabalho.",
     authentication_successful: "Autenticação bem sucedida",
-    authetnication_unsuccessful: "Autenticação mal sucedida",
+    authentication_unsuccessful: "Autenticação mal sucedida",
     unknown_error_decode_sig: "Ocorreu um erro desconhecido ao decodificar a assinatura",
     biometrics_unavailable: "Biometria não está disponível",
     made_with_love: "Feito com amor por Zel",

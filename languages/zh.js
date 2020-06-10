@@ -1206,7 +1206,7 @@ export default {
     qr_code_scanned: "二维码已扫描",
     sorry_no_monero_send: "很抱歉, 现在只能通过电脑版 ZelCore 发送 Monero",
     authentication_successful: "认证成功",
-    authetnication_unsuccessful: "认证失败",
+    authentication_unsuccessful: "认证失败",
     unknown_error_decode_sig: "解析签名是发生未知错误",
     biometrics_unavailable: "生物认证不可用",
     made_with_love: "Made with love by Zel",

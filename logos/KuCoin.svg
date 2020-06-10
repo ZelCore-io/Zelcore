@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1742"
+   version="1.1"
+   viewBox="0 0 490 490">
+  <metadata
+     id="metadata1746">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>KuCoin</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1728">
+    <style
+       id="style1726">.a{fill:#f80;}.b{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title1730">KuCoin</title>
+  <rect
+     style="fill:#23af91;fill-opacity:1"
+     id="rect1732"
+     ry="60.06"
+     rx="60.06"
+     height="490"
+     width="490"
+     class="a" />
+  <g
+     id="layer2">
+    <g
+       transform="matrix(2.5772723,0,0,2.5772723,-59.825593,-68.783702)"
+       id="KuCoin-2">
+	<path
+   style="fill:#e6e6e6;stroke:#ffffff;stroke-width:23;stroke-linecap:round;stroke-linejoin:round"
+   id="K"
+   class="st1"
+   d="m 68.5,74 v 96.5" />
+
+	<path
+   style="fill:none;stroke:#ffffff;stroke-width:23;stroke-linecap:round;stroke-linejoin:round"
+   id="C"
+   class="st2"
+   d="M 176,98 140.5,62.5 81,123 l 59,59 36,-35.5" />
+
+	<circle
+   style="fill:#ffffff"
+   id="Round"
+   class="st3"
+   cx="140.8"
+   cy="122.8"
+   r="12.2" />
+
+</g>
+  </g>
+  <style
+     type="text/css"
+     id="style965">
+	.st0{fill:#0093DD;}
+	.st1{fill:#E6E6E6;stroke:#FFFFFF;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#FFFFFF;}
+</style>
+</svg>

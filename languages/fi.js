@@ -1278,7 +1278,7 @@ export default {
     qr_code_scanned: "QR koodi skannattu",
     sorry_no_monero_send: "Valitettavasti Moneron lähettäminen onnistuu tällä hetkellä vain ZelCoren tietokoneversiosta",
     authentication_successful: "Todentaminen onnistui",
-    authetnication_unsuccessful: "Todentaminen epäonnistui",
+    authentication_unsuccessful: "Todentaminen epäonnistui",
     unknown_error_decode_sig: "Tuntematon virhe allekirjoitusta purettaessa",
     biometrics_unavailable: "Biotunnisteet eivät ole saatavilla",
     made_with_love: "Tehty rakkaudella by Zel",

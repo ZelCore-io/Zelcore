@@ -1244,7 +1244,7 @@ export default {
     qr_code_scanned: "QR code scanné",
     sorry_no_monero_send: "Nous osmme désolés, envoyer du Monero est pour le moment possible uniquement via le ZelCore desktop",
     authentication_successful: "Authentication réussie",
-    authetnication_unsuccessful: "Echec de l'authentification",
+    authentication_unsuccessful: "Echec de l'authentification",
     unknown_error_decode_sig: "Une erreur inconnue est survenur lors du décodage de la signature",
     biometrics_unavailable: "Biometrie indisponible",
     made_with_love: "Fais avec amour par Zel",

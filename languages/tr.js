@@ -1274,7 +1274,7 @@ export default {
     qr_code_scanned: "QR kodu tarandı",
     sorry_no_monero_send: "Maalesef Monero'yu şu anda yalnızca ZelCore masaüstünden göndermek mümkün",
     authentication_successful: "Kimlik doğrulama başarılı",
-    authetnication_unsuccessful: "Kimlik doğrulama başarısız",
+    authentication_unsuccessful: "Kimlik doğrulama başarısız",
     unknown_error_decode_sig: "İmzayı çözerken bilinmeyen hata oluştu",
     biometrics_unavailable: "Biyometri kullanılamıyor",
     made_with_love: "Made with love by Zel tarafından yapılmıştır BY Cihan Altay 2019",

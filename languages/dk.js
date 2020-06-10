@@ -892,7 +892,7 @@ export default {
     qr_code_scanned: "QR-kode scannet",
     sorry_no_monero_send: "Vi beklager, i øjeblikket er det kun muligt at sende Monero via desktop ZelCore",
     authentication_successful: "Autentificering lykkedes",
-    authetnication_unsuccessful: "Autentificering mislykket",
+    authentication_unsuccessful: "Autentificering mislykket",
     unknown_error_decode_sig: "Ukendt fejl opstod ved afkodning af underskrift",
     biometrics_unavailable: "Biometrics er ikke tilgængelig",
     made_with_love: "Made with love by Zel",

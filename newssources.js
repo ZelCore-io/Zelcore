@@ -110,6 +110,27 @@ const newssources = {
         about: "Blog source for all things Zel, officially, from the Zel Team.",
         pic: "static/logos/ZEL.svg",
       },
+      {
+        name: "Zel Blog2",
+        feed: "https://medium.com/feed/zelofficial",
+        site: "https://medium.com/zelofficial",
+        about: "Blog source for all things Zel, officially, from the Zel Team.",
+        pic: "static/logos/ZEL.svg",
+      },
+      {
+        name: "Zel Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=zelcash",
+        site: "https://twitter.com/zelcash",
+        about: "Official Zel Twitter.",
+        pic: "static/logos/ZEL.svg",
+      },
+      {
+        name: "Zel Twitter2",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=ZelCash",
+        site: "https://twitter.com/ZelCash",
+        about: "Official Zel Twitter.",
+        pic: "static/logos/ZEL.svg",
+      },
     ],
     testnet: [
       {
@@ -150,7 +171,7 @@ const newssources = {
     zcash: [
       {
         name: "Zcash Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=zcashco",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=zcashco",
         site: "https://twitter.com/zcashco",
         about: "Zcash is a privacy-protectig, digital currency built on strong science.",
         pic: "static/logos/ZEC.svg",
@@ -159,7 +180,7 @@ const newssources = {
     bitcoinz: [
       {
         name: "BitcoinZ Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=BitcoinZTeam",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=BitcoinZTeam",
         site: "https://twitter.com/bitcoinzteam",
         about: "BitcoinZ - 100% community focused and ran Zcash fork.",
         pic: "static/logos/BTCZ.svg",
@@ -177,7 +198,7 @@ const newssources = {
     bitcore: [
       {
         name: "Bitcore Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=Bitcore_BTX",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=Bitcore_BTX",
         site: "  https://twitter.com/Bitcore_BTX",
         about: "Bitcore is a cryptocurrency that is based on 0.15.2 of Bitcoin Core.",
         pic: "static/logos/BTX.svg",
@@ -249,7 +270,7 @@ const newssources = {
     kucoin: [
       {
         name: "Kucoin Blog",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=kucoincom",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=kucoincom",
         site: "https://twitter.com/kucoincom",
         about: "Kucoin is a cryptocurrency exchange.",
         pic: "static/logos/KCS.svg",
@@ -375,7 +396,7 @@ const newssources = {
     safecoin: [
       {
         name: "Safecoin Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=safecoins",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=safecoins",
         site: "https://twitter.com/safecoins",
         about: "Safecoin is the cryptocurrency of the SAFE (Secure Access For Everyone) network.",
         pic: "static/logos/SAFE.svg",
@@ -383,7 +404,7 @@ const newssources = {
     ],
     komodo: [
       {
-        name: "Koomodo Blog",
+        name: "Komodo Blog",
         feed: "https://medium.com/feed/@komodoplatform",
         site: "https://medium.com/@komodoplatform",
         about: "Komodo is an end-to-end blockchain infrastructure solutions provider. Recognized as one of the world's most innovative projects",
@@ -408,7 +429,7 @@ const newssources = {
         pic: "static/logos/USDT.svg",
       },
     ],
-    usdtERC: [
+    usdterc: [
       {
         name: "Tether Blog",
         feed: "https://tether.to/feed/",
@@ -915,7 +936,7 @@ const newssources = {
     genesis: [
       {
         name: "Genesis Blog",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=genx_network",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=genx_network",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX.svg",
@@ -996,7 +1017,7 @@ const newssources = {
     brd: [
       {
         name: "BRD Blog",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=brdhq",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=brdhq",
         site: "https://twitter.com/brdhq",
         about: "BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies.",
         pic: "static/logos/BRD.svg",
@@ -1059,7 +1080,7 @@ const newssources = {
     gunthy: [
       {
         name: "Gunthy Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=gunthyio",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=gunthyio",
         site: "https://twitter.com/Gunthyio",
         about: "Emotionless trading.",
         pic: "static/logos/GUNTHY.svg",
@@ -1113,7 +1134,7 @@ const newssources = {
     blox: [
       {
         name: "Blox Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=Blox_Official",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=Blox_Official",
         site: "https://twitter.com/Blox_Official",
         about: "Blox is a platform for managing crypto assets.",
         pic: "static/logos/CDT.svg",
@@ -1356,7 +1377,7 @@ const newssources = {
     dibicoin: [
       {
         name: "Dibicoin Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=dibicoin",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=dibicoin",
         site: "https://twitter.com/dibicoin",
         about: "Who let the DIBI out?",
         pic: "static/logos/DIBI.svg",
@@ -1437,7 +1458,7 @@ const newssources = {
     nuke: [
       {
         name: "Half Life Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=NukeToken",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=NukeToken",
         site: "https://twitter.com/NukeToken",
         about: "NUKE is a currency that grows by shrinking.",
         pic: "static/logos/NUKE.svg",
@@ -1446,7 +1467,7 @@ const newssources = {
     dogecoin: [
       {
         name: "Dogeocin Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=dogecoin",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=dogecoin",
         site: "https://twitter.com/dogecoin",
         about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
         pic: "static/logos/DOGE.svg",
@@ -1464,7 +1485,7 @@ const newssources = {
     bittorrent: [
       {
         name: "BitTorrent Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=bittorrent",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=bittorrent",
         site: "https://twitter.com/bittorrent",
         about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. \n"
           + "BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
@@ -1474,7 +1495,7 @@ const newssources = {
     digibyte: [
       {
         name: "DigiByte Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=DigiByteCoin",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=DigiByteCoin",
         site: "https://twitter.com/DigiByteCoin",
         about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
         pic: "static/logos/DGB.svg",
@@ -1483,7 +1504,7 @@ const newssources = {
     sinovate: [
       {
         name: "Sinovate Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=SinovateChain",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=SinovateChain",
         site: "https://twitter.com/SinovateChain",
         about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
         + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
@@ -1615,7 +1636,7 @@ const newssources = {
     veriblock: [
       {
         name: "Veriblock Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=VeriBlock",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=VeriBlock",
         site: "https://twitter.com/VeriBlock",
         about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
         pic: "static/logos/VBK.svg",
@@ -1624,7 +1645,7 @@ const newssources = {
     huobitoken: [
       {
         name: "Huobi Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=HuobiGlobal",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=HuobiGlobal",
         site: "https://twitter.com/HuobiGlobal",
         about: "The Leading Global Digital Asset Exchange.",
         pic: "static/logos/HT.svg",
@@ -1642,7 +1663,7 @@ const newssources = {
     okb: [
       {
         name: "OKEx Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=OKEx",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=OKEx",
         site: "https://twitter.com/OKEx",
         about: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
         pic: "static/logos/OKB.svg",
@@ -1651,7 +1672,7 @@ const newssources = {
     bitforextoken: [
       {
         name: "BitForex Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=bitforexcom",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=bitforexcom",
         site: "https://twitter.com/bitforexcom",
         about: "A global top-10 cryptocurrency exchange leader — BitForex provides powerful tools letting you take full control of your digital asset trades and management.",
         pic: "static/logos/BF.svg",
@@ -1687,7 +1708,7 @@ const newssources = {
     huobipooltoken: [
       {
         name: "Huobi Pool Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=EOS_huobipool",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=EOS_huobipool",
         site: "https://twitter.com/EOS_huobipool",
         about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
         pic: "static/logos/HPT.svg",
@@ -1696,10 +1717,128 @@ const newssources = {
     golfcoin: [
       {
         name: "Golfcoin Twitter",
-        feed: "https://twitrss.me/mobile_twitter_to_rss/?user=golfcoin",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=golfcoin",
         site: "https://twitter.com/golfcoin",
         about: "Rewards program for the golf industry.",
         pic: "static/logos/GOLF.svg",
+      },
+    ],
+    enecuum: [
+      {
+        name: "Enecuum Medium",
+        feed: "https://medium.com/feed/@EnqBlockchain",
+        site: "https://medium.com/@EnqBlockchain",
+        about: "Blockchain mobile network for decentralized application.",
+        pic: "static/logos/ENQ.svg",
+      },
+    ],
+    fantom: [
+      {
+        name: "Fantom Medium",
+        feed: "https://medium.com/feed/fantomfoundation",
+        site: "https://medium.com/fantomfoundation",
+        about: "The core of the new internet. The most advanced, fast and secure consensus for distributed networks.",
+        pic: "static/logos/FTM.svg",
+      },
+    ],
+    zeroxbitcoin: [
+      {
+        name: "0xBitcoin Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=0xbitcoin_erc20",
+        site: "https://twitter.com/0xbitcoin_erc20",
+        about: "The first truly decentralized PoW mineable ERC20 token contract on the Ethereum blockchain.",
+        pic: "static/logos/0xBTC.svg",
+      },
+    ],
+    vayla: [
+      {
+        name: "Vayla Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=VAYLAtoken",
+        site: "https://twitter.com/VAYLAtoken",
+        about: "A token valued by the people.",
+        pic: "static/logos/VYA.svg",
+      },
+    ],
+    aergo: [
+      {
+        name: "Aergo Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=AERGO_IO",
+        site: "https://twitter.com/AERGO_IO",
+        about: "It's not blockchain. It's blockchain for business.",
+        pic: "static/logos/AERGO.svg",
+      },
+    ],
+    lunchmoney: [
+      {
+        name: "Lunchmoney Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=LunchToken",
+        site: "https://twitter.com/LunchToken",
+        about: "ERC20 utility token used for incentivizing real feedback from restaurant and eatery patrons wordwide.",
+        pic: "static/logos/LMY.svg",
+      },
+    ],
+    kadena: [
+      {
+        name: "Kadena Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=kadena_io",
+        site: "https://twitter.com/kadena_io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
+    ],
+    netkoin: [
+      {
+        name: "NetKoin Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=netkoin",
+        site: "https://twitter.com/netkoin",
+        about: "Earn cryptocurrency and redeem rewards from everday shopping!",
+        pic: "static/logos/NTK.svg",
+      },
+    ],
+    gammacoin: [
+      {
+        name: "GammaCoin Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=gammagmc",
+        site: "https://twitter.com/gammagmc",
+        about: "GMC are economic tokens and investments made using the Ethereum blockchain.",
+        pic: "static/logos/GMC.svg",
+      },
+    ],
+    bazookatoken: [
+      {
+        name: "Baztoken Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=BazToken",
+        site: "https://twitter.com/BazToken",
+        about: "Baztoken is an ERC20 with limitless usability which aims to revolutionize the E-Gaming, Sports betting & E-commerce.",
+        pic: "static/logos/BAZ.svg",
+      },
+    ],
+    coinsto: [
+      {
+        name: "Coinsto Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=Coinstoglobal",
+        site: "https://twitter.com/Coinstoglobal",
+        about: "Coinsto is a Cryptocurrency project helping people to learn by others experience.",
+        pic: "static/logos/CSO.svg",
+      },
+    ],
+    unibright: [
+      {
+        name: "UniBright Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=unibrightio",
+        site: "https://twitter.com/unibrightio",
+        about: "UniBright is a business integration specialists, now offering Unibright.io - the first unified framework for blockchain based business integration",
+        pic: "static/logos/UBT.svg",
+      },
+    ],
+    ilcoin: [
+      {
+        name: "ILCoin Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=ILC_B_Project",
+        site: "https://twitter.com/ILC_B_Project",
+        about: "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, "
+          + "but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.",
+        pic: "static/logos/ILC.svg",
       },
     ],
   },

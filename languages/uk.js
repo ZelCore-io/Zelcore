@@ -1238,7 +1238,7 @@ export default {
     qr_code_scanned: "QR-код відскановано",
     sorry_no_monero_send: "Нам шкода, відправлення Monero в даний час можливо тільки через ZelCore для десктопу",
     authentication_successful: "Аутентифікація успішна",
-    authetnication_unsuccessful: "Аутентифікація не вдалася",
+    authentication_unsuccessful: "Аутентифікація не вдалася",
     unknown_error_decode_sig: "Під час декодування підпису сталася невідома помилка",
     biometrics_unavailable: "Біометрія недоступна",
     made_with_love: "Зроблено з любов'ю Zel",
