@@ -6970,7 +6970,7 @@ const coins = {
     uri: [
       "hex",
     ],
-    addresses: [178416],
+    addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x2b591e99afe9f32eaa6214f7b7629768c40eeb39&address=",
     ],
