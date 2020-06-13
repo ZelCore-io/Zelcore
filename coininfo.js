@@ -8756,6 +8756,47 @@ const coininfo = {
       },
     },
   },
+  hex: {
+    description: "HEX is an ERC20 token launched on the Ethereum network. HEX is designed to be a store of value to replace the Certificate of Deposit as the blockchain counterpart of that financial product used in traditional financial markets. HEX is also designed to leverage off the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within the Ethereum network.",
+    total_supply: 204346758377,
+    circulating_supply: 200859264423,
+    links: {
+      homepage: [
+        "https://hex.win/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "https://ethplorer.io/address/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/HEXcrypto",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=4523610.0",
+      telegram_channel_identifier: "https://t.me/HEXcrypto",
+      subreddit_url: "https://www.reddit.com/r/HEXcrypto/",
+      repos_url: {
+        github: ["https://github.com/HexCommunity"],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,

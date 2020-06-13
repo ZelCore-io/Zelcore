@@ -6964,6 +6964,38 @@ const coins = {
       "insight",
     ],
   },
+  hex: {
+    coin: "hex",
+    name: "HEX",
+    uri: [
+      "hex",
+    ],
+    addresses: [178416],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x2b591e99afe9f32eaa6214f7b7629768c40eeb39&address=",
+    ],
+    unit: "HEX",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/HEX.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    color: "#Ff2674",
+    decimals: 8,
+    backend: [
+      "infura",
+    ],
+  },
 };
 export default {
   coins,

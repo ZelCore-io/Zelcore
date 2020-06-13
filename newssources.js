@@ -1841,6 +1841,18 @@ const newssources = {
         pic: "static/logos/ILC.svg",
       },
     ],
+	hex: [
+      {
+        name: "Hex Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=HEXcrypto",
+        site: "https://twitter.com/HEXcrypto",
+        name: "Hex Reddit",
+        feed: "https://www.reddit.com/r/HEXcrypto/",
+        site: "https://www.reddit.com/r/HEXcrypto/",
+        about: "HEX is an ERC20 token launched on the Ethereum network. HEX is designed to be a store of value to replace the Certificate of Deposit as the blockchain counterpart of that financial product used in traditional financial markets. HEX is also designed to leverage off the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within the Ethereum network.",
+        pic: "static/logos/HEX.svg",
+      },
+    ],
   },
 };
 
