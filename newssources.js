@@ -1841,6 +1841,22 @@ const newssources = {
         pic: "static/logos/ILC.svg",
       },
     ],
+	hex: [
+      {
+        name: "Hex Twitter",
+        feed: "https://twitrss.me/twitter_user_to_rss/?user=HEXcrypto",
+        site: "https://twitter.com/HEXcrypto",
+		about: "hex twitter",
+		pic: "static/logos/HEX.svg",
+		},
+      {
+        name: "Hex Reddit",
+        feed: "https://www.reddit.com/r/HEXcrypto/",
+        site: "https://www.reddit.com/r/HEXcrypto/",
+        about: "hex reddit",
+        pic: "static/logos/HEX.svg",
+      },
+    ],
   },
 };
 
