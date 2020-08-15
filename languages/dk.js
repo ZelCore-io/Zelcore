@@ -223,7 +223,7 @@ export default {
     normal: "Normal",
     fast: "Hurtig",
     attach_note_to_payment: "Vedhæft note til betaling",
-    note: "Note: ",
+    note: "Note",
     attach_payment_id: "Vedhæft betalings-id",
     payment_note: "Betalingsnote",
     warning_eth_contracts: "Advarsel: Ethereum kontrakter tager et par minutter at blive vist i explorer! Kontrakter kræver at Ethereum er til stede i din tegnebog, som en Gas, der sørger for kontraktens udførelse.",

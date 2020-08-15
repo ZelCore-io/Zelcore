@@ -6942,7 +6942,7 @@ const coininfo = {
     },
   },
   zelcash: {
-    description: "Zel is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    description: "Zel is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of Flux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,
     circulating_supply: 61640450,
     links: {
@@ -6986,7 +6986,7 @@ const coininfo = {
     },
   },
   testnet: {
-    description: "TESTZEL - is the unit of cryptocurrency on the Zel Kamata Testnet. This is not ZEL, but it's testnet unit. Zel holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    description: "TESTZEL - is the unit of cryptocurrency on the Zel Kamata Testnet. This is not ZEL, but it's testnet unit. Zel holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of Flux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,
     circulating_supply: 61640450,
     links: {
@@ -8778,7 +8778,7 @@ const coininfo = {
         "",
       ],
       chat_url: [
-        "",
+        "https://discord.gg/CA8jVuF",
         "",
         "",
       ],
@@ -8787,12 +8787,135 @@ const coininfo = {
         "",
       ],
       twitter_screen_name: "https://twitter.com/HEXcrypto",
-      facebook_username: "",
+      facebook_username: "HEXcrypto",
       bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=4523610.0",
       telegram_channel_identifier: "https://t.me/HEXcrypto",
       subreddit_url: "https://www.reddit.com/r/HEXcrypto/",
       repos_url: {
         github: ["https://github.com/HexCommunity"],
+        bitbucket: [],
+      },
+    },
+  },
+  comp: {
+    description: "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+    total_supply: 10000000,
+    circulating_supply: 10000000,
+    links: {
+      homepage: [
+        "https://compound.finance/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "https://ethplorer.io/address/0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.com/invite/cU7vmVW",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/compoundfinance",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: ["https://github.com/compound-finance"],
+        bitbucket: [],
+      },
+    },
+  },
+  vidt: {
+    description: "V-ID is a service that detects any unlawful manipulation of any digital file. In order to make files verifiable, they must be validated. V-ID’s validation process involves extracting the fingerprints of files and saving them in the blockchain. If a file is changed with just one byte, pixel, character or anything else, the fingerprint is changed and V-ID will detect it 100%.",
+    total_supply: 57698564,
+    circulating_supply: 57698564,
+    links: {
+      homepage: [
+        "https://about.v-id.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
+        "https://ethplorer.io/address/0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/vidtoken",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/v_id_blockchain",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/vidtoken",
+      subreddit_url: "",
+      repos_url: {
+        github: ["https://github.com/V-ID"],
+        bitbucket: [],
+      },
+    },
+  },
+  drgn: {
+    description: "Dragonchain is a public/private hybrid blockchain. A private blockchain leveraging decentralization and interoperability to ensure your data is both verifiable and secure.",
+    total_supply: 433494437,
+    circulating_supply: 433494437,
+    links: {
+      homepage: [
+        "https://dragonchain.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "https://ethplorer.io/address/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/dragontalk",
+        "https://dragonchain.slack.com/",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/dragonchaingang",
+      facebook_username: "Dragonchaingang",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2096284.0",
+      telegram_channel_identifier: "https://t.me/dragontalk",
+      subreddit_url: "",
+      repos_url: {
+        github: ["https://github.com/dragonchain/dragonchain"],
         bitbucket: [],
       },
     },

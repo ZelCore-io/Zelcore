@@ -226,7 +226,7 @@ export default {
     normal: "normal",
     fast: "rapide",
     attach_note_to_payment: "Joindre une note au paiement",
-    note: "Note:",
+    note: "Note",
     attach_payment_id: "Joindre le Payment ID",
     payment_note: "Note de paiement",
     warning_eth_contracts: "Attention: les contrats Ethereum prennent quelques minutes pour s'afficher dans l'explorateur! Les contrats nécessitent la présence d'Ethereum dans votre portefeuille, un gaz qui alimente l'exécution du contrat.",
