@@ -1072,6 +1072,50 @@ const coininfo = {
       },
     },
   },
+  Whale: {
+    description: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
+    total_supply: 3808795 ,
+    circulating_supply: 160737039,
+    links: {
+      homepage: [
+        "https://whale.me/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",
+        "https://ethplorer.io/address/0x9355372396e3f6daf13359b7b607a3374cc638e0",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/WhaleShark_Pro",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/WhaleShark_Pro",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   zrx: {
     description: "0x is an open protocol that is designed to offer a <a href=\"https://www.coingecko.com/en/coins/all?category_id=9\">decentralized exchange</a> as part of the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. 0x is made using a protocol that involves Ethereum smart contacts that allow those around the world to run a decentralized exchange. The team behind 0x strongly believes that in the future, you will find thousands of tokens from Ethereum and that 0x can provide an efficient and trustworthy way to exchange them.\r\n\r\n0x have several benefits such as it can be any asset. The 0x protocol facilitates the exchange of a growing number of <a href=\"https://www.coingecko.com/en?asset_platform_id=279&view=market\">Ethereum-based tokens</a> including currencies, game items, and many more digital assets. Besides, it has a networked liquidity. By sharing a standard API, relayers can easily aggregate liquidity pools, creating network effects around liquidity that compound as more relayers come online. 0x also can be exchanged anywhere. 0x allows trade functionality to fade into the background, enabling developers to focus on building while 0x handles the exchange.\r\n\r\nThe co-founders of 0x are Will Warren and Amir Bandeali, the first of which is the CEO and the second of which is the CTO. Both are in smart contract research and development. Warren used to conduct applied physics research at the Los Alamos National Laboratory after studying mechanical engineering at UC San Diego. Bandeali used to be a fixed income trader with DRW after he studied finance at the University of Illinois, Urbana-Champaign. \r\n\r\n0x doesn’t charge fees of any type to use their protocol; it is free. However, if someone chooses to create a decentralized cryptocurrency exchange using the protocol, that person, known as a Relayer, can charge fees.\r\n\r\nHow does it work?\r\n\r\n0x protocol works where : A “Creator” sends his request and at that same point the request is posted in an off-chain arrange/order book by the “Relayer”, next to which the request is acknowledged by the “Taker” by pushing the exchange into the task’s DEX smart contract. Thus, the 0x protocol uses off-chain order books, which is maintained by a relayer for settlement of trade between two parties. Relayers, being behind the maintenance and creation of these channels are incentivised by charging and collecting fees.\r\n\r\n0x (ZRX) Token:\r\n\r\nZRX token is the unique aspect of 0x project which will be used to pay ‘relayers the trading fees by the users of the protocol. It is also a governance token in a decentralized form for the 0x protocol’s upgrade. ",
     total_supply: 1000000000,
