@@ -677,6 +677,38 @@ const coins = {
       "infura",
     ],
   },
+  whale: {
+    coin: "Whale",
+    name: "Whale",
+    uri: [
+      "Whale",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x9355372396e3F6daF13359B7b607a3374cc638e0&address=",
+    ],
+    unit: "Whale",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/WHALE.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+    color: "#6522ff",
+    decimals: 4,
+    backend: [
+      "infura",
+    ],
+  },
   zrx: {
     coin: "zrx",
     name: "0x",
