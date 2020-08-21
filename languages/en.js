@@ -156,7 +156,8 @@ export default {
     easy_login_phrase: "Easy Login phrase",
     enter_your_password: "Enter your password",
     login: "Login",
-    register_account_locally: "Register Account on this device",
+    register_new_user: "Register New Account",
+    register_account_locally: "Add Existing Account",
     no_proxy: "No proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
@@ -171,7 +172,7 @@ export default {
     for_more_info: "For more information check out",
 
     // create.vue
-    create_account_info: "These credentials are used to locally register your lite wallets and your accounts encryption",
+    create_account_info: "These credentials are used to locally register your lite wallets and your accounts encryption. Both username and password are case sensitive, be aware.",
     confirm_password: "Confirm Password",
     login_to_account: "Login to account",
     account_exist: "Account {username} already exists!",
@@ -187,7 +188,7 @@ export default {
     im_aware_register: "I'm aware, Register",
 
     // landingpage.vue
-    start_by: "Start by registering an account locally",
+    start_by: "Start by registering your account locally",
 
     // Welcome.vue
     retrieving: "Retrieving deterministic wallets",
@@ -999,7 +1000,7 @@ export default {
     error_obtaining_eth_tx: "Error while obtaining Ethereum transactions",
     error_obtaining_erc20_tx: "Error while obtaining ERC20 transactions",
     error_obtaining_eth_addr: "Error while obtaining Ethereum address data",
-    error_obtaining_token_bal: "Error while obtaining Tokens balance",
+    error_obtaining_token_bal: "Error while obtaining Ethereum Tokens balance",
     error_obtaining_etc_addr: "Error while obtaining Ethereum Classic address data",
     error_obtaining_etc_tx: "Error while obtaining Ethereum Classic transactions",
     error_obtaining_fiat_rates: "Error while obtaining fiat rates",
@@ -1701,6 +1702,9 @@ export default {
     error_getting_zelnodes_transactions: "Error while obtaining ZelNode transactions",
     error_getting_flux_info: "Error Flux info",
     filter_dapps_running: "Nº ZelApps Running",
+    zelnode_total_rewards_last_24h: "Total last 24h: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_7d: "Total last 7d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_31d: "Total last 31d: {reward} ZEL - {fiatValue} {fiatCurrency}",
 
     // mobile js
     unable_save_avatar: "Unable to save new avatar",

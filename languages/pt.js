@@ -150,7 +150,8 @@ export default {
     easy_login_phrase: "Frase Conexão Fácil",
     enter_your_password: "Coloque sua senha",
     login: "Entrar",
-    register_account_locally: "Registar conta localmente",
+    register_new_user: "Registar Nova Conta",
+    register_account_locally: "Adicionar Conta Existente",
     no_proxy: "Sem proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
@@ -165,11 +166,11 @@ export default {
     for_more_info: "Para mais informações, confira",
 
     // create.vue
-    create_account_info: "Essas credenciais são usadas para registrar localmente suas carteiras Lite e a criptografia de suas contas",
+    create_account_info: "Essas credenciais são usadas para registrar localmente suas carteiras Lite e a criptografia de suas contas. Ambos os campos utilizador e password são case sensitive, tenha atenção.",
     confirm_password: "Confirme a Senha",
     login_to_account: "Conecte-se na conta",
     account_exist: "A conta {username} já existe!",
-    account_registered: "Conta {username} registrada",
+    account_registered: "Conta {username} registada",
 
     // account warning
     password_is_key: "Sua senha é a chave para acessar seus fundos, torná-lo o mais forte possível!",
@@ -1590,6 +1591,10 @@ export default {
     error_getting_zelnodes_transactions: "Erro a obter as transacções do ZelNode",
     error_getting_flux_info: "Erro a obter a informação do Flux",
     filter_dapps_running: "Nº de ZelApps a Correr",
+    zelnode_total_rewards_last_24h: "Total ganhos últimas 24h: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_7d: "Total ganhos últimos 7d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_31d: "Total ganhos últimos 31d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+
 
     // mobile js
     unable_save_avatar: "Não foi possível salvar o novo avatar",

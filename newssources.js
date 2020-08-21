@@ -249,15 +249,6 @@ const newssources = {
         pic: "static/logos/ZIL.svg",
       },
     ],
-     Whale: [
-      {
-        name: "Whale Blog",
-        feed: "",
-        site: "",
-        about: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
-        pic: "static/logos/WHALE.svg",
-      },
-    ],
     zrx: [
       {
         name: "0x Blog",
@@ -1905,6 +1896,24 @@ const newssources = {
         site: "https://twitter.com/dragonchaingang",
         about: "Dragonchain is a public/private hybrid blockchain. A private blockchain leveraging decentralization and interoperability to ensure your data is both verifiable and secure.",
         pic: "static/logos/DRGN.svg",
+      },
+    ],
+    whale: [
+      {
+        name: "Whale Twitter",
+        feed: "https://nitter.net/WhaleShark_Pro/rss",
+        site: "https://twitter.com/WhaleShark_Pro",
+        about: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
+        pic: "static/logos/WHALE.svg",
+      },
+    ],
+    wbtc: [
+      {
+        name: "WBTC Twitter",
+        feed: "https://nitter.net/WrappedBTC/rss",
+        site: "https://twitter.com/WrappedBTC",
+        about: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
+        pic: "static/logos/WBTC.svg",
       },
     ],
   },

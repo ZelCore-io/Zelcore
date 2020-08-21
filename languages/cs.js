@@ -157,7 +157,8 @@ export default {
     easy_login_phrase: "Fráze pro Snadné přihlášení",
     enter_your_password: "Vložte heslo",
     login: "Přihlášení",
-    register_account_locally: "Registrovat místní účet",
+    register_new_user: "Registrovat Nový Účet",
+    register_account_locally: "Přidat Stávající Účet",
     no_proxy: "Nepoužívat proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
@@ -188,7 +189,7 @@ export default {
     im_aware_register: "Beru na vědomí, registruj!",
 
     // landingpage.vue
-    start_by: "Začni registrováním místního účtu",
+    start_by: "Začni registrováním tvého místního účtu",
 
     // Welcome.vue
     retrieving: "Načítání deterministické peněženky",
@@ -992,7 +993,7 @@ export default {
     error_obtaining_eth_tx: "Chyba při získávání transakcí Etherea",
     error_obtaining_erc20_tx: "Chyba při získávání transakcí ERC20",
     error_obtaining_eth_addr: "Chyba při získávání dat adresy Etherea",
-    error_obtaining_token_bal: "Chyba při získávání zůstatku Tokenů",
+    error_obtaining_token_bal: "Chyba při získávání zůstatku Tokenů Etherea",
     error_obtaining_etc_addr: "Chyba při získávání dat adresy Etherea Classic",
     error_obtaining_etc_tx: "Chyba při získávání transakcí Ethereum Classic",
     error_obtaining_fiat_rates: "Error while obtaining fiat rates",
@@ -1694,6 +1695,9 @@ export default {
     error_getting_zelnodes_transactions: "Chyba při získávání transakcí ZelNodu",
     error_getting_flux_info: "Chyba získávání Flux informací",
     filter_dapps_running: "Nº supštěných Dapps",
+    zelnode_total_rewards_last_24h: "Celkem za posledních 24h: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_7d: "Celkem za posledních 7d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+    zelnode_total_rewards_last_31d: "Celkem za posledních 31d: {reward} ZEL - {fiatValue} {fiatCurrency}",
 
     // mobile js
     unable_save_avatar: "Nelze uložit nový avatar",
