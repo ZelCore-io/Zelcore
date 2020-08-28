@@ -8922,8 +8922,8 @@ const coininfo = {
   },
   whale: {
     description: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
-    total_supply: 3808795,
-    circulating_supply: 160737039,
+    total_supply: 10000000,
+    circulating_supply: 3808795,
     links: {
       homepage: [
         "https://whale.me/",
