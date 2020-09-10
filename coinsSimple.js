@@ -8670,8 +8670,7 @@ const coins = {
       "mantradao",
       "om",
     ],
-    addresses: [
-    ],
+    addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x2baecdf43734f22fd5c152db08e3c27233f0c7d2&address=",
     ],
