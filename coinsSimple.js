@@ -8705,7 +8705,7 @@ const coins = {
     backend: [
       "infura",
     ],
-},
+   },
 };
 export default {
   coins,
