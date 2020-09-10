@@ -8663,12 +8663,12 @@ const coins = {
       "infura",
     ],
   },
-  MANTRA DAO: {
-    coin: "OM",
+  om: {
+    coin: "om",
     name: "MANTRA DAO",
     uri: [
-      "MANTRA DAO",
-      "OM",
+      "mantradao",
+      "om",
     ],
     addresses: [
     ],
@@ -8706,6 +8706,7 @@ const coins = {
     backend: [
       "infura",
     ],
+},
 };
 export default {
   coins,
