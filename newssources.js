@@ -1926,7 +1926,6 @@ const newssources = {
       },
     ],
 };
-
 export default {
   newssources,
 };
