@@ -8665,7 +8665,7 @@ const coins = {
   },
   om: {
     coin: "om",
-    name: "MANTRA DAO",
+    name: "Mantra Dao",
     uri: [
       "mantradao",
       "om",
