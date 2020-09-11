@@ -9008,6 +9008,50 @@ const coininfo = {
       },
     },
   },
+  om: {
+  description: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
+    total_supply: 125333333,
+    circulating_supply: 109180888,
+    links: {
+      homepage: [
+        "https://mantradao.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+        "https://ethplorer.io/address/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2?from=search",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/MANTRADAO",
+        "https://medium.com/@mantradao",
+      ],
+      twitter_screen_name: "https://twitter.com/MANTRADAO",
+      facebook_username: "https://m.facebook.com/mantradao/",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/MANTRADAO",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "https://github.com/Mantradao",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
