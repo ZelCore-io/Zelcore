@@ -8663,49 +8663,6 @@ const coins = {
       "infura",
     ],
   },
-  om: {
-    coin: "om",
-    name: "Mantra Dao",
-    uri: [
-      "mantradao",
-      "om",
-    ],
-    addresses: [],
-    api: [
-      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x2baecdf43734f22fd5c152db08e3c27233f0c7d2&address=",
-    ],
-    unit: "OM",
-    type: "eth",
-    explorer: [
-      "https://etherscan.io/tx/",
-    ],
-    logolink: "static/logos/OM.svg",
-    node: [
-      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
-      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
-      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
-      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
-      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
-      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
-      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
-      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
-      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
-      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
-      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
-    ],
-    fee: 63000,
-    feepolicy: {
-      economy: 10,
-      normal: 15,
-      fast: 20,
-    },
-    contractAddress: "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
-    color: "#ed1b6c",
-    decimals: 18,
-    backend: [
-      "infura",
-    ],
-   },
 };
 export default {
   coins,
