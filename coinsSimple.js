@@ -171,7 +171,8 @@ const coins = {
     unit: "ETH",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ETH.svg",
     node: [
@@ -447,6 +448,7 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.btx.zelcore.io/tx/",
+      "https://btx.tokenview.com/en",
     ],
     logolink: "static/logos/BTX.svg",
     node: [
@@ -490,6 +492,7 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.hush.zelcore.io/tx/",
+      "https://hush.explorer.dexstats.info/",
     ],
     logolink: "static/logos/HUSH.svg",
     node: [
@@ -520,7 +523,8 @@ const coins = {
     unit: "BNB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BNB.svg",
     node: [
@@ -562,7 +566,8 @@ const coins = {
     unit: "SONM",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SONM.svg",
     node: [
@@ -605,7 +610,8 @@ const coins = {
     unit: "OMG",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/OMG.svg",
     node: [
@@ -648,7 +654,8 @@ const coins = {
     unit: "ZIL",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ZIL.svg",
     node: [
@@ -691,7 +698,8 @@ const coins = {
     unit: "ZRX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ZRX.svg",
     node: [
@@ -734,7 +742,8 @@ const coins = {
     unit: "GNT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GNT.svg",
     node: [
@@ -777,7 +786,8 @@ const coins = {
     unit: "KCS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/KCS.svg",
     node: [
@@ -820,7 +830,8 @@ const coins = {
     unit: "BAT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BAT.svg",
     node: [
@@ -863,7 +874,8 @@ const coins = {
     unit: "MKR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MKR.svg",
     node: [
@@ -906,7 +918,8 @@ const coins = {
     unit: "KNC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/KNC.svg",
     node: [
@@ -949,7 +962,8 @@ const coins = {
     unit: "ENG",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ENG.svg",
     node: [
@@ -992,7 +1006,8 @@ const coins = {
     unit: "PAY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/PAY.svg",
     node: [
@@ -1035,7 +1050,8 @@ const coins = {
     unit: "SUB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SUB.svg",
     node: [
@@ -1078,7 +1094,8 @@ const coins = {
     unit: "CVC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CVC.svg",
     node: [
@@ -1121,7 +1138,8 @@ const coins = {
     unit: "STX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/STX.svg",
     node: [
@@ -1178,6 +1196,7 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.bitcoingold.org/insight/tx/",
+      "https://btg.tokenview.com/",
     ],
     logolink: "static/logos/BTG.svg",
     node: [
@@ -1683,7 +1702,8 @@ const coins = {
     unit: "ABT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ABT.svg",
     node: [
@@ -1726,7 +1746,8 @@ const coins = {
     unit: "ADX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ADX.svg",
     node: [
@@ -1769,7 +1790,8 @@ const coins = {
     unit: "AE",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AE.svg",
     node: [
@@ -1812,7 +1834,8 @@ const coins = {
     unit: "AST",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AST.svg",
     node: [
@@ -1855,7 +1878,8 @@ const coins = {
     unit: "BBO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BBO.svg",
     node: [
@@ -1898,7 +1922,8 @@ const coins = {
     unit: "APPC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/APPC.svg",
     node: [
@@ -1941,7 +1966,8 @@ const coins = {
     unit: "BLZ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BLZ.svg",
     node: [
@@ -1984,7 +2010,8 @@ const coins = {
     unit: "BNT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BNT.svg",
     node: [
@@ -2027,7 +2054,8 @@ const coins = {
     unit: "COFI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/COFI.svg",
     node: [
@@ -2069,7 +2097,8 @@ const coins = {
     unit: "SAI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SAI.svg",
     node: [
@@ -2112,7 +2141,8 @@ const coins = {
     unit: "DGX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DGX.svg",
     node: [
@@ -2156,7 +2186,8 @@ const coins = {
     unit: "ELEC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ELEC.svg",
     node: [
@@ -2199,7 +2230,8 @@ const coins = {
     unit: "ELF",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ELF.svg",
     node: [
@@ -2242,7 +2274,8 @@ const coins = {
     unit: "ENJ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ENJ.svg",
     node: [
@@ -2284,7 +2317,8 @@ const coins = {
     unit: "STORJ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/STORJ.svg",
     node: [
@@ -2326,7 +2360,8 @@ const coins = {
     unit: "IOST",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/IOST.svg",
     node: [
@@ -2368,7 +2403,8 @@ const coins = {
     unit: "DENT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DENT.svg",
     node: [
@@ -2411,7 +2447,8 @@ const coins = {
     unit: "LEND",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LEND.svg",
     node: [
@@ -2440,12 +2477,12 @@ const coins = {
       "infura",
     ],
   },
-  chainlink: {
-    coin: "chainlink",
-    name: "ChainLink",
+  Link: {
+    coin: "Link",
+    name: "Link",
     uri: [
-      "chainlink",
-      "link",
+      "Link",
+      "Link",
     ],
     addresses: [],
     api: [
@@ -2454,7 +2491,8 @@ const coins = {
     unit: "LINK",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LINK.svg",
     node: [
@@ -2497,7 +2535,8 @@ const coins = {
     unit: "MANA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MANA.svg",
     node: [
@@ -2540,7 +2579,8 @@ const coins = {
     unit: "LRC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LRC.svg",
     node: [
@@ -2582,7 +2622,8 @@ const coins = {
     unit: "QASH",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/QASH.svg",
     node: [
@@ -2625,7 +2666,8 @@ const coins = {
     unit: "ICN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ICN.svg",
     node: [
@@ -2668,7 +2710,8 @@ const coins = {
     unit: "MCO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MCO.svg",
     node: [
@@ -2712,7 +2755,8 @@ const coins = {
     unit: "POE",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/POE.svg",
     node: [
@@ -2755,7 +2799,8 @@ const coins = {
     unit: "POLY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/POLY.svg",
     node: [
@@ -2798,7 +2843,8 @@ const coins = {
     unit: "POWR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/POWR.svg",
     node: [
@@ -2842,7 +2888,8 @@ const coins = {
     unit: "RCN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/RCN.svg",
     node: [
@@ -2885,7 +2932,8 @@ const coins = {
     unit: "RDN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/RDN.svg",
     node: [
@@ -2928,7 +2976,8 @@ const coins = {
     unit: "REQ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/REQ.svg",
     node: [
@@ -2971,7 +3020,8 @@ const coins = {
     unit: "SNT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SNT.svg",
     node: [
@@ -3013,7 +3063,8 @@ const coins = {
     unit: "SALT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SALT.svg",
     node: [
@@ -3055,7 +3106,8 @@ const coins = {
     unit: "STORM",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/STORM.svg",
     node: [
@@ -3098,7 +3150,8 @@ const coins = {
     unit: "EDO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/EDO.svg",
     node: [
@@ -3141,7 +3194,8 @@ const coins = {
     unit: "TUSD",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/TUSD.svg",
     node: [
@@ -3184,7 +3238,8 @@ const coins = {
     unit: "DCN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DCN.svg",
     node: [
@@ -3226,7 +3281,8 @@ const coins = {
     unit: "WAX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/WAX.svg",
     node: [
@@ -3268,7 +3324,8 @@ const coins = {
     unit: "WINGS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/WINGS.svg",
     node: [
@@ -3310,7 +3367,8 @@ const coins = {
     unit: "DTA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DTA.svg",
     node: [
@@ -3353,7 +3411,8 @@ const coins = {
     unit: "FUN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/FUN.svg",
     node: [
@@ -3395,7 +3454,8 @@ const coins = {
     unit: "KIN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/KIN.svg",
     node: [
@@ -3483,7 +3543,8 @@ const coins = {
     unit: "SRN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SRN.svg",
     node: [
@@ -3526,7 +3587,8 @@ const coins = {
     unit: "AOA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AOA.svg",
     node: [
@@ -3568,7 +3630,8 @@ const coins = {
     unit: "THETA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/THETA.svg",
     node: [
@@ -3709,7 +3772,8 @@ const coins = {
     unit: "USDC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/USDC.svg",
     node: [
@@ -3752,7 +3816,8 @@ const coins = {
     unit: "GUSD",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GUSD.svg",
     node: [
@@ -3795,7 +3860,8 @@ const coins = {
     unit: "PAX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/PAX.svg",
     node: [
@@ -3873,7 +3939,8 @@ const coins = {
     unit: "CONI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CONI.svg",
     node: [
@@ -3916,7 +3983,8 @@ const coins = {
     unit: "TOK",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/TOK.svg",
     node: [
@@ -4009,7 +4077,8 @@ const coins = {
     unit: "POR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/POR.svg",
     node: [
@@ -4150,7 +4219,8 @@ const coins = {
     unit: "ADT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ADT.svg",
     node: [
@@ -4194,7 +4264,8 @@ const coins = {
     unit: "MFT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MFT.svg",
     node: [
@@ -4237,7 +4308,8 @@ const coins = {
     unit: "ATL",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ATL.svg",
     node: [
@@ -4280,7 +4352,8 @@ const coins = {
     unit: "ANT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ANT.svg",
     node: [
@@ -4323,7 +4396,8 @@ const coins = {
     unit: "ARN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ARN.svg",
     node: [
@@ -4367,7 +4441,8 @@ const coins = {
     unit: "BRD",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BRD.svg",
     node: [
@@ -4410,7 +4485,8 @@ const coins = {
     unit: "REP",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/REP.svg",
     node: [
@@ -4455,7 +4531,8 @@ const coins = {
     unit: "QKC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/QKC.svg",
     node: [
@@ -4498,7 +4575,8 @@ const coins = {
     unit: "LOOM",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LOOM.svg",
     node: [
@@ -4542,7 +4620,8 @@ const coins = {
     unit: "EURS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/EURS.svg",
     node: [
@@ -4698,7 +4777,8 @@ const coins = {
     unit: "GUNTHY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GUNTHY.svg",
     node: [
@@ -4741,7 +4821,8 @@ const coins = {
     unit: "MTL",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MTL.svg",
     node: [
@@ -4783,7 +4864,8 @@ const coins = {
     unit: "ETHOS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ETHOS.svg",
     node: [
@@ -4826,7 +4908,8 @@ const coins = {
     unit: "AGI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AGI.svg",
     node: [
@@ -4869,7 +4952,8 @@ const coins = {
     unit: "AMB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AMB.svg",
     node: [
@@ -4912,7 +4996,8 @@ const coins = {
     unit: "BCPT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BCPT.svg",
     node: [
@@ -4955,7 +5040,8 @@ const coins = {
     unit: "CDT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CDT.svg",
     node: [
@@ -4999,7 +5085,8 @@ const coins = {
     unit: "CELR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CELR.svg",
     node: [
@@ -5042,7 +5129,8 @@ const coins = {
     unit: "CND",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CND.svg",
     node: [
@@ -5086,7 +5174,8 @@ const coins = {
     unit: "DATA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DATA.svg",
     node: [
@@ -5129,7 +5218,8 @@ const coins = {
     unit: "DLT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DLT.svg",
     node: [
@@ -5171,7 +5261,8 @@ const coins = {
     unit: "DOCK",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DOCK.svg",
     node: [
@@ -5214,7 +5305,8 @@ const coins = {
     unit: "EVX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/EVX.svg",
     node: [
@@ -5257,7 +5349,8 @@ const coins = {
     unit: "GTO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GTO.svg",
     node: [
@@ -5300,7 +5393,8 @@ const coins = {
     unit: "GVT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GVT.svg",
     node: [
@@ -5344,7 +5438,8 @@ const coins = {
     unit: "HOT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/HOT.svg",
     node: [
@@ -5387,7 +5482,8 @@ const coins = {
     unit: "INS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/INS.svg",
     node: [
@@ -5430,7 +5526,8 @@ const coins = {
     unit: "IOTX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/IOTX.svg",
     node: [
@@ -5473,7 +5570,8 @@ const coins = {
     unit: "KEY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/KEY.svg",
     node: [
@@ -5516,7 +5614,8 @@ const coins = {
     unit: "LUN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LUN.svg",
     node: [
@@ -5559,7 +5658,8 @@ const coins = {
     unit: "MTH",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MTH.svg",
     node: [
@@ -5601,7 +5701,8 @@ const coins = {
     unit: "OAX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/OAX.svg",
     node: [
@@ -5643,7 +5744,8 @@ const coins = {
     unit: "OST",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/OST.svg",
     node: [
@@ -5686,7 +5788,8 @@ const coins = {
     unit: "PPT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/PPT.svg",
     node: [
@@ -5729,7 +5832,8 @@ const coins = {
     unit: "QSP",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/QSP.svg",
     node: [
@@ -5771,7 +5875,8 @@ const coins = {
     unit: "REN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/REN.svg",
     node: [
@@ -5814,7 +5919,8 @@ const coins = {
     unit: "RLC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/RLC.svg",
     node: [
@@ -5857,7 +5963,8 @@ const coins = {
     unit: "SNGLS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/SNGLS.svg",
     node: [
@@ -5900,7 +6007,8 @@ const coins = {
     unit: "TNT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/TNT.svg",
     node: [
@@ -5943,7 +6051,8 @@ const coins = {
     unit: "VIB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/VIB.svg",
     node: [
@@ -5985,7 +6094,8 @@ const coins = {
     unit: "VIBE",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/VIBE.svg",
     node: [
@@ -6028,7 +6138,8 @@ const coins = {
     unit: "WABI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/WABI.svg",
     node: [
@@ -6071,7 +6182,8 @@ const coins = {
     unit: "WPR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/WPR.svg",
     node: [
@@ -6114,7 +6226,8 @@ const coins = {
     unit: "DIBI",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DIBI.svg",
     node: [
@@ -6209,7 +6322,8 @@ const coins = {
     unit: "FUEL",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/FUEL.svg",
     node: [
@@ -6376,7 +6490,8 @@ const coins = {
     unit: "LEO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LEO.svg",
     node: [
@@ -6422,7 +6537,8 @@ const coins = {
     unit: "BXY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BXY.svg",
     node: [
@@ -6466,7 +6582,8 @@ const coins = {
     unit: "USDS",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/USDS.svg",
     node: [
@@ -6510,7 +6627,8 @@ const coins = {
     unit: "NUKE",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/NUKE.svg",
     node: [
@@ -7007,7 +7125,8 @@ const coins = {
     unit: "GCSTAR",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCSTAR.svg",
     node: [
@@ -7050,7 +7169,8 @@ const coins = {
     unit: "GCTGT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCTGT.svg",
     node: [
@@ -7093,7 +7213,8 @@ const coins = {
     unit: "GCWAL",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCWAL.svg",
     node: [
@@ -7136,7 +7257,8 @@ const coins = {
     unit: "GCBEST",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCBEST.svg",
     node: [
@@ -7179,7 +7301,8 @@ const coins = {
     unit: "GCHD",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCHD.svg",
     node: [
@@ -7222,7 +7345,8 @@ const coins = {
     unit: "GCLOWE",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GCLOWE.svg",
     node: [
@@ -7336,7 +7460,8 @@ const coins = {
     unit: "DMME",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DMME.svg",
     node: [
@@ -7411,7 +7536,8 @@ const coins = {
     unit: "HT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/HT.svg",
     node: [
@@ -7454,7 +7580,8 @@ const coins = {
     unit: "BUSD",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BUSD.svg",
     node: [
@@ -7496,7 +7623,8 @@ const coins = {
     unit: "OKB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/OKB.svg",
     node: [
@@ -7539,7 +7667,8 @@ const coins = {
     unit: "BF",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BF.svg",
     node: [
@@ -7582,7 +7711,8 @@ const coins = {
     unit: "MX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/MX.svg",
     node: [
@@ -7625,7 +7755,8 @@ const coins = {
     unit: "ZB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ZB.svg",
     node: [
@@ -7669,7 +7800,8 @@ const coins = {
     unit: "HTB",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/HTB.svg",
     node: [
@@ -7712,7 +7844,8 @@ const coins = {
     unit: "HPT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/HPT.svg",
     node: [
@@ -7755,7 +7888,8 @@ const coins = {
     unit: "GOLF",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GOLF.svg",
     node: [
@@ -7798,7 +7932,8 @@ const coins = {
     unit: "ENQ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/ENQ.svg",
     node: [
@@ -7841,7 +7976,8 @@ const coins = {
     unit: "FTM",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/FTM.svg",
     node: [
@@ -7884,7 +8020,8 @@ const coins = {
     unit: "0xBTC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/0xBTC.svg",
     node: [
@@ -7927,7 +8064,8 @@ const coins = {
     unit: "VYA",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/VYA.svg",
     node: [
@@ -7969,7 +8107,8 @@ const coins = {
     unit: "AERGO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/AERGO.svg",
     node: [
@@ -8011,7 +8150,8 @@ const coins = {
     unit: "LMY",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/LMY.svg",
     node: [
@@ -8123,7 +8263,8 @@ const coins = {
     unit: "NTK",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/NTK.svg",
     node: [
@@ -8165,7 +8306,8 @@ const coins = {
     unit: "GMC",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/GMC.svg",
     node: [
@@ -8207,7 +8349,8 @@ const coins = {
     unit: "BAZ",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/BAZ.svg",
     node: [
@@ -8249,7 +8392,8 @@ const coins = {
     unit: "CSO",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/CSO.svg",
     node: [
@@ -8291,7 +8435,8 @@ const coins = {
     unit: "UBT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/UBT.svg",
     node: [
@@ -8331,7 +8476,8 @@ const coins = {
     unit: "USDT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/USDT.svg",
     node: [
@@ -8417,7 +8563,8 @@ const coins = {
     unit: "HEX",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/HEX.svg",
     node: [
@@ -8460,7 +8607,8 @@ const coins = {
     unit: "COMP",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/COMP.svg",
     node: [
@@ -8505,7 +8653,8 @@ const coins = {
     unit: "VIDT",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/VIDT.svg",
     node: [
@@ -8549,7 +8698,8 @@ const coins = {
     unit: "DRGN",
     type: "eth",
     explorer: [
-      "https://etherscan.io/tx/",
+      "https://etherscan.io/tx/", 
+      "https://ethplorer.io/tx/",
     ],
     logolink: "static/logos/DRGN.svg",
     node: [
