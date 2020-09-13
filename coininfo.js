@@ -681,7 +681,7 @@ const coininfo = {
       ],
       explorer: [
         "https://btczexplorer.blockhub.info/",
-        "https://explorer.btcz.rocks/",
+        "",
         "",
         "",
         "",
@@ -905,8 +905,8 @@ const coininfo = {
       ],
       explorer: [
         "https://chainz.cryptoid.info/btx/",
-        "https://btx.tokenview.com/en",
-        "https://explorer.bitcore.cc/#/BTX/mainnet/home",
+        "",
+        "",
         "",
         "",
       ],
@@ -3215,8 +3215,8 @@ const coininfo = {
       ],
       explorer: [
         "http://explorer.myhush.org/",
-        "https://hush.explorer.dexstats.info/",
-        "https://hush3.komodod.com/",
+        "",
+        "",
         "",
         "",
       ],
@@ -3258,7 +3258,7 @@ const coininfo = {
         "",
       ],
       explorer: [
-        "https://insight.zslp.org/insight/",
+        "",
         "https://zcl.tokenview.com/",
         "",
         "",
@@ -3347,7 +3347,7 @@ const coininfo = {
       ],
       explorer: [
         "https://explorer.safecoin.org/",
-        "https://explorer.deepsky.space/",
+        "",
         "",
         "",
         "",
@@ -4544,7 +4544,7 @@ const coininfo = {
       },
     },
   },
-  Link: {
+  chainlink: {
     description: "LINK (LN) is a digital token created by Line Corporation is a subsidiary of the South Korean internet search giant Naver Corporation.\r\n\r\nLINK is the digital token that powers the LINE token economy. LINK can be used to pay for or receive benefits from various LINE service categories, such as content, commerce, social, gaming, and digital asset exchange. LINK holds a minimum value of USD 5 when used for payment within the LINE ecosystem, but can rise in value according to market conditions. \r\n\r\nLINE is focused on expanding the LINE token economy through LINK and a diverse range of dApps to build an ecosystem that serves LINE’s hundreds of millions of global users.\r\n\r\nLINK is distributed as rewards for users of BITBOX. By offering a variety of LINK-related promotions, including rewards based on trading volume and deposits, the BITBOX team aims to encourage participation in the exchange.\r\n\r\nIn addition, when you pay trading fees on BITBOX with LINK, LINK will be accepted at a paid minimum value of USD 5. BITBOX has also prepared additional discount of USD 1 for every LINK used to pay for trading fees for the introduction of the function.",
     total_supply: 1000000000,
     circulating_supply: 0,
@@ -6602,7 +6602,7 @@ const coininfo = {
       ],
       explorer: [
         "https://chainz.cryptoid.info/bzx/",
-        "https://www.blockseek.io/bzx",
+        "",
         "",
         "",
         "",
@@ -6818,7 +6818,7 @@ const coininfo = {
       ],
       explorer: [
         "https://explorer.genesisnetwork.io/",
-        "https://chainz.cryptoid.info/genx/",
+        "",
         "",
         "",
         "",
@@ -7684,7 +7684,6 @@ const coininfo = {
       ],
       explorer: [
         "https://explorer.ont.io/",
-        "https://ont.tokenview.com/",
       ],
       official_forum_url: [
         "https://www.reddit.com/r/OntologyNetwork/",
@@ -7721,7 +7720,6 @@ const coininfo = {
       ],
       explorer: [
         "https://explorer.ont.io/",
-        "https://ont.tokenview.com/",
       ],
       official_forum_url: [
         "https://www.reddit.com/r/OntologyNetwork/",
@@ -9010,8 +9008,52 @@ const coininfo = {
       },
     },
   },
+  genesistron: {
+    description: "Genesis is much more than your “run-of-the-mill” cryptocurrency.\r\n\r\nGenesis is an honest, reliable, blazing fast payment processor that can be used by ordinary people in real-world, day-to-day transactions.\r\n\r\nGenesis has a committed team focused on development, real world applications, marketing and community involvement.",
+    total_supply: 700000000,
+    circulating_supply: 700000000,
+    links: {
+      homepage: [
+        "https://genesisnetwork.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://tronscan.org/#/token20/TY7pG4ABFjRcnAHmJJc2xAaarGEU753LxG",
+        "",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/8hSjExc",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/genx_network",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=4882443",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/genesisnetwork/",
+      repos_url: {
+        github: [
+          "https://github.com/genesisofficial/genesis",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   om: {
-  description: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
+    description: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
     total_supply: 125333333,
     circulating_supply: 109180888,
     links: {
