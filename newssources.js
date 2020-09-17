@@ -1934,6 +1934,15 @@ const newssources = {
         pic: "static/logos/Coin.svg",
       },
     ],
+	uni: [
+	{
+        name: "Uniswap Twitter",
+        feed: "https://nitter.net/UniswapProtocol/rss",
+        site: "https://twitter.com/UniswapProtocol",
+        about: "the Uniswap Protocol token.",
+        pic: "static/logos/Uni.svg",
+      },
+    ],
 };
 export default {
   newssources,
