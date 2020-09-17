@@ -8743,7 +8743,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x87b008e57f640d94ee44fd893f0323af933f9195",
-    color: "#ed1b6c",
+    color: "#dc12fc",
     decimals: 18,
     backend: [
       "infura",
@@ -8786,7 +8786,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    color: "#ed1b6c",
+    color: "#ff007a",
     decimals: 18,
     backend: [
       "infura",
