@@ -1925,6 +1925,15 @@ const newssources = {
         pic: "static/logos/OM.svg",
       },
     ],
+	coin: [
+	{
+        name: "Coin Artist Token Twitter",
+        feed: "https://nitter.net/coin_artist/rss",
+        site: "https://twitter.com/coin_artist",
+        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
+        pic: "static/logos/Coin.svg",
+      },
+    ],
 };
 export default {
   newssources,
