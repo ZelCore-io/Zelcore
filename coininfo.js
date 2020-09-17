@@ -9096,6 +9096,50 @@ const coininfo = {
       },
     },
   },
+  uni: {
+  description: "the Uniswap Protocol token.",
+    total_supply: 1000000000,
+    circulating_supply: 59761093,
+    links: {
+      homepage: [
+        "https://uniswap.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "https://ethplorer.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984?from=search",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/UniswapProtocol",
+        "https://uniswap.org/blog/",
+      ],
+      twitter_screen_name: "https://twitter.com/UniswapProtocol",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: https://www.reddit.com/r/UniSwap/,
+      repos_url: {
+        github: [
+          "https://github.com/Uniswap",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
