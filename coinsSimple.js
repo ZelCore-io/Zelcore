@@ -8717,7 +8717,7 @@ const coins = {
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x87b008E57F640D94Ee44Fd893F0323AF933F9195&address=",
     ],
-    unit: "coin",
+    unit: "COIN",
     type: "eth",
     explorer: [
       "https://etherscan.io/tx/",
@@ -8760,7 +8760,7 @@ const coins = {
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984&address=",
     ],
-    unit: "uni",
+    unit: "UNI",
     type: "eth",
     explorer: [
       "https://etherscan.io/tx/",
