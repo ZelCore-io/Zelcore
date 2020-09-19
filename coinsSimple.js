@@ -8706,12 +8706,12 @@ const coins = {
       "infura",
     ],
    },
-   coin: {
-    coin: "coin",
+   coinartisttoken: {
+    coin: "coinartisttoken",
     name: "Coin Artist Token",
     uri: [
       "coinartisttoken",
-      "coin",
+      "coinartisttoken",
     ],
     addresses: [],
     api: [

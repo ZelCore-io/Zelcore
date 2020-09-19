@@ -9052,7 +9052,7 @@ const coininfo = {
       },
     },
   },
-  coin: {
+  coinartisttoken: {
   description: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
     total_supply: 3470000,
     circulating_supply: ,

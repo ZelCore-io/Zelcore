@@ -1925,7 +1925,7 @@ const newssources = {
         pic: "static/logos/OM.svg",
       },
     ],
-	coin: [
+	coinartisttoken: [
 	{
         name: "Coin Artist Token Twitter",
         feed: "https://nitter.net/coin_artist/rss",
