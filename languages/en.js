@@ -158,6 +158,7 @@ export default {
     login: "Login",
     register_new_user: "Register New Account",
     register_account_locally: "Add Existing Account",
+    register_account: "Register Account",
     no_proxy: "No proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
@@ -166,17 +167,56 @@ export default {
     account_locked: "Your account is locked for security reasons for a few minutes.",
     wrong_password_last_try: "Wrong password, you have one more try",
     wrong_password_5_minutes_lock: "Wrong password, your account will be locked for 5 minutes if you enter the wrong password",
+    recover_password: "Recover Password",
+    recover_password_information: "In this page you will be able to retrieve your forgotten password if you reply correctly to all questions.",
+    show_password: "Show Password",
+    recovery_password_answers_failed: "Your answers did not match with the ones stored for recovery.",
+    recovery_password_success: "Successfully Recovered Password",
+    recovery_password_last_try: "Your answers did not match with the ones stored for recovery. You have one more try.",
+    recovery_password_no_more_attempts: "You have exceeded the maximum number of retries. You have to wait 5 minutes to try again.",
+    recovery_password_no_more_attempts_awaiting: "You have exceeded the maximum number of retries. You have to wait a bit longer until you can try again.",
 
     // helpcenter
     welcome_help: "Welcome to the ZelCore Help Center. Here you can find our FAQ, Live Community Support and Discord forums.",
     for_more_info: "For more information check out",
 
     // create.vue
-    create_account_info: "These credentials are used to locally register your lite wallets and your accounts encryption. Both username and password are case sensitive, be aware.",
+    create_account_info: "These credentials are used to locally register your lite wallets and your accounts encryption.",
+    create_account_info2: "Both username and password are case sensitive.",
     confirm_password: "Confirm Password",
     login_to_account: "Login to account",
     account_exist: "Account {username} already exists!",
     account_registered: "Account {username} registered",
+    create_recover_password_mechanism: "Create Recovery Password Mechanism",
+    create_recover_password_mechanism_help: "Password Recovery Mechanism will be stored locally on this device, associated with your account and encrypted. "
+      + "This can be helpful in case you forget your password.",
+    create_recover_password: "Here you can set your recovery password mechanism. You will have to select at least 5 questions to create this security mechanism and continue with account creation. Use as many questions as you wish. "
+      + "Remember that if someone who knows you hacks your device, they might know the answers for the easier questions. "
+      + "The more questions you choose, the more protected you will be. The answers are not case sensitive.",
+    create_recover_password_select_question: "Select Question",
+    create_recover_password_answer: "Type Answer",
+    add_question_answer_not_set: "Both Question and Answer needs to be filled out before you can add another one or save.",
+    duplicate_question_selected: "Duplicate questions selected.",
+    recovery_password_question1: "What is your favorite book?",
+    recovery_password_question2: "What is the name of the road you grew up on?",
+    recovery_password_question3: "What is your mother’s maiden name?",
+    recovery_password_question4: "What was the name of your first/current/favorite pet?",
+    recovery_password_question5: "Where did you meet your spouse?",
+    recovery_password_question6: "Where did you go to high school/college?",
+    recovery_password_question7: "What is your favorite food?",
+    recovery_password_question8: "What city were you born in?",
+    recovery_password_question9: "Where is your favorite place to vacation?",
+    recovery_password_question10: "What was the make/model of your first car?",
+    recovery_password_question11: "When you were young, what did you want to be when you grew up?",
+    recovery_password_question12: "Who was your childhood hero?",
+    recovery_password_question13: "Where was your best family vacation as a kid?",
+    recovery_password_question14: "When were you born?",
+    recovery_password_question15: "Which phone number do you remember most from your childhood?",
+    recovery_password_question16: "What is the first and last name of your first boyfriend or girlfriend?",
+    recovery_password_question17: "Who is your favorite actor, musician, or artist?",
+    recovery_password_question18: "What is your favorite movie?",
+    recovery_password_question19: "What is your favorite color?",
+    recovery_password_question20: "What is your father's middle name?",
 
     // account warning
     password_is_key: "Your password is the key to access your funds, make it as strong as possible.",
@@ -299,6 +339,7 @@ export default {
     warning_monero_fee: "Warning: Monero fee is not known prior the transaction creation, this is just an approximation. Transaction creation takes a few seconds. Unconfirmed transactions are not properly shown in transaction table and may not reflect your balance.",
     warning_ripple: "The Ripple fee is calculated automatically depending on the status of the network. It takes a while for transactions to be visible in transaction history and on the explorer.",
     warning_neo: "Transactions take a few seconds to be reflected in transaction table and show on the explorer",
+    warning_trc20: "Warning: Tron TRC20 token transfers require you to have a balance of TRX so that it can be used as Energy to power the contract execution. TRX will be deducted from your account up to a maximum Fee Limit set allowed.",
     edit: "Edit",
     delete: "Delete",
     show_in_explorer: "Show in explorer",
@@ -349,6 +390,8 @@ export default {
     asset_transferred: "Asset: {asset}",
     show_information: "Show Information",
     exchange_currently_not_available: "Exchange of this asset is currently not available",
+    genesis_tron: "Genesis migrated to Tron Network",
+    genesis_tron_info: "Genesis has migrated to become a token on Tron Network. Users are advised to swap their coins before 6th October 2020. Please do so by clicking on this notification.",
 
     // mainland.vue
     take_some_mins: "This can take a few minutes, please be patient.",
@@ -713,6 +756,15 @@ export default {
     default_path: "Use Default Path",
     full_node_path_message: "ZelCore by default uses each daemon full node default path to store blockchain info. This feature sets a new default location that will be used for all coins. "
       + "To access original full node data, copy the content of previous full node path to the newly selected. Network paths won't work.",
+    recover_password_mechanism: "Recovery Password Mechanism",
+    recover_password_mechanism_saved: "Recovery Password Mechanism Saved",
+    recover_password_mechanism_removed: "Recovery Password Mechanism Removed From Account",
+    account_recover_password_mechanism_help: "Password Recovery Mechanism will be stored locally on this device, associated with your account and encrypted. "
+      + "This can be helpful in case you forget your password. If it's enabled and you disable it, it will be wiped from your account. If it's disabled, just enable it again to create the recovery mechanism.",
+    account_create_recover_password: "Here you will be able to set your recovery password mechanism. For security reasons you will have to put your account password. Only the account owner can set this security mechanism. "
+      + "You will have to select at least 5 questions to create this security mechanism and there is no maximum for how many questions to use. "
+      + "Remember that if someone who knows you hacks your device, they might know the answers for the easiest questions. "
+      + "The more questions you choose, the more protected you will be. The answers are not case sensitive.",
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Exchanges",
@@ -1705,6 +1757,38 @@ export default {
     zelnode_total_rewards_last_24h: "Total last 24h: {reward} ZEL - {fiatValue} {fiatCurrency}",
     zelnode_total_rewards_last_7d: "Total last 7d: {reward} ZEL - {fiatValue} {fiatCurrency}",
     zelnode_total_rewards_last_31d: "Total last 31d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+
+    // wallet connect
+    session_request: "Wallet Connect Session Requested",
+    approve_session: "Approve Session",
+    reject_session: "Reject Session",
+    session_request_info: "{name} coming from {url} would like to initiate a session. Approval will share all your ethereum wallet addresses.",
+    shared_wallets: "Shared Wallets",
+    session_approved: "Wallet Connect Session Approved",
+    session_disconnected: "Wallet Connect Session Disconnected",
+    disconnect: "Disconnect",
+    bridge: "Bridge",
+    chain: "Chain",
+    connected_to: "Connected to {name} on {url}",
+    unsupported_method: "Unsupported method",
+    sign_request: "Sign Request",
+    sign_request_info: "{name} coming from {url} would like you to provide a signature.",
+    requested_payload: "Requested Payload",
+    address_for_signing: "Signing address",
+    data_for_signing: "Data to sign",
+    approve_request: "Approve Request",
+    reject_request: "Reject Request",
+    request_approved_sent: "Request approved and result sent",
+    pay_request: "Approve and Pay Request",
+    payment_data: "Transaction Payment Data",
+    pay_request_info: "{name} coming from {url} would like you to approve and pay following transaction.",
+    data: "Data",
+    sign_transaction: "Sign Transaction Request",
+    sign_transaction_info: "{name} coming from {url} would like you to approve and sign following transaction for future broadcasting.",
+    broadcast_transaction: "Broadcast Transaction Request",
+    broadcast_transaction_info: "{name} coming from {url} would like you to approve and broadcast following raw already signed transaction.",
+    transaction_raw_data: "Transaction Raw Data",
+    transfer: "Transfer",
 
     // mobile js
     unable_save_avatar: "Unable to save new avatar",

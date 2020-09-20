@@ -152,6 +152,7 @@ export default {
     login: "Entrar",
     register_new_user: "Registar Nova Conta",
     register_account_locally: "Adicionar Conta Existente",
+    register_account: "Registar Conta",
     no_proxy: "Sem proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
@@ -160,17 +161,56 @@ export default {
     account_locked: "Demasiadas tentativas falhadas, sua conta está bloqueada por alguns minutos",
     wrong_password_last_try: "Senha incorreta, você tem mais uma tentativa",
     wrong_password_5_minutes_lock: "Senha incorreta, sua conta será bloqueada por 5 minutos",
+    recover_password: "Recuperação de Password",
+    recover_password_information: "Nesta página irás obter a tua password esquecida se responderes correctamente a todas as perguntas.",
+    show_password: "Mostrar Password",
+    recovery_password_answers_failed: "As tuas respostas não correspondem às respostas que foram guardadas para recuperação da password.",
+    recovery_password_success: "Sucesso na Recuperação da Password",
+    recovery_password_last_try: "As tuas respostas não correspondem às respostas que foram guardadas para recuperação da password. Tens uma última tentativa.",
+    recovery_password_no_more_attempts: "Excedeste o número máximo de tentativas, terás que aguardar 5 minutos para voltar a tentar.",
+    recovery_password_no_more_attempts_awaiting: "Excedeste o número máximo de tentativas, terás que aguardar um pouco mais até poderes voltar a tentar.",
 
     // helpcenter
     welcome_help: "Bem-vindo à Central de Ajuda do ZelCore. Aqui você pode encontrar nossas perguntas frequentes, suporte da comunidade ao vivo, fóruns da comunidade e Discord.",
     for_more_info: "Para mais informações, confira",
 
     // create.vue
-    create_account_info: "Essas credenciais são usadas para registrar localmente suas carteiras Lite e a criptografia de suas contas. Ambos os campos utilizador e password são case sensitive, tenha atenção.",
+    create_account_info: "Essas credenciais são usadas para registrar localmente suas carteiras Lite e a criptografia de suas contas.",
+    create_account_info2: "Ambos os campos utilizador e password são case sensitive, tenha atenção.",
     confirm_password: "Confirme a Senha",
     login_to_account: "Conecte-se na conta",
     account_exist: "A conta {username} já existe!",
     account_registered: "Conta {username} registada",
+    create_recover_password_mechanism: "Criação de Mecanismo de Recuperação de Password",
+    create_recover_password_mechanism_help: "O Mecanismo de Recuperação de Password irá ser guardado localmente neste dispositivo, associado à tua conta e encriptrado. "
+      + "Pode ajudar no caso de te esqueceres da password da tua conta.",
+    create_recover_password: "Nesta página poderás definir o teu mecanismo de recuperação de password, terás que escolher pelo menos 5 questões, para criar este mecanismo de segurança e continuar com a criação da conta, não existindo um máximo. "
+      + "Lembra-te que se alguém que te conheça tente obter a tua password com este mecanismo pode saber as respostas às perguntas mais fáceis. "
+      + "Quanto mais perguntas escolheres mais protegido estarás. As respostas não são case sensitive.",
+    create_recover_password_select_question: "Escolher Pergunta",
+    create_recover_password_answer: "Resposta",
+    add_question_answer_not_set: "Tens que preencher as perguntas e respostas para poderes adicionar novas questões ou gravar.",
+    duplicate_question_selected: "Pergunta duplicada detectada",
+    recovery_password_question1: "Qual é o teu livro favotiro?",
+    recovery_password_question2: "Qual o nome da rua onde cresceste?",
+    recovery_password_question3: "Qual o nome de solteira da tua mãe?",
+    recovery_password_question4: "Qual o nome do teu primeiro/actual/favorito animal de estimação?",
+    recovery_password_question5: "Onde conheceste o teu companheiro(a)?",
+    recovery_password_question6: "Em que escola/faculdade estudaste?",
+    recovery_password_question7: "Qual é a tua comida favorita?",
+    recovery_password_question8: "Em que cidade nasceste?",
+    recovery_password_question9: "Qual é o teu lugar preferido para passar férias?",
+    recovery_password_question10: "Qual foi o teu primeiro carro?",
+    recovery_password_question11: "Quando eras novo o que querias ser quando fosses grande?",
+    recovery_password_question12: "Quem foi o teu heói de infância?",
+    recovery_password_question13: "Quando eras criança, onde tiveste as melhores férias com a tua famíia?",
+    recovery_password_question14: "Quando é que nasceste?",
+    recovery_password_question15: "Que número de telefone te lembras melhor da tua infância?",
+    recovery_password_question16: "Qual o primeiro e último nome do teu primeiro(a) namorado(a)?",
+    recovery_password_question17: "Quem é o teu actor, músico, artista favorito?",
+    recovery_password_question18: "Qual é o teu filme favorito?",
+    recovery_password_question19: "Qual é a tua cor favorita?",
+    recovery_password_question20: "Qual é o nome do meio do teu pai?",
 
     // account warning
     password_is_key: "Sua senha é a chave para acessar seus fundos, torná-lo o mais forte possível!",
@@ -277,6 +317,7 @@ export default {
     warning_monero_fee: "Aviso: a taxa Monero não é conhecida antes da criação da transação, é apenas uma aproximação. A criação da transação leva alguns segundos.",
     warning_ripple: "A taxa de Ripple é calculada automaticamente, dependendo da rede. Demora um pouco até que a transação seja visível no histórico de transações e no explorer.",
     warning_neo: "As transações levam alguns segundos para serem refletidas na tabela de transações e mostradas no explorer",
+    warning_trc20: "Atenção: As transferências de tokens Tron TRC20 necessitam que tenha saldo TRX para ser usado como Energia para activar a execução do contrato. TRX será deduzido da sua conta até um limite máximo de taxa permitida.",
     edit: "Editar",
     delete: "Excluir",
     show_in_explorer: "Mostrar no Explorer",
@@ -325,6 +366,9 @@ export default {
     change_mode: "Alterar modo",
     asset_transferred: "Ativo: {asset}",
     show_information: "Mostrar informações",
+    exchange_currently_not_available: "A troca desta moeda não se encontra disponível",
+    genesis_tron: "Genisis migrou para a rede Tron",
+    genesis_tron_info: "Genisis migrou para passar a ser um token da rede Tron. É aconselhado aos utilizadores a fazerem a troca das suas moedas até ao dia 6 de Outubro de 2020. Faça a troca clickando nesta notificação.",
 
     // mainland.vue
     take_some_mins: "Isso pode levar alguns minutos, por favor seja paciente.",
@@ -668,6 +712,16 @@ export default {
     default_path: "Usar pasta Default",
     full_node_path_message: "ZelCore utiliza a pasta definida por defeito nos daemon quando corre um nó completo para guardar a informação da blockchain. Agora podes definir uma nova localização por defeito que será utilizada por todas as moeadas.  "
       + "Se já usavas o nó completo anteriormente para alguma moeda, copia toda a informação da pasta default onde anteriormente estava guardada a informação do nó completo dessa moeda para a nova pasta criada. Não utilize pastas de rede, não funcionarão.",
+    recover_password_mechanism: "Mecanismo de Recuperação de Password",
+    recover_password_mechanism_saved: "Mecanismo de Recuperação de Password Gravado",
+    recover_password_mechanism_removed: "Mecanismo de Recuperação de Password removido da tua conta",
+    account_recover_password_mechanism_help: "O Mecanismo de Recuperação de Password irá ser guardado localmente neste dispositivo, associado à tua conta e encriptrado. "
+      + "Pode ajudar no caso de te esqueceres da password da tua conta. Se tiver activo e desactivares, será apagado da tua conta. Se tiver desactivo, activa o mesmo para criar o mecanismo de recuperação da password",
+    account_create_recover_password: "Nesta página poderás definir o teu mecanismo de recuperação de password, por questões de segurança terás que colocar a tua password, apenas o dono da conta pode criar este mecanismo de segurança. "
+      + "terás que escolher pelo menos 5 questões, para criar este mecanismo de segurança, não existindo um máximo. "
+      + "Lembra-te que se alguém que te conheça tente obter a tua password com este mecanismo pode saber as respostas às perguntas mais fáceis. "
+      + "Quanto mais perguntas escolheres mais protegido estarás. As respostas não são case sensitive.",
+
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Trocas",
@@ -1594,6 +1648,38 @@ export default {
     zelnode_total_rewards_last_24h: "Total ganhos últimas 24h: {reward} ZEL - {fiatValue} {fiatCurrency}",
     zelnode_total_rewards_last_7d: "Total ganhos últimos 7d: {reward} ZEL - {fiatValue} {fiatCurrency}",
     zelnode_total_rewards_last_31d: "Total ganhos últimos 31d: {reward} ZEL - {fiatValue} {fiatCurrency}",
+
+    // wallet connect
+    session_request: "Wallet Connect Sessão Requerida",
+    approve_session: "Aprovo a Sessão",
+    reject_session: "Rejeito a Sessão",
+    session_request_info: "{name} vindo de {url} gostaria de inisiar a sessão. A aprovação irá partilhar todos os endereços das suas carteiras ethereum.",
+    shared_wallets: "Carteiras Partilhadas",
+    session_approved: "Wallet Connect Sessão Aprovada",
+    session_disconnected: "Wallet Connect Sessão Desconectada",
+    disconnect: "Desconectar",
+    bridge: "Ponte",
+    chain: "Chain",
+    connected_to: "Ligado a {name} através {url}",
+    unsupported_method: "Método não suportado",
+    sign_request: "Assine o Pedido",
+    sign_request_info: "{name} vindo de {url} gostaria que providenciasse a assinatura.",
+    requested_payload: "Solicitado Payload",
+    address_for_signing: "Assine o endereço",
+    data_for_signing: "Data para assignar",
+    approve_request: "Aprovar Pedido",
+    reject_request: "Rejeitar Pedido",
+    request_approved_sent: "Pedido aprovado e resultado enviado",
+    pay_request: "Aprrove e pague o pedido",
+    payment_data: "Dados de Pagamento da Transação",
+    pay_request_info: "{name} vindo de {url} gostaria que aprovasse e pagasse a seguinte transação.",
+    data: "Dados",
+    sign_transaction: "Pedido de assinatura da Transação",
+    sign_transaction_info: "{name} vindo de {url} gostaria que aprovasse e assinasse as seguintes transacções para envio futuro.",
+    broadcast_transaction: "Pedido de envio de Transação",
+    broadcast_transaction_info: "{name} vindo de {url} gostaria que aprovasse o envio do seguinte raw de transacções já assinadas.",
+    transaction_raw_data: "Dados Raw da transação",
+    transfer: "Transferir",
 
 
     // mobile js

@@ -8922,8 +8922,8 @@ const coininfo = {
   },
   whale: {
     description: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
-    total_supply: 3808795,
-    circulating_supply: 160737039,
+    total_supply: 10000000,
+    circulating_supply: 3808795,
     links: {
       homepage: [
         "https://whale.me/",
@@ -9008,8 +9008,52 @@ const coininfo = {
       },
     },
   },
+  genesistron: {
+    description: "Genesis is much more than your “run-of-the-mill” cryptocurrency.\r\n\r\nGenesis is an honest, reliable, blazing fast payment processor that can be used by ordinary people in real-world, day-to-day transactions.\r\n\r\nGenesis has a committed team focused on development, real world applications, marketing and community involvement.",
+    total_supply: 700000000,
+    circulating_supply: 700000000,
+    links: {
+      homepage: [
+        "https://genesisnetwork.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://tronscan.org/#/token20/TY7pG4ABFjRcnAHmJJc2xAaarGEU753LxG",
+        "",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/8hSjExc",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/genx_network",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=4882443",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/genesisnetwork/",
+      repos_url: {
+        github: [
+          "https://github.com/genesisofficial/genesis",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   om: {
-  description: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
+    description: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
     total_supply: 125333333,
     circulating_supply: 109180888,
     links: {

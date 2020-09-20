@@ -1916,34 +1916,55 @@ const newssources = {
         pic: "static/logos/WBTC.svg",
       },
     ],
-	om: [
-	{
+    genesistron: [
+      {
+        name: "Genesis Blog",
+        feed: "https://nitter.net/genx_network/rss",
+        site: "https://twitter.com/genx_network",
+        about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
+        pic: "static/logos/GENX_TRC20.svg",
+      },
+    ],
+    om: [
+      {
         name: "MANTRA DAO Twitter",
         feed: "https://nitter.net/MANTRADAO/rss",
         site: "https://twitter.com/MANTRADAO",
-        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
+        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. "
+          + "Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
         pic: "static/logos/OM.svg",
       },
     ],
-	coinartisttoken: [
-	{
+    testnetbitcoin: [
+      {
+        name: "Bitcoin News",
+        feed: "https://www.reddit.com/r/bitcoin/.rss",
+        site: "https://www.reddit.com/r/bitcoin/",
+        about: "Subreddit for the discussion of Bitcoin 'The official source for CryptoCurrency News, Discussion & Analysis.'",
+        pic: "static/logos/TESTBTC.svg",
+      },
+    ],
+    coinartisttoken: [
+      {
         name: "Coin Artist Token Twitter",
         feed: "https://nitter.net/coin_artist/rss",
         site: "https://twitter.com/coin_artist",
         about: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
-        pic: "static/logos/Coin.svg",
+        pic: "static/logos/COIN.svg",
       },
     ],
-	uni: [
-	{
+    uni: [
+      {
         name: "Uniswap Twitter",
         feed: "https://nitter.net/UniswapProtocol/rss",
         site: "https://twitter.com/UniswapProtocol",
-        about: "the Uniswap Protocol token.",
-        pic: "static/logos/Uni.svg",
+        about: "The Uniswap Protocol token.",
+        pic: "static/logos/UNI.svg",
       },
     ],
+  },
 };
+
 export default {
   newssources,
 };

@@ -436,16 +436,21 @@ const coins = {
     slip: 160,
     addresses: [],
     api: [
-      "https://explorer.btx.zelcore.io/api/",
+      "explorer.btx.zelcore.io",
+    ],
+    proxy: [
+      "https://proxy.btx.zelcore.io/?server=127.0.0.1&port=55002&contype=tls&coin=bitcore&call=",
+      "https://proxy.grs.zelcore.io/?server=explorer.btx.zelcore.io&port=55002&contype=tls&coin=bitcore&call=",
     ],
     pathunix: "bitcore",
     path: "Bitcore",
     unit: "BTX",
     config: "bitcore",
-    rpcport: 8556,
-    testnetrpcport: 50332,
-    type: "btc",
+    rpcport: 9469,
+    testnetrpcport: 19469,
+    type: "electrum",
     explorer: [
+      "https://explorer.bitcore.cc/#/BTX/mainnet/tx/",
       "https://explorer.btx.zelcore.io/tx/",
     ],
     logolink: "static/logos/BTX.svg",
@@ -460,7 +465,7 @@ const coins = {
     },
     color: "#ed3483",
     backend: [
-      "insight",
+      "electrum",
     ],
   },
   hush: {
@@ -1602,9 +1607,9 @@ const coins = {
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 1,
-      normal: 5,
-      fast: 10,
+      economy: 20,
+      normal: 100,
+      fast: 180,
     },
     color: "#000000",
     backend: [
@@ -6923,6 +6928,7 @@ const coins = {
     normalAddress: "T",
     normalAddressB: "T",
     slip: 195,
+    decimals: 6,
     addresses: [],
     api: [
       "https://api.trongrid.io/",
@@ -6934,8 +6940,8 @@ const coins = {
     rpcport: 50051,
     type: "tron",
     explorer: [
-      "https://www.trxplorer.io/tx/",
       "https://tronscan.org/#/transaction/",
+      "https://www.trxplorer.io/tx/",
     ],
     logolink: "static/logos/TRX.svg",
     node: [
@@ -6963,7 +6969,8 @@ const coins = {
     wif: "9e",
     normalAddress: "T",
     normalAddressB: "T",
-    coinNumber: "1002000",
+    contractOrNumber: "1002000",
+    decimals: 6,
     addresses: [],
     api: [
       "https://api.trongrid.io/",
@@ -6975,8 +6982,8 @@ const coins = {
     rpcport: 50051,
     type: "tron",
     explorer: [
-      "https://www.trxplorer.io/tx/",
       "https://tronscan.org/#/transaction/",
+      "https://www.trxplorer.io/tx/",
     ],
     logolink: "static/logos/BTT.svg",
     node: [
@@ -8663,6 +8670,46 @@ const coins = {
       "infura",
     ],
   },
+  genesistron: {
+    coin: "genesistron",
+    name: "Genesis TRC20",
+    uri: [
+      "genesis",
+      "genesisnetwork",
+      "genx",
+    ],
+    pubKeyHash: "1e",
+    scriptHash: "16",
+    wif: "9e",
+    normalAddress: "T",
+    normalAddressB: "T",
+    contractOrNumber: "TY7pG4ABFjRcnAHmJJc2xAaarGEU753LxG",
+    decimals: 8,
+    addresses: [],
+    api: [
+      "https://api.trongrid.io/",
+    ],
+    unit: "GENX",
+    type: "tron",
+    explorer: [
+      "https://tronscan.org/#/transaction/",
+      "https://trxplorer.io/tx/",
+    ],
+    logolink: "static/logos/GENX_TRC20.svg",
+    node: [
+      "https://api.trongrid.io/",
+    ],
+    fee: 0.1,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 20,
+    },
+    color: "#324857",
+    backend: [
+      "tron",
+    ],
+  },
   om: {
     coin: "om",
     name: "Mantra Dao",
@@ -8705,13 +8752,63 @@ const coins = {
     backend: [
       "infura",
     ],
-   },
-   coinartisttoken: {
+  },
+  testnetbitcoin: {
+    coin: "testnetbitcoin",
+    name: "Testnet Bitcoin",
+    uri: [
+      "testnetbitcoin",
+      "tbtc",
+      "bitcointestnet",
+      "testbtc",
+    ],
+    pubKeyHash: "6f",
+    scriptHash: "c4",
+    normalAddress: "m",
+    scriptAddress: "2",
+    normalAddressB: "n",
+    scriptAddressB: "2",
+    wif: "ef",
+    slip: 1,
+    addresses: [],
+    api: [],
+    blockbook: [
+      "https://tbtc1.trezor.io/api/",
+      "https://tbtc2.trezor.io/api/",
+    ],
+    pathunix: "testnetbitcoin",
+    path: "Testnet Bitcoin",
+    unit: "TESTBTC",
+    config: "testnetbitcoin",
+    rpcport: 8332,
+    testnetrpcport: 18332,
+    type: "blockbook",
+    explorer: [
+      "https://tbtc1.trezor.io/tx/",
+      "https://tbtc2.trezor.io/tx/",
+    ],
+    logolink: "static/logos/TESTBTC.svg",
+    node: [
+      "tbtc1.trezor.io",
+      "tbtc2.trezor.io",
+    ],
+    fee: 0.0000226,
+    feepolicy: {
+      economy: 20,
+      normal: 100,
+      fast: 180,
+    },
+    color: "#f7931a",
+    backend: [
+      "blockbook",
+    ],
+  },
+  coinartisttoken: {
     coin: "coinartisttoken",
     name: "Coin Artist Token",
     uri: [
       "coinartisttoken",
-      "coinartisttoken",
+      "coin",
     ],
     addresses: [],
     api: [
@@ -8722,7 +8819,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/Coin.svg",
+    logolink: "static/logos/COIN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8748,8 +8845,8 @@ const coins = {
     backend: [
       "infura",
     ],
-   },
-   uni: {
+  },
+  uni: {
     coin: "uni",
     name: "Uniswap",
     uri: [
@@ -8765,7 +8862,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/Uni.svg",
+    logolink: "static/logos/UNI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8791,7 +8888,7 @@ const coins = {
     backend: [
       "infura",
     ],
-   },
+  },
 };
 export default {
   coins,
