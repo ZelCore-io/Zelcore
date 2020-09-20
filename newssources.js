@@ -1935,6 +1935,33 @@ const newssources = {
         pic: "static/logos/OM.svg",
       },
     ],
+    testnetbitcoin: [
+      {
+        name: "Bitcoin News",
+        feed: "https://www.reddit.com/r/bitcoin/.rss",
+        site: "https://www.reddit.com/r/bitcoin/",
+        about: "Subreddit for the discussion of Bitcoin 'The official source for CryptoCurrency News, Discussion & Analysis.'",
+        pic: "static/logos/TESTBTC.svg",
+      },
+    ],
+    coinartisttoken: [
+      {
+        name: "Coin Artist Token Twitter",
+        feed: "https://nitter.net/coin_artist/rss",
+        site: "https://twitter.com/coin_artist",
+        about: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
+        pic: "static/logos/COIN.svg",
+      },
+    ],
+    uni: [
+      {
+        name: "Uniswap Twitter",
+        feed: "https://nitter.net/UniswapProtocol/rss",
+        site: "https://twitter.com/UniswapProtocol",
+        about: "The Uniswap Protocol token.",
+        pic: "static/logos/UNI.svg",
+      },
+    ],
   },
 };
 

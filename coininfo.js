@@ -9096,6 +9096,94 @@ const coininfo = {
       },
     },
   },
+  coinartisttoken: {
+  description: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
+    total_supply: 3470000,
+    circulating_supply: ,
+    links: {
+      homepage: [
+        "https://medium.com/@coin_artist_17801",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/address/0x87b008e57f640d94ee44fd893f0323af933f9195",
+        "https://ethplorer.io/address/0x87b008e57f640d94ee44fd893f0323af933f9195",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/coin_artist",
+        "https://medium.com/@coin_artist_17801",
+      ],
+      twitter_screen_name: "https://twitter.com/coin_artist",
+      facebook_username: "https://www.facebook.com/coindefi/",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2381017.0",
+      telegram_channel_identifier: "https://t.me/CoinAnnouncements",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  uni: {
+  description: "the Uniswap Protocol token.",
+    total_supply: 1000000000,
+    circulating_supply: 59761093,
+    links: {
+      homepage: [
+        "https://uniswap.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "https://ethplorer.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984?from=search",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/UniswapProtocol",
+        "https://uniswap.org/blog/",
+      ],
+      twitter_screen_name: "https://twitter.com/UniswapProtocol",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: https://www.reddit.com/r/UniSwap/,
+      repos_url: {
+        github: [
+          "https://github.com/Uniswap",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
