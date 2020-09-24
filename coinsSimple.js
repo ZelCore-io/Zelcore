@@ -8889,7 +8889,8 @@ const coins = {
       "infura",
     ],
   },
-}; test 
+}; 
+
 export default {
   coins,
 };
