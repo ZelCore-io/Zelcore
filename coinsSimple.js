@@ -8926,7 +8926,7 @@ const coins = {
       normal: 10,
       fast: 20,
     },
-    color: "#eb0029",
+    color: "#b0170d",
     backend: [
       "tron",
     ],
