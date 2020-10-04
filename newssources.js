@@ -1962,6 +1962,15 @@ const newssources = {
         pic: "static/logos/UNI.svg",
       },
     ],
+	jst: [
+      {
+        name: "Just Twitter",
+        feed: "https://nitter.net/DeFi_JUST/rss",
+        site: "https://twitter.com/DeFi_JUST",
+        about: "JUST is committed to developing TRON-based DeFi protocols and aims to provide all-in-one financial solutions to its users."
+        pic: "static/logos/JST.svg",
+      },
+	],
   },
 };
 
