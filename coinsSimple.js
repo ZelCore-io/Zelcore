@@ -8889,7 +8889,49 @@ const coins = {
       "infura",
     ],
   },
-};
+  jst: {
+    coin: "jst",
+    name: "JUST",
+    uri: [
+      "jst",
+    ],
+    pubKeyHash: "1e",
+    scriptHash: "16",
+    wif: "9e",
+    normalAddress: "T",
+    normalAddressB: "T",
+    slip: 195,
+    decimals: 18,
+    addresses: [],
+    api: [
+      "https://api.trongrid.io/",
+    ],
+    pathunix: "jst",
+    path: "Just",
+    unit: "JST",
+    config: "tron",
+    rpcport: 50051,
+    type: "tron",
+    explorer: [
+      "https://tronscan.org/#/transaction/",
+      "https://www.trxplorer.io/tx/",
+    ],
+    logolink: "static/logos/JST.svg",
+    node: [
+      "https://api.trongrid.io/",
+    ],
+    fee: 0,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 20,
+    },
+    color: "#b0170d",
+    backend: [
+      "tron",
+    ],
+  },
+}; 
 export default {
   coins,
 };

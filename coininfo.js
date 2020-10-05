@@ -9184,6 +9184,54 @@ const coininfo = {
       },
     },
   },
+  jst: {
+    description: "JUST is committed to developing TRON-based DeFi protocols and aims to provide all-in-one financial solutions to its users.",
+    total_supply: 9900000000,
+    circulating_supply: 1433850000,
+    links: {
+      homepage: [
+        "https://www.just.network/#/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://tronscan.org/",
+        "https://www.trxplorer.io/",
+        "https://trx.tokenview.com/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/DeFi_JUST",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/just_defi",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "",
+          "",
+          "",
+          "",
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
