@@ -8964,6 +8964,50 @@ const coininfo = {
       },
     },
   },
+  toshi: {
+    description: "Toshimon is a browser-based video game that uses NFT trading cards as in-game items. TOSHI is the governance token for ToshiDAO, a Toshimon community DAO that rewards members with NFTs for participation in governance and manages the Ethereum-collateralized Toshi Fund.",
+    total_supply: 100000,
+    circulating_supply: 100000,
+    links: {
+      homepage: [
+        "https://www.toshimon.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
+        "https://ethplorer.io/address/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://twitter.com/Toshimon_",
+        "https://medium.com/@Toshimon",
+      ],
+      twitter_screen_name: "https://twitter.com/Toshimon_",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Toshimon",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   wbtc: {
     description: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
     total_supply: 21000000,
