@@ -1953,6 +1953,15 @@ const newssources = {
         pic: "static/logos/COIN.svg",
       },
     ],
+    toshi: [
+      {
+        name: "Toshimon Twitter",
+        feed: "https://nitter.net/Toshimon_/rss",
+        site: "https://twitter.com/Toshimon_",
+        about: "Toshimon Governance Token",
+        pic: "static/logos/TOSHI.svg",
+      },
+    ],	  
     uni: [
       {
         name: "Uniswap Twitter",
@@ -1970,7 +1979,8 @@ const newssources = {
         about: "JUST is committed to developing TRON-based DeFi protocols and aims to provide all-in-one financial solutions to its users."
         pic: "static/logos/JST.svg",
       },
-	],
+    ],
+	  
   },
 };
 
