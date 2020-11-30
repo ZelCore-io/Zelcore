@@ -233,7 +233,7 @@ export default {
     warning_usdt_is_btc: "Advertencia: la conexión es un token de Bitcoin y, por lo tanto, requiere que BTC realice una transacción. Además de las tarifas de transacción de Bitcoin, 0.000006 BTC tiene que ser "
                          + "enviado a la dirección de destino como un requisito de la red Bitcoin. El proceso de envío tarda unos segundos y puede demorar unos minutos para "
                          + "una transacción para ser visible en Omni Explorer y aún más para ser mostrada en la tabla de transacciones, por favor sea paciente. La transacción se ve instantáneamente en su billetera de Bitcoin ZelCore",
-    warning_monero_fee: "Advertencia: la tarifa de Monero no se conoce antes de la creación de la transacción, esto es solo una aproximación. La creación de la transacción demora unos segundos",
+    warning_monero_fee: "Advertencia: la tarifa de {coinname} no se conoce antes de la creación de la transacción, esto es solo una aproximación. La creación de la transacción demora unos segundos",
     edit: "Editar",
     delete: "Eliminar",
     show_in_explorer: "Mostrar en el explorador",
@@ -533,7 +533,6 @@ export default {
     full_node_encryption_message: "ZelCore cifra de forma predeterminada el archivo wallet.dat de su nodo completo. Esto hace que el archivo wallet.dat se asocie solo con una cuenta de ZelCore y el cifrado también impide que otras personas accedan a su billetera. "
     + "Sin embargo, no se puede acceder a su nodo completo wallet.dat desde otro software de cartera que no sea ZelCore, como ZELmate. Si el cifrado está deshabilitado, wallet.dat se comparte entre todas las cuentas de ZelCore y también otros programas de billetera.",
 
-
     // Exchange.vue
     decentralized_exchange_coming_soon: "Intercambios",
     zel_ex_info: "Este es un centro para todas las soluciones de intercambio integradas actualmente disponibles en ZelCore",
@@ -603,7 +602,6 @@ export default {
     error_obtaining_minimum_trade: "Error al obtener la cantidad mínima posible para el comercio",
     error_obtaining_probable_ex_amount: "Error al obtener el monto de intercambio probable",
 
-
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML / KYC.",
     changelly: "Changelly",
@@ -672,7 +670,6 @@ export default {
     sapling_spend_parameter_verified: "Se verificó el parámetro de gasto de muestreo",
     sapling_output_parameter_fail: "Fallo en la comprobación del parámetro de salida del corte, redownloading",
     sapling_output_parameter_verified: "Se verificó el parámetro de salida de muestreo",
-
 
     // Tooltips and script text
     auto_updates_disabled: "Las actualizaciones automáticas de ZelCore están deshabilitadas. ¡Su versión puede estar desactualizada!",
@@ -1076,7 +1073,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import walllet",
+    import_wallet: "Import wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

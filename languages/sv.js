@@ -147,7 +147,7 @@ export default {
     warning_usdt_is_btc: "Varning: Tether är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara "
       + "skickat till destinationsadressen som ett Bitcoin nätverkskrav. Sändning av proccess tar några sekunder och det kan ta upp till några minuter för "
       + "en transaktion som är synlig på Omni Explorer och ännu mer att visas i transaktionstabellen, var tålmodig! Transaktionen är direkt synlig i din Bitcoin ZelCore plånbok.",
-    warning_monero_fee: "Varning: Monero avgiften är inte känd före transaktionsupprättandet, det här är bara en uppskattning. Transaktionsskapande tar några sekunder.",
+    warning_monero_fee: "Varning: {coinname} avgiften är inte känd före transaktionsupprättandet, det här är bara en uppskattning. Transaktionsskapande tar några sekunder.",
     edit: "Redigera",
     delete: "Radera",
     show_in_explorer: "Visa i explorer",
@@ -241,7 +241,6 @@ export default {
     approval_has_failed: "Godkännandet har misslyckats.",
     outgoing_transaction_approval: "Godkännande av utgående transaktion",
     my_receiving_address: "Min mottagnings adress",
-
 
     // Exchanges spec dialog
     changelly_aml_kys: "Changelly AML/KYC.",

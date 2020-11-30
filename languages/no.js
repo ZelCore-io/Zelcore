@@ -232,7 +232,7 @@ export default {
     warning_usdt_is_btc: "Advarsel: Tether er et Bitcoin-token og krever at BTC skal utføre en transaksjon. I tillegg til Bitcoin-transaksjonsgebyr må 0.000006 BTC være "
                          + "sendt til destinasjonsadressen som et Bitcoin nettverkskrav. Sendingsprosessen tar noen sekunder, og det kan ta opptil noen få minutter for "
                          + "En transaksjon som er synlig på Omni Explorer og enda mer å bli vist i transaksjonstabell, vær så tålmodig! Transaksjonen er umiddelbart synlig i din Bitcoin ZelCore-lommebok.",
-    warning_monero_fee: "Advarsel: Monero-avgift er ikke kjent før transaksjonsopprettelsen, dette er bare en tilnærming. Transaksjonsopprettelse tar noen sekunder.",
+    warning_monero_fee: "Advarsel: {coinname}-avgift er ikke kjent før transaksjonsopprettelsen, dette er bare en tilnærming. Transaksjonsopprettelse tar noen sekunder.",
     edit: "Rediger",
     delete: "Slett",
     show_in_explorer: "Show in explorer",
@@ -527,7 +527,6 @@ export default {
     full_node_encryption_message: "ZelCore krypterer som standard filen din fullverdige wallet.dat-fil. Dette gjør at wallet.dat-filen bare er tilknyttet en ZelCore-konto, og kryptering forhindrer også andre personer da du får tilgang til lommeboken din. "
     + "Men fullkoden wallet.dat kan ikke nås fra annen wallet-programvare enn ZelCore som ZELmate. Hvis kryptering er deaktivert, deles wallet.dat blant alle ZelCore-kontoer og også andre wallet-programmer.",
 
-
     // Exchange.vue
     desentralisert_exchange_coming_soon: "Utvekslinger",
     zel_ex_info: "Dette er et knutepunkt for alle integrerte utvekslingsløsninger som for øyeblikket er tilgjengelige i ZelCore.",
@@ -598,7 +597,6 @@ export default {
     error_obtaining_probable_ex_amount: "Feil ved å skaffe sannsynlig utvekslingsbeløp",
     selling_amount_higher_cryptowolf: "Selger beløpet er høyere enn CryptoWolf kan håndtere. Klikk på Max-knappen for å legge inn maksimalt tillatt salgsmengde.",
 
-
     // Utveksler spesifikk dialog
     changelly_aml_kys: "Changelly AML / KYC.",
     changelly: "Changelly",
@@ -667,7 +665,6 @@ export default {
     sapling_spend_parameter_verified: "Sapling spend parameter verified",
     sapling_output_parameter_fail: "Sapling output parameter kontroll mislykkes, redownloading",
     sapling_output_parameter_verified: "Sapling output parameter verified",
-
 
     // Verktøytips og skripttekst
     auto_updates_disabled: "ZelCore auto oppdateringer er deaktivert. Din versjon kan være utdatert!",
@@ -1071,7 +1068,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import walllet",
+    import_wallet: "Import wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

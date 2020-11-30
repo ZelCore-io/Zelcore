@@ -237,7 +237,7 @@ export default {
     warning_usdt_is_btc: "Varoitus: Tether on Bitcoin-tokeni ja vaatii siten BTC:n suorittamaan siirtotapahtuman. Bitcoin-siirtomaksun lisäksi määränpääosoitteeseen on lähetettävä 0,000006 BTC "
                          + "Bitcoin-verkon vaatimuksena. Lähetysprosessi kestää pari sekuntia, ja saattaa kestää muutaman minuutin, kunnes "
                          + "tapahtuma on näkyvissä Omni Explorerissa ja vielä kauemmin, ennenkuin se näkyy tapahtumataulukossa. Ole kärsivällinen! Siirto näkyy välittömästi Bitcoin ZelCore-lompakossasi.",
-    warning_monero_fee: "Varoitus: Monero-siirtomaksua ei tiedetä ennen siirron luomista, tämä on vain likiarvo. Siirron luominen kestää muutaman sekunnin.",
+    warning_monero_fee: "Varoitus: {coinname}-siirtomaksua ei tiedetä ennen siirron luomista, tämä on vain likiarvo. Siirron luominen kestää muutaman sekunnin.",
     warning_ripple: "Ripple siirtomaksu lasketaan automaattisesti verkon tilasta riippuen. Vie hetken, kunnes siirto näkyy siirtohistoriassa ja selaimessa.",
     edit: "Muokkaa",
     delete: "Poista",
@@ -534,7 +534,6 @@ export default {
     full_node_encryption: "Täydensolmun lompakon salaus",
     full_node_encryption_message: "ZelCore salaa oletusarvoisesti Täydensolmun wallet.dat-tiedostosi. Tämä linkittää wallet.dat-tiedoston vain yhteen ZelCore-tiliin ja salaus estää myös muita henkilöitä käyttämästä lompakkoasi. "
     + "Täydensolmun wallet.dat ei kuitenkaan ole muiden lompakko-ohjelmien (esim. ZELmate) kuin ZelCoren käytettävissä. Jos salaus on poistettu käytöstä, wallet.dat voidaan jakaa kaikkien ZelCore-tilien ja muiden lompakko-ohjelmistojen välillä.",
-
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Vaihtopörssit",
@@ -1221,8 +1220,8 @@ export default {
     zelplus_desc_two: "Lisäominaisuuksia lompakkoon, yksityisten avainten tuonti salkkuun, suuremmat maksuviestit ja kolme lisäosoitetta kaikille kolikoille.",
     zelplus_desc_three: "Enemmän kontrollia, allekirjoita ja todenna minkä tahansa osoitteesi omistajuus, vastaanota viimeisimmät uutiset ja varojen kehitys.",
     zelplus_desc_four: "Salkun Seuranta seurataksesi helposti varojesi kehitystä ja kauppojasi yhdellä silmäyksellä.",
-    economy_mode: "Eko-moodi",
-    economy_mode_message: "Eko-moodi poistaa käytöstä Uutissyötteen ja Markkinat. Tämä moodi suosii suorituskykyä ja tuo takaisin perinteisen lompakon käyttöliittymän.",
+    simple_mode: "Eko-moodi",
+    simple_mode_message: "Eko-moodi poistaa käytöstä Uutissyötteen ja Markkinat. Tämä moodi suosii suorituskykyä ja tuo takaisin perinteisen lompakon käyttöliittymän.",
     market_cap: "Markkinaosuus:",
     volume_day: "24h Voluumi:",
     circ_supply: "Kiertävämäärä:",

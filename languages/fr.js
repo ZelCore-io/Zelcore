@@ -234,7 +234,7 @@ export default {
     warning_usdt_is_btc: "Attention: Tether est un jeton Bitcoin et nécessite donc que BTC effectue une transaction. En outre, les frais de transaction Bitcoin, 0.000006 BTC, doivent être "
                          + "envoyé à l'adresse de destination selon les besoins du réseau Bitcoin. Le processus d'envoi prend quelques secondes et peut prendre jusqu'à quelques minutes pour "
                          + "une transaction devant être visible dans Omni Explorer et plus encore dans la table des transactions, veuillez patienter! La transaction est immédiatement visible dans votre portefeuille Bitcoin ZelCore.",
-    warning_monero_fee: "Attention: les frais Monero ne sont pas connus avant la création de la transaction, il ne s'agit que d'une approximation. La création d'une transaction prend quelques secondes.",
+    warning_monero_fee: "Attention: les frais {coinname} ne sont pas connus avant la création de la transaction, il ne s'agit que d'une approximation. La création d'une transaction prend quelques secondes.",
     edit: "Modifier",
     delete: "Supprimer",
     show_in_explorer: "Afficher dans l'explorateur",
@@ -532,7 +532,6 @@ export default {
     full_node_encryption_message: "ZelCore crypte par défaut votre fichier wallet.dat de nœud complet. Ainsi, le fichier wallet.dat est associé uniquement à un compte ZelCore et le cryptage empêche également d'autres personnes d'accéder à votre portefeuille. "
     + "Cependant, votre portefeuille complet wallet.dat ne peut pas être accédé depuis un logiciel de portefeuille autre que ZelCore tel que ZELmate. Si le cryptage est désactivé, wallet.dat est partagé entre tous les comptes ZelCore et les autres logiciels de portefeuille.",
 
-
     // Exchange.vue
     decentrized_exchange_coming_soon: "Echanges",
     zel_ex_info: "Il s'agit d'un hub pour toutes les solutions d'échange intégrées actuellement disponibles dans ZelCore.",
@@ -602,7 +601,6 @@ export default {
     error_obtaining_minimum_trade: "Erreur lors de l'obtention du montant minimum possible pour échanger",
     error_obtaining_probable_ex_amount: "Erreur lors de l'obtention du montant d'échange probable",
 
-
     // dialogue spécifique aux échanges
     changelly_aml_kys: "Changelly AML/KYC.",
     changelly: "Changelly",
@@ -671,7 +669,6 @@ export default {
     sapling_spend_parameter_verified: "Le paramètre de dépense du sapling a été vérifié",
     sapling_output_parameter_fail: "Echec de la vérification du paramètre de sortie du sapling, le téléchargement redémarre",
     sapling_output_parameter_verified: "Paramètre de sortie du sapling vérifié",
-
 
     // Infobulles et texte de script
     auto_updates_disabled: "Les mises à jour automatiques de ZelCore sont désactivées. Votre version est peut-être obsolète!",
@@ -1208,8 +1205,8 @@ export default {
     zelplus_desc_two: "Fonctionnalités supplémentaires pour le portefeuille, importation de clés privées dans le portefeuille, bons de paiement et trois adresses supplémentaires pour chaque actif.",
     zelplus_desc_three: "Plus de contrôle, signer et prouver la propriété de l’une de vos adresses, obtenir les dernières nouvelles et les performances des actifs.",
     zelplus_desc_four: "Un outil de suivi du portefeuille pour vous aider à garder une trace des avoirs et des transactions en un coup d'œil.",
-    economy_mode: "Mode économie",
-    economy_mode_message: "Le mode économie désactive l'agrégation d'actualités et de marchés. Ce mode favorise les performances en apportant une interface portefeuille classique.",
+    simple_mode: "Mode économie",
+    simple_mode_message: "Le mode économie désactive l'agrégation d'actualités et de marchés. Ce mode favorise les performances en apportant une interface portefeuille classique.",
     market_cap: "Capitalisation boursière:",
     volume_day: "Volume 24h:",
     circ_supply: "Actifs en circulation:",

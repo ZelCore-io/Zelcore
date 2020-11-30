@@ -234,7 +234,7 @@ export default {
     warning_usdt_is_btc: "Warnung: Tether ist ein Bitcoin Token und bedarf daher BTC zur Ausführung einer Transaktion. Zusätzlich zu Bitcoin Transaktionsgebühren müssen 0.000006 BTC "
                          + "an die Zieladresse als Auflage des Bitcoin Netzwerks gesendet werden. Sendeprozess dauert einige Sekunden und es könnte bis zu einigen Minuten dauern bis "
                          + "eine Transaktion auf dem Omni Explorer sichtbar wird und sogar länger bis diese in der Transaktionstabelle angezeigt wird, bitte seien Sie geduldig! Transaktion ist sofort sichtbar in Ihrer Bitcoin ZelCore Wallet.",
-    warning_monero_fee: "Warnung: Monero Gebühr ist nicht vor Erstellung der Transaktion bekannt, es handelt sich um eine Näherung. Erstellung der Transaktion braucht wenige Sekunden.",
+    warning_monero_fee: "Warnung: {coinname} Gebühr ist nicht vor Erstellung der Transaktion bekannt, es handelt sich um eine Näherung. Erstellung der Transaktion braucht wenige Sekunden.",
     edit: "Bearbeiten",
     delete: "Löschen",
     show_in_explorer: "Zeige in Explorer",
@@ -522,7 +522,6 @@ export default {
     d2fa_is_not_aktiviert_yet: "d2FA ist noch nicht aktiviert. Easy Login kann nicht gesetzt werden.",
     language: "Sprache",
 
-
     // Exchange.vue
     decentralized_exchange_coming_soon: "Exchanges",
     zel_ex_info: "Dies ist ein Hub für alle integrierte Exchange-Lösungen, die aktuell in ZelCore verfügbar sind.",
@@ -592,7 +591,6 @@ export default {
     error_obtaining_minimum_trade: "Fehler bei Abruf des minimal möglichen Handelsbetrags",
     error_obtaining_probable_ex_amount: "Fehler bei Abruf des portabelen Umwechselbetrags",
 
-
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML/KYC.",
     changelly: "Changelly",
@@ -661,7 +659,6 @@ export default {
     sapling_spend_parameter_verified: "Sapling Spend-Parameter überprüft",
     sapling_output_parameter_fail: "Prüfung Sapling Output-Parameter fehlgeschlagen, lade erneut herunter",
     sapling_output_parameter_verified: "Sapling Output-Parameter überprüft",
-
 
     // Tooltips and scipt text
     auto_updates_disabled: "ZelCore Auto-Updates sind deaktiviert. Ihre Version könnte veraltet sein!",
@@ -1066,7 +1063,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import walllet",
+    import_wallet: "Import wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

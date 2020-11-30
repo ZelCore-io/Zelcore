@@ -277,7 +277,7 @@ export default {
     warning_usdt_is_btc: "Предупреждение: Tether - это биткойн-токен, поэтому для выполнения транзакции требуется BTC. В дополнение к комиссии за транзакции в биткойнах, необходимо внести 0,000006 BTC "
             + "отправлено по адресу назначения в качестве требования сети Биткойн. Процесс отправки занимает пару секунд и может занять до нескольких минут "
             + "транзакция должна отображаться в Omni Explorer и даже больше отображаться в таблице транзакций, наберитесь терпения! Транзакция мгновенно видна в вашем кошельке Bitcoin ZelCore.",
-    warning_monero_fee: "Предупреждение: плата Monero не известна до создания транзакции, это только приблизительное значение. Создание транзакции занимает несколько секунд.",
+    warning_monero_fee: "Предупреждение: плата {coinname} не известна до создания транзакции, это только приблизительное значение. Создание транзакции занимает несколько секунд.",
     warning_ripple: "Комиссия за транзакции XRP рассчитывается автоматически в зависимости от состояния сети. Требуется некоторое время, чтобы транзакции были видны в истории транзакций и в проводнике.",
     warning_neo: "Транзакции занимают несколько секунд, они появятся в истории транзакций и проводнике практически мгновенно",
     edit: "Редактировать",
@@ -526,7 +526,7 @@ export default {
     confirm_zelnode_status: "Please confirm your ZelNode status on the ZelNode server or on the Zel explorer.",
     zelnode_missing_status: "Your ZelNode might show as missing in ZelCore because it takes some time for a ZelNode to propagate it's status to the network.",
     please_follow_up_with: "Пожалуйста, свяжись с",
-    startzelnode_local_false: "запуск локальной zelnode неудачен",
+    startzelnode_local_false: "запуск локальной ZelNode неудачен",
     on_your_server: "на вашем сервере",
     zelnode_setup_guide: "Руководство по установке ZelNode",
     continue_zelnode_setup: "Продолжить установку ZelNode",
@@ -1469,8 +1469,8 @@ export default {
     zelplus_desc_two: "Extra wallet features, importing private keys in portfolio, larger payment notes and three additional addresses for each asset.",
     zelplus_desc_three: "More control, sign and prove ownership of any of your addresses, get the latest news and asset performance.",
     zelplus_desc_four: "A portfolio tracker to help keep track of holdings and trades at a glance.",
-    economy_mode: "Economy mode",
-    economy_mode_message: "Economy mode disables news aggregation and market data. This reduces data usage and is ideal for slower systems.",
+    simple_mode: "Economy mode",
+    simple_mode_message: "Economy mode disables news aggregation and market data. This reduces data usage and is ideal for slower systems.",
     market_cap: "Капитализация:",
     volume_day: "Объём торгов за 24 часа:",
     circ_supply: "Монет в обращении:",

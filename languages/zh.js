@@ -232,7 +232,7 @@ export default {
     warning_usdt_is_btc: "警告：Tether是比特币代币因此需要BTC执行交易。除了比特币交易费，0.000006 BTC必须 \n"
                          + "作为比特币网络要求发送到目的地地址。发送过程需要几秒钟，可能需要几分钟时间 \n"
                          + "一个在Omni 浏览器上可见的交易，甚至更多要在交易表中显示，请耐心等待！您可以在比特币ZelCore钱包中立即看到交易。",
-    warning_monero_fee: "警告：在创建交易之前不知道Monero费用，这只是一个近似值。创建交易需要几秒钟。",
+    warning_monero_fee: "警告：在创建交易之前不知道{coinname}费用，这只是一个近似值。创建交易需要几秒钟。",
     edit: "编辑",
     delete: "删除",
     show_in_explorer: "在浏览器里显示",
@@ -518,7 +518,6 @@ export default {
     d2fa_is_not_activated_yet: "d2FA尚未启动。无法设置快捷登录。",
     language: "语言",
 
-
     // Exchange.vue
     decentralized_exchange_coming_soon: "交易",
     zel_ex_info: "这是ZelCore目前提供的所有集成交易解决方案的中心。",
@@ -588,7 +587,6 @@ export default {
     error_obtaining_minimum_trade: "获取最低交易金额时出错",
     error_obtaining_probable_ex_amount: "获取预计的交易金额时出错",
 
-
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML/KYC.",
     changelly: "Changelly",
@@ -657,7 +655,6 @@ export default {
     sapling_spend_parameter_verified: "Sapling spend参数检查成功",
     sapling_output_parameter_fail: "Sapling 输出参数检查失败，重新下载中",
     sapling_output_parameter_verified: "Sapling输出参数检查成功",
-
 
     // Tooltips and scipt text
     auto_updates_disabled: "ZelCore自动更新已停用。你的版本可能已经过时了！",
@@ -1189,8 +1186,8 @@ export default {
     zelplus_desc_two: "更多钱包特色, 导入私匙到投资组合里, 付款备注，还有对应每个资产额外的三个地址.",
     zelplus_desc_three: "有更多的控制权, 签字和证明你拥有的每个地址，获得最新的行业消息和投资表现.",
     zelplus_desc_four: "投资组合跟踪能跟踪投资组合表现，也能很容易的交易.",
-    economy_mode: "环保模式",
-    economy_mode_message: "环保模式下，停止运行新闻和市场两个功能。这个模式更强调传统的钱包模式.",
+    simple_mode: "环保模式",
+    simple_mode_message: "环保模式下，停止运行新闻和市场两个功能。这个模式更强调传统的钱包模式.",
     market_cap: "市值:",
     volume_day: "24小时交易量:",
     circ_supply: "流通量:",

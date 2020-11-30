@@ -267,7 +267,7 @@ export default {
     warning_usdt_is_btc: "Attenzione: Tether è un token Bitcoin Omni layer e perciò richiede che BTC esegua una transazione. In aggiunta alle commissioni di BTC, devono essere inviati 0.000006 BTC \n"
                          + "all’indirizzo destinatario come un requisito della rete Bitcoin. Il processo di invio tarda un paio di secondi, potrebbe tardare qualche minuto per \n"
                          + "essere visibile nell’Omni Explorer e anche di più per apparire nella tabella delle transazioni, per favore sii paziente! La transazione è visibile istantaneamente nel tuo portafogli Bitcoin ZelCore.",
-    warning_monero_fee: "Attenzione: Le commissioni di Monero non sono conosciute prima della creazione della transazione, questa è solo una approssimazione. La creazione della transazione tarda pochi secondi. Le transazioni non \n"
+    warning_monero_fee: "Attenzione: Le commissioni di {coinname} non sono conosciute prima della creazione della transazione, questa è solo una approssimazione. La creazione della transazione tarda pochi secondi. Le transazioni non \n"
                          + "confermate non sono mostrate correttamente nella tabella delle transazioni e potrebbero non riflette il tuo saldo.",
     warning_ripple: "Le commissioni di Ripple sono calcolate automaticamente dipendendo dalla rete. Ci vuole un pò di tempo prima che la transazione sia visibile nella cronologia e sull’explorer.",
     warning_neo: "Le transazioni tardano qualche secondo ad apparire sulla tabella di transazioni e ad essere mostrate sull’explorer",
@@ -358,12 +358,12 @@ export default {
     ipaddress: "IP",
     output_txid: "Output TX ID",
     output_index: "Output Index",
-    delete_zelnode_info: "Stai per eliminare l’alias zelnode {zelnodeAlias} dal file di configurazione. "
+    delete_zelnode_info: "Stai per eliminare l’alias ZelNode {zelnodeAlias} dal file di configurazione. "
       + "Il tuo Full Node si riavvierà per applicare i cambiamenti e sbloccare l’importo del zelnode.",
     yes_delete_zelnode: "Si, elimina ZelNode",
     delete_zelnode: "Elimina ZelNode",
     edit_zelnode: "Modifica ZelNode",
-    edit_zelnode_info: "Modifica file di configurazione zelnode per {zelnodeAlias}. "
+    edit_zelnode_info: "Modifica file di configurazione ZelNode per {zelnodeAlias}. "
       + "Il tuo portafoglio Full Node si riavvierà per applicare questo cambio.",
 
     // zelnodes dialog
@@ -1412,8 +1412,8 @@ export default {
     zelplus_desc_two: "Funzionalità extra del portafoglio, importazione di chiavi private nel portafoglio, note di pagamento più grandi e tre indirizzi aggiuntivi per ogni Asset.",
     zelplus_desc_three: "Maggiore controllo, firma e dimostra la proprietà di qualsiasi tuo indirizzo, ottieni le ultime notizie e le prestazioni degli asset.",
     zelplus_desc_four: "Un portfolio tracker per tenere traccia dei tuoi Assets e dei trade a colpo d'occhio.",
-    economy_mode: "Modalità Economy",
-    economy_mode_message: "La modalità Economy disabilita l'aggregazione delle notizie e i dati di mercato. Ciò riduce l'utilizzo dei dati ed è ideale per i sistemi più lenti.",
+    simple_mode: "Modalità Economy",
+    simple_mode_message: "La modalità Economy disabilita l'aggregazione delle notizie e i dati di mercato. Ciò riduce l'utilizzo dei dati ed è ideale per i sistemi più lenti.",
     market_cap: "Capitalizzazione di Mercato:",
     volume_day: "Volume 24h:",
     circ_supply: "Distribuzione Circolante:",

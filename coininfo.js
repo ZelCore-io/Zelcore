@@ -3521,12 +3521,12 @@ const coininfo = {
     },
   },
   zcoin: {
-    description: "Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. It is the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
+    description: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
     total_supply: 21400000,
     circulating_supply: 7388418.32977799,
     links: {
       homepage: [
-        "https://zcoin.io",
+        "https://firo.org/",
         "",
         "",
       ],
@@ -9096,10 +9096,55 @@ const coininfo = {
       },
     },
   },
+  testnetbitcoin: {
+    description: "This is Testnet of Bitcoin. Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://www.coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://www.coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://www.coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
+    total_supply: 21000000,
+    circulating_supply: 17675337,
+    links: {
+      homepage: [
+        "http://www.bitcoin.org",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://blockchair.com/bitcoin/blocks",
+        "https://blockchain.info/",
+        "https://live.blockcypher.com/btc/",
+        "https://bitcoinblockexplorers.com/",
+        "https://btc.tokenview.com/",
+      ],
+      official_forum_url: [
+        "https://bitcointalk.org/",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/btc",
+      facebook_username: "bitcoins",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/Bitcoin/",
+      repos_url: {
+        github: [
+          "https://github.com/bitcoin/bitcoin",
+          "https://github.com/bitcoin/bips",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   coinartisttoken: {
-  description: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
+    description: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
     total_supply: 3470000,
-    circulating_supply: ,
+    circulating_supply: 3470000,
     links: {
       homepage: [
         "https://medium.com/@coin_artist_17801",
@@ -9141,7 +9186,7 @@ const coininfo = {
     },
   },
   uni: {
-  description: "the Uniswap Protocol token.",
+    description: "the Uniswap Protocol token.",
     total_supply: 1000000000,
     circulating_supply: 59761093,
     links: {
@@ -9175,10 +9220,61 @@ const coininfo = {
       facebook_username: "",
       bitcointalk_thread_identifier: "",
       telegram_channel_identifier: "",
-      subreddit_url: https://www.reddit.com/r/UniSwap/,
+      subreddit_url: "https://www.reddit.com/r/UniSwap/",
       repos_url: {
         github: [
           "https://github.com/Uniswap",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  testnetropstenethereum: {
+    description: "Ropsten is Ethereum Testnet that mimicks Ethereum Mainnet functionality and serves as developers playground to test all features without actually playing with valuable coins. Ethereum is a <a href=\"https://www.coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://www.coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://www.coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://www.coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://www.coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://www.coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://www.coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
+    total_supply: null,
+    circulating_supply: 105881890.4366,
+    links: {
+      homepage: [
+        "https://www.ethereum.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/",
+        "https://ethplorer.io/",
+        "https://blockchair.com/ethereum",
+        "https://blockscout.com/eth/mainnet/",
+        "https://enjinx.io/",
+      ],
+      official_forum_url: [
+        "https://forum.ethereum.org/",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ethereum",
+      facebook_username: "ethereumproject",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=428589",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/ethereum",
+      repos_url: {
+        github: [
+          "https://github.com/ethereum/py-evm",
+          "https://github.com/ethereum/aleth",
+          "https://github.com/ethereum/web3.py",
+          "https://github.com/ethereum/solidity",
+          "https://github.com/ethereum/sharding",
+          "https://github.com/ethereum/casper",
+          "https://github.com/paritytech/parity",
+          "https://github.com/ethereum/go-ethereum",
         ],
         bitbucket: [],
       },
@@ -9226,6 +9322,49 @@ const coininfo = {
           "",
           "",
           "",
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  beldex: {
+    description: "BELDEX, a new cryptocurrency ecosystem has emerged with the sole purpose of resolving some of the key issues faced by the crypto world like privacy, liquidity, and usability.",
+    total_supply: 1500000000,
+    circulating_supply: 980222595,
+    links: {
+      homepage: [
+        "https://www.beldex.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.beldex.io/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://discord.gg/48VbpCW",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/BeldexCoin",
+      facebook_username: "https://www.facebook.com/1925045164460530",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5050775.0",
+      telegram_channel_identifier: "https://t.me/beldexcoin",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/Beldex-Coin",
           "",
         ],
         bitbucket: [],

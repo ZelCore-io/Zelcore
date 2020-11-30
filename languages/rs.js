@@ -232,7 +232,7 @@ export default {
     warning_usdt_is_btc: "Upozorenje: Tether je Bitcoin token i stoga zahteva od BTC-a da izvrši transakciju. Osim naknada za Bitcoin transakcije, 0,000006 BTC mora biti"
                          + "poslato na odredišnu adresu kao zahtev Bitcoin mreže. Postupak slanja traje nekoliko sekundi i može potrajati nekoliko minuta da"
                          + "bi transakcija bila vidljiva na Omni Exploreru, a još više da bude prikazana u tablici transakcija, budite strpljivi! Transakcija se odmah vidi u vašem Bitcoin ZelCore novčaniku.",
-    warning_monero_fee: "Upozorenje: Monero naknada nije poznata pre obavljanja transakcije, to je samo približna vrednost. Izrada transakcije traje nekoliko sekundi.",
+    warning_monero_fee: "Upozorenje: {coinname} naknada nije poznata pre obavljanja transakcije, to je samo približna vrednost. Izrada transakcije traje nekoliko sekundi.",
     edit: "Uredi",
     delete: "Izbriši",
     show_in_explorer: "Prikaži u istraživaču",
@@ -668,7 +668,6 @@ export default {
     sapling_output_parameter_fail: "Provera sapling izlaznog paramtera nije uspela, ponovno preuzimanje",
     sapling_output_parameter_verified: "Sapling izlazni parametar proveren",
 
-
     // Opisi i tekst skripte
     auto_updates_disabled: "ZelCore automatska ažuriranja su onemogućena. Vaša verzija možda je zastarela!",
     launches_a_fullnode_extended: "Pokreće full node sa proširenim funkcijama! Zbog šifrovanja koje koristi ZelCore, vaša sredstva neće biti dostupna u drugom full node-u, osim ZelCore-a. Full node je samo za napredne korisnike. Ako ne znate šta je full node, nemojte ga koristiti!",
@@ -1071,7 +1070,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import walllet",
+    import_wallet: "Import wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

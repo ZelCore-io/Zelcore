@@ -525,7 +525,6 @@ export default {
     d2fa_is_not_activated_yet: "Το d2FA δεν είναι ακόμα ενεργοποιημένο. Η Εύκολη Είσοδος δε μπορεί να ρυθμιστεί.",
     language: "Γλώσσα",
 
-
     // Exchange.vue
     decentralized_exchange_coming_soon: "Ανταλλακτήρια",
     zel_ex_info: "Αυτός είναι ένας κόμβος με όλα τα ανταλλακτήρια που είναι διαθέσιμα την στιγμή αυτη μέσα απο το Zelcore",
@@ -595,7 +594,6 @@ export default {
     error_obtaining_minimum_trade: "Σφάλμα κατά την λήψη του ελάχιστου δυνατού ποσού προς ανταλλαγή",
     error_obtaining_probable_ex_amount: "Σφάλμα κατά την λήψη του πιθανού ποσού ανταλλαγής",
 
-
     // Exchanges specific dialog
     changelly_aml_kys: "Changelly AML/KYC.",
     changelly: "Changelly",
@@ -664,7 +662,6 @@ export default {
     sapling_spend_parameter_verified: "Η παράμετρος ξοδέματος Sapling επαληθεύτηκε",
     sapling_output_parameter_fail: "Ο έλεγχος παραμέτρου εξόδου Sapling απέτυχε, η λήψη επαναλαμβάνεται",
     sapling_output_parameter_verified: "Η παράμετρος εξόδου Sapling επαληθεύτηκε",
-
 
     // Tooltips and scipt text
     auto_updates_disabled: "Οι αυτόματες ενημερώσεις του ZelCore είναι απενεργοποιημένες. Η έκδοση σας ίσως είναι παρωχημένη!",
@@ -1069,7 +1066,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import walllet",
+    import_wallet: "Import wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

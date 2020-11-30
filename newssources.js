@@ -413,11 +413,32 @@ const newssources = {
     ],
     zcoin: [
       {
-        name: "Zcoin Blog",
+        name: "Zcoin Medium",
         feed: "https://medium.com/feed/@zcoin",
         site: "https://medium.com/@zcoin",
-        about: "Zcoin, a decentralized and open source currency that provides financial privacy enabled by the Zerocoin protocol.",
-        pic: "static/logos/XZC.svg",
+        about: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
+        pic: "static/logos/FIRO.svg",
+      },
+      {
+        name: "Zcoin Medium 2",
+        feed: "https://medium.com/feed/@firo-financial-privacy",
+        site: "https://medium.com/@firo-financial-privacy",
+        about: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
+        pic: "static/logos/FIRO.svg",
+      },
+      {
+        name: "Zcoin Twitter",
+        feed: "https://nitter.net/zcoinofficial/rss",
+        site: "https://twitter.com/zcoinofficial",
+        about: "Official Zcoin Twitter.",
+        pic: "static/logos/FIRO.svg",
+      },
+      {
+        name: "Zcoin Twitter 2",
+        feed: "https://nitter.net/firoorg/rss",
+        site: "https://twitter.com/firoorg",
+        about: "Official Firo Twitter.",
+        pic: "static/logos/FIRO.svg",
       },
     ],
     usdt: [
@@ -1962,15 +1983,33 @@ const newssources = {
         pic: "static/logos/UNI.svg",
       },
     ],
-	jst: [
+    testnetropstenethereum: [
+      {
+        name: "Ethereum Reddit",
+        feed: "https://www.reddit.com/r/ethereum/.rss",
+        site: "https://www.reddit.com/r/ethereum/",
+        about: "Ethereum Reddit with the latest news and announcements",
+        pic: "static/logos/TESTETH.svg",
+      },
+    ],
+    jst: [
       {
         name: "Just Twitter",
         feed: "https://nitter.net/DeFi_JUST/rss",
         site: "https://twitter.com/DeFi_JUST",
-        about: "JUST is committed to developing TRON-based DeFi protocols and aims to provide all-in-one financial solutions to its users."
+        about: "JUST is committed to developing TRON-b  ased DeFi protocols and aims to provide all-in-one financial solutions to its users.",
         pic: "static/logos/JST.svg",
       },
-	],
+    ],
+    beldex: [
+      {
+        name: "Beldex Twitter",
+        feed: "https://nitter.net/BeldexCoin/rss",
+        site: "https://twitter.com/BeldexCoin",
+        about: "BELDEX, a new cryptocurrency ecosystem has emerged with the sole purpose of resolving some of the key issues faced by the crypto world like privacy, liquidity, and usability.",
+        pic: "static/logos/BDX.svg",
+      },
+    ],
   },
 };
 

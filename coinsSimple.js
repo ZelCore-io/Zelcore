@@ -113,6 +113,7 @@ const coins = {
     scriptAddress: "3",
     normalAddressB: "1",
     scriptAddressB: "3",
+    bech32Address: "bc1",
     wif: "80",
     slip: 0,
     addresses: [],
@@ -123,6 +124,10 @@ const coins = {
     ],
     blockbook: [
       "https://blockbook.btc.zelcore.io/api/",
+      "https://btc4.trezor.io/api/",
+      "https://btc3.trezor.io/api/",
+      "https://btc2.trezor.io/api/",
+      "https://btc1.trezor.io/api/",
     ],
     pathunix: "bitcoin",
     path: "Bitcoin",
@@ -130,10 +135,11 @@ const coins = {
     config: "bitcoin",
     rpcport: 8332,
     testnetrpcport: 18332,
-    type: "btc",
+    type: "blockbook",
     explorer: [
       "https://blockbook.btc.zelcore.io/tx/",
       "https://explorer.btc.zelcore.io/tx/",
+      "https://blockchair.com/bitcoin/transaction/",
       "https://insight.bitpay.com/tx/",
       "https://blockexplorer.com/tx/",
     ],
@@ -146,9 +152,9 @@ const coins = {
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 20,
-      normal: 100,
-      fast: 180,
+      economy: 22,
+      normal: 30,
+      fast: 55,
     },
     color: "#f7931a",
     backend: [
@@ -172,6 +178,7 @@ const coins = {
     type: "eth",
     explorer: [
       "https://etherscan.io/tx/",
+      "https://blockchair.com/ethereum/transaction/",
     ],
     logolink: "static/logos/ETH.svg",
     node: [
@@ -187,7 +194,6 @@ const coins = {
       "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
       "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
     ],
-    fee_url: "https://www.etherchain.org/api/gasPriceOracle",
     fee: 35000,
     feepolicy: {
       economy: 4,
@@ -214,6 +220,7 @@ const coins = {
     scriptAddress: "3",
     normalAddressB: "L",
     scriptAddressB: "M",
+    bech32Address: "ltc",
     wif: "b0",
     slip: 2,
     addresses: [],
@@ -224,6 +231,10 @@ const coins = {
     ],
     blockbook: [
       "https://blockbook.ltc.zelcore.io/api/",
+      "https://ltc4.trezor.io/api/",
+      "https://ltc3.trezor.io/api/",
+      "https://ltc2.trezor.io/api/",
+      "https://ltc1.trezor.io/api/",
     ],
     pathunix: "litecoin",
     path: "Litecoin",
@@ -231,10 +242,11 @@ const coins = {
     config: "litecoin",
     rpcport: 9332,
     testnetrpcport: 19332,
-    type: "btc",
+    type: "blockbook",
     explorer: [
       "https://blockbook.ltc.zelcore.io/tx/",
       "https://explorer.ltc.zelcore.io/tx/",
+      "https://blockchair.com/litecoin/transaction/",
       "https://insight.litecore.io/tx/",
       "https://litecoinblockexplorer.net/tx/",
     ],
@@ -247,9 +259,9 @@ const coins = {
     ],
     fee: 0.0004,
     feepolicy: {
-      economy: 200,
-      normal: 500,
-      fast: 1000,
+      economy: 22,
+      normal: 50,
+      fast: 80,
     },
     color: "#385d9a",
     backend: [
@@ -292,6 +304,7 @@ const coins = {
       "https://explorer.zec.zelcore.io/tx/",
       "https://explorer2.zecmate.com/tx/",
       "https://explorer.zecmate.com/tx/",
+      "https://blockchair.com/zcash/transaction/",
       "https://explorer.z.cash/tx/",
     ],
     logolink: "static/logos/ZEC.svg",
@@ -1168,6 +1181,7 @@ const coins = {
     scriptAddress: "A",
     normalAddressB: "G",
     scriptAddressB: "A",
+    bech32Address: "btg",
     wif: "80",
     slip: 156,
     addresses: [],
@@ -1479,10 +1493,11 @@ const coins = {
   },
   zcoin: {
     coin: "zcoin",
-    name: "Zcoin",
+    name: "Firo",
     uri: [
       "zcoin",
       "xzc",
+      "firo",
     ],
     pubKeyHash: "52",
     scriptHash: "07",
@@ -1500,7 +1515,7 @@ const coins = {
     ],
     pathunix: "zcoin",
     path: "Zcoin",
-    unit: "XZC",
+    unit: "FIRO",
     config: "zcoin",
     rpcport: 8888,
     testnetrpcport: 18888,
@@ -1510,7 +1525,7 @@ const coins = {
       "https://insight.zcoin.io/tx/",
       "https://explorer.zcoin.io/tx/",
     ],
-    logolink: "static/logos/XZC.svg",
+    logolink: "static/logos/FIRO.svg",
     node: [
       "explorer.zcoin.zelcore.io",
       "insight.zcoin.io",
@@ -1522,7 +1537,7 @@ const coins = {
       normal: 5,
       fast: 10,
     },
-    color: "#3fad54",
+    color: "#9b1c2e",
     backend: [
       "insight",
     ],
@@ -3631,6 +3646,7 @@ const coins = {
     type: "btc",
     explorer: [
       "https://explorer.dash.zelcore.io/tx/",
+      "https://blockchair.com/dash/transaction/",
       "https://insight.dash.org/insight/tx/",
       "https://explorer.mydashwallet.org/tx/",
     ],
@@ -3667,11 +3683,10 @@ const coins = {
     scriptAddressB: "7",
     nettype: 0,
     decimals: 12,
-    addressPrefix: 18,
     slip: 128,
     addresses: [],
     api: [
-      "https://zel.mymonero.com:8443",
+      "https://api.mymonero.com:8443",
     ],
     pathunix: "monero",
     path: "Monero",
@@ -3682,6 +3697,7 @@ const coins = {
     type: "cryptonight",
     explorer: [
       "https://explorer.xmr.zelcore.io/tx/",
+      "https://blockchair.com/monero/transaction/",
       "https://moneroblocks.info/tx/",
       "https://xmrchain.net/tx/",
     ],
@@ -4635,9 +4651,10 @@ const coins = {
     wif: "80",
     electrum: "groestlcoin",
     normalAddress: "F",
-    normalAddressB: "g",
+    normalAddressB: "F",
     scriptAddress: "3",
     scriptAddressB: "3",
+    bech32Address: "grs",
     slip: 17,
     addresses: [],
     api: [
@@ -4673,6 +4690,7 @@ const coins = {
     explorer: [
       "https://explorer.grs.zelcore.io/tx/",
       "https://groestlsight.groestlcoin.org/tx/",
+      "https://blockchair.com/groestlcoin/transaction/",
     ],
     logolink: "static/logos/GRS.svg",
     node: [
@@ -6303,10 +6321,12 @@ const coins = {
     type: "ripple",
     explorer: [
       "https://xrpscan.com/tx/",
+      "https://blockchair.com/ripple/transaction/",
     ],
     logolink: "static/logos/XRP.svg",
     node: [
       "wss://s1.ripple.com",
+      "wss://s2.ripple.com",
     ],
     fee: 0.00002,
     feepolicy: {
@@ -6569,6 +6589,7 @@ const coins = {
     type: "eos",
     explorer: [
       "https://eosflare.io/tx/",
+      "https://blockchair.com/eos/transaction/",
       "https://www.eosx.io/tx/",
       "https://eospark.com/tx/",
     ],
@@ -6633,6 +6654,7 @@ const coins = {
     type: "electrum",
     explorer: [
       "https://explorer.doge.zelcore.io/tx/",
+      "https://blockchair.com/dogecoin/transaction/",
       "http://dogechain.info/tx/",
     ],
     logolink: "static/logos/DOGE.svg",
@@ -6640,11 +6662,11 @@ const coins = {
       "explorer.doge.zelcore.io",
       "dogechain.info",
     ],
-    fee: 0,
+    fee: 2,
     feepolicy: {
-      economy: 5,
-      normal: 10,
-      fast: 20,
+      economy: 100000,
+      normal: 400000,
+      fast: 1000000,
     },
     color: "#ba9f33",
     backend: [
@@ -6666,6 +6688,7 @@ const coins = {
     normalAddressB: "D",
     scriptAddress: "S",
     scriptAddressB: "S",
+    bech32Address: "dgb",
     slip: 20,
     addresses: [],
     api: [
@@ -6867,8 +6890,8 @@ const coins = {
     fee: 1,
     feepolicy: {
       economy: 0,
-      normal: 0,
-      fast: 1,
+      normal: 0.0001,
+      fast: 0.01,
     },
     color: "#58BF00",
     decimals: 4,
@@ -6896,6 +6919,7 @@ const coins = {
     type: "stellar",
     explorer: [
       "https://stellarscan.io/transaction/",
+      "https://blockchair.com/stellar/transaction/",
       "https://steexp.com/tx/",
       "https://stellarchain.io/tx/",
     ],
@@ -7284,11 +7308,12 @@ const coins = {
     node: [
       "http://dappnode1.ont.io:20334/",
     ],
-    fee: 0.04,
+    decimals: 0,
+    fee: 20000,
     feepolicy: {
-      economy: 5,
-      normal: 10,
-      fast: 20,
+      economy: 2500,
+      normal: 3000,
+      fast: 5000,
     },
     color: "#489ED7",
     backend: [
@@ -7319,11 +7344,12 @@ const coins = {
     node: [
       "http://dappnode1.ont.io:20334/",
     ],
-    fee: 0.04,
+    decimals: 9,
+    fee: 20000,
     feepolicy: {
-      economy: 5,
-      normal: 10,
-      fast: 20,
+      economy: 2500,
+      normal: 3000,
+      fast: 5000,
     },
     color: "#489ED7",
     backend: [
@@ -8058,10 +8084,7 @@ const coins = {
     wif: "80",
     addresses: [],
     api: [
-      "https://us-e1.chainweb.com/",
-      "https://us-w1.chainweb.com/",
-      "https://jp1.chainweb.com/",
-      "https://fr1.chainweb.com/",
+      "https://estats.chainweb.com/",
     ],
     pathunix: "kadena",
     path: "kadena",
@@ -8108,9 +8131,9 @@ const coins = {
     ],
     fee: 600,
     feepolicy: {
-      economy: 0.00001,
-      normal: 0.00005,
-      fast: 0.0001,
+      economy: 0.000001,
+      normal: 0.000005,
+      fast: 0.00001,
     },
     color: "#ED098F",
     backend: [
@@ -8354,7 +8377,7 @@ const coins = {
       "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
       "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
     ],
-    fee: 63000,
+    fee: 150000,
     feepolicy: {
       economy: 10,
       normal: 15,
@@ -8768,11 +8791,17 @@ const coins = {
     scriptAddress: "2",
     normalAddressB: "n",
     scriptAddressB: "2",
+    bech32Address: "tb1",
     wif: "ef",
     slip: 1,
     addresses: [],
-    api: [],
+    api: [
+      "https://explorer.tbtc.zelcore.io/api/",
+      "https://tbtc1.trezor.io/api/",
+      "https://tbtc2.trezor.io/api/",
+    ],
     blockbook: [
+      "https://explorer.tbtc.zelcore.io/api/",
       "https://tbtc1.trezor.io/api/",
       "https://tbtc2.trezor.io/api/",
     ],
@@ -8784,19 +8813,21 @@ const coins = {
     testnetrpcport: 18332,
     type: "blockbook",
     explorer: [
+      "https://explorer.tbtc.zelcore.io/tx/",
       "https://tbtc1.trezor.io/tx/",
       "https://tbtc2.trezor.io/tx/",
     ],
     logolink: "static/logos/TESTBTC.svg",
     node: [
+      "explorer.tbtc.zelcore.io",
       "tbtc1.trezor.io",
       "tbtc2.trezor.io",
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 20,
-      normal: 100,
-      fast: 180,
+      economy: 1,
+      normal: 2,
+      fast: 5,
     },
     color: "#f7931a",
     backend: [
@@ -8889,28 +8920,72 @@ const coins = {
       "infura",
     ],
   },
+  testnetropstenethereum: {
+    coin: "testnetropstenethereum",
+    name: "Testnet Ropsten Ethereum",
+    uri: [
+      "testnetropsten",
+      "ropsten",
+      "testnetethereum",
+      "testeth",
+    ],
+    slip: 1,
+    addresses: [],
+    api: [
+      "https://api-ropsten.etherscan.io/api?module=account&action=txlist&address=",
+    ],
+    unit: "TESTETH",
+    type: "eth",
+    explorer: [
+      "https://ropsten.etherscan.io/tx/",
+    ],
+    logolink: "static/logos/TESTETH.svg",
+    node: [
+      "https://ropsten.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://ropsten.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://ropsten.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://ropsten.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://ropsten.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://ropsten.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://ropsten.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://ropsten.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://ropsten.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://ropsten.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://ropsten.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+    ],
+    fee: 35000,
+    feepolicy: {
+      economy: 4,
+      normal: 8,
+      fast: 14,
+    },
+    color: "#b0b0b0",
+    contractAddress: "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
   jst: {
     coin: "jst",
     name: "JUST",
     uri: [
       "jst",
+      "just",
     ],
     pubKeyHash: "1e",
     scriptHash: "16",
     wif: "9e",
     normalAddress: "T",
     normalAddressB: "T",
+    contractOrNumber: "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
     slip: 195,
     decimals: 18,
     addresses: [],
     api: [
       "https://api.trongrid.io/",
     ],
-    pathunix: "jst",
-    path: "Just",
     unit: "JST",
-    config: "tron",
-    rpcport: 50051,
     type: "tron",
     explorer: [
       "https://tronscan.org/#/transaction/",
@@ -8920,7 +8995,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0,
+    fee: 0.1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -8931,7 +9006,64 @@ const coins = {
       "tron",
     ],
   },
-}; 
+  beldex: {
+    coin: "beldex",
+    name: "Beldex",
+    uri: [
+      "beldex",
+      "bdx",
+    ],
+    openAlias: "bdx",
+    pubKeyHash: "4C",
+    wif: "CC",
+    normalAddress: "b",
+    normalAddressB: "X",
+    scriptAddress: "7",
+    scriptAddressB: "7",
+    nettype: 20,
+    decimals: 9,
+    slip: 570,
+    addresses: [],
+    api: [
+      "https://backend.bdx.zelcore.io",
+    ],
+    pathunix: "beldex",
+    path: "Beldex",
+    unit: "BDX",
+    config: "beldex",
+    rpcport: 9998,
+    testnetrpcport: 19998,
+    type: "cryptonight",
+    explorer: [
+      "https://explorer.beldex.io/tx/",
+    ],
+    logolink: "static/logos/BDX.svg",
+    node: [
+      "explorer.bdx.zelcore.io",
+    ],
+    fee: 0.00001,
+    feepolicy: {
+      economy: 1,
+      normal: 2,
+      fast: 3,
+    },
+    color: "#38ba3f",
+    backend: [
+      "cryptonight",
+    ],
+  },
+  rvnnahan: {
+    coin: "rvnnahan",
+    name: "NAHAN",
+    uri: [
+      "rvnnahan",
+    ],
+    type: "rvnasset",
+    unit: "RVN/NAHAN",
+    logolink: "static/logos/RVNNAHAN.svg",
+    color: "#f05239",
+  },
+};
 export default {
   coins,
 };

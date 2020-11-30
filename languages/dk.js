@@ -231,7 +231,7 @@ export default {
     warning_usdt_is_btc: "Advarsel: Tether er en Bitcoin-token og kræver derfor, at BTC udfører en transaktion. Udover Bitcoin-transaktionsgebyrer skal 0.000006 BTC være "
                          + "sendt til destinationsadressen som et Bitcoin netværkskrav. Sendingsprocessen tager nogle sekunder, og det kan tage op til et par minutter for "
                          + "en transaktionat blive synlig på Omni Explorer og endnu mere at blive vist i transaktionstabellen, så vær tålmodig! Transaktionen er øjeblikkeligt synlig i din Bitcoin ZelCore-tegnebog.",
-    warning_monero_fee: "Advarsel: Monero-gebyr er ikke kendt før transaktionsoprettelsen, dette er kun omtrentligt. Transaktionsoprettelse tager et par sekunder.",
+    warning_monero_fee: "Advarsel: {coinname}-gebyr er ikke kendt før transaktionsoprettelsen, dette er kun omtrentligt. Transaktionsoprettelse tager et par sekunder.",
     edit: "Rediger",
     delete: "Slet",
     show_in_explorer: "Vis i explorer",
@@ -526,7 +526,6 @@ export default {
     full_node_encryption: "Fuld Node tegnebog kryptering",
     full_node_encryption_message: "ZelCore krypterer som standard din Fulde Node wallet.dat-fil. Dette gør at wallet.dat-filen kun er tilknyttet en ZelCore-konto, og kryptering forhindrer også andre personer end dig adgang til din tegnebog. "
     + "Men din Fuld Node wallet.dat kan ikke åbnes fra anden tegnebog software end ZelCore som ZELmate. Hvis kryptering er deaktiveret deles wallet.dat blandt alle ZelCore-konti og også andre tegnebogsprogrammer.",
-
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Børser",

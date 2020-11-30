@@ -234,7 +234,7 @@ export default {
     warning_usdt_is_btc: "Uyarı: Tether bir Bitcoin belirtecidir ve BTC'nin bir işlem gerçekleştirmesini gerektirir. Bitcoin işlem ücretlerine ek olarak, 0.000006 BTC olmalıdır "
                          + "Hedef adrese bir Bitcoin ağ gereksinimi olarak gönderildi. Gönderme işlemi birkaç saniye sürüyor ve için birkaç dakika sürebilir "
                          + "a Omni Explorer’da görünebilecek bir işlem ve işlem tablosunda gösterilebilecek bir işlem varsa, lütfen sabırlı olun! İşlem Bitcoin ZelCore cüzdanınızda anında görülebilir.",
-    warning_monero_fee: "Warning: Uyarı: Monero ücreti işlem oluşturmadan önce bilinmiyor, bu sadece bir yaklaşım. İşlem oluşturma birkaç saniye sürer.",
+    warning_monero_fee: "Uyarı: {coinname} ücreti işlem oluşturmadan önce bilinmiyor, bu sadece bir yaklaşım. İşlem oluşturma birkaç saniye sürer.",
     warning_ripple: "Ripple ücreti şebekeye bağlı olarak otomatik olarak hesaplanır. İşlem geçmişinde ve gezginde işlemlerin görünmesi biraz zaman alır.",
     edit: "Düzenle",
     delete: "Sil",
@@ -530,7 +530,6 @@ export default {
     full_node_encryption: "Tam düğüm cüzdan şifreleme",
     full_node_encryption_message: "ZelCore, varsayılan olarak tüm düğüm wallet.dat dosyanızı şifreler. Bu, wallet.dat dosyasının yalnızca bir ZelCore hesabıyla ilişkilendirilmesini sağlar ve şifreleme ayrıca diğer kişilerin sizin cüzdanınıza erişmesini önler. "
     + "Ancak, tam düğüm wallet.dat dosyasına, ZELmate gibi ZelCore'dan başka bir cüzdan yazılımından erişilemiyor. Şifreleme devre dışı bırakılırsa, wallet.dat tüm ZelCore hesapları ve diğer cüzdan yazılımları arasında paylaşılır.",
-
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Borsalar",
@@ -1217,8 +1216,8 @@ export default {
     zelplus_desc_two: "Ekstra cüzdan özellikleri, portföyde özel anahtarlar alma, daha büyük ödeme notları ve her varlık için üç ek adres",
     zelplus_desc_three: "Adresinizin herhangi birinin mülkiyeti üzerinde daha fazla kontrol, imzalama ve kanıtlama, en son haberleri ve varlık performansını alma.",
     zelplus_desc_four: "Bir bakışta varlıkları ve işlemleri izlemeye yardımcı olacak bir portföy izleyici.",
-    economy_mode: "Ekonomi modu",
-    economy_mode_message: "Ekonomi modu Haber toplanmasını ve Piyasaları devre dışı bırakır. Bu mod geleneksel cüzdan arayüzü getiren performans lehine.",
+    simple_mode: "Ekonomi modu",
+    simple_mode_message: "Ekonomi modu Haber toplanmasını ve Piyasaları devre dışı bırakır. Bu mod geleneksel cüzdan arayüzü getiren performans lehine.",
     market_cap: "Market Cap:",
     volume_day: "24h Volume:",
     circ_supply: "Dolaşan Tedarik:",
