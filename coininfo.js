@@ -9371,6 +9371,47 @@ const coininfo = {
       },
     },
   },
+  mantradao: {
+    description: "The MANTRA DAO team is composed of seasoned entrepreneurs and professionals from different countries, industries, and backgrounds, all coming together with the goal of bringing DeFi services to all corners of the world.",
+    total_supply: 888888888,
+    circulating_supply: 219500000,
+    links: {
+      homepage: [
+        "https://mantradao.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+        "https://etherscan.io/address/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+        "https://etherchain.org/account/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/MANTRADAO",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/mantradao?lang=en",
+      facebook_username: "https://www.facebook.com/mantradao/",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "MANTRADAO",
+      subreddit_url: null,
+      repos_url: {
+        github: ['https://github.com/MantraDAO'],
+        bitbucket: [],
+      },
+    },
+  },
 };
 export default {
   coininfo,
