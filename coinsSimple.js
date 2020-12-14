@@ -9063,7 +9063,7 @@ const coins = {
     logolink: "static/logos/RVNNAHAN.svg",
     color: "#f05239",
   },
-  uni: {
+  om: {
     coin: "om",
     name: "MANTRA DAO",
     uri: [
