@@ -9100,7 +9100,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
-    color: "#e6247b",
+    color: "#ed1b6c",
     decimals: 18,
     backend: [
       "infura",

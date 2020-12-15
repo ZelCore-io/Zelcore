@@ -9372,7 +9372,7 @@ const coininfo = {
     },
   },
   mantradao: {
-    description: "The MANTRA DAO team is composed of seasoned entrepreneurs and professionals from different countries, industries, and backgrounds, all coming together with the goal of bringing DeFi services to all corners of the world.",
+    description: "MANTRA DAO is a community-governed DeFi platform making staking, lending, and governance more accessible than ever before.",
     total_supply: 888888888,
     circulating_supply: 219500000,
     links: {

@@ -2013,7 +2013,7 @@ const newssources = {
     mantradao: [
       {
         name: "MANTRA DAO Medium",
-        feed: "https://nitter.net/MANTRADAO/rss",
+        feed: "https://t.me/mantradaonews",
         site: "https://twitter.com/mantradao",
         about: "The MANTRA DAO team is composed of seasoned entrepreneurs and professionals from different countries, industries, and backgrounds, all coming together with the goal of bringing DeFi services to all corners of the world.",
         pic: "static/logos/OM.svg",
