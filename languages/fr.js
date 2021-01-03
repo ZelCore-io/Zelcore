@@ -231,7 +231,7 @@ export default {
     payment_note: "Note de paiement",
     warning_eth_contracts: "Attention: les contrats Ethereum prennent quelques minutes pour s'afficher dans l'explorateur! Les contrats nécessitent la présence d'Ethereum dans votre portefeuille, un gaz qui alimente l'exécution du contrat.",
     warning_etc_transactions: "Attention: il faut un certain temps pour qu'une transaction Ethereum Classic soit répertoriée dans une table de transactions.",
-    warning_usdt_is_btc: "Attention: Tether est un jeton Bitcoin et nécessite donc que BTC effectue une transaction. En outre, les frais de transaction Bitcoin, 0.000006 BTC, doivent être "
+    warning_omni_is_btc: "Attention: {coinname} est un jeton Bitcoin et nécessite donc que BTC effectue une transaction. En outre, les frais de transaction Bitcoin, 0.000006 BTC, doivent être "
                          + "envoyé à l'adresse de destination selon les besoins du réseau Bitcoin. Le processus d'envoi prend quelques secondes et peut prendre jusqu'à quelques minutes pour "
                          + "une transaction devant être visible dans Omni Explorer et plus encore dans la table des transactions, veuillez patienter! La transaction est immédiatement visible dans votre portefeuille Bitcoin ZelCore.",
     warning_monero_fee: "Attention: les frais {coinname} ne sont pas connus avant la création de la transaction, il ne s'agit que d'une approximation. La création d'une transaction prend quelques secondes.",
@@ -687,7 +687,6 @@ export default {
     no_bitcoinsv_fullnode: "Désolé, nous ne proposons pas de prise en charge complète des noeuds pour Bitcoin Cash SV pour le moment.",
     no_monero_fullnode: "Désolé, nous n'offrons pas de support complet pour Monero pour le moment.",
     sorry_showing_fees: "Nous sommes désolés, les frais d'affichage ne sont actuellement pas pris en charge. Veuillez examiner la transaction sur un explorateur en cliquant dessus.",
-    error_obtaining_usdt_csv: "Erreur lors de l'obtention des données USDT pour l'exportation CSV",
     no_message_received: "Aucun message reçu à signer",
     no_message_sign: "Pas de message à signer",
     signature_failed: "La signature a échoué",
@@ -787,7 +786,6 @@ export default {
     error_obtaining_etc_addr: "Erreur lors de l'obtention des données d'adresse Ethereum Classic",
     error_obtaining_etc_tx: "Erreur lors de l'obtention des transactions Ethereum Classic",
     error_obtaining_fiat_rates: "Erreur lors de l'obtention des taux de fiat",
-    error_obtaining_usdt_data: "Erreur lors de l'obtention des données USDT",
     account_updated_to_zelcore: "Compte mis à jour vers ZelCore",
     wrong_updating_account_to_zelcore: "Une erreur s'est produite lors de la mise à jour du compte sur ZelCore. Veuillez contacter l'équipe Zel",
     error_connecting_zelpro_database: "Erreur de connexion à la base de données ZelPro",

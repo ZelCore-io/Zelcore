@@ -52,6 +52,9 @@ export default {
     from: "Od",
     private_key: "Soukromý klíč",
     private_keys: "Soukromé klíče",
+    yes_send: "Ano, Odeslat",
+    no_back: "Ne, Zpět",
+    proceed_tx: "Pokračovat s transakcí?",
     // Close Dialog
     log_out: "Odhlásit",
     exit_zelcore: "Ukončit ZelCore",
@@ -346,7 +349,7 @@ export default {
     memo2: "Memo:",
     warning_eth_contracts: "Varování: Ethereum smlouvy zaberou několik minut než se zobrazí v průzkumníku! Smlouvy vyžadují, aby Ethereum bylo přítomno ve vaší peněžence.",
     warning_etc_transactions: "Varování: Bude to chvíli trvat, než bude transakce Ethereum Classic uvedena v tabulce transakcí.",
-    warning_usdt_is_btc: "Varování: Tether je token Bitcoinu, a proto se vyžaduje Bitcoin transakce. Ke standardním poplatků za Bitcoin transakci bude navíc zasláno 0.000006 BTC "
+    warning_omni_is_btc: "Varování: {coinname} je token Bitcoinu, a proto se vyžaduje Bitcoin transakce. Ke standardním poplatků za Bitcoin transakci bude navíc zasláno 0.000006 BTC "
       + "cílovému příjemci jako požadavek Bitcoin sitě. Proces odesílání trvá několik sekund, ale může to trvat i několik minut "
       + "než bude transkce viditelná v Omni prohlížeči a i déle, než bude viditelná v transakční tabulce, prosím, buďte trpěliví! Transakce je okamžitě viditelná ve vaší Bitcoin peněžence.",
     warning_monero_fee: "Varování: {coinname} poplatek není před vytvořením transakce znám, toto je pouze odhad. Vytvoření transakce trvá několik sekund. Nepotvrzené transkakce prozatím nereflektují váš zůstatek a nemusí se v historii transakcí zobrazit!",
@@ -360,10 +363,10 @@ export default {
       + "Full Node je určen pouze pro pokročilé uživatele, pokud nevíte, co je Full Node, nepoužívejte ho! Prosím, často zálohujte soukromé klíče adres, které používáte.",
     launch_full_node: "Spustit Full Node",
     destination_address: "Cílová adresa",
-    destination_address_cruxid: "Cílová adresa nebo CruxID",
-    destination_address_cruxid_openalias: "Cílová adresa, CruxID nebo OpenAlias",
+    destination_address_cruxid: "Cílová adresa",
+    destination_address_cruxid_openalias: "Cílová adresa nebo OpenAlias",
     destination_account: "Cílový účet",
-    destination_account_cruxid: "Cílový účet nebo CruxID",
+    destination_account_cruxid: "Cílový účet",
     payment_id: "Platební ID",
     payment_id2: "Platební ID:",
     no_payment_id: "Platební ID nepřiloženo",
@@ -416,6 +419,19 @@ export default {
     token_migrated: "{coinName} aset migroval",
     token_migrated_info: "{coinName} migroval z Ethereum sítě a spustil svůj vlastní blockchain. ZelCore nadále podporuje pouze token na Etherem síti. Síť {coinName} není podporována!",
     vbk_reward_arrive: "Vaši VeriBlock PoP odměnu obdržíte do ZelCore Veriblock peněženky {label} - {address} během 6 hodin.",
+    send_zel_team_some_love: "Poslat Zel týmu trochu ",
+    donation: "Sponzorský dar",
+    donation1: "Pošlu lízátko",
+    donation2: "Pošlu medvídky",
+    donation3: "Pošlu zmrzku",
+    donation4: "Pošlu kávu",
+    donation5: "Pošlu čokoládu",
+    donation6: "Pošlu hamburger",
+    donation7: "Pošlu pizzu",
+    donations_help: "Zel tým by vás rád požádal o zaslání sponzorského daru do Nadace Zel. Společně jsme toho zvládli nespočetně a došli daleko. Pravděpodobně stvořili nejlepší multi-asset platformu, která na trhu je.<br />"
+      + "Dokázali jsme to nonstop vývojem Zelcoru a enormní optimizací infrastruktury, díky které se technologie blockchainu posouvá stále za své meze a stává se přívětivou pro další a další smrtelníky.<br />"
+      + "Můžete si vybrat z mnoha možností pomoci a vaše volba se odešle spolu s vaší transakcí do adresy Nadace Zel.<br />"
+      + "Dary jsou použity výhradně na zaplacení faktur infrastruktury ZelCoru a pro další vývoj platformy ZelCore. <br /><br />Velmi děkujeme za vaši podporu!<br /> Váš tým Zel.",
 
     // mainland.vue
     take_some_mins: "Může to trvat pár minut. Prosím, buďte trpěliví.",
@@ -766,6 +782,7 @@ export default {
     change_avatar: "Změnit avatar",
     change_background: "Změnit pozadí",
     wallet_for_exchanges: "Peněženka pro směnárny",
+    wallet_for_rewards: "Peněženka pro odměny",
     private_key_for: "Soukromý klíč pro ",
     private_keys_in_wif: "Soukromý klíče ve formátu importu do peněženky (WIF) pro ",
     d2fa_is_not_activated_yet: "d2FA ještě není aktivováno. Snadné přihlášení nelze nastavit.",
@@ -973,7 +990,6 @@ export default {
     public_gas_station: "Veřejná Gas Stanice",
     gas_station_is_unavailable: "Veřejná Gas Station momentálně není dostupná",
     sorry_showing_fees: "Omlouváme se, ale zobrazení poplatků je v současné době nepodporováno. Prosím, prohlédněte si transakci v průzkumníku kliknutím na ni.",
-    error_obtaining_usdt_csv: "Chyba při získávání dat USDT pro export CSV",
     no_message_received: "Žádná zpráva k podpisu neobdržena",
     no_message_sign: "Žádná zpráva k podpisu",
     signing_failed: "Podepsání se nezdařilo",
@@ -1078,7 +1094,6 @@ export default {
     error_obtaining_etc_addr: "Chyba při získávání dat adresy Etherea Classic",
     error_obtaining_etc_tx: "Chyba při získávání transakcí Etherea Classic",
     error_obtaining_fiat_rates: "Error while obtaining fiat rates",
-    error_obtaining_usdt_data: "Chyba při získávání dat USDT",
     error_obtaining_xlm_tx: "Chyba při získávání transakcí Stellar Lumen",
     error_obtaining_dest_xlm_addr: "Chyba při získávání dat adresy Stellar Lumen",
     error_obtaining_xlm_addr: "Chyba při získávání dat Stellar Lumen",
@@ -1927,7 +1942,7 @@ export default {
     authorization: "Autorizace",
     sms_code: "SMS Kód",
     card_2fa_code: "2FA Kód Karty",
-    card_2da_code_info: "Zkontrolujte prosím svůj bankovní účet, který by měl kód obsahovat",
+    card_2fa_code_info: "Zkontrolujte prosím svůj bankovní účet, který by měl kód obsahovat",
     authorize: "Autorizovat",
     validating_purchase: "Ověřování nákupu",
     purchase_processing: "Nákup se zpracovává",

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 67.733331 67.733331"
+   height="256"
+   width="256">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26668)"
+     id="layer1">
+    <g
+       id="g1011">
+      <circle
+         style="opacity:1;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70443511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path817"
+         cx="33.866665"
+         cy="-263.13336"
+         transform="scale(1,-1)"
+         r="32.411457" />
+      <g
+         id="g962"
+         transform="matrix(2.6188638,0,0,2.6188638,-1.5438254,-446.00609)">
+        <path
+           id="path913"
+           d="m 16.805665,268.88724 v 3.78819 l 3.280481,-1.89057 v -3.79475 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path915"
+           d="m 20.086146,274.57305 -3.280481,-1.89762 -0.564401,3.60098 3.844882,2.08433 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path917"
+           d="m 14.156928,266.61266 -0.632426,-3.41073 -6.5680106,3.78818 3.2804956,1.89759 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path919"
+           d="m 14.156928,274.95001 -4.5476443,-2.65279 -2.6527923,2.27583 3.2804956,1.89712 3.287515,1.89057 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path921"
+           d="m 6.9564914,266.99011 v 3.79475 3.78819 l 3.2804956,-1.89762 v -4.16792 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path923"
+           d="m 16.805438,272.67543 -3.280974,1.89762 v 3.78769 l 3.280974,-1.89057 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+        <path
+           id="path925"
+           d="m 17.18869,269.26546 2.897228,-2.27535 -3.28048,-1.89057 -3.280974,-1.89761 v 3.78818 z"
+           style="fill:#ffffff;stroke-width:0.37897032" />
+      </g>
+    </g>
+  </g>
+</svg>

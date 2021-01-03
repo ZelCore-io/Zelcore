@@ -228,7 +228,7 @@ export default {
     payment_note: "Betalingsnote",
     warning_eth_contracts: "Advarsel: Ethereum kontrakter tager et par minutter at blive vist i explorer! Kontrakter kræver at Ethereum er til stede i din tegnebog, som en Gas, der sørger for kontraktens udførelse.",
     warning_etc_transactions: "Advarsel: Det tager et stykke tid for en Ethereum Classic-transaktion at blive opført i en transaktionstabel.",
-    warning_usdt_is_btc: "Advarsel: Tether er en Bitcoin-token og kræver derfor, at BTC udfører en transaktion. Udover Bitcoin-transaktionsgebyrer skal 0.000006 BTC være "
+    warning_omni_is_btc: "Advarsel: {coinname} er en Bitcoin-token og kræver derfor, at BTC udfører en transaktion. Udover Bitcoin-transaktionsgebyrer skal 0.000006 BTC være "
                          + "sendt til destinationsadressen som et Bitcoin netværkskrav. Sendingsprocessen tager nogle sekunder, og det kan tage op til et par minutter for "
                          + "en transaktionat blive synlig på Omni Explorer og endnu mere at blive vist i transaktionstabellen, så vær tålmodig! Transaktionen er øjeblikkeligt synlig i din Bitcoin ZelCore-tegnebog.",
     warning_monero_fee: "Advarsel: {coinname}-gebyr er ikke kendt før transaktionsoprettelsen, dette er kun omtrentligt. Transaktionsoprettelse tager et par sekunder.",
@@ -682,7 +682,6 @@ export default {
     no_bitcoinsv_fullnode: "Desværre, vi tilbyder ikke Fuld Node support til Bitcoin Cash SV i øjeblikket.",
     no_monero_fullnode: "Desværre, vi tilbyder ikke Fuld Node support til Monero i øjeblikket.",
     sorry_showing_fees: "Vi beklager, visning af gebyrer er ikke understøttet i øjeblikket. Undersøg transaktionen via en explorer ved at klikke på den.",
-    error_obtaining_usdt_csv: "Fejl ved hentning af USDT-data til CSV-eksport",
     no_message_received: "Ingen meddelelse modtaget til at underskrive",
     no_message_sign: "Ingen meddelelse at underskrive",
     signing_failed: "Underskrift mislykkedes",
@@ -782,7 +781,6 @@ export default {
     error_obtaining_etc_addr: "Fejl ved hentning af Ethereum Classic-adressedata",
     error_obtaining_etc_tx: "Fejl ved hentning af Ethereum Classic-transaktioner",
     error_obtaining_fiat_rates: "Fejl ved hentning af fiat kurser",
-    error_obtaining_usdt_data: "Fejl ved hentning af USDT data",
     account_updated_to_zelcore: "Konto opdateret til ZelCore",
     wrong_updating_account_to_zelcore: "Der gik noget galt, da du opdaterede kontoen til ZelCore. Kontakt venligst Zel Team",
     error_connecting_zelpro_database: "Fejl i forbindelsen til ZelPro database",

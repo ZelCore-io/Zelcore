@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 67.733332 67.733335"
+   height="256"
+   width="256">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26665)"
+     id="layer1">
+    <g
+       id="g1050">
+      <circle
+         style="opacity:1;fill:#a6ff33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.30515432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path817"
+         cx="33.866665"
+         cy="263.13333"
+         r="32.411457" />
+      <polygon
+         id="polygon941"
+         points="42.3,75.05 57.84,75.05 68.34,15.54 71.08,0 52.8,15.54 48.52,39.82 24.49,39.82 28.77,15.54 13.23,15.54 2.74,75.05 0,90.59 18.28,75.05 22.3,52.22 46.33,52.22 "
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.43307562,0,0,0.43307562,18.475159,243.51716)" />
+    </g>
+  </g>
+</svg>

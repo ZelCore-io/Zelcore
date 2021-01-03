@@ -234,7 +234,7 @@ export default {
     tag: "TAG",
     warning_eth_contracts: "Varoitus: Ethereum-sopimuksilta kestää muutaman minuutin, ennenkuin ne näkyvät lohkoketjuselaimessa.  Sopimukset edellyttävät, että Ethereumia on lompakossa, koska se toimii Gas-maksuna sopimuksen suorittamisessa.",
     warning_etc_transactions: "Varoitus: Ethereum Classic-tapahtuman listaaminen tapahtumataulukkoon kestää jonkin aikaa.",
-    warning_usdt_is_btc: "Varoitus: Tether on Bitcoin-tokeni ja vaatii siten BTC:n suorittamaan siirtotapahtuman. Bitcoin-siirtomaksun lisäksi määränpääosoitteeseen on lähetettävä 0,000006 BTC "
+    warning_omni_is_btc: "Varoitus: {coinname} on Bitcoin-tokeni ja vaatii siten BTC:n suorittamaan siirtotapahtuman. Bitcoin-siirtomaksun lisäksi määränpääosoitteeseen on lähetettävä 0,000006 BTC "
                          + "Bitcoin-verkon vaatimuksena. Lähetysprosessi kestää pari sekuntia, ja saattaa kestää muutaman minuutin, kunnes "
                          + "tapahtuma on näkyvissä Omni Explorerissa ja vielä kauemmin, ennenkuin se näkyy tapahtumataulukossa. Ole kärsivällinen! Siirto näkyy välittömästi Bitcoin ZelCore-lompakossasi.",
     warning_monero_fee: "Varoitus: {coinname}-siirtomaksua ei tiedetä ennen siirron luomista, tämä on vain likiarvo. Siirron luominen kestää muutaman sekunnin.",
@@ -693,7 +693,6 @@ export default {
     no_bnb_fullnode: "Valitettavasti emme tarjoa täydensolmun tukea Binance Chainille tällä hetkellä.",
     no_ripple_fullnode: "Valitettavasti emme tarjoa täydensolmun tukea Ripplelle tällä hetkellä.",
     sorry_showing_fees: "Pahoittelemme, siirtomaksujen näyttämistä ei tueta tällä hetkellä. Ole hyvä ja tutki tapahtumaa selaimella napsauttamalla sitä.",
-    error_obtaining_usdt_csv: "Virhe haettaessa USDT dataa CSV-vientiä varten",
     no_message_received: "Ei vastaanotettu allekirjoitettavaa viestiä",
     no_message_sign: "Ei allekirjoitettavaa viestiä",
     signing_failed: "Allekirjoitus epäonnistui",
@@ -793,7 +792,6 @@ export default {
     error_obtaining_etc_addr: "Virhe haettaessa Ethereum Classic-osoitedataa",
     error_obtaining_etc_tx: "Virhe haettaessa Ethereum Classic-siirtoja",
     error_obtaining_fiat_rates: "Virhe haettaessa fiat-kursseja",
-    error_obtaining_usdt_data: "Virhe haettaessa USDT-dataa",
     account_updated_to_zelcore: "Tili päivitetty ZelCoreen",
     wrong_updating_account_to_zelcore: "Jotain meni pieleen päivitettäessä tiliä ZelCoreen. Ota yhteyttä Zel-tiimiin.",
     error_connecting_zelpro_database: "Virhe yhteydenotossa ZelCore+ tietokantaan",

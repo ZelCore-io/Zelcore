@@ -274,7 +274,7 @@ export default {
     memo2: "Memo:",
     warning_eth_contracts: "Предупреждение: контракты Ethereum отображаются в проводнике за несколько минут! Контракты требуют, чтобы Ethereum присутствовал в вашем кошельке, который является Газом, который обеспечивает выполнение контракта.",
     warning_etc_transactions: "Предупреждение: для включения транзакции Ethereum Classic в таблицу транзакций требуется некоторое время. Убедитесь, что не произвели двойную оплату.",
-    warning_usdt_is_btc: "Предупреждение: Tether - это биткойн-токен, поэтому для выполнения транзакции требуется BTC. В дополнение к комиссии за транзакции в биткойнах, необходимо внести 0,000006 BTC "
+    warning_omni_is_btc: "Предупреждение: {coinname} - это биткойн-токен, поэтому для выполнения транзакции требуется BTC. В дополнение к комиссии за транзакции в биткойнах, необходимо внести 0,000006 BTC "
             + "отправлено по адресу назначения в качестве требования сети Биткойн. Процесс отправки занимает пару секунд и может занять до нескольких минут "
             + "транзакция должна отображаться в Omni Explorer и даже больше отображаться в таблице транзакций, наберитесь терпения! Транзакция мгновенно видна в вашем кошельке Bitcoin ZelCore.",
     warning_monero_fee: "Предупреждение: плата {coinname} не известна до создания транзакции, это только приблизительное значение. Создание транзакции занимает несколько секунд.",
@@ -287,10 +287,10 @@ export default {
             + "если вы не знаете, что такое полная нода, закройте это окно! Пожалуйста, регулярно делайте резервные копии приватных ключей адресов, которые вы используете.",
     launch_full_node: "Запустить полную ноду",
     destination_address: "Адрес назначения",
-    destination_address_cruxid: "Адрес назначения или CruxID",
-    destination_address_cruxid_openalias: "Адрес назначения, CruxID или OpenAlias",
+    destination_address_cruxid: "Адрес назначения",
+    destination_address_cruxid_openalias: "Адрес назначения или OpenAlias",
     destination_account: "Destination account",
-    destination_account_cruxid: "Destination account or CruxID",
+    destination_account_cruxid: "Destination account",
     payment_id: "Идентификатор платежа",
     payment_id2: "Идентификатор платежа:",
     no_payment_id: "Нет платежного идентификатора",
@@ -876,7 +876,6 @@ export default {
     public_gas_station: "Public Gas Station",
     gas_station_is_unavailable: "Public Gas Station is unavailable",
     sorry_showing_fees: "К сожалению, показ комиссий в настоящее время не поддерживается. Пожалуйста, проверьте транзакцию в браузере, кликнув на нее.",
-    error_obtaining_usdt_csv: "Ошибка при получении данных USDT для экспорта CSV",
     no_message_received: "Сообщение для подписи не получено",
     no_message_sign: "Нет сообщения для подписи",
     signing_failed: "Не удалось подписать",
@@ -980,7 +979,6 @@ export default {
     error_obtaining_etc_addr: "Ошибка при получении адресных данных Ethereum Classic",
     error_obtaining_etc_tx: "Ошибка при получении транзакций Ethereum Classic",
     error_obtaining_fiat_rates: "Ошибка при получении фиатных курсов",
-    error_obtaining_usdt_data: "Ошибка при получении данных USDT",
     error_obtaining_xlm_tx: "Error obtaining Stellar Lumen transactions",
     error_obtaining_dest_xlm_addr: "Error obtaining Stellar Lumen destination address data",
     error_obtaining_xlm_addr: "Error obtaining Stellar Lumen data",

@@ -50,6 +50,10 @@ export default {
     immature: "Imaturo",
     from: "De",
     private_key: "Chave Privada",
+    private_keys: "Chaves Privadas",
+    yes_send: "Sim, Enviar",
+    no_back: "Não, Voltar",
+    proceed_tx: "Proceder com a transferência?",
     // Close Dialog
     log_out: "Sair",
     exit_zelcore: "Sair do ZelCore",
@@ -323,7 +327,7 @@ export default {
     warning_eth_contracts: "Aviso: os contratos Ethereum levam alguns minutos para serem mostrados no explorer! Os contratos exigem que o Ethereum esteja presente em sua carteira, que é o Gas que possibilita a execução de contratos. "
       + "Se você deseja enviar o valor máximo, verifique se o botão Máximo está realçado.",
     warning_etc_transactions: "Aviso: leva um tempo para uma transação de Ethereum Classic ser listada em uma tabela de transações.",
-    warning_usdt_is_btc: "Aviso: o Tether é um token de Bitcoin e, portanto, exige que o BTC realize uma transação. Além das taxas de transação do Bitcoin, deve ser 0,000006 BTC "
+    warning_omni_is_btc: "Aviso: o {coinname} é um token de Bitcoin e, portanto, exige que o BTC realize uma transação. Além das taxas de transação do Bitcoin, deve ser 0,000006 BTC "
       + "enviado ao endereço de destino como um requisito de rede Bitcoin. O processo de envio leva alguns segundos e pode levar alguns minutos para "
       + "uma transação para ser visível no Omni Explorer e ainda mais para ser mostrada na tabela de transações, seja paciente! A transação é visível instantaneamente na sua carteira Bitcoin ZelCore.",
     warning_monero_fee: "Aviso: a taxa {coinname} não é conhecida antes da criação da transação, é apenas uma aproximação. A criação da transação leva alguns segundos.",
@@ -339,9 +343,10 @@ export default {
      + " se você não souber o que é Node Completo - Full Node, não o use! Faça backup frequentemente das chaves privadas dos endereços que você está usando.",
     launch_full_node: "Iniciar Node Completo",
     destination_address: "Endereço de destino",
-    destination_address_cruxid: "Endereço de destino ou CruxID",
+    destination_address_cruxid: "Endereço de destino",
+    destination_address_cruxid_openalias: "Endereço de destino ou OpenAlias",
     destination_account: "Conta de destino",
-    destination_account_cruxid: "Conta de destino ou CruxID",
+    destination_account_cruxid: "Conta de destino",
     payment_id: "ID de pagamento",
     payment_id2: "ID de pagamento:",
     no_payment_id: "Sem identificação de pagamento",
@@ -393,6 +398,19 @@ export default {
     token_migrated: "{coinName} activo migrado",
     token_migrated_info: "{coinName} Token Ethereum foi migrado para a sua própria rede! ZelCore continua a suportar apenas a forma original do Token na rede Ethereum. A nova rede da moeda {coinName} não é suportada!",
     vbk_reward_arrive: "Você irá receber a sua recompensa VeriBlock PoP na sua carteira ZelCore VeriBlock {label} - {address} no espaço de 6 hours.",
+    send_zel_team_some_love: "Envie para a equipa Zel algum ",
+    donation: "Donativo",
+    donation1: "Eu vou doar um chupa chupa",
+    donation2: "Eu vou doar um pacote de pastilhas",
+    donation3: "Eu vou doar um gelado",
+    donation4: "Eu vou doar um café",
+    donation5: "Eu vou doar uma barra de chocolate",
+    donation6: "Eu vou doar um hamburguer menu",
+    donation7: "Eu vou doar uma pizza",
+    donations_help: "A equipa Zel gostaria que tu considerasses doar para a Fundação Zel. Fizémos tanto e atingimos tanto até agora. Temos provavelmente a melhor carteira/plataforma de criptomoedas disponível no mercado.<br />"
+      + "Para atingirmos isto temos vindo a desenvolver o ZelCore sem paragens e a trabalhar para melhorar a nossa infraestrutura responsável por por fazer esta beleza de tecnologia trabalhar lindamente como é suposto.<br />"
+      + "Podes escolher o montante do donativo da dropdown e uma transacção será enviada junto com a tua com o donativo para a Fundação Zel..<br />"
+      + "Os donativos serão utilizados para ajudar a pagar os custos de infraestrutura e a continuação do desenvolvimento do ZelCore. <br /><br />Obrigado por apoiares o nosso projecto!<br />A equipa Zel.",
 
     // mainland.vue
     take_some_mins: "Isso pode levar alguns minutos, por favor seja paciente.",
@@ -728,6 +746,7 @@ export default {
     change_avatar: "Mudar Avatar",
     change_background: "Mudar imagem de fundo",
     wallet_for_exchanges: "Carteira para trocas",
+    wallet_for_rewards: "Carteira para recompensas",
     private_key_for: "Chave privada para ",
     private_keys_in_wif: "Chaves privadas no formato de importação da Wallet para ",
     d2fa_is_not_activated_yet: "O d2FA ainda não está ativado. A Conexão Fácil não pode ser definido.",
@@ -932,7 +951,6 @@ export default {
     no_neo_fullnode: "Desculpe, de momento não oferecemos suporte FullNode para NEO.",
     no_ontology_fullnode: "Desculpe, de momento não oferecemos suporte FullNode para Ontology.",
     sorry_showing_fees: "Lamentamos, mas atualmente não há suporte para exibição de taxas. Por favor, examine a transação em um explorador clicando nela.",
-    error_obtaining_usdt_csv: "Erro ao obter dados USDT para exportação de CSV",
     no_message_received: "Nenhuma mensagem recebida para assinar",
     no_message_sign: "Nenhuma mensagem para assinar",
     signing_failed: "Falha na assinatura",
@@ -1034,7 +1052,6 @@ export default {
     error_obtaining_etc_addr: "Erro ao obter dados de endereço Ethereum Classic",
     error_obtaining_etc_tx: "Erro ao obter transações de Ethereum Classic",
     error_obtaining_fiat_rates: "Erro ao obter taxas fiat",
-    error_obtaining_usdt_data: "Erro ao obter dados USDT",
     error_obtaining_xlm_tx: "Erro ao obter transações do Stellar Lumen",
     error_obtaining_dest_xlm_addr: "Erro ao obter os dados do endereço de destino do Stellar Lumen",
     error_obtaining_xlm_addr: "Erro ao obter dados do Stellar Lumen",
@@ -1829,7 +1846,7 @@ export default {
     authorization: "Autorização",
     sms_code: "Código SMS",
     card_2fa_code: "Código 2FA do Cartão",
-    card_2da_code_info: "Por favor verifique o código na sua conta bancária",
+    card_2fa_code_info: "Por favor verifique o código na sua conta bancária",
     authorize: "Autorizar",
     validating_purchase: "A validar a compra",
     purchase_processing: "A processar a compra",

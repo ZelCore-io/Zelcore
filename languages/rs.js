@@ -229,7 +229,7 @@ export default {
     payment_note: "Napomena za plaćanje",
     warning_eth_contracts: "Upozorenje: Ethereum ugovorima potrebno je nekoliko minuta da se prikažu u istraživaču! Ugovori zahtevaju da Ethereum bude prisutan u vašem novčaniku koji je gas koji pokreće izvršenje ugovora.",
     warning_etc_transactions: "Upozorenje: Potrebno je neko vreme da transakcija Ethereum Classic bude navedena u tablici transakcija.",
-    warning_usdt_is_btc: "Upozorenje: Tether je Bitcoin token i stoga zahteva od BTC-a da izvrši transakciju. Osim naknada za Bitcoin transakcije, 0,000006 BTC mora biti"
+    warning_omni_is_btc: "Upozorenje: {coinname} je Bitcoin token i stoga zahteva od BTC-a da izvrši transakciju. Osim naknada za Bitcoin transakcije, 0,000006 BTC mora biti"
                          + "poslato na odredišnu adresu kao zahtev Bitcoin mreže. Postupak slanja traje nekoliko sekundi i može potrajati nekoliko minuta da"
                          + "bi transakcija bila vidljiva na Omni Exploreru, a još više da bude prikazana u tablici transakcija, budite strpljivi! Transakcija se odmah vidi u vašem Bitcoin ZelCore novčaniku.",
     warning_monero_fee: "Upozorenje: {coinname} naknada nije poznata pre obavljanja transakcije, to je samo približna vrednost. Izrada transakcije traje nekoliko sekundi.",
@@ -684,7 +684,6 @@ export default {
     no_bitcoinsv_fullnode: "Žao nam je, u ovom trenutku ne nudimo full node podršku za Bitcoin Cash SV.",
     no_monero_fullnode: "Žao nam je, u ovom trenutku ne nudimo full node podršku za Monero.",
     sorry_showing_fees: "Žao nam je, prikazivanje naknada trenutno nije podržano. Proverite transakciju na pretraživaču klikom na nju.",
-    error_obtaining_usdt_csv: "Greška prilikom dobijanja USDT podataka za CSV izvoz",
     no_message_received: "Nema primljene poruke za potpisivanje",
     no_message_sign: "Nema poruke za potpisivanje",
     signature_failed: "Potpisivanje nije uspelo",
@@ -784,7 +783,6 @@ export default {
     error_obtaining_etc_addr: "Greška prilikom dobijanja podataka Ethereum Classic adrese",
     error_obtaining_etc_tx: "Greška prilikom dobijanja transakcija Ethereum Classic-a",
     error_obtaining_fiat_rates: "Pogreška prilikom dobivanja fiat stope",
-    error_obtaining_usdt_data: "Greška pri dobijanju podataka USDT-a",
     account_updated_to_zelcore: "Nalog ažuriran na ZelCore-u",
     wrong_updating_account_to_zelcore: "Nešto je pošlo po zlu prilikom ažuriranja naloga na ZelCore-u. Obratite se Zel timu",
     error_connecting_zelpro_database: "Greška pri povezivanju sa ZelCore+ bazom podataka",

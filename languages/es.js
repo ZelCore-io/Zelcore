@@ -230,7 +230,7 @@ export default {
     payment_note: "Nota de pago",
     warning_eth_contracts: "Advertencia: los contratos de Ethereum tardan unos minutos en mostrarse en el explorador. Los contratos requieren que Ethereum esté presente en su billetera, que es un gas que impulsa la ejecución del contrato",
     warning_etc_transactions: "Advertencia: la transacción de Ethereum Classic tarda un tiempo en aparecer en una tabla de transacciones",
-    warning_usdt_is_btc: "Advertencia: la conexión es un token de Bitcoin y, por lo tanto, requiere que BTC realice una transacción. Además de las tarifas de transacción de Bitcoin, 0.000006 BTC tiene que ser "
+    warning_omni_is_btc: "Advertencia: la conexión es un token de Bitcoin y, por lo tanto, requiere que BTC realice una transacción. Además de las tarifas de transacción de Bitcoin, 0.000006 BTC tiene que ser "
                          + "enviado a la dirección de destino como un requisito de la red Bitcoin. El proceso de envío tarda unos segundos y puede demorar unos minutos para "
                          + "una transacción para ser visible en Omni Explorer y aún más para ser mostrada en la tabla de transacciones, por favor sea paciente. La transacción se ve instantáneamente en su billetera de Bitcoin ZelCore",
     warning_monero_fee: "Advertencia: la tarifa de {coinname} no se conoce antes de la creación de la transacción, esto es solo una aproximación. La creación de la transacción demora unos segundos",
@@ -687,7 +687,6 @@ export default {
     no_bitcoinsv_fullnode: "Lo sentimos, no ofrecemos soporte de nodo completo para Bitcoin Cash SV en este momento",
     no_monero_fullnode: "Lo sentimos, no ofrecemos soporte de nodo completo para Monero en este momento",
     sorry_showing_fees: "Lo sentimos, pero actualmente no se admiten las tarifas. Por favor, examine la transacción en un explorador haciendo clic en ella",
-    error_obtaining_usdt_csv: "Error al obtener datos de USDT para la exportación CSV",
     no_message_received: "No se recibió ningún mensaje para firmar",
     no_message_sign: "No hay mensaje para firmar",
     sign_failed: "Firma fallida",
@@ -787,7 +786,6 @@ export default {
     error_obtaining_etc_addr: "Error al obtener los datos de la dirección de Ethereum Classic",
     error_obtaining_etc_tx: "Error al obtener transacciones Ethereum Classic",
     error_obtaining_fiat_rates: "Error al obtener tasas fiat",
-    error_obtaining_usdt_data: "Error al obtener datos de USDT",
     account_updated_to_zelcore: "Cuenta actualizada a ZelCore",
     wrong_updating_account_to_zelcore: "Algo salió mal al actualizar la cuenta de ZelCore. Póngase en contacto con el equipo de Zel",
     error_connecting_zelpro_database: "Error al conectar con la base de datos ZelCore+",

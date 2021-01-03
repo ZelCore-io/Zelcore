@@ -52,6 +52,9 @@ export default {
     from: "From",
     private_key: "Private Key",
     private_keys: "Private Keys",
+    yes_send: "Yes, Send",
+    no_back: "No, Back",
+    proceed_tx: "Proceed with transaction?",
     // Close Dialog
     log_out: "Log Out",
     exit_zelcore: "Exit ZelCore",
@@ -348,7 +351,7 @@ export default {
     memo2: "Memo:",
     warning_eth_contracts: "Warning: Ethereum contracts take a few minutes to be show on the explorers. Contracts require you to have a balance of ETH so that it can be used as Gas to power the contracts execution.",
     warning_etc_transactions: "Warning: It takes a while for an Ethereum Classic transaction to be listed in the transaction table. Make sure not to double send.",
-    warning_usdt_is_btc: "Warning: Tether is an Omni layer Bitcoin token and so requires BTC to perform a transaction. In addition to Bitcoin transaction fees, 0.000006 BTC has to be \n"
+    warning_omni_is_btc: "Warning: {coinname} is an Omni layer Bitcoin token and so requires BTC to perform a transaction. In addition to Bitcoin transaction fees, 0.000006 BTC has to be \n"
       + "sent to the destination address to pay for the transaction fees of the BTC network. The sending process can take a couple of seconds and it may take up to a few minutes for \n"
       + "a transaction to be visible on the Omni Explorer and transaction table, please be patient. Your transaction is instantly visible in your Bitcoin ZelCore wallet.",
     warning_monero_fee: "Warning: {coinname} fee is not known prior the transaction creation, this is just an approximation. Transaction creation takes a few seconds. Unconfirmed transactions are not properly shown in transaction table and may not reflect your balance.",
@@ -363,10 +366,10 @@ export default {
       + "Full Node is for advanced users, if you do not know what Full Node is, do not use it! Please frequently backup private keys of addresses you are using as best practice.",
     launch_full_node: "Launch Full Node",
     destination_address: "Destination address",
-    destination_address_cruxid: "Destination address or CruxID",
-    destination_address_cruxid_openalias: "Destination address, CruxID or OpenAlias",
+    destination_address_cruxid: "Destination address",
+    destination_address_cruxid_openalias: "Destination address or OpenAlias",
     destination_account: "Destination account",
-    destination_account_cruxid: "Destination account or CruxID",
+    destination_account_cruxid: "Destination account",
     payment_id: "Payment ID",
     payment_id2: "Payment ID:",
     no_payment_id: "No Payment ID",
@@ -418,6 +421,19 @@ export default {
     token_migrated: "{coinName} asset migrated",
     token_migrated_info: "{coinName} has migrated from being an Ethereum Token to its own network! ZelCore continues to support only the original token form on Ethereum Network. {coinName} network is not supported!",
     vbk_reward_arrive: "You will receive your VeriBlock PoP subsidy reward in your ZelCore VeriBlock wallet {label} - {address} within 6 hours.",
+    send_zel_team_some_love: "Send Zel team some ",
+    donation: "Donation",
+    donation1: "I will donate a Lollipop",
+    donation2: "I will donate Gummy Bears",
+    donation3: "I will donate an Ice Cream",
+    donation4: "I will donate one Coffee",
+    donation5: "I will donate one Chocolate Bar",
+    donation6: "I will donate one Hamburger",
+    donation7: "I will donate one Pizza",
+    donations_help: "The Zel team would like you to consider donating to Zel Foundation. We have done so much and reached so far; we have probably the best multi-asset platform available on the market.<br />"
+      + "To achieve this, we have been developing ZelCore nonstop and optimizing our infrastructure responsible for making this developing technology work beautiful as it should.<br />"
+      + "You can choose the amount to donate from the dropdown, and a transaction will be sent together with yours with the donation to the Zel Foundation.<br />"
+      + "The donations will be used to help to pay infrastructure costs and the continued development of ZelCore. <br /><br />Thank you for supporting our project!<br /> The Zel team.",
 
     // mainland.vue
     take_some_mins: "This can take a few minutes, please be patient.",
@@ -774,6 +790,7 @@ export default {
     change_avatar: "Change Avatar",
     change_background: "Change Background",
     wallet_for_exchanges: "Wallet for Exchanges",
+    wallet_for_rewards: "Wallet for Rewards",
     private_key_for: "Private key for ",
     private_keys_in_wif: "Private keys in Wallet Import Format for ",
     d2fa_is_not_activated_yet: "d2FA is not activated yet. Easy Login can not be set.",
@@ -985,7 +1002,6 @@ export default {
     public_gas_station: "Public Gas Station",
     gas_station_is_unavailable: "Public Gas Station is unavailable",
     sorry_showing_fees: "We are sorry, showing fees is currently unsupported. Please check the transaction on the explorer by clicking on it.",
-    error_obtaining_usdt_csv: "Error while obtaining USDT data for CSV export",
     no_message_received: "No message received to sign",
     no_message_sign: "No message to sign",
     signing_failed: "Signing failed",
@@ -1092,7 +1108,7 @@ export default {
     error_obtaining_etc_addr: "Error while obtaining Ethereum Classic address data",
     error_obtaining_etc_tx: "Error while obtaining Ethereum Classic transactions",
     error_obtaining_fiat_rates: "Error while obtaining fiat rates",
-    error_obtaining_usdt_data: "Error obtaining USDT data",
+    error_obtaining_data: "Error obtaining {coinname} data",
     error_obtaining_xlm_tx: "Error obtaining Stellar Lumen transactions",
     error_obtaining_dest_xlm_addr: "Error obtaining Stellar Lumen destination address data",
     error_obtaining_xlm_addr: "Error obtaining Stellar Lumen data",
@@ -1603,6 +1619,7 @@ export default {
     discount_20: "20% discount",
     extend_my_subscription: "Extend subscription",
     purchase: "Purchase",
+    coinrequest: "CoinRequest",
 
     ravencoin: "Ravencoin",
     assets: "Assets",
@@ -1943,7 +1960,7 @@ export default {
     authorization: "Authorization",
     sms_code: "SMS Code",
     card_2fa_code: "Card 2FA Code",
-    card_2da_code_info: "Please check your bank account for the code",
+    card_2fa_code_info: "Please check your bank account for the code",
     authorize: "Authorize",
     validating_purchase: "Validating Purchase",
     purchase_processing: "Purchase Processing",

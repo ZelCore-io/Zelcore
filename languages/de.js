@@ -231,7 +231,7 @@ export default {
     payment_note: "Zahlungsnotiz",
     warning_eth_contracts: "Warnung: Ethereum Contracts benötigen einige Minuten bis diese im Explorer angezeigt werden! Contracts benötigen das Vorhandensein von Ethereum in Ihrer Wallet, was das Gas darstellt, dass die Ausführung antreibt.",
     warning_etc_transactions: "Warnung: Es dauert eine Weile bis eine Ethereum Classic Transaktion in der Transaktionstabelle gelistet ist.",
-    warning_usdt_is_btc: "Warnung: Tether ist ein Bitcoin Token und bedarf daher BTC zur Ausführung einer Transaktion. Zusätzlich zu Bitcoin Transaktionsgebühren müssen 0.000006 BTC "
+    warning_omni_is_btc: "Warnung: {coinname} ist ein Bitcoin Token und bedarf daher BTC zur Ausführung einer Transaktion. Zusätzlich zu Bitcoin Transaktionsgebühren müssen 0.000006 BTC "
                          + "an die Zieladresse als Auflage des Bitcoin Netzwerks gesendet werden. Sendeprozess dauert einige Sekunden und es könnte bis zu einigen Minuten dauern bis "
                          + "eine Transaktion auf dem Omni Explorer sichtbar wird und sogar länger bis diese in der Transaktionstabelle angezeigt wird, bitte seien Sie geduldig! Transaktion ist sofort sichtbar in Ihrer Bitcoin ZelCore Wallet.",
     warning_monero_fee: "Warnung: {coinname} Gebühr ist nicht vor Erstellung der Transaktion bekannt, es handelt sich um eine Näherung. Erstellung der Transaktion braucht wenige Sekunden.",
@@ -677,7 +677,6 @@ export default {
     no_bitcoinsv_fullnode: "Entschuldigen, wir bieten zur Zeit keinen Full-Node Support für Bitcoin Cash SV an.",
     no_monero_fullnode: "Entschuldigen, wir bieten zur Zeit keinen Full-Node Support für Monero an.",
     sorry_showing_fees: "Es tut uns Leid, das Anzeigen von Gebühren ist aktuell nicht möglich. Bitte die Transaktion auf einem Explorer, durch einen Klick darauf, kontrollieren.",
-    error_obtaining_usdt_csv: "Fehler bei Abrufen von USDT Daten für CSV-Export",
     no_message_received: "Keine Nachricht zu signieren erhalten",
     no_message_sign: "Keine Nachricht zu signieren",
     signing_failed: "Signieren fehlgeschlagen",
@@ -777,7 +776,6 @@ export default {
     error_obtaining_etc_addr: "Fehler bei Abrufen von Ethereum Classic Adresse data",
     error_obtaining_etc_tx: "Fehler bei Abrufen von Ethereum Classic Transaktionen",
     error_obtaining_fiat_rates: "Fehler bei Abrufen von Fiat-Kursen",
-    error_obtaining_usdt_data: "Fehler bei Abrufen von USDT Daten",
     account_updated_to_zelcore: "Account hochgestuft zu ZelCore",
     wrong_updating_account_to_zelcore: "Etwas ist beim Hochrüsten des Accounts zu ZelCore schiefgelaufen. Bitte Zel-Team kontaktieren",
     error_connecting_zelpro_database: "Fehler bei Verbindung zu ZelCore+ Datenbank",

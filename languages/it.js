@@ -264,7 +264,7 @@ export default {
     memo2: "Memo:",
     warning_eth_contracts: "Attenzione: i contratti di Ethereum ci mettono qualche minuto prima di essere mostrati nell’explorer! I contratti richiedono la presenza di Ethereum nel tuo portafogli, che funziona da Gas che alimenta l’esecuzione del contratto.",
     warning_etc_transactions: "Attenzione: Ci vuole un pò di tempo perchè una transazione Ethereum Classic venga aggiunta su una tabella di transazioni. Attenzione a non inviarne il doppio.",
-    warning_usdt_is_btc: "Attenzione: Tether è un token Bitcoin Omni layer e perciò richiede che BTC esegua una transazione. In aggiunta alle commissioni di BTC, devono essere inviati 0.000006 BTC \n"
+    warning_omni_is_btc: "Attenzione: {coinname} è un token Bitcoin Omni layer e perciò richiede che BTC esegua una transazione. In aggiunta alle commissioni di BTC, devono essere inviati 0.000006 BTC \n"
                          + "all’indirizzo destinatario come un requisito della rete Bitcoin. Il processo di invio tarda un paio di secondi, potrebbe tardare qualche minuto per \n"
                          + "essere visibile nell’Omni Explorer e anche di più per apparire nella tabella delle transazioni, per favore sii paziente! La transazione è visibile istantaneamente nel tuo portafogli Bitcoin ZelCore.",
     warning_monero_fee: "Attenzione: Le commissioni di {coinname} non sono conosciute prima della creazione della transazione, questa è solo una approssimazione. La creazione della transazione tarda pochi secondi. Le transazioni non \n"
@@ -278,10 +278,10 @@ export default {
       + "se non sai cos’è un Full Node non usarlo! Per favore effettua frequentemente il backup delle chiavi private degli indirizzi che utilizzi.",
     launch_full_node: "Lancia Full Node",
     destination_address: "Indirizzo Destinatario",
-    destination_address_cruxid: "Indirizzo Destinatario o CruxID",
-    destination_address_cruxid_openalias: "Indirizzo Destinatario, CruxID o OpenAlias",
+    destination_address_cruxid: "Indirizzo Destinatario",
+    destination_address_cruxid_openalias: "Indirizzo Destinatario o OpenAlias",
     destination_account: "Account Destinatario",
-    destination_account_cruxid: "Account Destinatario o CruxID",
+    destination_account_cruxid: "Account Destinatario",
     payment_id: "ID Pagamento",
     payment_id2: "ID Pagamento:",
     no_payment_id: "Nessun ID Pagamento",
@@ -833,7 +833,6 @@ export default {
     no_ontology_fullnode: "Siamo spiacenti, al momento non offriamo il supporto Full Node per Ontology.",
     no_veriblock_fullnode: "Siamo spiacenti, al momento non offriamo il supporto Full Node per VeriBlock.",
     sorry_showing_fees: "Siamo spiacenti, la visualizzazione delle commissioni non è attualmente supportata. Controlla la transazione sull'Explorer facendo clic su di essa.",
-    error_obtaining_usdt_csv: "Errore durante l’acquisizione dei dati USDT per l'esportazione CSV",
     no_message_received: "Nessun messaggio ricevuto da firmare",
     no_message_sign: "Nessun messaggio da firmare",
     signing_failed: "Firma Fallita",
@@ -935,7 +934,6 @@ export default {
     error_obtaining_etc_addr: "Errore durante il recupero dei dati dell'indirizzo di Ethereum Classic",
     error_obtaining_etc_tx: "Errore durante il recupero delle transazioni Ethereum Classic",
     error_obtaining_fiat_rates: "Errore durante il recupero dei tassi in fiat",
-    error_obtaining_usdt_data: "Errore durante il recupero dei dati USDT",
     error_obtaining_xlm_tx: "Errore durante il recupero delle transazioni Stellar Lumen",
     error_obtaining_dest_xlm_addr: "Errore durante il recupero dei dati dell'indirizzo di destinazione di Stellar Lumen",
     error_obtaining_xlm_addr: "Errore durante il recupero dei dati Stellar Lumen",

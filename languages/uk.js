@@ -230,7 +230,7 @@ export default {
     payment_note: "Примітка до платежу",
     warning_eth_contracts: "Увага: Ethereum контракти потребують декількох хвилин до появи в експлорері! Контракти вимагають присутності у гаманці Ethereum'а як Gas'у який сдійснює виконання котракту.",
     warning_etc_transactions: "Увага: транзакції Ethereum Classic потребують деякого часу для внесення в таблицю транзакцій.",
-    warning_usdt_is_btc: "Увага: Tether - це токен Bitcoin і тому вимагає наявність BTC для здійснення транзакції. На додаток до комісії Bitcoin має бути ще 0,000006 BTC "
+    warning_omni_is_btc: "Увага: {coinname} - це токен Bitcoin і тому вимагає наявність BTC для здійснення транзакції. На додаток до комісії Bitcoin має бути ще 0,000006 BTC "
       + "відправка на адресу призначення як вимогає мережа Bitcoin. Процес відправлення займає від кількох секунд до декількох хвилин "
       + "транзакція буде видима в Omni провіднику та у таблиці транзакцій, будь ласка будьте терплячими! Транзакція миттєво відображається у гаманці Bitcoin в ZelCore.",
     warning_monero_fee: "Увага: Комісія {coinname} не відома до створення транзакції, це лише наближення. Створення транзакції займає кілька секунд.",
@@ -683,7 +683,6 @@ export default {
     no_bitcoinsv_fullnode: "На жаль, наразі ми не пропонуємо підтримку повної ноди Bitcoin Cash SV.",
     no_monero_fullnode: "На жаль, наразі ми не пропонуємо підтримку повної ноди для Monero.",
     sorry_showing_fees: "На жаль, відображення комісії наразі не підтримується. Перевірте транзакцію у провіднику, натиснувши на неї.",
-    error_obtaining_usdt_csv: "Помилка під час отримання даних USDT для експорту CSV",
     no_message_received: "Немає повідомлення, отриманого для підписання",
     no_message_sign: "Немає повідомлення для підпису",
     signing_failed: "Помилка підпису",
@@ -783,7 +782,6 @@ export default {
     error_obtaining_etc_addr: "Помилка під час отримання даних адрес Ethereum Classic",
     error_obtaining_etc_tx: "Помилка під час отримання транзакцій Ethereum Classic",
     error_obtaining_fiat_rates: "Помилка при отриманні курсів фіатних валют",
-    error_obtaining_usdt_data: "Помилка отримання даних USDT",
     account_updated_to_zelcore: "Акаунт оновлено до ZelCore",
     wrong_updating_account_to_zelcore: "Під час оновлення акаунту до ZelCore сталася помилка. Зверніться до Zel Team",
     error_connecting_zelpro_database: "Помилка підключення до бази даних ZelPro",

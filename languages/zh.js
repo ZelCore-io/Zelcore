@@ -229,7 +229,7 @@ export default {
     payment_note: "付款说明",
     warning_eth_contracts: "警告：以太坊合约需要几分钟才能在浏览器中显示！合约要求以太坊存在于您的钱包中，这是一种支持合约执行的燃料。",
     warning_etc_transactions: "警告：Ethereum Classic 交易需要一段时间才能在事务表中列出。",
-    warning_usdt_is_btc: "警告：Tether是比特币代币因此需要BTC执行交易。除了比特币交易费，0.000006 BTC必须 \n"
+    warning_omni_is_btc: "警告：{coinname}是比特币代币因此需要BTC执行交易。除了比特币交易费，0.000006 BTC必须 \n"
                          + "作为比特币网络要求发送到目的地地址。发送过程需要几秒钟，可能需要几分钟时间 \n"
                          + "一个在Omni 浏览器上可见的交易，甚至更多要在交易表中显示，请耐心等待！您可以在比特币ZelCore钱包中立即看到交易。",
     warning_monero_fee: "警告：在创建交易之前不知道{coinname}费用，这只是一个近似值。创建交易需要几秒钟。",
@@ -672,7 +672,6 @@ export default {
     no_bitcoinsv_fullnode: "抱歉，我们目前不提供比特币现金SV的完整节点支缓。",
     no_monero_fullnode: "抱歉，我们目前不提供Monero的完整节点支缓。",
     sorry_showing_fees: "很抱歉，显示费用目前不受支缓。请通过点击检查浏览器上的交易。",
-    error_obtaining_usdt_csv: "输出CSV导出的USDT数据时出错",
     no_message_received: "没有任何收到的讯息需要签名",
     no_message_sign: "没有讯息需要签名",
     signing_failed: "签名失败",
@@ -772,7 +771,6 @@ export default {
     error_obtaining_etc_addr: "获取以太坊经典的地址数据时出错",
     error_obtaining_etc_tx: "获取以太坊经典的交易时出错",
     error_obtaining_fiat_rates: "获得菲亚特率时出错",
-    error_obtaining_usdt_data: "获取USDT数据时出错",
     account_updated_to_zelcore: "帐户已更新为ZelCore",
     wrong_updating_account_to_zelcore: "将帐户更新为ZelCore时出错了。请联系Zel团队",
     error_connecting_zelpro_database: "连接到ZelCore+数据库时出错",

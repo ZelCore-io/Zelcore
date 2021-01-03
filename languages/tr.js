@@ -231,7 +231,7 @@ export default {
     tag: "TAG",
     warning_eth_contracts: "Uyarı: Ethereum sözleşmelerinin kaşifte gösterilmesi birkaç dakika alıyor! Sözleşmeler, cüzdanınızda sözleşmenin yerine getirilmesini sağlayan bir Gaz olan Ethereum'un bulunmasını gerektiriyor.",
     warning_etc_transactions: "Uyarı: Bir Ethereum Classic işleminin işlem tablosunda listelenmesi biraz zaman alıyor.",
-    warning_usdt_is_btc: "Uyarı: Tether bir Bitcoin belirtecidir ve BTC'nin bir işlem gerçekleştirmesini gerektirir. Bitcoin işlem ücretlerine ek olarak, 0.000006 BTC olmalıdır "
+    warning_omni_is_btc: "Uyarı: {coinname} bir Bitcoin belirtecidir ve BTC'nin bir işlem gerçekleştirmesini gerektirir. Bitcoin işlem ücretlerine ek olarak, 0.000006 BTC olmalıdır "
                          + "Hedef adrese bir Bitcoin ağ gereksinimi olarak gönderildi. Gönderme işlemi birkaç saniye sürüyor ve için birkaç dakika sürebilir "
                          + "a Omni Explorer’da görünebilecek bir işlem ve işlem tablosunda gösterilebilecek bir işlem varsa, lütfen sabırlı olun! İşlem Bitcoin ZelCore cüzdanınızda anında görülebilir.",
     warning_monero_fee: "Uyarı: {coinname} ücreti işlem oluşturmadan önce bilinmiyor, bu sadece bir yaklaşım. İşlem oluşturma birkaç saniye sürer.",
@@ -689,7 +689,6 @@ export default {
     no_bnb_fullnode: "Üzgünüz, şu anda Binance Chain için tam düğüm desteği sunmuyoruz.",
     no_ripple_fullnode: "Üzgünüz, şu anda Ripple için tam düğüm desteği sunmuyoruz.",
     sorry_showing_fees: "Üzgünüz, ücret gösterme şu anda desteklenmiyor. Lütfen işlemi bir kaşifte tıklayarak inceleyin.",
-    error_obtaining_usdt_csv: "CSV dışa aktarımı için USDT verisi alınırken hata",
     no_message_received: "İmzalanacak mesaj alınmadı",
     no_message_sign: "İmzalanacak mesaj yok",
     signing_failed: "İmzalama başarısız oldu",
@@ -789,7 +788,6 @@ export default {
     error_obtaining_etc_addr: "Ethereum Classic adres verisi alınırken hata oluştu",
     error_obtaining_etc_tx: "Ethereum Classic işlemlerini alırken hata oluştu",
     error_obtaining_fiat_rates: "Fiat oranları alınırken hata",
-    error_obtaining_usdt_data: "USDT verisi alınırken hata",
     account_updated_to_zelcore: "Hesap ZelCore'a güncellendi",
     wrong_updating_account_to_zelcore: "Hesabı ZelCore olarak güncellerken bir şeyler ters gitti. Lütfen Zel Ekibi ile iletişime geçin",
     error_connecting_zelpro_database: "ZelCore + veritabanına bağlanırken hata oluştu",

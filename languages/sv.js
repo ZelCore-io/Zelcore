@@ -144,7 +144,7 @@ export default {
     attach_payment_id: "Bifoga betalnings ID",
     warning_eth_contracts: "Varning: Ethereum kontrakt tar några minuter att visas i explorer! Kontrakt kräver att Ethereum är närvarande i din plånbok som är Gas som driver kontraktsuppförande.",
     warning_etc_transactions: "Varning: Det tar ett tag för en Ethereum Classic transaktion att listas i en transaktionstabell.",
-    warning_usdt_is_btc: "Varning: Tether är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara "
+    warning_omni_is_btc: "Varning: {coinname} är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara "
       + "skickat till destinationsadressen som ett Bitcoin nätverkskrav. Sändning av proccess tar några sekunder och det kan ta upp till några minuter för "
       + "en transaktion som är synlig på Omni Explorer och ännu mer att visas i transaktionstabellen, var tålmodig! Transaktionen är direkt synlig i din Bitcoin ZelCore plånbok.",
     warning_monero_fee: "Varning: {coinname} avgiften är inte känd före transaktionsupprättandet, det här är bara en uppskattning. Transaktionsskapande tar några sekunder.",
