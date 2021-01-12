@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 67.733332 67.733335"
+   height="256"
+   width="256">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26665)"
+     id="layer1">
+    <circle
+       r="32.411457"
+       cy="263.13333"
+       cx="33.866665"
+       id="path815"
+       style="opacity:1;fill:#402f9f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78902775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <g
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       transform="matrix(1.5386521,0,0,1.5386521,17.112515,242.84191)"
+       id="Symbols">
+      <g
+         style="fill:#ffffff"
+         id="Menu-/-not-signed-in"
+         transform="translate(-88,-52)">
+        <path
+           d="m 97.333302,67.555503 c -3.436352,0 -6.222201,-2.785661 -6.222201,-6.222201 0,-3.436541 2.785849,-6.222201 6.222201,-6.222201 3.436538,0 6.222198,2.78566 6.222198,6.222201 0,3.43654 -2.78566,6.222201 -6.222198,6.222201 m 0,-15.555503 c 5.154618,0 9.333298,4.178679 9.333298,9.333302 0,5.154622 -4.17868,9.333302 -9.333298,9.333302 C 92.178679,70.666604 88,66.487924 88,61.333302 88,56.178679 92.178679,52 97.333302,52 Z m 8.877758,19.122144 c 0.60752,0.607514 0.60752,1.592318 0,2.199831 l -6.222387,6.22239 c -0.607513,0.607513 -1.592317,0.607513 -2.199831,0 -0.607513,-0.607513 -0.607513,-1.592318 0,-2.199831 l 6.222388,-6.22239 c 0.60752,-0.607513 1.59232,-0.607513 2.19983,0 z M 109.7777,53.55555 c 0,0.85923 -0.69632,1.555551 -1.55536,1.555551 -0.85923,0 -1.55555,-0.696321 -1.55555,-1.555551 0,-0.859229 0.69632,-1.55555 1.55555,-1.55555 0.85904,0 1.55536,0.696321 1.55536,1.55555 z"
+           id="Fill-19" />
+      </g>
+    </g>
+  </g>
+</svg>

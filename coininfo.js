@@ -5,7 +5,7 @@ const coininfo = {
     total_supply: 897710434,
     circulating_supply: 14245777.57346,
     websites: [
-      "http://www.tokok.com",
+      "https://tokok.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
@@ -16,9 +16,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/tokokenglish",
     bitcointalk: "",
-    facebook: "tokok.exchange",
+    facebook: "https://facebook.com/tokok.exchange",
     twitter: "https://twitter.com/Tokokcom",
-    reddit: "https://www.reddit.com/r/tokok/",
+    reddit: "https://reddit.com/r/tokok",
     repository: "",
   },
   coni: {
@@ -26,7 +26,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 212821104.42221057,
     websites: [
-      "https://www.coinbene.com/#/coni",
+      "https://coinbene.com/#/coni",
     ],
     explorers: [
       "https://etherscan.io/token/0x2c949199cff14aeaf1b33d64db01f48fb57f592f",
@@ -43,11 +43,11 @@ const coininfo = {
     repository: "",
   },
   pax: {
-    description: "Paxos Standard (PAX) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet. Paxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.\r\n\r\nThe Paxos team comes from a wide variety of backgrounds with a diverse array of experiences ranging from Wall Street to Silicon Valley. It’s led by CEO and co-founder Charles Cascarilla, who has spent his career as a customer, analyst, investor and now creator of financial technology.\r\n\r\nPaxos describes itself as “the first regulated Trust company with blockchain expertise”, and it is using that expertise to create a modern settlement solution that can eliminate risk and simplify settlements. What many people may not know about Paxos is that it was actually founded in 2012 as Paxos Trust Company, and that for most of its life it ran the cryptocurrency exchange itBit, which is still operates. The creation of Paxos was a pivot from an exchange platform to a company focused on creating a modern settlement platform using blockchain technology.\r\n\r\nPaxos has become the most widely adopted cryptocurrency in the fastest time frame, with support from over 20 exchanges and OTC desks in the first five weeks of its existence. It’s been picked up and listed by six of the top ten cryptocurrency exchanges, <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a>, <a href=\"https://www.coingecko.com/en/exchanges/okex\">OKEx</a>, <a href=\"https://www.coingecko.com/en/exchanges/gate\">Gate.io</a>, <a href=\"https://www.coingecko.com/en/exchanges/zb\">ZB</a>, <a href=\"https://www.coingecko.com/en/exchanges/kucoin\">KuCoin</a> and <a href=\"https://www.coingecko.com/en/exchanges/digifinex\">DigiFinex</a>. These exchanges are offering PAX as an alternative to the controversial <a href=\"https://www.coingecko.com/en/coins/tether\">Tether</a>. Unlike the controversy surrounding the people who control Tether, there is no such obscurity when it comes to the people behind Paxos. The CEO and co-founder is Charles Cascarilla. He has over 15 years in financial services and has co-founded Cedar Hill asset management back in 2005. He has also worked and Bank of America and Goldman Sachs prior to that.\r\n\r\nThe Paxos Standard (PAX) is the first digital asset to be issued by a financial institution and to be fully secured by the U.S. dollar. While other similar stablecoins have existed, there has been no proof of full U.S. dollar reserves, nor have these earlier assets been issued by a financial institution. The Paxos team has been fairly clear in declaring the different base that PAX is working from. ",
+    description: "Paxos Standard (PAX) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet. Paxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.\r\n\r\nThe Paxos team comes from a wide variety of backgrounds with a diverse array of experiences ranging from Wall Street to Silicon Valley. It’s led by CEO and co-founder Charles Cascarilla, who has spent his career as a customer, analyst, investor and now creator of financial technology.\r\n\r\nPaxos describes itself as “the first regulated Trust company with blockchain expertise”, and it is using that expertise to create a modern settlement solution that can eliminate risk and simplify settlements. What many people may not know about Paxos is that it was actually founded in 2012 as Paxos Trust Company, and that for most of its life it ran the cryptocurrency exchange itBit, which is still operates. The creation of Paxos was a pivot from an exchange platform to a company focused on creating a modern settlement platform using blockchain technology.\r\n\r\nPaxos has become the most widely adopted cryptocurrency in the fastest time frame, with support from over 20 exchanges and OTC desks in the first five weeks of its existence. It’s been picked up and listed by six of the top ten cryptocurrency exchanges, <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a>, <a href=\"https://coingecko.com/en/exchanges/okex\">OKEx</a>, <a href=\"https://coingecko.com/en/exchanges/gate\">Gate.io</a>, <a href=\"https://coingecko.com/en/exchanges/zb\">ZB</a>, <a href=\"https://coingecko.com/en/exchanges/kucoin\">KuCoin</a> and <a href=\"https://coingecko.com/en/exchanges/digifinex\">DigiFinex</a>. These exchanges are offering PAX as an alternative to the controversial <a href=\"https://coingecko.com/en/coins/tether\">Tether</a>. Unlike the controversy surrounding the people who control Tether, there is no such obscurity when it comes to the people behind Paxos. The CEO and co-founder is Charles Cascarilla. He has over 15 years in financial services and has co-founded Cedar Hill asset management back in 2005. He has also worked and Bank of America and Goldman Sachs prior to that.\r\n\r\nThe Paxos Standard (PAX) is the first digital asset to be issued by a financial institution and to be fully secured by the U.S. dollar. While other similar stablecoins have existed, there has been no proof of full U.S. dollar reserves, nor have these earlier assets been issued by a financial institution. The Paxos team has been fairly clear in declaring the different base that PAX is working from. ",
     total_supply: 160737039,
     circulating_supply: 160737039,
     websites: [
-      "https://www.paxos.com/standard/",
+      "https://paxos.com/standard",
     ],
     explorers: [
       "https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1",
@@ -68,7 +68,7 @@ const coininfo = {
     total_supply: 47831688,
     circulating_supply: 47831688,
     websites: [
-      "https://gemini.com/dollar/",
+      "https://gemini.com/dollar",
     ],
     explorers: [
       "https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
@@ -88,8 +88,8 @@ const coininfo = {
     total_supply: 293184174,
     circulating_supply: 293184174,
     websites: [
-      "https://www.circle.com/en/usdc",
-      "https://www.centre.io",
+      "https://circle.com/en/usdc",
+      "https://centre.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -106,45 +106,45 @@ const coininfo = {
     repository: "https://github.com/centrehq/centre-tokens",
   },
   etc: {
-    description: "Ethereum Classic is a decentralized platform that runs <a href=\"https://www.coingecko.com/en?category_id=29\">smart contracts</a>: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.\r\nEthereum Classic is a continuation of the original <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.\r\n\r\n\r\nTransaction Finality\r\n\r\nEthereum Classic believes the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; \r\n\r\nCode is Law. This does not necessarily mean that code replaces existing laws, or that only code is law (there are many geographical jurisdictions), but it gives users the opportunity to enter into a new blockchain-based jurisdiction where agreements are governed by code.\r\n\r\nBy entering into contracts on Ethereum Classic, you can be certain that the network remains neutral. The outcome of transactions will be dictated by code you voluntarily interact with. Unless explicitly defined by the contract code, there are no reversals, no undos, no opt-outs.\r\n\r\nTransactions are final; applications are unstoppable.\r\n\r\n\r\nDecentralized Governance\r\n\r\nThere are many problems that fester due to centralization and opaqueness; corruption, unaccountability, nepotism, inefficiency and stagnation. Ultimately, centralization leads to fragility; only decentralized systems can stand the test of time.\r\n\r\nThese problems can be only solved by adhering to governance systems that do not rely on a central point of failure. Just like distributed networks and the consensus protocol itself, we believe that only truly decentralized projects can survive in the long run.\r\n\r\nEthereum Classic manifests these values by relinquishing control by a formalized central foundation. The only hierarchy is that of transparent meritocracy and mutual reputation. No backroom deals or behind-closed-doors unilateral decision making; just free and open discourse.\r\n",
+    description: "Ethereum Classic is a decentralized platform that runs <a href=\"https://coingecko.com/en?category_id=29\">smart contracts</a>: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.\r\nEthereum Classic is a continuation of the original <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.\r\n\r\n\r\nTransaction Finality\r\n\r\nEthereum Classic believes the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; \r\n\r\nCode is Law. This does not necessarily mean that code replaces existing laws, or that only code is law (there are many geographical jurisdictions), but it gives users the opportunity to enter into a new blockchain-based jurisdiction where agreements are governed by code.\r\n\r\nBy entering into contracts on Ethereum Classic, you can be certain that the network remains neutral. The outcome of transactions will be dictated by code you voluntarily interact with. Unless explicitly defined by the contract code, there are no reversals, no undos, no opt-outs.\r\n\r\nTransactions are final; applications are unstoppable.\r\n\r\n\r\nDecentralized Governance\r\n\r\nThere are many problems that fester due to centralization and opaqueness; corruption, unaccountability, nepotism, inefficiency and stagnation. Ultimately, centralization leads to fragility; only decentralized systems can stand the test of time.\r\n\r\nThese problems can be only solved by adhering to governance systems that do not rely on a central point of failure. Just like distributed networks and the consensus protocol itself, we believe that only truly decentralized projects can survive in the long run.\r\n\r\nEthereum Classic manifests these values by relinquishing control by a formalized central foundation. The only hierarchy is that of transparent meritocracy and mutual reputation. No backroom deals or behind-closed-doors unilateral decision making; just free and open discourse.\r\n",
     total_supply: 230000000,
     circulating_supply: 110120090,
     websites: [
-      "http://ethereumclassic.org",
+      "https://ethereumclassic.org",
     ],
     explorers: [
-      "http://gastracker.io/",
+      "https://gastracker.io",
       "https://blockscout.com/etc/mainnet",
-      "https://etc.tokenview.com/",
+      "https://etc.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1559630",
-    facebook: "ethereumclassic",
+    facebook: "https://facebook.com/ethereumclassic",
     twitter: "https://twitter.com/eth_classic",
-    reddit: "https://www.reddit.com/r/EthereumClassic",
+    reddit: "https://reddit.com/r/EthereumClassic",
     repository: "https://github.com/ethereumproject/go-ethereum",
   },
   monero: {
-    description: "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning “coin” in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone’s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient’s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone’s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable ‘transaction mixing’ to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users’ funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction – not even the person that gave the funds to the sender in the first place. A system of ‘key images’ associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+    description: "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning “coin” in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone’s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient’s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone’s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable ‘transaction mixing’ to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users’ funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction – not even the person that gave the funds to the sender in the first place. A system of ‘key images’ associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
     total_supply: 18400000,
     circulating_supply: 16952712.5705871,
     websites: [
       "https://getmonero.org",
     ],
     explorers: [
-      "http://monerovision.com/",
-      "http://moneroblocks.info",
-      "https://xmr.tokenview.com/",
+      "https://monerovision.com",
+      "https://moneroblocks.info",
+      "https://xmr.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=583449",
-    facebook: "monerocurrency",
+    facebook: "https://facebook.com/monerocurrency",
     twitter: "https://twitter.com/monero",
-    reddit: "https://www.reddit.com/r/monero",
+    reddit: "https://reddit.com/r/monero",
     repository: "https://github.com/monero-project/monero",
   },
   xcash: {
@@ -152,7 +152,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 42894995224,
     websites: [
-      "https://www.x-network.io/",
+      "https://x-network.io",
     ],
     explorers: [
       "https://explorer.x-cash.org/Explorer",
@@ -163,22 +163,22 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=4781246.0",
     facebook: "",
     twitter: "https://twitter.com/XCashCrypto",
-    reddit: "https://www.reddit.com/r/xcash/",
+    reddit: "https://reddit.com/r/xcash",
     repository: "https://github.com/X-CASH-official/X-CASH",
   },
   dash: {
-    description: "Dash <a href=\"https://www.coingecko.com/buzz/darkcoin-to-dash\">(formerly known as Darkcoin until March 26th 2015)</a> is a cryptocurrency that focuses on privacy and anonymity. Dash protects your privacy by anonymizing transaction that you make over the network using a technology that is developed by the Dash team called DarkSend. DarkSend is inspired out of the CoinJoin project that was meant to anonymize <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> transactions. \r\n\r\nIn Dash, payments are private so nobody can track you, your transactions and balances are nobody’s business. Dash harnesses the power of its Masternode network to power an innovative technology called InstantX. When sending money, users can select the “Use InstantX” box in their wallet, and transactions will be fully sent and irreversible within four seconds. Besides, it has advanced encryption and a trustless protocol for complete security in your payments and anonymization process.\r\n\r\nThe new Dash rebranding of Darkcoin focuses on making open-sourced private digital currency more mainstream. Heavy emphasis are placed on security, instant transaction, and security when it comes to the Dash core development team. Dash was released on the 18th January 2014 with zero premine coins. It uses 11 rounds of hashing algorithm namely blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo which makes it highly secure.\r\n\r\nAs of the current design, there will only be 22 million Dash ever created, making it a deflationary currency. \r\n\r\nCoinGecko had a chance to interview Evan Duffield, creator of Dash to get some insights and perspectives on Dash. Check out here to read more: <a href=\"https://www.coingecko.com/buzz/interview-evan-duffield-dash\">CoinGecko Interview with Evan Duffield, Creator of Dash</a>",
+    description: "Dash <a href=\"https://coingecko.com/buzz/darkcoin-to-dash\">(formerly known as Darkcoin until March 26th 2015)</a> is a cryptocurrency that focuses on privacy and anonymity. Dash protects your privacy by anonymizing transaction that you make over the network using a technology that is developed by the Dash team called DarkSend. DarkSend is inspired out of the CoinJoin project that was meant to anonymize <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> transactions. \r\n\r\nIn Dash, payments are private so nobody can track you, your transactions and balances are nobody’s business. Dash harnesses the power of its Masternode network to power an innovative technology called InstantX. When sending money, users can select the “Use InstantX” box in their wallet, and transactions will be fully sent and irreversible within four seconds. Besides, it has advanced encryption and a trustless protocol for complete security in your payments and anonymization process.\r\n\r\nThe new Dash rebranding of Darkcoin focuses on making open-sourced private digital currency more mainstream. Heavy emphasis are placed on security, instant transaction, and security when it comes to the Dash core development team. Dash was released on the 18th January 2014 with zero premine coins. It uses 11 rounds of hashing algorithm namely blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo which makes it highly secure.\r\n\r\nAs of the current design, there will only be 22 million Dash ever created, making it a deflationary currency. \r\n\r\nCoinGecko had a chance to interview Evan Duffield, creator of Dash to get some insights and perspectives on Dash. Check out here to read more: <a href=\"https://coingecko.com/buzz/interview-evan-duffield-dash\">CoinGecko Interview with Evan Duffield, Creator of Dash</a>",
     total_supply: 18920000,
     circulating_supply: 8782079.95765087,
     websites: [
-      "https://www.dash.org",
+      "https://dash.org",
     ],
     explorers: [
-      "https://chainz.cryptoid.info/dash/",
+      "https://chainz.cryptoid.info/dash",
       "https://blockchair.com/dash",
-      "https://www.coinexplorer.net/DASH",
-      "https://dashblockexplorer.com/",
-      "https://dash.tokenview.com/",
+      "https://coinexplorer.net/DASH",
+      "https://dashblockexplorer.com",
+      "https://dash.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -186,66 +186,66 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=421615",
     facebook: "",
     twitter: "https://twitter.com/dashpay",
-    reddit: "https://www.reddit.com/r/dashpay",
+    reddit: "https://reddit.com/r/dashpay",
     repository: "https://github.com/dashpay/dash-network-deploy",
   },
   bitcoin: {
-    description: "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://www.coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://www.coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://www.coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
+    description: "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
     total_supply: 21000000,
     circulating_supply: 17675337,
     websites: [
-      "http://www.bitcoin.org",
+      "https://bitcoin.org",
     ],
     explorers: [
       "https://blockchair.com/bitcoin/blocks",
-      "https://blockchain.info/",
-      "https://live.blockcypher.com/btc/",
-      "https://bitcoinblockexplorers.com/",
-      "https://btc.tokenview.com/",
+      "https://blockchain.info",
+      "https://live.blockcypher.com/btc",
+      "https://bitcoinblockexplorers.com",
+      "https://btc.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "bitcoins",
+    facebook: "https://facebook.com/bitcoins",
     twitter: "https://twitter.com/btc",
-    reddit: "https://www.reddit.com/r/Bitcoin/",
+    reddit: "https://reddit.com/r/Bitcoin",
     repository: "https://github.com/bitcoin/bips",
   },
   ethereum: {
-    description: "Ethereum is a <a href=\"https://www.coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://www.coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://www.coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://www.coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://www.coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://www.coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://www.coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
-    total_supply: "",
+    description: "Ethereum is a <a href=\"https://coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
+    total_supply: null,
     circulating_supply: 105881890.4366,
     websites: [
-      "https://www.ethereum.org/",
+      "https://ethereum.org",
     ],
     explorers: [
-      "https://etherscan.io/",
-      "https://ethplorer.io/",
+      "https://etherscan.io",
+      "https://ethplorer.io",
       "https://blockchair.com/ethereum",
-      "https://blockscout.com/eth/mainnet/",
-      "https://enjinx.io/",
+      "https://blockscout.com/eth/mainnet",
+      "https://enjinx.io",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=428589",
-    facebook: "ethereumproject",
+    facebook: "https://facebook.com/ethereumproject",
     twitter: "https://twitter.com/ethereum",
-    reddit: "https://www.reddit.com/r/ethereum",
+    reddit: "https://reddit.com/r/ethereum",
     repository: "https://github.com/ethereum/go-ethereum",
   },
   zcash: {
-    description: "Zcash is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions. Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private.\r\n\r\nZcash is based on peer-reviewed cryptographic research, and built by a security-specialized engineering team on an open source platform based on Bitcoin Core's battle-tested codebase. Our improvement over <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> is the addition of privacy. Zcash uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.\r\n\r\nHow Zcash works\r\n\r\nZcash encrypts the contents of shielded transactions. Since the payment information is encrypted, the protocol uses a novel cryptographic method to verify their validity.\r\n\r\nZcash uses a zero-knowledge proof construction called a zk-SNARK, developed by our team of experienced cryptographers based on recent breakthroughs in cryptography. These constructions allow the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publicly demonstrating spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is cheating or stealing.\r\n\r\nZcash also enables users to send public payments which work similarly to Bitcoin. With the support for both shielded and transparent addresses, users can choose to send Zcash privately or publicly. Zcash payments sent from a shielded address to a transparent address reveal the received balance, while payments from a transparent address to a shielded address protect the receiving value. \r\n\r\nCheck out <a href=\"https://www.coinbureau.com/education/what-is-zcash/\">CoinBureau</a> for guide on What is ZCash.",
+    description: "Zcash is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions. Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private.\r\n\r\nZcash is based on peer-reviewed cryptographic research, and built by a security-specialized engineering team on an open source platform based on Bitcoin Core's battle-tested codebase. Our improvement over <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> is the addition of privacy. Zcash uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.\r\n\r\nHow Zcash works\r\n\r\nZcash encrypts the contents of shielded transactions. Since the payment information is encrypted, the protocol uses a novel cryptographic method to verify their validity.\r\n\r\nZcash uses a zero-knowledge proof construction called a zk-SNARK, developed by our team of experienced cryptographers based on recent breakthroughs in cryptography. These constructions allow the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publicly demonstrating spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is cheating or stealing.\r\n\r\nZcash also enables users to send public payments which work similarly to Bitcoin. With the support for both shielded and transparent addresses, users can choose to send Zcash privately or publicly. Zcash payments sent from a shielded address to a transparent address reveal the received balance, while payments from a transparent address to a shielded address protect the receiving value. \r\n\r\nCheck out <a href=\"https://coinbureau.com/education/what-is-zcash/\">CoinBureau</a> for guide on What is ZCash.",
     total_supply: 21000000,
     circulating_supply: 6434206.25,
     websites: [
-      "https://z.cash/",
+      "https://z.cash",
     ],
     explorers: [
-      "https://explorer.zcha.in/",
-      "https://zecblockexplorer.com/",
-      "https://zcash.tokenview.com/",
+      "https://explorer.zcha.in",
+      "https://zecblockexplorer.com",
+      "https://zcash.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -253,37 +253,37 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/zcashco",
-    reddit: "https://www.reddit.com/r/zec",
+    reddit: "https://reddit.com/r/zec",
     repository: "https://github.com/zcash/zcash",
   },
   usdt: {
-    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
     total_supply: 3080109502,
     circulating_supply: 2057371745.62,
     websites: [
-      "https://tether.to/",
+      "https://tether.to",
     ],
     explorers: [
       "https://blockchair.com/bitcoin/omni/property/31",
-      "https://www.omniexplorer.info/asset/31",
+      "https://omniexplorer.info/asset/31",
       "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "https://usdt.tokenview.com/",
+      "https://usdt.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "tether.to",
+    facebook: "https://facebook.com/tether.to",
     twitter: "https://twitter.com/Tether_to",
     reddit: "",
     repository: "",
   },
   usdterc: {
-    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
     total_supply: 1550057493.363429,
     circulating_supply: 1550057493.363429,
     websites: [
-      "https://tether.to/",
+      "https://tether.to",
     ],
     explorers: [
       "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -294,24 +294,24 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "tether.to",
+    facebook: "https://facebook.com/tether.to",
     twitter: "https://twitter.com/Tether_to",
     reddit: "",
     repository: "",
   },
   litecoin: {
-    description: "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or ‘altcoin’ has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n‘While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,’ Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin’s blocks would be larger, but with more ‘orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+    description: "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or ‘altcoin’ has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n‘While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,’ Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin’s blocks would be larger, but with more ‘orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
     total_supply: 84000000,
     circulating_supply: 61573607.6205068,
     websites: [
-      "http://litecoin.org",
+      "https://litecoin.org",
     ],
     explorers: [
       "https://blockchair.com/litecoin",
-      "https://chainz.cryptoid.info/ltc/",
+      "https://chainz.cryptoid.info/ltc",
       "https://bitupper.com/en/explorer/litecoin",
-      "https://litecoinblockexplorer.net/",
-      "https://ltc.tokenview.com/",
+      "https://litecoinblockexplorer.net",
+      "https://ltc.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -319,7 +319,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=47417",
     facebook: "",
     twitter: "https://twitter.com/litecoin",
-    reddit: "https://www.reddit.com/r/litecoin/",
+    reddit: "https://reddit.com/r/litecoin",
     repository: "https://github.com/litecoin-project/litecoin",
   },
   bitcoinz: {
@@ -327,10 +327,10 @@ const coininfo = {
     total_supply: 236750041,
     circulating_supply: 4272848333.92548,
     websites: [
-      "https://btcz.rocks/",
+      "https://btcz.rocks",
     ],
     explorers: [
-      "https://btczexplorer.blockhub.info/",
+      "https://btczexplorer.blockhub.info",
     ],
     medium: "",
     discord: "",
@@ -338,20 +338,20 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2166510",
     facebook: "BTCZCommunity",
     twitter: "https://twitter.com/BitcoinZTeam",
-    reddit: "https://www.reddit.com/r/BTCZCommunity",
+    reddit: "https://reddit.com/r/BTCZCommunity",
     repository: "https://github.com/bitcoinz-pod/bitcoinz",
   },
   ravencoin: {
-    description: "Ravencoin is a blockchain specifically dedicated to the creation and peer-to-peer transfer of assets. Just as <a href=\"https://www.coingecko.com/en/coins/monero\">Monero</a> is solely focused on privacy, Ravencoin specializes in asset transfer – nothing more, nothing less. Although you can exchange assets over other blockchains, like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>, that’s not their intended purpose. And the lack of specialization leads to problems that are specific to transferring assets. Ravencoin enables you to create and trade any real-world (e.g., gold bars, land deeds) or digital (e.g., gaming items, software licenses) assets on a network with only that in mind.\r\n\r\nRavencoin doesn’t have an established team. It’s an open-source project led by the core developers: RavoncoinDev, Tron, and Chatturga (discord usernames). Bruce Fenton, Board Member of The Bitcoin Foundation, advises the team. The core developers launched Ravencoin on January 3rd, 2018 and Fenton kicked off the launch with a Tweet announcing the start of mining. The project gained some notoriety when Overstock CEO Patrick Byrne announced that his company had made a multi-million dollar investment into the team. Since then, the team has been building out the core functionality of asset support and rewards capabilities.\r\n\r\nThe release of the Ravencoin mainnet and increase in activity on the platform should help the price. Any news of notable companies or financial institutions utilizing the platform should also have a positive effect. Ravencoin offers just one thing: tokenized asset transfer. And that singular focus isn’t a bad thing. When projects attempt to solve a bunch of problems at once, they often create a bunch of half-baked solutions. Ravencoin is avoiding that. As a young project with seemingly endless competition, it’s difficult to predict how successful Ravencoin will be. An active community and backing from one of the most respected names in online retail are positive indicators, though. There’s a clear trend toward the tokenization of all types of assets. However, we have yet to see whether or not Ravencoin will be leading that change.",
+    description: "Ravencoin is a blockchain specifically dedicated to the creation and peer-to-peer transfer of assets. Just as <a href=\"https://coingecko.com/en/coins/monero\">Monero</a> is solely focused on privacy, Ravencoin specializes in asset transfer – nothing more, nothing less. Although you can exchange assets over other blockchains, like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>, that’s not their intended purpose. And the lack of specialization leads to problems that are specific to transferring assets. Ravencoin enables you to create and trade any real-world (e.g., gold bars, land deeds) or digital (e.g., gaming items, software licenses) assets on a network with only that in mind.\r\n\r\nRavencoin doesn’t have an established team. It’s an open-source project led by the core developers: RavoncoinDev, Tron, and Chatturga (discord usernames). Bruce Fenton, Board Member of The Bitcoin Foundation, advises the team. The core developers launched Ravencoin on January 3rd, 2018 and Fenton kicked off the launch with a Tweet announcing the start of mining. The project gained some notoriety when Overstock CEO Patrick Byrne announced that his company had made a multi-million dollar investment into the team. Since then, the team has been building out the core functionality of asset support and rewards capabilities.\r\n\r\nThe release of the Ravencoin mainnet and increase in activity on the platform should help the price. Any news of notable companies or financial institutions utilizing the platform should also have a positive effect. Ravencoin offers just one thing: tokenized asset transfer. And that singular focus isn’t a bad thing. When projects attempt to solve a bunch of problems at once, they often create a bunch of half-baked solutions. Ravencoin is avoiding that. As a young project with seemingly endless competition, it’s difficult to predict how successful Ravencoin will be. An active community and backing from one of the most respected names in online retail are positive indicators, though. There’s a clear trend toward the tokenization of all types of assets. However, we have yet to see whether or not Ravencoin will be leading that change.",
     total_supply: 21000000000,
     circulating_supply: 3440385000,
     websites: [
-      "https://ravencoin.org/",
-      "https://getravencoin.org/",
+      "https://ravencoin.org",
+      "https://getravencoin.org",
     ],
     explorers: [
-      "https://ravencoin.network/",
-      "https://rvn.tokenview.com/",
+      "https://ravencoin.network",
+      "https://rvn.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -359,19 +359,19 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=3238497",
     facebook: "Ravencoinofficial",
     twitter: "https://twitter.com/ravencoin",
-    reddit: "https://www.reddit.com/r/Ravencoin",
+    reddit: "https://reddit.com/r/Ravencoin",
     repository: "https://github.com/RavenProject/Ravencoin",
   },
   bitcoincash: {
-    description: "Bitcoin Cash is a hard fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> with a protocol upgrade to fix on-chain capacity. Bitcoin Cash intends to be a Bitcoin without Segregated Witness (SegWit) as soft fork, where upgrades of the protocol are done mainly through hard forks and without changing the original economic rules of the Bitcoin.\r\n\r\nBitcoin Cash (BCH) is released on 1st August 2017 as an upgraded version of the original <a href=\"https://www.coingecko.com/en/coins/bitcoin/developer#panel\">Bitcoin Core software</a>. The main upgrade is the increase in the block size limit from 1MB to 8MB. This effectively allows miners on the BCH chain to process up to 8 times more payments per second in comparison to Bitcoin. This makes for faster, cheaper transactions and a much smoother user experience.\r\n\r\nWhy was Bitcoin Cash Created?\r\n\r\nThe main objective of Bitcoin Cash is to to bring back the essential qualities of money inherent in the original Bitcoin software. Over the years, these qualities were filtered out of Bitcoin Core and progress was stifled by various people, organizations, and companies involved in Bitcoin protocol development. The result is that Bitcoin Core is currently unusable as money due to increasingly high fees per transactions and transfer times taking hours to complete. This is all because of the 1MB limitation of Bitcoin Core’s block size, causing it unable to accommodate to large number of transactions.\r\n\r\nEssentially Bitcoin Cash is a community-activated upgrade (otherwise known as a hard fork) of Bitcoin that increased the block size to 8MB, solving the scaling issues that plague Bitcoin Core today.\r\n\r\nNov 16th 2018: A hashwar resulted in a split between <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash-sv\">Bitcoin SV</a> and <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash-abc\">Bitcoin ABC</a>",
+    description: "Bitcoin Cash is a hard fork of <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> with a protocol upgrade to fix on-chain capacity. Bitcoin Cash intends to be a Bitcoin without Segregated Witness (SegWit) as soft fork, where upgrades of the protocol are done mainly through hard forks and without changing the original economic rules of the Bitcoin.\r\n\r\nBitcoin Cash (BCH) is released on 1st August 2017 as an upgraded version of the original <a href=\"https://coingecko.com/en/coins/bitcoin/developer#panel\">Bitcoin Core software</a>. The main upgrade is the increase in the block size limit from 1MB to 8MB. This effectively allows miners on the BCH chain to process up to 8 times more payments per second in comparison to Bitcoin. This makes for faster, cheaper transactions and a much smoother user experience.\r\n\r\nWhy was Bitcoin Cash Created?\r\n\r\nThe main objective of Bitcoin Cash is to to bring back the essential qualities of money inherent in the original Bitcoin software. Over the years, these qualities were filtered out of Bitcoin Core and progress was stifled by various people, organizations, and companies involved in Bitcoin protocol development. The result is that Bitcoin Core is currently unusable as money due to increasingly high fees per transactions and transfer times taking hours to complete. This is all because of the 1MB limitation of Bitcoin Core’s block size, causing it unable to accommodate to large number of transactions.\r\n\r\nEssentially Bitcoin Cash is a community-activated upgrade (otherwise known as a hard fork) of Bitcoin that increased the block size to 8MB, solving the scaling issues that plague Bitcoin Core today.\r\n\r\nNov 16th 2018: A hashwar resulted in a split between <a href=\"https://coingecko.com/en/coins/bitcoin-cash-sv\">Bitcoin SV</a> and <a href=\"https://coingecko.com/en/coins/bitcoin-cash-abc\">Bitcoin ABC</a>",
     total_supply: 21000000,
     circulating_supply: 17757602.1469233,
     websites: [
-      "https://www.bitcoincash.org/",
+      "https://bitcoincash.org",
     ],
     explorers: [
       "https://blockchair.com/bitcoin-cash",
-      "https://bch.tokenview.com/",
+      "https://bch.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -379,21 +379,21 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2040221",
     facebook: "",
     twitter: "https://twitter.com/bitcoin",
-    reddit: "https://www.reddit.com/r/btc",
+    reddit: "https://reddit.com/r/btc",
     repository: "https://github.com/Bitcoin-ABC/bitcoin-abc",
   },
   binance: {
-    description: "Binance Coin is the cryptocurrency of the <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://www.coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://www.coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://www.coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://www.coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
+    description: "Binance Coin is the cryptocurrency of the <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
     total_supply: 183345602,
     circulating_supply: 144443301,
     websites: [
-      "https://www.binance.com/",
+      "https://binance.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
       "https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "https://enjinx.io/eth/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
-      "https://explorer.binance.org/",
+      "https://explorer.binance.org",
     ],
     medium: "",
     discord: "",
@@ -401,21 +401,21 @@ const coininfo = {
     bitcointalk: "",
     facebook: "binanceexchange",
     twitter: "https://twitter.com/binance",
-    reddit: "https://www.reddit.com/r/binance",
+    reddit: "https://reddit.com/r/binance",
     repository: "https://github.com/binance-exchange/binance-official-api-docs",
   },
   bnbbinance: {
-    description: "Binance Coin is the cryptocurrency of the <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://www.coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://www.coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://www.coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://www.coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
+    description: "Binance Coin is the cryptocurrency of the <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
     total_supply: 183345602,
     circulating_supply: 144443301,
     websites: [
-      "https://www.binance.com/",
+      "https://binance.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
       "https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "https://enjinx.io/eth/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
-      "https://explorer.binance.org/",
+      "https://explorer.binance.org",
     ],
     medium: "",
     discord: "",
@@ -423,18 +423,18 @@ const coininfo = {
     bitcointalk: "",
     facebook: "binanceexchange",
     twitter: "https://twitter.com/binance",
-    reddit: "https://www.reddit.com/r/binance",
+    reddit: "https://reddit.com/r/binance",
     repository: "https://github.com/binance-exchange/binance-official-api-docs",
   },
   bitcore: {
-    description: "Bitcore is a cryptocurrency that is a hybrid fork of Bitcoin. Although hard forks are heard of, a lot of people only know of Bitcoin hard forks such as <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash\">Bitcoin Cash</a> and <a href=\"https://www.coingecko.com/en/coins/bitcoin-gold\">Bitcoin Gold</a>; instead, a few people know of Bitcore or hybrid forks. Using Bitcoin’s source code and technology, Bitcore created a new blockchain altogether; it made sure that the blockchain size is smaller, the scalability is better. Furthermore, block times are faster than <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> while making mining ASIC resistant as well.\r\n\r\nBitcore is not that different from Bitcoin as of now. In fact, it is rather inferior to Bitcoin and most other cryptocurrencies; it has no utility at the time of writing this. It’s only an investment prospect for those who believe the coin will kick on soon and reach great heights. The reason why one would want to invest in Bitcore is that of its unique practices.\r\n\r\nBitcore created a new blockchain on November 2, 2017. It took a snapshot of the Bitcoin transaction and created 5 million transactions to fill all the public addresses belonging to people owning 0.01 BTC or more. The funding ratio is 0.5 BTX: 1.0 BTC, but if you had bitcoins at the time of the snapshot, then you can request your share of BTX at a 1:1 conversion until October 30.\r\n\r\nBitcore is the first cryptocurrency to be a hybrid fork. But it is more than just a hybrid fork. It has tried to improve on Bitcoin and solve the issues that plague it. For instance, Bitcore uses timetravel10 consensus algorithm which is resistant to ASICs. This means that centralization of mining power is not possible as the playfield is levelled and everyone has an equal opportunity more or less. Moreover, Bitcore has 10 MB Segwit enabled blocks that make the network capable of handling 17.6 billion transactions a year or 48 million transactions per day.\r\n\r\nBitcore is a cryptocurrency that has a lot of promise but nothing to show for as of now. Those investing in it believe that it will grow into a major force soon. But even after weekly airdrops, the user base is limited. Handling 46 million transactions per day won’t matter if there aren’t many people to use it. The development team’s efforts will go a long way into ensuring that more people start using BTX. A wallet that is on the way can help change things a little; however, Bitcore’s long-term future might depend on whether it can offer something different or not.",
+    description: "Bitcore is a cryptocurrency that is a hybrid fork of Bitcoin. Although hard forks are heard of, a lot of people only know of Bitcoin hard forks such as <a href=\"https://coingecko.com/en/coins/bitcoin-cash\">Bitcoin Cash</a> and <a href=\"https://coingecko.com/en/coins/bitcoin-gold\">Bitcoin Gold</a>; instead, a few people know of Bitcore or hybrid forks. Using Bitcoin’s source code and technology, Bitcore created a new blockchain altogether; it made sure that the blockchain size is smaller, the scalability is better. Furthermore, block times are faster than <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> while making mining ASIC resistant as well.\r\n\r\nBitcore is not that different from Bitcoin as of now. In fact, it is rather inferior to Bitcoin and most other cryptocurrencies; it has no utility at the time of writing this. It’s only an investment prospect for those who believe the coin will kick on soon and reach great heights. The reason why one would want to invest in Bitcore is that of its unique practices.\r\n\r\nBitcore created a new blockchain on November 2, 2017. It took a snapshot of the Bitcoin transaction and created 5 million transactions to fill all the public addresses belonging to people owning 0.01 BTC or more. The funding ratio is 0.5 BTX: 1.0 BTC, but if you had bitcoins at the time of the snapshot, then you can request your share of BTX at a 1:1 conversion until October 30.\r\n\r\nBitcore is the first cryptocurrency to be a hybrid fork. But it is more than just a hybrid fork. It has tried to improve on Bitcoin and solve the issues that plague it. For instance, Bitcore uses timetravel10 consensus algorithm which is resistant to ASICs. This means that centralization of mining power is not possible as the playfield is levelled and everyone has an equal opportunity more or less. Moreover, Bitcore has 10 MB Segwit enabled blocks that make the network capable of handling 17.6 billion transactions a year or 48 million transactions per day.\r\n\r\nBitcore is a cryptocurrency that has a lot of promise but nothing to show for as of now. Those investing in it believe that it will grow into a major force soon. But even after weekly airdrops, the user base is limited. Handling 46 million transactions per day won’t matter if there aren’t many people to use it. The development team’s efforts will go a long way into ensuring that more people start using BTX. A wallet that is on the way can help change things a little; however, Bitcore’s long-term future might depend on whether it can offer something different or not.",
     total_supply: 21000000,
     circulating_supply: 17580349.5355478,
     websites: [
-      "https://bitcore.cc/",
+      "https://bitcore.cc",
     ],
     explorers: [
-      "https://chainz.cryptoid.info/btx/",
+      "https://chainz.cryptoid.info/btx",
     ],
     medium: "",
     discord: "",
@@ -442,15 +442,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1883902",
     facebook: "",
     twitter: "https://twitter.com/bitcore_btx",
-    reddit: "https://www.reddit.com/r/bitcore_btx/",
+    reddit: "https://reddit.com/r/bitcore_btx",
     repository: "https://github.com/LIMXTEC/BitCore",
   },
   sonm: {
-    description: "SONM is a global operating system that is also a decentralized worldwide fog supercomputer. With SONM, users have access to general-purpose computing services of a cloud-like nature, including IaaS and PaaS, all of which have fog computing as the backend. Hosts around the world can contribute computing power as part of the SONM marketplace. The leaders of SONM are co-founder Sergey Ponomarev and CTO Igor Lebedev. SONM uses the agile development framework with a self-organizing cross-functional team. \r\n\r\nThe Product Management Board defines the market needs to confirm that products meet business requirements. These include Node (Core), Smart Contracts, Wallet (Client), and Distributed Entity and Integration. Each of these teams has multiple developers, including a lead. Other teams include the Product & Analytics and QA teams.SONM always makes customer satisfaction its top priority. SONM studies the rental resource market to figure out exactly what customers need, delivering the advantages like scalability already mentioned. Additionally, customers will benefit from the Infrastructure-as-a-Service platform that supports all types of hardware resources, making it possible to find the exact resource you need. With SONM, consumers can instantly release and grow resources within the computing fog. In addition, security is always maintained regarding the supplier’s reputation. For added security, SONM is working toward hardware-enforced security, as well. Finally, consumers benefit from high market liquidity in purchasing resources and the ability to scale out their application.\r\n\r\n<a href=\"https://www.coingecko.com/en/ico/sonm\">SONM’s ICO</a> was held on June 15, 2017 and successfully raised $42,000,000. Paolo Tasca, a digital economist and blockchain expert, joined the SONM Advisory Board. Tasca is the Executive Director of the Centre for Blockchain Technologies at University College London, as well as a blockchain consultant to the United Nations and EU Parliament, and the co-editor of “Banking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century.”\"",
+    description: "SONM is a global operating system that is also a decentralized worldwide fog supercomputer. With SONM, users have access to general-purpose computing services of a cloud-like nature, including IaaS and PaaS, all of which have fog computing as the backend. Hosts around the world can contribute computing power as part of the SONM marketplace. The leaders of SONM are co-founder Sergey Ponomarev and CTO Igor Lebedev. SONM uses the agile development framework with a self-organizing cross-functional team. \r\n\r\nThe Product Management Board defines the market needs to confirm that products meet business requirements. These include Node (Core), Smart Contracts, Wallet (Client), and Distributed Entity and Integration. Each of these teams has multiple developers, including a lead. Other teams include the Product & Analytics and QA teams.SONM always makes customer satisfaction its top priority. SONM studies the rental resource market to figure out exactly what customers need, delivering the advantages like scalability already mentioned. Additionally, customers will benefit from the Infrastructure-as-a-Service platform that supports all types of hardware resources, making it possible to find the exact resource you need. With SONM, consumers can instantly release and grow resources within the computing fog. In addition, security is always maintained regarding the supplier’s reputation. For added security, SONM is working toward hardware-enforced security, as well. Finally, consumers benefit from high market liquidity in purchasing resources and the ability to scale out their application.\r\n\r\n<a href=\"https://coingecko.com/en/ico/sonm\">SONM’s ICO</a> was held on June 15, 2017 and successfully raised $42,000,000. Paolo Tasca, a digital economist and blockchain expert, joined the SONM Advisory Board. Tasca is the Executive Director of the Centre for Blockchain Technologies at University College London, as well as a blockchain consultant to the United Nations and EU Parliament, and the co-editor of “Banking Beyond Banks and Money: A Guide to Banking Services in the Twenty-First Century.”\"",
     total_supply: 444000000,
     circulating_supply: 399600000,
     websites: [
-      "https://sonm.io/",
+      "https://sonm.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
@@ -463,15 +463,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1763166",
     facebook: "",
     twitter: "https://twitter.com/sonmdevelopment",
-    reddit: "https://www.reddit.com/r/SONM",
+    reddit: "https://reddit.com/r/SONM",
     repository: "https://github.com/sonm-io/core",
   },
   omisego: {
-    description: "The OMG network is a scaling solution for finance on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>, enabling transparent, peer-to-peer transactions in real-time. The decentralized network facilitates self-sovereign financial services across geographies, asset classes and applications. OmiseGo builds an app with our SDK to enable wallet-to-wallet transactions of crypto and fiat currencies, loyalty points, game credits and more. It uses the OMG network to access, manage, and transact with digital assets that are kept securely on chain. Besides, it offers a decentralized exchange mechanism to provide multi-asset and cross-chain interoperability, that is scalable and secure via <a href=\"https://www.coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof-of-stake</a>. \r\n\r\nOmiseGO is building a <a href=\"https://www.coingecko.com/en?category_id=9&view=market\">decentralized exchange</a>, liquidity provider mechanism, clearinghouse messaging network, and asset-backed blockchain gateway. OmiseGO is not owned by any single one party. Instead, it is an open distributed network of validators which enforce behavior of all participants. It uses the mechanism of a protocol token to create a proof-of-stake blockchain to enable enforcement of market activity amongst participants. This high-performant distributed network enforces exchange across asset classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).\r\n\r\nUnlike nearly all other decentralized exchange platforms, this allows for decentralized exchange of other blockchains and between multiple blockchains directly without a trusted gateway token. Markets may be able to significantly reduce spreads and encourage market assurance via decentralizing custody and increased transparency of market activity. This is achieved using smart contracts, protocol tokens enforcing correct market behavior of orderbook matching, a new construction of Ethereum bonded external enforcement of clearinghouse activity, and commitments to historical exchange data for use with Ethereum smart contracts.\r\n\r\nThere are several benefits such as access. Through the open source, white-label SDK, digital wallet providers can connect to the public OMG network to enable users to transact any digital assets, including crypto and fiat currencies. It has high security because bonding to the Ethereum blockchain creates secure token custody, decentralized exchange of all Ethereum assets, and ultra-secure transaction validation. It is very stable as the Plasma architecture allows for unlimited scalability with unprecedented transaction speed: millions, and potentially billions of transactions per second. \r\n\r\nOmiseGO allows for stakeholders, from individuals to issuers, to have significantly greater assurance in the financial mechanisms of society. With the emerging popularity of eWallet platforms, siloed networks are becoming a problem. This creates a unique opportunity for fiat tokens to interchange across a decentralized network, along with cross compatibility with cryptocurrencies. In order to build this decentralized interchange network, it requires not only a blockchain well-suited for payments and interchange of issued tokens, but also a decentralized exchange which supports these activities, as well as incentives around creating well-functioning liquidity pools.\r\n\r\nEventually, these issued tokens may asymptotically get closer and closer to full decentralization (including user-owned keys) which maximizes agency of the individual. This can be achieved by creating not only transparency in the business process of payment interchange, but also removing the ownership of the business process itself from a single trusted entity.\r\n\r\nThe OmiseGo team has already been recognized as up and coming “Fintech Rockstars” by Forbes for their contributions to date. Omise contributed $100,000 in funding to the Ethereum foundation’s DEVGRANTS which is a program to help new Ethereum focused projects, develop the code bases and implement community evangelism. This indicates their commitment to the Ethereum ecosystem as a whole.This has helped them amass a fairly stacked advisory board. The OmiseGO board lists the co-founders of Ethereum, <a href=\"https://www.coingecko.com/en/coins/golem\">Golem</a>, Tendermint, Cosmos and even the Lightning Network as advisors. That’s quite a justice league of crypto-superstars. \r\n\r\nAlthough many cryptos are focused on disrupting global banking, Omise and OmiseGO are actually following current trends in the banking industry. Their goal is to provide banking to the unbanked, something both PayPal and Stripe are also doing in a similar manner.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/omisego-omg/\">CoinBureau</a> for the complete review of OmiseGo.",
+    description: "The OMG network is a scaling solution for finance on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>, enabling transparent, peer-to-peer transactions in real-time. The decentralized network facilitates self-sovereign financial services across geographies, asset classes and applications. OmiseGo builds an app with our SDK to enable wallet-to-wallet transactions of crypto and fiat currencies, loyalty points, game credits and more. It uses the OMG network to access, manage, and transact with digital assets that are kept securely on chain. Besides, it offers a decentralized exchange mechanism to provide multi-asset and cross-chain interoperability, that is scalable and secure via <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof-of-stake</a>. \r\n\r\nOmiseGO is building a <a href=\"https://coingecko.com/en?category_id=9&view=market\">decentralized exchange</a>, liquidity provider mechanism, clearinghouse messaging network, and asset-backed blockchain gateway. OmiseGO is not owned by any single one party. Instead, it is an open distributed network of validators which enforce behavior of all participants. It uses the mechanism of a protocol token to create a proof-of-stake blockchain to enable enforcement of market activity amongst participants. This high-performant distributed network enforces exchange across asset classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).\r\n\r\nUnlike nearly all other decentralized exchange platforms, this allows for decentralized exchange of other blockchains and between multiple blockchains directly without a trusted gateway token. Markets may be able to significantly reduce spreads and encourage market assurance via decentralizing custody and increased transparency of market activity. This is achieved using smart contracts, protocol tokens enforcing correct market behavior of orderbook matching, a new construction of Ethereum bonded external enforcement of clearinghouse activity, and commitments to historical exchange data for use with Ethereum smart contracts.\r\n\r\nThere are several benefits such as access. Through the open source, white-label SDK, digital wallet providers can connect to the public OMG network to enable users to transact any digital assets, including crypto and fiat currencies. It has high security because bonding to the Ethereum blockchain creates secure token custody, decentralized exchange of all Ethereum assets, and ultra-secure transaction validation. It is very stable as the Plasma architecture allows for unlimited scalability with unprecedented transaction speed: millions, and potentially billions of transactions per second. \r\n\r\nOmiseGO allows for stakeholders, from individuals to issuers, to have significantly greater assurance in the financial mechanisms of society. With the emerging popularity of eWallet platforms, siloed networks are becoming a problem. This creates a unique opportunity for fiat tokens to interchange across a decentralized network, along with cross compatibility with cryptocurrencies. In order to build this decentralized interchange network, it requires not only a blockchain well-suited for payments and interchange of issued tokens, but also a decentralized exchange which supports these activities, as well as incentives around creating well-functioning liquidity pools.\r\n\r\nEventually, these issued tokens may asymptotically get closer and closer to full decentralization (including user-owned keys) which maximizes agency of the individual. This can be achieved by creating not only transparency in the business process of payment interchange, but also removing the ownership of the business process itself from a single trusted entity.\r\n\r\nThe OmiseGo team has already been recognized as up and coming “Fintech Rockstars” by Forbes for their contributions to date. Omise contributed $100,000 in funding to the Ethereum foundation’s DEVGRANTS which is a program to help new Ethereum focused projects, develop the code bases and implement community evangelism. This indicates their commitment to the Ethereum ecosystem as a whole.This has helped them amass a fairly stacked advisory board. The OmiseGO board lists the co-founders of Ethereum, <a href=\"https://coingecko.com/en/coins/golem\">Golem</a>, Tendermint, Cosmos and even the Lightning Network as advisors. That’s quite a justice league of crypto-superstars. \r\n\r\nAlthough many cryptos are focused on disrupting global banking, Omise and OmiseGO are actually following current trends in the banking industry. Their goal is to provide banking to the unbanked, something both PayPal and Stripe are also doing in a similar manner.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/omisego-omg/\">CoinBureau</a> for the complete review of OmiseGo.",
     total_supply: 140245398,
     circulating_supply: 140245398,
     websites: [
-      "https://omg.omise.co/",
+      "https://omg.omise.co",
     ],
     explorers: [
       "https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
@@ -484,15 +484,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/omise_go",
-    reddit: "https://www.reddit.com/r/omise_go",
+    reddit: "https://reddit.com/r/omise_go",
     repository: "https://github.com/omisego/elixir-omg",
   },
   zilliqa: {
-    description: "Zilliqa (ZIL) is a token developed in the year 2017. Zilliqa is mainly based on the concept of Sharding and primarily aims at improving the scalability of the cryptocurrency networks as in case of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>. The white paper mentions that the transactions speed would be approximately a thousand times more than that of Ethereum network. Ziliqa is fast, secured and decentralized. Zilliqa’s high throughput means that you can focus on developing your ideas without worrying about network congestion, high transaction fees or security which are the key issues with legacy blockchain platforms.\r\n\r\nZilliqa network uses a concept called Sharding where the transactions are grouped into smaller groups and divided among the miners for the parallel transactional verification. Developing smaller groups for transactional verification means the Consensus can be reached faster and hence a higher number of transactions can be processed in a given time frame. The capacity of the network linearly increases in other cryptocurrencies as the number of people joins the network, but in this case, the capacity is increased at a higher variable rate than the number of members joining the network. By incorporating the Sharding Technology, it can completely revolutionize the smart contract functionality too.\r\n\r\nZiliqa has few pros as it has a great new technology. Zilliqa is the first platform to use sharding technology. This puts it ahead of the rest of the market. It’s a completely new kind of blockchain designed to solve the problem of scalability. Third-generation platforms like Zilliqa could be the big winners in the future of cryptocurrency. Ziliqa has a strong community. The platform has a lot of fans. The Zilliqa ICO only happened because there was so much demand for it. The Zilliqa ICO also shows that the crypto community is ready to see blockchain technology move to the next phase of its development.",
+    description: "Zilliqa (ZIL) is a token developed in the year 2017. Zilliqa is mainly based on the concept of Sharding and primarily aims at improving the scalability of the cryptocurrency networks as in case of <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>. The white paper mentions that the transactions speed would be approximately a thousand times more than that of Ethereum network. Ziliqa is fast, secured and decentralized. Zilliqa’s high throughput means that you can focus on developing your ideas without worrying about network congestion, high transaction fees or security which are the key issues with legacy blockchain platforms.\r\n\r\nZilliqa network uses a concept called Sharding where the transactions are grouped into smaller groups and divided among the miners for the parallel transactional verification. Developing smaller groups for transactional verification means the Consensus can be reached faster and hence a higher number of transactions can be processed in a given time frame. The capacity of the network linearly increases in other cryptocurrencies as the number of people joins the network, but in this case, the capacity is increased at a higher variable rate than the number of members joining the network. By incorporating the Sharding Technology, it can completely revolutionize the smart contract functionality too.\r\n\r\nZiliqa has few pros as it has a great new technology. Zilliqa is the first platform to use sharding technology. This puts it ahead of the rest of the market. It’s a completely new kind of blockchain designed to solve the problem of scalability. Third-generation platforms like Zilliqa could be the big winners in the future of cryptocurrency. Ziliqa has a strong community. The platform has a lot of fans. The Zilliqa ICO only happened because there was so much demand for it. The Zilliqa ICO also shows that the crypto community is ready to see blockchain technology move to the next phase of its development.",
     total_supply: 12599999804,
     circulating_supply: 8754317427.479412,
     websites: [
-      "https://www.zilliqa.com/",
+      "https://zilliqa.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
@@ -507,15 +507,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2367256",
     facebook: "",
     twitter: "https://twitter.com/zilliqa",
-    reddit: "https://www.reddit.com/r/zilliqa/",
+    reddit: "https://reddit.com/r/zilliqa",
     repository: "https://github.com/Zilliqa/Zilliqa",
   },
   zrx: {
-    description: "0x is an open protocol that is designed to offer a <a href=\"https://www.coingecko.com/en/coins/all?category_id=9\">decentralized exchange</a> as part of the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. 0x is made using a protocol that involves Ethereum smart contacts that allow those around the world to run a decentralized exchange. The team behind 0x strongly believes that in the future, you will find thousands of tokens from Ethereum and that 0x can provide an efficient and trustworthy way to exchange them.\r\n\r\n0x have several benefits such as it can be any asset. The 0x protocol facilitates the exchange of a growing number of <a href=\"https://www.coingecko.com/en?asset_platform_id=279&view=market\">Ethereum-based tokens</a> including currencies, game items, and many more digital assets. Besides, it has a networked liquidity. By sharing a standard API, relayers can easily aggregate liquidity pools, creating network effects around liquidity that compound as more relayers come online. 0x also can be exchanged anywhere. 0x allows trade functionality to fade into the background, enabling developers to focus on building while 0x handles the exchange.\r\n\r\nThe co-founders of 0x are Will Warren and Amir Bandeali, the first of which is the CEO and the second of which is the CTO. Both are in smart contract research and development. Warren used to conduct applied physics research at the Los Alamos National Laboratory after studying mechanical engineering at UC San Diego. Bandeali used to be a fixed income trader with DRW after he studied finance at the University of Illinois, Urbana-Champaign. \r\n\r\n0x doesn’t charge fees of any type to use their protocol; it is free. However, if someone chooses to create a decentralized cryptocurrency exchange using the protocol, that person, known as a Relayer, can charge fees.\r\n\r\nHow does it work?\r\n\r\n0x protocol works where : A “Creator” sends his request and at that same point the request is posted in an off-chain arrange/order book by the “Relayer”, next to which the request is acknowledged by the “Taker” by pushing the exchange into the task’s DEX smart contract. Thus, the 0x protocol uses off-chain order books, which is maintained by a relayer for settlement of trade between two parties. Relayers, being behind the maintenance and creation of these channels are incentivised by charging and collecting fees.\r\n\r\n0x (ZRX) Token:\r\n\r\nZRX token is the unique aspect of 0x project which will be used to pay ‘relayers the trading fees by the users of the protocol. It is also a governance token in a decentralized form for the 0x protocol’s upgrade. ",
+    description: "0x is an open protocol that is designed to offer a <a href=\"https://coingecko.com/en/coins/all?category_id=9\">decentralized exchange</a> as part of the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. 0x is made using a protocol that involves Ethereum smart contacts that allow those around the world to run a decentralized exchange. The team behind 0x strongly believes that in the future, you will find thousands of tokens from Ethereum and that 0x can provide an efficient and trustworthy way to exchange them.\r\n\r\n0x have several benefits such as it can be any asset. The 0x protocol facilitates the exchange of a growing number of <a href=\"https://coingecko.com/en?asset_platform_id=279&view=market\">Ethereum-based tokens</a> including currencies, game items, and many more digital assets. Besides, it has a networked liquidity. By sharing a standard API, relayers can easily aggregate liquidity pools, creating network effects around liquidity that compound as more relayers come online. 0x also can be exchanged anywhere. 0x allows trade functionality to fade into the background, enabling developers to focus on building while 0x handles the exchange.\r\n\r\nThe co-founders of 0x are Will Warren and Amir Bandeali, the first of which is the CEO and the second of which is the CTO. Both are in smart contract research and development. Warren used to conduct applied physics research at the Los Alamos National Laboratory after studying mechanical engineering at UC San Diego. Bandeali used to be a fixed income trader with DRW after he studied finance at the University of Illinois, Urbana-Champaign. \r\n\r\n0x doesn’t charge fees of any type to use their protocol; it is free. However, if someone chooses to create a decentralized cryptocurrency exchange using the protocol, that person, known as a Relayer, can charge fees.\r\n\r\nHow does it work?\r\n\r\n0x protocol works where : A “Creator” sends his request and at that same point the request is posted in an off-chain arrange/order book by the “Relayer”, next to which the request is acknowledged by the “Taker” by pushing the exchange into the task’s DEX smart contract. Thus, the 0x protocol uses off-chain order books, which is maintained by a relayer for settlement of trade between two parties. Relayers, being behind the maintenance and creation of these channels are incentivised by charging and collecting fees.\r\n\r\n0x (ZRX) Token:\r\n\r\nZRX token is the unique aspect of 0x project which will be used to pay ‘relayers the trading fees by the users of the protocol. It is also a governance token in a decentralized form for the 0x protocol’s upgrade. ",
     total_supply: 1000000000,
     circulating_supply: 587710996.5683601,
     websites: [
-      "https://0x.org/",
+      "https://0x.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498",
@@ -528,15 +528,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/0xproject",
-    reddit: "https://www.reddit.com/r/0xProject",
+    reddit: "https://reddit.com/r/0xProject",
     repository: "https://github.com/0xProject/ZEIPs",
   },
   golem: {
-    description: "Golem is a decentralized supercomputer that is accessible by anyone. The system is made up of the combined power of user’s machines from personal PCs to entire datacenters. Golem is able to compute almost any tasks from CGI rendering through machine learning to scientific learning. It utilizes an <a href\"https://www.coingecko.com/en/coins/ethereum\">ethereum</a>-based transaction system to clear payments between providers, requestors and software developers however it is safe because all computations take place in sandbox environments and are fully isolated from the hosts’ systems. \r\n\r\nThe company released Brass in 2016 which includes Blender and LuxRender which are the two tools for CGI rendering. There are three releases that follows which are Clay, Stone and Iron. Golem has recently updated their Brass Beta and the highlight of this upgrade are the streamlined task creation GUI, the support for partial task restart in case of subtask timeouts and the fix that should alleviate the issues with the Docker service on Windows. Other than that, improvements have been made on the Blender verification and transaction tracking subsystems and fixed some minor pain-points in the UX. Transaction history will become more user-friendly with separate tabs for payments and incomes. Apart from that, improvements are made for requestors as well, requestors is now able to add resource file without having to repeat the task creation procedure if they have forgotten to add them beforehand. \r\n\r\nGrand vision and core features\r\n● Golem is the first truly decentralized supercomputer, creating a global market for computing power. Combined with flexible tools to aid developers in securely distributing and monetizing their software, Golem altogether changes the way compute tasks are organized and executed. By powering decentralized microservices and asynchronous task execution, Golem is set to become a key building block for future Internet service providers and software development. And, by substantially lowering the price of computations, complex applications such as CGI rendering, scientific calculation, and machine learning become more accessible to everyone.\r\n\r\n● Golem connects computers in a peer-to-peer network, enabling both application owners and individual users (\"requestors\") to rent resources of other users’ (\"providers\") machines. These resources can be used to complete tasks requiring any amount of computation time and capacity. Today, such resources are supplied by centralized cloud providers which, are constrained by closed networks, proprietary payment systems, and hard-coded provisioning operations. Also core to Golem’s built-in feature set is a dedicated <a href=\"https://www.coingecko.com/en?asset_platform_id=279&view=market\">Ethereum-based</a> transaction system, which enables direct payments between requestors, providers, and software developers.\r\n\r\n● The function of Golem as the backbone of a decentralized market for computing power can be considered both Infrastructure-as-a-Service (IaaS), as well as Platform-as-a-Service (PaaS). However, Golem reveals its true potential by adding dedicated software integrations to the equation. Any interested party is free to create and deploy software to the Golem network by publishing it to the Application Registry. Together with the Transaction Framework, developers can also extend and customize the payment mechanism resulting in unique mechanisms for monetizing software.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/golem-gnt/\">CoinBureau</a> for the full review of Golem.",
+    description: "Golem is a decentralized supercomputer that is accessible by anyone. The system is made up of the combined power of user’s machines from personal PCs to entire datacenters. Golem is able to compute almost any tasks from CGI rendering through machine learning to scientific learning. It utilizes an <a href\"https://coingecko.com/en/coins/ethereum\">ethereum</a>-based transaction system to clear payments between providers, requestors and software developers however it is safe because all computations take place in sandbox environments and are fully isolated from the hosts’ systems. \r\n\r\nThe company released Brass in 2016 which includes Blender and LuxRender which are the two tools for CGI rendering. There are three releases that follows which are Clay, Stone and Iron. Golem has recently updated their Brass Beta and the highlight of this upgrade are the streamlined task creation GUI, the support for partial task restart in case of subtask timeouts and the fix that should alleviate the issues with the Docker service on Windows. Other than that, improvements have been made on the Blender verification and transaction tracking subsystems and fixed some minor pain-points in the UX. Transaction history will become more user-friendly with separate tabs for payments and incomes. Apart from that, improvements are made for requestors as well, requestors is now able to add resource file without having to repeat the task creation procedure if they have forgotten to add them beforehand. \r\n\r\nGrand vision and core features\r\n● Golem is the first truly decentralized supercomputer, creating a global market for computing power. Combined with flexible tools to aid developers in securely distributing and monetizing their software, Golem altogether changes the way compute tasks are organized and executed. By powering decentralized microservices and asynchronous task execution, Golem is set to become a key building block for future Internet service providers and software development. And, by substantially lowering the price of computations, complex applications such as CGI rendering, scientific calculation, and machine learning become more accessible to everyone.\r\n\r\n● Golem connects computers in a peer-to-peer network, enabling both application owners and individual users (\"requestors\") to rent resources of other users’ (\"providers\") machines. These resources can be used to complete tasks requiring any amount of computation time and capacity. Today, such resources are supplied by centralized cloud providers which, are constrained by closed networks, proprietary payment systems, and hard-coded provisioning operations. Also core to Golem’s built-in feature set is a dedicated <a href=\"https://coingecko.com/en?asset_platform_id=279&view=market\">Ethereum-based</a> transaction system, which enables direct payments between requestors, providers, and software developers.\r\n\r\n● The function of Golem as the backbone of a decentralized market for computing power can be considered both Infrastructure-as-a-Service (IaaS), as well as Platform-as-a-Service (PaaS). However, Golem reveals its true potential by adding dedicated software integrations to the equation. Any interested party is free to create and deploy software to the Golem network by publishing it to the Application Registry. Together with the Transaction Framework, developers can also extend and customize the payment mechanism resulting in unique mechanisms for monetizing software.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/golem-gnt/\">CoinBureau</a> for the full review of Golem.",
     total_supply: 1000000000,
     circulating_supply: 963622000,
     websites: [
-      "https://golem.network/",
+      "https://golem.network",
     ],
     explorers: [
       "https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
@@ -547,17 +547,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1655002",
-    facebook: "golemproject",
+    facebook: "https://facebook.com/golemproject",
     twitter: "https://twitter.com/golemproject",
-    reddit: "https://www.reddit.com/r/GolemProject",
+    reddit: "https://reddit.com/r/GolemProject",
     repository: "https://github.com/golemfactory/golem",
   },
   bat: {
-    description: "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device, removing the need for third-party tracking. BAT is focused on the Brave browser. Brave is an open-source, privacy-centered browser designed to block trackers and malware. It utilizes blockchain technology to anonymously and securely track user attention, which translates into rewards for publishers.\r\n\r\nA user's attention, meaning his or her focused mental engagement on digital content like advertisements, is logged through Brave. The makers of BAT indicate that the user's private data and tracking information is stored only on the user's device, ensuring that it is anonymous and private.\r\n\r\nCreated back in 2016, the Basic Attention Token has one of the biggest names behind it, that of Brendan Eich, the creator of JavaScript and the legendary co-founder of Mozilla. Other noteworthy team members include Brian Bondy, lead developer and co-founder of Brave and Scott Locklin, senior engineer, and co-founder of Kerf Software.\"\r\n\r\nBasic Attention Token is created by the team that built the <a href=\"https://brave.com/coi600\">Brave browser</a>, an open-source, privacy-focused browser that blocks ads and trackers. The browser measures user attention and rewards publishers for users attention. \r\n\r\nUse the Brave browser to protect your privacy and support CoinGecko at the same time: https://brave.com/coi600",
+    description: "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device, removing the need for third-party tracking. BAT is focused on the Brave browser. Brave is an open-source, privacy-centered browser designed to block trackers and malware. It utilizes blockchain technology to anonymously and securely track user attention, which translates into rewards for publishers.\r\n\r\nA user's attention, meaning his or her focused mental engagement on digital content like advertisements, is logged through Brave. The makers of BAT indicate that the user's private data and tracking information is stored only on the user's device, ensuring that it is anonymous and private.\r\n\r\nCreated back in 2016, the Basic Attention Token has one of the biggest names behind it, that of Brendan Eich, the creator of JavaScript and the legendary co-founder of Mozilla. Other noteworthy team members include Brian Bondy, lead developer and co-founder of Brave and Scott Locklin, senior engineer, and co-founder of Kerf Software.\"\r\n\r\nBasic Attention Token is created by the team that built the <a href=\"https://brave.com/coi600\">Brave browser</a>, an open-source, privacy-focused browser that blocks ads and trackers. The browser measures user attention and rewards publishers for users attention. \r\n\r\nUse the Brave browser to protect your privacy and support CoinGecko at the same time: https://brave.com/coi600",
     total_supply: 1500000000,
     circulating_supply: 1253998400.936303,
     websites: [
-      "https://basicattentiontoken.org/",
+      "https://basicattentiontoken.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef",
@@ -570,7 +570,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/AttentionToken",
-    reddit: "https://www.reddit.com/r/BATProject",
+    reddit: "https://reddit.com/r/BATProject",
     repository: "https://github.com/brave-intl/publishers",
   },
   ant: {
@@ -578,7 +578,7 @@ const coininfo = {
     total_supply: 39609524,
     circulating_supply: 29956794,
     websites: [
-      "https://aragon.org/",
+      "https://aragon.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0",
@@ -599,7 +599,7 @@ const coininfo = {
     total_supply: 987154514,
     circulating_supply: 677154514,
     websites: [
-      "https://www.streamr.com/",
+      "https://streamr.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
@@ -608,11 +608,11 @@ const coininfo = {
     ],
     medium: "",
     discord: "",
-    telegram: "https://t.me/streamrdata/",
+    telegram: "https://t.me/streamrdata",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/streamr/",
-    reddit: "https://www.reddit.com/r/streamr/",
+    twitter: "https://twitter.com/streamr",
+    reddit: "https://reddit.com/r/streamr",
     repository: "https://github.com/streamr-dev",
   },
   monetha: {
@@ -620,7 +620,7 @@ const coininfo = {
     total_supply: 402400000,
     circulating_supply: 341543900,
     websites: [
-      "https://www.monetha.io/",
+      "https://monetha.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
@@ -631,9 +631,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/Monethagroup",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1978067.0",
-    facebook: "https://www.facebook.com/Monetha.io",
+    facebook: "https://facebook.com/Monetha.io",
     twitter: "https://twitter.com/Monetha_io",
-    reddit: "https://www.reddit.com/r/Monetha/",
+    reddit: "https://reddit.com/r/Monetha",
     repository: "https://github.com/monetha",
   },
   dibicoin: {
@@ -641,7 +641,7 @@ const coininfo = {
     total_supply: 10000000000,
     circulating_supply: 10000000000,
     websites: [
-      "https://dibicoin.org/",
+      "https://dibicoin.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
@@ -658,11 +658,11 @@ const coininfo = {
     repository: "",
   },
   maker: {
-    description: "MKR is a cryptocurrency depicted as a smart contract platform and works alongside the Dai coin and aims to act as a hedge currency that provides traders with a stable alternative to the majority of coins currently available on the market. Maker offers a transparent stablecoin system that is fully inspectable on the Ethereum blockchain. Founded almost three years ago, MakerDao is lead by Rune Christensen, its CEO and founder. Maker’s MKR coin is a recent entrant to the market and is not a well known project. However, after today it will be known by many more people after blowing up 40% and it is one of the coins to rise to prominence during the recent peaks and troughs.\r\n\r\nAfter being developed by the MakerDAO team, Maker Dai officially went live on December 18th, 2017. Dai is a price stable coin that is suitable for payments, savings, or collateral and provides cryptocurrency traders with increased options concerning opening and closing positions. Dai lives completely on the blockchain chain with its stability unmediated by the legal system or trusted counterparties and helps facilitate trading while staying entirely in the world of cryptocurrencies. The concept of a stablecoin is fairly straight forward – it’s a token that has its price or value pegged to a particular fiat currency. A stablecoin is a token (like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>) that exists on a blockchain, but unlike Bitcoin or Ethereum, Dai has no volatility.\r\n\r\nMKR is an ERC-20 token on the Ethereum blockchain and can not be mined. It’s instead created/destroyed in response to DAI price fluctuations in order to keep it hovering around $1 USD. MKR is used to pay transaction fees on the Maker system, and it collateralizes the system. Holding MKR comes with voting rights within Maker’s continuous approval voting system. Bad governance devalues MKR tokens, so MKR holders are incentivized to vote for the good of the entire system. It’s a fully decentralized and democratic structure, then, which is an underutilized USP of blockchain tech.\r\n\r\nValue volatility is a relative concept among both cryptos and fiat currencies. The US dollar, for example, was worth 110.748 yen on July 9, 2018. On July 4, 2011, $1 was worth 80.64 yen, and on March 18, 1985, $1 was worth 255.65 yen. These are major differences in exchange rates, and inflation within each country makes each currency worth different values even when compared to themselves. One USD in 1913 is worth the equivalent of $25.41 today, and even $1 in 1993 is worth the equivalent of $1.74 today. Stablecoins don’t negate these basic economic principles of value. Instead, both Tether and Dai have values pegged to the U.S. dollar. This is done to stabilize the price.",
+    description: "MKR is a cryptocurrency depicted as a smart contract platform and works alongside the Dai coin and aims to act as a hedge currency that provides traders with a stable alternative to the majority of coins currently available on the market. Maker offers a transparent stablecoin system that is fully inspectable on the Ethereum blockchain. Founded almost three years ago, MakerDao is lead by Rune Christensen, its CEO and founder. Maker’s MKR coin is a recent entrant to the market and is not a well known project. However, after today it will be known by many more people after blowing up 40% and it is one of the coins to rise to prominence during the recent peaks and troughs.\r\n\r\nAfter being developed by the MakerDAO team, Maker Dai officially went live on December 18th, 2017. Dai is a price stable coin that is suitable for payments, savings, or collateral and provides cryptocurrency traders with increased options concerning opening and closing positions. Dai lives completely on the blockchain chain with its stability unmediated by the legal system or trusted counterparties and helps facilitate trading while staying entirely in the world of cryptocurrencies. The concept of a stablecoin is fairly straight forward – it’s a token that has its price or value pegged to a particular fiat currency. A stablecoin is a token (like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>) that exists on a blockchain, but unlike Bitcoin or Ethereum, Dai has no volatility.\r\n\r\nMKR is an ERC-20 token on the Ethereum blockchain and can not be mined. It’s instead created/destroyed in response to DAI price fluctuations in order to keep it hovering around $1 USD. MKR is used to pay transaction fees on the Maker system, and it collateralizes the system. Holding MKR comes with voting rights within Maker’s continuous approval voting system. Bad governance devalues MKR tokens, so MKR holders are incentivized to vote for the good of the entire system. It’s a fully decentralized and democratic structure, then, which is an underutilized USP of blockchain tech.\r\n\r\nValue volatility is a relative concept among both cryptos and fiat currencies. The US dollar, for example, was worth 110.748 yen on July 9, 2018. On July 4, 2011, $1 was worth 80.64 yen, and on March 18, 1985, $1 was worth 255.65 yen. These are major differences in exchange rates, and inflation within each country makes each currency worth different values even when compared to themselves. One USD in 1913 is worth the equivalent of $25.41 today, and even $1 in 1993 is worth the equivalent of $1.74 today. Stablecoins don’t negate these basic economic principles of value. Instead, both Tether and Dai have values pegged to the U.S. dollar. This is done to stabilize the price.",
     total_supply: 1000000,
     circulating_supply: 1000000,
     websites: [
-      "https://makerdao.com/",
+      "https://makerdao.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
@@ -675,15 +675,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/MakerDAO",
-    reddit: "https://www.reddit.com/r/MakerDAO",
+    reddit: "https://reddit.com/r/MakerDAO",
     repository: "https://github.com/makerdao/dai.js",
   },
   kyber: {
-    description: "Kyber’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem. Tapping on the protocol, developers can build payment flows and financial apps, including instant token swap services, erc20 payments, and innovative financial dapps - helping to build a world where any token is usable anywhere.\r\n\r\nKyber Network maintains liquidity through the dynamic reserve pool. The pool contains all of the Reserve Entities in the system. Having multiple entities in the pool prevents monopolization and keeps exchange rates competitive. When a user requests an exchange, the Kyber smart contract makes the exchange through the Reserve Entity with the best exchange rate for the user. By allowing external Reserve Entities, Kyber Network prevents centralization and opens the door to low-volume token listings. External reserves may be fine with taking on the risk of storing less popular tokens that the Kyber reserves don’t list.\r\nTo prevent bad actors in the reserve pool, Kyber Network has few safeguards. The network will flag any exchange rate for special approval that’s greatly outside the norm. To protect funds in a public reserve, Kyber makes all exchanges using them available through a transparent fund management model.\r\n\r\nThe Kyber team is impressive. <a href=\"https://www.linkedin.com/in/loiluu/\">Loi Luu</a>, Yaron Velner, and Victor Tran are the founders behind the project. Luu previously created Oyente, the first open-source security analyzer for <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> contracts, and cofounded SmartPool, a decentralized mining pool project. Velner has been active in the Ethereum bug bounty program, and Tran is also a lead developer at SmartPool. The team has a well-rounded advisory board with the most notable member being <a href=\"https://www.linkedin.com/in/vitalik-buterin-267a7450\">Vitalik Buterin</a>, Ethereum wunderkind. In August 2017, Kyber successfully launched their testnet beta. They plan on releasing their live product in Q1 this year in which you’ll be able to trade between Ethereum and ERC20 tokens. The project has an extensive list of partners including <a href=\"https://www.coingecko.com/en/coins/request-network\">Request Network</a>, <a href=\"https://www.coingecko.com/en/coins/wax\">Wax</a>, and <a href=\"https://www.coingecko.com/en/coins/storm\">Storm</a>.\r\n\r\nBecause it’s an ERC20 token, you can store KNC in any wallet with ERC20 support. <a href=\"https://www.coingecko.com/buzz/beginner-guide-to-myetherwallet-mewconnect\">MyEtherWallet</a> is the most popular online option. <a href=\"https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask\">MetaMask</a> works as well. Many investors choose to use a hardware wallet for additional security. You can’t go wrong with either the <a href=\"https://www.coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a> or <a href=\"https://www.coingecko.com/buzz/ledger-bitcoin-hardware-wallet-review\">Ledger</a> wallet as both supports KNC. ",
+    description: "Kyber’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem. Tapping on the protocol, developers can build payment flows and financial apps, including instant token swap services, erc20 payments, and innovative financial dapps - helping to build a world where any token is usable anywhere.\r\n\r\nKyber Network maintains liquidity through the dynamic reserve pool. The pool contains all of the Reserve Entities in the system. Having multiple entities in the pool prevents monopolization and keeps exchange rates competitive. When a user requests an exchange, the Kyber smart contract makes the exchange through the Reserve Entity with the best exchange rate for the user. By allowing external Reserve Entities, Kyber Network prevents centralization and opens the door to low-volume token listings. External reserves may be fine with taking on the risk of storing less popular tokens that the Kyber reserves don’t list.\r\nTo prevent bad actors in the reserve pool, Kyber Network has few safeguards. The network will flag any exchange rate for special approval that’s greatly outside the norm. To protect funds in a public reserve, Kyber makes all exchanges using them available through a transparent fund management model.\r\n\r\nThe Kyber team is impressive. <a href=\"https://linkedin.com/in/loiluu/\">Loi Luu</a>, Yaron Velner, and Victor Tran are the founders behind the project. Luu previously created Oyente, the first open-source security analyzer for <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> contracts, and cofounded SmartPool, a decentralized mining pool project. Velner has been active in the Ethereum bug bounty program, and Tran is also a lead developer at SmartPool. The team has a well-rounded advisory board with the most notable member being <a href=\"https://linkedin.com/in/vitalik-buterin-267a7450\">Vitalik Buterin</a>, Ethereum wunderkind. In August 2017, Kyber successfully launched their testnet beta. They plan on releasing their live product in Q1 this year in which you’ll be able to trade between Ethereum and ERC20 tokens. The project has an extensive list of partners including <a href=\"https://coingecko.com/en/coins/request-network\">Request Network</a>, <a href=\"https://coingecko.com/en/coins/wax\">Wax</a>, and <a href=\"https://coingecko.com/en/coins/storm\">Storm</a>.\r\n\r\nBecause it’s an ERC20 token, you can store KNC in any wallet with ERC20 support. <a href=\"https://coingecko.com/buzz/beginner-guide-to-myetherwallet-mewconnect\">MyEtherWallet</a> is the most popular online option. <a href=\"https://coingecko.com/buzz/complete-beginners-guide-to-metamask\">MetaMask</a> works as well. Many investors choose to use a hardware wallet for additional security. You can’t go wrong with either the <a href=\"https://coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a> or <a href=\"https://coingecko.com/buzz/ledger-bitcoin-hardware-wallet-review\">Ledger</a> wallet as both supports KNC. ",
     total_supply: 214823092,
     circulating_supply: 166298397.1811359,
     websites: [
-      "https://kyber.network/",
+      "https://kyber.network",
     ],
     explorers: [
       "https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
@@ -696,7 +696,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/kybernetwork",
-    reddit: "https://www.reddit.com/r/kybernetwork/",
+    reddit: "https://reddit.com/r/kybernetwork",
     repository: "https://github.com/kybernetwork/KyberWallet",
   },
   enigma: {
@@ -704,7 +704,7 @@ const coininfo = {
     total_supply: 150000000,
     circulating_supply: 77393492.4901035,
     websites: [
-      "https://enigma.co/",
+      "https://enigma.co",
     ],
     explorers: [
       "https://etherscan.io/token/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
@@ -717,7 +717,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2052215",
     facebook: "",
     twitter: "https://twitter.com/enigmampc",
-    reddit: "https://www.reddit.com/r/EnigmaProject/",
+    reddit: "https://reddit.com/r/EnigmaProject",
     repository: "https://github.com/enigmampc/enigma-contract",
   },
   tenx: {
@@ -725,7 +725,7 @@ const coininfo = {
     total_supply: 205218256,
     circulating_supply: 118141601.18005468,
     websites: [
-      "https://www.tenx.tech/",
+      "https://tenx.tech",
     ],
     explorers: [
       "https://etherscan.io/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
@@ -736,9 +736,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1953612",
-    facebook: "tenxwallet",
+    facebook: "https://facebook.com/tenxwallet",
     twitter: "https://twitter.com/tenxwallet",
-    reddit: "https://www.reddit.com/r/TenX",
+    reddit: "https://reddit.com/r/TenX",
     repository: "https://github.com/comit-network/RFCs",
   },
   substratum: {
@@ -746,7 +746,7 @@ const coininfo = {
     total_supply: 592000000,
     circulating_supply: 383020999.96,
     websites: [
-      "https://substratum.net/",
+      "https://substratum.net",
     ],
     explorers: [
       "https://etherscan.io/token/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
@@ -759,15 +759,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2054963",
     facebook: "",
     twitter: "https://twitter.com/SubstratumNet",
-    reddit: "https://www.reddit.com/r/SubstratumNetwork",
+    reddit: "https://reddit.com/r/SubstratumNetwork",
     repository: "https://github.com/substratum-net/smart-contract",
   },
   civic: {
-    description: "Using blockchain technology in an unprecedented way, Civic is more than just a coin or a cryptocurrency to trade. It’s an identity verification platform which is meant to make life easier, not only for the user but also for the entity who wishes to verify the identity. Rather than going through a long-winded document verification process, the Civic token enables the verification of identity directly in places where it is accepted. The Civic coin or Civic token (CVC) is the currency associated with Civic, which thrives on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain, primarily exchanged during the identity verification process.\r\n\r\nAs a platform, the Civic cryptocurrency shows a lot of promise. While it is only available in the US presently (which may be disappointing news about its current potential), it’ll soon expand and come over to other countries - which should give it a nice bump in value. The blockchain is where the future lies, and the Civic coin uses it in a unique way to make life easier and our identity more secure.",
+    description: "Using blockchain technology in an unprecedented way, Civic is more than just a coin or a cryptocurrency to trade. It’s an identity verification platform which is meant to make life easier, not only for the user but also for the entity who wishes to verify the identity. Rather than going through a long-winded document verification process, the Civic token enables the verification of identity directly in places where it is accepted. The Civic coin or Civic token (CVC) is the currency associated with Civic, which thrives on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain, primarily exchanged during the identity verification process.\r\n\r\nAs a platform, the Civic cryptocurrency shows a lot of promise. While it is only available in the US presently (which may be disappointing news about its current potential), it’ll soon expand and come over to other countries - which should give it a nice bump in value. The blockchain is where the future lies, and the Civic coin uses it in a unique way to make life easier and our identity more secure.",
     total_supply: 1000000000,
     circulating_supply: 342699977,
     websites: [
-      "https://www.civic.com/",
+      "https://civic.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x41e5560054824ea6b0732e656e3ad64e20e94e45",
@@ -780,7 +780,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1942882",
     facebook: "",
     twitter: "https://twitter.com/civickey",
-    reddit: "https://www.reddit.com/r/civicplatform",
+    reddit: "https://reddit.com/r/civicplatform",
     repository: "",
   },
   stox: {
@@ -788,7 +788,7 @@ const coininfo = {
     total_supply: 56681002,
     circulating_supply: 52255580.86647681,
     websites: [
-      "https://www.stox.com/en",
+      "https://stox.com/en",
     ],
     explorers: [
       "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
@@ -801,19 +801,19 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2035348",
     facebook: "",
     twitter: "https://twitter.com/stx_coin",
-    reddit: "https://www.reddit.com/r/STOX",
+    reddit: "https://reddit.com/r/STOX",
     repository: "https://github.com/stx-technologies/stox-token",
   },
   bitcoingold: {
-    description: "Bitcoin Gold hopes to change the paradigm around mining on the Bitcoin blockchain. According to the founders, the Bitcoin blockchain has become too centralized. Large companies with huge banks of mining computers now mine the vast majority of Bitcoin. For the founders of Bitcoin Gold, having large companies control the Bitcoin network defeats the purpose of a decentralized ledger and peer-to-peer currencies. In response, they’ve initialized the Bitcoin Gold project. It’s an alternate fork of the Bitcoin blockchain that implements changes that make mining more equitable.\r\n\r\nThe goal of Bitcoin Gold is to create a network where anyone can become a miner with only basic hardware. As a result, Bitcoin Gold mining would be spread among many miners, instead of a few large companies.There have several features such as decentralization. Bitcoin Gold decentralizes mining by adopting a PoW algorithm, Equihash-BTG, which cannot be run on the specialty equipment used for Bitcoin mining (ASIC miners.) This gives ordinary users a fair opportunity to mine with common GPUs. Besides, there have fair distribution. Hard forking Bitcoin’s blockchain fairly and efficiently distributes 16.5 million BTG immediately to people all over the world who have interest in cryptos. \r\n\r\nOther methods, such as creating coins with a new genesis block, concentrate ownership within a small group. There also have a replay protection. To ensure the safety of the Bitcoin ecosystem, Bitcoin Gold has implemented full replay protection and unique wallet addresses, essential features that protect users and their coins from several kinds of accidents and malicious threats. Most new mineable cryptocurrencies involve ASIC-resistant hashing algorithms, and it’s becoming something of an industry standard to promote decentralization. In that respect, Bitcoin Gold holds a lot to be excited about. At its core, it’s about transitioning the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> network to more decentralized mining.\r\n\r\nHowever, as we saw above, there’s not much evidence that the current Bitcoin mining system is broken. There have been some small complaints, and it’s not ideal that the network is so centralized. Nevertheless, miners on Bitcoin have a lot to lose if they wield their power too aggressively. There are also new entrants to the Bitcoin mining community that are decentralizing control from a few key ASIC farms. The general consensus from Bitcoin experts is there’s not enough new in Bitcoin Gold to warrant an independent investment. While it certainly doesn’t hurt to hold onto your free BTG that you receive as a result of the fork (if you owned Bitcoin before Oct 24), wait until the dust settles before deciding whether to buy more.\"",
+    description: "Bitcoin Gold hopes to change the paradigm around mining on the Bitcoin blockchain. According to the founders, the Bitcoin blockchain has become too centralized. Large companies with huge banks of mining computers now mine the vast majority of Bitcoin. For the founders of Bitcoin Gold, having large companies control the Bitcoin network defeats the purpose of a decentralized ledger and peer-to-peer currencies. In response, they’ve initialized the Bitcoin Gold project. It’s an alternate fork of the Bitcoin blockchain that implements changes that make mining more equitable.\r\n\r\nThe goal of Bitcoin Gold is to create a network where anyone can become a miner with only basic hardware. As a result, Bitcoin Gold mining would be spread among many miners, instead of a few large companies.There have several features such as decentralization. Bitcoin Gold decentralizes mining by adopting a PoW algorithm, Equihash-BTG, which cannot be run on the specialty equipment used for Bitcoin mining (ASIC miners.) This gives ordinary users a fair opportunity to mine with common GPUs. Besides, there have fair distribution. Hard forking Bitcoin’s blockchain fairly and efficiently distributes 16.5 million BTG immediately to people all over the world who have interest in cryptos. \r\n\r\nOther methods, such as creating coins with a new genesis block, concentrate ownership within a small group. There also have a replay protection. To ensure the safety of the Bitcoin ecosystem, Bitcoin Gold has implemented full replay protection and unique wallet addresses, essential features that protect users and their coins from several kinds of accidents and malicious threats. Most new mineable cryptocurrencies involve ASIC-resistant hashing algorithms, and it’s becoming something of an industry standard to promote decentralization. In that respect, Bitcoin Gold holds a lot to be excited about. At its core, it’s about transitioning the <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> network to more decentralized mining.\r\n\r\nHowever, as we saw above, there’s not much evidence that the current Bitcoin mining system is broken. There have been some small complaints, and it’s not ideal that the network is so centralized. Nevertheless, miners on Bitcoin have a lot to lose if they wield their power too aggressively. There are also new entrants to the Bitcoin mining community that are decentralizing control from a few key ASIC farms. The general consensus from Bitcoin experts is there’s not enough new in Bitcoin Gold to warrant an independent investment. While it certainly doesn’t hurt to hold onto your free BTG that you receive as a result of the fork (if you owned Bitcoin before Oct 24), wait until the dust settles before deciding whether to buy more.\"",
     total_supply: 21000000,
     circulating_supply: 17513924,
     websites: [
-      "https://bitcoingold.org/",
+      "https://bitcoingold.org",
     ],
     explorers: [
-      "https://explorer.bitcoingold.org/insight/",
-      "https://btgexplorer.com/",
+      "https://explorer.bitcoingold.org/insight",
+      "https://btgexplorer.com",
     ],
     medium: "",
     discord: "",
@@ -825,11 +825,11 @@ const coininfo = {
     repository: "https://github.com/BTCGPU/BTCGPU",
   },
   kucoin: {
-    description: "KuCoin is an international cryptocurrency exchange based out of Hong Kong that currently supports the trading of 210 digital assets. What’s unique about KuCoin is that they share 50% of their overall trading fee revenue with users holding their exchange-based token. In a similar fashion to <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a>, KuCoin offers relatively low tradings fees and incentives for holding (or trading) its native cryptocurrency. Back in 2011, the founders started researching blockchain tech and went further to build the technical architecture for KuCoin in 2013. 4 years later, the exchange launched with the ultimate goal of “becoming one of the top 10 worldwide hottest exchange platform[s]” by 2019.\r\n\r\nAs stated on their official website which lists 12 core members, “Kucoin aims at providing users digital asset transaction and exchange services which are even more safe and convenient, integrating premium assets worldwide, and constructing state of the art transaction platform”. CEO and founder, Michael Gam, is a former technical expert at Ant Financial, an affiliate company of the Chinese Alibaba Group. He was also a senior partner at Internet giants like MikeCRM and KF5.COM. OO, Eric Don, is referred to as a “senior Internet researcher, systems architect, and Internet industry star”. He is also stated to be the CTO and senior partner of IT companies including YOULIN.COM, KITEME, and REINOT. However, it’s unclear if these websites actually exist as they did not show in a Google search or when entering the website domains.  According to his LinkedIn, he is currently CTO at Youlin Network Technologies, yet there is no mention of KITEME or REINOT.\r\n\r\nWith its growing user base and increasing number of cryptocurrencies being offered, KuCoin may be set up for a strong run in the markets. KuCoin Shares volume is expected to grow as the daily trading volume on KuCoin, hence, trading fees collection grows & thus, the size of dividend payout grows. This can lure investors to hold KCS token which may even increase its value. KuCoin faces stiff competition from <a href=\"https://www.coingecko.com/en/exchanges/okex\">OKEx</a>, but it expects to continue to grow its community exponentially as it is being projected to be one among the top 5 exchanges in the world. ",
+    description: "KuCoin is an international cryptocurrency exchange based out of Hong Kong that currently supports the trading of 210 digital assets. What’s unique about KuCoin is that they share 50% of their overall trading fee revenue with users holding their exchange-based token. In a similar fashion to <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a>, KuCoin offers relatively low tradings fees and incentives for holding (or trading) its native cryptocurrency. Back in 2011, the founders started researching blockchain tech and went further to build the technical architecture for KuCoin in 2013. 4 years later, the exchange launched with the ultimate goal of “becoming one of the top 10 worldwide hottest exchange platform[s]” by 2019.\r\n\r\nAs stated on their official website which lists 12 core members, “Kucoin aims at providing users digital asset transaction and exchange services which are even more safe and convenient, integrating premium assets worldwide, and constructing state of the art transaction platform”. CEO and founder, Michael Gam, is a former technical expert at Ant Financial, an affiliate company of the Chinese Alibaba Group. He was also a senior partner at Internet giants like MikeCRM and KF5.COM. OO, Eric Don, is referred to as a “senior Internet researcher, systems architect, and Internet industry star”. He is also stated to be the CTO and senior partner of IT companies including YOULIN.COM, KITEME, and REINOT. However, it’s unclear if these websites actually exist as they did not show in a Google search or when entering the website domains.  According to his LinkedIn, he is currently CTO at Youlin Network Technologies, yet there is no mention of KITEME or REINOT.\r\n\r\nWith its growing user base and increasing number of cryptocurrencies being offered, KuCoin may be set up for a strong run in the markets. KuCoin Shares volume is expected to grow as the daily trading volume on KuCoin, hence, trading fees collection grows & thus, the size of dividend payout grows. This can lure investors to hold KCS token which may even increase its value. KuCoin faces stiff competition from <a href=\"https://coingecko.com/en/exchanges/okex\">OKEx</a>, but it expects to continue to grow its community exponentially as it is being projected to be one among the top 5 exchanges in the world. ",
     total_supply: 180334365,
     circulating_supply: 90334365,
     websites: [
-      "https://www.kucoin.com/#/",
+      "https://kucoin.com/#",
     ],
     explorers: [
       "https://etherscan.io/token/0x039b5649a59967e3e936d7471f9c3700100ee1ab",
@@ -842,7 +842,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/kucoincom",
-    reddit: "https://www.reddit.com/r/kucoin",
+    reddit: "https://reddit.com/r/kucoin",
     repository: "",
   },
   sirin: {
@@ -850,7 +850,7 @@ const coininfo = {
     total_supply: 572166103,
     circulating_supply: 517779057.95786244,
     websites: [
-      "https://www.sirinlabs.com",
+      "https://sirinlabs.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
@@ -861,9 +861,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/sirinlabs",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2285838",
-    facebook: "SirinLabs",
+    facebook: "https://facebook.com/SirinLabs",
     twitter: "https://twitter.com/sirinlabs",
-    reddit: "https://www.reddit.com/r/SirinLabs",
+    reddit: "https://reddit.com/r/SirinLabs",
     repository: "https://github.com/sirin-labs/crowdsale-smart-contract",
   },
   everex: {
@@ -871,7 +871,7 @@ const coininfo = {
     total_supply: 25000000,
     circulating_supply: 19284372,
     websites: [
-      "https://www.everex.io/",
+      "https://everex.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
@@ -884,7 +884,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1975013",
     facebook: "",
     twitter: "https://twitter.com/everexio",
-    reddit: "https://www.reddit.com/r/Everex",
+    reddit: "https://reddit.com/r/Everex",
     repository: "https://github.com/EverexIO/EVXToken",
   },
   FET: {
@@ -892,7 +892,7 @@ const coininfo = {
     total_supply: 1152997575,
     circulating_supply: 112497353.936,
     websites: [
-      "https://fetch.ai/",
+      "https://fetch.ai",
     ],
     explorers: [
       "https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd",
@@ -905,15 +905,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/fetch_ai",
-    reddit: "https://www.reddit.com/r/FetchAI_Community/",
+    reddit: "https://reddit.com/r/FetchAI_Community",
     repository: "https://github.com/fetchai/ledger",
   },
   gifto: {
-    description: "Gifto as a network protocol, is a brainchild of Andy Tian, the co-founder and CEO of Asia Innovations Group (AIG). The team at AIG comprises of crypto-technology and blockchain enthusiasts.\r\n\r\nAndy saw potential in designing a decentralized network powered by the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain to fix the current broken content monetization model with a better model. Most people introduced to the global content industry will identify the following problems with the current model:\r\nThe Gifto network was launched in December 2017 and has been tested along with AIG’s flagship product, Uplive.  Uplive is a live streaming mobile application with over 20 million users.\r\n\r\nAn official Gifto report in February 2018, stated that Gifto featured in the top 10 traded cryptocurrencies by volume. The universal blockchain-based virtual gifting protocol has not only bridged the gap between content creators and the audience but has also introduced a way to acknowledge and reward the content creators. Besides monetizing decentralized content, it has revamped the modern creator-audience relationship.\r\n\r\nIt has already received support from a number of large institutional investors including KPCB and Wicklow Capital. This can only be seen a positive for Gifto as it proves that the idea has been scrutinized and accepted by a fairly large number of people.",
+    description: "Gifto as a network protocol, is a brainchild of Andy Tian, the co-founder and CEO of Asia Innovations Group (AIG). The team at AIG comprises of crypto-technology and blockchain enthusiasts.\r\n\r\nAndy saw potential in designing a decentralized network powered by the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain to fix the current broken content monetization model with a better model. Most people introduced to the global content industry will identify the following problems with the current model:\r\nThe Gifto network was launched in December 2017 and has been tested along with AIG’s flagship product, Uplive.  Uplive is a live streaming mobile application with over 20 million users.\r\n\r\nAn official Gifto report in February 2018, stated that Gifto featured in the top 10 traded cryptocurrencies by volume. The universal blockchain-based virtual gifting protocol has not only bridged the gap between content creators and the audience but has also introduced a way to acknowledge and reward the content creators. Besides monetizing decentralized content, it has revamped the modern creator-audience relationship.\r\n\r\nIt has already received support from a number of large institutional investors including KPCB and Wicklow Capital. This can only be seen a positive for Gifto as it proves that the idea has been scrutinized and accepted by a fairly large number of people.",
     total_supply: 1000000000,
     circulating_supply: 642679534.62297,
     websites: [
-      "https://gifto.io/",
+      "https://gifto.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xc5bbae50781be1669306b9e001eff57a2957b09d",
@@ -924,7 +924,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2356301",
-    facebook: "gifto.io",
+    facebook: "https://facebook.com/gifto.io",
     twitter: "https://twitter.com/GIFTO_io",
     reddit: "",
     repository: "https://github.com/GIFTO-io/GiftoSmartContract",
@@ -934,7 +934,7 @@ const coininfo = {
     total_supply: 4436644,
     circulating_supply: 4436644,
     websites: [
-      "https://genesis.vision/",
+      "https://genesis.vision",
     ],
     explorers: [
       "https://etherscan.io/token/0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
@@ -947,16 +947,16 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2143279",
     facebook: "",
     twitter: "https://twitter.com/genesis_vision",
-    reddit: "https://www.reddit.com/r/genesisvision",
+    reddit: "https://reddit.com/r/genesisvision",
     repository: "https://github.com/GenesisVision/platform-contracts",
   },
   holotoken: {
-    description: "Holochain enables a distributed web with user autonomy built directly into its architecture and protocols. Data is about remembering our lived and shared experiences. Distributing the storage and processing of that data can change how we coordinate and interact. With digital integration under user control, Holochain liberates our online lives from corporate control over our choices and information.\r\n\r\nHolochain is an energy efficient post-blockchain ledger system and decentralized application platform that uses peer-to-peer networking for processing agent centric agreement and consensus systems between users.\r\n\r\nHolochain enables any device to have its own chain based ledger system. By using a holographic model for data storage and transfer developers can now create decentralized applications that can scale in multiple dimensions across a network ensuring they are truly distributed. This enables every device on a network to function independently, and only requires the synchronization of data when necessary, or agreed upon by users. This means every user is in control of their own data, and never has to risk their data being sold or exposed to 3rd parties like what just happened with Facebook and Cambridge Analytica.\r\n\r\nHolochain provides a framework for developers to build decentralized applications and aims to change the paradigm of data-centric blockchains to an agent-centric system. In Holochain’s fledgling system, no true global consensus is maintained. Instead, each agent in the public blockchain maintains a private fork, essentially, that is managed and stored in a limited way on the public blockchain with a distributed hash table. This means there are no scalability limits and dapps hosted on Holochain can do much more with less of nearly everything than traditional blockchains.\r\n\r\nThis system however has some inherent weaknesses. Because the entire blockchain must be verified by each member of the network, scalability problems quickly develop. The larger the amount of data being handled, the more restrictive the limit of transactions per second that can occur on the blockchain at any one time.Holochain itself is open source and written in Go. Go was selected for its ease of use and similarity to C. Dapps written specifically for Holochain can be developed with JavaScript or Lisp, with support for front-end systems using CSS, HTML, and JavaScript.\r\n\r\nThe developers added that Holochain is relatively flexible when it comes to handling new languages, so there is potential for growth on that front. Holochain bills itself as an environmentally friendly alternative to traditional blockchains. Because there is no need for each individual agent to store and validate the global blockchain, Holochain only consumes a fraction of the bandwidth of traditional chains. Holochain also does not have a mining component, so there’s no electricity or processing power spent on proof-of-work calculations.\r\n\r\nArthur Brock and Eric Harris-Braun are the co-founders of Holochain and creators of Holochain. They have been designing alternatives currencies since the 80’s and have been working on Holu since before the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> whitepaper was written. To protect the incentives of users, founders and developers, Holochain is owned by a non-profit foundation. he company’s advisory team also includes Ryan Bubinski, the co-founder of CodeAcademy. In June, Holochain announced a new strategic partnership with Promether, an Adaptive Symbiotic Platform (ASP) that implements all the networking, security and anonymization code applications need to protect their data.",
+    description: "Holochain enables a distributed web with user autonomy built directly into its architecture and protocols. Data is about remembering our lived and shared experiences. Distributing the storage and processing of that data can change how we coordinate and interact. With digital integration under user control, Holochain liberates our online lives from corporate control over our choices and information.\r\n\r\nHolochain is an energy efficient post-blockchain ledger system and decentralized application platform that uses peer-to-peer networking for processing agent centric agreement and consensus systems between users.\r\n\r\nHolochain enables any device to have its own chain based ledger system. By using a holographic model for data storage and transfer developers can now create decentralized applications that can scale in multiple dimensions across a network ensuring they are truly distributed. This enables every device on a network to function independently, and only requires the synchronization of data when necessary, or agreed upon by users. This means every user is in control of their own data, and never has to risk their data being sold or exposed to 3rd parties like what just happened with Facebook and Cambridge Analytica.\r\n\r\nHolochain provides a framework for developers to build decentralized applications and aims to change the paradigm of data-centric blockchains to an agent-centric system. In Holochain’s fledgling system, no true global consensus is maintained. Instead, each agent in the public blockchain maintains a private fork, essentially, that is managed and stored in a limited way on the public blockchain with a distributed hash table. This means there are no scalability limits and dapps hosted on Holochain can do much more with less of nearly everything than traditional blockchains.\r\n\r\nThis system however has some inherent weaknesses. Because the entire blockchain must be verified by each member of the network, scalability problems quickly develop. The larger the amount of data being handled, the more restrictive the limit of transactions per second that can occur on the blockchain at any one time.Holochain itself is open source and written in Go. Go was selected for its ease of use and similarity to C. Dapps written specifically for Holochain can be developed with JavaScript or Lisp, with support for front-end systems using CSS, HTML, and JavaScript.\r\n\r\nThe developers added that Holochain is relatively flexible when it comes to handling new languages, so there is potential for growth on that front. Holochain bills itself as an environmentally friendly alternative to traditional blockchains. Because there is no need for each individual agent to store and validate the global blockchain, Holochain only consumes a fraction of the bandwidth of traditional chains. Holochain also does not have a mining component, so there’s no electricity or processing power spent on proof-of-work calculations.\r\n\r\nArthur Brock and Eric Harris-Braun are the co-founders of Holochain and creators of Holochain. They have been designing alternatives currencies since the 80’s and have been working on Holu since before the <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> whitepaper was written. To protect the incentives of users, founders and developers, Holochain is owned by a non-profit foundation. he company’s advisory team also includes Ryan Bubinski, the co-founder of CodeAcademy. In June, Holochain announced a new strategic partnership with Promether, an Adaptive Symbiotic Platform (ASP) that implements all the networking, security and anonymization code applications need to protect their data.",
     total_supply: 177619433541,
     circulating_supply: 177619433541,
     websites: [
-      "https://holo.host/",
-      "https://holochain.org/",
+      "https://holo.host",
+      "https://holochain.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
@@ -967,17 +967,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/channelholo",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2963267",
-    facebook: "holohost",
+    facebook: "https://facebook.com/holohost",
     twitter: "https://twitter.com/h_o_l_o_",
-    reddit: "https://www.reddit.com/r/holochain",
+    reddit: "https://reddit.com/r/holochain",
     repository: "https://github.com/holochain/holochain-ui",
   },
   insolar: {
-    description: "Insolar is building an open-source enterprise-grade blockchain platform to enable seamless interactions between companies and new growth opportunities powered by distributed trust\r\n\r\nThe Insolar platform is powered by blockchain as a service (BaaS) architecture. By putting enterprises on trusted, scalable and transparent networks, Insolar enables busines to slash costs and risks, to increase velocity and discover new revenue streams.\r\n\r\nSynced inter-company workflow\r\nInsolar resolves the issues of individual systems, which results in agreed, immutable histories of interactions. Inter-company connections are automated and streamlined on a unified platform built on the everything-is-a-contract principle.\r\n\r\nCutting-edge DLT technologies \r\nIntra- and inter-company interactions based on unified, fault-tolerant processes and transactions. Utilize customized distributed solutions and networks tailored to precise use-cases.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/insolar-ins/\">CoinBureau</a> for the full review of Insolar.",
+    description: "Insolar is building an open-source enterprise-grade blockchain platform to enable seamless interactions between companies and new growth opportunities powered by distributed trust\r\n\r\nThe Insolar platform is powered by blockchain as a service (BaaS) architecture. By putting enterprises on trusted, scalable and transparent networks, Insolar enables busines to slash costs and risks, to increase velocity and discover new revenue streams.\r\n\r\nSynced inter-company workflow\r\nInsolar resolves the issues of individual systems, which results in agreed, immutable histories of interactions. Inter-company connections are automated and streamlined on a unified platform built on the everything-is-a-contract principle.\r\n\r\nCutting-edge DLT technologies \r\nIntra- and inter-company interactions based on unified, fault-tolerant processes and transactions. Utilize customized distributed solutions and networks tailored to precise use-cases.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/insolar-ins/\">CoinBureau</a> for the full review of Insolar.",
     total_supply: 50000000,
     circulating_supply: 36250000,
     websites: [
-      "https://insolar.io/",
+      "https://insolar.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
@@ -988,13 +988,13 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/insolar",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2208591",
-    facebook: "ins.ecosystem",
+    facebook: "https://facebook.com/ins.ecosystem",
     twitter: "https://twitter.com/insolario",
-    reddit: "https://www.reddit.com/r/insolar",
+    reddit: "https://reddit.com/r/insolar",
     repository: "https://github.com/insolar/platform-backend",
   },
   iotex: {
-    description: "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX’s global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by “connecting the physical world, block by block.”\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/iotex-iotx/\">CoinBureau</a> for the complete review of IoTeX.",
+    description: "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX’s global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by “connecting the physical world, block by block.”\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/iotex-iotx/\">CoinBureau</a> for the complete review of IoTeX.",
     total_supply: 10000000000,
     circulating_supply: 2525040005,
     websites: [
@@ -1009,9 +1009,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/IoTeXGroup",
     bitcointalk: "https://bitcointalk.org/index.php?topic=3099670",
-    facebook: "iotex.io",
+    facebook: "https://facebook.com/iotex.io",
     twitter: "https://twitter.com/iotex_io",
-    reddit: "https://www.reddit.com/r/IoTeX",
+    reddit: "https://reddit.com/r/IoTeX",
     repository: "https://github.com/iotexproject/iotex-core",
   },
   selfkey: {
@@ -1030,17 +1030,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/selfkeyfoundation",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2310691",
-    facebook: "SelfKeyNetwork",
+    facebook: "https://facebook.com/SelfKeyNetwork",
     twitter: "https://twitter.com/SelfKey",
-    reddit: "https://www.reddit.com/r/selfkey",
+    reddit: "https://reddit.com/r/selfkey",
     repository: "https://github.com/SelfKeyFoundation/Identity-Wallet",
   },
   lunyr: {
-    description: "Lunyr (pronounced Lunar), however, is one of the most unique implementations of blockchain yet, aiming to be a decentralized, and peer-to-peer knowledge database, aka the “Blockchain-based Wikipedia”. It strives to be the most innovative and comprehensive source of knowledge in domains like crypto projects, technology, finance, law, investment, and more, on the web.\r\n\r\nThe cofounders of Lunyr are Arnold Pham, Andrew Tran, and Christopher Smith. The Lunyr ICO ended on 26th April 2017, with around USD 0.3 million in capital being generated. The open beta was then launched on 30th January 2018. It is based on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network. The reward system which enables writers to earn rewards for authoring articles was also launched at the same time, allowing writers to earn LUN coins in exchange for quality pieces. Initially, Lunyr will mostly focus on the world of cryptocurrencies and related domains, with emphasis on up and coming projects. After an active and dedicated community of readers and writers is developed, Lunyr will branch into other areas such as science and technology, investment, finance, etc.\r\n\r\nLunyr is unique in its vision, and usage of the blockchain technology in order to provide a comprehensive, decentralised, crowdsource, and peer-reviewed vault of knowledge, open and free to everyone. Lunyr aims to not only be a knowledge encyclopedia for the web, but also intends to enhance the blockchain technology by giving DApps (Decentralised Applications) the ability to tap into the knowledge base and access real-time data. This innovative feature can be used in applications ranging from Virtual Reality to Artificial Intelligence. The decentralised and peer-to-peer nature of Lunyr allows all content on the knowledge-base to be free from manipulation, and censorship. Since all submissions are peer-reviewed by the community, the chances of incorrect or dubious data making its way onto the encyclopedia are very low.",
+    description: "Lunyr (pronounced Lunar), however, is one of the most unique implementations of blockchain yet, aiming to be a decentralized, and peer-to-peer knowledge database, aka the “Blockchain-based Wikipedia”. It strives to be the most innovative and comprehensive source of knowledge in domains like crypto projects, technology, finance, law, investment, and more, on the web.\r\n\r\nThe cofounders of Lunyr are Arnold Pham, Andrew Tran, and Christopher Smith. The Lunyr ICO ended on 26th April 2017, with around USD 0.3 million in capital being generated. The open beta was then launched on 30th January 2018. It is based on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network. The reward system which enables writers to earn rewards for authoring articles was also launched at the same time, allowing writers to earn LUN coins in exchange for quality pieces. Initially, Lunyr will mostly focus on the world of cryptocurrencies and related domains, with emphasis on up and coming projects. After an active and dedicated community of readers and writers is developed, Lunyr will branch into other areas such as science and technology, investment, finance, etc.\r\n\r\nLunyr is unique in its vision, and usage of the blockchain technology in order to provide a comprehensive, decentralised, crowdsource, and peer-reviewed vault of knowledge, open and free to everyone. Lunyr aims to not only be a knowledge encyclopedia for the web, but also intends to enhance the blockchain technology by giving DApps (Decentralised Applications) the ability to tap into the knowledge base and access real-time data. This innovative feature can be used in applications ranging from Virtual Reality to Artificial Intelligence. The decentralised and peer-to-peer nature of Lunyr allows all content on the knowledge-base to be free from manipulation, and censorship. Since all submissions are peer-reviewed by the community, the chances of incorrect or dubious data making its way onto the encyclopedia are very low.",
     total_supply: 2703356,
     circulating_supply: 2703356,
     websites: [
-      "https://lunyr.com/",
+      "https://lunyr.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
@@ -1053,7 +1053,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1818468",
     facebook: "",
     twitter: "https://twitter.com/Lunyrinc",
-    reddit: "https://www.reddit.com/r/Lunyr",
+    reddit: "https://reddit.com/r/Lunyr",
     repository: "https://github.com/Lunyr/crowdsale-contracts",
   },
   moeda: {
@@ -1061,7 +1061,7 @@ const coininfo = {
     total_supply: 19628888,
     circulating_supply: 17773197.641131464,
     websites: [
-      "https://moedaseeds.com/",
+      "https://moedaseeds.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
@@ -1072,17 +1072,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2027555",
-    facebook: "moedaseeds/",
-    twitter: "https://twitter.com/moedaseeds/",
-    reddit: "https://www.reddit.com/r/MoedaBanking",
+    facebook: "https://facebook.com/moedaseeds",
+    twitter: "https://twitter.com/moedaseeds",
+    reddit: "https://reddit.com/r/MoedaBanking",
     repository: "https://github.com/moedabank/moeda",
   },
   mithril: {
-    description: "Mithril is a decentralized ecosystem on the ethereum blockchain. It is a system that rewards users who engage in “social mining”. Mithril rewards users for the impact their content may have in viewers and the popularity it attracts, such as number of likes and views.  In the blockchain network and cryptocurrency, Mithril is a very innovative idea that aims to change the way we think about social media entirely. This particular innovation will decentralize and reward social media content creators in a fair and open way.The process of building a social media platform from the scratch is a long, rigorous and exhausting one. Even though blockchain based social media platforms are not new innovations, they usually cannot interact with existing platforms. The Mithril integration protocol permits MITH mining on all social media networks. Therefore, Mithril can also leverage existing sites for their own purposes. In addition, it permits content influencers to make use of their pre-existing followers network to mine Mithril. This acts as a big plus to the Mithril ecosystem. It requires less stress and work than establishing followers on an entirely new platform. It also helps Mithril to have an edge and a bigger pool of users. This means that, content providers only need to start making use of the Mithril integration protocol in order to make more money.\r\n\r\nInstead of an ICO, Mithril held a private crowdsale where 400,000,000 MITH was distributed and 50,000,000 was retained by the Mithril team for development and marketing. Mithril MITH tokens are mined by participating on partner applications and this social mining is a gamechanger. Creating and sharing content earns Mithril MITH, which can then be spent with partner applications. Because mythril is a crafting ingredient in the Final Fantasy video game series, online searches for how to spend MITH have these pages mixed in, which will likely continue for several years until the platform gains enough big-name retail spending partners to rise up SEO rankings.\r\n\r\nMITH is currently available on Bithumb and OKEx, but more exchanges will likely list the token soon. Although exchanges are never the best place to store your cryptocurrencies due to security concerns, this is one possibility. Better would be to store them using an ERC-20 wallet that allows you to add custom tokens, such as MyEtherWallet, <a href=\"https://www.coingecko.com/buzz/how-to-use-mycrypto-desktop-app?locale=en\">MyCrypto</a>, or Coinfy.\r\n\r\nAlthough the Mithril platform and its flagship social network Lit are still in fairly early development, as an early mover, they are poised to be a leader in the decentralized social networking space. If Mithril gets its way, centralized social networking companies may soon have worthy competitors that offer users more control of their data while rewarding people for creating the content that is ultimately the life-blood of all social networks.",
+    description: "Mithril is a decentralized ecosystem on the ethereum blockchain. It is a system that rewards users who engage in “social mining”. Mithril rewards users for the impact their content may have in viewers and the popularity it attracts, such as number of likes and views.  In the blockchain network and cryptocurrency, Mithril is a very innovative idea that aims to change the way we think about social media entirely. This particular innovation will decentralize and reward social media content creators in a fair and open way.The process of building a social media platform from the scratch is a long, rigorous and exhausting one. Even though blockchain based social media platforms are not new innovations, they usually cannot interact with existing platforms. The Mithril integration protocol permits MITH mining on all social media networks. Therefore, Mithril can also leverage existing sites for their own purposes. In addition, it permits content influencers to make use of their pre-existing followers network to mine Mithril. This acts as a big plus to the Mithril ecosystem. It requires less stress and work than establishing followers on an entirely new platform. It also helps Mithril to have an edge and a bigger pool of users. This means that, content providers only need to start making use of the Mithril integration protocol in order to make more money.\r\n\r\nInstead of an ICO, Mithril held a private crowdsale where 400,000,000 MITH was distributed and 50,000,000 was retained by the Mithril team for development and marketing. Mithril MITH tokens are mined by participating on partner applications and this social mining is a gamechanger. Creating and sharing content earns Mithril MITH, which can then be spent with partner applications. Because mythril is a crafting ingredient in the Final Fantasy video game series, online searches for how to spend MITH have these pages mixed in, which will likely continue for several years until the platform gains enough big-name retail spending partners to rise up SEO rankings.\r\n\r\nMITH is currently available on Bithumb and OKEx, but more exchanges will likely list the token soon. Although exchanges are never the best place to store your cryptocurrencies due to security concerns, this is one possibility. Better would be to store them using an ERC-20 wallet that allows you to add custom tokens, such as MyEtherWallet, <a href=\"https://coingecko.com/buzz/how-to-use-mycrypto-desktop-app?locale=en\">MyCrypto</a>, or Coinfy.\r\n\r\nAlthough the Mithril platform and its flagship social network Lit are still in fairly early development, as an early mover, they are poised to be a leader in the decentralized social networking space. If Mithril gets its way, centralized social networking companies may soon have worthy competitors that offer users more control of their data while rewarding people for creating the content that is ultimately the life-blood of all social networks.",
     total_supply: 1000000000,
     circulating_supply: 532214902.7577,
     websites: [
-      "https://mith.io/",
+      "https://mith.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
@@ -1093,9 +1093,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/MithrilChat",
     bitcointalk: "https://bitcointalk.org/index.php?topic=3108554",
-    facebook: "MithrilToken",
+    facebook: "https://facebook.com/MithrilToken",
     twitter: "https://twitter.com/MithrilToken",
-    reddit: "https://www.reddit.com/r/MithrilToken/",
+    reddit: "https://reddit.com/r/MithrilToken",
     repository: "https://github.com/mithio/mithril-smart-contract",
   },
   oax: {
@@ -1103,7 +1103,7 @@ const coininfo = {
     total_supply: 100000000,
     circulating_supply: 23463740.10312936,
     websites: [
-      "https://www.openanx.org/en/",
+      "https://openanx.org/en",
     ],
     explorers: [
       "https://etherscan.io/token/0x701c244b988a513c945973defa05de933b23fe1d",
@@ -1116,15 +1116,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1943946",
     facebook: "",
     twitter: "https://twitter.com/oax_foundation",
-    reddit: "https://www.reddit.com/r/OpenANX",
+    reddit: "https://reddit.com/r/OpenANX",
     repository: "https://github.com/openanx/OpenANXToken",
   },
   ost: {
-    description: "Setting up a blockchain infrastructure is an expensive and complicated ordeal, and many may certainly be on the lookout for a solution that handles this for them. Simple Token is that solution.Simple Token enables all types of businesses to tokenize their assets. It empowers mainstream apps to have their own branded tokens, helping them set up their own crypto based economy on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network.\r\n\r\nThe Simple Token website lists over 35 people as part of its team, with other sections listing even more people as it advisors and extended team. Jason Goldberg is the CEO, with an 18 year career and experience in multiple countries and sectors. He is assisted by Sunil Khedar at the CTO position, and Ben Bollen as the Chief Blockchain Strategist. The team is well recognised by the investor community and markets in general. This is easy to see when you observe that it is backed by multiple VCs, including 500Startups, Greycroft, and China’s Tencent among others.\r\n\r\nOST is the future of business tokenization, allowing companies to have their own branded tokens without the costs of setting up a blockchain infrastructure. Faster transaction times, since transactions are run on their own side chains rather than the Ethereum Main Net, avoiding the Ethereum network congestion.\r\n\r\nWith the team providing monthly updates, it’s evident there is still a lot of work to be done. The ostKIT alpha is close to being released, and serves as the first public version of the complete blockchain toolkit for businesses. ostKYC is already live, and uses the OST token for all billing purposes. Other tools currently in development include a block explorer and an enterprise-grade email marketing solution. There’s also the consumer-oriented wallet to keep an eye on, as well as an updated version of the Simple Token protocol itself.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/ost-token/\">CoinBureau</a> for the complete review of OST.",
+    description: "Setting up a blockchain infrastructure is an expensive and complicated ordeal, and many may certainly be on the lookout for a solution that handles this for them. Simple Token is that solution.Simple Token enables all types of businesses to tokenize their assets. It empowers mainstream apps to have their own branded tokens, helping them set up their own crypto based economy on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network.\r\n\r\nThe Simple Token website lists over 35 people as part of its team, with other sections listing even more people as it advisors and extended team. Jason Goldberg is the CEO, with an 18 year career and experience in multiple countries and sectors. He is assisted by Sunil Khedar at the CTO position, and Ben Bollen as the Chief Blockchain Strategist. The team is well recognised by the investor community and markets in general. This is easy to see when you observe that it is backed by multiple VCs, including 500Startups, Greycroft, and China’s Tencent among others.\r\n\r\nOST is the future of business tokenization, allowing companies to have their own branded tokens without the costs of setting up a blockchain infrastructure. Faster transaction times, since transactions are run on their own side chains rather than the Ethereum Main Net, avoiding the Ethereum network congestion.\r\n\r\nWith the team providing monthly updates, it’s evident there is still a lot of work to be done. The ostKIT alpha is close to being released, and serves as the first public version of the complete blockchain toolkit for businesses. ostKYC is already live, and uses the OST token for all billing purposes. Other tools currently in development include a block explorer and an enterprise-grade email marketing solution. There’s also the consumer-oriented wallet to keep an eye on, as well as an updated version of the Simple Token protocol itself.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/ost-token/\">CoinBureau</a> for the complete review of OST.",
     total_supply: 800000000,
     circulating_supply: 623857238.0776608,
     websites: [
-      "https://ost.com/",
+      "https://ost.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
@@ -1135,9 +1135,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/ostdotcom",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2266379",
-    facebook: "OST",
+    facebook: "https://facebook.com/OST",
     twitter: "https://twitter.com/OSTdotcom",
-    reddit: "https://www.reddit.com/r/OSTdotcom/",
+    reddit: "https://reddit.com/r/OSTdotcom",
     repository: "https://github.com/OpenSTFoundation/openst-platform",
   },
   populous: {
@@ -1162,11 +1162,11 @@ const coininfo = {
     repository: "https://github.com/bitpopulous/populous-smartcontracts",
   },
   quantstamp: {
-    description: "Quantstamp is a security-auditing protocol for smart contracts. As a apps platform, <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> has proven its security time and again. However, apps and smart contracts on top of Ethereum may still have bugs in which malicious players can cause havoc on the network. The two most notable examples of these being the $55 million DAO hack and the $30 million Parity wallet bug. These issues not only affect the people who’ve had their funds stolen, but they also diminish the credibility of the entire ecosystem.\r\n\r\nQuantstamp is making smart contracts more secure through automated software testing and a system of bug bounties. Although starting with Ethereum, the team is building the protocol to be available on any DApp platform in the long run.In an industry where security is a primary concern and bugs have caused the theft of millions of dollars, Quantstamp should help to legitimize blockchain projects and ensure that large-scale smart contract hacks are a thing of the past.\r\n\r\nQuantstamp held a successful ICO in November 2017 in which the team raised a little over $30 million dollars. They distributed 650 million (65%) QSP out of the 1 billion total supply to ICO participants at a price of $0.072 per token. After the usual post-ICO volatility, the QSP price stabilized at around $0.10 (~0.000005 BTC) through the end of November. The price followed the trend of the altcoin market and rose rapidly to an all-time high of $0.82 (~0.000051 BTC) before slowly falling to its current price of ~$0.286. The QSP price weathered the beginning of the year market downfall better than most other altcoins.",
+    description: "Quantstamp is a security-auditing protocol for smart contracts. As a apps platform, <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> has proven its security time and again. However, apps and smart contracts on top of Ethereum may still have bugs in which malicious players can cause havoc on the network. The two most notable examples of these being the $55 million DAO hack and the $30 million Parity wallet bug. These issues not only affect the people who’ve had their funds stolen, but they also diminish the credibility of the entire ecosystem.\r\n\r\nQuantstamp is making smart contracts more secure through automated software testing and a system of bug bounties. Although starting with Ethereum, the team is building the protocol to be available on any DApp platform in the long run.In an industry where security is a primary concern and bugs have caused the theft of millions of dollars, Quantstamp should help to legitimize blockchain projects and ensure that large-scale smart contract hacks are a thing of the past.\r\n\r\nQuantstamp held a successful ICO in November 2017 in which the team raised a little over $30 million dollars. They distributed 650 million (65%) QSP out of the 1 billion total supply to ICO participants at a price of $0.072 per token. After the usual post-ICO volatility, the QSP price stabilized at around $0.10 (~0.000005 BTC) through the end of November. The price followed the trend of the altcoin market and rose rapidly to an all-time high of $0.82 (~0.000051 BTC) before slowly falling to its current price of ~$0.286. The QSP price weathered the beginning of the year market downfall better than most other altcoins.",
     total_supply: 976442388,
     circulating_supply: 0,
     websites: [
-      "https://quantstamp.com/",
+      "https://quantstamp.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
@@ -1177,17 +1177,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2220795",
-    facebook: "quantstamp",
+    facebook: "https://facebook.com/quantstamp",
     twitter: "https://twitter.com/Quantstamp",
-    reddit: "https://www.reddit.com/r/Quantstamp",
+    reddit: "https://reddit.com/r/Quantstamp",
     repository: "https://github.com/quantstamp/token-distribution",
   },
   ren: {
-    description: "Republic Protocol is an open-source decentralized dark pool exchange. It facilitates cross-chain atomic trades on a hidden order book over the Ethereum and Bitcoin networks. Miners within the protocol run equation solving nodes to earn REN tokens and match orders without revealing the underlying trade until execution. This system creates a trustless trading system for large block orders enabling ERC20, Ethereum and Bitcoin pairs to be executed with minimal price slippage and provides protection from front-running.\r\n\r\nCheck out the complete review of Republic Protocol on <a href=\"https://www.coinbureau.com/review/republic-protocol-ren/\">CoinBureau</a>.",
+    description: "Republic Protocol is an open-source decentralized dark pool exchange. It facilitates cross-chain atomic trades on a hidden order book over the Ethereum and Bitcoin networks. Miners within the protocol run equation solving nodes to earn REN tokens and match orders without revealing the underlying trade until execution. This system creates a trustless trading system for large block orders enabling ERC20, Ethereum and Bitcoin pairs to be executed with minimal price slippage and provides protection from front-running.\r\n\r\nCheck out the complete review of Republic Protocol on <a href=\"https://coinbureau.com/review/republic-protocol-ren/\">CoinBureau</a>.",
     total_supply: 1000000000,
     circulating_supply: 770830323.8238817,
     websites: [
-      "http://renproject.io/",
+      "https://renproject.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38",
@@ -1200,15 +1200,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/renprotocol",
-    reddit: "https://www.reddit.com/r/republicprotocol/",
+    reddit: "https://reddit.com/r/republicprotocol",
     repository: "https://github.com/renproject/renproject.io",
   },
   iexecrlc: {
-    description: "iExec is an open-source, decentralized cloud computing platform, running on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. iExec allows decentralized applications (dApps) an on-demand access to computing resources and technologies on iExec cloud. iExec has built a blockchain network where dApps can take advantage of cost effective and high-performance resources such as servers, databases, SaaS applications, web hosting and computer farms. iExec’s native cryptocurrency — The RLC token is the primary asset used to access services in iExec infrastructure. RLC is short for “Run on Lots of Computers.”\r\n\r\niExec is headquartered at Lyon, France. It was founded by Gilles Fedak and Haiwu He, both are serving as Chief Executive Officer and Head of Asian-Pacific Region of iExec, respectively. Oleg Lodygensky is the Chief Technical Officer. Gilles Fedak received his PhD from the University of Paris Sud in 2003, and has been working as INRIA (Inventeurs du Monde Numerique) research scientist at ENS in Lyon, France. Similarly, Haiwu completed his M.Sc. and PhD from the University of Sciences and Technologies of Lille, France. On April 19, 2017, iExec launched its token sale and raised more than $12 million in exchange for 86,999,784 RLC.\r\n\r\nIn order to support dApps, smart contracts, and their platforms, iExec takes processing-intensive computations off-chain so as to keep a blockchain’s on-chain functions running smoothly. To do this, iExec makes use of XtremWeb-HEP, an open-sourced Desktop Grid Software.  Desktop Grid computing (also known as Volunteer Computing) pools unused computing resources to be used by applications and platforms, and according to iExec’s whitepaper, XtremWeb-HEP “implements all the needed features” to make this possible on a global scale, including “fault-tolerance, multi-applications, multi-users, hybrid public/private infrastructure, deployment of virtual images, data management, security and accountability, and many more.” Essentially, with this software, dApps can utilize any computing resource in the iExec framework to run their programs.\r\n\r\nIn their whitepaper, the iExec team lays out the project’s competitive landscape and explains these competitors in relation to iExec. They’re quick to note that decentralized cloud storage providers like <a href=\"https://www.coingecko.com/en/coins/filecoin\">Filecoin</a>, <a href=\"https://www.coingecko.com/en/coins/storj\">Storj</a>, and <a href=\"https://www.coingecko.com/en/coins/siacoin\">Siacoin</a> are not direct competitors, and it’s easy to see why.  While iExec could theoretically take a step in this direction as it matures, it’s not a storage platform; it’s a computing platform. This does put it in competition with other decentralized computing protocols like <a href=\"https://www.coingecko.com/en/coins/golem\">Golem</a> and <a href=\"https://www.coingecko.com/en/coins/golem\">SONM</a>. Both of these, however, are taking aim at a different animal.  Essentially, they’re both building a decentralized supercomputer on blockchain technology, while iExec is targeting dApp development and sustainability.  Both look towards a future of a blockchain-powered, decentralized internet, but their functions, while sometimes similar, are more complementary than conflicting.",
+    description: "iExec is an open-source, decentralized cloud computing platform, running on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. iExec allows decentralized applications (dApps) an on-demand access to computing resources and technologies on iExec cloud. iExec has built a blockchain network where dApps can take advantage of cost effective and high-performance resources such as servers, databases, SaaS applications, web hosting and computer farms. iExec’s native cryptocurrency — The RLC token is the primary asset used to access services in iExec infrastructure. RLC is short for “Run on Lots of Computers.”\r\n\r\niExec is headquartered at Lyon, France. It was founded by Gilles Fedak and Haiwu He, both are serving as Chief Executive Officer and Head of Asian-Pacific Region of iExec, respectively. Oleg Lodygensky is the Chief Technical Officer. Gilles Fedak received his PhD from the University of Paris Sud in 2003, and has been working as INRIA (Inventeurs du Monde Numerique) research scientist at ENS in Lyon, France. Similarly, Haiwu completed his M.Sc. and PhD from the University of Sciences and Technologies of Lille, France. On April 19, 2017, iExec launched its token sale and raised more than $12 million in exchange for 86,999,784 RLC.\r\n\r\nIn order to support dApps, smart contracts, and their platforms, iExec takes processing-intensive computations off-chain so as to keep a blockchain’s on-chain functions running smoothly. To do this, iExec makes use of XtremWeb-HEP, an open-sourced Desktop Grid Software.  Desktop Grid computing (also known as Volunteer Computing) pools unused computing resources to be used by applications and platforms, and according to iExec’s whitepaper, XtremWeb-HEP “implements all the needed features” to make this possible on a global scale, including “fault-tolerance, multi-applications, multi-users, hybrid public/private infrastructure, deployment of virtual images, data management, security and accountability, and many more.” Essentially, with this software, dApps can utilize any computing resource in the iExec framework to run their programs.\r\n\r\nIn their whitepaper, the iExec team lays out the project’s competitive landscape and explains these competitors in relation to iExec. They’re quick to note that decentralized cloud storage providers like <a href=\"https://coingecko.com/en/coins/filecoin\">Filecoin</a>, <a href=\"https://coingecko.com/en/coins/storj\">Storj</a>, and <a href=\"https://coingecko.com/en/coins/siacoin\">Siacoin</a> are not direct competitors, and it’s easy to see why.  While iExec could theoretically take a step in this direction as it matures, it’s not a storage platform; it’s a computing platform. This does put it in competition with other decentralized computing protocols like <a href=\"https://coingecko.com/en/coins/golem\">Golem</a> and <a href=\"https://coingecko.com/en/coins/golem\">SONM</a>. Both of these, however, are taking aim at a different animal.  Essentially, they’re both building a decentralized supercomputer on blockchain technology, while iExec is targeting dApp development and sustainability.  Both look towards a future of a blockchain-powered, decentralized internet, but their functions, while sometimes similar, are more complementary than conflicting.",
     total_supply: 86999784,
     circulating_supply: 69964695.07841186,
     websites: [
-      "http://iex.ec/",
+      "https://iex.ec",
     ],
     explorers: [
       "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375",
@@ -1219,17 +1219,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1746241",
-    facebook: "iexecteam",
+    facebook: "https://facebook.com/iexecteam",
     twitter: "https://twitter.com/iEx_ec",
-    reddit: "https://www.reddit.com/r/iexec",
+    reddit: "https://reddit.com/r/iexec",
     repository: "https://github.com/iExecBlockchainComputing/iexec-sdk",
   },
   singulardtv: {
-    description: "Based on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network and the ConsenSys venture production studio, SingularDTV relies on a tokenized ecosystem using a local cryptocurrency called SNGLS to help artists and creators benefit from transparent media production and distribution. SingularDTV is a blockchain entertainment studio laying the foundation for a decentralized entertainment industry. Building the future of rights management, project funding, and peer-to-peer distribution, SingularDTV’s platform empowers artists and creators with powerful tools to manage projects from development to distribution.\r\n\r\nThe entire concept behind SingularDTV is a kind of “entertainment studio”, which offers artists and creators of media content a large platform with many programs and tools that can develop and market their products there. The company’s concept is based on 11 modules, some of which are already available as features on the platform, but some of which will not be released until 2018 or 2019. The modules are: Tokit, Decentralized Exchange, Codex, Launch Pad, Legal Repository, Production Service/Crew, Equipment Rental, Talent Management, Marketing, Union Interface and EtherVision.\r\n\r\nThe company was founded by Arie Levy-Cohen, Kim Jackson, Zach Lebeau and Joseph Lubin.The founders have the vision to create an entertainment platform that offers artists and producers a good marketing time on a decentralized basis.They are competing with streaming services such as Netflix or Youtube. The company will even publish the first specially produced television series on the platform in the autumn of 2017. This project is led by Kim Jackson, who is also a producer and president of “Evotion Media”.\r\n\r\nSingular-DTV wants to gather a total of $7.5 million. In order to do so, a crowdsale which will last for a month will be held. During this time 500 million SNGLS tokens will be up for sale at a fixed rate of 0.00125 ETH per SNGL during the first 10 days, and will drop by 12.5% every 4 days until it reaches 50% (in 12 days). These funds will be used to complete the \"Singular\" tv show, launch the S-DTV Documentary Division, buy a stake in the Ujo rights management platform and to develop the TVOD distribution portal. A minimum of 34m SNGLS must be sold, otherwise, the project will be canceled and all the investments will be returned.  Since the issuance of tokens takes place on the Ethereum network, you'll only be able to invest in the crowd sale using Ether. This is done by sending ETH to a special smart contract wallet address, that in turn issues and sends you the newly created SNGLS tokens. This can be done using any wallet, but in order to be able to see and transfer your tokens, you'll need to use the Mist Browser or the S-DTV Light Wallet. ",
+    description: "Based on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network and the ConsenSys venture production studio, SingularDTV relies on a tokenized ecosystem using a local cryptocurrency called SNGLS to help artists and creators benefit from transparent media production and distribution. SingularDTV is a blockchain entertainment studio laying the foundation for a decentralized entertainment industry. Building the future of rights management, project funding, and peer-to-peer distribution, SingularDTV’s platform empowers artists and creators with powerful tools to manage projects from development to distribution.\r\n\r\nThe entire concept behind SingularDTV is a kind of “entertainment studio”, which offers artists and creators of media content a large platform with many programs and tools that can develop and market their products there. The company’s concept is based on 11 modules, some of which are already available as features on the platform, but some of which will not be released until 2018 or 2019. The modules are: Tokit, Decentralized Exchange, Codex, Launch Pad, Legal Repository, Production Service/Crew, Equipment Rental, Talent Management, Marketing, Union Interface and EtherVision.\r\n\r\nThe company was founded by Arie Levy-Cohen, Kim Jackson, Zach Lebeau and Joseph Lubin.The founders have the vision to create an entertainment platform that offers artists and producers a good marketing time on a decentralized basis.They are competing with streaming services such as Netflix or Youtube. The company will even publish the first specially produced television series on the platform in the autumn of 2017. This project is led by Kim Jackson, who is also a producer and president of “Evotion Media”.\r\n\r\nSingular-DTV wants to gather a total of $7.5 million. In order to do so, a crowdsale which will last for a month will be held. During this time 500 million SNGLS tokens will be up for sale at a fixed rate of 0.00125 ETH per SNGL during the first 10 days, and will drop by 12.5% every 4 days until it reaches 50% (in 12 days). These funds will be used to complete the \"Singular\" tv show, launch the S-DTV Documentary Division, buy a stake in the Ujo rights management platform and to develop the TVOD distribution portal. A minimum of 34m SNGLS must be sold, otherwise, the project will be canceled and all the investments will be returned.  Since the issuance of tokens takes place on the Ethereum network, you'll only be able to invest in the crowd sale using Ether. This is done by sending ETH to a special smart contract wallet address, that in turn issues and sends you the newly created SNGLS tokens. This can be done using any wallet, but in order to be able to see and transfer your tokens, you'll need to use the Mist Browser or the S-DTV Light Wallet. ",
     total_supply: 1000000000,
     circulating_supply: 589570675,
     websites: [
-      "https://singulardtv.com/",
+      "https://singulardtv.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
@@ -1240,9 +1240,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1562292",
-    facebook: "singulardtv",
+    facebook: "https://facebook.com/singulardtv",
     twitter: "https://twitter.com/SingularDTV",
-    reddit: "https://www.reddit.com/r/SingularDTV",
+    reddit: "https://reddit.com/r/SingularDTV",
     repository: "https://github.com/ConsenSys/singulardtv-contracts",
   },
   tnb: {
@@ -1250,7 +1250,7 @@ const coininfo = {
     total_supply: 4415707418,
     circulating_supply: 2612987802,
     websites: [
-      "https://tnb.fund/",
+      "https://tnb.fund",
     ],
     explorers: [
       "https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f",
@@ -1263,7 +1263,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/TimeNewBank",
-    reddit: "https://www.reddit.com/r/TimeNewBank",
+    reddit: "https://reddit.com/r/TimeNewBank",
     repository: "https://github.com/fanxiong/crowdsale-contracts",
   },
   tierion: {
@@ -1271,7 +1271,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 428481269.49941987,
     websites: [
-      "https://tierion.com/",
+      "https://tierion.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
@@ -1284,7 +1284,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2027510",
     facebook: "",
     twitter: "https://twitter.com/Tierion",
-    reddit: "https://www.reddit.com/r/tierion",
+    reddit: "https://reddit.com/r/tierion",
     repository: "https://github.com/tierion/-",
   },
   viberate: {
@@ -1292,7 +1292,7 @@ const coininfo = {
     total_supply: 200000000,
     circulating_supply: 170198843.2323971,
     websites: [
-      "https://www.viberate.io/",
+      "https://viberate.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
@@ -1305,7 +1305,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2029450",
     facebook: "",
     twitter: "https://twitter.com/viberate",
-    reddit: "https://www.reddit.com/r/viberate",
+    reddit: "https://reddit.com/r/viberate",
     repository: "https://github.com/viberate/Contract",
   },
   vibe: {
@@ -1313,7 +1313,7 @@ const coininfo = {
     total_supply: 267000000,
     circulating_supply: 200200144.05995375,
     websites: [
-      "https://www.vibehub.io/",
+      "https://vibehub.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xe8ff5c9c75deb346acac493c463c8950be03dfba",
@@ -1324,7 +1324,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2044729",
-    facebook: "vibehubvr",
+    facebook: "https://facebook.com/vibehubvr",
     twitter: "https://twitter.com/VibeHubVR",
     reddit: "",
     repository: "https://github.com/amack2u/VibeHub",
@@ -1345,9 +1345,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/wabi_ico",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2038385",
-    facebook: "wabiico",
+    facebook: "https://facebook.com/wabiico",
     twitter: "https://twitter.com/taelpay",
-    reddit: "https://www.reddit.com/r/WabiToken",
+    reddit: "https://reddit.com/r/WabiToken",
     repository: "",
   },
   wepower: {
@@ -1355,7 +1355,7 @@ const coininfo = {
     total_supply: 745248183,
     circulating_supply: 599443262.1094002,
     websites: [
-      "http://wepower.network",
+      "https://wepower.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4",
@@ -1366,7 +1366,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/WePowerNetwork",
     bitcointalk: "",
-    facebook: "WePowerNetwork",
+    facebook: "https://facebook.com/WePowerNetwork",
     twitter: "https://twitter.com/WePowerN",
     reddit: "",
     repository: "https://github.com/WePowerNetwork/wepower-contracts",
@@ -1376,7 +1376,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 530542202.36561114,
     websites: [
-      "https://etherparty.io/",
+      "https://etherparty.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
@@ -1389,7 +1389,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2005965",
     facebook: "",
     twitter: "https://twitter.com/etherparty_io",
-    reddit: "https://www.reddit.com/r/etherparty",
+    reddit: "https://reddit.com/r/etherparty",
     repository: "https://github.com/etherparty/FUEL-Contracts",
   },
   blox: {
@@ -1397,7 +1397,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 674579184.17,
     websites: [
-      "https://blox.io/",
+      "https://blox.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
@@ -1408,9 +1408,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/blox_product_discussion",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1831969",
-    facebook: "blox.io",
+    facebook: "https://facebook.com/blox.io",
     twitter: "https://twitter.com/Blox_Official",
-    reddit: "https://www.reddit.com/r/Blox_io/",
+    reddit: "https://reddit.com/r/Blox_io",
     repository: "https://github.com/CoinDashio/sale_contracts",
   },
   celertoken: {
@@ -1418,7 +1418,7 @@ const coininfo = {
     total_supply: 10000000000,
     circulating_supply: 2370711007.46448,
     websites: [
-      "https://www.celer.network/#",
+      "https://celer.network/#",
     ],
     explorers: [
       "https://etherscan.io/token/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
@@ -1439,7 +1439,7 @@ const coininfo = {
     total_supply: 2000000005,
     circulating_supply: 1740320362.566927,
     websites: [
-      "https://cindicator.com/",
+      "https://cindicator.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
@@ -1452,15 +1452,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2062875",
     facebook: "",
     twitter: "https://twitter.com/Cindicator",
-    reddit: "https://www.reddit.com/r/Cindicator",
+    reddit: "https://reddit.com/r/Cindicator",
     repository: "https://github.com/cindicator/CindicatorArbitrageBot",
   },
   digix: {
-    description: "Digix makes it possible to buy gold in an efficient manner via cryptocurrency by providing investors with a tokenized version of gold so you don’t have to physically own or store it. Digix has two cryptocurrencies, <a href=\"https://www.coingecko.com/en/coins/digix-gold\">Digix Gold (DGX)</a> and DigixDAO (DGD), each of which serves a key role in the structure.  The company proudly gets 99.99 percent of its gold from LBMA-approved refiners, with zero percent from fractional reserves, delivering confidence. With Digix, investors can take advantage of the stability and value of gold as well as the ease of cryptocurrency. Digix essentially tokenizes gold within Ethereum. It takes advantage of the Distributed Ledger’s immutability, auditability, and transparency, applying all these benefits to the precious physical asset of gold. Additionally, Digix has developed multiple technologies, such as the DGX tokens and <a href=\"https://www.coingecko.com/buzz/digixdao-introduces-gold-tokens-ethereum\">introduced a new Proof of Asset protocol</a> (POA).\r\n\r\nA key feature of Digix is its physical gold bullion. By investing, users buy bullion from the LBMA refineries, including the Assay Certificates from refiners like Nadir Bullion, PAMP Suisse, Valcambi, and others. For security, Digix includes third-party auditing from Bureau Veritas. Every quarter, it audits each gold asset within the safehouse vaults. This auditor has been in business since 1828 and is a world leader in certification, inspection, and testing services. With such a long track record, investors should be able to trust Bureau Veritas for their auditing services. Finally, Digix involves recast, which means customers can take their DGX delivery at the partnering custodial vault. \r\n\r\nDigix incorporated in Singapore in December 2014 and the DGD crowdsale took place on March 30th, 2016. It was the first ever crowdsale and major Distributed Autonomous Organization hosted on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network. The sale intended to run for 30 days but met its 5.5 million dollars hard cap in just 12 hours, selling 1.7 million DGD tokens and reserving 300,000 for the Digix team. Pledges who sent over 15,000 USD worth of Ether received a special badge which will allow them to submit proposals to the DigixDAO. For better or worse, when you see the word DAO, you might think of hacking. In July 2017, over 4000 DGD were indeed stolen due to a vulnerability in the crowdsale smart contract. The bug was eventually fixed and the tokens reimbursed to the 35 affected addresses.\r\n\r\nIn January 2018, the vast majority of the cryptocurrency market crashed. DGD was the only coin in the top 100 to rise in value in that time. Perhaps this is an early indicator that people will seek gold as a safe haven during times of market uncertainty. The ICO price of DGD was about 3 dollars, but in 2018, DGD reached an all-time high of over 400 dollars. When Digix finally delivers the DGX tokens and the rewards to DGD participants start rolling in, we might see an even higher demand for DigixDAO. When DGX goes live, it will be available for purchase with Ether on the Digix marketplace.\r\n\r\n\r\n\r\n",
+    description: "Digix makes it possible to buy gold in an efficient manner via cryptocurrency by providing investors with a tokenized version of gold so you don’t have to physically own or store it. Digix has two cryptocurrencies, <a href=\"https://coingecko.com/en/coins/digix-gold\">Digix Gold (DGX)</a> and DigixDAO (DGD), each of which serves a key role in the structure.  The company proudly gets 99.99 percent of its gold from LBMA-approved refiners, with zero percent from fractional reserves, delivering confidence. With Digix, investors can take advantage of the stability and value of gold as well as the ease of cryptocurrency. Digix essentially tokenizes gold within Ethereum. It takes advantage of the Distributed Ledger’s immutability, auditability, and transparency, applying all these benefits to the precious physical asset of gold. Additionally, Digix has developed multiple technologies, such as the DGX tokens and <a href=\"https://coingecko.com/buzz/digixdao-introduces-gold-tokens-ethereum\">introduced a new Proof of Asset protocol</a> (POA).\r\n\r\nA key feature of Digix is its physical gold bullion. By investing, users buy bullion from the LBMA refineries, including the Assay Certificates from refiners like Nadir Bullion, PAMP Suisse, Valcambi, and others. For security, Digix includes third-party auditing from Bureau Veritas. Every quarter, it audits each gold asset within the safehouse vaults. This auditor has been in business since 1828 and is a world leader in certification, inspection, and testing services. With such a long track record, investors should be able to trust Bureau Veritas for their auditing services. Finally, Digix involves recast, which means customers can take their DGX delivery at the partnering custodial vault. \r\n\r\nDigix incorporated in Singapore in December 2014 and the DGD crowdsale took place on March 30th, 2016. It was the first ever crowdsale and major Distributed Autonomous Organization hosted on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network. The sale intended to run for 30 days but met its 5.5 million dollars hard cap in just 12 hours, selling 1.7 million DGD tokens and reserving 300,000 for the Digix team. Pledges who sent over 15,000 USD worth of Ether received a special badge which will allow them to submit proposals to the DigixDAO. For better or worse, when you see the word DAO, you might think of hacking. In July 2017, over 4000 DGD were indeed stolen due to a vulnerability in the crowdsale smart contract. The bug was eventually fixed and the tokens reimbursed to the 35 affected addresses.\r\n\r\nIn January 2018, the vast majority of the cryptocurrency market crashed. DGD was the only coin in the top 100 to rise in value in that time. Perhaps this is an early indicator that people will seek gold as a safe haven during times of market uncertainty. The ICO price of DGD was about 3 dollars, but in 2018, DGD reached an all-time high of over 400 dollars. When Digix finally delivers the DGX tokens and the rewards to DGD participants start rolling in, we might see an even higher demand for DigixDAO. When DGX goes live, it will be available for purchase with Ether on the Digix marketplace.\r\n\r\n\r\n\r\n",
     total_supply: 1999999,
     circulating_supply: 1999999,
     websites: [
-      "https://digix.global/",
+      "https://digix.global",
     ],
     explorers: [
       "https://etherscan.io/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
@@ -1473,7 +1473,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1417151",
     facebook: "",
     twitter: "https://twitter.com/digixglobal",
-    reddit: "https://www.reddit.com/r/digix/",
+    reddit: "https://reddit.com/r/digix",
     repository: "https://github.com/DigixGlobal/cacp-contracts",
   },
   agrello: {
@@ -1481,7 +1481,7 @@ const coininfo = {
     total_supply: 130271020,
     circulating_supply: 79179056.95748317,
     websites: [
-      "https://www.agrello.org/",
+      "https://agrello.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
@@ -1492,9 +1492,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1934422",
-    facebook: "agrellofoundation",
+    facebook: "https://facebook.com/agrellofoundation",
     twitter: "https://twitter.com/AgrelloOfficial",
-    reddit: "https://www.reddit.com/r/agrello",
+    reddit: "https://reddit.com/r/agrello",
     repository: "https://github.com/Agrello/Delta-Contracts-API",
   },
   singularitynet: {
@@ -1502,7 +1502,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 651757817.0410626,
     websites: [
-      "https://singularitynet.io/",
+      "https://singularitynet.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285",
@@ -1513,9 +1513,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/singularitynet",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2491147",
-    facebook: "singularityNET.io",
+    facebook: "https://facebook.com/singularityNET.io",
     twitter: "https://twitter.com/singularity_net",
-    reddit: "https://www.reddit.com/r/SingularityNetsub/",
+    reddit: "https://reddit.com/r/SingularityNetsub",
     repository: "https://github.com/singnet/singnet",
   },
   hush: {
@@ -1523,30 +1523,30 @@ const coininfo = {
     total_supply: 21000000,
     circulating_supply: 0,
     websites: [
-      "https://myhush.org/",
+      "https://myhush.org",
     ],
     explorers: [
-      "http://explorer.myhush.org/",
+      "https://explorer.myhush.org",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1688024",
-    facebook: "MyHushTeam",
+    facebook: "https://facebook.com/MyHushTeam",
     twitter: "https://twitter.com/MyHushTeam",
-    reddit: "https://www.reddit.com/r/zdash",
+    reddit: "https://reddit.com/r/zdash",
     repository: "https://github.com/MyHush/hush",
   },
   zclassic: {
-    description: "Zclassic is a fork of <a href=\"https://www.coingecko.com/en/coins/zcash\">Zcash</a> founded by Rhett Creighton but with the 20% founders’ reward and slow start removed. Miners are simply earning their fair reward, we believe they deserve it, and the coin development can be supported by the community. ZCL also differs from ZEC by removing the slow start (source), we are not trying to deliberately engineer scarcity: The Market decides the price. We are using the same parameters which were produced in the now famous secure \"trusted setup meeting\" (source) where Peter Todd participated, and he confirmed to us (source) they are safe to use. If just one of the participants kept their key secret and destroyed it, the whole system is secure.\r\n\r\nZcash is a cryptocurrency run by the Zero Coin Inc. In order to fund their operations, a 20% mining “Founder’s Reward” is included. Every block, in order to maintain consensus, miners running the Zcash code send 20% of their newly mined rewards to an address controlled by the Zero Coin Inc. Because the Zcash source code is open source, Zclassic simply removes the 20% Founder’s Reward. This gives people the option to mine a blockchain using the same technology of Zcash, but without paying the 20% Founder’s Reward.\r\n\r\nThe mission of Zclassic is to stay as similar to Zcash from a technology perspective, but to never take any pre-mine, founder’s-reward or any other kind of fee that goes to a small group of individuals with special permissions whether elected, appointed, or otherwise.",
+    description: "Zclassic is a fork of <a href=\"https://coingecko.com/en/coins/zcash\">Zcash</a> founded by Rhett Creighton but with the 20% founders’ reward and slow start removed. Miners are simply earning their fair reward, we believe they deserve it, and the coin development can be supported by the community. ZCL also differs from ZEC by removing the slow start (source), we are not trying to deliberately engineer scarcity: The Market decides the price. We are using the same parameters which were produced in the now famous secure \"trusted setup meeting\" (source) where Peter Todd participated, and he confirmed to us (source) they are safe to use. If just one of the participants kept their key secret and destroyed it, the whole system is secure.\r\n\r\nZcash is a cryptocurrency run by the Zero Coin Inc. In order to fund their operations, a 20% mining “Founder’s Reward” is included. Every block, in order to maintain consensus, miners running the Zcash code send 20% of their newly mined rewards to an address controlled by the Zero Coin Inc. Because the Zcash source code is open source, Zclassic simply removes the 20% Founder’s Reward. This gives people the option to mine a blockchain using the same technology of Zcash, but without paying the 20% Founder’s Reward.\r\n\r\nThe mission of Zclassic is to stay as similar to Zcash from a technology perspective, but to never take any pre-mine, founder’s-reward or any other kind of fee that goes to a small group of individuals with special permissions whether elected, appointed, or otherwise.",
     total_supply: 21000000,
     circulating_supply: 5812950,
     websites: [
-      "http://zclassic.org/",
-      "https://zclassic-ce.org/",
+      "https://zclassic.org",
+      "https://zclassic-ce.org",
     ],
     explorers: [
-      "https://zcl.tokenview.com/",
+      "https://zcl.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -1554,7 +1554,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1671982",
     facebook: "",
     twitter: "https://twitter.com/zclassiccoin",
-    reddit: "https://www.reddit.com/r/ZClassic",
+    reddit: "https://reddit.com/r/ZClassic",
     repository: "https://github.com/z-classic/zclassic",
   },
   snowgem: {
@@ -1562,16 +1562,16 @@ const coininfo = {
     total_supply: 84096000,
     circulating_supply: 14025650,
     websites: [
-      "https://snowgem.org/",
+      "https://snowgem.org",
     ],
     explorers: [
-      "https://explorer.snowgem.org/",
+      "https://explorer.snowgem.org",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/snowgemofficial",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2630198",
-    facebook: "snowgemofficial",
+    facebook: "https://facebook.com/snowgemofficial",
     twitter: "https://twitter.com/snowgemofficial",
     reddit: "",
     repository: "https://github.com/Snowgem/Snowgem",
@@ -1581,38 +1581,38 @@ const coininfo = {
     total_supply: 29739167,
     circulating_supply: 27735063,
     websites: [
-      "https://safecoin.org/",
+      "https://safecoin.org",
     ],
     explorers: [
-      "https://explorer.safecoin.org/",
+      "https://explorer.safecoin.org",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/SafeCoinEN",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2838370",
-    facebook: "safecoins",
+    facebook: "https://facebook.com/safecoins",
     twitter: "https://twitter.com/safecoins",
     reddit: "",
-    repository: "https://github.com/Fair-Exchange/safecoin/",
+    repository: "https://github.com/Fair-Exchange/safecoin",
   },
   btcp: {
-    description: "Bitcoin Private is fork from <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin (BTC)</a>. This coin is also a copy of <a href=\"https://www.coingecko.com/en/coins/zclassic\">ZClassic</a> as they use the same technology. When compared to Bitcoin which lacks privacy and anonymity, Bitcoin Private is better in terms of that due to the privacy technology that they use. The coin’s database is widely available for viewing and verification as it will always remain open source and be continued by the community. Transactions can be made between users as no intermediaries are needed in this decentralized system. Bitcoin Private is also faster than Bitcoin because it supports a bigger block size when compared to Bitcoin. ",
+    description: "Bitcoin Private is fork from <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin (BTC)</a>. This coin is also a copy of <a href=\"https://coingecko.com/en/coins/zclassic\">ZClassic</a> as they use the same technology. When compared to Bitcoin which lacks privacy and anonymity, Bitcoin Private is better in terms of that due to the privacy technology that they use. The coin’s database is widely available for viewing and verification as it will always remain open source and be continued by the community. Transactions can be made between users as no intermediaries are needed in this decentralized system. Bitcoin Private is also faster than Bitcoin because it supports a bigger block size when compared to Bitcoin. ",
     total_supply: 21000000,
     circulating_supply: 4681438,
     websites: [
-      "https://btcprivate.org/",
+      "https://btcprivate.org",
     ],
     explorers: [
-      "http://pool.btcprivate.org/",
-      "https://btcp.tokenview.com/",
+      "https://pool.btcprivate.org",
+      "https://btcp.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/BTCPrivate",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2675257",
-    facebook: "bitcoinprivate",
+    facebook: "https://facebook.com/bitcoinprivate",
     twitter: "https://twitter.com/bitcoinprivate",
-    reddit: "https://www.reddit.com/r/BitcoinPrivate/",
+    reddit: "https://reddit.com/r/BitcoinPrivate",
     repository: "https://github.com/BTCPrivate/BitcoinPrivate",
   },
   zen: {
@@ -1623,16 +1623,16 @@ const coininfo = {
       "https://horizen.global",
     ],
     explorers: [
-      "https://explorer.zensystem.io/",
-      "https://zen.tokenview.com/",
+      "https://explorer.zensystem.io",
+      "https://zen.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2047435",
-    facebook: "zencash",
+    facebook: "https://facebook.com/zencash",
     twitter: "https://twitter.com/horizenglobal",
-    reddit: "https://www.reddit.com/r/Horizen",
+    reddit: "https://reddit.com/r/Horizen",
     repository: "https://github.com/ZencashOfficial/zen",
   },
   komodo: {
@@ -1640,43 +1640,43 @@ const coininfo = {
     total_supply: 200000000,
     circulating_supply: 113026833.29317,
     websites: [
-      "https://komodoplatform.com/",
+      "https://komodoplatform.com",
     ],
     explorers: [
-      "https://kmdexplorer.io/",
-      "https://kmd.explorer.supernet.org/",
-      "https://komodoblockexplorer.com/",
+      "https://kmdexplorer.io",
+      "https://kmd.explorer.supernet.org",
+      "https://komodoblockexplorer.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1605144",
-    facebook: "KomodoPlatform",
+    facebook: "https://facebook.com/KomodoPlatform",
     twitter: "https://twitter.com/KomodoPlatform",
-    reddit: "https://www.reddit.com/r/komodoplatform",
+    reddit: "https://reddit.com/r/komodoplatform",
     repository: "https://github.com/KomodoPlatform/komodo",
   },
   zcoin: {
-    description: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
+    description: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
     total_supply: 21400000,
     circulating_supply: 7388418.32977799,
     websites: [
-      "https://firo.org/",
+      "https://firo.org",
     ],
     explorers: [
-      "https://chainz.cryptoid.info/xzc/",
-      "https://www.coinexplorer.net/XZC",
-      "http://explorer.zcoin.io/",
-      "https://insight.zcoin.io/",
-      "https://xzc.ccore.online/",
+      "https://chainz.cryptoid.info/xzc",
+      "https://coinexplorer.net/XZC",
+      "https://explorer.zcoin.io",
+      "https://insight.zcoin.io",
+      "https://xzc.ccore.online",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/zcoinproject",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1638450",
-    facebook: "zcoinofficial",
+    facebook: "https://facebook.com/zcoinofficial",
     twitter: "https://twitter.com/zcoinofficial",
-    reddit: "https://www.reddit.com/r/zcoin",
+    reddit: "https://reddit.com/r/zcoin",
     repository: "https://github.com/zcoinofficial/zcoin",
   },
   zero: {
@@ -1684,12 +1684,12 @@ const coininfo = {
     total_supply: 17000000,
     circulating_supply: 5888464.51111923,
     websites: [
-      "https://zerocurrency.io/",
+      "https://zerocurrency.io",
     ],
     explorers: [
-      "https://insight.zerocurrency.io/insight/",
-      "https://explorer.zeromachine.io/",
-      "https://zero.cryptonode.cloud/insight/",
+      "https://insight.zerocurrency.io/insight",
+      "https://explorer.zeromachine.io",
+      "https://zero.cryptonode.cloud/insight",
     ],
     medium: "",
     discord: "",
@@ -1705,7 +1705,7 @@ const coininfo = {
     total_supply: 186000000,
     circulating_supply: 98580000,
     websites: [
-      "https://www.arcblock.io/",
+      "https://arcblock.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986",
@@ -1716,17 +1716,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/ArcBlock",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2699379",
-    facebook: "arcblock.io",
+    facebook: "https://facebook.com/arcblock.io",
     twitter: "https://twitter.com/ArcBlock_io",
-    reddit: "https://www.reddit.com/r/arcblock/",
+    reddit: "https://reddit.com/r/arcblock",
     repository: "https://github.com/ArcBlock/ArcBlock-Token",
   },
   adex: {
-    description: "AdEx (ADX) stands for “advertising exchange.” AdEx Coin is a blockchain-based marketplace for ads that aims to change the existing online advertising landscape and solve its major problems: ad fraud, privacy and consent to receive sponsored messages, etc. AdEx is fully transparent and built on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> Smart Contracts.\r\n\r\nAdEx is still in development, so it’s difficult to say much yet about it at this point. The original roadmap anticipated a beta release in February 2018. It remains to be seen if the team will meet that deadline. Future plans for version two of AdEx after launch focus on improving the user experience and scalability. AdEx has also expressed an interest in implementing a real-time bidding solution that could take place off-chain or on a high throughput network, like IOTA. AdEx raised $10 million in the first three hours of token sale.\r\n\r\nAdEx as a platform has room for a good amount of growth since digital advertising is a booming business anyway. But by eliminating flaws and continuing updates on its current platform, AdEx aims to stand firm in the near future.",
+    description: "AdEx (ADX) stands for “advertising exchange.” AdEx Coin is a blockchain-based marketplace for ads that aims to change the existing online advertising landscape and solve its major problems: ad fraud, privacy and consent to receive sponsored messages, etc. AdEx is fully transparent and built on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> Smart Contracts.\r\n\r\nAdEx is still in development, so it’s difficult to say much yet about it at this point. The original roadmap anticipated a beta release in February 2018. It remains to be seen if the team will meet that deadline. Future plans for version two of AdEx after launch focus on improving the user experience and scalability. AdEx has also expressed an interest in implementing a real-time bidding solution that could take place off-chain or on a high throughput network, like IOTA. AdEx raised $10 million in the first three hours of token sale.\r\n\r\nAdEx as a platform has room for a good amount of growth since digital advertising is a booming business anyway. But by eliminating flaws and continuing updates on its current platform, AdEx aims to stand firm in the near future.",
     total_supply: 100000000,
     circulating_supply: 92045370.1542,
     websites: [
-      "https://www.adex.network/",
+      "https://adex.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x4470bb87d77b963a013db939be332f927f2b992e",
@@ -1739,7 +1739,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1965467",
     facebook: "",
     twitter: "https://twitter.com/AdEx_Network",
-    reddit: "https://www.reddit.com/r/AdEx",
+    reddit: "https://reddit.com/r/AdEx",
     repository: "https://github.com/AdExBlockchain/adex-core",
   },
   iconomi: {
@@ -1747,7 +1747,7 @@ const coininfo = {
     total_supply: 100000000,
     circulating_supply: 100000000,
     websites: [
-      "https://www.iconomi.com/",
+      "https://iconomi.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
@@ -1758,17 +1758,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1789926.0",
-    facebook: "https://www.facebook.com/iconomicom",
+    facebook: "https://facebook.com/iconomicom",
     twitter: "https://twitter.com/iconomicom",
-    reddit: "https://www.reddit.com/r/ICONOMI/",
+    reddit: "https://reddit.com/r/ICONOMI",
     repository: "",
   },
   aeternity: {
-    description: "Founded in 2017, Aeternity is a new, scalable, cryptocurrency platform that aims to improve cryptocurrencies, in general, by solving some of the most serious problems: scalability and security. Eliminating inefficiencies in the cryptomarket, increasing scalability of smart contacts and dapps, sharding, and moving contract execution off-chain are just some of the things that make Aeternity stand out from the crowd. Aeternity powers Turing-complete smart contracts that allow the execution of credible transactions without third parties and intermediaries. It has state channels to make it possible to execute smart contracts off-chain. The blockchain enforces the smart contract code, only in the case of a disagreement between the contracting parties.\r\n\r\nIts benefits are for example, high privacy. For many business applications it's crucial to have transactions which are not recorded in public. Smart contracts executed in state channels touch the blockchain only in the case of disagreement, acting like a self-arbitrating crypto court. It has high security too. For example, state-of-the-art cryptographic data structures and unparalleled decentralization provide robust efficiency and eliminate \"\"single point of failure\"\" (SPOF) issues. The cost of buying it very low too. By leveraging state channels as the default way to run smart contracts, æternity becomes the most efficient Turing-complete blockchain and thus enables new forms of commerce via its low cost transactions.\r\n\r\nAeternity is available on most major exchanges, where it can be traded with <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. As an ERC-20 token, Aeternity token can be stored on any ERC-20 compatible wallets such as <a href=\"https://www.coingecko.com/buzz/how-to-use-an-ethereum-wallet\">MyEtherWallet</a>, <a href=\"https://www.coingecko.com/buzz/trezor-bitcoin-hardware-wallet-review\">Trezor</a>, or <a href=\"https://www.coingecko.com/buzz/ledger-bitcoin-hardware-wallet-review\">Ledger</a>.\"",
+    description: "Founded in 2017, Aeternity is a new, scalable, cryptocurrency platform that aims to improve cryptocurrencies, in general, by solving some of the most serious problems: scalability and security. Eliminating inefficiencies in the cryptomarket, increasing scalability of smart contacts and dapps, sharding, and moving contract execution off-chain are just some of the things that make Aeternity stand out from the crowd. Aeternity powers Turing-complete smart contracts that allow the execution of credible transactions without third parties and intermediaries. It has state channels to make it possible to execute smart contracts off-chain. The blockchain enforces the smart contract code, only in the case of a disagreement between the contracting parties.\r\n\r\nIts benefits are for example, high privacy. For many business applications it's crucial to have transactions which are not recorded in public. Smart contracts executed in state channels touch the blockchain only in the case of disagreement, acting like a self-arbitrating crypto court. It has high security too. For example, state-of-the-art cryptographic data structures and unparalleled decentralization provide robust efficiency and eliminate \"\"single point of failure\"\" (SPOF) issues. The cost of buying it very low too. By leveraging state channels as the default way to run smart contracts, æternity becomes the most efficient Turing-complete blockchain and thus enables new forms of commerce via its low cost transactions.\r\n\r\nAeternity is available on most major exchanges, where it can be traded with <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> or <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a>. As an ERC-20 token, Aeternity token can be stored on any ERC-20 compatible wallets such as <a href=\"https://coingecko.com/buzz/how-to-use-an-ethereum-wallet\">MyEtherWallet</a>, <a href=\"https://coingecko.com/buzz/trezor-bitcoin-hardware-wallet-review\">Trezor</a>, or <a href=\"https://coingecko.com/buzz/ledger-bitcoin-hardware-wallet-review\">Ledger</a>.\"",
     total_supply: 273685830,
     circulating_supply: 266071425.9601,
     websites: [
-      "https://www.aeternity.com/",
+      "https://aeternity.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
@@ -1781,15 +1781,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1733140",
     facebook: "",
     twitter: "https://twitter.com/aetrnty",
-    reddit: "https://www.reddit.com/r/Aeternity",
+    reddit: "https://reddit.com/r/Aeternity",
     repository: "https://github.com/aeternity/epoch",
   },
   aion: {
-    description: "Aion is a revolutionary multi-tier blockchain platform that has been created to solve the pressing issue of limited operability between existing blockchains while still remaining capable of handling its own applications. It supports custom blockchain architectures, and it provides cross-chain interoperability. The Aion project comes at a very appropriate period, in a time where there’s an ever-growing number of blockchains.Thus, interoperability is more important now that it ever has been. Interoperability will expand the horizons of multiple other blockchain platforms, not to mention those of enterprise-oriented companies.\r\n\r\nThe project is led by Matthew Spoke, the CEO of Nuco and board member on the EEA. Other big names include Jin Tu, Nuco’s CTO, who has more than 15 years of experience in enterprise engineering and more than four years in the blockchain industry, and Peter Vessenes who has co-founded the Bitcoin Foundation.\r\n\r\nThe token is the blockchain’s power-source. It’s used for securing the network, for creating new blockchains, as well as for monetizing inter-chain bridges. AION token is actually an ERC-20 token. In fact, the token is first offered as an ERC-20 token on the <a href=\"https://www.coingecko.com/en?asset_platform_id=279&view=market\">Ethereum blockchain</a>, and only then it can be changed to the official AION network token. When that happens, the token can freely stream between two blockchains. The best thing about this is that investors are not required to change their Aion Ethereum token (ERC-20) for the Aion-1 token, as they will always be interchangeable.\r\n\r\nIn order to buy AION, you will need to first purchase another cryptocurrency, preferably <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>. Fortunately, AION is supported by some very popular crypto exchanges out there such as <a href=\"https://www.coingecko.com/en/exchanges/bitforex\">BitForex</a>, <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a>, <a href=\"https://www.coingecko.com/en/exchanges/ethfinex\">Ethfinex</a>, <a href=\"https://www.coingecko.com/en/exchanges/liqui\">Liqui</a>, and <a href=\"https://www.coingecko.com/en/exchanges/bancor\">Bancor Network</a>. There's a good chance that Aion, with its unique approach of solving interoperability issues, will become somewhat of a necessity for the cryptosphere in the following period.",
+    description: "Aion is a revolutionary multi-tier blockchain platform that has been created to solve the pressing issue of limited operability between existing blockchains while still remaining capable of handling its own applications. It supports custom blockchain architectures, and it provides cross-chain interoperability. The Aion project comes at a very appropriate period, in a time where there’s an ever-growing number of blockchains.Thus, interoperability is more important now that it ever has been. Interoperability will expand the horizons of multiple other blockchain platforms, not to mention those of enterprise-oriented companies.\r\n\r\nThe project is led by Matthew Spoke, the CEO of Nuco and board member on the EEA. Other big names include Jin Tu, Nuco’s CTO, who has more than 15 years of experience in enterprise engineering and more than four years in the blockchain industry, and Peter Vessenes who has co-founded the Bitcoin Foundation.\r\n\r\nThe token is the blockchain’s power-source. It’s used for securing the network, for creating new blockchains, as well as for monetizing inter-chain bridges. AION token is actually an ERC-20 token. In fact, the token is first offered as an ERC-20 token on the <a href=\"https://coingecko.com/en?asset_platform_id=279&view=market\">Ethereum blockchain</a>, and only then it can be changed to the official AION network token. When that happens, the token can freely stream between two blockchains. The best thing about this is that investors are not required to change their Aion Ethereum token (ERC-20) for the Aion-1 token, as they will always be interchangeable.\r\n\r\nIn order to buy AION, you will need to first purchase another cryptocurrency, preferably <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>. Fortunately, AION is supported by some very popular crypto exchanges out there such as <a href=\"https://coingecko.com/en/exchanges/bitforex\">BitForex</a>, <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a>, <a href=\"https://coingecko.com/en/exchanges/ethfinex\">Ethfinex</a>, <a href=\"https://coingecko.com/en/exchanges/liqui\">Liqui</a>, and <a href=\"https://coingecko.com/en/exchanges/bancor\">Bancor Network</a>. There's a good chance that Aion, with its unique approach of solving interoperability issues, will become somewhat of a necessity for the cryptosphere in the following period.",
     total_supply: 465934587,
     circulating_supply: 309581662,
     websites: [
-      "https://aion.network/",
+      "https://aion.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
@@ -1801,9 +1801,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/aion_blockchain",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2215642",
-    facebook: "AionBlockchain",
+    facebook: "https://facebook.com/AionBlockchain",
     twitter: "https://twitter.com/Aion_Network",
-    reddit: "https://www.reddit.com/r/AionNetwork",
+    reddit: "https://reddit.com/r/AionNetwork",
     repository: "https://github.com/aionnetwork/aion",
   },
   airswap: {
@@ -1811,7 +1811,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 166606080.6189,
     websites: [
-      "https://www.airswap.io/",
+      "https://airswap.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a",
@@ -1824,7 +1824,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2208855",
     facebook: "",
     twitter: "https://twitter.com/airswap",
-    reddit: "https://www.reddit.com/r/AirSwap",
+    reddit: "https://reddit.com/r/AirSwap",
     repository: "https://github.com/airswap/contracts",
   },
   bigbom: {
@@ -1832,7 +1832,7 @@ const coininfo = {
     total_supply: 1999751794,
     circulating_supply: 364751794,
     websites: [
-      "https://bigbom.com/",
+      "https://bigbom.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x84f7c44b6fed1080f647e354d552595be2cc602f",
@@ -1845,7 +1845,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=3213250",
     facebook: "",
     twitter: "https://twitter.com/bigbomglobal",
-    reddit: "https://www.reddit.com/r/bigbom",
+    reddit: "https://reddit.com/r/bigbom",
     repository: "https://github.com/bigbomio",
   },
   appcoins: {
@@ -1853,7 +1853,7 @@ const coininfo = {
     total_supply: 246203093,
     circulating_supply: 106524122,
     websites: [
-      "https://appcoins.io/",
+      "https://appcoins.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
@@ -1866,7 +1866,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2280664",
     facebook: "AppCoinsOfficial",
     twitter: "https://twitter.com/AppCoinsProject",
-    reddit: "https://www.reddit.com/r/AppcoinsProtocol",
+    reddit: "https://reddit.com/r/AppcoinsProtocol",
     repository: "https://github.com/Aptoide/AppCoins",
   },
   bluzelle: {
@@ -1874,7 +1874,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 206323868.6296521,
     websites: [
-      "https://bluzelle.com/",
+      "https://bluzelle.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x5732046a883704404f284ce41ffadd5b007fd668",
@@ -1887,15 +1887,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/BluzelleHQ",
-    reddit: "https://www.reddit.com/r/Bluzelle/",
+    reddit: "https://reddit.com/r/Bluzelle",
     repository: "https://github.com/njmurarka/bluzelle",
   },
   bancor: {
-    description: "Bancor is a blockchain protocol that allows users to convert between different tokens directly as opposed to exchanging them on cryptocurrency markets. The project offers a network, which we’ll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges. That network is built on smart contracts and a new class of cryptocurrencies that the team calls “Smart Tokens.” Bancor is looking to provide support to the illiquidity that currently exists within the cryptocurrency market. Illiquidity isn’t so much an issue for top coins like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> because there are always buyers and sellers looking to exchange those coins. It is definitely an issue, however, for the thousands of other tokens that may serve legitimate decentralized purposes but haven’t attracted enough attention in the market to be liquid.\r\n\r\nBancor’s protocol uses smart contracts to create Smart Tokens, which serve as an alternative mechanism for trading. A key characteristic of the protocol is that it doesn’t call for an exchange of tokens with a second party, as in the case of cryptocurrency exchanges. Rather, it employs Smart Tokens to convert between different ERC-20 tokens internally. These conversions take place through the blockchain’s protocol and completely outside of cryptocurrency exchanges. Smart Tokens process token conversions internally by holding reserves of other ERC20 tokens within their Smart Contract. They can then convert back and forth between those reserves as users request it.\r\n\r\nThe Bancor team consists of a core Foundation Council and their Advisory Board. The Foundation Council includes four individuals based out of Zug, Switzerland. Bernard Lietaer is a Belgian civil engineer, economist, author, and professor. Lietaer specialized in monetary systems and promotes the notion of communities creating their own local currencies. Guy Benartzi serves as co-founder and is recognized for founding the gaming company, Mytopia. Benartzi also co-founded Particle Code, a development studio based in Tel Aviv, Israel. Guido Schmitz-Krummacher is an executive of the Bancor Protocol foundation that’s involved with a variety of commercial entrepreneurial ventures in Switzerland. His involvement in the crypto space includes that of Bancor as well as an executive position in crowdfunding network, <a href=\"https://www.coingecko.com/en/coins/tezos\">Tezos (XTZ)</a>. \r\n\r\nOne of the key elements of the Bancor Network is the automated pricing. This comes from the Smart Tokens’ built-in automated market makers. These automated market makers mean that the tokens’ smart contracts always buy or sell Smart Tokens from or to any user in exchange for any connector token (as well as any token found in the network). The price comes from the Bancor Formula. This formula that is responsible for balancing a Smart Token’s demand and supply while also maintaining the ratio between the token’s total value with the connector token balances. The creator of the Smart Token configures these ratios, known as the connector weight. The creator can adjust them with the goal of decreasing or increasing the liquidity level of the token. The connector weight indicates price sensitivity, or how much sells and buys affect the price movement. Any time the prices no longer syncs with prices listed on external exchanges, the arbitrageurs will quickly balance the gaps.\"",
+    description: "Bancor is a blockchain protocol that allows users to convert between different tokens directly as opposed to exchanging them on cryptocurrency markets. The project offers a network, which we’ll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges. That network is built on smart contracts and a new class of cryptocurrencies that the team calls “Smart Tokens.” Bancor is looking to provide support to the illiquidity that currently exists within the cryptocurrency market. Illiquidity isn’t so much an issue for top coins like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> because there are always buyers and sellers looking to exchange those coins. It is definitely an issue, however, for the thousands of other tokens that may serve legitimate decentralized purposes but haven’t attracted enough attention in the market to be liquid.\r\n\r\nBancor’s protocol uses smart contracts to create Smart Tokens, which serve as an alternative mechanism for trading. A key characteristic of the protocol is that it doesn’t call for an exchange of tokens with a second party, as in the case of cryptocurrency exchanges. Rather, it employs Smart Tokens to convert between different ERC-20 tokens internally. These conversions take place through the blockchain’s protocol and completely outside of cryptocurrency exchanges. Smart Tokens process token conversions internally by holding reserves of other ERC20 tokens within their Smart Contract. They can then convert back and forth between those reserves as users request it.\r\n\r\nThe Bancor team consists of a core Foundation Council and their Advisory Board. The Foundation Council includes four individuals based out of Zug, Switzerland. Bernard Lietaer is a Belgian civil engineer, economist, author, and professor. Lietaer specialized in monetary systems and promotes the notion of communities creating their own local currencies. Guy Benartzi serves as co-founder and is recognized for founding the gaming company, Mytopia. Benartzi also co-founded Particle Code, a development studio based in Tel Aviv, Israel. Guido Schmitz-Krummacher is an executive of the Bancor Protocol foundation that’s involved with a variety of commercial entrepreneurial ventures in Switzerland. His involvement in the crypto space includes that of Bancor as well as an executive position in crowdfunding network, <a href=\"https://coingecko.com/en/coins/tezos\">Tezos (XTZ)</a>. \r\n\r\nOne of the key elements of the Bancor Network is the automated pricing. This comes from the Smart Tokens’ built-in automated market makers. These automated market makers mean that the tokens’ smart contracts always buy or sell Smart Tokens from or to any user in exchange for any connector token (as well as any token found in the network). The price comes from the Bancor Formula. This formula that is responsible for balancing a Smart Token’s demand and supply while also maintaining the ratio between the token’s total value with the connector token balances. The creator of the Smart Token configures these ratios, known as the connector weight. The creator can adjust them with the goal of decreasing or increasing the liquidity level of the token. The connector weight indicates price sensitivity, or how much sells and buys affect the price movement. Any time the prices no longer syncs with prices listed on external exchanges, the arbitrageurs will quickly balance the gaps.\"",
     total_supply: 75783855,
     circulating_supply: 65058368.32785156,
     websites: [
-      "https://www.bancor.network/",
+      "https://bancor.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
@@ -1908,7 +1908,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1789222",
     facebook: "bancor",
     twitter: "https://twitter.com/BancorNetwork",
-    reddit: "https://www.reddit.com/r/Bancor",
+    reddit: "https://reddit.com/r/Bancor",
     repository: "https://github.com/bancorprotocol/contracts_eos",
   },
   ethos: {
@@ -1916,7 +1916,7 @@ const coininfo = {
     total_supply: 222295208,
     circulating_supply: 117621897.36213696,
     websites: [
-      "https://www.ethos.io/",
+      "https://ethos.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
@@ -1929,7 +1929,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1964187",
     facebook: "",
     twitter: "https://twitter.com/Ethos_io",
-    reddit: "https://www.reddit.com/r/ethos_io/",
+    reddit: "https://reddit.com/r/ethos_io",
     repository: "",
   },
   coinfi: {
@@ -1937,7 +1937,7 @@ const coininfo = {
     total_supply: 300000000,
     circulating_supply: 205653885.18019786,
     websites: [
-      "http://www.coinfi.com/",
+      "https://coinfi.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x3136ef851592acf49ca4c825131e364170fa32b3",
@@ -1948,9 +1948,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/coinfi",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2571554",
-    facebook: "CoinFiProject",
+    facebook: "https://facebook.com/CoinFiProject",
     twitter: "https://twitter.com/coin_fi",
-    reddit: "https://www.reddit.com/r/CoinFi",
+    reddit: "https://reddit.com/r/CoinFi",
     repository: "https://github.com/coinfi/coinfi",
   },
   dai: {
@@ -1958,7 +1958,7 @@ const coininfo = {
     total_supply: 84184453,
     circulating_supply: 84184453,
     websites: [
-      "https://makerdao.com/",
+      "https://makerdao.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
@@ -1971,7 +1971,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/MakerDAO",
-    reddit: "https://www.reddit.com/r/MakerDAO",
+    reddit: "https://reddit.com/r/MakerDAO",
     repository: "https://github.com/makerdao/dai.js",
   },
   digixgoldtoken: {
@@ -1979,7 +1979,7 @@ const coininfo = {
     total_supply: 111100,
     circulating_supply: 99639.361482069,
     websites: [
-      "http://digix.io/",
+      "https://digix.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
@@ -1992,7 +1992,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/digixglobal",
-    reddit: "https://www.reddit.com/r/digix/",
+    reddit: "https://reddit.com/r/digix",
     repository: "https://gist.github.com/mrenoon/2582fba7b4d457d80f7d37520aabbc08",
   },
   electrify: {
@@ -2000,7 +2000,7 @@ const coininfo = {
     total_supply: 749999996,
     circulating_supply: 534360133.8,
     websites: [
-      "https://electrify.asia/",
+      "https://electrify.asia",
     ],
     explorers: [
       "https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
@@ -2021,7 +2021,7 @@ const coininfo = {
     total_supply: 879999999,
     circulating_supply: 879999999,
     websites: [
-      "http://aelf.io/",
+      "https://aelf.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
@@ -2032,18 +2032,18 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/aelfblockchain",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2607198",
-    facebook: "aelfofficial",
+    facebook: "https://facebook.com/aelfofficial",
     twitter: "https://twitter.com/aelfblockchain",
-    reddit: "https://www.reddit.com/r/aelfofficial/",
+    reddit: "https://reddit.com/r/aelfofficial",
     repository: "https://github.com/AElfProject/aelf-web-wallet",
   },
   enjincoin: {
-    description: "Enjin Coin is a cryptocurrency for virtual goods created by Enjin. Enjin is the “largest gaming community platform online” with over 250,000 gaming communities and 18.7 million registered gamers. The Enjin team is designing the coin completely around gaming with the goal of it being the most usable cryptocurrency for the industry. The project includes the Enjin Coin as well as a suite of software development kits (SDKs) that developers can integrate into their games and communities. Bringing blockchain to gaming helps to reduce the high fees and fraud that’s prevalent in the transfer of virtual goods.\r\n\r\nEnjin Coin is an ERC20 token built on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network. With that, the project not only acts as a cryptocurrency but also has smart contract capabilities. It’s also one of the first projects testing the <a href=\"https://www.coingecko.com/en/coins/raiden-network\">Raiden Network</a>, Ethereum’s version of the Lightning Network. The Enjin Coin platform provides a laundry list of features through its public API and SDKs. To keep things brief, though, we’ll only be discussing a few of the major ones in this article. The largest value Enjin Coin brings to the gaming community is in its creation and management of virtual goods. Developers on each platform can easily create a currency unique to their community that’s backed by Enjin Coin as the parent currency. This gives the coins all the benefits of the blockchain (speed, cost, security, etc…) while still staying customized to their respective platforms.\r\n\r\nEnjin, the company behind Enjin Coin, is the largest online gaming community creation platform. Started in 2009, the company receives 60 million views per month and transacts millions of U.S. dollars each month in their community stores. The team is deploying Enjin Coin across the entire Enjin CMS platform – over 250,000 gaming websites. Advisors to the project consist of Anthony Diiorio (Ethereum co-founder) and Pat LaBine (previous producer and technical director at Bioware). Enjin has also formed partnerships with Unity, PC Gamer, and NRG eSports. The team held a successful ICO in late 2017 in which they raised ~$35 million between the private and public rounds. Although it’s still a young project, the team spent the last quarter of 2017 building the Platform API, Mobile Smart Wallet, and a Java SDK alongside creating a Minecraft plugin. They’ve got plenty in store for 2018, but the highlights include various platform plugins, the Efinity release, and numerous other SDKs.\r\n\r\nEnjin also features a tool known as TopLists, which allow users to rank games, servers, teams and any other item. TopLists will be deployed as a decentralized smart contract with functionalities that will allow for market bidding or democratic voting. List creators are incentivized to promote and market their list because these creators will receive tokens when users perform tasks such as voting on their list. Enjin Coin is an ambitious project that aims to integrate online virtual gaming with decentralized technologies. Enjin Coin project promises a lot, and it is only with the passage of time that we will able to see if it can deliver on those promises.",
+    description: "Enjin Coin is a cryptocurrency for virtual goods created by Enjin. Enjin is the “largest gaming community platform online” with over 250,000 gaming communities and 18.7 million registered gamers. The Enjin team is designing the coin completely around gaming with the goal of it being the most usable cryptocurrency for the industry. The project includes the Enjin Coin as well as a suite of software development kits (SDKs) that developers can integrate into their games and communities. Bringing blockchain to gaming helps to reduce the high fees and fraud that’s prevalent in the transfer of virtual goods.\r\n\r\nEnjin Coin is an ERC20 token built on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network. With that, the project not only acts as a cryptocurrency but also has smart contract capabilities. It’s also one of the first projects testing the <a href=\"https://coingecko.com/en/coins/raiden-network\">Raiden Network</a>, Ethereum’s version of the Lightning Network. The Enjin Coin platform provides a laundry list of features through its public API and SDKs. To keep things brief, though, we’ll only be discussing a few of the major ones in this article. The largest value Enjin Coin brings to the gaming community is in its creation and management of virtual goods. Developers on each platform can easily create a currency unique to their community that’s backed by Enjin Coin as the parent currency. This gives the coins all the benefits of the blockchain (speed, cost, security, etc…) while still staying customized to their respective platforms.\r\n\r\nEnjin, the company behind Enjin Coin, is the largest online gaming community creation platform. Started in 2009, the company receives 60 million views per month and transacts millions of U.S. dollars each month in their community stores. The team is deploying Enjin Coin across the entire Enjin CMS platform – over 250,000 gaming websites. Advisors to the project consist of Anthony Diiorio (Ethereum co-founder) and Pat LaBine (previous producer and technical director at Bioware). Enjin has also formed partnerships with Unity, PC Gamer, and NRG eSports. The team held a successful ICO in late 2017 in which they raised ~$35 million between the private and public rounds. Although it’s still a young project, the team spent the last quarter of 2017 building the Platform API, Mobile Smart Wallet, and a Java SDK alongside creating a Minecraft plugin. They’ve got plenty in store for 2018, but the highlights include various platform plugins, the Efinity release, and numerous other SDKs.\r\n\r\nEnjin also features a tool known as TopLists, which allow users to rank games, servers, teams and any other item. TopLists will be deployed as a decentralized smart contract with functionalities that will allow for market bidding or democratic voting. List creators are incentivized to promote and market their list because these creators will receive tokens when users perform tasks such as voting on their list. Enjin Coin is an ambitious project that aims to integrate online virtual gaming with decentralized technologies. Enjin Coin project promises a lot, and it is only with the passage of time that we will able to see if it can deliver on those promises.",
     total_supply: 1000000000,
     circulating_supply: 867157985.0642638,
     websites: [
-      "https://www.enjin.com/",
-      "https://enjincoin.io/",
+      "https://enjin.com",
+      "https://enjincoin.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
@@ -2056,15 +2056,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2042871",
     facebook: "",
     twitter: "https://twitter.com/enjin",
-    reddit: "https://www.reddit.com/r/EnjinCoin",
+    reddit: "https://reddit.com/r/EnjinCoin",
     repository: "https://github.com/enjin/erc-1155",
   },
   storj: {
-    description: "Storj is an open-source platform that leverages the blockchain to provide end-to-end encrypted cloud storage services. Instead of maintaining its own data centres, Storj platform relies on a peer-to-peer network of individuals or entities sharing their storage spaces. The Storj project is owned and developed by Storj Labs Inc. Storj intends to facilitate a faster, cheaper, and secure file storage solution than traditional cloud storage platforms. To achieve its goal, Storj deploys several innovative technologies and methods to make sure that users are able to store and retrieve data in a fastest possible way while not compromising the security and integrity of data.\r\n\r\nStorj Labs Inc was founded in 2014 by Shawn Wilkinson with co-founders John Quinn. The company is headquartered at Atlanta, Georgia in the United States. Shawn was previously appointed as CEO, but in March 2018, he stepped down from the post to serve as CSO of the company.\r\n\r\nShawn was replaced by Ben Golub (Ex-CEO of Docker) who currently serves as the Executive Chairman & Interim CEO. Co-founder John Quinn has been appointed as the Chief Revenue Officer. The company launched its initial coin offering (ICO) of the new tokens on May 19, 2017. At the end of the token sale on May 25, 2017, the company had raised about $30 million. Storj Labs allowed SJCX holders to exchange their tokens with the new ones in a 1:1 ratio through a token conversion campaign which lasted till October 2017.\r\n\r\nStorj Labs pre-mined its entire supply of tokens at the inception; no new tokens can be created via STORJ mining. Nevertheless, users can obtain STORJ tokens by becoming a farmer in the network. Another obvious way to acquire STORJ is through trading on a cryptocurrency exchange. Up until now, cloud storage companies have dictated the terms of service to their users, and as a result, there has been little to no competition within this digital sector. However, with the introduction of Storj, all of that may change.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/storj/\">CoinBureau</a> for the full review on OmiseGo.",
+    description: "Storj is an open-source platform that leverages the blockchain to provide end-to-end encrypted cloud storage services. Instead of maintaining its own data centres, Storj platform relies on a peer-to-peer network of individuals or entities sharing their storage spaces. The Storj project is owned and developed by Storj Labs Inc. Storj intends to facilitate a faster, cheaper, and secure file storage solution than traditional cloud storage platforms. To achieve its goal, Storj deploys several innovative technologies and methods to make sure that users are able to store and retrieve data in a fastest possible way while not compromising the security and integrity of data.\r\n\r\nStorj Labs Inc was founded in 2014 by Shawn Wilkinson with co-founders John Quinn. The company is headquartered at Atlanta, Georgia in the United States. Shawn was previously appointed as CEO, but in March 2018, he stepped down from the post to serve as CSO of the company.\r\n\r\nShawn was replaced by Ben Golub (Ex-CEO of Docker) who currently serves as the Executive Chairman & Interim CEO. Co-founder John Quinn has been appointed as the Chief Revenue Officer. The company launched its initial coin offering (ICO) of the new tokens on May 19, 2017. At the end of the token sale on May 25, 2017, the company had raised about $30 million. Storj Labs allowed SJCX holders to exchange their tokens with the new ones in a 1:1 ratio through a token conversion campaign which lasted till October 2017.\r\n\r\nStorj Labs pre-mined its entire supply of tokens at the inception; no new tokens can be created via STORJ mining. Nevertheless, users can obtain STORJ tokens by becoming a farmer in the network. Another obvious way to acquire STORJ is through trading on a cryptocurrency exchange. Up until now, cloud storage companies have dictated the terms of service to their users, and as a result, there has been little to no competition within this digital sector. However, with the introduction of Storj, all of that may change.\"\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/storj/\">CoinBureau</a> for the full review on OmiseGo.",
     total_supply: 424999998,
     circulating_supply: 135787438.7,
     websites: [
-      "https://storj.io/",
+      "https://storj.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
@@ -2077,7 +2077,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=555159",
     facebook: "",
     twitter: "https://twitter.com/storjproject",
-    reddit: "https://www.reddit.com/r/storj/",
+    reddit: "https://reddit.com/r/storj",
     repository: "https://github.com/storj/storj",
   },
   iost: {
@@ -2085,7 +2085,7 @@ const coininfo = {
     total_supply: 21000000000,
     circulating_supply: 13526645000,
     websites: [
-      "http://iost.io/",
+      "https://iost.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
@@ -2098,7 +2098,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "IOSTofficial",
     twitter: "https://twitter.com/iostoken",
-    reddit: "https://www.reddit.com/r/IOStoken/",
+    reddit: "https://reddit.com/r/IOStoken",
     repository: "https://github.com/iost-official/iost-webapp",
   },
   dent: {
@@ -2106,7 +2106,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 62212917184.96587,
     websites: [
-      "https://www.dentwireless.com/",
+      "https://dentwireless.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x3597bfd533a99c9aa083587b074434e61eb0a258",
@@ -2119,15 +2119,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1974825",
     facebook: "",
     twitter: "https://twitter.com/dentcoin",
-    reddit: "https://www.reddit.com/r/dentcoin",
+    reddit: "https://reddit.com/r/dentcoin",
     repository: "",
   },
   ethlend: {
-    description: "ETHLend is a decentralized lending platform that runs on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> Network which offers secure, peer-to-peer lending Smart Contracts. ETHLend strives to break through the traditional bank loans system with a more efficient solution. ETHLend also uniquely allows a borrower and a lender to decide on important loan details that can eliminate the need of a middle man. Due to the elimination of middlemen, process fee for a loan does not exist on this platform. This provide convenience to any lender and borrower to create loans on their agreed terms. Decentralized lending has fixed many issues and one of the reasons why is the transparency of loan.\r\n\r\nThe Ethereum network provides a transparent ledger where all transactions are available to be inspected. Secondly, it isn’t necessary to find a trusted loan provider because all collateral which is the digital asset for loans are stored and locked in a smart contract and broadcasted on the public ethereum blockchain. It is also flexible for borrower to manage the collateral by refilling or withdrawing part of it. Borrower may make such changes when the lender is notified and aware of such movement. If the lender finds out that the action is not communicated, the lender is allowed to initiate a margin call.  \r\n\r\nThis year, ETHLend has made a major upgrades in its Q1 2018. They have deployed the new development for their peer-to-peer lending application named Alpha 0.3. The development process of Alpha 0.3 has started since the early of 2017. The new release also includes a completely new user interface which targets to lower the learning curve of user experience on the app. Furthermore, the new user interface has new sections to make lending process simpler such as including a ‘My Loan’ section, collectible badges and more. Other than that, the team is also in the process of developing more updates for the smart contracts. Hence, the team has decided to provide zero-fee lending with the use of LEND token as a medium of exchange, as an alternative to borrowing in Ethereum. The purpose of this is to provide a cross-blockchain lending currency which will prompt users to use LEND as the medium of exchange. \r\n",
+    description: "ETHLend is a decentralized lending platform that runs on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> Network which offers secure, peer-to-peer lending Smart Contracts. ETHLend strives to break through the traditional bank loans system with a more efficient solution. ETHLend also uniquely allows a borrower and a lender to decide on important loan details that can eliminate the need of a middle man. Due to the elimination of middlemen, process fee for a loan does not exist on this platform. This provide convenience to any lender and borrower to create loans on their agreed terms. Decentralized lending has fixed many issues and one of the reasons why is the transparency of loan.\r\n\r\nThe Ethereum network provides a transparent ledger where all transactions are available to be inspected. Secondly, it isn’t necessary to find a trusted loan provider because all collateral which is the digital asset for loans are stored and locked in a smart contract and broadcasted on the public ethereum blockchain. It is also flexible for borrower to manage the collateral by refilling or withdrawing part of it. Borrower may make such changes when the lender is notified and aware of such movement. If the lender finds out that the action is not communicated, the lender is allowed to initiate a margin call.  \r\n\r\nThis year, ETHLend has made a major upgrades in its Q1 2018. They have deployed the new development for their peer-to-peer lending application named Alpha 0.3. The development process of Alpha 0.3 has started since the early of 2017. The new release also includes a completely new user interface which targets to lower the learning curve of user experience on the app. Furthermore, the new user interface has new sections to make lending process simpler such as including a ‘My Loan’ section, collectible badges and more. Other than that, the team is also in the process of developing more updates for the smart contracts. Hence, the team has decided to provide zero-fee lending with the use of LEND token as a medium of exchange, as an alternative to borrowing in Ethereum. The purpose of this is to provide a cross-blockchain lending currency which will prompt users to use LEND as the medium of exchange. \r\n",
     total_supply: 1299999942,
     circulating_supply: 1115389877.146,
     websites: [
-      "https://ethlend.io/en/",
+      "https://ethlend.io/en",
     ],
     explorers: [
       "https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
@@ -2140,7 +2140,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2090735",
     facebook: "ETHLend",
     twitter: "https://twitter.com/ethlend1",
-    reddit: "https://www.reddit.com/r/ETHLend",
+    reddit: "https://reddit.com/r/ETHLend",
     repository: "https://github.com/ETHLend/DAPP",
   },
   chainlink: {
@@ -2151,7 +2151,7 @@ const coininfo = {
       "https://link.network/html/en/about.html",
     ],
     explorers: [
-      "https://scan.link.network/",
+      "https://scan.link.network",
     ],
     medium: "",
     discord: "",
@@ -2163,11 +2163,11 @@ const coininfo = {
     repository: "",
   },
   decentraland: {
-    description: "Decentraland is an Ethereum-powered virtual reality platform. In this virtual world, you purchase plots of land that you can later traverse, build upon, and monetize. There’s no limit to what you can do. It’s the first digital platform that’s completely owned by its users. Similar to games like Skyrim and Fallout, Decentraland is an all-immersive virtual universe. However, instead of playing on a 2-dimensional screen, you participate in a 3-dimensional world. It seems to be the logical next step before creating full-blown AI-based games in the physical space à la Westworld. Similar groupings on LAND comprise Districts. Districts are basically communities that revolve around a shared theme. For example, there may be a District just for crypto enthusiasts with cryptocurrency apps and services.\r\n\r\nThe Decentraland team is led by Ari Meilich (Project Lead) and Esteban Ordano (Tech Lead). Ordano previously worked at <a href=\"https://bitpay.com/\">Bitpay</a> as a software engineer and founded Smart Contract Solutions, Inc. Both founders have also worked together in creating Stremium and <a href=\"https://www.coingecko.com/en/coins/bitcore\">Bitcore</a>. Decentraland has been around for longer than you may think. The team hit their first development milestone, Stone Age, in June 2015. This was a simple, pixelated grid that allocated pixels to users through a proof-of-work algorithm. Most recently, they held a Terraform Event in which they sold LAND in the new, 3D world. The team has also partnered with <a href=\"https://www.coingecko.com/en/coins/district0x\">district0x</a>, <a href=\"https://www.coingecko.com/en/coins/aragon\">Aragon</a>, and imToken to provide some of their services. \r\n\r\nMANA is the token used to buy lands in Decentraland. The Blockchain platform can be incorporated in order to buy or sell the various digital assets available in the virtual world. An unclaimed land would have the same market pricing on every exchange possible and precisely the developers are on a hunt for such since as they can build on top of it, and attract lot of popularity. However, one must keep in mind that the land parcels are different from them and each one of them varies according to the various market conditions of that time. Mana can be a great investment and can be bought by trading and with other <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>, <a href\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>, or any other prominent cryptocurrency and on some of the most notable cryptocurrency exchanges. Specifically, <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> and <a href=\"https://www.coingecko.com/en/exchanges/huobi\">Huobi</a> are two of the best cryptocurrency exchanges that one can suggest for trading Mana tokens.\r\n\r\nThe Decentraland coin isn’t a minable cryptocurrency as it is issued on the Ethereum blockchain, unlike Bitcoin and other similar currencies. So users looking to engage in some Decentraland mining will be disappointed. Instead, it was sold during token sales and is now being traded on exchanges.",
+    description: "Decentraland is an Ethereum-powered virtual reality platform. In this virtual world, you purchase plots of land that you can later traverse, build upon, and monetize. There’s no limit to what you can do. It’s the first digital platform that’s completely owned by its users. Similar to games like Skyrim and Fallout, Decentraland is an all-immersive virtual universe. However, instead of playing on a 2-dimensional screen, you participate in a 3-dimensional world. It seems to be the logical next step before creating full-blown AI-based games in the physical space à la Westworld. Similar groupings on LAND comprise Districts. Districts are basically communities that revolve around a shared theme. For example, there may be a District just for crypto enthusiasts with cryptocurrency apps and services.\r\n\r\nThe Decentraland team is led by Ari Meilich (Project Lead) and Esteban Ordano (Tech Lead). Ordano previously worked at <a href=\"https://bitpay.com/\">Bitpay</a> as a software engineer and founded Smart Contract Solutions, Inc. Both founders have also worked together in creating Stremium and <a href=\"https://coingecko.com/en/coins/bitcore\">Bitcore</a>. Decentraland has been around for longer than you may think. The team hit their first development milestone, Stone Age, in June 2015. This was a simple, pixelated grid that allocated pixels to users through a proof-of-work algorithm. Most recently, they held a Terraform Event in which they sold LAND in the new, 3D world. The team has also partnered with <a href=\"https://coingecko.com/en/coins/district0x\">district0x</a>, <a href=\"https://coingecko.com/en/coins/aragon\">Aragon</a>, and imToken to provide some of their services. \r\n\r\nMANA is the token used to buy lands in Decentraland. The Blockchain platform can be incorporated in order to buy or sell the various digital assets available in the virtual world. An unclaimed land would have the same market pricing on every exchange possible and precisely the developers are on a hunt for such since as they can build on top of it, and attract lot of popularity. However, one must keep in mind that the land parcels are different from them and each one of them varies according to the various market conditions of that time. Mana can be a great investment and can be bought by trading and with other <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a>, <a href\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>, or any other prominent cryptocurrency and on some of the most notable cryptocurrency exchanges. Specifically, <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a> and <a href=\"https://coingecko.com/en/exchanges/huobi\">Huobi</a> are two of the best cryptocurrency exchanges that one can suggest for trading Mana tokens.\r\n\r\nThe Decentraland coin isn’t a minable cryptocurrency as it is issued on the Ethereum blockchain, unlike Bitcoin and other similar currencies. So users looking to engage in some Decentraland mining will be disappointed. Instead, it was sold during token sales and is now being traded on exchanges.",
     total_supply: 2644403342,
     circulating_supply: 1327372145.9864838,
     websites: [
-      "https://decentraland.org/",
+      "https://decentraland.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
@@ -2180,15 +2180,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1968414",
     facebook: "",
     twitter: "https://twitter.com/decentraland",
-    reddit: "https://www.reddit.com/r/decentraland",
+    reddit: "https://reddit.com/r/decentraland",
     repository: "https://github.com/decentraland/marketplace",
   },
   loopring: {
-    description: "Loopring is a decentralized exchange protocol and an “automated execution system” built on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> that will allow its users to trade assets across exchanges.  It isn’t a decentralized exchange.  Rather, it facilitates decentralized exchanging through ring-sharing and order matching. Decentralized and centralized exchanges alike will be able to implement Loopring, giving the exchanges access to cross blockchain and cross exchange liquidity and giving investors access to the best prices available on the broader market.  Moreover, Loopring is blockchain agnostic, meaning that any platform that uses smart contracts (e.g., <a href=\"https://www.coingecko.com/en/coins/neo\">NEO</a>, Ethereum, <a href=\"https://www.coingecko.com/en/coins/qtum\">Qtum</a>) can integrate with Loopring.\r\n\r\nServing as its head, Loopring founder Daniel Wang used to run a centralized exchange called Coin Port back in 2014.  “At that time,” he told Coin Central in an interview, “[I was] trying to solve the problems of centralized exchanges, and then I realized that it’s not possible.  Those problems are inherent to the centralized exchange model.”  Thus, he began conceptualizing what would become Loopring.  In the past, he’s also held a position as a Google Tech Lead and was a co-founder and VP of Yunrang Technology. Loopring’s CMO, Jay Zhou, was formerly employed by Ernst and Young, helped found SJ Consulting, and used to work in PayPal’s Risk Operations unit. Johnston Chen, the project’s COO, has worked as the chief information officer at 3NOD.\r\n\r\nLoopring is not a DEX, but a modular protocol for building DEXs on multiple blockchains. We disassemble the component parts of a traditional exchange and offer a set of public smart contracts and decentralized actors in its place. The roles in the network include wallets, relays, liquidity-sharing consortium blockchains, order book browsers, Ring-Miners, and asset tokenization services. Before defining each, we should first understand Loopring orders. At its root, the Loopring protocol is a social protocol in the sense that it relies on coordination amongst members to operate effectively towards a goal. This is not dissimilar to cryptoeconomic protocols at large, and indeed, its usefulness is largely protected by the same mechanisms of coordination problems [20], grim trigger equilibrium, and bounded rationality.\r\n\r\nThe Loopring Protocol can facilitate trading between ERC20 tokens. Loopr needs to convert Ether to Ether Token for trading as Ether is not ERC20 compatible, but Ether Token is. Converting between Ether and Ether Token will be done for you automatically when you submit an order, but if you want to trade frequently, we strongly suggest you to convert some Ether to Ether Token beforehand manually; otherwise each order will take one more blockchain transaction just for the ETH-WETH conversion which takes time and gas. Conversions between ETH and WETH are done on-chain through Ethereum transactions. ETH and WETH are always converted 1:1 which is guaranteed by the WETH smart contract. The WETH smart contract also guarantees the total WETH issued is exactly the total ETH deposited. In other words, ETH and WETH is equiviate in value, and WETH is just the ERC20 form of ETH.\r\n\r\nThe Loopring blockchain project had managed to raise almost 15 million US dollars during the period of the <a href=\"https://www.coingecko.com/en/ico/loopring\">Loopring ICO</a>, as all the regulatory experts watched this unprecedented crowdfunding. Daniel Wang, the founder and the main person behind the Loopring ICO, hand made it very transparent that the interface is quite bad but the underlying mechanism and the Order matching facility is very great. Loopring mining can be initiated very easily by using various performance calculating devices such as CPU, GPU, as well as application specific integrated circuits. The Loopring mining process can be initiated through the high-end Linux systems, according to reports. Loopring mining is basically a metaphor which is not similar to the Bitcoin mining but here the users need to match the specific orders from a huge database.  Specifically, Loopring mining requires the usage of the ethereum nodes along with JSON API, IPFS, etc.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/loopring-lrc/\">CoinBureau</a> for the full review of Loopring.",
+    description: "Loopring is a decentralized exchange protocol and an “automated execution system” built on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> that will allow its users to trade assets across exchanges.  It isn’t a decentralized exchange.  Rather, it facilitates decentralized exchanging through ring-sharing and order matching. Decentralized and centralized exchanges alike will be able to implement Loopring, giving the exchanges access to cross blockchain and cross exchange liquidity and giving investors access to the best prices available on the broader market.  Moreover, Loopring is blockchain agnostic, meaning that any platform that uses smart contracts (e.g., <a href=\"https://coingecko.com/en/coins/neo\">NEO</a>, Ethereum, <a href=\"https://coingecko.com/en/coins/qtum\">Qtum</a>) can integrate with Loopring.\r\n\r\nServing as its head, Loopring founder Daniel Wang used to run a centralized exchange called Coin Port back in 2014.  “At that time,” he told Coin Central in an interview, “[I was] trying to solve the problems of centralized exchanges, and then I realized that it’s not possible.  Those problems are inherent to the centralized exchange model.”  Thus, he began conceptualizing what would become Loopring.  In the past, he’s also held a position as a Google Tech Lead and was a co-founder and VP of Yunrang Technology. Loopring’s CMO, Jay Zhou, was formerly employed by Ernst and Young, helped found SJ Consulting, and used to work in PayPal’s Risk Operations unit. Johnston Chen, the project’s COO, has worked as the chief information officer at 3NOD.\r\n\r\nLoopring is not a DEX, but a modular protocol for building DEXs on multiple blockchains. We disassemble the component parts of a traditional exchange and offer a set of public smart contracts and decentralized actors in its place. The roles in the network include wallets, relays, liquidity-sharing consortium blockchains, order book browsers, Ring-Miners, and asset tokenization services. Before defining each, we should first understand Loopring orders. At its root, the Loopring protocol is a social protocol in the sense that it relies on coordination amongst members to operate effectively towards a goal. This is not dissimilar to cryptoeconomic protocols at large, and indeed, its usefulness is largely protected by the same mechanisms of coordination problems [20], grim trigger equilibrium, and bounded rationality.\r\n\r\nThe Loopring Protocol can facilitate trading between ERC20 tokens. Loopr needs to convert Ether to Ether Token for trading as Ether is not ERC20 compatible, but Ether Token is. Converting between Ether and Ether Token will be done for you automatically when you submit an order, but if you want to trade frequently, we strongly suggest you to convert some Ether to Ether Token beforehand manually; otherwise each order will take one more blockchain transaction just for the ETH-WETH conversion which takes time and gas. Conversions between ETH and WETH are done on-chain through Ethereum transactions. ETH and WETH are always converted 1:1 which is guaranteed by the WETH smart contract. The WETH smart contract also guarantees the total WETH issued is exactly the total ETH deposited. In other words, ETH and WETH is equiviate in value, and WETH is just the ERC20 form of ETH.\r\n\r\nThe Loopring blockchain project had managed to raise almost 15 million US dollars during the period of the <a href=\"https://coingecko.com/en/ico/loopring\">Loopring ICO</a>, as all the regulatory experts watched this unprecedented crowdfunding. Daniel Wang, the founder and the main person behind the Loopring ICO, hand made it very transparent that the interface is quite bad but the underlying mechanism and the Order matching facility is very great. Loopring mining can be initiated very easily by using various performance calculating devices such as CPU, GPU, as well as application specific integrated circuits. The Loopring mining process can be initiated through the high-end Linux systems, according to reports. Loopring mining is basically a metaphor which is not similar to the Bitcoin mining but here the users need to match the specific orders from a huge database.  Specifically, Loopring mining requires the usage of the ethereum nodes along with JSON API, IPFS, etc.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/loopring-lrc/\">CoinBureau</a> for the full review of Loopring.",
     total_supply: 1395076054,
     circulating_supply: 788984491,
     websites: [
-      "https://loopring.org/",
+      "https://loopring.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
@@ -2201,15 +2201,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2069498",
     facebook: "",
     twitter: "https://twitter.com/loopringorg",
-    reddit: "https://www.reddit.com/r/loopring",
+    reddit: "https://reddit.com/r/loopring",
     repository: "https://github.com/Loopring/sidechain",
   },
   qash: {
-    description: "QASH (pronounced “cash”) is the native currency for the Quoine (pronounced “coin”) which is now rebranded to <a href=\"https://www.coingecko.com/en/exchanges/quoine\">Liquid</a>. Liquid is a global cryptocurrency firm looking to solve the liquidity problems that have surfaced with crypto investments. Liquid brings liquidity to the cryptocurrency space by providing a means for you to easily buy cryptocurrency with and cash-out to fiat. Currently, each crypto exchange has its own level of liquidity that differs between the trading pairs it offers. This creates individual silos that may have great liquidity on one exchange but not on another. The Liquid platform connects these silos into one combined pool to give you the greatest liquidity possible.\r\n\r\nThe Liquid World Book compiles the orders and prices from exchanges around the world into one order book for you to use. This gives any trader, no matter their location, the ability to use the fiat currency of their choice when purchasing or selling crypto. It removes the liquidity silos of separate exchanges and gives more trading power to previously underserved markets. The Prime Brokerage half of the Quoine Liquid platform basically gives you access to the features outlined in the previous World Book section. With Prime Brokerage, you have direct market access to all exchanges in the World Book without having to create an account on each individual exchange. Furthermore, Quoine has been building partnerships with a network of banks over the last several years to ensure the quick transfer of your fiat funds.\r\n\r\nQASH is an <a href=\"https://www.coingecko.com/en?asset_platform_id=279&view=market\">ERC20</a> token you use to pay for services on the Liquid platform. Beyond that, QASH holders may also receive discounts, promotional products, and ICO investment opportunities with coins that Quoine helps to launch. The team also emphasizes in their whitepaper that other organizations may use it for their own purposes similar to how some financial institutions use the <a href=\"https://www.coingecko.com/en/coins/ripple\">Ripple XRP token</a>. Because Quoine enters a few different financial sectors, the company has quite a few competitors. As a credit facility, the company competes with SALT. On the exchange side, there are numerous other businesses like <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> specializing in alternative coins or <a href=\"https://www.coingecko.com/en/exchanges/gemini\">Gemini</a> and <a href=\"https://www.coingecko.com/en/exchanges/gdax\">Coinbase</a> focusing on fiat to crypto conversions. \r\n\r\n Mike Kayamori (CEO) and Mario Gomez Lozada (President and CTO) founded Quoine in 2014. Kayamori was previously a Senior Vice President at SoftBank Group and was the Chief Investment Officer of Gungho Asia. Lozada was the CTO of Merrill Lynch in Japan for 11 years before taking the Chief Information Officer role at Credit Suisse Japan. Quoine is the first cryptocurrency firm in the world to be officially licensed by the Japan Financial Services Agency (FSA). The Liquid platform is actually the result of combining two previous platforms, Quoinex and Qryptos. At one time, those two trading platforms were performing over $12 billion of transactions each year.",
+    description: "QASH (pronounced “cash”) is the native currency for the Quoine (pronounced “coin”) which is now rebranded to <a href=\"https://coingecko.com/en/exchanges/quoine\">Liquid</a>. Liquid is a global cryptocurrency firm looking to solve the liquidity problems that have surfaced with crypto investments. Liquid brings liquidity to the cryptocurrency space by providing a means for you to easily buy cryptocurrency with and cash-out to fiat. Currently, each crypto exchange has its own level of liquidity that differs between the trading pairs it offers. This creates individual silos that may have great liquidity on one exchange but not on another. The Liquid platform connects these silos into one combined pool to give you the greatest liquidity possible.\r\n\r\nThe Liquid World Book compiles the orders and prices from exchanges around the world into one order book for you to use. This gives any trader, no matter their location, the ability to use the fiat currency of their choice when purchasing or selling crypto. It removes the liquidity silos of separate exchanges and gives more trading power to previously underserved markets. The Prime Brokerage half of the Quoine Liquid platform basically gives you access to the features outlined in the previous World Book section. With Prime Brokerage, you have direct market access to all exchanges in the World Book without having to create an account on each individual exchange. Furthermore, Quoine has been building partnerships with a network of banks over the last several years to ensure the quick transfer of your fiat funds.\r\n\r\nQASH is an <a href=\"https://coingecko.com/en?asset_platform_id=279&view=market\">ERC20</a> token you use to pay for services on the Liquid platform. Beyond that, QASH holders may also receive discounts, promotional products, and ICO investment opportunities with coins that Quoine helps to launch. The team also emphasizes in their whitepaper that other organizations may use it for their own purposes similar to how some financial institutions use the <a href=\"https://coingecko.com/en/coins/ripple\">Ripple XRP token</a>. Because Quoine enters a few different financial sectors, the company has quite a few competitors. As a credit facility, the company competes with SALT. On the exchange side, there are numerous other businesses like <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a> specializing in alternative coins or <a href=\"https://coingecko.com/en/exchanges/gemini\">Gemini</a> and <a href=\"https://coingecko.com/en/exchanges/gdax\">Coinbase</a> focusing on fiat to crypto conversions. \r\n\r\n Mike Kayamori (CEO) and Mario Gomez Lozada (President and CTO) founded Quoine in 2014. Kayamori was previously a Senior Vice President at SoftBank Group and was the Chief Investment Officer of Gungho Asia. Lozada was the CTO of Merrill Lynch in Japan for 11 years before taking the Chief Information Officer role at Credit Suisse Japan. Quoine is the first cryptocurrency firm in the world to be officially licensed by the Japan Financial Services Agency (FSA). The Liquid platform is actually the result of combining two previous platforms, Quoinex and Qryptos. At one time, those two trading platforms were performing over $12 billion of transactions each year.",
     total_supply: 1000000000,
     circulating_supply: 354526971.373219,
     websites: [
-      "https://liquid.plus/",
+      "https://liquid.plus",
     ],
     explorers: [
       "https://etherscan.io/token/0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
@@ -2222,15 +2222,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2256844",
     facebook: "QUOINE.SG",
     twitter: "https://twitter.com/quoine_SG",
-    reddit: "https://www.reddit.com/r/QASH",
+    reddit: "https://reddit.com/r/QASH",
     repository: "",
   },
   mco: {
-    description: "Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world’s transition to cryptocurrency. The MCO Token Sale was conducted in May-June 2017 and raised US$26.7 million. \r\n\r\nMCO Card is a Visa-branded debit card that draws from a cryptocurrency-funded bank account. Since it’s a Visa card, you can use your MCO Visa card just like you would any other card. The card and bank account are free for holders of cryptocurrency. In order to open an account, you simply sign up, verify your identity, and transfer any of the various accepted cryptocurrencies to your account. At this time, the Visa card is available to customers in Asia. They also have a waitlist for European customers. Customers in the United States does not have access to it at the moment. However, there are plans to change that. Solving the problem of everyday payments has the potential to be huge for cryptocurrency. However, MCO Visa card is not the only project attempting to create crypto-backed debit (or prepaid) cards. Other projects, such as <a href=\"https://www.coingecko.com/en/coins/tenx\">TenX</a>, are working on the same issue. All of these projects run into challenges implementing such cards in a large scale, compliant manner. Crypto.com hopes to crack the code, ultimately getting cryptocurrencies and popular payment methods to play nicely together.\r\n\r\nCrypto.com was founded in June 2016 in Switzerland and rebranded from Monaco on 6th July 2018. Their first prototype was developed in October of that year. In February of 2017, they were accepted into a Hong Kong Government backed Cyberport incubation program, where they developed their platform until they were ready to launch their token sale in 2017. The sale closed in June with $26.7 million in funding. Their app became available to pre-registered users in August 2017, followed by the official partnership with Visa in October. The team consists of seasoned veterans in the fin-tech space, most of whom have experience in Asia, where Monaco Cards have first been made available.\r\n\r\nSince MCO Visa cards are backed by cryptocurrency, they don’t have border issues like fiat currencies. As a result, you can use your card anywhere you go. The card will automatically default to the local fiat currency when you make a purchase. The low fees and exchange rates also apply in other countries. Transactions take place at the exact exchange rate that Crypto.com receives as an institutional trader. In contrast, when you use your debit card across borders with most banks, they’ll add an additional percentage to the exchange rate or include a transaction fee. Crypto.com has connections with eight of the top ten international foreign exchange banks to facilitate currency conversion.\r\n\r\nThe MCO Visa card is a compelling option for anyone looking to make everyday purchases with cryptocurrency. It also makes sense for cross-border travelers. However, we can expect the rollout to take a long time and hit a lot of bumps along the way. The financial industry is highly regulated and cryptocurrency-backed payments is a complex issue, even if Crypto.com's solution seems to make it simple and user-friendly.",
+    description: "Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world’s transition to cryptocurrency. The MCO Token Sale was conducted in May-June 2017 and raised US$26.7 million. \r\n\r\nMCO Card is a Visa-branded debit card that draws from a cryptocurrency-funded bank account. Since it’s a Visa card, you can use your MCO Visa card just like you would any other card. The card and bank account are free for holders of cryptocurrency. In order to open an account, you simply sign up, verify your identity, and transfer any of the various accepted cryptocurrencies to your account. At this time, the Visa card is available to customers in Asia. They also have a waitlist for European customers. Customers in the United States does not have access to it at the moment. However, there are plans to change that. Solving the problem of everyday payments has the potential to be huge for cryptocurrency. However, MCO Visa card is not the only project attempting to create crypto-backed debit (or prepaid) cards. Other projects, such as <a href=\"https://coingecko.com/en/coins/tenx\">TenX</a>, are working on the same issue. All of these projects run into challenges implementing such cards in a large scale, compliant manner. Crypto.com hopes to crack the code, ultimately getting cryptocurrencies and popular payment methods to play nicely together.\r\n\r\nCrypto.com was founded in June 2016 in Switzerland and rebranded from Monaco on 6th July 2018. Their first prototype was developed in October of that year. In February of 2017, they were accepted into a Hong Kong Government backed Cyberport incubation program, where they developed their platform until they were ready to launch their token sale in 2017. The sale closed in June with $26.7 million in funding. Their app became available to pre-registered users in August 2017, followed by the official partnership with Visa in October. The team consists of seasoned veterans in the fin-tech space, most of whom have experience in Asia, where Monaco Cards have first been made available.\r\n\r\nSince MCO Visa cards are backed by cryptocurrency, they don’t have border issues like fiat currencies. As a result, you can use your card anywhere you go. The card will automatically default to the local fiat currency when you make a purchase. The low fees and exchange rates also apply in other countries. Transactions take place at the exact exchange rate that Crypto.com receives as an institutional trader. In contrast, when you use your debit card across borders with most banks, they’ll add an additional percentage to the exchange rate or include a transaction fee. Crypto.com has connections with eight of the top ten international foreign exchange banks to facilitate currency conversion.\r\n\r\nThe MCO Visa card is a compelling option for anyone looking to make everyday purchases with cryptocurrency. It also makes sense for cross-border travelers. However, we can expect the rollout to take a long time and hit a lot of bumps along the way. The financial industry is highly regulated and cryptocurrency-backed payments is a complex issue, even if Crypto.com's solution seems to make it simple and user-friendly.",
     total_supply: 31587682,
     circulating_supply: 15793830.24,
     websites: [
-      "https://www.crypto.com",
+      "https://crypto.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
@@ -2241,17 +2241,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/CryptoComOfficial",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1926269",
-    facebook: "CryptoComOfficial",
+    facebook: "https://facebook.com/CryptoComOfficial",
     twitter: "https://twitter.com/cryptocom",
-    reddit: "https://www.reddit.com/r/Crypto_com/",
+    reddit: "https://reddit.com/r/Crypto_com",
     repository: "",
   },
   metal: {
-    description: "Metal (MTL) is a blockchain project that wants to simplify cryptocurrencies and make them more accessible to the general public. Metal aims to allow users to transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/metal-mtl/\">CoinBureau</a> for the full review of Metal.",
+    description: "Metal (MTL) is a blockchain project that wants to simplify cryptocurrencies and make them more accessible to the general public. Metal aims to allow users to transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/metal-mtl/\">CoinBureau</a> for the full review of Metal.",
     total_supply: 66588888,
     circulating_supply: 45212327.147,
     websites: [
-      "https://www.metalpay.com/",
+      "https://metalpay.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e",
@@ -2272,7 +2272,7 @@ const coininfo = {
     total_supply: 3141592653,
     circulating_supply: 2274619711.3155,
     websites: [
-      "https://po.et/",
+      "https://po.et",
     ],
     explorers: [
       "https://etherscan.io/token/0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
@@ -2285,15 +2285,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2027214",
     facebook: "",
     twitter: "",
-    reddit: "https://www.reddit.com/r/poetproject",
+    reddit: "https://reddit.com/r/poetproject",
     repository: "https://github.com/poetapp/explorer-web",
   },
   polymath: {
-    description: "Polymath simplifies the legal process of creating and selling security tokens. It makes a new token standard, the ST20, and enforces government compliance. Only a “list of authorized investors and their <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> wallet addresses” can hold ST20 tokens. Therefore, token issuers don’t need to worry about the legal implications of your security falling into the wrong hands. In order to launch a legally compliant token, the Polymath platform brings together issuers, legal delegates, smart contract developers, KYC verification, and a decentralized exchange. All transactions on the Polymath platform take place using the native POLY token.\r\n\r\nPolymath has programmable equity. Polymath enables companies to take control of their equity issuance through programmable code. It is raising in cryptocurrency opens up an entire wealth of new investors. Polymath eliminates the middleman and financial structures that hinder the deployment of equity. There is a trove of wealth that is untouched by Wall Street that can now be accessed through Polymath.\r\n\r\nIn 2017, Polymath raised over $1.2 billion in funding by selling utility tokens and security tokens. Utility tokens, such as <a href=\"https://www.coingecko.com/en/coins/waltonchain\">Waltonchain</a>, give you access to a token’s network and are far more common than security tokens. Security tokens, however, provide equity or a claim to dividends from a company. As a result, security tokens, like any securities, are subject to government regulation. Polymath’s new standard for blockchain security tokens aims to embed the necessary regulatory requirements into smart contracts and comply entirely with government security regulations.\r\n\r\nA wide array of security tokens that will be listed on Polymath at some point will require investors to be accredited, or to be from specific countries.",
+    description: "Polymath simplifies the legal process of creating and selling security tokens. It makes a new token standard, the ST20, and enforces government compliance. Only a “list of authorized investors and their <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> wallet addresses” can hold ST20 tokens. Therefore, token issuers don’t need to worry about the legal implications of your security falling into the wrong hands. In order to launch a legally compliant token, the Polymath platform brings together issuers, legal delegates, smart contract developers, KYC verification, and a decentralized exchange. All transactions on the Polymath platform take place using the native POLY token.\r\n\r\nPolymath has programmable equity. Polymath enables companies to take control of their equity issuance through programmable code. It is raising in cryptocurrency opens up an entire wealth of new investors. Polymath eliminates the middleman and financial structures that hinder the deployment of equity. There is a trove of wealth that is untouched by Wall Street that can now be accessed through Polymath.\r\n\r\nIn 2017, Polymath raised over $1.2 billion in funding by selling utility tokens and security tokens. Utility tokens, such as <a href=\"https://coingecko.com/en/coins/waltonchain\">Waltonchain</a>, give you access to a token’s network and are far more common than security tokens. Security tokens, however, provide equity or a claim to dividends from a company. As a result, security tokens, like any securities, are subject to government regulation. Polymath’s new standard for blockchain security tokens aims to embed the necessary regulatory requirements into smart contracts and comply entirely with government security regulations.\r\n\r\nA wide array of security tokens that will be listed on Polymath at some point will require investors to be accredited, or to be from specific countries.",
     total_supply: 1000000000,
     circulating_supply: 433099471.6037787,
     websites: [
-      "https://www.polymath.network/",
+      "https://polymath.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
@@ -2304,9 +2304,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/PolymathNetwork",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2645420",
-    facebook: "polymathnetwork",
+    facebook: "https://facebook.com/polymathnetwork",
     twitter: "https://twitter.com/PolymathNetwork",
-    reddit: "https://www.reddit.com/r/PolymathNetwork/",
+    reddit: "https://reddit.com/r/PolymathNetwork",
     repository: "https://github.com/PolymathNetwork/polymath-core",
   },
   powerledger: {
@@ -2314,7 +2314,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 416336223.919905,
     websites: [
-      "https://powerledger.io/",
+      "https://powerledger.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
@@ -2327,15 +2327,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2003922",
     facebook: "",
     twitter: "https://twitter.com/PowerLedger_io",
-    reddit: "https://www.reddit.com/r/PowerLedger/",
+    reddit: "https://reddit.com/r/PowerLedger",
     repository: "",
   },
   ripiocredit: {
-    description: "Ripio Credit Network (RCN) is a global peer-to-peer credit network based on cosigned smart contracts that facilitates connections between lenders and borrowers across the world, on any currency. It enables people across the globe to access credit, and to provide loans. The RCN token is a typical ERC-20 token. This protocol has the smart contract technology embedded into the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain which facilitates peer-to-peer lending without the hefty transaction fees that are charged in traditional banking processes. The RCN token functions at the core of the system. The inherent value of the token is directly correlated to the demand for its use in the network.\r\n\r\nBased in Argentina, Latin America, Ripio was launched at the TechCrunch Disrupt in May 2016. Sebastian Serrano, founder and CEO of the Ripio Credit Network is a technology enthusiast. He along with his team of technology experts, analysts and developers have designed an impressive concept along with the website, whitepaper and its implementation within the last 2 years. The team comprises of David Garcia (SVP & Board Member), Eugenio Cocimano (Data Scientist), Antonio Ceraso (CTO & Lead Blockchain developer) and Agustin Aguilar (Smart Contracts Developer) among many others. Ripio started off with a primary objective - to democratize the digital economy in Latin America, by offering digital payment alternatives within everyone's reach in a region where 65% remain unbanked.\r\n\r\nThe smart contract is an integral part of the underlying technology of the Ripio Credit Network. It is generated by the Wallet Provider and executed when it is matched by the Credit Exchange. This smart contract contains information like the relevant credit terms, borrower obligations, events of default along with the signatures or verifications from all other agents. RCN tokens facilitate interaction with the smart contracts among different agents within the RCN. Every credit flow starts when the Borrower makes a credit request. The Borrower performs the request from its Wallet Provider, which has already integrated into the RCN protocol. Post this, the Borrower waits for an approval before any further action can be performed.",
+    description: "Ripio Credit Network (RCN) is a global peer-to-peer credit network based on cosigned smart contracts that facilitates connections between lenders and borrowers across the world, on any currency. It enables people across the globe to access credit, and to provide loans. The RCN token is a typical ERC-20 token. This protocol has the smart contract technology embedded into the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain which facilitates peer-to-peer lending without the hefty transaction fees that are charged in traditional banking processes. The RCN token functions at the core of the system. The inherent value of the token is directly correlated to the demand for its use in the network.\r\n\r\nBased in Argentina, Latin America, Ripio was launched at the TechCrunch Disrupt in May 2016. Sebastian Serrano, founder and CEO of the Ripio Credit Network is a technology enthusiast. He along with his team of technology experts, analysts and developers have designed an impressive concept along with the website, whitepaper and its implementation within the last 2 years. The team comprises of David Garcia (SVP & Board Member), Eugenio Cocimano (Data Scientist), Antonio Ceraso (CTO & Lead Blockchain developer) and Agustin Aguilar (Smart Contracts Developer) among many others. Ripio started off with a primary objective - to democratize the digital economy in Latin America, by offering digital payment alternatives within everyone's reach in a region where 65% remain unbanked.\r\n\r\nThe smart contract is an integral part of the underlying technology of the Ripio Credit Network. It is generated by the Wallet Provider and executed when it is matched by the Credit Exchange. This smart contract contains information like the relevant credit terms, borrower obligations, events of default along with the signatures or verifications from all other agents. RCN tokens facilitate interaction with the smart contracts among different agents within the RCN. Every credit flow starts when the Borrower makes a credit request. The Borrower performs the request from its Wallet Provider, which has already integrated into the RCN protocol. Post this, the Borrower waits for an approval before any further action can be performed.",
     total_supply: 999942647,
     circulating_supply: 500610592.408,
     websites: [
-      "https://ripiocredit.network/",
+      "https://ripiocredit.network",
     ],
     explorers: [
       "https://etherscan.io/token/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
@@ -2348,15 +2348,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2202647",
     facebook: "",
     twitter: "https://twitter.com/RCN_token",
-    reddit: "https://www.reddit.com/r/RipioCreditNetwork",
+    reddit: "https://reddit.com/r/RipioCreditNetwork",
     repository: "https://github.com/ripio/rcn-network",
   },
   raidentoken: {
-    description: "The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It’s complementary to the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain and works with any ERC20 compatible token. The Raiden project is work in progress. Its goal is to research state channel technology, define protocols and develop reference implementations. The introduction of payment channels, specifically the type first described by the Lightning Whitepaper (which introduced the Lightning Network), seeks to fix the scalability and congestion issues that currently plague blockchain technology. While the Lightning Network operates on the Bitcoin blockchain, Raiden introduces a comparable solution for the Ethereum network.\r\n\r\nThere are several key features of the Raiden Network Token. Expedited transfer confirmations (<1 second ). Current transfers on the Ethereum blockchain can take a few seconds to minutes. Private transfers that are not viewable on the global ledger. Solve scalability issues so that Ethereum can create mass adoption, allowing Ethereum to become the peer-to-peer, global payments infrastructure with electronic cash that it was initially designed for. Low fee transactions. Micropayment capability that works in union with any ERC-20 token.\r\n\r\nThe Raiden Network project is being developed by Germany’s Brainbot Technologies AG, a software company devoted to blockchain protocol development. Founded in the year 2000 by Heiko Hees, it currently has between 11 to 50 employees in offices among Berlin, Mainz, and Copenhagen. Also the founder of PediaPress, Hees has been a core developer of Ethereum since March 2014. Being a core developer for Ethereum, it is evident on how the founder sees the flaws in the current its present protocol with ways to improve it. Interestingly enough, the website does not include RDN as one of their main blockchain developments, which could be attributed to the difficulty of highlighting a wide variety of projects they are currently undertaking on one page. However, there are no updates on the status of the Raiden Network Project on either Twitter nor Medium since December 1st, 2017.\r\n\r\nRaiden can be used for a wide variety of applications and purposes such as Micropayments For Content Distribution, Decentralized M2M Markets, API Access and Fast Decentralized Exchanges.\"",
+    description: "The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It’s complementary to the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain and works with any ERC20 compatible token. The Raiden project is work in progress. Its goal is to research state channel technology, define protocols and develop reference implementations. The introduction of payment channels, specifically the type first described by the Lightning Whitepaper (which introduced the Lightning Network), seeks to fix the scalability and congestion issues that currently plague blockchain technology. While the Lightning Network operates on the Bitcoin blockchain, Raiden introduces a comparable solution for the Ethereum network.\r\n\r\nThere are several key features of the Raiden Network Token. Expedited transfer confirmations (<1 second ). Current transfers on the Ethereum blockchain can take a few seconds to minutes. Private transfers that are not viewable on the global ledger. Solve scalability issues so that Ethereum can create mass adoption, allowing Ethereum to become the peer-to-peer, global payments infrastructure with electronic cash that it was initially designed for. Low fee transactions. Micropayment capability that works in union with any ERC-20 token.\r\n\r\nThe Raiden Network project is being developed by Germany’s Brainbot Technologies AG, a software company devoted to blockchain protocol development. Founded in the year 2000 by Heiko Hees, it currently has between 11 to 50 employees in offices among Berlin, Mainz, and Copenhagen. Also the founder of PediaPress, Hees has been a core developer of Ethereum since March 2014. Being a core developer for Ethereum, it is evident on how the founder sees the flaws in the current its present protocol with ways to improve it. Interestingly enough, the website does not include RDN as one of their main blockchain developments, which could be attributed to the difficulty of highlighting a wide variety of projects they are currently undertaking on one page. However, there are no updates on the status of the Raiden Network Project on either Twitter nor Medium since December 1st, 2017.\r\n\r\nRaiden can be used for a wide variety of applications and purposes such as Micropayments For Content Distribution, Decentralized M2M Markets, API Access and Fast Decentralized Exchanges.\"",
     total_supply: 99999999,
     circulating_supply: 50593935,
     websites: [
-      "https://raiden.network/",
+      "https://raiden.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
@@ -2369,11 +2369,11 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/raiden_network",
-    reddit: "https://www.reddit.com/r/raidennetwork",
-    repository: "https://github.com/raiden-network/raiden/",
+    reddit: "https://reddit.com/r/raidennetwork",
+    repository: "https://github.com/raiden-network/raiden",
   },
   requestnetwork: {
-    description: "A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment. The request can be detected and paid in a secure way, without the need to involve a third party. The request is saved on an immutable, authentic ledger, which acts as a unique source of truth for accounting and auditing processes. Request integrates a trade law system and works across every legislation. Request works with every global currency. Request is designed to be flexible, to last hundreds of years, and to work with IoT, whilst being compatible with any future systems.\r\n\r\nRequest donation modal went live today. Thought you might be interested to include it in your footer instead of just the addresses. As an FYI, it's fully decentralized and free to use -- we don't take any added fees (the only cost is the Ethereum gas). It can be integrated with a simple code snippet. \r\n\r\nAnyways, check it out if you have a chance -- here's a link to the site: https://donations.request.network/\r\n\r\nYou can check out <a href=\"https://www.coinbureau.com/review/request-network-req/\">CoinBureau</a> for the complete review of Request Network.",
+    description: "A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment. The request can be detected and paid in a secure way, without the need to involve a third party. The request is saved on an immutable, authentic ledger, which acts as a unique source of truth for accounting and auditing processes. Request integrates a trade law system and works across every legislation. Request works with every global currency. Request is designed to be flexible, to last hundreds of years, and to work with IoT, whilst being compatible with any future systems.\r\n\r\nRequest donation modal went live today. Thought you might be interested to include it in your footer instead of just the addresses. As an FYI, it's fully decentralized and free to use -- we don't take any added fees (the only cost is the Ethereum gas). It can be integrated with a simple code snippet. \r\n\r\nAnyways, check it out if you have a chance -- here's a link to the site: https://donations.request.network/\r\n\r\nYou can check out <a href=\"https://coinbureau.com/review/request-network-req/\">CoinBureau</a> for the complete review of Request Network.",
     total_supply: 999986238,
     circulating_supply: 729656474.84,
     websites: [
@@ -2390,15 +2390,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2137740",
     facebook: "",
     twitter: "https://twitter.com/requestnetwork",
-    reddit: "https://www.reddit.com/r/RequestNetwork",
+    reddit: "https://reddit.com/r/RequestNetwork",
     repository: "https://github.com/RequestNetwork/Request_SmartContracts",
   },
   status: {
-    description: "Status is a mobile operating system that will completely change the way the world interacts with the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> network.  Designed as a decentralized browser and private messenger, Status allows you to connect to the entire Ethereum network right in the palm of your hand. Status provides you access to all of Ethereum’s decentralized applications (dapps) through an app on your smartphone. It opens the door to mass adoption of Ethereum dapps by targeting the fastest growing computer segment in the world – smartphone users.\r\n\r\nThe creators behind Status are working towards bringing a decentralized world to life. Status essentially combines a messenger and a browser that allows everyday smartphone users to use decentralized applications, also known as dapps. Status is available on both Android and iOS. Status users can safely send, receive, and store Ether and other Ethereum crypto assets on their phone. They can also discover nearby Status users to exchange currency, services, and ideas locally.\r\n\r\nThe first time the world heard about the idea of Status was September 2016, at DevCon2, an annual conference for developers on the Ethereum blockchain. Co-founders <a href=\"https://www.linkedin.com/in/carlbennetts/\">Carl Bennetts</a> and <a href=\"https://www.linkedin.com/in/jarradhope/\">Jarrad Hope</a> gave a presentation revealing the plans for their Ethereum light client.\r\n\r\nSNT is currently available for trade on many online exchanges, including <a href=\"https://www.coingecko.com/en/exchanges/huobi\">Huobi</a>, <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a>, and <a href=\"https://www.coingecko.com/en/exchanges/bittrex\">Bittrex</a>.",
+    description: "Status is a mobile operating system that will completely change the way the world interacts with the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network.  Designed as a decentralized browser and private messenger, Status allows you to connect to the entire Ethereum network right in the palm of your hand. Status provides you access to all of Ethereum’s decentralized applications (dapps) through an app on your smartphone. It opens the door to mass adoption of Ethereum dapps by targeting the fastest growing computer segment in the world – smartphone users.\r\n\r\nThe creators behind Status are working towards bringing a decentralized world to life. Status essentially combines a messenger and a browser that allows everyday smartphone users to use decentralized applications, also known as dapps. Status is available on both Android and iOS. Status users can safely send, receive, and store Ether and other Ethereum crypto assets on their phone. They can also discover nearby Status users to exchange currency, services, and ideas locally.\r\n\r\nThe first time the world heard about the idea of Status was September 2016, at DevCon2, an annual conference for developers on the Ethereum blockchain. Co-founders <a href=\"https://linkedin.com/in/carlbennetts/\">Carl Bennetts</a> and <a href=\"https://linkedin.com/in/jarradhope/\">Jarrad Hope</a> gave a presentation revealing the plans for their Ethereum light client.\r\n\r\nSNT is currently available for trade on many online exchanges, including <a href=\"https://coingecko.com/en/exchanges/huobi\">Huobi</a>, <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a>, and <a href=\"https://coingecko.com/en/exchanges/bittrex\">Bittrex</a>.",
     total_supply: 6804870174,
     circulating_supply: 3527483788.3096976,
     websites: [
-      "https://status.im/",
+      "https://status.im",
     ],
     explorers: [
       "https://etherscan.io/token/0x744d70fdbe2ba4cf95131626614a1763df805b9e",
@@ -2409,9 +2409,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "ethstatus",
+    facebook: "https://facebook.com/ethstatus",
     twitter: "https://twitter.com/ethstatus",
-    reddit: "https://www.reddit.com/r/statusim/",
+    reddit: "https://reddit.com/r/statusim",
     repository: "https://github.com/status-im/status-react",
   },
   salt: {
@@ -2419,7 +2419,7 @@ const coininfo = {
     total_supply: 120000000,
     circulating_supply: 82721369.55264197,
     websites: [
-      "https://www.saltlending.com/",
+      "https://saltlending.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581",
@@ -2436,11 +2436,11 @@ const coininfo = {
     repository: "https://github.com/unyo/saltcoin",
   },
   storm: {
-    description: "STORM is an ERC20-compliant token which operates on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. CEO, and co-founder, Simon Yu, evolved this digital currency from an app called BitMaker, he and co-founder, Calvin Hsieh, worked on in 2014. BitMaker allowed users to send money without transaction fees which was the main reason this app experienced high growth volumes. A new feature called BitTask was introduced which allowed users to trade their time and effort for trying out new products in exchange for <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or Ethereum. This feature is now the STORM Play App and has experienced massive growth since its launch in Feb 2017.\r\n\r\nThe vision the founders have for STORM is beyond just an ordinary Cryptocurrency. They aim to create a marketplace for decentralized marketplace for tasks which will be called the “Storm Market”. “The Storm Market will operate similar to the Apple App Store or the Google Play Store in that it will serve as a platform where Storm Makers and Storm Players can create and accept tasks using smart contracts powered and paid for with STORM tokens.” The team is confident of the success of the app as it strongly relies on the give and takes model. By completing relatively easy and enjoyable tasks, users can potentially earn quite a bit of STORM, Ethereum or even Bitcoin.\r\n\r\nStorm Market is targeting the freelancing industry around micro-tasks. Currently, there are identified competitors in the market like Upwork, Mechanical Turk, etc. which are circulating huge amount of money through their platform with existing inefficiencies that ultimately creates hurdles for the freelancers. They deduct huge amount from their users earning by charging 40% of transaction cost.  The Storm market is striving to resolve the problems by providing following benefits, such as as compared to traditional micro-task marketplaces, they will charge reduce transaction fees. Besides, they Eliminate the interruption of any middlemen between buyers and sellers.\r\n\r\nStorm Market is a gamified micro-task marketplace that enables users to earn by completing different tasks. The company is expanding its platform by creating decentralized storm market by incorporating blockchain technology. In storm market, people can use their skills and talents to accomplish various tasks and get good rewards for it in the form of tokens. In short, a company is aiming to operate decentralized platform where anyone can offer or engage in tasks by utilizing blockchain based smart contracts supported by tokens (ERC-20).\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/storm-token/\">CoinBureau</a> for the complete review of Storm Token.",
+    description: "STORM is an ERC20-compliant token which operates on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. CEO, and co-founder, Simon Yu, evolved this digital currency from an app called BitMaker, he and co-founder, Calvin Hsieh, worked on in 2014. BitMaker allowed users to send money without transaction fees which was the main reason this app experienced high growth volumes. A new feature called BitTask was introduced which allowed users to trade their time and effort for trying out new products in exchange for <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or Ethereum. This feature is now the STORM Play App and has experienced massive growth since its launch in Feb 2017.\r\n\r\nThe vision the founders have for STORM is beyond just an ordinary Cryptocurrency. They aim to create a marketplace for decentralized marketplace for tasks which will be called the “Storm Market”. “The Storm Market will operate similar to the Apple App Store or the Google Play Store in that it will serve as a platform where Storm Makers and Storm Players can create and accept tasks using smart contracts powered and paid for with STORM tokens.” The team is confident of the success of the app as it strongly relies on the give and takes model. By completing relatively easy and enjoyable tasks, users can potentially earn quite a bit of STORM, Ethereum or even Bitcoin.\r\n\r\nStorm Market is targeting the freelancing industry around micro-tasks. Currently, there are identified competitors in the market like Upwork, Mechanical Turk, etc. which are circulating huge amount of money through their platform with existing inefficiencies that ultimately creates hurdles for the freelancers. They deduct huge amount from their users earning by charging 40% of transaction cost.  The Storm market is striving to resolve the problems by providing following benefits, such as as compared to traditional micro-task marketplaces, they will charge reduce transaction fees. Besides, they Eliminate the interruption of any middlemen between buyers and sellers.\r\n\r\nStorm Market is a gamified micro-task marketplace that enables users to earn by completing different tasks. The company is expanding its platform by creating decentralized storm market by incorporating blockchain technology. In storm market, people can use their skills and talents to accomplish various tasks and get good rewards for it in the form of tokens. In short, a company is aiming to operate decentralized platform where anyone can offer or engage in tasks by utilizing blockchain based smart contracts supported by tokens (ERC-20).\r\n\r\nCheck out <a href=\"https://coinbureau.com/review/storm-token/\">CoinBureau</a> for the complete review of Storm Token.",
     total_supply: 10000000000,
     circulating_supply: 4518781014.8674135,
     websites: [
-      "https://stormtoken.com/",
+      "https://stormtoken.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
@@ -2451,9 +2451,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2006999",
-    facebook: "stormtoken",
+    facebook: "https://facebook.com/stormtoken",
     twitter: "https://twitter.com/Storm_Token",
-    reddit: "https://www.reddit.com/r/stormtoken",
+    reddit: "https://reddit.com/r/stormtoken",
     repository: "https://github.com/StormX-Inc/crowdsale",
   },
   eidoo: {
@@ -2461,7 +2461,7 @@ const coininfo = {
     total_supply: 90708326,
     circulating_supply: 33074201.1807,
     websites: [
-      "https://eidoo.io/",
+      "https://eidoo.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xced4e93198734ddaff8492d525bd258d49eb388e",
@@ -2474,15 +2474,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2243926",
     facebook: "",
     twitter: "https://twitter.com/eidoo_io",
-    reddit: "https://www.reddit.com/r/eidoo",
+    reddit: "https://reddit.com/r/eidoo",
     repository: "",
   },
   trueusd: {
-    description: "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds do not give access to the TrueUSD system.\r\n\r\nTrueUSD works with various trust companies which already manage around billions of dollars. Just pass an AML/KYC check, send USD to a trust company with an agreement of escrow. When the funds get verified, their API tells the smart contract of TUSD to mint an equal amount of TUSD to your public <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> address.\r\n\r\nThe USD funds are regularly verified in scheduled attestations by a very much trusted auditing firm. USD funds are kept safely in a third party account, that is escrow accounts, wherein TrustToken does not hold any direct access to the funds and cannot abscond with them even if they wish to. The token burning and minting system makes sure that every TUSD token is backed by 1 USD.\r\n\r\nA mandatory check of AML/KYC makes sure that TUSD keeps shady people away from the entire project. TUSD makes faster transactions in low transaction fees. Even though TUSD is a unique offering, it is most likely overshadowed by its bigger competitors - Tether. While TUSD arguably offers more security and features, it may be losing the marketing battle. This is not to say that the situation will remain the same. With more crypto investors joining the market every day, the good times for TUSD may be on their way.",
+    description: "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds do not give access to the TrueUSD system.\r\n\r\nTrueUSD works with various trust companies which already manage around billions of dollars. Just pass an AML/KYC check, send USD to a trust company with an agreement of escrow. When the funds get verified, their API tells the smart contract of TUSD to mint an equal amount of TUSD to your public <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> address.\r\n\r\nThe USD funds are regularly verified in scheduled attestations by a very much trusted auditing firm. USD funds are kept safely in a third party account, that is escrow accounts, wherein TrustToken does not hold any direct access to the funds and cannot abscond with them even if they wish to. The token burning and minting system makes sure that every TUSD token is backed by 1 USD.\r\n\r\nA mandatory check of AML/KYC makes sure that TUSD keeps shady people away from the entire project. TUSD makes faster transactions in low transaction fees. Even though TUSD is a unique offering, it is most likely overshadowed by its bigger competitors - Tether. While TUSD arguably offers more security and features, it may be losing the marketing battle. This is not to say that the situation will remain the same. With more crypto investors joining the market every day, the good times for TUSD may be on their way.",
     total_supply: 275031537,
     circulating_supply: 275031537,
     websites: [
-      "https://www.trusttoken.com/",
+      "https://trusttoken.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
@@ -2494,17 +2494,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "TrustToken",
+    facebook: "https://facebook.com/TrustToken",
     twitter: "https://twitter.com/TrustToken",
     reddit: "",
     repository: "https://github.com/trusttoken/trueUSD",
   },
   dentacoin: {
-    description: "Dentacoin is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based blockchain platform regulated by smart contracts. The platform supports the dental community by building and creating solutions devoted to improving the quality of dental care worldwide. The blockchain gives Dentacoin the power to change the world for the better. Dentacoin develops the dental industry as well as creates market intelligence through a cryptocurrency reward system that inspires participation throughout the community.\r\n\r\nDentacoin is the first cryptocurrency that uses a decentralized review platform and transparently rewards patients and dentists who make contributions that benefit the community. The Dentacoin Foundation team strongly believes in building a future healthcare industry that will fall into the hands of the people, resulting in the disruption of the existing industries and the creation of new industries in the short and long term.\r\n\r\nDentacoin strives to create a dental industry community by rewarding people -who provide valuable contributions- with crypto currency. Through this reward system, the foundation will see a rise in a currency that will be able to reach a broad market, including a vast number of people who have yet to participate in any cryptocurrency economy.\r\n\r\nAccording to Harvard Business Review: “To protect the blockchain vision from political pressure and regulatory interference, blockchain networks rely on a decentralized infrastructure that can't be controlled by any one person or group.\" The integration of blockchain and dentistry is an extraordinary concept; one that requires the creation of a community in which transparency and shared responsibility can take place.\r\n\r\nLooking forward, Dentacoin expects the platform to drastically improve dental health and hygiene habits, thus improving the quality of life for individuals resulting in improved overall health and increased longevity.",
+    description: "Dentacoin is an <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>-based blockchain platform regulated by smart contracts. The platform supports the dental community by building and creating solutions devoted to improving the quality of dental care worldwide. The blockchain gives Dentacoin the power to change the world for the better. Dentacoin develops the dental industry as well as creates market intelligence through a cryptocurrency reward system that inspires participation throughout the community.\r\n\r\nDentacoin is the first cryptocurrency that uses a decentralized review platform and transparently rewards patients and dentists who make contributions that benefit the community. The Dentacoin Foundation team strongly believes in building a future healthcare industry that will fall into the hands of the people, resulting in the disruption of the existing industries and the creation of new industries in the short and long term.\r\n\r\nDentacoin strives to create a dental industry community by rewarding people -who provide valuable contributions- with crypto currency. Through this reward system, the foundation will see a rise in a currency that will be able to reach a broad market, including a vast number of people who have yet to participate in any cryptocurrency economy.\r\n\r\nAccording to Harvard Business Review: “To protect the blockchain vision from political pressure and regulatory interference, blockchain networks rely on a decentralized infrastructure that can't be controlled by any one person or group.\" The integration of blockchain and dentistry is an extraordinary concept; one that requires the creation of a community in which transparency and shared responsibility can take place.\r\n\r\nLooking forward, Dentacoin expects the platform to drastically improve dental health and hygiene habits, thus improving the quality of life for individuals resulting in improved overall health and increased longevity.",
     total_supply: 8000000000000,
     circulating_supply: 326822211298,
     websites: [
-      "https://www.dentacoin.com/",
+      "https://dentacoin.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
@@ -2517,7 +2517,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1944236",
     facebook: "",
     twitter: "https://twitter.com/dentacoin",
-    reddit: "https://www.reddit.com/r/Dentacoin",
+    reddit: "https://reddit.com/r/Dentacoin",
     repository: "https://github.com/dentacoin/aftercare-app-android",
   },
   wax: {
@@ -2525,10 +2525,10 @@ const coininfo = {
     total_supply: 1850000000,
     circulating_supply: 949628967.0421484,
     websites: [
-      "https://wax.io/",
+      "https://wax.io",
     ],
     explorers: [
-      "https://explorer.wax.io/",
+      "https://explorer.wax.io",
       "https://etherscan.io/token/0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
       "https://ethplorer.io/address/0x39bb259f66e1c59d5abef88375979b4d20d98022",
       "https://enjinx.io/eth/token/0x39bb259f66e1c59d5abef88375979b4d20d98022",
@@ -2537,9 +2537,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2237916",
-    facebook: "WAX.io.Community",
+    facebook: "https://facebook.com/WAX.io.Community",
     twitter: "https://twitter.com/WAX_io",
-    reddit: "https://www.reddit.com/r/WAXtoken",
+    reddit: "https://reddit.com/r/WAXtoken",
     repository: "",
   },
   wings: {
@@ -2547,7 +2547,7 @@ const coininfo = {
     total_supply: 100000000,
     circulating_supply: 89383724.72918831,
     websites: [
-      "https://wings.ai/",
+      "https://wings.ai",
     ],
     explorers: [
       "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
@@ -2558,9 +2558,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/wingschat",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1477055",
-    facebook: "WingsDAO",
+    facebook: "https://facebook.com/WingsDAO",
     twitter: "https://twitter.com/wingsplatform",
-    reddit: "https://www.reddit.com/r/WingsDAO",
+    reddit: "https://reddit.com/r/WingsDAO",
     repository: "",
   },
   data: {
@@ -2568,7 +2568,7 @@ const coininfo = {
     total_supply: 11500000000,
     circulating_supply: 7686189844.4009,
     websites: [
-      "http://data.eco/",
+      "https://data.eco",
     ],
     explorers: [
       "https://etherscan.io/token/0x69b148395ce0015c13e36bffbad63f49ef874e03",
@@ -2579,17 +2579,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/blockchainDATA",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2728497",
-    facebook: "Blockchain-Data-Foundation-1949486855317034",
+    facebook: "https://facebook.com/Blockchain-Data-Foundation-1949486855317034",
     twitter: "https://twitter.com/Blockchain_Data",
-    reddit: "https://www.reddit.com/r/DATAblockchain",
+    reddit: "https://reddit.com/r/DATAblockchain",
     repository: "https://github.com/Blockchain-DATA/smart_contract",
   },
   funfair: {
-    description: "FunFair is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based platform for online casino gaming. Targeting the $47B online gambling market, FunFair isn’t actually a casino. Instead, the underlying gaming technology is licensed out to casinos and other gambling platforms. The FunFair team is attempting to solve some of the biggest problems online casinos face: slow performance, high operating costs, and lack of user trust. Through the use of blockchain technology and Fate Channels, an in-house built version of state channels, the products they license have the potential fix all of them.\r\n\r\nFUN is an ERC-20 token that you use in every part of the FunFair platform. It’s the only token accepted for in-game credits, how game creators in the marketplace are paid, what casinos must pay their licensing with and receive revenues in, and all fees on the platform must be paid in FUN. A total of 11,000,000,000 FUN tokens were created on June 22, 2017, and no more will be created. With a fixed supply, the token is deflationary and should experience sharp increases in price over time as demand for it increases. Furthermore, the FUN that’s paid as fees will be burned for the first two years which should further drive price upwards. Casinos can also stake the FUN tokens in their bankrolls to receive additional dividends.\r\n\r\nThe 30+ person FunFair team is based out of London and is led by Jez San, OBE. San’s entire career has revolved around entrepreneurship and the computer gaming industry. He founded Argonaut Software as a teen and created the first chip to power 3D games like Star Fox and Harry Potter. Rounding out his resume, San also founded the 3D online poker room, PKR, and is an investor in one of the world’s leading cryptocurrency exchanges, Kraken. Other members of the team are just as impressive. Jeremy Longley, founder and CTO, co-founded PKR with San and has over 15 years of experience managing development teams. FunFair COO, David Greyling, was previously the International Director of William Hill – a worldwide betting and gaming company.\r\n\r\nFunFair is attempting to enter the gigantic online gaming market by providing a solution that’s unique to the blockchain industry. Instead of acting as a casino, the company is licensing out their technology to other casinos which helps to mitigate their liability and risk. The project already has a working product and plans to launch early this year. With the wealth of experience that the team has in the gaming space, it’s hard to see this project failing. If FunFair can overcome the market domination of current incumbents using traditional technology, blockchain-based casino games could be the new industry paradigm.",
+    description: "FunFair is an <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>-based platform for online casino gaming. Targeting the $47B online gambling market, FunFair isn’t actually a casino. Instead, the underlying gaming technology is licensed out to casinos and other gambling platforms. The FunFair team is attempting to solve some of the biggest problems online casinos face: slow performance, high operating costs, and lack of user trust. Through the use of blockchain technology and Fate Channels, an in-house built version of state channels, the products they license have the potential fix all of them.\r\n\r\nFUN is an ERC-20 token that you use in every part of the FunFair platform. It’s the only token accepted for in-game credits, how game creators in the marketplace are paid, what casinos must pay their licensing with and receive revenues in, and all fees on the platform must be paid in FUN. A total of 11,000,000,000 FUN tokens were created on June 22, 2017, and no more will be created. With a fixed supply, the token is deflationary and should experience sharp increases in price over time as demand for it increases. Furthermore, the FUN that’s paid as fees will be burned for the first two years which should further drive price upwards. Casinos can also stake the FUN tokens in their bankrolls to receive additional dividends.\r\n\r\nThe 30+ person FunFair team is based out of London and is led by Jez San, OBE. San’s entire career has revolved around entrepreneurship and the computer gaming industry. He founded Argonaut Software as a teen and created the first chip to power 3D games like Star Fox and Harry Potter. Rounding out his resume, San also founded the 3D online poker room, PKR, and is an investor in one of the world’s leading cryptocurrency exchanges, Kraken. Other members of the team are just as impressive. Jeremy Longley, founder and CTO, co-founded PKR with San and has over 15 years of experience managing development teams. FunFair COO, David Greyling, was previously the International Director of William Hill – a worldwide betting and gaming company.\r\n\r\nFunFair is attempting to enter the gigantic online gaming market by providing a solution that’s unique to the blockchain industry. Instead of acting as a casino, the company is licensing out their technology to other casinos which helps to mitigate their liability and risk. The project already has a working product and plans to launch early this year. With the wealth of experience that the team has in the gaming space, it’s hard to see this project failing. If FunFair can overcome the market domination of current incumbents using traditional technology, blockchain-based casino games could be the new industry paradigm.",
     total_supply: 10999873621,
     circulating_supply: 6013248091.575962,
     websites: [
-      "https://funfair.io/",
+      "https://funfair.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
@@ -2602,15 +2602,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=1968383",
     facebook: "",
     twitter: "https://twitter.com/FunFairTech",
-    reddit: "https://www.reddit.com/r/FunfairTech",
+    reddit: "https://reddit.com/r/FunfairTech",
     repository: "",
   },
   kin: {
-    description: "Kin is a decentralized cryptocurrency token issued on Ethereum, an open-source public blockchain. It was created by Kik Interactive in September 2017 in a token distribution event, raising over $98 million from 10,000 participants. The purpose of the token is to facilitate value transfers in digital services such as gaming applications and social media, and will initially be launched on the Kik messenger to leverage the application's 15 million monthly active users. Use of Kin over other tokens is incentivised by providing a daily reward to developers of these digital services based on their usage.\r\n\r\nKik’s latest effort has been allowing users to reward creators directly. Today’s digital content and social media companies monetize their websites using advertising. This model requires that these companies go after economies of scale, adding new users quickly. They also want new users to spend as much time as possible on their platform so they can maximize ad views and therefore revenue. The leadership at Kik believes this trend toward the attention economy is a mistake. Their philosophical argument for creating a cryptocurrency is that advertising and attention seeking is cheapening the content ecosystem and our relationships. Using Kin Coin, they hope to enable consumers to pay creators and developers directly. This crowdsourced patronage is an important trend in social media. We’re seeing similar projects that have gained traction with the likes of Kickstarter or Patreon. These services allow people to pay creators directly, without the need for advertisers. \r\n\r\nKik needed further funding in 2017. Instead of raising money from venture capitalists, they decided to launch an ICO to create the token behind their new rewards points system. The token sale for Kin Coin was a success, raising $98 million in September 2017. The sale included over 10,000 people from 117 countries. Unfortunately, Canadian citizens were not allowed to participate, and Kik is a Canadian company. Some argue this dampened demand and contributed to the ICO not reaching its hard cap of $110 million. A total of 10 trillion KIN will exist, of which 750 billion are currently in circulation. The token launched on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>.\r\n\r\nKin Coin will launch on Kik later this year. The idea is for monetization to integrate seamlessly into the app. Users should be able to reward creators simply from their wallets with a few taps. Kin Coin is designed to be mobile-first, and a wallet app will arrive in the coming months as well. A few test users can use Kin Coin right now on Kik. The only thing you can do so far is buy some custom digital stickers for use in chats. Expect more features upon launch later this year. Over time, the idea is to allow other digital services and media applications to also integrate KIN. It won’t be exclusive to Kik. However, Kik will be the first company to launch Kin Coin integration.\r\n\r\nKIN’s value decreased following the ICO as hype died down. In January, KIN rode the wave along with much of the cryptocurrency market to an all-time high. Since January, the price has fallen, but never to pre-January levels. KIN is an ERC-20 token, so you can store it anywhere that accepts Ethereum. <a href=\"https://www.coingecko.com/buzz/beginner-guide-to-myetherwallet-mewconnect?locale=en\">MyEtherWallet</a> is a good option for paper storage. Of course, a Ledger Nano S hardware wallet is the gold standard for security. Kin has the backing of a major startup with a large active user base. This is an interesting opportunity to see how well crypto integrates with an existing community, especially a younger community who might not care about crypto. They just want things to work well. Solving the problem of giving crypto a great user experience is an important step to making crypto useful. If Kik can figure that out with the Kin Coin then this will be an interesting project to follow.",
+    description: "Kin is a decentralized cryptocurrency token issued on Ethereum, an open-source public blockchain. It was created by Kik Interactive in September 2017 in a token distribution event, raising over $98 million from 10,000 participants. The purpose of the token is to facilitate value transfers in digital services such as gaming applications and social media, and will initially be launched on the Kik messenger to leverage the application's 15 million monthly active users. Use of Kin over other tokens is incentivised by providing a daily reward to developers of these digital services based on their usage.\r\n\r\nKik’s latest effort has been allowing users to reward creators directly. Today’s digital content and social media companies monetize their websites using advertising. This model requires that these companies go after economies of scale, adding new users quickly. They also want new users to spend as much time as possible on their platform so they can maximize ad views and therefore revenue. The leadership at Kik believes this trend toward the attention economy is a mistake. Their philosophical argument for creating a cryptocurrency is that advertising and attention seeking is cheapening the content ecosystem and our relationships. Using Kin Coin, they hope to enable consumers to pay creators and developers directly. This crowdsourced patronage is an important trend in social media. We’re seeing similar projects that have gained traction with the likes of Kickstarter or Patreon. These services allow people to pay creators directly, without the need for advertisers. \r\n\r\nKik needed further funding in 2017. Instead of raising money from venture capitalists, they decided to launch an ICO to create the token behind their new rewards points system. The token sale for Kin Coin was a success, raising $98 million in September 2017. The sale included over 10,000 people from 117 countries. Unfortunately, Canadian citizens were not allowed to participate, and Kik is a Canadian company. Some argue this dampened demand and contributed to the ICO not reaching its hard cap of $110 million. A total of 10 trillion KIN will exist, of which 750 billion are currently in circulation. The token launched on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>.\r\n\r\nKin Coin will launch on Kik later this year. The idea is for monetization to integrate seamlessly into the app. Users should be able to reward creators simply from their wallets with a few taps. Kin Coin is designed to be mobile-first, and a wallet app will arrive in the coming months as well. A few test users can use Kin Coin right now on Kik. The only thing you can do so far is buy some custom digital stickers for use in chats. Expect more features upon launch later this year. Over time, the idea is to allow other digital services and media applications to also integrate KIN. It won’t be exclusive to Kik. However, Kik will be the first company to launch Kin Coin integration.\r\n\r\nKIN’s value decreased following the ICO as hype died down. In January, KIN rode the wave along with much of the cryptocurrency market to an all-time high. Since January, the price has fallen, but never to pre-January levels. KIN is an ERC-20 token, so you can store it anywhere that accepts Ethereum. <a href=\"https://coingecko.com/buzz/beginner-guide-to-myetherwallet-mewconnect?locale=en\">MyEtherWallet</a> is a good option for paper storage. Of course, a Ledger Nano S hardware wallet is the gold standard for security. Kin has the backing of a major startup with a large active user base. This is an interesting opportunity to see how well crypto integrates with an existing community, especially a younger community who might not care about crypto. They just want things to work well. Solving the problem of giving crypto a great user experience is an important step to making crypto useful. If Kik can figure that out with the Kin Coin then this will be an interesting project to follow.",
     total_supply: 10000000000000,
     circulating_supply: 678081590099.2618,
     websites: [
-      "http://kinecosystem.org/",
+      "https://kinecosystem.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
@@ -2623,15 +2623,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/kin_foundation",
-    reddit: "https://www.reddit.com/r/KinFoundation",
+    reddit: "https://reddit.com/r/KinFoundation",
     repository: "https://github.com/kinecosystem/kin-ecosystem-android-sdk",
   },
   aurora: {
-    description: "Auroracoin is a decentralised, peer-to-peer, and secure cryptocurrency released as an alternative to the Icelandic Króna to bypass governmental restrictions associated with the national fiat currency. It was launched with the aim of becoming the ‘official’ cryptocurrency of Iceland. AUR was a pioneer in the area of country-specific cryptocurrencies. AUR was launched on the 25th of January, 2014, by an anonymous developer who went by the pseudonym of Baldur Friggjar Óðinsson. It was originally based on <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, using the Scrypt algorithm with a Proof of Work mechanism, but was later updated to use a multi-algorithm architecture in 2016, forked from <a href=\"https://www.coingecko.com/en/coins/digibyte\">DigiByte</a>.\r\n\r\nAuroracoin uses the PoW consensus mechanism, which utilises device hashing power to solve a complex mathematical problem in order to authenticate a transaction proposed to be stored in the blockchain. The difficulty of solving the problem ensures that authenticating forged transactions is very difficult unless the attacker owns an impractically large chunk of the network’s total hashing power. AUR is one of the only cryptocurrencies to use a combination of five different hashing algorithms, namely Grøstl, Qubit, scrypt, SHA-256, and Skein.\r\n\r\nWhile initially very popular, Auroracoin has seen little to no activity for a while, with poor marketing, and frequent dev team changes. Reasons for little growth have been various, from slow adoption in Iceland, to developers leaving and joining the project midway. However, it is expected to not go lower than the recent low, and might see a rise as AUR plans to launch a more aggressive marketing campaign in Iceland to promote the coin among the masses. Unlike most other altcoins, Auroracoin has made extensive changes to the original codebase. It has introduced security measures such as Automatic checkpointing, and protecting against known flaws present in the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">BTC</a> blockchain, such as 51% block replacement attacks.",
+    description: "Auroracoin is a decentralised, peer-to-peer, and secure cryptocurrency released as an alternative to the Icelandic Króna to bypass governmental restrictions associated with the national fiat currency. It was launched with the aim of becoming the ‘official’ cryptocurrency of Iceland. AUR was a pioneer in the area of country-specific cryptocurrencies. AUR was launched on the 25th of January, 2014, by an anonymous developer who went by the pseudonym of Baldur Friggjar Óðinsson. It was originally based on <a href=\"https://coingecko.com/en/coins/litecoin\">Litecoin</a>, using the Scrypt algorithm with a Proof of Work mechanism, but was later updated to use a multi-algorithm architecture in 2016, forked from <a href=\"https://coingecko.com/en/coins/digibyte\">DigiByte</a>.\r\n\r\nAuroracoin uses the PoW consensus mechanism, which utilises device hashing power to solve a complex mathematical problem in order to authenticate a transaction proposed to be stored in the blockchain. The difficulty of solving the problem ensures that authenticating forged transactions is very difficult unless the attacker owns an impractically large chunk of the network’s total hashing power. AUR is one of the only cryptocurrencies to use a combination of five different hashing algorithms, namely Grøstl, Qubit, scrypt, SHA-256, and Skein.\r\n\r\nWhile initially very popular, Auroracoin has seen little to no activity for a while, with poor marketing, and frequent dev team changes. Reasons for little growth have been various, from slow adoption in Iceland, to developers leaving and joining the project midway. However, it is expected to not go lower than the recent low, and might see a rise as AUR plans to launch a more aggressive marketing campaign in Iceland to promote the coin among the masses. Unlike most other altcoins, Auroracoin has made extensive changes to the original codebase. It has introduced security measures such as Automatic checkpointing, and protecting against known flaws present in the <a href=\"https://coingecko.com/en/coins/bitcoin\">BTC</a> blockchain, such as 51% block replacement attacks.",
     total_supply: 10000000000,
     circulating_supply: 4345218905,
     websites: [
-      "https://www.aurorachain.io/",
+      "https://aurorachain.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x9ab165d795019b6d8b3e971dda91071421305e5a",
@@ -2642,7 +2642,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/AuroraOfficialEN",
     bitcointalk: "https://bitcointalk.org/index.php?topic=4437272",
-    facebook: "AuroraOfficialEN",
+    facebook: "https://facebook.com/AuroraOfficialEN",
     twitter: "https://twitter.com/AuroraOffic_en",
     reddit: "",
     repository: "",
@@ -2652,7 +2652,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 743002599,
     websites: [
-      "https://www.thetatoken.org/",
+      "https://thetatoken.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
@@ -2663,9 +2663,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2451089",
-    facebook: "ThetaToken",
+    facebook: "https://facebook.com/ThetaToken",
     twitter: "https://twitter.com/thetatoken",
-    reddit: "https://www.reddit.com/r/thetatoken",
+    reddit: "https://reddit.com/r/thetatoken",
     repository: "https://github.com/thetatoken/theta-protocol-delivery-lib",
   },
   adt: {
@@ -2673,7 +2673,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 796500000,
     websites: [
-      "https://adtoken.com/",
+      "https://adtoken.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
@@ -2686,7 +2686,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/ad_chain",
-    reddit: "https://www.reddit.com/r/adChain/",
+    reddit: "https://reddit.com/r/adChain",
     repository: "https://github.com/AdChain/AdMarket",
   },
   mft: {
@@ -2694,7 +2694,7 @@ const coininfo = {
     total_supply: 10000000000,
     circulating_supply: 6638981712.8475,
     websites: [
-      "https://mainframe.com/",
+      "https://mainframe.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
@@ -2705,9 +2705,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/MainframeCommunity",
     bitcointalk: "",
-    facebook: "MainframeHQ",
+    facebook: "https://facebook.com/MainframeHQ",
     twitter: "https://twitter.com/Mainframe_HQ",
-    reddit: "https://www.reddit.com/r/mainframe/",
+    reddit: "https://reddit.com/r/mainframe",
     repository: "https://github.com/MainframeHQ/onyx",
   },
   atl: {
@@ -2715,7 +2715,7 @@ const coininfo = {
     total_supply: 54175040,
     circulating_supply: 37575039.634400934,
     websites: [
-      "https://atlant.io/",
+      "https://atlant.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
@@ -2726,17 +2726,17 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/atlant_eng",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2053239",
-    facebook: "atlantplatform",
+    facebook: "https://facebook.com/atlantplatform",
     twitter: "https://twitter.com/atlantio",
-    reddit: "https://www.reddit.com/r/atlantio",
+    reddit: "https://reddit.com/r/atlantio",
     repository: "https://github.com/AtlantPlatform/atlant-dex",
   },
   arn: {
-    description: "According to its whitepaper, Aeron aims to be the new standard of aviation safety powered by the blockchain. Maintained by a group of aviation professionals, Aeron wants to reduce air transport-related accidents, which it says currently numbers around 3302 per year. One of the major causes of such accidents is the lack of real experience among pilots, since unsecured flight log data from them is susceptible to fraud and forgery. Also, due to \"pay to fly\" experiences, corrupt flight schools, negligence of aircraft operators, the primary data driving any decision is affected.\r\n\r\nAeron is built upon a robust and cryptographically secure database that makes it unique compared to other online travel companies, travel search services or internal applications made for flight officials. With this technology, falsification of data can be kept at a minimum. Additionally, as you would expect from a blockchain-backed application, key information is safely stored and is accessible to everyone with 100% transparency. Except that it now comes secured by a multi-sig authentication system that prevents any type of security breach. According to Aeron's Whitepaper, \"The pilot’s application is used by a pilot for personal flight logging. The company application collects and verifies data from aircraft operators, maintenance organizations, flight schools and fixed base operators\".\r\n\r\nAeron (ARN) is an ERC20 compliant <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> based token, with a fixed supply of 20,000,000 ARN. When the token was launched, a fixed amount of tokens were created and after which no more tokens are to be minted. About 60% of the supply is estimated to be in circulation. The supply should decrease over time when ARN tokens as taken out of circulation. Once Aeron receives ARN tokens in exchange of services, the coins will be again released in to the network.\r\n\r\nAccording to its whitepaper, Aeron plans to have a user base of 300000 by the end of 2020. This would encourage it to embed new features on its platform.\r\nWith the help of multi-app functionality and block technology, the company envisions to have an “airline in the pocket” of sorts within two years. While its price has fluctuated like most other cryptocurrencies, it delivered more than 15x returns within a short period between November 2017 to January 2018. As of July 2018, the price is nearly back to its November levels, at $0.57.",
+    description: "According to its whitepaper, Aeron aims to be the new standard of aviation safety powered by the blockchain. Maintained by a group of aviation professionals, Aeron wants to reduce air transport-related accidents, which it says currently numbers around 3302 per year. One of the major causes of such accidents is the lack of real experience among pilots, since unsecured flight log data from them is susceptible to fraud and forgery. Also, due to \"pay to fly\" experiences, corrupt flight schools, negligence of aircraft operators, the primary data driving any decision is affected.\r\n\r\nAeron is built upon a robust and cryptographically secure database that makes it unique compared to other online travel companies, travel search services or internal applications made for flight officials. With this technology, falsification of data can be kept at a minimum. Additionally, as you would expect from a blockchain-backed application, key information is safely stored and is accessible to everyone with 100% transparency. Except that it now comes secured by a multi-sig authentication system that prevents any type of security breach. According to Aeron's Whitepaper, \"The pilot’s application is used by a pilot for personal flight logging. The company application collects and verifies data from aircraft operators, maintenance organizations, flight schools and fixed base operators\".\r\n\r\nAeron (ARN) is an ERC20 compliant <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> based token, with a fixed supply of 20,000,000 ARN. When the token was launched, a fixed amount of tokens were created and after which no more tokens are to be minted. About 60% of the supply is estimated to be in circulation. The supply should decrease over time when ARN tokens as taken out of circulation. Once Aeron receives ARN tokens in exchange of services, the coins will be again released in to the network.\r\n\r\nAccording to its whitepaper, Aeron plans to have a user base of 300000 by the end of 2020. This would encourage it to embed new features on its platform.\r\nWith the help of multi-app functionality and block technology, the company envisions to have an “airline in the pocket” of sorts within two years. While its price has fluctuated like most other cryptocurrencies, it delivered more than 15x returns within a short period between November 2017 to January 2018. As of July 2018, the price is nearly back to its November levels, at $0.57.",
     total_supply: 20000000,
     circulating_supply: 20000000,
     websites: [
-      "https://aeron.aero/",
+      "https://aeron.aero",
     ],
     explorers: [
       "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
@@ -2749,15 +2749,15 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2078239",
     facebook: "",
     twitter: "https://twitter.com/aeron_aero",
-    reddit: "https://www.reddit.com/r/aeronaero",
+    reddit: "https://reddit.com/r/aeronaero",
     repository: "https://github.com/aeronaero/aeron",
   },
   brd: {
-    description: "Blockchains are quickly becoming the modern equivalent of what apps were to smartphones when they took off a decade ago. There’s a blockchain for everything - from cloud storage <a href=\"https://www.coingecko.com/en/coins/siacoin\">(Siacoin)</a> to identity verification <a href=\"https://www.coingecko.com/en/coins/civic\">(Civic)</a>. But the original point of Bitcoin, the very cryptocurrency was to overturn the traditional banking system. An interestingly named token - Bread, is here to bring us back on track for this original goal. Bread technology intends to reinvent and revolutionize banking as we know it. By building a blockchain synced, Bitcoin-based wallet, the idea here is to decentralise banking and make it accessible to everyone.\r\n\r\nWith a blockchain connected, easy to use Bitcoin wallet, Bread makes it easy for you to transition to a truly decentralised banking service.It also provides portfolio management tools to offer a comprehensive banking experience. Purchases made using its BRD token attract loyalty points and rewards, giving customers another lucrative reason to use the Bread wallet app.\r\n\r\nBread was officially launched in 2014 itself and even raised VC funding to the tune of $7 million in August 2017. It then went the ICO route in December 2017, where it made available 88 million BRD tokens. $32 million was raised in the price, with BRD being valued at the rate of 900 for every 1 ETH at the time. As of June 2018, just over 6 months later, its value had fallen to above 1600 for every 1 ETH.\r\n\r\nA decentralised banking system was <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> original vision that is either taking too long to fruition, or we’ve become an impatient audience. Whatever the case, Bread wants to accelerate the transition. A significant decision the Bread team took was to introduce the BRD token - which, with its cheap rates and loyalty/discount offerings, may emerge as the primary incentive for users joining the platform. If this is indeed the case, expect a spike in the value of the BRD cryptocurrency, something investors right now would be eyeing closely. Having said that, its fall in value since the ICO is certainly a cause for concern, and investors are advised to do their research and analyse before taking decisions.",
+    description: "Blockchains are quickly becoming the modern equivalent of what apps were to smartphones when they took off a decade ago. There’s a blockchain for everything - from cloud storage <a href=\"https://coingecko.com/en/coins/siacoin\">(Siacoin)</a> to identity verification <a href=\"https://coingecko.com/en/coins/civic\">(Civic)</a>. But the original point of Bitcoin, the very cryptocurrency was to overturn the traditional banking system. An interestingly named token - Bread, is here to bring us back on track for this original goal. Bread technology intends to reinvent and revolutionize banking as we know it. By building a blockchain synced, Bitcoin-based wallet, the idea here is to decentralise banking and make it accessible to everyone.\r\n\r\nWith a blockchain connected, easy to use Bitcoin wallet, Bread makes it easy for you to transition to a truly decentralised banking service.It also provides portfolio management tools to offer a comprehensive banking experience. Purchases made using its BRD token attract loyalty points and rewards, giving customers another lucrative reason to use the Bread wallet app.\r\n\r\nBread was officially launched in 2014 itself and even raised VC funding to the tune of $7 million in August 2017. It then went the ICO route in December 2017, where it made available 88 million BRD tokens. $32 million was raised in the price, with BRD being valued at the rate of 900 for every 1 ETH at the time. As of June 2018, just over 6 months later, its value had fallen to above 1600 for every 1 ETH.\r\n\r\nA decentralised banking system was <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> original vision that is either taking too long to fruition, or we’ve become an impatient audience. Whatever the case, Bread wants to accelerate the transition. A significant decision the Bread team took was to introduce the BRD token - which, with its cheap rates and loyalty/discount offerings, may emerge as the primary incentive for users joining the platform. If this is indeed the case, expect a spike in the value of the BRD cryptocurrency, something investors right now would be eyeing closely. Having said that, its fall in value since the ICO is certainly a cause for concern, and investors are advised to do their research and analyse before taking decisions.",
     total_supply: 88862718,
     circulating_supply: 59964826.8917,
     websites: [
-      "https://token.breadapp.com/en/",
+      "https://token.breadapp.com/en",
     ],
     explorers: [
       "https://etherscan.io/token/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
@@ -2770,15 +2770,15 @@ const coininfo = {
     bitcointalk: "",
     facebook: "breadapp",
     twitter: "https://twitter.com/breadapp",
-    reddit: "https://www.reddit.com/r/breadwallet",
+    reddit: "https://reddit.com/r/breadwallet",
     repository: "https://github.com/breadwallet/breadwallet-core",
   },
   rep: {
-    description: "Augur is a trustless, decentralized platform for prediction markets. Augur is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event.\r\n\r\nPrediction markets are markets created to trade the probability of an event happening. The market prices indicate what the crowd thinks the probability of an event happening. Predictive markets have shown to have been effective in accurately forecasting many results however it is still not widely used due to the many regulatory hurdles involved in setting up such a market. Augur aims to set up such a market in a decentralized manner.\r\n\r\nAugur is an Ethereum-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event. Augur REP is the gambling cryptocurrency. It’s the crypto token you can use to bet on sporting events, political  outcomes, economies and just about everything else in the prediction markets. Online gambling is a $52 billion a year industry.\r\n\r\nAt its founding the project included Intrade founder Ron Bernstein, Robin Hanson, and Ethereum founder Vitalik Buterin among its advisers. In April 2015, Augur's first contract was uploaded to the Ethereum network.The first beta version was released in March 2016. In October 2016, all the reputation tokens that were for sale during the 2015 crowdfunding campaign were distributed to their owners on the live Ethereum network and the two largest cryptocurrency exchanges, <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> and <a href=\"https://www.coingecko.com/en/exchanges/kraken\">Kraken</a>, added support for these tokens on their trading platforms. The project was delayed until it was launched in July 2018.",
+    description: "Augur is a trustless, decentralized platform for prediction markets. Augur is an <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event.\r\n\r\nPrediction markets are markets created to trade the probability of an event happening. The market prices indicate what the crowd thinks the probability of an event happening. Predictive markets have shown to have been effective in accurately forecasting many results however it is still not widely used due to the many regulatory hurdles involved in setting up such a market. Augur aims to set up such a market in a decentralized manner.\r\n\r\nAugur is an Ethereum-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event. Augur REP is the gambling cryptocurrency. It’s the crypto token you can use to bet on sporting events, political  outcomes, economies and just about everything else in the prediction markets. Online gambling is a $52 billion a year industry.\r\n\r\nAt its founding the project included Intrade founder Ron Bernstein, Robin Hanson, and Ethereum founder Vitalik Buterin among its advisers. In April 2015, Augur's first contract was uploaded to the Ethereum network.The first beta version was released in March 2016. In October 2016, all the reputation tokens that were for sale during the 2015 crowdfunding campaign were distributed to their owners on the live Ethereum network and the two largest cryptocurrency exchanges, <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> and <a href=\"https://coingecko.com/en/exchanges/kraken\">Kraken</a>, added support for these tokens on their trading platforms. The project was delayed until it was launched in July 2018.",
     total_supply: 11000000,
     circulating_supply: 11000000,
     websites: [
-      "http://www.augur.net/",
+      "https://augur.net",
     ],
     explorers: [
       "https://etherscan.io/token/0x1985365e9f78359a9B6AD760e32412f4a445E862",
@@ -2788,17 +2788,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=860629",
-    facebook: "augurproject",
+    facebook: "https://facebook.com/augurproject",
     twitter: "https://twitter.com/AugurProject",
-    reddit: "https://www.reddit.com/r/Augur",
+    reddit: "https://reddit.com/r/Augur",
     repository: "https://github.com/AugurProject/augur-node",
   },
   qkc: {
-    description: "QuarkChain is a secure, permission-less, scalable, and decentralized blockchain. One of the goals of QuarkChain is to utilize sharding technology to deliver over 1 million transactions per second (tps). Essentially, QuarkChain markets itself as a peer-to-peer blockchain with a high capacity throughput to help deliver fast and secure decentralized applications. The team behind QuarkChain created this blockchain to resolve the issue of scalability that all the major blockchains are currently facing. The team feels that because of the urgency of this issue, the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> community simply cannot afford to wait until they all agree on a solution. Instead, they feel that by offering different solutions, such as the one inherent in QuarkChain, this compels the community to split via a hard fork and find the solution that works best.\r\n\r\nQuarkChain encourages increased decentralization through multiple cheap nodes that then create a cluster that works as a super-full node. This prevents the high expenses associated with super-full nodes when the tps gets high. In terms of protection, all transactions within QuarkChain get the protection of 50 percent of the network’s hash power. This makes a double-spending attack incredibly challenging, particularly when combined with QuarkChain’s decentralized nature.\r\n\r\nQuarkChain relies on a two-layer blockchain structure. Sharding blockchains known as shards are the first layer, while the second layer is a root blockchain that confirms the shards’ blocks.The major work on QuarkChain began in Q2 2017 with research into the problem of blockchain scalability. In Q4 of that year, the team drafted the whitepaper. In February 2018, it released the white paper and completed verification code 0.1. March 2018 saw the 0.1 versions of both the wallet and testnet. Now in Q2, the team is working on the testnet 1.0 and smart contract 0.1. In Q4 2018, the team will have the QuarkChain Core 1.0, along with the mainnet 1.0 and the SmartWallet 1.0. By Q2 2019, both the SmartWallet and QuarkChain Core will be in their 2.0 versions.\r\n\r\nQuarkChain is a decentralized blockchain network that aims to resolve the issues of scalability that plague existing networks by using sharding technology. In this way, QuarkChain can dramatically extend the usefulness of blockchain technology since many applications are limited by the scalability of existing blockchain networks. The project is still in progress, but QuarkChain has already made many positive steps and already began invite-based beta testing for the testnet, showing significant progress and potential.\r\n\r\nThe main features of Quarkchain are:\r\n\r\n1. Reshardable two-layered blockchain: Quarkchain consists of two layers of blockchains. We apply elastic sharding blockchains (shards) as the first layer, and a root blockchain as the second layer that confirms the blocks from the first layer. The second layer that confirms the blocks from the first layer. The second layer is flexible to be resharded as needed without changing the root layer.\r\n\r\n2. Guaranteed security by market-driven collaborative mining: To ensure the security of all transactions, a game-theoretic framework is designed for incentives, where at least 50% of overall hash powers are allocated to the root chain to prevent double spending attack on any transactions.\r\n\r\n3. Anti-centralized horizontal scalability: In any blockchain network with a high TPS, a super-full node can be extremely expensive, which encourages centralization. In contrast, QuarkChain allows multiple cheap nodes forming a cluster to replace a super-full node.\r\n\r\n4. Efficient cross-shard transactions: Cross-shard transactions in QuarkChain can be issued at any time, and confirmed in minutes. The speed of cross-shard transactions increases linearly as the number of shards increases.\r\n\r\n5. Simple account management: There is only one account needed for the entire blockchain (shards) in QuarkChain. All cryptocurrencies from different shards are stored in one smart wallet.",
+    description: "QuarkChain is a secure, permission-less, scalable, and decentralized blockchain. One of the goals of QuarkChain is to utilize sharding technology to deliver over 1 million transactions per second (tps). Essentially, QuarkChain markets itself as a peer-to-peer blockchain with a high capacity throughput to help deliver fast and secure decentralized applications. The team behind QuarkChain created this blockchain to resolve the issue of scalability that all the major blockchains are currently facing. The team feels that because of the urgency of this issue, the <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> community simply cannot afford to wait until they all agree on a solution. Instead, they feel that by offering different solutions, such as the one inherent in QuarkChain, this compels the community to split via a hard fork and find the solution that works best.\r\n\r\nQuarkChain encourages increased decentralization through multiple cheap nodes that then create a cluster that works as a super-full node. This prevents the high expenses associated with super-full nodes when the tps gets high. In terms of protection, all transactions within QuarkChain get the protection of 50 percent of the network’s hash power. This makes a double-spending attack incredibly challenging, particularly when combined with QuarkChain’s decentralized nature.\r\n\r\nQuarkChain relies on a two-layer blockchain structure. Sharding blockchains known as shards are the first layer, while the second layer is a root blockchain that confirms the shards’ blocks.The major work on QuarkChain began in Q2 2017 with research into the problem of blockchain scalability. In Q4 of that year, the team drafted the whitepaper. In February 2018, it released the white paper and completed verification code 0.1. March 2018 saw the 0.1 versions of both the wallet and testnet. Now in Q2, the team is working on the testnet 1.0 and smart contract 0.1. In Q4 2018, the team will have the QuarkChain Core 1.0, along with the mainnet 1.0 and the SmartWallet 1.0. By Q2 2019, both the SmartWallet and QuarkChain Core will be in their 2.0 versions.\r\n\r\nQuarkChain is a decentralized blockchain network that aims to resolve the issues of scalability that plague existing networks by using sharding technology. In this way, QuarkChain can dramatically extend the usefulness of blockchain technology since many applications are limited by the scalability of existing blockchain networks. The project is still in progress, but QuarkChain has already made many positive steps and already began invite-based beta testing for the testnet, showing significant progress and potential.\r\n\r\nThe main features of Quarkchain are:\r\n\r\n1. Reshardable two-layered blockchain: Quarkchain consists of two layers of blockchains. We apply elastic sharding blockchains (shards) as the first layer, and a root blockchain as the second layer that confirms the blocks from the first layer. The second layer that confirms the blocks from the first layer. The second layer is flexible to be resharded as needed without changing the root layer.\r\n\r\n2. Guaranteed security by market-driven collaborative mining: To ensure the security of all transactions, a game-theoretic framework is designed for incentives, where at least 50% of overall hash powers are allocated to the root chain to prevent double spending attack on any transactions.\r\n\r\n3. Anti-centralized horizontal scalability: In any blockchain network with a high TPS, a super-full node can be extremely expensive, which encourages centralization. In contrast, QuarkChain allows multiple cheap nodes forming a cluster to replace a super-full node.\r\n\r\n4. Efficient cross-shard transactions: Cross-shard transactions in QuarkChain can be issued at any time, and confirmed in minutes. The speed of cross-shard transactions increases linearly as the number of shards increases.\r\n\r\n5. Simple account management: There is only one account needed for the entire blockchain (shards) in QuarkChain. All cryptocurrencies from different shards are stored in one smart wallet.",
     total_supply: 10000000000,
     circulating_supply: 1579716585.3554401,
     websites: [
-      "https://quarkchain.io/",
+      "https://quarkchain.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
@@ -2809,9 +2809,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/quarkchainio",
     bitcointalk: "",
-    facebook: "quarkchain",
+    facebook: "https://facebook.com/quarkchain",
     twitter: "https://twitter.com/Quark_Chain",
-    reddit: "https://www.reddit.com/r/quarkchainio/",
+    reddit: "https://reddit.com/r/quarkchainio",
     repository: "https://github.com/QuarkChain/quarkchain-web3.js",
   },
   loom: {
@@ -2819,7 +2819,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 692101055.4566667,
     websites: [
-      "https://loomx.io/",
+      "https://loomx.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
@@ -2840,13 +2840,13 @@ const coininfo = {
     total_supply: 20228644,
     circulating_supply: 8420658.19216906,
     websites: [
-      "https://anoncrypto.io/",
-      "https://www.anonfork.io/",
-      "https://www.anonymousbitcoin.io/",
+      "https://anoncrypto.io",
+      "https://anonfork.io",
+      "https://anonymousbitcoin.io",
     ],
     explorers: [
-      "https://explorer.anoncrypto.io/insight/",
-      "https://explorer.anonfork.io/insight/",
+      "https://explorer.anoncrypto.io/insight",
+      "https://explorer.anonfork.io/insight",
     ],
     medium: "",
     discord: "",
@@ -2854,7 +2854,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=3822523",
     facebook: "",
     twitter: "https://twitter.com/ANON_WeAreANON",
-    reddit: "https://www.reddit.com/r/AnonymousBitcoin/",
+    reddit: "https://reddit.com/r/AnonymousBitcoin",
     repository: "https://github.com/anonymousbitcoin/anon",
   },
   eurs: {
@@ -2862,7 +2862,7 @@ const coininfo = {
     total_supply: 12291000,
     circulating_supply: 12291000,
     websites: [
-      "https://stasis.net/",
+      "https://stasis.net",
     ],
     explorers: [
       "https://etherscan.io/token/0xdb25f211ab05b1c97d595516f45794528a807ad8",
@@ -2873,7 +2873,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/stasis_community",
     bitcointalk: "https://bitcointalk.org/index.php?topic=4789890",
-    facebook: "stasisnet",
+    facebook: "https://facebook.com/stasisnet",
     twitter: "https://twitter.com/stasisnet",
     reddit: "",
     repository: "https://github.com/STASISNET/STASIS-EURS-token-smart-contract",
@@ -2883,7 +2883,7 @@ const coininfo = {
     total_supply: 361477438,
     circulating_supply: 144590975,
     websites: [
-      "https://ambrosus.com/",
+      "https://ambrosus.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
@@ -2896,7 +2896,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2034826",
     facebook: "",
     twitter: "https://twitter.com/AmbrosusAMB",
-    reddit: "https://www.reddit.com/r/ambrosus",
+    reddit: "https://reddit.com/r/ambrosus",
     repository: "https://github.com/ambrosus/ambrosus-protocol",
   },
   blockmasoncreditprotocol: {
@@ -2904,7 +2904,7 @@ const coininfo = {
     total_supply: 116158667,
     circulating_supply: 83893483.6778,
     websites: [
-      "https://blockmason.io/",
+      "https://blockmason.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
@@ -2917,40 +2917,40 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2129993",
     facebook: "",
     twitter: "https://twitter.com/blockmasonio",
-    reddit: "https://www.reddit.com/r/blockmason",
+    reddit: "https://reddit.com/r/blockmason",
     repository: "https://github.com/blockmason/credit-protocol",
   },
   eos: {
-    description: "What Is EOS?\r\nEOS has always been one of the most hype over ICO and now a smart contract platform. When it was announced by founder <a href=\"https://www.linkedin.com/in/daniel-larimer-0a367089/\">Dan Larimer</a> in New York City in May 2017, a giant jumbotron advertisement could be seen glowing over Times Square. In the first 5 days of their <a href=\"https://www.coingecko.com/en/ico/eos\">ICO token sale</a>, EOS raised an unprecedented $185 million in ETH — all without having any kind of product or service yet.\r\n\r\nEOS claims to be “the most powerful infrastructure for decentralized applications.” Basically, EOS is (or, rather, will be) a blockchain technology much like <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>. They plan to create their own blockchain with a long list of impressive features. Some are even calling EOS the “Ethereum killer.” But along with all the hype and excitement about EOS, there’s also a large amount of skepticism coming from the crypto community.\r\n\r\nThe EOS Vision\r\nEOS has big plans. It will be a software that will act as a decentralized operating system. Developers can then build applications on the EOS software. It will be highly scalable, flexible, and usable. The most notable feature that everyone is getting excited about is horizontal scalability — what this means is the EOS blockchain will be able to allow parallel execution of smart contracts and simultaneous processing of transactions. This could be a real game changer.\r\n\r\nEOS will incorporate the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake\">delegated proof-of-stake (DPoS)</a> consensus protocol, created by founder Dan Larimer himself. This system is less centralized, uses far less energy, and is incredibly fast — as in, up to millions-of-transactions-per-second fast. Furthermore, there will be no user fees on the EOS blockchain. This would also set them apart from the competition and could help them gain more widespread adoption of their platform.\r\n\r\nEOS also wants to put a blockchain constitution in place to secure user rights and enable dispute resolution. As explained in their technical whitepaper: \"The EOS.IO software is designed from experience with proven concepts and best practices, and represents fundamental advancements in blockchain technology. The software is part of a holistic blueprint for a globally scalable blockchain society in which decentralized applications can be easily deployed and governed.\"\r\n\r\nTokens that are issued on top of the EOS platform includes <a href=\"https://www.coingecko.com/en/coins/everipedia\">Everipedia</a>, <a href=\"https://www.coingecko.com/en/coins/horuspay\">HorusPay</a>, <a href=\"https://www.coingecko.com/admin/coins/meetone\">Meet One</a>, and more.",
-    total_supply: "",
+    description: "What Is EOS?\r\nEOS has always been one of the most hype over ICO and now a smart contract platform. When it was announced by founder <a href=\"https://linkedin.com/in/daniel-larimer-0a367089/\">Dan Larimer</a> in New York City in May 2017, a giant jumbotron advertisement could be seen glowing over Times Square. In the first 5 days of their <a href=\"https://coingecko.com/en/ico/eos\">ICO token sale</a>, EOS raised an unprecedented $185 million in ETH — all without having any kind of product or service yet.\r\n\r\nEOS claims to be “the most powerful infrastructure for decentralized applications.” Basically, EOS is (or, rather, will be) a blockchain technology much like <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>. They plan to create their own blockchain with a long list of impressive features. Some are even calling EOS the “Ethereum killer.” But along with all the hype and excitement about EOS, there’s also a large amount of skepticism coming from the crypto community.\r\n\r\nThe EOS Vision\r\nEOS has big plans. It will be a software that will act as a decentralized operating system. Developers can then build applications on the EOS software. It will be highly scalable, flexible, and usable. The most notable feature that everyone is getting excited about is horizontal scalability — what this means is the EOS blockchain will be able to allow parallel execution of smart contracts and simultaneous processing of transactions. This could be a real game changer.\r\n\r\nEOS will incorporate the <a href=\"https://coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake\">delegated proof-of-stake (DPoS)</a> consensus protocol, created by founder Dan Larimer himself. This system is less centralized, uses far less energy, and is incredibly fast — as in, up to millions-of-transactions-per-second fast. Furthermore, there will be no user fees on the EOS blockchain. This would also set them apart from the competition and could help them gain more widespread adoption of their platform.\r\n\r\nEOS also wants to put a blockchain constitution in place to secure user rights and enable dispute resolution. As explained in their technical whitepaper: \"The EOS.IO software is designed from experience with proven concepts and best practices, and represents fundamental advancements in blockchain technology. The software is part of a holistic blueprint for a globally scalable blockchain society in which decentralized applications can be easily deployed and governed.\"\r\n\r\nTokens that are issued on top of the EOS platform includes <a href=\"https://coingecko.com/en/coins/everipedia\">Everipedia</a>, <a href=\"https://coingecko.com/en/coins/horuspay\">HorusPay</a>, <a href=\"https://coingecko.com/admin/coins/meetone\">Meet One</a>, and more.",
+    total_supply: null,
     circulating_supply: 1041925887.4823,
     websites: [
-      "https://eos.io/",
+      "https://eos.io",
     ],
     explorers: [
-      "https://eospark.com/",
-      "https://bloks.io/",
-      "https://eosflare.io/",
+      "https://eospark.com",
+      "https://bloks.io",
+      "https://eosflare.io",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "eosblockchain",
+    facebook: "https://facebook.com/eosblockchain",
     twitter: "https://twitter.com/EOS_io",
-    reddit: "https://www.reddit.com/r/eos",
+    reddit: "https://reddit.com/r/eos",
     repository: "https://github.com/EOSIO/eosio.cdt",
   },
   cardano: {
-    description: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://www.coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://www.coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://www.coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
+    description: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
     total_supply: 45000000000,
     circulating_supply: 31112484646,
     websites: [
-      "https://www.cardano.org/en/home/",
+      "https://cardano.org/en/home",
     ],
     explorers: [
-      "https://cardanoexplorer.com/",
-      "https://adascan.net/",
+      "https://cardanoexplorer.com",
+      "https://adascan.net",
     ],
     medium: "",
     discord: "",
@@ -2958,28 +2958,28 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/CardanoStiftung",
-    reddit: "https://www.reddit.com/r/cardano",
+    reddit: "https://reddit.com/r/cardano",
     repository: "https://github.com/input-output-hk/cardano-chain",
   },
   ripple: {
-    description: "Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.\r\n\r\nRipple was originally founded by a single company, <a href=\"https://www.crunchbase.com/organization/ripple-labs\">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=\"https://www.coingecko.com/en/coins/bitcoin\">bitcoin’s</a> development. It also doesn’t have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself — around 60 billion at the latest count.\r\n\r\nEven at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple’s price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency’s value, and isn’t something Ripple Labs plans to do anytime soon.\r\n\r\nIn actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.\r\n\r\nXRP by Ripple price can be found on this page alongside the market capitalization and additional stats.\r\n\r\n",
+    description: "Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.\r\n\r\nRipple was originally founded by a single company, <a href=\"https://crunchbase.com/organization/ripple-labs\">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=\"https://coingecko.com/en/coins/bitcoin\">bitcoin’s</a> development. It also doesn’t have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself — around 60 billion at the latest count.\r\n\r\nEven at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple’s price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency’s value, and isn’t something Ripple Labs plans to do anytime soon.\r\n\r\nIn actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.\r\n\r\nXRP by Ripple price can be found on this page alongside the market capitalization and additional stats.\r\n\r\n",
     total_supply: 100000000000,
     circulating_supply: 42004966728,
     websites: [
-      "https://ripple.com/currency/",
+      "https://ripple.com/currency",
     ],
     explorers: [
       "https://xrpcharts.ripple.com",
-      "https://bithomp.com/explorer/",
-      "https://xrpscan.com/",
+      "https://bithomp.com/explorer",
+      "https://xrpscan.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "ripplepay",
+    facebook: "https://facebook.com/ripplepay",
     twitter: "https://twitter.com/Ripple",
-    reddit: "https://www.reddit.com/r/ripple",
+    reddit: "https://reddit.com/r/ripple",
     repository: "https://github.com/ripple/ripple-lib",
   },
   dock: {
@@ -3000,21 +3000,21 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/dock_io",
-    reddit: "https://www.reddit.com/r/dockio/",
+    reddit: "https://reddit.com/r/dockio",
     repository: "",
   },
   neo: {
-    description: "NEO is a next generation smart economy platform (formerly Antshares) and China's first open source blockchain that was founded in 2014, is often known as the “<a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> of China”. \r\n\r\nWhat is NEO?\r\nNEO uses a smart economy approach to implement its distributed network concept. Its main objective is to digitize assets using the decentralized network of blockchain technology and digital identity.\r\n\r\nNeo’s main aim is to be the distributed network for “smart economy”.  As their website states: \"Digital Assets + Digital Identity + <a href=\"https://www.coingecko.com/en?category_id=29\">Smart Contract</a> = Smart Economy.\" Neo was developed by Shanghai-based blockchain R&D company “OnChain” and funded by two crowdsales: first crowdsale on October 2015 sold 17.5 million NEO tokens for $550,000 and the second crowdsale sold the remaining 22.5 million NEO tokens for $4.5 million.\r\n\r\nSo why NEO?\r\nAsset digitization and identity on the <a href=\"https://www.coingecko.com/en?asset_platform_id=480\">NEO platform</a> essentially creates a novel way for asset registration, issuance, and circulation. This means that tangible assets like real estate, company shares or even fiat money can be digitized and traded on the NEO network, thus giving rise to a whole new economy.\r\n\r\nIts digital identity system allows for integration between the platform and the real world economy. It has custom digital identity standards that enable the creation of electronic identity data for individuals, organizations and even entities. These electronic systems use multi-layered authentication models that include facial and voice recognition as well as fingerprints.\r\n\r\nAll digital assets on the platform enjoy legal protection thanks to the use of digital certificates on its public blockchain. This, in turn, guarantees trust as the system offers an indelible and unalterable record of all entities’ holdings.",
+    description: "NEO is a next generation smart economy platform (formerly Antshares) and China's first open source blockchain that was founded in 2014, is often known as the “<a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> of China”. \r\n\r\nWhat is NEO?\r\nNEO uses a smart economy approach to implement its distributed network concept. Its main objective is to digitize assets using the decentralized network of blockchain technology and digital identity.\r\n\r\nNeo’s main aim is to be the distributed network for “smart economy”.  As their website states: \"Digital Assets + Digital Identity + <a href=\"https://coingecko.com/en?category_id=29\">Smart Contract</a> = Smart Economy.\" Neo was developed by Shanghai-based blockchain R&D company “OnChain” and funded by two crowdsales: first crowdsale on October 2015 sold 17.5 million NEO tokens for $550,000 and the second crowdsale sold the remaining 22.5 million NEO tokens for $4.5 million.\r\n\r\nSo why NEO?\r\nAsset digitization and identity on the <a href=\"https://coingecko.com/en?asset_platform_id=480\">NEO platform</a> essentially creates a novel way for asset registration, issuance, and circulation. This means that tangible assets like real estate, company shares or even fiat money can be digitized and traded on the NEO network, thus giving rise to a whole new economy.\r\n\r\nIts digital identity system allows for integration between the platform and the real world economy. It has custom digital identity standards that enable the creation of electronic identity data for individuals, organizations and even entities. These electronic systems use multi-layered authentication models that include facial and voice recognition as well as fingerprints.\r\n\r\nAll digital assets on the platform enjoy legal protection thanks to the use of digital certificates on its public blockchain. This, in turn, guarantees trust as the system offers an indelible and unalterable record of all entities’ holdings.",
     total_supply: 100000000,
     circulating_supply: 65000000,
     websites: [
-      "https://neo.org/",
+      "https://neo.org",
     ],
     explorers: [
-      "https://neotracker.io/",
-      "https://neoscan.io/",
-      "http://antcha.in/",
-      "http://state.otcgo.cn/?network=mainnet&idx=0",
+      "https://neotracker.io",
+      "https://neoscan.io",
+      "https://antcha.in",
+      "https://state.otcgo.cn/?network=mainnet&idx=0",
       "https://scan.nel.group/#mainnet",
     ],
     medium: "",
@@ -3023,7 +3023,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2057932",
     facebook: "",
     twitter: "https://twitter.com/NEO_Blockchain",
-    reddit: "https://www.reddit.com/r/NEO",
+    reddit: "https://reddit.com/r/NEO",
     repository: "https://github.com/CityOfZion/neo-python",
   },
   gas: {
@@ -3031,13 +3031,13 @@ const coininfo = {
     total_supply: 17190378,
     circulating_supply: 10128375,
     websites: [
-      "https://neo.org/",
+      "https://neo.org",
     ],
     explorers: [
-      "https://neotracker.io/",
-      "https://neoscan.io/",
-      "http://antcha.in/",
-      "http://state.otcgo.cn/?network=mainnet&idx=0",
+      "https://neotracker.io",
+      "https://neoscan.io",
+      "https://antcha.in",
+      "https://state.otcgo.cn/?network=mainnet&idx=0",
       "https://scan.nel.group/#mainnet",
     ],
     medium: "",
@@ -3046,7 +3046,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2057932",
     facebook: "",
     twitter: "https://twitter.com/NEO_Blockchain",
-    reddit: "https://www.reddit.com/r/NEO",
+    reddit: "https://reddit.com/r/NEO",
     repository: "https://github.com/CityOfZion/neo-python",
   },
   neofish: {
@@ -3057,8 +3057,8 @@ const coininfo = {
       "https://twitter.com/neofishchain",
     ],
     explorers: [
-      "https://neotracker.io/",
-      "https://neoscan.io/",
+      "https://neotracker.io",
+      "https://neoscan.io",
     ],
     medium: "",
     discord: "",
@@ -3070,24 +3070,24 @@ const coininfo = {
     repository: "",
   },
   tron: {
-    description: "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://www.coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://www.coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n",
+    description: "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n",
     total_supply: 99000000000,
     circulating_supply: 66008770697,
     websites: [
       "https://tron.network",
     ],
     explorers: [
-      "https://tronscan.org/",
-      "https://www.trxplorer.io/",
-      "https://trx.tokenview.com/",
+      "https://tronscan.org",
+      "https://trxplorer.io",
+      "https://trx.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/tronnetworkEN03",
     bitcointalk: "",
-    facebook: "tronfoundation",
+    facebook: "https://facebook.com/tronfoundation",
     twitter: "https://twitter.com/tronfoundation",
-    reddit: "https://www.reddit.com/r/Tronix",
+    reddit: "https://reddit.com/r/Tronix",
     repository: "https://github.com/tronprotocol/java-tron",
   },
   btt: {
@@ -3095,7 +3095,7 @@ const coininfo = {
     total_supply: 57746762,
     circulating_supply: 55387833.52876051,
     websites: [
-      "https://blocktrade.com/",
+      "https://blocktrade.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xfa456cf55250a839088b27ee32a424d7dacb54ff",
@@ -3106,7 +3106,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "Blocktradecom",
+    facebook: "https://facebook.com/Blocktradecom",
     twitter: "https://twitter.com/Blocktradecom",
     reddit: "",
     repository: "https://github.com/InoCoin/ino-client",
@@ -3116,10 +3116,10 @@ const coininfo = {
     total_supply: 40000000,
     circulating_supply: 15309045.8178829,
     websites: [
-      "https://www.bitcoinzerox.net/",
+      "https://bitcoinzerox.net",
     ],
     explorers: [
-      "https://chainz.cryptoid.info/bzx/",
+      "https://chainz.cryptoid.info/bzx",
     ],
     medium: "",
     discord: "",
@@ -3127,7 +3127,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=4973001",
     facebook: "",
     twitter: "https://twitter.com/BitcoinZer0X",
-    reddit: "https://www.reddit.com/r/BitcoinZeroOfficial/",
+    reddit: "https://reddit.com/r/BitcoinZeroOfficial",
     repository: "",
   },
   gunthy: {
@@ -3152,23 +3152,23 @@ const coininfo = {
     repository: "",
   },
   groestlcoin: {
-    description: "Groestlcoin is an ASIC-resistant cryptocurrency that boasts having “almost ZERO fees.” Although the coin itself is only pseudo-anonymous (like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>), the development team has ported a wallet (Samourai) to give you full anonymity. Groestlcoin is strictly a cryptocurrency for peer-to-peer (p2p) payments. The coin serves the same end-goal as other transactional cryptos like Bitcoin and <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a> but accomplishes that goal with a different set of attributes.\r\n\r\nGroestlcoin accomplished a few significant “firsts” with its feature set. It was the first coin to implement Segregated Witness (SegWit) and the first to perform a Lightning Network transaction on mainnet. With the implementation of the Lightning Network, Groestlcoin has minimal fees. Transferring 10,000 GRS (~$6000 at the time of this writing) costs fractions of a fraction of a cent. Even if the GRS price rises 1000x, the transaction fee would be just a couple of pennies. Groestlcoin utilizes two rounds of Grøstl-512 for its mining algorithm. This mining algo is ASIC-resistant, for now.\r\n\r\nA developer going by the Bitcointalk username “Gruve_P” launched Groestlcoin on March 22, 2014. Since then, the team has grown to over 20 people spread all around the world. Most team members prefer to stay relatively anonymous, only sharing their first name and country of origin on the website. The team has been consistent in releasing new versions of the platform every three months. With such consistency, it shouldn’t shock you to hear all that they’ve accomplished in the last four years. The team activated SegWit in January 2017 and is currently working on Lightning Network releases for both their mobile and desktop wallets. The team and community have also built eleven different Android wallets, ten different wallets for Blackberry, and three for iOS. They’ve created more than ten desktop wallets as well.\r\n\r\nGRS has recently seen a rise in popularity, with most CPU and GPU miners moving away from networks like BTC, where ASIC miners have completely saturated the mining pool. With its robust features, focus on privacy, and innovative technology, GRS is a very lucrative choice for these miners, and has the possibility to be the next big coin that hits the market. While investing in any cryptocurrency is subject to their inherent volatile nature, the immense market potential of Groestlcoin, along with its pioneering technology and dedicated development team, make it a very strong consideration for investment.",
+    description: "Groestlcoin is an ASIC-resistant cryptocurrency that boasts having “almost ZERO fees.” Although the coin itself is only pseudo-anonymous (like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a>), the development team has ported a wallet (Samourai) to give you full anonymity. Groestlcoin is strictly a cryptocurrency for peer-to-peer (p2p) payments. The coin serves the same end-goal as other transactional cryptos like Bitcoin and <a href=\"https://coingecko.com/en/coins/litecoin\">Litecoin</a> but accomplishes that goal with a different set of attributes.\r\n\r\nGroestlcoin accomplished a few significant “firsts” with its feature set. It was the first coin to implement Segregated Witness (SegWit) and the first to perform a Lightning Network transaction on mainnet. With the implementation of the Lightning Network, Groestlcoin has minimal fees. Transferring 10,000 GRS (~$6000 at the time of this writing) costs fractions of a fraction of a cent. Even if the GRS price rises 1000x, the transaction fee would be just a couple of pennies. Groestlcoin utilizes two rounds of Grøstl-512 for its mining algorithm. This mining algo is ASIC-resistant, for now.\r\n\r\nA developer going by the Bitcointalk username “Gruve_P” launched Groestlcoin on March 22, 2014. Since then, the team has grown to over 20 people spread all around the world. Most team members prefer to stay relatively anonymous, only sharing their first name and country of origin on the website. The team has been consistent in releasing new versions of the platform every three months. With such consistency, it shouldn’t shock you to hear all that they’ve accomplished in the last four years. The team activated SegWit in January 2017 and is currently working on Lightning Network releases for both their mobile and desktop wallets. The team and community have also built eleven different Android wallets, ten different wallets for Blackberry, and three for iOS. They’ve created more than ten desktop wallets as well.\r\n\r\nGRS has recently seen a rise in popularity, with most CPU and GPU miners moving away from networks like BTC, where ASIC miners have completely saturated the mining pool. With its robust features, focus on privacy, and innovative technology, GRS is a very lucrative choice for these miners, and has the possibility to be the next big coin that hits the market. While investing in any cryptocurrency is subject to their inherent volatile nature, the immense market potential of Groestlcoin, along with its pioneering technology and dedicated development team, make it a very strong consideration for investment.",
     total_supply: 105000000,
     circulating_supply: 72445593.8873662,
     websites: [
-      "http://www.groestlcoin.com/",
+      "https://groestlcoin.com",
     ],
     explorers: [
-      "https://chainz.cryptoid.info/grs/",
-      "https://grsblocks.com/",
+      "https://chainz.cryptoid.info/grs",
+      "https://grsblocks.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=525926",
-    facebook: "GroestlCoinGRS",
+    facebook: "https://facebook.com/GroestlCoinGRS",
     twitter: "https://twitter.com/GroestlcoinTeam",
-    reddit: "https://www.reddit.com/r/groestlcoin",
+    reddit: "https://reddit.com/r/groestlcoin",
     repository: "https://github.com/GroestlCoin/GroestlCoin",
   },
   commercium: {
@@ -3176,10 +3176,10 @@ const coininfo = {
     total_supply: 58000000,
     circulating_supply: 0,
     websites: [
-      "https://www.commercium.net/",
+      "https://commercium.net",
     ],
     explorers: [
-      "https://explorer.commercium.net/",
+      "https://explorer.commercium.net",
     ],
     medium: "",
     discord: "",
@@ -3195,18 +3195,18 @@ const coininfo = {
     total_supply: 30886000,
     circulating_supply: 30886000,
     websites: [
-      "https://bithereum.network/",
+      "https://bithereum.network",
     ],
     explorers: [
-      "http://explorer.bithereum.network",
+      "https://explorer.bithereum.network",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/BithereumNetwork",
     bitcointalk: "https://bitcointalk.org/index.php?topic=4738533",
-    facebook: "BithereumBTH",
+    facebook: "https://facebook.com/BithereumBTH",
     twitter: "https://twitter.com/BithereumBTH",
-    reddit: "https://www.reddit.com/r/Bithereum/",
+    reddit: "https://reddit.com/r/Bithereum",
     repository: "https://github.com/BTHPOS/BTH",
   },
   genesis: {
@@ -3214,10 +3214,10 @@ const coininfo = {
     total_supply: 4127721000,
     circulating_supply: 233692749,
     websites: [
-      "https://genesisnetwork.io/",
+      "https://genesisnetwork.io",
     ],
     explorers: [
-      "https://explorer.genesisnetwork.io/",
+      "https://explorer.genesisnetwork.io",
     ],
     medium: "",
     discord: "",
@@ -3225,7 +3225,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=4882443",
     facebook: "",
     twitter: "https://twitter.com/genx_network",
-    reddit: "https://www.reddit.com/r/genesisnetwork/",
+    reddit: "https://reddit.com/r/genesisnetwork",
     repository: "https://github.com/genesisofficial/genesis",
   },
   axe: {
@@ -3233,11 +3233,11 @@ const coininfo = {
     total_supply: 21000000,
     circulating_supply: 4763453,
     websites: [
-      "https://axerunners.com/",
+      "https://axerunners.com",
     ],
     explorers: [
-      "https://insight.axecore.net/",
-      "https://explorer.axe.zelcore.io/",
+      "https://insight.axecore.net",
+      "https://explorer.axe.zelcore.io",
     ],
     medium: "",
     discord: "",
@@ -3245,7 +3245,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2569112",
     facebook: "",
     twitter: "https://twitter.com/axerunners",
-    reddit: "https://www.reddit.com/r/AXErunners",
+    reddit: "https://reddit.com/r/AXErunners",
     repository: "https://github.com/AXErunners",
   },
   unussedleo: {
@@ -3253,7 +3253,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 660000000,
     websites: [
-      "https://www.bitfinex.com/",
+      "https://bitfinex.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
@@ -3263,7 +3263,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/bfxtelegram",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/bitfinex1",
+    facebook: "https://facebook.com/bitfinex1",
     twitter: "https://twitter.com/bitfinex",
     reddit: "",
     repository: "",
@@ -3273,11 +3273,11 @@ const coininfo = {
     total_supply: 210000000,
     circulating_supply: 61640450,
     websites: [
-      "https://zel.network/",
+      "https://zel.network",
     ],
     explorers: [
-      "https://explorer.zel.cash/",
-      "https://explorer.zel.zelcore.io/",
+      "https://explorer.zel.cash",
+      "https://explorer.zel.zelcore.io",
     ],
     medium: "",
     discord: "",
@@ -3285,7 +3285,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2853688",
     facebook: "",
     twitter: "https://twitter.com/Zelcash",
-    reddit: "https://www.reddit.com/r/zelcash",
+    reddit: "https://reddit.com/r/zelcash",
     repository: "https://github.com/zelcash/zelcash",
   },
   testnet: {
@@ -3293,11 +3293,11 @@ const coininfo = {
     total_supply: 210000000,
     circulating_supply: 61640450,
     websites: [
-      "https://zel.network/",
+      "https://zel.network",
     ],
     explorers: [
-      "https://explorer.zel.cash/",
-      "https://explorer.zel.zelcore.io/",
+      "https://explorer.zel.cash",
+      "https://explorer.zel.zelcore.io",
     ],
     medium: "",
     discord: "",
@@ -3305,7 +3305,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=2853688",
     facebook: "",
     twitter: "https://twitter.com/Zelcash",
-    reddit: "https://www.reddit.com/r/zelcash",
+    reddit: "https://reddit.com/r/zelcash",
     repository: "https://github.com/zelcash/zelcash",
   },
   beaxy: {
@@ -3313,7 +3313,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 500000000,
     websites: [
-      "https://www.beaxy.com/",
+      "https://beaxy.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86",
@@ -3324,9 +3324,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/Beaxy",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2912122.0",
-    facebook: "https://www.facebook.com/beaxyexchange/",
+    facebook: "https://facebook.com/beaxyexchange",
     twitter: "https://twitter.com/BeaxyExchange",
-    reddit: "https://www.reddit.com/r/BeaxyExchange/",
+    reddit: "https://reddit.com/r/BeaxyExchange",
     repository: "",
   },
   stableusd: {
@@ -3334,7 +3334,7 @@ const coininfo = {
     total_supply: 5742204,
     circulating_supply: 5742204,
     websites: [
-      "http://www.stably.io/",
+      "https://stably.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
@@ -3345,7 +3345,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/stablycoin",
+    facebook: "https://facebook.com/stablycoin",
     twitter: "https://twitter.com/StablyCoin",
     reddit: "",
     repository: "",
@@ -3355,7 +3355,7 @@ const coininfo = {
     total_supply: 965389,
     circulating_supply: 965389,
     websites: [
-      "http://www.nuketoken.com/",
+      "https://nuketoken.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
@@ -3367,20 +3367,20 @@ const coininfo = {
     telegram: "https://t.me/joinchat/AAAAAFRkqWjAFv-iFvtomQ",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/NukeToken/",
+    twitter: "https://twitter.com/NukeToken",
     reddit: "",
     repository: "",
   },
   dogecoin: {
     description: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
-    total_supply: "",
+    total_supply: null,
     circulating_supply: 120080274518,
     websites: [
-      "https://dogecoin.com/",
+      "https://dogecoin.com",
     ],
     explorers: [
-      "https://dogechain.info/",
-      "https://live.blockcypher.com/doge/",
+      "https://dogechain.info",
+      "https://live.blockcypher.com/doge",
       "https://dogechain.info/chain/Dogecoin",
     ],
     medium: "",
@@ -3388,8 +3388,8 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/dogecoin/",
-    reddit: "http://www.reddit.com/r/dogecoin",
+    twitter: "https://twitter.com/dogecoin",
+    reddit: "https://reddit.com/r/dogecoin",
     repository: "https://github.com/dogecoin/dogecoin",
   },
   bittorrent: {
@@ -3397,20 +3397,20 @@ const coininfo = {
     total_supply: 99000000000,
     circulating_supply: 212116500000,
     websites: [
-      "https://www.bittorrent.com",
+      "https://bittorrent.com",
     ],
     explorers: [
-      "https://tronscan.org/",
-      "https://www.trxplorer.io/",
-      "https://trx.tokenview.com/",
+      "https://tronscan.org",
+      "https://trxplorer.io",
+      "https://trx.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "tronfoundation",
+    facebook: "https://facebook.com/tronfoundation",
     twitter: "https://twitter.com/bittorrent",
-    reddit: "https://www.reddit.com/r/Bittorrent/",
+    reddit: "https://reddit.com/r/Bittorrent",
     repository: "https://github.com/bittorrent",
   },
   digibyte: {
@@ -3418,20 +3418,20 @@ const coininfo = {
     total_supply: 21000000000,
     circulating_supply: 11959860275,
     websites: [
-      "https://www.digibyte.io",
+      "https://digibyte.io",
     ],
     explorers: [
-      "https://digiexplorer.info/",
-      "https://chainz.cryptoid.info/dgb/",
-      "https://digibyteblockexplorer.com/",
+      "https://digiexplorer.info",
+      "https://chainz.cryptoid.info/dgb",
+      "https://digibyteblockexplorer.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/DigiByteCoin/",
-    reddit: "https://www.reddit.com/r/Digibyte",
+    twitter: "https://twitter.com/DigiByteCoin",
+    reddit: "https://reddit.com/r/Digibyte",
     repository: "https://github.com/digibyte-core",
   },
   bzedge: {
@@ -3439,10 +3439,10 @@ const coininfo = {
     total_supply: 3030000000,
     circulating_supply: 2985853568,
     websites: [
-      "https://getbze.com/",
+      "https://getbze.com",
     ],
     explorers: [
-      "https://explorer.getbze.com/",
+      "https://explorer.getbze.com",
     ],
     medium: "",
     discord: "",
@@ -3450,7 +3450,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=5030236",
     facebook: "",
     twitter: "https://twitter.com/BZEdgeCoin",
-    reddit: "https://www.reddit.com/user/BZEdge",
+    reddit: "https://reddit.com/user/BZEdge",
     repository: "https://github.com/bze-alphateam/bzedge",
   },
   sinovate: {
@@ -3458,18 +3458,18 @@ const coininfo = {
     total_supply: 1186614344,
     circulating_supply: 503123490,
     websites: [
-      "https://sinovate.io/",
+      "https://sinovate.io",
     ],
     explorers: [
-      "http://explorer.sinovate.io/",
-      "http://sin.ccore.online/orphan",
+      "https://explorer.sinovate.io",
+      "https://sin.ccore.online/orphan",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/SinovateChain/",
+    twitter: "https://twitter.com/SinovateChain",
     reddit: "",
     repository: "https://github.com/SINOVATEblockchain",
   },
@@ -3478,20 +3478,20 @@ const coininfo = {
     total_supply: 105142706350,
     circulating_supply: 19425874842,
     websites: [
-      "https://www.stellar.org/",
+      "https://stellar.org",
     ],
     explorers: [
-      "https://dashboard.stellar.org/",
-      "https://stellar.expert/explorer/public/",
-      "https://steexp.com/",
-      "https://stellarscan.io/",
+      "https://dashboard.stellar.org",
+      "https://stellar.expert/explorer/public",
+      "https://steexp.com",
+      "https://stellarscan.io",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/stellarorg/",
+    twitter: "https://twitter.com/stellarorg",
     reddit: "",
     repository: "https://github.com/stellar",
   },
@@ -3500,7 +3500,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xb2d25d27f3f8f2265bedc400f00dac8b7521106a",
@@ -3512,7 +3512,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3521,7 +3521,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xed1a361830628c87ca3e283450101b833ae26114",
@@ -3533,7 +3533,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3542,7 +3542,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x0bd0e8e9ce51945e3295f12a344ccaf6893f43f9",
@@ -3554,7 +3554,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3563,7 +3563,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x1388f1635aed7fc09526bd66f317e88aea888dd5",
@@ -3575,7 +3575,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3584,7 +3584,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xa33d3b1bc1bf9fd9987c9e3f5e81722e12767a72",
@@ -3596,7 +3596,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3605,7 +3605,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://merchcoins.com/",
+      "https://merchcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x1675c092306d147d65ee81976d5d3bec99a3bb91",
@@ -3617,7 +3617,7 @@ const coininfo = {
     telegram: "",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/merchcoins/",
+    twitter: "https://twitter.com/merchcoins",
     reddit: "",
     repository: "",
   },
@@ -3626,10 +3626,10 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 533255142,
     websites: [
-      "https://ont.io/",
+      "https://ont.io",
     ],
     explorers: [
-      "https://explorer.ont.io/",
+      "https://explorer.ont.io",
     ],
     medium: "",
     discord: "",
@@ -3645,10 +3645,10 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: "",
     websites: [
-      "https://ont.io/",
+      "https://ont.io",
     ],
     explorers: [
-      "https://explorer.ont.io/",
+      "https://explorer.ont.io",
     ],
     medium: "",
     discord: "",
@@ -3664,7 +3664,7 @@ const coininfo = {
     total_supply: 60000000,
     circulating_supply: 60000000,
     websites: [
-      "https://dmme.app//",
+      "https://dmme.app/",
     ],
     explorers: [
       "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
@@ -3685,7 +3685,7 @@ const coininfo = {
     total_supply: 2100000000,
     circulating_supply: 364696339,
     websites: [
-      "https://www.veriblock.org/",
+      "https://veriblock.org",
     ],
     explorers: [
       "https://explore.veriblock.org",
@@ -3704,7 +3704,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 241284047,
     websites: [
-      "https://www.hbg.com/",
+      "https://hbg.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
@@ -3725,7 +3725,7 @@ const coininfo = {
     total_supply: 917036462,
     circulating_supply: 917036462,
     websites: [
-      "https://www.paxos.com/busd/",
+      "https://paxos.com/busd",
     ],
     explorers: [
       "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
@@ -3737,9 +3737,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "binanceexchange",
+    facebook: "https://facebook.com/binanceexchange",
     twitter: "https://twitter.com/binance",
-    reddit: "https://www.reddit.com/r/binance",
+    reddit: "https://reddit.com/r/binance",
     repository: "https://github.com/paxosglobal/busd-contract",
   },
   okb: {
@@ -3747,7 +3747,7 @@ const coininfo = {
     total_supply: 300000000,
     circulating_supply: 20000000,
     websites: [
-      "https://www.okex.com/",
+      "https://okex.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
@@ -3758,9 +3758,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/OKExchinesegroup",
     bitcointalk: "",
-    facebook: "OKExOfficial",
+    facebook: "https://facebook.com/OKExOfficial",
     twitter: "https://twitter.com/OKEx",
-    reddit: "https://www.reddit.com/r/OKEx/",
+    reddit: "https://reddit.com/r/OKEx",
     repository: "",
   },
   bitforextoken: {
@@ -3768,7 +3768,7 @@ const coininfo = {
     total_supply: 10000000000,
     circulating_supply: 4251590766,
     websites: [
-      "https://www.bitforex.com/",
+      "https://bitforex.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
@@ -3779,7 +3779,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/BitForexEnglish",
     bitcointalk: "",
-    facebook: "bitforexcom",
+    facebook: "https://facebook.com/bitforexcom",
     twitter: "https://twitter.com/bitforexcom",
     reddit: "",
     repository: "",
@@ -3789,7 +3789,7 @@ const coininfo = {
     total_supply: 948208804,
     circulating_supply: 221954841,
     websites: [
-      "https://www.mxc.com/",
+      "https://mxc.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
@@ -3800,9 +3800,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/MXCEnglish",
     bitcointalk: "",
-    facebook: "mxcexchangeofficial",
+    facebook: "https://facebook.com/mxcexchangeofficial",
     twitter: "https://twitter.com/MXC_Exchange",
-    reddit: "https://www.reddit.com/user/MXC_Exchange",
+    reddit: "https://reddit.com/user/MXC_Exchange",
     repository: "",
   },
   zbtoken: {
@@ -3810,7 +3810,7 @@ const coininfo = {
     total_supply: 2100000000,
     circulating_supply: 463288810,
     websites: [
-      "https://www.zb.com/",
+      "https://zb.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
@@ -3821,9 +3821,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/ZB_English",
     bitcointalk: "",
-    facebook: "ZBGlobalGroup",
+    facebook: "https://facebook.com/ZBGlobalGroup",
     twitter: "https://twitter.com/Zb_group",
-    reddit: "https://www.reddit.com/r/ZBExchange",
+    reddit: "https://reddit.com/r/ZBExchange",
     repository: "",
   },
   hotbittoken: {
@@ -3831,7 +3831,7 @@ const coininfo = {
     total_supply: 2500000000,
     circulating_supply: 221954841,
     websites: [
-      "https://www.hotbit.io/",
+      "https://hotbit.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
@@ -3842,7 +3842,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/Hotbit_English",
     bitcointalk: "",
-    facebook: "Hotbit.io",
+    facebook: "https://facebook.com/Hotbit.io",
     twitter: "https://twitter.com/Hotbit_news",
     reddit: "",
     repository: "",
@@ -3852,7 +3852,7 @@ const coininfo = {
     total_supply: 9929432936,
     circulating_supply: 5076332936,
     websites: [
-      "https://www.huobipool.com/",
+      "https://huobipool.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xa66daa57432024023db65477ba87d4e7f5f95213",
@@ -3863,7 +3863,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
     bitcointalk: "",
-    facebook: "100024349513191",
+    facebook: "https://facebook.com/100024349513191",
     twitter: "https://twitter.com/HuobiGlobal",
     reddit: "",
     repository: "",
@@ -3873,7 +3873,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 35341279386,
     websites: [
-      "https://www.golfcoin.cc/",
+      "https://golfcoin.cc",
     ],
     explorers: [
       "https://etherscan.io/token/0x020c710646e23ab868dbe5b88004892797fe4efb",
@@ -3884,7 +3884,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.co/t8RuUg5XMf",
     bitcointalk: "",
-    facebook: "golfcoin",
+    facebook: "https://facebook.com/golfcoin",
     twitter: "https://twitter.com/golfcoin",
     reddit: "",
     repository: "",
@@ -3894,7 +3894,7 @@ const coininfo = {
     total_supply: 12688056.75,
     circulating_supply: 12688056.75,
     websites: [
-      "https://enecuum.com/",
+      "https://enecuum.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x16ea01acb4b0bca2000ee5473348b6937ee6f72f",
@@ -3905,7 +3905,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/Enecuum_EN",
     bitcointalk: "",
-    facebook: "enecuum.EN",
+    facebook: "https://facebook.com/enecuum.EN",
     twitter: "https://twitter.com/enq_enecuum",
     reddit: "",
     repository: "",
@@ -3915,7 +3915,7 @@ const coininfo = {
     total_supply: 2114495158.589,
     circulating_supply: 2114495158.589,
     websites: [
-      "https://fantom.foundation/en/",
+      "https://fantom.foundation/en",
     ],
     explorers: [
       "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
@@ -3936,7 +3936,7 @@ const coininfo = {
     total_supply: 20999983.69,
     circulating_supply: 20999983.69,
     websites: [
-      "https://0xbitcoin.org/",
+      "https://0xbitcoin.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
@@ -3957,7 +3957,7 @@ const coininfo = {
     total_supply: 24000000000000,
     circulating_supply: 24000000000000,
     websites: [
-      "https://vaylatoken.nl/",
+      "https://vaylatoken.nl",
     ],
     explorers: [
       "https://etherscan.io/token/0x7b53b2c4b2f495d843a4e92e5c5511034d32bd15",
@@ -3966,7 +3966,7 @@ const coininfo = {
     ],
     medium: "",
     discord: "",
-    telegram: "http://t.me/VAYLAtoken",
+    telegram: "https://t.me/VAYLAtoken",
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/VAYLAtoken",
@@ -3978,7 +3978,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 35341279386,
     websites: [
-      "https://www.aergo.io/",
+      "https://aergo.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xae31b85bfe62747d0836b82608b4830361a3d37a",
@@ -3999,7 +3999,7 @@ const coininfo = {
     total_supply: 210000000,
     circulating_supply: 210000000,
     websites: [
-      "https://www.lunchmoney.io/",
+      "https://lunchmoney.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
@@ -4010,7 +4010,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/lunchmoney",
     bitcointalk: "",
-    facebook: "LunchMoneyToken",
+    facebook: "https://facebook.com/LunchMoneyToken",
     twitter: "https://twitter.com/LunchToken",
     reddit: "",
     repository: "",
@@ -4020,10 +4020,10 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 100000,
     websites: [
-      "https://www.kadena.io/",
+      "https://kadena.io",
     ],
     explorers: [
-      "https://explorer.chainweb.com/",
+      "https://explorer.chainweb.com",
     ],
     medium: "",
     discord: "",
@@ -4039,7 +4039,7 @@ const coininfo = {
     total_supply: 250000000000,
     circulating_supply: 250000000000,
     websites: [
-      "https://www.netkoin.com/",
+      "https://netkoin.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
@@ -4050,7 +4050,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/netkoindiscussion",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/Netkoin/",
+    facebook: "https://facebook.com/Netkoin",
     twitter: "https://twitter.com/netkoin",
     reddit: "",
     repository: "",
@@ -4060,7 +4060,7 @@ const coininfo = {
     total_supply: 100000000,
     circulating_supply: 100000000,
     websites: [
-      "https://gammaproject.xyz/",
+      "https://gammaproject.xyz",
     ],
     explorers: [
       "https://etherscan.io/token/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
@@ -4081,7 +4081,7 @@ const coininfo = {
     total_supply: 2500000,
     circulating_supply: 2500000,
     websites: [
-      "https://baztoken.io/",
+      "https://baztoken.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x83caeecace9ec5c322c93743b2b370ed58951f5c",
@@ -4092,7 +4092,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/bazookians",
     bitcointalk: "",
-    facebook: "baztoken",
+    facebook: "https://facebook.com/baztoken",
     twitter: "https://twitter.com/BazToken",
     reddit: "",
     repository: "",
@@ -4102,7 +4102,7 @@ const coininfo = {
     total_supply: 888888888888,
     circulating_supply: 888888888888,
     websites: [
-      "https://coinstoplatform.com/",
+      "https://coinstoplatform.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x2a469a22101f1f672b745d729d13ab8dbd203c9b",
@@ -4113,8 +4113,8 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/Coinstocommunity",
     bitcointalk: "",
-    facebook: "Coinsto-Global-101540888104170/",
-    twitter: "http://twitter.com/Coinstoglobal",
+    facebook: "https://facebook.com/Coinsto-Global-101540888104170",
+    twitter: "https://twitter.com/Coinstoglobal",
     reddit: "",
     repository: "",
   },
@@ -4123,7 +4123,7 @@ const coininfo = {
     total_supply: 150000000,
     circulating_supply: 150000000,
     websites: [
-      "https://unibright.io/",
+      "https://unibright.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
@@ -4134,7 +4134,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/unibright_io",
     bitcointalk: "",
-    facebook: "Unibright.IO",
+    facebook: "https://facebook.com/Unibright.IO",
     twitter: "https://twitter.com/unibrightio",
     reddit: "",
     repository: "",
@@ -4144,10 +4144,10 @@ const coininfo = {
     total_supply: 2500000000,
     circulating_supply: 477674987,
     websites: [
-      "https://ilcoincrypto.com/",
+      "https://ilcoincrypto.com",
     ],
     explorers: [
-      "https://ilcoinexplorer.com/",
+      "https://ilcoinexplorer.com",
     ],
     medium: "",
     discord: "",
@@ -4163,7 +4163,7 @@ const coininfo = {
     total_supply: 204346758377,
     circulating_supply: 200859264423,
     websites: [
-      "https://hex.win/",
+      "https://hex.win",
     ],
     explorers: [
       "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
@@ -4173,9 +4173,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/HEXcrypto",
     bitcointalk: "https://bitcointalk.org/index.php?topic=4523610.0",
-    facebook: "HEXcrypto",
+    facebook: "https://facebook.com/HEXcrypto",
     twitter: "https://twitter.com/HEXcrypto",
-    reddit: "https://www.reddit.com/r/HEXcrypto/",
+    reddit: "https://reddit.com/r/HEXcrypto",
     repository: "https://github.com/HexCommunity",
   },
   comp: {
@@ -4183,7 +4183,7 @@ const coininfo = {
     total_supply: 10000000,
     circulating_supply: 10000000,
     websites: [
-      "https://compound.finance/",
+      "https://compound.finance",
     ],
     explorers: [
       "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888",
@@ -4203,7 +4203,7 @@ const coininfo = {
     total_supply: 57698564,
     circulating_supply: 57698564,
     websites: [
-      "https://about.v-id.org/",
+      "https://about.v-id.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
@@ -4223,7 +4223,7 @@ const coininfo = {
     total_supply: 433494437,
     circulating_supply: 433494437,
     websites: [
-      "https://dragonchain.com/",
+      "https://dragonchain.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
@@ -4233,7 +4233,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/dragontalk",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2096284.0",
-    facebook: "Dragonchaingang",
+    facebook: "https://facebook.com/Dragonchaingang",
     twitter: "https://twitter.com/dragonchaingang",
     reddit: "",
     repository: "https://github.com/dragonchain/dragonchain",
@@ -4243,7 +4243,7 @@ const coininfo = {
     total_supply: 10000000,
     circulating_supply: 3808795,
     websites: [
-      "https://whale.me/",
+      "https://whale.me",
     ],
     explorers: [
       "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",
@@ -4263,7 +4263,7 @@ const coininfo = {
     total_supply: 21000000,
     circulating_supply: 28758.45326486,
     websites: [
-      "https://wbtc.network/",
+      "https://wbtc.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -4283,7 +4283,7 @@ const coininfo = {
     total_supply: 700000000,
     circulating_supply: 700000000,
     websites: [
-      "https://genesisnetwork.io/",
+      "https://genesisnetwork.io",
     ],
     explorers: [
       "https://tronscan.org/#/token20/TY7pG4ABFjRcnAHmJJc2xAaarGEU753LxG",
@@ -4294,7 +4294,7 @@ const coininfo = {
     bitcointalk: "https://bitcointalk.org/index.php?topic=4882443",
     facebook: "",
     twitter: "https://twitter.com/genx_network",
-    reddit: "https://www.reddit.com/r/genesisnetwork/",
+    reddit: "https://reddit.com/r/genesisnetwork",
     repository: "https://github.com/genesisofficial/genesis",
   },
   om: {
@@ -4302,7 +4302,7 @@ const coininfo = {
     total_supply: 888888888,
     circulating_supply: 219500000,
     websites: [
-      "https://mantradao.com/",
+      "https://mantradao.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
@@ -4313,32 +4313,32 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/MANTRADAO",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/mantradao/",
+    facebook: "https://facebook.com/mantradao",
     twitter: "https://twitter.com/mantradao?lang=en",
     reddit: "",
     repository: "https://github.com/MantraDAO",
   },
   testnetbitcoin: {
-    description: "This is Testnet of Bitcoin. Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://www.coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://www.coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://www.coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://www.coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
+    description: "This is Testnet of Bitcoin. Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.\r\n\r\nBitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority or banks.\r\n\r\nBitcoin is design to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=\"https://coingecko.com/en?hashing_algorithm=SHA-256\">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.\r\n\r\nBeing the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=\"https://coingecko.com/en/coins/litecoin\">Litecoin</a>, <a href=\"https://coingecko.com/en/coins/peercoin\">Peercoin</a>, <a href=\"https://coingecko.com/en/coins/primecoin\">Primecoin</a>, and so on.\r\n\r\nThe cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> which led to the development of other amazing projects such as <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a>, and even crypto-collectibles such as <a href=\"https://coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos\">CryptoKitties</a>.",
     total_supply: 21000000,
     circulating_supply: 17675337,
     websites: [
-      "http://www.bitcoin.org",
+      "https://bitcoin.org",
     ],
     explorers: [
       "https://blockchair.com/bitcoin/blocks",
-      "https://blockchain.info/",
-      "https://live.blockcypher.com/btc/",
-      "https://bitcoinblockexplorers.com/",
-      "https://btc.tokenview.com/",
+      "https://blockchain.info",
+      "https://live.blockcypher.com/btc",
+      "https://bitcoinblockexplorers.com",
+      "https://btc.tokenview.com",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "bitcoins",
+    facebook: "https://facebook.com/bitcoins",
     twitter: "https://twitter.com/btc",
-    reddit: "https://www.reddit.com/r/Bitcoin/",
+    reddit: "https://reddit.com/r/Bitcoin",
     repository: "https://github.com/bitcoin/bips",
   },
   coinartisttoken: {
@@ -4356,7 +4356,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/CoinAnnouncements",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2381017.0",
-    facebook: "https://www.facebook.com/coindefi/",
+    facebook: "https://facebook.com/coindefi",
     twitter: "https://twitter.com/coin_artist",
     reddit: "",
     repository: "",
@@ -4366,7 +4366,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 59761093,
     websites: [
-      "https://uniswap.org/",
+      "https://uniswap.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -4378,30 +4378,30 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/UniswapProtocol",
-    reddit: "https://www.reddit.com/r/UniSwap/",
+    reddit: "https://reddit.com/r/UniSwap",
     repository: "https://github.com/Uniswap",
   },
   testnetropstenethereum: {
-    description: "Ropsten is Ethereum Testnet that mimicks Ethereum Mainnet functionality and serves as developers playground to test all features without actually playing with valuable coins. Ethereum is a <a href=\"https://www.coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://www.coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://www.coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://www.coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://www.coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://www.coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://www.coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://www.coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://www.coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://www.coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
-    total_supply: "",
+    description: "Ropsten is Ethereum Testnet that mimicks Ethereum Mainnet functionality and serves as developers playground to test all features without actually playing with valuable coins. Ethereum is a <a href=\"https://coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
+    total_supply: null,
     circulating_supply: 105881890.4366,
     websites: [
-      "https://www.ethereum.org/",
+      "https://ethereum.org",
     ],
     explorers: [
-      "https://etherscan.io/",
-      "https://ethplorer.io/",
+      "https://etherscan.io",
+      "https://ethplorer.io",
       "https://blockchair.com/ethereum",
-      "https://blockscout.com/eth/mainnet/",
-      "https://enjinx.io/",
+      "https://blockscout.com/eth/mainnet",
+      "https://enjinx.io",
     ],
     medium: "",
     discord: "",
     telegram: "",
     bitcointalk: "https://bitcointalk.org/index.php?topic=428589",
-    facebook: "ethereumproject",
+    facebook: "https://facebook.com/ethereumproject",
     twitter: "https://twitter.com/ethereum",
-    reddit: "https://www.reddit.com/r/ethereum",
+    reddit: "https://reddit.com/r/ethereum",
     repository: "https://github.com/ethereum/go-ethereum",
   },
   jst: {
@@ -4409,12 +4409,12 @@ const coininfo = {
     total_supply: 9900000000,
     circulating_supply: 1433850000,
     websites: [
-      "https://www.just.network/#/",
+      "https://just.network/#",
     ],
     explorers: [
-      "https://tronscan.org/",
-      "https://www.trxplorer.io/",
-      "https://trx.tokenview.com/",
+      "https://tronscan.org",
+      "https://trxplorer.io",
+      "https://trx.tokenview.com",
     ],
     medium: "",
     discord: "",
@@ -4430,16 +4430,16 @@ const coininfo = {
     total_supply: 1500000000,
     circulating_supply: 980222595,
     websites: [
-      "https://www.beldex.io/",
+      "https://beldex.io",
     ],
     explorers: [
-      "https://explorer.beldex.io/",
+      "https://explorer.beldex.io",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/beldexcoin",
     bitcointalk: "https://bitcointalk.org/index.php?topic=5050775.0",
-    facebook: "https://www.facebook.com/1925045164460530",
+    facebook: "https://facebook.com/1925045164460530",
     twitter: "https://twitter.com/BeldexCoin",
     reddit: "",
     repository: "https://github.com/Beldex-Coin",
@@ -4449,7 +4449,7 @@ const coininfo = {
     total_supply: 100000,
     circulating_supply: 100000,
     websites: [
-      "https://www.toshimon.io/",
+      "https://toshimon.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xf136d7b0b7ae5b86d21e7b78dfa95375a7360f19",
@@ -4469,11 +4469,11 @@ const coininfo = {
     total_supply: 452552412,
     circulating_supply: 452552412,
     websites: [
-      "https://maidsafe.net/",
-      "https://safenetwork.tech/",
+      "https://maidsafe.net",
+      "https://safenetwork.tech",
     ],
     explorers: [
-      "https://www.omniexplorer.info/asset/3",
+      "https://omniexplorer.info/asset/3",
     ],
     medium: "",
     discord: "",
@@ -4489,7 +4489,7 @@ const coininfo = {
     total_supply: 21000000,
     circulating_supply: 9001,
     websites: [
-      "https://bitcoin.org/",
+      "https://bitcoin.org",
     ],
     explorers: [
       "https://explorer.binance.org/asset/BTCB-1DE",
@@ -4498,9 +4498,9 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "bitcoins",
+    facebook: "https://facebook.com/bitcoins",
     twitter: "https://twitter.com/btc",
-    reddit: "https://www.reddit.com/r/Bitcoin/",
+    reddit: "https://reddit.com/r/Bitcoin",
     repository: "https://github.com/bitcoin",
   },
   rune: {
@@ -4508,7 +4508,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 500000000,
     websites: [
-      "https://thorchain.org/",
+      "https://thorchain.org",
     ],
     explorers: [
       "https://explorer.binance.org/asset/RUNE-B1A",
@@ -4523,11 +4523,11 @@ const coininfo = {
     repository: "https://github.com/bitcoin",
   },
   usdttrc: {
-    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
     total_supply: 21483323926,
     circulating_supply: 20926936250,
     websites: [
-      "https://tether.to/",
+      "https://tether.to",
     ],
     explorers: [
       "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
@@ -4536,17 +4536,17 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "tether.to",
+    facebook: "https://facebook.com/tether.to",
     twitter: "https://twitter.com/Tether_to",
     reddit: "",
     repository: "",
   },
   trueusdbnb: {
-    description: "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds do not give access to the TrueUSD system.\r\n\r\nTrueUSD works with various trust companies which already manage around billions of dollars. Just pass an AML/KYC check, send USD to a trust company with an agreement of escrow. When the funds get verified, their API tells the smart contract of TUSD to mint an equal amount of TUSD to your public <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> address.\r\n\r\nThe USD funds are regularly verified in scheduled attestations by a very much trusted auditing firm. USD funds are kept safely in a third party account, that is escrow accounts, wherein TrustToken does not hold any direct access to the funds and cannot abscond with them even if they wish to. The token burning and minting system makes sure that every TUSD token is backed by 1 USD.\r\n\r\nA mandatory check of AML/KYC makes sure that TUSD keeps shady people away from the entire project. TUSD makes faster transactions in low transaction fees. Even though TUSD is a unique offering, it is most likely overshadowed by its bigger competitors - Tether. While TUSD arguably offers more security and features, it may be losing the marketing battle. This is not to say that the situation will remain the same. With more crypto investors joining the market every day, the good times for TUSD may be on their way.",
+    description: "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds do not give access to the TrueUSD system.\r\n\r\nTrueUSD works with various trust companies which already manage around billions of dollars. Just pass an AML/KYC check, send USD to a trust company with an agreement of escrow. When the funds get verified, their API tells the smart contract of TUSD to mint an equal amount of TUSD to your public <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> address.\r\n\r\nThe USD funds are regularly verified in scheduled attestations by a very much trusted auditing firm. USD funds are kept safely in a third party account, that is escrow accounts, wherein TrustToken does not hold any direct access to the funds and cannot abscond with them even if they wish to. The token burning and minting system makes sure that every TUSD token is backed by 1 USD.\r\n\r\nA mandatory check of AML/KYC makes sure that TUSD keeps shady people away from the entire project. TUSD makes faster transactions in low transaction fees. Even though TUSD is a unique offering, it is most likely overshadowed by its bigger competitors - Tether. While TUSD arguably offers more security and features, it may be losing the marketing battle. This is not to say that the situation will remain the same. With more crypto investors joining the market every day, the good times for TUSD may be on their way.",
     total_supply: 275031537,
     circulating_supply: 275031537,
     websites: [
-      "https://www.trusttoken.com/",
+      "https://trusttoken.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
@@ -4558,7 +4558,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "TrustToken",
+    facebook: "https://facebook.com/TrustToken",
     twitter: "https://twitter.com/TrustToken",
     reddit: "",
     repository: "https://github.com/trusttoken/trueUSD",
@@ -4568,7 +4568,7 @@ const coininfo = {
     total_supply: 917036462,
     circulating_supply: 917036462,
     websites: [
-      "https://www.paxos.com/busd/",
+      "https://paxos.com/busd",
     ],
     explorers: [
       "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
@@ -4582,7 +4582,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "binanceexchange",
     twitter: "https://twitter.com/binance",
-    reddit: "https://www.reddit.com/r/binance",
+    reddit: "https://reddit.com/r/binance",
     repository: "https://github.com/paxosglobal/busd-contract",
   },
   nexo: {
@@ -4590,7 +4590,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 560000011,
     websites: [
-      "http://nexo.io/",
+      "https://nexo.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
@@ -4605,14 +4605,14 @@ const coininfo = {
     facebook: "",
     twitter: "https://twitter.com/NexoFinance",
     reddit: "https://reddit.com/r/nexo",
-    repository: "https://github.com/nexofinance/NEXO-Token/",
+    repository: "https://github.com/nexofinance/NEXO-Token",
   },
   nexobnb: {
     description: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
     total_supply: 1000000000,
     circulating_supply: 560000011,
     websites: [
-      "http://nexo.io/",
+      "https://nexo.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
@@ -4627,14 +4627,14 @@ const coininfo = {
     facebook: "",
     twitter: "https://twitter.com/NexoFinance",
     reddit: "https://reddit.com/r/nexo",
-    repository: "https://github.com/nexofinance/NEXO-Token/",
+    repository: "https://github.com/nexofinance/NEXO-Token",
   },
   mcdai: {
     description: "Multi-Collateral Dai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Dai is worth $1, and will always be worth $1, regardless of how much Sai is in existence.",
     total_supply: 1181473596,
     circulating_supply: 1181473596,
     websites: [
-      "https://makerdao.com/",
+      "https://makerdao.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -4647,7 +4647,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/MakerDAO",
-    reddit: "https://www.reddit.com/r/MakerDAO",
+    reddit: "https://reddit.com/r/MakerDAO",
     repository: "https://github.com/makerdao/dai.js",
   },
   xdai: {
@@ -4655,7 +4655,7 @@ const coininfo = {
     total_supply: 8537500,
     circulating_supply: 3632755,
     websites: [
-      "https://www.xdaichain.com/",
+      "https://xdaichain.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6",
@@ -4676,8 +4676,8 @@ const coininfo = {
     total_supply: 85061485690,
     circulating_supply: 85061485690,
     websites: [
-      "https://revain.org/",
-      "https://company.revain.org/",
+      "https://revain.org",
+      "https://company.revain.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
@@ -4699,8 +4699,8 @@ const coininfo = {
     total_supply: 85061485690,
     circulating_supply: 85061485690,
     websites: [
-      "https://revain.org/",
-      "https://company.revain.org/",
+      "https://revain.org",
+      "https://company.revain.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
@@ -4722,8 +4722,8 @@ const coininfo = {
     total_supply: 16000000,
     circulating_supply: 12032097,
     websites: [
-      "https://aave.com/",
-      "https://ethlend.io/",
+      "https://aave.com",
+      "https://ethlend.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
@@ -4744,7 +4744,7 @@ const coininfo = {
     total_supply: 212424133,
     circulating_supply: 110519345,
     websites: [
-      "https://www.synthetix.io/",
+      "https://synthetix.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
@@ -4765,7 +4765,7 @@ const coininfo = {
     total_supply: 30000,
     circulating_supply: 29969,
     websites: [
-      "https://yearn.finance/",
+      "https://yearn.finance",
     ],
     explorers: [
       "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
@@ -4786,7 +4786,7 @@ const coininfo = {
     total_supply: 345219294,
     circulating_supply: 94346958,
     websites: [
-      "https://ftx.com/",
+      "https://ftx.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
@@ -4798,7 +4798,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/FTX_Official",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/ftx.official",
+    facebook: "https://facebook.com/ftx.official",
     twitter: "https://twitter.com/FTX_Official",
     reddit: "",
     repository: "",
@@ -4808,7 +4808,7 @@ const coininfo = {
     total_supply: 10000000000,
     circulating_supply: 1245666867,
     websites: [
-      "https://thegraph.com/",
+      "https://thegraph.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
@@ -4829,7 +4829,7 @@ const coininfo = {
     total_supply: 177965075,
     circulating_supply: 177965075,
     websites: [
-      "https://sushiswap.org/",
+      "https://sushiswap.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
@@ -4850,7 +4850,7 @@ const coininfo = {
     total_supply: 695658161,
     circulating_supply: 238863520,
     websites: [
-      "https://celsius.network/",
+      "https://celsius.network",
     ],
     explorers: [
       "https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
@@ -4861,7 +4861,7 @@ const coininfo = {
     discord: "",
     telegram: "",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/CelsiusNetwork/",
+    facebook: "https://facebook.com/CelsiusNetwork",
     twitter: "https://twitter.com/celsiusnetwork",
     reddit: "https://reddit.com/r/celsiusnetwork",
     repository: "https://github.com/CelsiusNetwork",
@@ -4871,7 +4871,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 22455707761,
     websites: [
-      "https://chain.crypto.com/",
+      "https://chain.crypto.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
@@ -4882,7 +4882,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/CryptoComOfficial",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/CryptoComOfficial",
+    facebook: "https://facebook.com/CryptoComOfficial",
     twitter: "https://twitter.com/cryptocom",
     reddit: "https://reddit.com/r/Crypto_com",
     repository: "",
@@ -4892,7 +4892,7 @@ const coininfo = {
     total_supply: 101172570,
     circulating_supply: 55506671,
     websites: [
-      "https://umaproject.org/",
+      "https://umaproject.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
@@ -4913,7 +4913,7 @@ const coininfo = {
     total_supply: 13698,
     circulating_supply: 13170,
     websites: [
-      "https://renproject.io/",
+      "https://renproject.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
@@ -4926,7 +4926,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/renprotocol",
-    reddit: "https://www.reddit.com/r/renproject",
+    reddit: "https://reddit.com/r/renproject",
     repository: "https://github.com/renproject",
   },
   chsb: {
@@ -4934,7 +4934,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 932687845,
     websites: [
-      "https://swissborg.com/",
+      "https://swissborg.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xba9d4199fab4f26efe3551d490e3821486f135ba",
@@ -4945,9 +4945,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/s/swissborg",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2161736.0",
-    facebook: "https://www.facebook.com/swissborg",
+    facebook: "https://facebook.com/swissborg",
     twitter: "https://twitter.com/swissborg",
-    reddit: "https://www.reddit.com/r/swissborg/",
+    reddit: "https://reddit.com/r/swissborg",
     repository: "https://github.com/SwissBorg",
   },
   ampl: {
@@ -4955,7 +4955,7 @@ const coininfo = {
     total_supply: 395345190,
     circulating_supply: 214830037,
     websites: [
-      "https://www.ampleforth.org/",
+      "https://ampleforth.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
@@ -4976,7 +4976,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 9349999000,
     websites: [
-      "https://reserve.org/",
+      "https://reserve.org",
     ],
     explorers: [
       "https://etherscan.io/token/0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
@@ -4997,7 +4997,7 @@ const coininfo = {
     total_supply: 181454069,
     circulating_supply: 181454069,
     websites: [
-      "https://terra.money/",
+      "https://terra.money",
     ],
     explorers: [
       "https://etherscan.io/token/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
@@ -5018,7 +5018,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 339231468,
     websites: [
-      "https://hedgetrade.com/",
+      "https://hedgetrade.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
@@ -5039,7 +5039,7 @@ const coininfo = {
     total_supply: 14612493,
     circulating_supply: 12072738,
     websites: [
-      "https://quant.network/",
+      "https://quant.network",
     ],
     explorers: [
       "https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675",
@@ -5060,7 +5060,7 @@ const coininfo = {
     total_supply: 1410000000,
     circulating_supply: 419026837,
     websites: [
-      "https://oceanprotocol.com/",
+      "https://oceanprotocol.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
@@ -5081,7 +5081,7 @@ const coininfo = {
     total_supply: 150083485,
     circulating_supply: 150083485,
     websites: [
-      "http://www.stcoins.com/",
+      "https://stcoins.com",
     ],
     explorers: [
       "https://etherscan.io/token/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
@@ -5102,7 +5102,7 @@ const coininfo = {
     total_supply: 2147483648,
     circulating_supply: 1060404496,
     websites: [
-      "http://www.cybervein.org/",
+      "https://cybervein.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772",
@@ -5123,7 +5123,7 @@ const coininfo = {
     total_supply: 6707047,
     circulating_supply: 5801350,
     websites: [
-      "https://nexusmutual.io/",
+      "https://nexusmutual.io",
     ],
     explorers: [
       "https://etherscan.io/token/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
@@ -5144,7 +5144,7 @@ const coininfo = {
     total_supply: 10000000,
     circulating_supply: 1504589,
     websites: [
-      "https://gnosis.io/",
+      "https://gnosis.io",
     ],
     explorers: [
       "https://etherscan.io/token/0x6810e776880c02933d47db1b9fc05908e5386b96",
@@ -5165,7 +5165,7 @@ const coininfo = {
     total_supply: 8888888888,
     circulating_supply: 5429628749,
     websites: [
-      "https://www.chiliz.com/",
+      "https://chiliz.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
@@ -5177,7 +5177,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/chiliz_io",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/chilizdotcom/",
+    facebook: "https://facebook.com/chilizdotcom",
     twitter: "https://twitter.com/chiliz",
     reddit: "",
     repository: "",
@@ -5187,7 +5187,7 @@ const coininfo = {
     total_supply: 8888888888,
     circulating_supply: 5429628749,
     websites: [
-      "https://www.chiliz.com/",
+      "https://chiliz.com",
     ],
     explorers: [
       "https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
@@ -5199,7 +5199,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/chiliz_io",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/chilizdotcom/",
+    facebook: "https://facebook.com/chilizdotcom",
     twitter: "https://twitter.com/chiliz",
     reddit: "",
     repository: "",
@@ -5228,7 +5228,7 @@ const coininfo = {
     total_supply: 15029714,
     circulating_supply: 15029714,
     websites: [
-      "https://just.network/",
+      "https://just.network",
     ],
     explorers: [
       "https://tronscan.org/#/token20/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
@@ -5241,6 +5241,48 @@ const coininfo = {
     twitter: "https://twitter.com/DeFi_JUST",
     reddit: "",
     repository: "",
+  },
+  dot: {
+    description: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+    total_supply: 1030631556,
+    circulating_supply: 896573054,
+    websites: [
+      "https://polkadot.network",
+    ],
+    explorers: [
+      "https://polkascan.io",
+      "https://polkadot.subscan.io",
+      "https://polkastats.io",
+    ],
+    medium: "https://medium.com/polkadot-network",
+    discord: "",
+    telegram: "https://t.me/PolkadotOfficial",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/Polkadot",
+    reddit: "https://reddit.com/r/dot",
+    repository: "https://github.com/paritytech",
+  },
+  testnetwnd: {
+    description: "Westend is a tesntet network of Polkadot, an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+    total_supply: 1030631556,
+    circulating_supply: 896573054,
+    websites: [
+      "https://polkadot.network",
+    ],
+    explorers: [
+      "https://polkascan.io",
+      "https://polkadot.subscan.io",
+      "https://polkastats.io",
+    ],
+    medium: "https://medium.com/polkadot-network",
+    discord: "",
+    telegram: "https://t.me/PolkadotOfficial",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/Polkadot",
+    reddit: "https://reddit.com/r/dot",
+    repository: "https://github.com/paritytech",
   },
 };
 

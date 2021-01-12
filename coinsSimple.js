@@ -526,7 +526,7 @@ const coins = {
   },
   binance: {
     coin: "binance",
-    name: "Binance",
+    name: "Binance ERC20",
     uri: [
       "binance",
       "bnb",
@@ -6265,7 +6265,7 @@ const coins = {
   },
   bnbbinance: {
     coin: "bnbbinance",
-    name: "BNB",
+    name: "BNB BEP2",
     uri: [
       "binancecoin",
       "binancechain",
@@ -6638,15 +6638,15 @@ const coins = {
     proxy: [
       "https://proxy.doge.zelcore.io/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
       "https://proxy.zel.network/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
-      "https://proxy.bth.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.genx.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.sin.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.bth.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.sin.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.bth.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.genx.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
-      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tls&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.bth.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
     ],
     pathunix: "dogecoin",
     path: "Dogecoin",
@@ -8533,7 +8533,7 @@ const coins = {
     addresses: [
     ],
     api: [
-      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x445f51299ef3307dbd75036dd896565f5b4bf7a5&address=",
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xfeF4185594457050cC9c23980d301908FE057Bb1&address=",
     ],
     unit: "VIDT",
     type: "eth",
@@ -8560,7 +8560,7 @@ const coins = {
       normal: 15,
       fast: 20,
     },
-    contractAddress: "0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
+    contractAddress: "0xfeF4185594457050cC9c23980d301908FE057Bb1",
     color: "#00c3d0",
     decimals: 18,
     backend: [
@@ -9841,7 +9841,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-    color: "#f14f9b",
+    color: "#402f9f",
     decimals: 18,
     backend: [
       "infura",
@@ -10447,7 +10447,7 @@ const coins = {
   },
   chzbnb: {
     coin: "chzbnb",
-    name: "Chiliz",
+    name: "Chiliz BEP2",
     uri: [
       "chiliz",
       "chz",
@@ -10475,7 +10475,7 @@ const coins = {
       normal: 1,
       fast: 2,
     },
-    color: "#f3ba2f",
+    color: "#20252e",
     decimals: 8,
     backend: [
       "bnb",
@@ -10484,7 +10484,7 @@ const coins = {
   },
   chz: {
     coin: "chz",
-    name: "Chiliz",
+    name: "Chiliz ERC20",
     uri: [
       "chiliz",
       "chz",
@@ -10519,7 +10519,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
-    color: "#FFCA26",
+    color: "#20252e",
     decimals: 18,
     backend: [
       "infura",
@@ -10527,7 +10527,7 @@ const coins = {
   },
   suntrc: {
     coin: "suntrc",
-    name: "sun",
+    name: "SUN",
     uri: [
       "sun",
     ],
@@ -10565,7 +10565,7 @@ const coins = {
   },
   usdjtrc: {
     coin: "usdjtrc",
-    name: "usdj",
+    name: "JUST Stablecoin",
     uri: [
       "usdj",
     ],
@@ -10603,9 +10603,10 @@ const coins = {
   },
   nxm: {
     coin: "nxm",
-    name: "NXM",
+    name: "Nexus Mutual",
     uri: [
       "nxm",
+      "nexusmutual",
     ],
     addresses: [],
     api: [
@@ -10637,10 +10638,86 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
-    color: "#FFCA26",
+    color: "#20252e",
     decimals: 18,
     backend: [
       "infura",
+    ],
+  },
+  dot: {
+    coin: "dot",
+    name: "Polkadot",
+    uri: [
+      "dot",
+      "polka",
+      "polkadot",
+    ],
+    addresses: [],
+    api: [
+      "https://polkadot.subscan.io/api/",
+    ],
+    unit: "DOT",
+    type: "substrate",
+    explorer: [
+      "https://polkadot.subscan.io/extrinsic/",
+    ],
+    logolink: "static/logos/DOT.svg",
+    node: [
+      "https://backend.dot.zelcore.io/",
+    ],
+    fee: 0.0154,
+    feepolicy: {
+      economy: 0, // this is fee + feepolicy (tip)
+      normal: 0.001, // this is fee + feepolicy (tip)
+      fast: 0.01, // this is fee + feepolicy (tip)
+    },
+    color: "#E6007A",
+    decimals: 10,
+    existentialDeposit: 1,
+    ss58prefix: 0,
+    genesisHash: "0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    chainName: "Polkadot",
+    specName: "polkadot",
+    backend: [
+      "substrate",
+    ],
+  },
+  testnetwnd: {
+    coin: "testnetwnd",
+    name: "Testnet Westend",
+    uri: [
+      "wnd",
+      "testnetwnd",
+      "westend",
+    ],
+    addresses: [],
+    api: [
+      "https://westend.subscan.io/api/",
+    ],
+    unit: "TESTWND",
+    type: "substrate",
+    explorer: [
+      "https://westend.subscan.io/extrinsic/",
+    ],
+    logolink: "static/logos/TESTWND.svg",
+    node: [
+      "https://backend.wnd.zelcore.io/",
+    ],
+    fee: 0.0154,
+    feepolicy: {
+      economy: 0, // this is fee + feepolicy (tip)
+      normal: 0.001, // this is fee + feepolicy (tip)
+      fast: 0.01, // this is fee + feepolicy (tip)
+    },
+    color: "#e6007a",
+    decimals: 12,
+    existentialDeposit: 0.01,
+    ss58prefix: 42,
+    genesisHash: "0xe143f23803ac50e8f6f8e62695d1ce9e4e1d68aa36c1cd2cfd15340213f3423e",
+    chainName: "Westend",
+    specName: "westend",
+    backend: [
+      "substrate",
     ],
   },
 };

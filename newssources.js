@@ -2603,6 +2603,52 @@ const newssources = {
         pic: "static/logos/USDJ.svg",
       },
     ],
+    dot: [
+      {
+        name: "Polkadot Twitter",
+        feed: "https://nitter.net/Polkadot/rss",
+        site: "https://twitter.com/Polkadot",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/DOT.svg",
+      },
+      {
+        name: "Polkadot Reddit",
+        feed: "https://www.reddit.com/r/dot/.rss",
+        site: "https://www.reddit.com/r/dot/",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/DOT.svg",
+      },
+      {
+        name: "Polkadot Medium",
+        feed: "https://medium.com/feed/polkadot-network",
+        site: "https://medium.com/polkadot-network",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/DOT.svg",
+      },
+    ],
+    testnetwnd: [
+      {
+        name: "Polkadot Twitter",
+        feed: "https://nitter.net/Polkadot/rss",
+        site: "https://twitter.com/Polkadot",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/TESTWND.svg",
+      },
+      {
+        name: "Polkadot Reddit",
+        feed: "https://www.reddit.com/r/dot/.rss",
+        site: "https://www.reddit.com/r/dot/",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/TESTWND.svg",
+      },
+      {
+        name: "Polkadot Medium",
+        feed: "https://medium.com/feed/polkadot-network",
+        site: "https://medium.com/polkadot-network",
+        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
+        pic: "static/logos/TESTWND.svg",
+      },
+    ],
   },
 };
 
