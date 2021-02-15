@@ -17,10 +17,10 @@ const coins = {
     addresses: [],
     api: [
       "https://explorer.zel.zelcore.io/api/",
-      "https://explorer.zel.cash/api/",
-      "https://explorer2.zel.cash/api/",
+      "https://explorer.zel.network/api/",
+      "https://explorer2.zel.network/api/",
       "https://explorer.zelcash.online/api/",
-      "https://explorer-asia.zel.cash/api/",
+      "https://explorer-asia.zel.network/api/",
     ],
     pathunix: "zelcash",
     path: "Zelcash",
@@ -31,17 +31,17 @@ const coins = {
     type: "zcash",
     explorer: [
       "https://explorer.zel.zelcore.io/tx/",
-      "https://explorer.zel.cash/tx/",
-      "https://explorer2.zel.cash/tx/",
+      "https://explorer.zel.network/tx/",
+      "https://explorer2.zel.network/tx/",
       "https://explorer.zelcash.online/tx/",
-      "https://explorer-asia.zel.cash/tx/",
+      "https://explorer-asia.zel.network/tx/",
       "https://blockbook.zel.network/tx/",
     ],
     logolink: "static/logos/ZEL.svg",
     node: [
       "explorer.zel.zelcore.io",
-      "explorer.zel.cash",
-      "explorer2.zel.cash",
+      "explorer.zel.network",
+      "explorer2.zel.network",
       "explorer.zelcash.online",
       "blockbook.zel.network",
     ],
@@ -1556,16 +1556,12 @@ const coins = {
     normalAddressB: "1",
     scriptAddressB: "3",
     wif: "80",
-    slip: 0,
+    slip: 200,
     addresses: [],
     api: [
       "https://api.omniexplorer.info",
     ],
-    pathunix: "usdt",
-    path: "usdt",
     unit: "USDT",
-    config: "usdt",
-    rpcport: 8332,
     type: "omni",
     explorer: [
       "https://omniexplorer.info/tx/",
@@ -1576,9 +1572,9 @@ const coins = {
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 7,
-      normal: 15,
-      fast: 30,
+      economy: 22,
+      normal: 30,
+      fast: 55,
     },
     color: "#26a17a",
     backend: [
@@ -4011,7 +4007,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#1ea1ef",
     backend: [
@@ -4152,7 +4148,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#F8C545",
     backend: [
@@ -4703,7 +4699,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#0e98be",
     backend: [
@@ -6212,7 +6208,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#000000",
     backend: [
@@ -6637,16 +6633,15 @@ const coins = {
     ],
     proxy: [
       "https://proxy.doge.zelcore.io/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
-      "https://proxy.zel.network/?server=127.0.0.1&port=55002&contype=tls&coin=dogecoin&call=",
       "https://proxy.bth.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
+      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.genx.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.sin.zelcore.io/?server=electrum3.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.bth.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
-      "https://proxy.genx.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.sin.zelcore.io/?server=electrum2.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.bth.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
       "https://proxy.genx.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
-      "https://proxy.sin.zelcore.io/?server=electrum1.cipig.net&port=10060&contype=tcp&coin=dogecoin&call=",
     ],
     pathunix: "dogecoin",
     path: "Dogecoin",
@@ -6732,7 +6727,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#002352",
     backend: [
@@ -6974,11 +6969,11 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0,
+    fee: 0.01,
     feepolicy: {
-      economy: 5,
+      economy: 0,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#eb0029",
     backend: [
@@ -7016,11 +7011,11 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0,
+    fee: 0.01,
     feepolicy: {
-      economy: 5,
+      economy: 0,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#e81a4c",
     backend: [
@@ -8122,15 +8117,10 @@ const coins = {
     logolink: "static/logos/KDA.svg",
     node: [
       "us-e1.chainweb.com",
-      "us-e2.chainweb.com",
-      "us-e3.chainweb.com",
+      "api.chainweb.com",
       "us-w1.chainweb.com",
-      "us-w2.chainweb.com",
-      "us-w3.chainweb.com",
       "jp1.chainweb.com",
-      "jp2.chainweb.com",
       "fr1.chainweb.com",
-      "fr2.chainweb.com",
     ],
     fee: 600,
     feepolicy: {
@@ -8142,6 +8132,7 @@ const coins = {
     backend: [
       "kadena",
     ],
+    chain: "mainnet01",
   },
   netkoin: {
     coin: "netkoin",
@@ -8729,7 +8720,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#324857",
     backend: [
@@ -9002,7 +8993,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#b0170d",
     backend: [
@@ -9065,6 +9056,7 @@ const coins = {
     unit: "RVN/NAHAN",
     logolink: "static/logos/RVNNAHAN.svg",
     color: "#f05239",
+    assetname: "NAHAN",
   },
   toshi: {
     coin: "toshi",
@@ -9122,16 +9114,12 @@ const coins = {
     normalAddressB: "1",
     scriptAddressB: "3",
     wif: "80",
-    slip: 0,
+    slip: 200,
     addresses: [],
     api: [
       "https://api.omniexplorer.info",
     ],
-    pathunix: "maid",
-    path: "maid",
     unit: "MAID",
-    config: "maid",
-    rpcport: 8332,
     type: "omni",
     explorer: [
       "https://omniexplorer.info/tx/",
@@ -9142,9 +9130,9 @@ const coins = {
     ],
     fee: 0.0000226,
     feepolicy: {
-      economy: 7,
-      normal: 15,
-      fast: 30,
+      economy: 22,
+      normal: 30,
+      fast: 55,
     },
     color: "#333333",
     backend: [
@@ -9261,7 +9249,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#26a17a",
     backend: [
@@ -9580,7 +9568,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#ffffff",
     backend: [
@@ -10556,7 +10544,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#ffd609",
     backend: [
@@ -10594,7 +10582,7 @@ const coins = {
     feepolicy: {
       economy: 5,
       normal: 10,
-      fast: 20,
+      fast: 100,
     },
     color: "#b0170d",
     backend: [
@@ -10718,6 +10706,142 @@ const coins = {
     specName: "westend",
     backend: [
       "substrate",
+    ],
+  },
+  testnetkadena: {
+    coin: "testnetkadena",
+    name: "Testnet Kadena",
+    uri: [
+      "testnetkadena",
+      "testkda",
+    ],
+    slip: 1024,
+    wif: "80",
+    addresses: [],
+    api: [
+      "https://testnet.estats.chainweb.com/",
+    ],
+    unit: "TESTKDA",
+    type: "kadena",
+    chainIDs: [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+    ],
+    explorer: [
+      "https://explorer.chainweb.com/testnet/tx/",
+    ],
+    logolink: "static/logos/TESTKDA.svg",
+    node: [
+      "api.testnet.chainweb.com",
+    ],
+    fee: 600,
+    feepolicy: {
+      economy: 0.000001,
+      normal: 0.000005,
+      fast: 0.00001,
+    },
+    color: "#ED098F",
+    backend: [
+      "kadena",
+    ],
+    chain: "testnet04",
+  },
+  ksm: {
+    coin: "ksm",
+    name: "Kusama",
+    uri: [
+      "ksm",
+      "kusama",
+    ],
+    addresses: [],
+    api: [
+      "https://kusama.subscan.io/api/",
+    ],
+    unit: "KSM",
+    type: "substrate",
+    explorer: [
+      "https://kusama.subscan.io/extrinsic/",
+    ],
+    logolink: "static/logos/KSM.svg",
+    node: [
+      "https://backend.ksm.zelcore.io/",
+    ],
+    fee: 0.0026,
+    feepolicy: {
+      economy: 0, // this is fee + feepolicy (tip)
+      normal: 0.0001, // this is fee + feepolicy (tip)
+      fast: 0.001, // this is fee + feepolicy (tip)
+    },
+    color: "#000000",
+    decimals: 12,
+    existentialDeposit: 0.00166667,
+    ss58prefix: 2,
+    genesisHash: "0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
+    chainName: "Kusama",
+    specName: "kusama",
+    backend: [
+      "substrate",
+    ],
+  },
+  inch: {
+    coin: "inch",
+    name: "1inch",
+    uri: [
+      "inch",
+      "1inch",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x111111111117dc0aa78b770fa6a738034120c302&address=",
+    ],
+    unit: "1INCH",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/1INCH.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0x111111111117dc0aa78b770fa6a738034120c302",
+    color: "#1C324F",
+    decimals: 18,
+    backend: [
+      "infura",
     ],
   },
 };

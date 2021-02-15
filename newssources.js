@@ -105,14 +105,14 @@ const newssources = {
       },
       {
         name: "Zel Twitter",
-        feed: "https://nitter.net/zelcash/rss",
+        feed: "https://tweet.lambda.dance/zelcash/rss",
         site: "https://twitter.com/zelcash",
         about: "Official Zel Twitter.",
         pic: "static/logos/ZEL.svg",
       },
       {
         name: "Zel Twitter2",
-        feed: "https://nitter.net/Zel_Core/rss",
+        feed: "https://tweet.lambda.dance/Zel_Core/rss",
         site: "https://twitter.com/Zel_Core",
         about: "Official ZelCore Twitter.",
         pic: "static/logos/ZEL.svg",
@@ -157,7 +157,7 @@ const newssources = {
     zcash: [
       {
         name: "Zcash Twitter",
-        feed: "https://nitter.net/zcashco/rss",
+        feed: "https://tweet.lambda.dance/zcashco/rss",
         site: "https://twitter.com/zcashco",
         about: "Zcash is a privacy-protectig, digital currency built on strong science.",
         pic: "static/logos/ZEC.svg",
@@ -166,7 +166,7 @@ const newssources = {
     bitcoinz: [
       {
         name: "BitcoinZ Twitter",
-        feed: "https://nitter.net/BitcoinZTeam/rss",
+        feed: "https://tweet.lambda.dance/BitcoinZTeam/rss",
         site: "https://twitter.com/bitcoinzteam",
         about: "BitcoinZ - 100% community focused and ran Zcash fork.",
         pic: "static/logos/BTCZ.svg",
@@ -175,7 +175,7 @@ const newssources = {
     ravencoin: [
       {
         name: "Ravencoin Twitter",
-        feed: "https://nitter.net/ravencoin/rss",
+        feed: "https://tweet.lambda.dance/ravencoin/rss",
         site: "https://twitter.com/ravencoin",
         about: "Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.",
         pic: "static/logos/RVN.svg",
@@ -184,7 +184,7 @@ const newssources = {
     bitcore: [
       {
         name: "Bitcore Twitter",
-        feed: "https://nitter.net/Bitcore_BTX/rss",
+        feed: "https://tweet.lambda.dance/Bitcore_BTX/rss",
         site: "  https://twitter.com/Bitcore_BTX",
         about: "Bitcore is a cryptocurrency that is based on 0.15.2 of Bitcoin Core.",
         pic: "static/logos/BTX.svg",
@@ -256,7 +256,7 @@ const newssources = {
     kucoin: [
       {
         name: "Kucoin Blog",
-        feed: "https://nitter.net/kucoincom/rss",
+        feed: "https://tweet.lambda.dance/kucoincom/rss",
         site: "https://twitter.com/kucoincom",
         about: "Kucoin is a cryptocurrency exchange.",
         pic: "static/logos/KCS.svg",
@@ -382,7 +382,7 @@ const newssources = {
     safecoin: [
       {
         name: "Safecoin Twitter",
-        feed: "https://nitter.net/safecoins/rss",
+        feed: "https://tweet.lambda.dance/safecoins/rss",
         site: "https://twitter.com/safecoins",
         about: "Safecoin is the cryptocurrency of the SAFE (Secure Access For Everyone) network.",
         pic: "static/logos/SAFE.svg",
@@ -414,14 +414,14 @@ const newssources = {
       },
       {
         name: "Zcoin Twitter",
-        feed: "https://nitter.net/zcoinofficial/rss",
+        feed: "https://tweet.lambda.dance/zcoinofficial/rss",
         site: "https://twitter.com/zcoinofficial",
         about: "Official Zcoin Twitter.",
         pic: "static/logos/FIRO.svg",
       },
       {
         name: "Zcoin Twitter 2",
-        feed: "https://nitter.net/firoorg/rss",
+        feed: "https://tweet.lambda.dance/firoorg/rss",
         site: "https://twitter.com/firoorg",
         about: "Official Firo Twitter.",
         pic: "static/logos/FIRO.svg",
@@ -943,7 +943,7 @@ const newssources = {
     genesis: [
       {
         name: "Genesis Blog",
-        feed: "https://nitter.net/genx_network/rss",
+        feed: "https://tweet.lambda.dance/genx_network/rss",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX.svg",
@@ -1024,7 +1024,7 @@ const newssources = {
     brd: [
       {
         name: "BRD Blog",
-        feed: "https://nitter.net/brdhq/rss",
+        feed: "https://tweet.lambda.dance/brdhq/rss",
         site: "https://twitter.com/brdhq",
         about: "BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies.",
         pic: "static/logos/BRD.svg",
@@ -1087,7 +1087,7 @@ const newssources = {
     gunthy: [
       {
         name: "Gunthy Twitter",
-        feed: "https://nitter.net/gunthyio/rss",
+        feed: "https://tweet.lambda.dance/gunthyio/rss",
         site: "https://twitter.com/Gunthyio",
         about: "Emotionless trading.",
         pic: "static/logos/GUNTHY.svg",
@@ -1141,7 +1141,7 @@ const newssources = {
     blox: [
       {
         name: "Blox Twitter",
-        feed: "https://nitter.net/Blox_Official/rss",
+        feed: "https://tweet.lambda.dance/Blox_Official/rss",
         site: "https://twitter.com/Blox_Official",
         about: "Blox is a platform for managing crypto assets.",
         pic: "static/logos/CDT.svg",
@@ -1384,7 +1384,7 @@ const newssources = {
     dibicoin: [
       {
         name: "Dibicoin Twitter",
-        feed: "https://nitter.net/dibicoin/rss",
+        feed: "https://tweet.lambda.dance/dibicoin/rss",
         site: "https://twitter.com/dibicoin",
         about: "Who let the DIBI out?",
         pic: "static/logos/DIBI.svg",
@@ -1465,7 +1465,7 @@ const newssources = {
     nuke: [
       {
         name: "Half Life Twitter",
-        feed: "https://nitter.net/NukeToken/rss",
+        feed: "https://tweet.lambda.dance/NukeToken/rss",
         site: "https://twitter.com/NukeToken",
         about: "NUKE is a currency that grows by shrinking.",
         pic: "static/logos/NUKE.svg",
@@ -1474,7 +1474,7 @@ const newssources = {
     dogecoin: [
       {
         name: "Dogeocin Twitter",
-        feed: "https://nitter.net/dogecoin/rss",
+        feed: "https://tweet.lambda.dance/dogecoin/rss",
         site: "https://twitter.com/dogecoin",
         about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
         pic: "static/logos/DOGE.svg",
@@ -1492,7 +1492,7 @@ const newssources = {
     bittorrent: [
       {
         name: "BitTorrent Twitter",
-        feed: "https://nitter.net/bittorrent/rss",
+        feed: "https://tweet.lambda.dance/bittorrent/rss",
         site: "https://twitter.com/bittorrent",
         about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. \n"
           + "BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
@@ -1502,7 +1502,7 @@ const newssources = {
     digibyte: [
       {
         name: "DigiByte Twitter",
-        feed: "https://nitter.net/DigiByteCoin/rss",
+        feed: "https://tweet.lambda.dance/DigiByteCoin/rss",
         site: "https://twitter.com/DigiByteCoin",
         about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
         pic: "static/logos/DGB.svg",
@@ -1511,7 +1511,7 @@ const newssources = {
     sinovate: [
       {
         name: "Sinovate Twitter",
-        feed: "https://nitter.net/SinovateChain/rss",
+        feed: "https://tweet.lambda.dance/SinovateChain/rss",
         site: "https://twitter.com/SinovateChain",
         about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
           + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
@@ -1643,7 +1643,7 @@ const newssources = {
     veriblock: [
       {
         name: "Veriblock Twitter",
-        feed: "https://nitter.net/VeriBlock/rss",
+        feed: "https://tweet.lambda.dance/VeriBlock/rss",
         site: "https://twitter.com/VeriBlock",
         about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
         pic: "static/logos/VBK.svg",
@@ -1652,7 +1652,7 @@ const newssources = {
     huobitoken: [
       {
         name: "Huobi Twitter",
-        feed: "https://nitter.net/HuobiGlobal/rss",
+        feed: "https://tweet.lambda.dance/HuobiGlobal/rss",
         site: "https://twitter.com/HuobiGlobal",
         about: "The Leading Global Digital Asset Exchange.",
         pic: "static/logos/HT.svg",
@@ -1670,7 +1670,7 @@ const newssources = {
     okb: [
       {
         name: "OKEx Twitter",
-        feed: "https://nitter.net/OKEx/rss",
+        feed: "https://tweet.lambda.dance/OKEx/rss",
         site: "https://twitter.com/OKEx",
         about: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
         pic: "static/logos/OKB.svg",
@@ -1679,7 +1679,7 @@ const newssources = {
     bitforextoken: [
       {
         name: "BitForex Twitter",
-        feed: "https://nitter.net/bitforexcom/rss",
+        feed: "https://tweet.lambda.dance/bitforexcom/rss",
         site: "https://twitter.com/bitforexcom",
         about: "A global top-10 cryptocurrency exchange leader — BitForex provides powerful tools letting you take full control of your digital asset trades and management.",
         pic: "static/logos/BF.svg",
@@ -1715,7 +1715,7 @@ const newssources = {
     huobipooltoken: [
       {
         name: "Huobi Pool Twitter",
-        feed: "https://nitter.net/EOS_huobipool/rss",
+        feed: "https://tweet.lambda.dance/EOS_huobipool/rss",
         site: "https://twitter.com/EOS_huobipool",
         about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
         pic: "static/logos/HPT.svg",
@@ -1724,7 +1724,7 @@ const newssources = {
     golfcoin: [
       {
         name: "Golfcoin Twitter",
-        feed: "https://nitter.net/golfcoin/rss",
+        feed: "https://tweet.lambda.dance/golfcoin/rss",
         site: "https://twitter.com/golfcoin",
         about: "Rewards program for the golf industry.",
         pic: "static/logos/GOLF.svg",
@@ -1751,7 +1751,7 @@ const newssources = {
     zeroxbitcoin: [
       {
         name: "0xBitcoin Twitter",
-        feed: "https://nitter.net/0xbitcoin_erc20/rss",
+        feed: "https://tweet.lambda.dance/0xbitcoin_erc20/rss",
         site: "https://twitter.com/0xbitcoin_erc20",
         about: "The first truly decentralized PoW mineable ERC20 token contract on the Ethereum blockchain.",
         pic: "static/logos/0xBTC.svg",
@@ -1760,7 +1760,7 @@ const newssources = {
     vayla: [
       {
         name: "Vayla Twitter",
-        feed: "https://nitter.net/VAYLAtoken/rss",
+        feed: "https://tweet.lambda.dance/VAYLAtoken/rss",
         site: "https://twitter.com/VAYLAtoken",
         about: "A token valued by the people.",
         pic: "static/logos/VYA.svg",
@@ -1769,7 +1769,7 @@ const newssources = {
     aergo: [
       {
         name: "Aergo Twitter",
-        feed: "https://nitter.net/AERGO_IO/rss",
+        feed: "https://tweet.lambda.dance/AERGO_IO/rss",
         site: "https://twitter.com/AERGO_IO",
         about: "It's not blockchain. It's blockchain for business.",
         pic: "static/logos/AERGO.svg",
@@ -1778,7 +1778,7 @@ const newssources = {
     lunchmoney: [
       {
         name: "Lunchmoney Twitter",
-        feed: "https://nitter.net/LunchToken/rss",
+        feed: "https://tweet.lambda.dance/LunchToken/rss",
         site: "https://twitter.com/LunchToken",
         about: "ERC20 utility token used for incentivizing real feedback from restaurant and eatery patrons wordwide.",
         pic: "static/logos/LMY.svg",
@@ -1787,7 +1787,7 @@ const newssources = {
     kadena: [
       {
         name: "Kadena Twitter",
-        feed: "https://nitter.net/kadena_io/rss",
+        feed: "https://tweet.lambda.dance/kadena_io/rss",
         site: "https://twitter.com/kadena_io",
         about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
         pic: "static/logos/KDA.svg",
@@ -1796,7 +1796,7 @@ const newssources = {
     netkoin: [
       {
         name: "NetKoin Twitter",
-        feed: "https://nitter.net/netkoin/rss",
+        feed: "https://tweet.lambda.dance/netkoin/rss",
         site: "https://twitter.com/netkoin",
         about: "Earn cryptocurrency and redeem rewards from everday shopping!",
         pic: "static/logos/NTK.svg",
@@ -1805,7 +1805,7 @@ const newssources = {
     gammacoin: [
       {
         name: "GammaCoin Twitter",
-        feed: "https://nitter.net/gammagmc/rss",
+        feed: "https://tweet.lambda.dance/gammagmc/rss",
         site: "https://twitter.com/gammagmc",
         about: "GMC are economic tokens and investments made using the Ethereum blockchain.",
         pic: "static/logos/GMC.svg",
@@ -1814,7 +1814,7 @@ const newssources = {
     bazookatoken: [
       {
         name: "Baztoken Twitter",
-        feed: "https://nitter.net/BazToken/rss",
+        feed: "https://tweet.lambda.dance/BazToken/rss",
         site: "https://twitter.com/BazToken",
         about: "Baztoken is an ERC20 with limitless usability which aims to revolutionize the E-Gaming, Sports betting & E-commerce.",
         pic: "static/logos/BAZ.svg",
@@ -1823,7 +1823,7 @@ const newssources = {
     coinsto: [
       {
         name: "Coinsto Twitter",
-        feed: "https://nitter.net/Coinstoglobal/rss",
+        feed: "https://tweet.lambda.dance/Coinstoglobal/rss",
         site: "https://twitter.com/Coinstoglobal",
         about: "Coinsto is a Cryptocurrency project helping people to learn by others experience.",
         pic: "static/logos/CSO.svg",
@@ -1832,7 +1832,7 @@ const newssources = {
     unibright: [
       {
         name: "UniBright Twitter",
-        feed: "https://nitter.net/unibrightio/rss",
+        feed: "https://tweet.lambda.dance/unibrightio/rss",
         site: "https://twitter.com/unibrightio",
         about: "UniBright is a business integration specialists, now offering Unibright.io - the first unified framework for blockchain based business integration",
         pic: "static/logos/UBT.svg",
@@ -1841,7 +1841,7 @@ const newssources = {
     ilcoin: [
       {
         name: "ILCoin Twitter",
-        feed: "https://nitter.net/ILC_B_Project/rss",
+        feed: "https://tweet.lambda.dance/ILC_B_Project/rss",
         site: "https://twitter.com/ILC_B_Project",
         about: "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, "
           + "but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.",
@@ -1851,7 +1851,7 @@ const newssources = {
     hex: [
       {
         name: "Hex Twitter",
-        feed: "https://nitter.net/HEXcrypto/rss",
+        feed: "https://tweet.lambda.dance/HEXcrypto/rss",
         site: "https://twitter.com/HEXcrypto",
         about: "Hex twitter",
         pic: "static/logos/HEX.svg",
@@ -1867,7 +1867,7 @@ const newssources = {
     comp: [
       {
         name: "Compound Twitter",
-        feed: "https://nitter.net/compoundfinance/rss",
+        feed: "https://tweet.lambda.dance/compoundfinance/rss",
         site: "https://twitter.com/compoundfinance",
         about: "Compound - an algorithmic, autonomous interest rate protocol for developers.",
         pic: "static/logos/COMP.svg",
@@ -1883,7 +1883,7 @@ const newssources = {
     vidt: [
       {
         name: "V-ID Twitter",
-        feed: "https://nitter.net/v_id_blockchain/rss",
+        feed: "https://tweet.lambda.dance/v_id_blockchain/rss",
         site: "https://twitter.com/v_id_blockchain",
         about: "V-ID is a service that detects any unlawful manipulation of any digital file.",
         pic: "static/logos/VIDT.svg",
@@ -1899,7 +1899,7 @@ const newssources = {
     drgn: [
       {
         name: "Dragon Twitter",
-        feed: "https://nitter.net/dragonchaingang/rss",
+        feed: "https://tweet.lambda.dance/dragonchaingang/rss",
         site: "https://twitter.com/dragonchaingang",
         about: "Dragonchain is a public/private hybrid blockchain. A private blockchain leveraging decentralization and interoperability to ensure your data is both verifiable and secure.",
         pic: "static/logos/DRGN.svg",
@@ -1908,7 +1908,7 @@ const newssources = {
     whale: [
       {
         name: "Whale Twitter",
-        feed: "https://nitter.net/WhaleShark_Pro/rss",
+        feed: "https://tweet.lambda.dance/WhaleShark_Pro/rss",
         site: "https://twitter.com/WhaleShark_Pro",
         about: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
         pic: "static/logos/WHALE.svg",
@@ -1917,7 +1917,7 @@ const newssources = {
     wbtc: [
       {
         name: "WBTC Twitter",
-        feed: "https://nitter.net/WrappedBTC/rss",
+        feed: "https://tweet.lambda.dance/WrappedBTC/rss",
         site: "https://twitter.com/WrappedBTC",
         about: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
         pic: "static/logos/WBTC.svg",
@@ -1926,7 +1926,7 @@ const newssources = {
     genesistron: [
       {
         name: "Genesis Blog",
-        feed: "https://nitter.net/genx_network/rss",
+        feed: "https://tweet.lambda.dance/genx_network/rss",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX_TRC20.svg",
@@ -1935,7 +1935,7 @@ const newssources = {
     om: [
       {
         name: "MANTRA DAO Twitter",
-        feed: "https://nitter.net/MANTRADAO/rss",
+        feed: "https://tweet.lambda.dance/MANTRADAO/rss",
         site: "https://twitter.com/MANTRADAO",
         about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. "
           + "Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
@@ -1954,7 +1954,7 @@ const newssources = {
     coinartisttoken: [
       {
         name: "Coin Artist Token Twitter",
-        feed: "https://nitter.net/coin_artist/rss",
+        feed: "https://tweet.lambda.dance/coin_artist/rss",
         site: "https://twitter.com/coin_artist",
         about: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
         pic: "static/logos/COIN.svg",
@@ -1963,7 +1963,7 @@ const newssources = {
     uni: [
       {
         name: "Uniswap Twitter",
-        feed: "https://nitter.net/UniswapProtocol/rss",
+        feed: "https://tweet.lambda.dance/UniswapProtocol/rss",
         site: "https://twitter.com/UniswapProtocol",
         about: "The Uniswap Protocol token.",
         pic: "static/logos/UNI.svg",
@@ -1981,7 +1981,7 @@ const newssources = {
     jst: [
       {
         name: "Just Twitter",
-        feed: "https://nitter.net/DeFi_JUST/rss",
+        feed: "https://tweet.lambda.dance/DeFi_JUST/rss",
         site: "https://twitter.com/DeFi_JUST",
         about: "JUST is committed to developing TRON-b  ased DeFi protocols and aims to provide all-in-one financial solutions to its users.",
         pic: "static/logos/JST.svg",
@@ -1990,7 +1990,7 @@ const newssources = {
     beldex: [
       {
         name: "Beldex Twitter",
-        feed: "https://nitter.net/BeldexCoin/rss",
+        feed: "https://tweet.lambda.dance/BeldexCoin/rss",
         site: "https://twitter.com/BeldexCoin",
         about: "BELDEX, a new cryptocurrency ecosystem has emerged with the sole purpose of resolving some of the key issues faced by the crypto world like privacy, liquidity, and usability.",
         pic: "static/logos/BDX.svg",
@@ -1999,7 +1999,7 @@ const newssources = {
     toshi: [
       {
         name: "Toshimon Twitter",
-        feed: "https://nitter.net/Toshimon_/rss",
+        feed: "https://tweet.lambda.dance/Toshimon_/rss",
         site: "https://twitter.com/Toshimon_",
         about: "Toshimon Governance Token",
         pic: "static/logos/TOSHI.svg",
@@ -2008,7 +2008,7 @@ const newssources = {
     maid: [
       {
         name: "MaidSafeCoin Twitter",
-        feed: "https://nitter.net/maidsafe/rss",
+        feed: "https://tweet.lambda.dance/maidsafe/rss",
         site: "https://twitter.com/maidsafe",
         about: "MaidSafeCoin (MAID) is the decentralized currency for the SAFE Network, a autonomous and decentralized data network that boasts extra hard disk space, processing power, and data connectivity for its users.",
         pic: "static/logos/MAID.svg",
@@ -2033,7 +2033,7 @@ const newssources = {
       },
       {
         name: "THORChain Twitter",
-        feed: "https://nitter.net/thorchain_org/rss",
+        feed: "https://tweet.lambda.dance/thorchain_org/rss",
         site: "https://twitter.com/thorchain_org",
         about: "THORChain is a decentralised cross-chain liquidity network with no pegged or wrapped tokens.",
         pic: "static/logos/RUNE.svg",
@@ -2083,7 +2083,7 @@ const newssources = {
       },
       {
         name: "Nexo Twitter",
-        feed: "https://nitter.net/NexoFinance/rss",
+        feed: "https://tweet.lambda.dance/NexoFinance/rss",
         site: "https://twitter.com/NexoFinance",
         about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
         pic: "static/logos/NEXO_ERC20.svg",
@@ -2106,7 +2106,7 @@ const newssources = {
       },
       {
         name: "Nexo Twitter",
-        feed: "https://nitter.net/NexoFinance/rss",
+        feed: "https://tweet.lambda.dance/NexoFinance/rss",
         site: "https://twitter.com/NexoFinance",
         about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
         pic: "static/logos/NEXO_BEP2.svg",
@@ -2129,7 +2129,7 @@ const newssources = {
       },
       {
         name: "Dai Twitter",
-        feed: "https://nitter.net/MakerDAO/rss",
+        feed: "https://tweet.lambda.dance/MakerDAO/rss",
         site: "https://twitter.com/MakerDAO",
         about: "DAI is an Ethereum-based stablecoin (stable-price cryptocurrency) whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
         pic: "static/logos/DAI.svg",
@@ -2145,7 +2145,7 @@ const newssources = {
     xdai: [
       {
         name: "xDai Twitter",
-        feed: "https://nitter.net/xdaichain/rss",
+        feed: "https://tweet.lambda.dance/xdaichain/rss",
         site: "https://twitter.com/xdaichain",
         about: "The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees, and STAKE is used to support Proof-of-Stake consensus.",
         pic: "static/logos/STAKE.svg",
@@ -2154,7 +2154,7 @@ const newssources = {
     rev: [
       {
         name: "Revain Twitter",
-        feed: "https://nitter.net/revain_org/rss",
+        feed: "https://tweet.lambda.dance/revain_org/rss",
         site: "https://twitter.com/revain_org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
@@ -2180,7 +2180,7 @@ const newssources = {
     revtrc: [
       {
         name: "Revain Twitter",
-        feed: "https://nitter.net/revain_org/rss",
+        feed: "https://tweet.lambda.dance/revain_org/rss",
         site: "https://twitter.com/revain_org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
@@ -2206,7 +2206,7 @@ const newssources = {
     aave: [
       {
         name: "Aave Twitter",
-        feed: "https://nitter.net/AaveAave/rss",
+        feed: "https://tweet.lambda.dance/AaveAave/rss",
         site: "https://twitter.com/AaveAave",
         about: "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
         pic: "static/logos/AAVE.svg",
@@ -2229,7 +2229,7 @@ const newssources = {
     snx: [
       {
         name: "Synthetix Twitter",
-        feed: "https://nitter.net/synthetix_io/rss",
+        feed: "https://tweet.lambda.dance/synthetix_io/rss",
         site: "https://twitter.com/synthetix_io",
         about: "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets. Each synthetic asset (or Synth) is an ERC20 token which tracks the price of an external asset.",
         pic: "static/logos/SNX.svg",
@@ -2245,7 +2245,7 @@ const newssources = {
     yfi: [
       {
         name: "yearn.finance Twitter",
-        feed: "https://nitter.net/iearnfinance/rss",
+        feed: "https://tweet.lambda.dance/iearnfinance/rss",
         site: "https://twitter.com/iearnfinance",
         about: "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
         pic: "static/logos/YFI.svg",
@@ -2261,7 +2261,7 @@ const newssources = {
     ftt: [
       {
         name: "FTX Token Twitter",
-        feed: "https://nitter.net/FTX_Official/rss",
+        feed: "https://tweet.lambda.dance/FTX_Official/rss",
         site: "https://twitter.com/FTX_Official",
         about: "FTX is owned by FTX Trading LTD, a company incorporated in Antigua and Barbuda. FTX was incubated by Alameda Research, a cryptocurrency liquidity provider. ",
         pic: "static/logos/FTT.svg",
@@ -2277,7 +2277,7 @@ const newssources = {
     grt: [
       {
         name: "The Graph Twitter",
-        feed: "https://nitter.net/graphprotocol/rss",
+        feed: "https://tweet.lambda.dance/graphprotocol/rss",
         site: "https://twitter.com/graphprotocol",
         about: "The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem.",
         pic: "static/logos/GRT.svg",
@@ -2293,7 +2293,7 @@ const newssources = {
     sushi: [
       {
         name: "Sushi Twitter",
-        feed: "https://nitter.net/sushiswap/rss",
+        feed: "https://tweet.lambda.dance/sushiswap/rss",
         site: "https://twitter.com/sushiswap",
         about: "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
         pic: "static/logos/SUSHI.svg",
@@ -2309,7 +2309,7 @@ const newssources = {
     cel: [
       {
         name: "Celsius Twitter",
-        feed: "https://nitter.net/graphprotocol/rss",
+        feed: "https://tweet.lambda.dance/graphprotocol/rss",
         site: "https://twitter.com/graphprotocol",
         about: "Celsius (CEL) is an all-in-one banking and financial services platform for cryptocurrency users.",
         pic: "static/logos/CEL.svg",
@@ -2325,7 +2325,7 @@ const newssources = {
     cro: [
       {
         name: "Crypto.com Coin Twitter",
-        feed: "https://nitter.net/cryptocom/rss",
+        feed: "https://tweet.lambda.dance/cryptocom/rss",
         site: "https://twitter.com/cryptocom",
         about: "Crypto.com Coin (CRO) is the native cryptocurrency token of Crypto.com Chain — a decentralized, open-source blockchain developed by the Crypto.com payment, trading and financial services company.",
         pic: "static/logos/CRO.svg",
@@ -2348,7 +2348,7 @@ const newssources = {
     uma: [
       {
         name: "UMA Twitter",
-        feed: "https://nitter.net/UMAprotocol/rss",
+        feed: "https://tweet.lambda.dance/UMAprotocol/rss",
         site: "https://twitter.com/UMAprotocol",
         about: "UMA, or Universal Market Access, is a protocol for the creation of synthetic assets based on the Ethereum (ETH) blockchain. UMA was launched in December 2018.",
         pic: "static/logos/UMA.svg",
@@ -2364,7 +2364,7 @@ const newssources = {
     renbtc: [
       {
         name: "renBTC Twitter",
-        feed: "https://nitter.net/renprotocol/rss",
+        feed: "https://tweet.lambda.dance/renprotocol/rss",
         site: "https://twitter.com/renprotocol",
         about: "RenBTC is an ERC-20 token built on the Ethereum network, pegged to Bitcoin. This means that each RENBTC can be always redeemed for one Bitcoin, and hence tends to maintain its value at close to the Bitcoin market rate.",
         pic: "static/logos/RENBTC.svg",
@@ -2387,7 +2387,7 @@ const newssources = {
     chsb: [
       {
         name: "SwissBorg Twitter",
-        feed: "https://nitter.net/swissborg/rss",
+        feed: "https://tweet.lambda.dance/swissborg/rss",
         site: "https://twitter.com/swissborg",
         about: "SwissBorg aims to decentralize wealth management by making it fun, fair, and community-centric.",
         pic: "static/logos/CHSB.svg",
@@ -2403,7 +2403,7 @@ const newssources = {
     ampl: [
       {
         name: "Ampleforth Twitter",
-        feed: "https://nitter.net/ampleforthorg/rss",
+        feed: "https://tweet.lambda.dance/ampleforthorg/rss",
         site: "https://twitter.com/ampleforthorg",
         about: "Ampleforth is an Ethereum-based cryptocurrency with an algorithmically adjusted circulating supply.",
         pic: "static/logos/AMPL.svg",
@@ -2419,7 +2419,7 @@ const newssources = {
     rsr: [
       {
         name: "Reserve Rights Twitter",
-        feed: "https://nitter.net/reserveprotocol/rss",
+        feed: "https://tweet.lambda.dance/reserveprotocol/rss",
         site: "https://twitter.com/reserveprotocol",
         about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
         pic: "static/logos/RSR.svg",
@@ -2435,7 +2435,7 @@ const newssources = {
     ust: [
       {
         name: "TerraUSD Twitter",
-        feed: "https://nitter.net/terra_money/rss",
+        feed: "https://tweet.lambda.dance/terra_money/rss",
         site: "https://twitter.com/terra_money",
         about: "A native Terra stablecoin pegged to the US Dollar.",
         pic: "static/logos/UST.svg",
@@ -2451,7 +2451,7 @@ const newssources = {
     hedg: [
       {
         name: "HedgeTrade Twitter",
-        feed: "https://nitter.net/hedgetradehq/rss",
+        feed: "https://tweet.lambda.dance/hedgetradehq/rss",
         site: "https://twitter.com/hedgetradehq",
         about: "HedgeTrade aims to become a platform where the world’s best traders share their knowledge. Traders post predictions into a smart contract-powered Blueprint that users can purchase or unlock in order to access.",
         pic: "static/logos/HEDG.svg",
@@ -2460,7 +2460,7 @@ const newssources = {
     qnt: [
       {
         name: "Quant Twitter",
-        feed: "https://nitter.net/quant_network/rss",
+        feed: "https://tweet.lambda.dance/quant_network/rss",
         site: "https://twitter.com/quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
         pic: "static/logos/QNT.svg",
@@ -2483,7 +2483,7 @@ const newssources = {
     ocean: [
       {
         name: "Ocean Protocol Twitter",
-        feed: "https://nitter.net/oceanprotocol/rss",
+        feed: "https://tweet.lambda.dance/oceanprotocol/rss",
         site: "https://twitter.com/oceanprotocol",
         about: "Ocean Protocol is a blockchain-based ecosystem that allows individuals and businesses to easily unlock the value of their data and monetize it through the use of ERC-20 based datatokens.",
         pic: "static/logos/OCEAN.svg",
@@ -2499,7 +2499,7 @@ const newssources = {
     husd: [
       {
         name: "HUSD Twitter",
-        feed: "https://nitter.net/Stablecoin_HUSD/rss",
+        feed: "https://tweet.lambda.dance/Stablecoin_HUSD/rss",
         site: "https://twitter.com/Stablecoin_HUSD",
         about: "HUSD is an ERC-20 token that is 1:1 ratio pegged with USD. It was issued by Stable Universal, an entity that claims to follow US regulations.",
         pic: "static/logos/HUSD.svg",
@@ -2515,7 +2515,7 @@ const newssources = {
     cvt: [
       {
         name: "CyberVein Twitter",
-        feed: "https://nitter.net/cyberveingroup/rss",
+        feed: "https://tweet.lambda.dance/cyberveingroup/rss",
         site: "https://twitter.com/cyberveingroup",
         about: "CyberVein's big-data solution is based on the PISR (private, interlink, secure, robust) distributed database, database operations are stored on CyberVein blockchain network which runs on a Proof-of-Contribution (PoC) consensus mechanism.",
         pic: "static/logos/CVT.svg",
@@ -2524,7 +2524,7 @@ const newssources = {
     nxm: [
       {
         name: "NXM Twitter",
-        feed: "https://nitter.net/NexusMutual/rss",
+        feed: "https://tweet.lambda.dance/NexusMutual/rss",
         site: "https://twitter.com/NexusMutual",
         about: "Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.",
         pic: "static/logos/NXM.svg",
@@ -2540,7 +2540,7 @@ const newssources = {
     gno: [
       {
         name: "Gnosis Twitter",
-        feed: "https://nitter.net/gnosisPM/rss",
+        feed: "https://tweet.lambda.dance/gnosisPM/rss",
         site: "https://twitter.com/gnosisPM",
         about: "Started in 2015, Gnosis is a decentralized prediction market built on the Ethereum protocol. Third-party developers will also be able to introduce their own services.",
         pic: "static/logos/GNO.svg",
@@ -2556,7 +2556,7 @@ const newssources = {
     chzbnb: [
       {
         name: "Chiliz Twitter",
-        feed: "https://nitter.net/chiliz/rss",
+        feed: "https://tweet.lambda.dance/chiliz/rss",
         site: "https://twitter.com/chiliz",
         about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
         pic: "static/logos/CHZ_BEP2.svg",
@@ -2572,7 +2572,7 @@ const newssources = {
     chz: [
       {
         name: "Chiliz Twitter",
-        feed: "https://nitter.net/chiliz/rss",
+        feed: "https://tweet.lambda.dance/chiliz/rss",
         site: "https://twitter.com/chiliz",
         about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
         pic: "static/logos/CHZ_BEP2.svg",
@@ -2588,7 +2588,7 @@ const newssources = {
     suntrc: [
       {
         name: "SUN Twitter",
-        feed: "https://nitter.net/defi_sunio/rss",
+        feed: "https://tweet.lambda.dance/defi_sunio/rss",
         site: "https://twitter.com/defi_sunio",
         about: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
         pic: "static/logos/SUN.svg",
@@ -2597,7 +2597,7 @@ const newssources = {
     usdjtrc: [
       {
         name: "USDJ Twitter",
-        feed: "https://nitter.net/DeFi_JUST/rss",
+        feed: "https://tweet.lambda.dance/DeFi_JUST/rss",
         site: "https://twitter.com/DeFi_JUST",
         about: "In the whitepaper, USDJ is described as a a USD-pegged cryptocurrency backed by collateral assets, generated through decentralized smart contracts on the TRON network.",
         pic: "static/logos/USDJ.svg",
@@ -2606,7 +2606,7 @@ const newssources = {
     dot: [
       {
         name: "Polkadot Twitter",
-        feed: "https://nitter.net/Polkadot/rss",
+        feed: "https://tweet.lambda.dance/Polkadot/rss",
         site: "https://twitter.com/Polkadot",
         about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
         pic: "static/logos/DOT.svg",
@@ -2629,7 +2629,7 @@ const newssources = {
     testnetwnd: [
       {
         name: "Polkadot Twitter",
-        feed: "https://nitter.net/Polkadot/rss",
+        feed: "https://tweet.lambda.dance/Polkadot/rss",
         site: "https://twitter.com/Polkadot",
         about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
         pic: "static/logos/TESTWND.svg",
@@ -2647,6 +2647,54 @@ const newssources = {
         site: "https://medium.com/polkadot-network",
         about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
         pic: "static/logos/TESTWND.svg",
+      },
+    ],
+    testnetkadena: [
+      {
+        name: "Kadena Twitter",
+        feed: "https://tweet.lambda.dance/kadena_io/rss",
+        site: "https://twitter.com/kadena_io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
+    ],
+    ksm: [
+      {
+        name: "Kusama Twitter",
+        feed: "https://tweet.lambda.dance/kusamanetwork/rss",
+        site: "https://twitter.com/kusamanetwork",
+        about: "Self-described as Polkadot's wild cousin, Kusama is an experimental blockchain platform that is designed to provide a massively interoperable and scalable framework for developers.",
+        pic: "static/logos/KSM.svg",
+      },
+      {
+        name: "Kusama Reddit",
+        feed: "https://www.reddit.com/r/Kusama/.rss",
+        site: "https://www.reddit.com/r/Kusama/",
+        about: "Self-described as Polkadot's wild cousin, Kusama is an experimental blockchain platform that is designed to provide a massively interoperable and scalable framework for developers.",
+        pic: "static/logos/KSM.svg",
+      },
+    ],
+    inch: [
+      {
+        name: "1inch Twitter",
+        feed: "https://tweet.lambda.dance/1inchExchange/rss",
+        site: "https://twitter.com/1inchExchange",
+        about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
+        pic: "static/logos/1INCH.svg",
+      },
+      {
+        name: "1inch Reddit",
+        feed: "https://www.reddit.com/r/1inch_exchange/.rss",
+        site: "https://www.reddit.com/r/1inch_exchange/",
+        about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
+        pic: "static/logos/1INCH.svg",
+      },
+      {
+        name: "1inch Medium",
+        feed: "https://medium.com/feed/@1inch-exchange",
+        site: "https://1inch-exchange.medium.com",
+        about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
+        pic: "static/logos/1INCH.svg",
       },
     ],
   },

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="245" height="245" viewBox="0 0 245 245">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.032" y1="0.69" x2="0.461" y2="0.375" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#fff" stop-opacity="0.502"/>
+      <stop offset="0.101" stop-color="#fff" stop-opacity="0.549"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.076" y1="0.198" x2="0.546" y2="0.648" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.502"/>
+      <stop offset="0.147" stop-color="#fff" stop-opacity="0.573"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="KDA_test" transform="translate(-20297 -12990)">
+    <g id="g2438" transform="translate(20291.477 11238.72)">
+      <g id="g1814">
+        <circle id="ellipse1808" cx="122.5" cy="122.5" r="122.5" transform="translate(5.523 1751.28)" fill="#ed098f"/>
+        <path id="Full-4-8" d="M19.374,1874.34A108.924,108.924,0,1,0,128.3,1765.416,109.047,109.047,0,0,0,19.374,1874.34Z" fill="none" stroke="#fff" stroke-width="5.159" fill-rule="evenodd"/>
+        <path id="path2518" d="M90.987,1834H78.678v33.866h-7.01V1834H59.495v-5.676H90.987Z" fill="#fff"/>
+        <path id="path2520" d="M122.1,1862.22v5.649H96.149v-39.542h25.786V1834H103.187v10.727h16.167v5.54H103.187v11.949Z" fill="#fff"/>
+        <path id="path2522" d="M139.977,1850.86a27.981,27.981,0,0,1-9.646-4.753,9.118,9.118,0,0,1-3.4-7.36,9.594,9.594,0,0,1,1.766-5.676,11.682,11.682,0,0,1,5-3.884,18.038,18.038,0,0,1,7.336-1.412,16.58,16.58,0,0,1,7.554,1.629,11.953,11.953,0,0,1,5,4.372,11.129,11.129,0,0,1,1.739,6.083h-7.01a6.182,6.182,0,0,0-1.875-4.725,7.662,7.662,0,0,0-5.489-1.765,7.965,7.965,0,0,0-5.217,1.494,4.768,4.768,0,0,0-1.766,3.857,4.326,4.326,0,0,0,2.011,3.585,21.05,21.05,0,0,0,6.331,2.716,32.128,32.128,0,0,1,7.363,3.042,12.061,12.061,0,0,1,4.293,4.047,10.339,10.339,0,0,1,1.413,5.459,9.672,9.672,0,0,1-1.739,5.757,11.106,11.106,0,0,1-4.945,3.775,19.536,19.536,0,0,1-7.445,1.3,20.433,20.433,0,0,1-7.554-1.412,13.706,13.706,0,0,1-5.788-4.291,10.91,10.91,0,0,1-2.2-6.871h7.037a6.2,6.2,0,0,0,2.31,5.3,10.251,10.251,0,0,0,6.2,1.711,8.412,8.412,0,0,0,5.244-1.412,4.562,4.562,0,0,0,1.82-3.8,5.034,5.034,0,0,0-.679-2.716,6.2,6.2,0,0,0-2.473-2.064,29.417,29.417,0,0,0-5.19-1.983Z" fill="#fff"/>
+        <path id="path2524" d="M190.108,1834H177.8v33.866h-7.01V1834H158.616v-5.676h31.492Z" fill="#fff"/>
+        <text id="KDA" transform="translate(152.523 1924.28)" fill="#fff" font-size="56" font-family="HelveticaNeue-Medium, 'Helvetica 65'" font-weight="500" letter-spacing="-0.03em"><tspan x="-56.398" y="0">KDA</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2620" data-name="Group 2620" transform="translate(20321.008 13105.651)">
+      <path id="_1" d="M127.2,106.8h11.62v44.811H127.2Z" transform="translate(-110.586 -92.851)" fill="#fff"/>
+      <path id="_2" d="M213,106.8h13.273L197.9,136.83v-14.1Z" transform="translate(-169.829 -92.851)" fill="url(#linear-gradient)"/>
+      <path id="_3" d="M230.26,218.1,223,225.782l12.8,19.075h12.8Z" transform="translate(-190.86 -186.114)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

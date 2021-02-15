@@ -13,6 +13,7 @@ ZelCore repository is located at [ZelCore Github](https://github.com/zelcash/Zel
 Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources.js
 
 ### coinSimple.js
+
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in ZelCore. Coin specification is a named object. In case of ethereum ERC20 Tokens, following configuration shall be present
 
     qnt: {
@@ -59,25 +60,23 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
     },
 
- - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. 
- - coin - This is unique identifier of a coin in ZelCore. Cannot contain space.
- - name - The name of the integrated coin, that will be displayed.
- - uri - uri protocol schemes of coin that is using, can be multiple. Usually name, ticker. Cannot contain space.
- - addresses: [] - leave like this
- - api - api which zelcore shall use for this coin. Note the contract address inside. This has to be changed correctly to your token
- - unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition
- - type: "eth" - leave like this for erc20 token
- - explorer array - you can add more explorers that can be used for the showing transactions on the particular coin
- - logolink - path inside ZelCore to your logo. Logos are always svg file and shall be named as your UNIT.svg 
- -  node - available infura nodes. Feel free to add yours as well or any infura compatible node
- -  fee - default Gas Limit used for the token
- - feepolicy - economy, normal and fast. This is default values for Gas Price for the buttons. Note that those values are usually overwritten by automatic fee updates of ZelCore.
- - contractAddress - make sure you get this right. This is the contract ZelCore will use for the coin
- - color - dominant color of the Token. Shall correspond to logo
- - decimals - decimal places of your token. Make sure you get this right also.
- - backend - Only infura type backend is coded. Leave like this.
-
-
+- The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique.
+- coin - This is unique identifier of a coin in ZelCore. Cannot contain space.
+- name - The name of the integrated coin, that will be displayed.
+- uri - uri protocol schemes of coin that is using, can be multiple. Usually name, ticker. Cannot contain space.
+- addresses: [] - leave like this
+- api - api which zelcore shall use for this coin. Note the contract address inside. This has to be changed correctly to your token
+- unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition
+- type: "eth" - leave like this for erc20 token
+- explorer array - you can add more explorers that can be used for the showing transactions on the particular coin
+- logolink - path inside ZelCore to your logo. Logos are always svg file and shall be named as your UNIT.svg
+- node - available infura nodes. Feel free to add yours as well or any infura compatible node
+- fee - default Gas Limit used for the token
+- feepolicy - economy, normal and fast. This is default values for Gas Price for the buttons. Note that those values are usually overwritten by automatic fee updates of ZelCore.
+- contractAddress - make sure you get this right. This is the contract ZelCore will use for the coin
+- color - dominant color of the Token. Shall correspond to logo
+- decimals - decimal places of your token. Make sure you get this right also.
+- backend - Only infura type backend is coded. Leave like this.
 
 ### coininfo.js
 
@@ -104,33 +103,33 @@ This files controls some social interactions of coins. Displays description, lin
       reddit: "https://reddit.com/r/QuantNetwork",
       repository: "https://github.com/quantnetwork",
     },
-    
+
 Fields are done to be self-explanatory:
 
- - Description - describe your asset
- - total_supply - maximum supply of your asset
- - circulating_supply - current supply in circulation
- - websites - an array of projects websites
- - explorers - explorer for your asset
- - medium - medium link on which articles are published
- - discord - invitation to discord
- - telegram - main telegram group
- - bitcointalk - thread for the asset
- - facebook - available facebook group
- - twitter - main twitter
- - reddit - subreddit of asset
- - repository - repository account. Does not have to be github. Bitbucket, gitlab and others possible as well.
- - Others - feel free to add slack, wechat groups or others. We may let it available in the future
+- description - describe your asset
+- total_supply - maximum supply of your asset
+- circulating_supply - current supply in circulation
+- websites - an array of projects websites
+- explorers - explorer for your asset
+- medium - medium link on which articles are published
+- discord - invitation to discord
+- telegram - main telegram group
+- bitcointalk - thread for the asset
+- facebook - available facebook group
+- twitter - main twitter
+- reddit - subreddit of asset
+- repository - repository account. Does not have to be github. Bitbucket, gitlab and others possible as well.
+- Others - feel free to add slack, wechat groups or others. We may let it available in the future
 
 ### newssources.js
 
-ZelCore contains News section. A general one and asset news section as well. It can handle many of RSS feeds 
+ZelCore contains News section. A general one and asset news section as well. It can handle many of RSS feeds
 Here is an example for Quant
 
     qnt: [
       {
         name: "Quant Twitter",
-        feed: "https://nitter.net/quant_network/rss",
+        feed: "https://tweet.lambda.dance/quant_network/rss",
         site: "https://twitter.com/quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
         pic: "static/logos/QNT.svg",
@@ -152,27 +151,31 @@ Here is an example for Quant
     ],
 This array is an object of available news for an asset.
 
- - name - name of the news
- - feed - rss feed for the news
- - site - site for the news for browsing
- - about - short description. Less than 300 characters!
- - pic - logo disaplyed in case a news does not have a logo in the rss feed. Usually for assets we display the coin logo
+- name - name of the news
+- feed - rss feed for the news
+- site - site for the news for browsing
+- about - short description. Less than 300 characters!
+- pic - logo disaplyed in case a news does not have a logo in the rss feed. Usually for assets we display the coin logo
 
 ### Logo
+
 Please look at many examples in [Logos directory](https://github.com/zelcash/ZelCore/blob/master/logos/). This is where your logo has to be placed. It has to be a nice SVG in correspondence with ZelCore design of other logos. This logo will be used for your asset. Make it pretty and clean :)
 
 ## Rates & Markets
-ZelCore uses its own Rates and Markets services. The repository can be found in [rates-api](https://github.com/zelcash/rates-api). 
+
+ZelCore uses its own Rates and Markets services. The repository can be found in [rates-api](https://github.com/zelcash/rates-api).
 2 Files have to be adjusted
 
  1. zelcoreMarkets.js
  2. zelcoreRates.js
 
 You can find them in [services folder](https://github.com/zelcash/rates-api/blob/master/src/services/) of rates-api.
-Adjustment is usually very simple and adding just your UNIT to an api call will do. Or you can write a custom call specifically for your asset. Note that the output of the asset has to be the UNIT used in ZelCore coinSimple.js file. 
+Adjustment is usually very simple and adding just your UNIT to an api call will do. Or you can write a custom call specifically for your asset. Note that the output of the asset has to be the UNIT used in ZelCore coinSimple.js file.
 
 ## Notes
+
 Please follow the styling, try using linting in your pull requests. We use 2 spaces, double quotes, commas.
 
-# Thank you for your PRs
-Zel Team
+## Thank you for your PRs
+
+ZelCore Team
