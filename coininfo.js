@@ -324,20 +324,26 @@ const coininfo = {
   },
   bitcoinz: {
     description: "BitcoinZ is based on Bitcoin + zkSNARKs and is a decentralized CDD.",
-    total_supply: 236750041,
-    circulating_supply: 4272848333.92548,
+    total_supply: 21000000000,
+    circulating_supply: 8357497575,
     websites: [
+      "https://getbtcz.com",
       "https://btcz.rocks",
     ],
     explorers: [
       "https://btczexplorer.blockhub.info",
+      "https://explorer.btcz.app/"
+      "https://explorer.btcz.zelcore.io/"
     ],
     medium: "",
     discord: "",
-    telegram: "",
+    telegram: "https://t.me/bitcoinzcommunity",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2166510",
     facebook: "BTCZCommunity",
-    twitter: "https://twitter.com/BitcoinZTeam",
+    twitter: [
+      "https://twitter.com/BitcoinZTeam",
+      "https://twitter.com/BTCZOfficial",
+      ],
     reddit: "https://reddit.com/r/BTCZCommunity",
     repository: "https://github.com/bitcoinz-pod/bitcoinz",
   },
