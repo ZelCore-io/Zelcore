@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1937.9368 352.83249"
+   version="1.1"
+   width="1937.9368"
+   height="352.83249"
+   sodipodi:docname="logo_text_dark_bg.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="0.53768524"
+     inkscape:cx="968.96838"
+     inkscape:cy="176.41624"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1992" />
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs35">
+    <linearGradient
+       id="linear-gradient"
+       x1="356.07999"
+       y1="587.71997"
+       x2="79.980003"
+       y2="587.71997"
+       gradientTransform="translate(0.2,-426.32)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#4171f7"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#f74bda"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="97.559998"
+       y1="659.10999"
+       x2="184.10001"
+       y2="606.57001"
+       gradientTransform="translate(0.2,-426.32)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f14cdb"
+         stop-opacity="0.03"
+         id="stop7" />
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0.4"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="230.55"
+       y1="599.04999"
+       x2="340.79001"
+       y2="654.69"
+       gradientTransform="translate(0.2,-426.32)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#231f20"
+         stop-opacity="0.4"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#231f20"
+         stop-opacity="0"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-4"
+       x1="274.82001"
+       y1="604.48999"
+       x2="301.98001"
+       y2="739.5"
+       gradientTransform="translate(0.2,-426.32)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#eae8fc"
+         id="stop19" />
+      <stop
+         offset="0.52"
+         stop-color="#f7f7fe"
+         id="stop21" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-5"
+       x1="401.92999"
+       y1="629.20001"
+       x2="375.48999"
+       y2="739.85999"
+       gradientTransform="translate(0.2,-426.32)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#dad4f4"
+         id="stop26" />
+      <stop
+         offset="0.65"
+         stop-color="#f1effb"
+         id="stop28" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-6"
+       x1="32.220001"
+       y1="604.48999"
+       x2="59.380001"
+       y2="739.5"
+       xlink:href="#linear-gradient-4" />
+    <linearGradient
+       id="linear-gradient-7"
+       x1="159.33"
+       y1="629.20001"
+       x2="132.89999"
+       y2="739.85999"
+       xlink:href="#linear-gradient-5" />
+    <linearGradient
+       xlink:href="#linear-gradient-4"
+       id="linearGradient971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.2,-426.32)"
+       x1="274.82001"
+       y1="604.48999"
+       x2="301.98001"
+       y2="739.5" />
+    <linearGradient
+       xlink:href="#linear-gradient-5"
+       id="linearGradient973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.2,-426.32)"
+       x1="401.92999"
+       y1="629.20001"
+       x2="375.48999"
+       y2="739.85999" />
+  </defs>
+  <g
+     id="g47"
+     transform="translate(0,9.3324991)">
+    <polygon
+       points="79.6,241.6 218.6,321.9 357.6,241.6 357.6,81.1 218.6,0.9 79.6,81.1 "
+       fill="url(#linear-gradient)"
+       id="polygon37"
+       style="fill:url(#linear-gradient)" />
+    <polygon
+       points="218.5,161.7 79.6,81.5 79.6,241.6 218.5,321.8 "
+       opacity="0.56"
+       fill="url(#linear-gradient-2)"
+       style="isolation:isolate;fill:url(#linear-gradient-2)"
+       id="polygon39" />
+    <polygon
+       points="357.5,81.4 218.5,161.7 218.5,321.8 218.6,321.9 357.6,241.6 357.6,81.5 "
+       opacity="0.56"
+       fill="url(#linear-gradient-3)"
+       style="isolation:isolate;fill:url(#linear-gradient-3)"
+       id="polygon41" />
+    <polygon
+       points="437.4,287.2 437.4,174.8 340,118.6 242.6,174.8 242.6,287.2 340,343.5 "
+       fill="#ffffff"
+       id="polygon43" />
+    <polygon
+       points="194.8,287.2 194.8,174.8 97.4,118.6 0,174.8 0,287.2 97.4,343.5 "
+       fill="#ffffff"
+       id="polygon45" />
+  </g>
+  <polygon
+     points="340,231 242.6,174.8 340,118.6 437.4,174.8 "
+     fill="#ffffff"
+     id="polygon49"
+     transform="translate(0,9.3324991)" />
+  <polygon
+     points="340,343.5 242.6,287.2 242.6,174.8 340,231 "
+     fill="url(#linear-gradient-4)"
+     id="polygon51"
+     style="fill:url(#linearGradient971)"
+     transform="translate(0,9.3324991)" />
+  <polygon
+     points="437.4,287.2 340,343.5 340,231 437.4,174.8 "
+     fill="url(#linear-gradient-5)"
+     id="polygon53"
+     style="fill:url(#linearGradient973)"
+     transform="translate(0,9.3324991)" />
+  <polygon
+     points="97.4,231 0,174.8 97.4,118.6 194.8,174.8 "
+     fill="#ffffff"
+     id="polygon55"
+     transform="translate(0,9.3324991)" />
+  <polygon
+     points="97.4,343.5 0,287.2 0,174.8 97.4,231 "
+     fill="url(#linear-gradient-6)"
+     id="polygon57"
+     style="fill:url(#linear-gradient-6)"
+     transform="translate(0,9.3324991)" />
+  <polygon
+     points="194.8,287.2 97.4,343.5 97.4,231 194.8,174.8 "
+     fill="url(#linear-gradient-7)"
+     id="polygon59"
+     style="fill:url(#linear-gradient-7)"
+     transform="translate(0,9.3324991)" />
+  <g
+     aria-label="zelcore"
+     transform="scale(0.99981514,1.0001849)"
+     id="text1992"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke:none;stroke-width:0.541168">
+    <path
+       d="m 679.09832,256.79999 v 40 h -184.4 v -31.6 l 117.2,-142 h -114.8 V 83.199988 h 178.8 v 31.600002 l -117.6,142 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path866" />
+    <path
+       d="m 922.69763,191.19999 q 0,5.2 -0.8,14.8 h -167.6 q 4.4,23.6 22.8,37.6 18.8,13.6 46.4,13.6 35.2,0 58,-23.2 l 26.8,30.8 q -14.4,17.2 -36.4,26 -22,8.8 -49.6,8.8 -35.2,0 -62,-14 -26.8,-14 -41.6,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.2 14,-56 14.4,-25.2 39.6,-39.200002 25.2,-14 56.8,-14 31.2,0 55.6,14 24.8,13.600002 38.4,38.800002 14,24.8 14,57.6 z m -108,-70.4 q -24,0 -40.8,14.4 -16.4,14 -20,37.6 h 121.2 q -3.2,-23.2 -19.6,-37.6 -16.4,-14.4 -40.8,-14.4 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path868" />
+    <path
+       d="m 970.69752,-1.2207031e-5 h 49.99998 V 296.79999 h -49.99998 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path870" />
+    <path
+       d="m 1184.2973,299.59999 q -33.2,0 -59.6,-14 -26.4,-14 -41.2,-38.8 -14.8,-25.2 -14.8,-56.8 0,-31.6 14.8,-56.4 14.8,-24.8 40.8,-38.800002 26.4,-14 60,-14 31.6,0 55.2,12.8 24,12.800002 36,36.800002 l -38.4,22.4 q -9.2,-14.8 -23.2,-22 -13.6,-7.6 -30,-7.6 -28,0 -46.4,18.4 -18.4,18 -18.4,48.4 0,30.4 18,48.8 18.4,18 46.8,18 16.4,0 30,-7.2 14,-7.6 23.2,-22.4 l 38.4,22.4 q -12.4,24 -36.4,37.2 -23.6,12.8 -54.8,12.8 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path872" />
+    <path
+       d="m 1411.4966,299.59999 q -32.4,0 -58.4,-14 -26,-14 -40.8,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.6 14.4,-56.4 14.8,-24.8 40.8,-38.800002 26,-14 58.4,-14 32.8,0 58.8,14 26,14.000002 40.4,38.800002 14.8,24.8 14.8,56.4 0,31.6 -14.8,56.8 -14.4,24.8 -40.4,38.8 -26,14 -58.8,14 z m 0,-42.8 q 27.6,0 45.6,-18.4 18,-18.4 18,-48.4 0,-30 -18,-48.4 -18,-18.4 -45.6,-18.4 -27.6,0 -45.6,18.4 -17.6,18.4 -17.6,48.4 0,30 17.6,48.4 18,18.4 45.6,18.4 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path874" />
+    <path
+       d="m 1621.096,114.39999 q 21.6,-33.600002 76,-33.600002 v 47.600002 q -6.4,-1.2 -11.6,-1.2 -29.2,0 -45.6,17.2 -16.4,16.8 -16.4,48.8 v 103.6 h -50 V 83.199988 h 47.6 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path876" />
+    <path
+       d="m 1938.2951,191.19999 q 0,5.2 -0.8,14.8 h -167.6 q 4.4,23.6 22.8,37.6 18.8,13.6 46.4,13.6 35.2,0 58,-23.2 l 26.8,30.8 q -14.4,17.2 -36.4,26 -22,8.8 -49.6,8.8 -35.2,0 -62,-14 -26.8,-14 -41.6,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.2 14,-56 14.4,-25.2 39.6,-39.200002 25.2,-14 56.8,-14 31.2,0 55.6,14 24.8,13.600002 38.4,38.800002 14,24.8 14,57.6 z m -108,-70.4 q -24,0 -40.8,14.4 -16.4,14 -20,37.6 h 121.2 q -3.2,-23.2 -19.6,-37.6 -16.4,-14.4 -40.8,-14.4 z"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
+       id="path878" />
+  </g>
+</svg>

@@ -14,7 +14,7 @@ export default {
     forums: "Forums",
     information: "Information:",
     fixed_bugs: "Fixade buggar:",
-    new_version: "Ny version kommer bli tillgänglig nästa gång ZelCore öppnas",
+    new_version: "Ny version kommer bli tillgänglig nästa gång zelcore öppnas",
     features: "Funktioner:",
     error: "Error",
     sent: "Skickat",
@@ -27,7 +27,7 @@ export default {
 
     // Close Dialog
     log_out: "Logga Ut",
-    exit_zelcore: "Avsluta ZelCore",
+    exit_zelcore: "Avsluta zelcore",
     select_action: "Välj åtgärd att utföra",
     exit_full_node: "Avsluta full node",
     action_shutdown_fullnode: "Den här åtgärden kommer att stänga av full node plånbok. Vill du fortsätta?",
@@ -50,7 +50,7 @@ export default {
     d2fa_adds_security: "d2FA lägger till ytterligare ett lager av skydd och säkerhet. Inaktivering av d2FA inaktiverar också Easy Login. Är du säker på att du vill inaktivera d2FA?",
     verify_pin: "Verifiera PIN",
     used_for_security: "Används för säkra uppgifter som transaktioner, visning av privata nycklar och Zel ID-operationer",
-    used_for_logging: "Används för att logga in på ZelCore",
+    used_for_logging: "Används för att logga in på zelcore",
     decentralized_two_factor_authentication: "Decentraliserad tvåfaktorautentisering",
     create_or_change_pin: "Skapa eller ändra din d2FA PIN",
     disable_your_d2fa: "Inaktivera din d2FA",
@@ -88,7 +88,7 @@ export default {
     wrong_password: "Fel lösenord!",
 
     // helpcenter
-    welcome_help: "Välkommen till ZelCore Hjälpcenter. Här hittar du våra Vanliga frågor, Live Community Support och Community Forums.",
+    welcome_help: "Välkommen till zelcore Hjälpcenter. Här hittar du våra Vanliga frågor, Live Community Support och Community Forums.",
     for_more_info: "För mer information kolla in",
 
     // create.vue
@@ -146,12 +146,12 @@ export default {
     warning_etc_transactions: "Varning: Det tar ett tag för en Ethereum Classic transaktion att listas i en transaktionstabell.",
     warning_omni_is_btc: "Varning: {coinname} är en Bitcoin token och kräver BTC att utföra en transaktion. Förutom Bitcoin transaktionsavgifter, måste 0.000006 BTC vara "
       + "skickat till destinationsadressen som ett Bitcoin nätverkskrav. Sändning av proccess tar några sekunder och det kan ta upp till några minuter för "
-      + "en transaktion som är synlig på Omni Explorer och ännu mer att visas i transaktionstabellen, var tålmodig! Transaktionen är direkt synlig i din Bitcoin ZelCore plånbok.",
+      + "en transaktion som är synlig på Omni Explorer och ännu mer att visas i transaktionstabellen, var tålmodig! Transaktionen är direkt synlig i din Bitcoin zelcore plånbok.",
     warning_monero_fee: "Varning: {coinname} avgiften är inte känd före transaktionsupprättandet, det här är bara en uppskattning. Transaktionsskapande tar några sekunder.",
     edit: "Redigera",
     delete: "Radera",
     show_in_explorer: "Visa i explorer",
-    full_node_launch_note: "På grund av att ZelCore använder kryptering kommer dina medel inte att vara tillgängliga i annan full nod-program än ZelCore. Full nod är endast för avancerade användare, "
+    full_node_launch_note: "På grund av att zelcore använder kryptering kommer dina medel inte att vara tillgängliga i annan full nod-program än zelcore. Full nod är endast för avancerade användare, "
       + "om du inte vet vad Full Node är, använd det inte! Var snäll och säkerhetskopiera privata nycklar till adresser du använder.",
     launch_full_node: "Starta Full Node",
 
@@ -160,7 +160,7 @@ export default {
 
     // Apps.vue
     zel_apps_and_tools: "Zel Appar och Verktyg",
-    apps_bio: "Zel Apps är en forum för appar och verktyg som både är byggda av Zel och så småningom av utvecklare i formerna av dAPPs som använder ZelDev eller verktyg för ZelCore.",
+    apps_bio: "Zel Apps är en forum för appar och verktyg som både är byggda av Zel och så småningom av utvecklare i formerna av dAPPs som använder ZelDev eller verktyg för zelcore.",
     app_join_dev: "Är du intresserad av att gå med i vårt utvecklingsprogram? Skicka oss ett mail på",
     app_tell_us: "och berätta vad du vill bygga på och för Zel nätverket.",
     apps_tools: "Appar och Verktyg",
@@ -200,9 +200,9 @@ export default {
 
     // Exchange.vue
     decentralized_exchange_coming_soon: "Decentraliserad Börs kommer snart",
-    zel_ex_info: "Zel Technologies siktar mot att skapa en decentraliserad utvecklingsplattform, känd som ZelDev. När ZelNodes startar kommer vi att bygga en decentraliserad Exchange (DEX) för att visa upp det här nätverket av decentraliserade ZelNodes.",
+    zel_ex_info: "Zelcore Technologies siktar mot att skapa en decentraliserad utvecklingsplattform, känd som ZelDev. När FluxNodes startar kommer vi att bygga en decentraliserad Exchange (DEX) för att visa upp det här nätverket av decentraliserade FluxNodes.",
     third_party_exchanges: "Tredje parts börser",
-    third_party_exchanges_info: "ZelCore stöder för närvarande följande tredjepartslösningar:",
+    third_party_exchanges_info: "Zelcore stöder för närvarande följande tredjepartslösningar:",
     sell: "Sälj",
     min: "Min", // as in minimum
     max: "Max", // as in maximum
@@ -212,7 +212,7 @@ export default {
     transaction_fee: "Transaktionsavgift",
     i_agree_to_the: "Jag godkänner",
     and_to_the: "och till",
-    zel_technologies_disclaimer: "Zel Technologies ansvarsfriskrivning.",
+    zel_technologies_disclaimer: "Zelcore Technologies ansvarsfriskrivning.",
     i_may_trigger: "Jag bekräftar och förstår att min transaktion kan utlösa AML/KYC verifiering enligt",
     begin_exchange: "Påbörja utbyte",
     buy: "Köp",
@@ -237,7 +237,7 @@ export default {
     exchange_data: "Utbytesdata hämtas",
     success: "Lyckat",
     waiting_for_approval: "Väntar på godkännande och transaktionsbekräftelse för utbytte",
-    please_do_not_zelcore: "Vänligen stäng INTE ZelCore",
+    please_do_not_zelcore: "Vänligen stäng INTE zelcore",
     approval_has_failed: "Godkännandet har misslyckats.",
     outgoing_transaction_approval: "Godkännande av utgående transaktion",
     my_receiving_address: "Min mottagnings adress",
