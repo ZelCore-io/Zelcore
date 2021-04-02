@@ -54,7 +54,7 @@ export default {
     decentralized_two_factor_authentication: "Decentraliserad tvåfaktorautentisering",
     create_or_change_pin: "Skapa eller ändra din d2FA PIN",
     disable_your_d2fa: "Inaktivera din d2FA",
-    d2fa_requires_minimum: "d2FA kräver minst 0,0002 ZEL i din plånbok för att sända en d2FA transaktion. Ändringar träder i kraft efter att transaktionen har bekräftats och konto inloggats på nytt.",
+    d2fa_requires_minimum: "d2FA kräver minst 0,0002 FLUX i din plånbok för att sända en d2FA transaktion. Ändringar träder i kraft efter att transaktionen har bekräftats och konto inloggats på nytt.",
     d2fa_adds_another_layer: "d2FA lägger till ytterligare ett lager skydd och säkerhet. Du kommer inte att kunna underteckna eller utföra säkerhetsuppgifter angående ditt konto utan denna ändringsbara PIN-kod. PIN-koden sparas direkt på blockchain i krypterad form. "
       + "Ingen utom du kan ändra din d2FA signatur!",
     create_or_change_easy: "Skapa eller ändra Easy Login",
