@@ -1755,7 +1755,7 @@ export default {
     backend_services: "Services backend",
     manage_backend_service: "Ici, vous pouvez gérer les services backend utilisés par zelcore pour un actif donné. Choisissez dans la liste ou insérez le vôtre.",
     backend: "Backend",
-    explorer_service: "Service d'explorateur",
+    explorer_service: "Explorateur",
     electrum_service: "Service ElectrumX",
     node_service: "Service de nœud",
     api_service: "Service API",
