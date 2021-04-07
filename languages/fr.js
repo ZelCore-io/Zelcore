@@ -107,7 +107,7 @@ export default {
     collateraladdress: "Adresse de collateral",
     tier: "Tier",
     apps: "Apps",
-    exchange: "échange",
+    exchange: "Échange",
     portfolio: "Portfolio",
     token: "Jeton:",
     tokenUnit: "JETON",
@@ -880,7 +880,7 @@ export default {
     decentrized_exchange_coming_soon: "Echanges",
     zel_ex_info: "Il s'agit d'un hub pour toutes les solutions d'échange intégrées actuellement disponibles dans zelcore.",
     reveal_of_address: "L'accès à un échange peut révéler vos adresses de portefeuille d'échange au fournisseur d'échange.",
-    third_party_exchanges: "échanges entre tiers",
+    third_party_exchanges: "Échanges entre tiers",
     third_party_exchanges_info: "Zelcore prend actuellement en charge les solutions tierces suivantes:",
     sell: "Vendre",
     min: "Min", // comme minimum
