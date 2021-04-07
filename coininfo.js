@@ -332,18 +332,15 @@ const coininfo = {
     ],
     explorers: [
       "https://btczexplorer.blockhub.info",
-      "https://explorer.btcz.app/"
-      "https://explorer.btcz.zelcore.io/"
+      "https://explorer.btcz.app",
+      "https://explorer.btcz.zelcore.io",
     ],
     medium: "",
     discord: "",
     telegram: "https://t.me/bitcoinzcommunity",
     bitcointalk: "https://bitcointalk.org/index.php?topic=2166510",
     facebook: "BTCZCommunity",
-    twitter: [
-      "https://twitter.com/BitcoinZTeam",
-      "https://twitter.com/BTCZOfficial",
-      ],
+    twitter: "https://twitter.com/BitcoinZTeam",
     reddit: "https://reddit.com/r/BTCZCommunity",
     repository: "https://github.com/bitcoinz-pod/bitcoinz",
   },
