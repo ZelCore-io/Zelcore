@@ -1716,7 +1716,7 @@ export default {
     total_supply: "Circulation totale:",
     max_supply: "Actifs maximum:",
     not_capped: "Non plafonné",
-    get_zelcore: "Obtenez zelcore+ pour moins d'une tasse de café ou en concervant 5000 ZEL dans un portefeuille léger",
+    get_zelcore: "Obtenez zelcore+ pour moins d'une tasse de café ou en conservant 5000 ZEL dans un portefeuille léger",
     save_20: "économisez 20%",
     upgrade: "Améliorer",
     wallets: "Portefeuilles",
