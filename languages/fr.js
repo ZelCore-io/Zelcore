@@ -865,8 +865,8 @@ export default {
     recover_password_mechanism: "Mécanisme de récupération de mot de passe",
     recover_password_mechanism_saved: "Mécanisme de récupération de mot de passe enregistré",
     recover_password_mechanism_removed: "Mécanisme de récupération de mot de passe supprimé du compte",
-    account_recover_password_mechanism_help: "PMécanisme de récupération de mot de passe sera enregistré localement sur votre appareil, associé au compte et chiffré. "
-      + "Il peut être utile dans le cas ou vous perdez votre mot de passe. Si il est activé et que vous le désactivez, il sera supprimé de votre compte. Si il est désactivé, réactivez le cimplement pour créer le mécanisme de récupération.",
+    account_recover_password_mechanism_help: "Le mécanisme de récupération de mot de passe sera enregistré localement sur votre appareil, associé au compte et chiffré. "
+      + "Il peut être utile dans le cas ou vous perdez votre mot de passe. Si il est activé et que vous le désactivez, il sera supprimé de votre compte. Si il est désactivé, réactivez le simplement pour le recréer.",
     account_create_recover_password: "Ici, vous pourrez définir votre mécanisme de récupération de mot de passe. Pour des raisons de sécurité, vous devrez mettre votre mot de passe de compte. Seul le propriétaire du compte peut définir ce mécanisme de sécurité. "
       + "Vous devrez sélectionner au moins 3 questions pour créer ce mécanisme de sécurité et il n'y a pas de maximum pour le nombre de questions à utiliser.. "
       + "N'oubliez pas que si quelqu'un vous connait et hack votre appareil, il peut connaître les réponses des questions les plus faciles. "
