@@ -2039,7 +2039,7 @@ export default {
     transaction_raw_data: "Données brutes de transaction",
     transfer: "Transfert",
     // Wyre
-    buy_crypto: "Acheter Crypto",
+    buy_crypto: "Achats Crypto",
     orders: "Ordres",
     order_history: "Historique des ordres",
     track_transfer: "Suivi du transfert",
