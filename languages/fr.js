@@ -79,7 +79,7 @@ export default {
     exit_zelcore: "Quitter zelcore",
     select_action: "Sélectionnez l'action à effectuer",
     exit_full_node: "Quitter le full node",
-    leave_full_node_running: "Quitter le full node en cours d'éxecution",
+    leave_full_node_running: "Sortir du fullnode (fonctionnement en arrière plan)",
     back_to_full_node: "Retour au full node",
     action_shutdown_fullnode: "Cette action va fermer votre full node. Souhaitez-vous continuer?",
     close_action: "Action de fermeture",
