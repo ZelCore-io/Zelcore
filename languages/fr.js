@@ -255,7 +255,7 @@ export default {
     // account warning
     password_is_key: "Votre mot de passe est la clé pour accéder à vos fonds, rendez-le aussi fort que possible!",
     credentials_key: "Les informations d'identification de votre compte sont la clé pour accéder à vos fonds, rendez les aussi fortes que possible..",
-    zelcore_self_custody: "Zelcore est une plate-forme ou vous détenez vos clés privées",
+    zelcore_self_custody: "Zelcore est une plateforme où vous détenez vos clés privées",
     credentials_account: "Il n'y a aucun moyen de récupérer ou modifier vos identifiants. Si vous perdez votre nom d'utilisateur ou votre mot de passe, vous perdrez l'accès à votre compte de façon permanente..",
     credentials_account2: "Il est très important que vous gardiez une copie de vos informations d'identification quelque part en sécurité.",
     no_keep_copy: "Zelcore ne conserve pas de copie de votre mot de passe non chiffré, que ce soit localement ou à distance. En raison de cette fonctionnalité, il n’existe aucun moyen de récupérer le mot de passe, ni de le changer. "
