@@ -45,6 +45,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
         "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
         "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+        "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
       ],
       fee: 63000,
       feepolicy: {

@@ -90,41 +90,48 @@ const newssources = {
   assets: {
     zelcash: [
       {
-        name: "Zel Blog",
-        feed: "https://medium.com/feed/@ZelOfficial",
-        site: "https://medium.com/@ZelOfficial",
-        about: "Blog source for all things Zel, officially, from the Zel Team.",
-        pic: "static/logos/ZEL.svg",
+        name: "Flux Blog",
+        feed: "https://medium.com/feed/fluxofficial",
+        site: "https://medium.com/fluxofficial",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "static/logos/FLUX.svg",
       },
       {
-        name: "Zel Blog2",
-        feed: "https://medium.com/feed/zelofficial",
-        site: "https://medium.com/zelofficial",
-        about: "Blog source for all things Zel, officially, from the Zel Team.",
-        pic: "static/logos/ZEL.svg",
+        name: "Flux Twitter",
+        feed: "https://nitter.actionsack.com/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "static/logos/FLUX.svg",
       },
       {
-        name: "Zel Twitter",
-        feed: "https://tweet.lambda.dance/zelcash/rss",
-        site: "https://twitter.com/zelcash",
-        about: "Official Zel Twitter.",
-        pic: "static/logos/ZEL.svg",
-      },
-      {
-        name: "Zel Twitter2",
-        feed: "https://tweet.lambda.dance/Zel_Core/rss",
+        name: "Zelcore Twitter",
+        feed: "https://nitter.actionsack.com/Zel_Core/rss",
         site: "https://twitter.com/Zel_Core",
-        about: "Official ZelCore Twitter.",
-        pic: "static/logos/ZEL.svg",
+        about: "Official zelcore Twitter.",
+        pic: "static/logos/FLUX.svg",
       },
     ],
     testnet: [
       {
-        name: "Zel Blog",
-        feed: "https://medium.com/feed/@ZelOfficial",
-        site: "https://medium.com/@ZelOfficial",
-        about: "Blog source for all things Zel, officially, from the Zel Team.",
-        pic: "static/logos/ZEL.svg",
+        name: "Flux Blog",
+        feed: "https://medium.com/feed/fluxofficial",
+        site: "https://medium.com/fluxofficial",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "static/logos/FLUX.svg",
+      },
+      {
+        name: "Flux Twitter",
+        feed: "https://nitter.actionsack.com/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "static/logos/FLUX.svg",
+      },
+      {
+        name: "Zelcore Twitter",
+        feed: "https://nitter.actionsack.com/Zel_Core/rss",
+        site: "https://twitter.com/Zel_Core",
+        about: "Official zelcore Twitter.",
+        pic: "static/logos/FLUX.svg",
       },
     ],
     bitcoin: [
@@ -157,7 +164,7 @@ const newssources = {
     zcash: [
       {
         name: "Zcash Twitter",
-        feed: "https://tweet.lambda.dance/zcashco/rss",
+        feed: "https://nitter.actionsack.com/zcashco/rss",
         site: "https://twitter.com/zcashco",
         about: "Zcash is a privacy-protectig, digital currency built on strong science.",
         pic: "static/logos/ZEC.svg",
@@ -166,7 +173,7 @@ const newssources = {
     bitcoinz: [
       {
         name: "BitcoinZ Twitter",
-        feed: "https://tweet.lambda.dance/BitcoinZTeam/rss",
+        feed: "https://nitter.actionsack.com/BitcoinZTeam/rss",
         site: "https://twitter.com/bitcoinzteam",
         about: "BitcoinZ - 100% community focused and ran Zcash fork.",
         pic: "static/logos/BTCZ.svg",
@@ -175,7 +182,7 @@ const newssources = {
     ravencoin: [
       {
         name: "Ravencoin Twitter",
-        feed: "https://tweet.lambda.dance/ravencoin/rss",
+        feed: "https://nitter.actionsack.com/ravencoin/rss",
         site: "https://twitter.com/ravencoin",
         about: "Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.",
         pic: "static/logos/RVN.svg",
@@ -184,7 +191,7 @@ const newssources = {
     bitcore: [
       {
         name: "Bitcore Twitter",
-        feed: "https://tweet.lambda.dance/Bitcore_BTX/rss",
+        feed: "https://nitter.actionsack.com/Bitcore_BTX/rss",
         site: "  https://twitter.com/Bitcore_BTX",
         about: "Bitcore is a cryptocurrency that is based on 0.15.2 of Bitcoin Core.",
         pic: "static/logos/BTX.svg",
@@ -256,7 +263,7 @@ const newssources = {
     kucoin: [
       {
         name: "Kucoin Blog",
-        feed: "https://tweet.lambda.dance/kucoincom/rss",
+        feed: "https://nitter.actionsack.com/kucoincom/rss",
         site: "https://twitter.com/kucoincom",
         about: "Kucoin is a cryptocurrency exchange.",
         pic: "static/logos/KCS.svg",
@@ -382,7 +389,7 @@ const newssources = {
     safecoin: [
       {
         name: "Safecoin Twitter",
-        feed: "https://tweet.lambda.dance/safecoins/rss",
+        feed: "https://nitter.actionsack.com/safecoins/rss",
         site: "https://twitter.com/safecoins",
         about: "Safecoin is the cryptocurrency of the SAFE (Secure Access For Everyone) network.",
         pic: "static/logos/SAFE.svg",
@@ -414,14 +421,14 @@ const newssources = {
       },
       {
         name: "Zcoin Twitter",
-        feed: "https://tweet.lambda.dance/zcoinofficial/rss",
+        feed: "https://nitter.actionsack.com/zcoinofficial/rss",
         site: "https://twitter.com/zcoinofficial",
         about: "Official Zcoin Twitter.",
         pic: "static/logos/FIRO.svg",
       },
       {
         name: "Zcoin Twitter 2",
-        feed: "https://tweet.lambda.dance/firoorg/rss",
+        feed: "https://nitter.actionsack.com/firoorg/rss",
         site: "https://twitter.com/firoorg",
         about: "Official Firo Twitter.",
         pic: "static/logos/FIRO.svg",
@@ -943,7 +950,7 @@ const newssources = {
     genesis: [
       {
         name: "Genesis Blog",
-        feed: "https://tweet.lambda.dance/genx_network/rss",
+        feed: "https://nitter.actionsack.com/genx_network/rss",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX.svg",
@@ -1024,7 +1031,7 @@ const newssources = {
     brd: [
       {
         name: "BRD Blog",
-        feed: "https://tweet.lambda.dance/brdhq/rss",
+        feed: "https://nitter.actionsack.com/brdhq/rss",
         site: "https://twitter.com/brdhq",
         about: "BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies.",
         pic: "static/logos/BRD.svg",
@@ -1087,7 +1094,7 @@ const newssources = {
     gunthy: [
       {
         name: "Gunthy Twitter",
-        feed: "https://tweet.lambda.dance/gunthyio/rss",
+        feed: "https://nitter.actionsack.com/gunthyio/rss",
         site: "https://twitter.com/Gunthyio",
         about: "Emotionless trading.",
         pic: "static/logos/GUNTHY.svg",
@@ -1141,7 +1148,7 @@ const newssources = {
     blox: [
       {
         name: "Blox Twitter",
-        feed: "https://tweet.lambda.dance/Blox_Official/rss",
+        feed: "https://nitter.actionsack.com/Blox_Official/rss",
         site: "https://twitter.com/Blox_Official",
         about: "Blox is a platform for managing crypto assets.",
         pic: "static/logos/CDT.svg",
@@ -1384,7 +1391,7 @@ const newssources = {
     dibicoin: [
       {
         name: "Dibicoin Twitter",
-        feed: "https://tweet.lambda.dance/dibicoin/rss",
+        feed: "https://nitter.actionsack.com/dibicoin/rss",
         site: "https://twitter.com/dibicoin",
         about: "Who let the DIBI out?",
         pic: "static/logos/DIBI.svg",
@@ -1465,7 +1472,7 @@ const newssources = {
     nuke: [
       {
         name: "Half Life Twitter",
-        feed: "https://tweet.lambda.dance/NukeToken/rss",
+        feed: "https://nitter.actionsack.com/NukeToken/rss",
         site: "https://twitter.com/NukeToken",
         about: "NUKE is a currency that grows by shrinking.",
         pic: "static/logos/NUKE.svg",
@@ -1474,7 +1481,7 @@ const newssources = {
     dogecoin: [
       {
         name: "Dogeocin Twitter",
-        feed: "https://tweet.lambda.dance/dogecoin/rss",
+        feed: "https://nitter.actionsack.com/dogecoin/rss",
         site: "https://twitter.com/dogecoin",
         about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
         pic: "static/logos/DOGE.svg",
@@ -1492,7 +1499,7 @@ const newssources = {
     bittorrent: [
       {
         name: "BitTorrent Twitter",
-        feed: "https://tweet.lambda.dance/bittorrent/rss",
+        feed: "https://nitter.actionsack.com/bittorrent/rss",
         site: "https://twitter.com/bittorrent",
         about: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019. \n"
           + "BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience, earn and spend digital currency without a middleman.",
@@ -1502,7 +1509,7 @@ const newssources = {
     digibyte: [
       {
         name: "DigiByte Twitter",
-        feed: "https://tweet.lambda.dance/DigiByteCoin/rss",
+        feed: "https://nitter.actionsack.com/DigiByteCoin/rss",
         site: "https://twitter.com/DigiByteCoin",
         about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
         pic: "static/logos/DGB.svg",
@@ -1511,7 +1518,7 @@ const newssources = {
     sinovate: [
       {
         name: "Sinovate Twitter",
-        feed: "https://tweet.lambda.dance/SinovateChain/rss",
+        feed: "https://nitter.actionsack.com/SinovateChain/rss",
         site: "https://twitter.com/SinovateChain",
         about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
           + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
@@ -1643,7 +1650,7 @@ const newssources = {
     veriblock: [
       {
         name: "Veriblock Twitter",
-        feed: "https://tweet.lambda.dance/VeriBlock/rss",
+        feed: "https://nitter.actionsack.com/VeriBlock/rss",
         site: "https://twitter.com/VeriBlock",
         about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
         pic: "static/logos/VBK.svg",
@@ -1652,7 +1659,7 @@ const newssources = {
     huobitoken: [
       {
         name: "Huobi Twitter",
-        feed: "https://tweet.lambda.dance/HuobiGlobal/rss",
+        feed: "https://nitter.actionsack.com/HuobiGlobal/rss",
         site: "https://twitter.com/HuobiGlobal",
         about: "The Leading Global Digital Asset Exchange.",
         pic: "static/logos/HT.svg",
@@ -1670,7 +1677,7 @@ const newssources = {
     okb: [
       {
         name: "OKEx Twitter",
-        feed: "https://tweet.lambda.dance/OKEx/rss",
+        feed: "https://nitter.actionsack.com/OKEx/rss",
         site: "https://twitter.com/OKEx",
         about: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
         pic: "static/logos/OKB.svg",
@@ -1679,7 +1686,7 @@ const newssources = {
     bitforextoken: [
       {
         name: "BitForex Twitter",
-        feed: "https://tweet.lambda.dance/bitforexcom/rss",
+        feed: "https://nitter.actionsack.com/bitforexcom/rss",
         site: "https://twitter.com/bitforexcom",
         about: "A global top-10 cryptocurrency exchange leader — BitForex provides powerful tools letting you take full control of your digital asset trades and management.",
         pic: "static/logos/BF.svg",
@@ -1715,7 +1722,7 @@ const newssources = {
     huobipooltoken: [
       {
         name: "Huobi Pool Twitter",
-        feed: "https://tweet.lambda.dance/EOS_huobipool/rss",
+        feed: "https://nitter.actionsack.com/EOS_huobipool/rss",
         site: "https://twitter.com/EOS_huobipool",
         about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
         pic: "static/logos/HPT.svg",
@@ -1724,7 +1731,7 @@ const newssources = {
     golfcoin: [
       {
         name: "Golfcoin Twitter",
-        feed: "https://tweet.lambda.dance/golfcoin/rss",
+        feed: "https://nitter.actionsack.com/golfcoin/rss",
         site: "https://twitter.com/golfcoin",
         about: "Rewards program for the golf industry.",
         pic: "static/logos/GOLF.svg",
@@ -1751,7 +1758,7 @@ const newssources = {
     zeroxbitcoin: [
       {
         name: "0xBitcoin Twitter",
-        feed: "https://tweet.lambda.dance/0xbitcoin_erc20/rss",
+        feed: "https://nitter.actionsack.com/0xbitcoin_erc20/rss",
         site: "https://twitter.com/0xbitcoin_erc20",
         about: "The first truly decentralized PoW mineable ERC20 token contract on the Ethereum blockchain.",
         pic: "static/logos/0xBTC.svg",
@@ -1760,7 +1767,7 @@ const newssources = {
     vayla: [
       {
         name: "Vayla Twitter",
-        feed: "https://tweet.lambda.dance/VAYLAtoken/rss",
+        feed: "https://nitter.actionsack.com/VAYLAtoken/rss",
         site: "https://twitter.com/VAYLAtoken",
         about: "A token valued by the people.",
         pic: "static/logos/VYA.svg",
@@ -1769,7 +1776,7 @@ const newssources = {
     aergo: [
       {
         name: "Aergo Twitter",
-        feed: "https://tweet.lambda.dance/AERGO_IO/rss",
+        feed: "https://nitter.actionsack.com/AERGO_IO/rss",
         site: "https://twitter.com/AERGO_IO",
         about: "It's not blockchain. It's blockchain for business.",
         pic: "static/logos/AERGO.svg",
@@ -1778,7 +1785,7 @@ const newssources = {
     lunchmoney: [
       {
         name: "Lunchmoney Twitter",
-        feed: "https://tweet.lambda.dance/LunchToken/rss",
+        feed: "https://nitter.actionsack.com/LunchToken/rss",
         site: "https://twitter.com/LunchToken",
         about: "ERC20 utility token used for incentivizing real feedback from restaurant and eatery patrons wordwide.",
         pic: "static/logos/LMY.svg",
@@ -1787,7 +1794,7 @@ const newssources = {
     kadena: [
       {
         name: "Kadena Twitter",
-        feed: "https://tweet.lambda.dance/kadena_io/rss",
+        feed: "https://nitter.actionsack.com/kadena_io/rss",
         site: "https://twitter.com/kadena_io",
         about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
         pic: "static/logos/KDA.svg",
@@ -1796,7 +1803,7 @@ const newssources = {
     netkoin: [
       {
         name: "NetKoin Twitter",
-        feed: "https://tweet.lambda.dance/netkoin/rss",
+        feed: "https://nitter.actionsack.com/netkoin/rss",
         site: "https://twitter.com/netkoin",
         about: "Earn cryptocurrency and redeem rewards from everday shopping!",
         pic: "static/logos/NTK.svg",
@@ -1805,7 +1812,7 @@ const newssources = {
     gammacoin: [
       {
         name: "GammaCoin Twitter",
-        feed: "https://tweet.lambda.dance/gammagmc/rss",
+        feed: "https://nitter.actionsack.com/gammagmc/rss",
         site: "https://twitter.com/gammagmc",
         about: "GMC are economic tokens and investments made using the Ethereum blockchain.",
         pic: "static/logos/GMC.svg",
@@ -1814,7 +1821,7 @@ const newssources = {
     bazookatoken: [
       {
         name: "Baztoken Twitter",
-        feed: "https://tweet.lambda.dance/BazToken/rss",
+        feed: "https://nitter.actionsack.com/BazToken/rss",
         site: "https://twitter.com/BazToken",
         about: "Baztoken is an ERC20 with limitless usability which aims to revolutionize the E-Gaming, Sports betting & E-commerce.",
         pic: "static/logos/BAZ.svg",
@@ -1823,7 +1830,7 @@ const newssources = {
     coinsto: [
       {
         name: "Coinsto Twitter",
-        feed: "https://tweet.lambda.dance/Coinstoglobal/rss",
+        feed: "https://nitter.actionsack.com/Coinstoglobal/rss",
         site: "https://twitter.com/Coinstoglobal",
         about: "Coinsto is a Cryptocurrency project helping people to learn by others experience.",
         pic: "static/logos/CSO.svg",
@@ -1832,7 +1839,7 @@ const newssources = {
     unibright: [
       {
         name: "UniBright Twitter",
-        feed: "https://tweet.lambda.dance/unibrightio/rss",
+        feed: "https://nitter.actionsack.com/unibrightio/rss",
         site: "https://twitter.com/unibrightio",
         about: "UniBright is a business integration specialists, now offering Unibright.io - the first unified framework for blockchain based business integration",
         pic: "static/logos/UBT.svg",
@@ -1841,7 +1848,7 @@ const newssources = {
     ilcoin: [
       {
         name: "ILCoin Twitter",
-        feed: "https://tweet.lambda.dance/ILC_B_Project/rss",
+        feed: "https://nitter.actionsack.com/ILC_B_Project/rss",
         site: "https://twitter.com/ILC_B_Project",
         about: "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, "
           + "but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.",
@@ -1851,7 +1858,7 @@ const newssources = {
     hex: [
       {
         name: "Hex Twitter",
-        feed: "https://tweet.lambda.dance/HEXcrypto/rss",
+        feed: "https://nitter.actionsack.com/HEXcrypto/rss",
         site: "https://twitter.com/HEXcrypto",
         about: "Hex twitter",
         pic: "static/logos/HEX.svg",
@@ -1867,7 +1874,7 @@ const newssources = {
     comp: [
       {
         name: "Compound Twitter",
-        feed: "https://tweet.lambda.dance/compoundfinance/rss",
+        feed: "https://nitter.actionsack.com/compoundfinance/rss",
         site: "https://twitter.com/compoundfinance",
         about: "Compound - an algorithmic, autonomous interest rate protocol for developers.",
         pic: "static/logos/COMP.svg",
@@ -1883,7 +1890,7 @@ const newssources = {
     vidt: [
       {
         name: "V-ID Twitter",
-        feed: "https://tweet.lambda.dance/v_id_blockchain/rss",
+        feed: "https://nitter.actionsack.com/v_id_blockchain/rss",
         site: "https://twitter.com/v_id_blockchain",
         about: "V-ID is a service that detects any unlawful manipulation of any digital file.",
         pic: "static/logos/VIDT.svg",
@@ -1899,7 +1906,7 @@ const newssources = {
     drgn: [
       {
         name: "Dragon Twitter",
-        feed: "https://tweet.lambda.dance/dragonchaingang/rss",
+        feed: "https://nitter.actionsack.com/dragonchaingang/rss",
         site: "https://twitter.com/dragonchaingang",
         about: "Dragonchain is a public/private hybrid blockchain. A private blockchain leveraging decentralization and interoperability to ensure your data is both verifiable and secure.",
         pic: "static/logos/DRGN.svg",
@@ -1908,7 +1915,7 @@ const newssources = {
     whale: [
       {
         name: "Whale Twitter",
-        feed: "https://tweet.lambda.dance/WhaleShark_Pro/rss",
+        feed: "https://nitter.actionsack.com/WhaleShark_Pro/rss",
         site: "https://twitter.com/WhaleShark_Pro",
         about: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
         pic: "static/logos/WHALE.svg",
@@ -1917,7 +1924,7 @@ const newssources = {
     wbtc: [
       {
         name: "WBTC Twitter",
-        feed: "https://tweet.lambda.dance/WrappedBTC/rss",
+        feed: "https://nitter.actionsack.com/WrappedBTC/rss",
         site: "https://twitter.com/WrappedBTC",
         about: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
         pic: "static/logos/WBTC.svg",
@@ -1926,7 +1933,7 @@ const newssources = {
     genesistron: [
       {
         name: "Genesis Blog",
-        feed: "https://tweet.lambda.dance/genx_network/rss",
+        feed: "https://nitter.actionsack.com/genx_network/rss",
         site: "https://twitter.com/genx_network",
         about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
         pic: "static/logos/GENX_TRC20.svg",
@@ -1935,7 +1942,7 @@ const newssources = {
     om: [
       {
         name: "MANTRA DAO Twitter",
-        feed: "https://tweet.lambda.dance/MANTRADAO/rss",
+        feed: "https://nitter.actionsack.com/MANTRADAO/rss",
         site: "https://twitter.com/MANTRADAO",
         about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. "
           + "Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
@@ -1954,7 +1961,7 @@ const newssources = {
     coinartisttoken: [
       {
         name: "Coin Artist Token Twitter",
-        feed: "https://tweet.lambda.dance/coin_artist/rss",
+        feed: "https://nitter.actionsack.com/coin_artist/rss",
         site: "https://twitter.com/coin_artist",
         about: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
         pic: "static/logos/COIN.svg",
@@ -1963,7 +1970,7 @@ const newssources = {
     uni: [
       {
         name: "Uniswap Twitter",
-        feed: "https://tweet.lambda.dance/UniswapProtocol/rss",
+        feed: "https://nitter.actionsack.com/UniswapProtocol/rss",
         site: "https://twitter.com/UniswapProtocol",
         about: "The Uniswap Protocol token.",
         pic: "static/logos/UNI.svg",
@@ -1981,7 +1988,7 @@ const newssources = {
     jst: [
       {
         name: "Just Twitter",
-        feed: "https://tweet.lambda.dance/DeFi_JUST/rss",
+        feed: "https://nitter.actionsack.com/DeFi_JUST/rss",
         site: "https://twitter.com/DeFi_JUST",
         about: "JUST is committed to developing TRON-b  ased DeFi protocols and aims to provide all-in-one financial solutions to its users.",
         pic: "static/logos/JST.svg",
@@ -1990,7 +1997,7 @@ const newssources = {
     beldex: [
       {
         name: "Beldex Twitter",
-        feed: "https://tweet.lambda.dance/BeldexCoin/rss",
+        feed: "https://nitter.actionsack.com/BeldexCoin/rss",
         site: "https://twitter.com/BeldexCoin",
         about: "BELDEX, a new cryptocurrency ecosystem has emerged with the sole purpose of resolving some of the key issues faced by the crypto world like privacy, liquidity, and usability.",
         pic: "static/logos/BDX.svg",
@@ -1999,7 +2006,7 @@ const newssources = {
     toshi: [
       {
         name: "Toshimon Twitter",
-        feed: "https://tweet.lambda.dance/Toshimon_/rss",
+        feed: "https://nitter.actionsack.com/Toshimon_/rss",
         site: "https://twitter.com/Toshimon_",
         about: "Toshimon Governance Token",
         pic: "static/logos/TOSHI.svg",
@@ -2008,7 +2015,7 @@ const newssources = {
     maid: [
       {
         name: "MaidSafeCoin Twitter",
-        feed: "https://tweet.lambda.dance/maidsafe/rss",
+        feed: "https://nitter.actionsack.com/maidsafe/rss",
         site: "https://twitter.com/maidsafe",
         about: "MaidSafeCoin (MAID) is the decentralized currency for the SAFE Network, a autonomous and decentralized data network that boasts extra hard disk space, processing power, and data connectivity for its users.",
         pic: "static/logos/MAID.svg",
@@ -2033,7 +2040,7 @@ const newssources = {
       },
       {
         name: "THORChain Twitter",
-        feed: "https://tweet.lambda.dance/thorchain_org/rss",
+        feed: "https://nitter.actionsack.com/thorchain_org/rss",
         site: "https://twitter.com/thorchain_org",
         about: "THORChain is a decentralised cross-chain liquidity network with no pegged or wrapped tokens.",
         pic: "static/logos/RUNE.svg",
@@ -2083,7 +2090,7 @@ const newssources = {
       },
       {
         name: "Nexo Twitter",
-        feed: "https://tweet.lambda.dance/NexoFinance/rss",
+        feed: "https://nitter.actionsack.com/NexoFinance/rss",
         site: "https://twitter.com/NexoFinance",
         about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
         pic: "static/logos/NEXO_ERC20.svg",
@@ -2106,7 +2113,7 @@ const newssources = {
       },
       {
         name: "Nexo Twitter",
-        feed: "https://tweet.lambda.dance/NexoFinance/rss",
+        feed: "https://nitter.actionsack.com/NexoFinance/rss",
         site: "https://twitter.com/NexoFinance",
         about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
         pic: "static/logos/NEXO_BEP2.svg",
@@ -2129,7 +2136,7 @@ const newssources = {
       },
       {
         name: "Dai Twitter",
-        feed: "https://tweet.lambda.dance/MakerDAO/rss",
+        feed: "https://nitter.actionsack.com/MakerDAO/rss",
         site: "https://twitter.com/MakerDAO",
         about: "DAI is an Ethereum-based stablecoin (stable-price cryptocurrency) whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
         pic: "static/logos/DAI.svg",
@@ -2145,7 +2152,7 @@ const newssources = {
     xdai: [
       {
         name: "xDai Twitter",
-        feed: "https://tweet.lambda.dance/xdaichain/rss",
+        feed: "https://nitter.actionsack.com/xdaichain/rss",
         site: "https://twitter.com/xdaichain",
         about: "The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees, and STAKE is used to support Proof-of-Stake consensus.",
         pic: "static/logos/STAKE.svg",
@@ -2154,10 +2161,10 @@ const newssources = {
     rev: [
       {
         name: "Revain Twitter",
-        feed: "https://tweet.lambda.dance/revain_org/rss",
+        feed: "https://nitter.actionsack.com/revain_org/rss",
         site: "https://twitter.com/revain_org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_ERC20.svg",
       },
       {
@@ -2165,7 +2172,7 @@ const newssources = {
         feed: "https://www.reddit.com/r/revain_org/.rss",
         site: "https://www.reddit.com/r/revain_org/",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_ERC20.svg",
       },
       {
@@ -2173,17 +2180,17 @@ const newssources = {
         feed: "https://medium.com/feed/@revain.org",
         site: "https://medium.com/@revain.org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_ERC20.svg",
       },
     ],
     revtrc: [
       {
         name: "Revain Twitter",
-        feed: "https://tweet.lambda.dance/revain_org/rss",
+        feed: "https://nitter.actionsack.com/revain_org/rss",
         site: "https://twitter.com/revain_org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_TRC20.svg",
       },
       {
@@ -2191,7 +2198,7 @@ const newssources = {
         feed: "https://www.reddit.com/r/revain_org/.rss",
         site: "https://www.reddit.com/r/revain_org/",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_TRC20.svg",
       },
       {
@@ -2199,14 +2206,14 @@ const newssources = {
         feed: "https://medium.com/feed/@revain.org",
         site: "https://medium.com/@revain.org",
         about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-         + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
+          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
         pic: "static/logos/REV_TRC20.svg",
       },
     ],
     aave: [
       {
         name: "Aave Twitter",
-        feed: "https://tweet.lambda.dance/AaveAave/rss",
+        feed: "https://nitter.actionsack.com/AaveAave/rss",
         site: "https://twitter.com/AaveAave",
         about: "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
         pic: "static/logos/AAVE.svg",
@@ -2229,7 +2236,7 @@ const newssources = {
     snx: [
       {
         name: "Synthetix Twitter",
-        feed: "https://tweet.lambda.dance/synthetix_io/rss",
+        feed: "https://nitter.actionsack.com/synthetix_io/rss",
         site: "https://twitter.com/synthetix_io",
         about: "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets. Each synthetic asset (or Synth) is an ERC20 token which tracks the price of an external asset.",
         pic: "static/logos/SNX.svg",
@@ -2245,7 +2252,7 @@ const newssources = {
     yfi: [
       {
         name: "yearn.finance Twitter",
-        feed: "https://tweet.lambda.dance/iearnfinance/rss",
+        feed: "https://nitter.actionsack.com/iearnfinance/rss",
         site: "https://twitter.com/iearnfinance",
         about: "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
         pic: "static/logos/YFI.svg",
@@ -2261,7 +2268,7 @@ const newssources = {
     ftt: [
       {
         name: "FTX Token Twitter",
-        feed: "https://tweet.lambda.dance/FTX_Official/rss",
+        feed: "https://nitter.actionsack.com/FTX_Official/rss",
         site: "https://twitter.com/FTX_Official",
         about: "FTX is owned by FTX Trading LTD, a company incorporated in Antigua and Barbuda. FTX was incubated by Alameda Research, a cryptocurrency liquidity provider. ",
         pic: "static/logos/FTT.svg",
@@ -2277,7 +2284,7 @@ const newssources = {
     grt: [
       {
         name: "The Graph Twitter",
-        feed: "https://tweet.lambda.dance/graphprotocol/rss",
+        feed: "https://nitter.actionsack.com/graphprotocol/rss",
         site: "https://twitter.com/graphprotocol",
         about: "The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem.",
         pic: "static/logos/GRT.svg",
@@ -2293,7 +2300,7 @@ const newssources = {
     sushi: [
       {
         name: "Sushi Twitter",
-        feed: "https://tweet.lambda.dance/sushiswap/rss",
+        feed: "https://nitter.actionsack.com/sushiswap/rss",
         site: "https://twitter.com/sushiswap",
         about: "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
         pic: "static/logos/SUSHI.svg",
@@ -2309,7 +2316,7 @@ const newssources = {
     cel: [
       {
         name: "Celsius Twitter",
-        feed: "https://tweet.lambda.dance/graphprotocol/rss",
+        feed: "https://nitter.actionsack.com/graphprotocol/rss",
         site: "https://twitter.com/graphprotocol",
         about: "Celsius (CEL) is an all-in-one banking and financial services platform for cryptocurrency users.",
         pic: "static/logos/CEL.svg",
@@ -2325,7 +2332,7 @@ const newssources = {
     cro: [
       {
         name: "Crypto.com Coin Twitter",
-        feed: "https://tweet.lambda.dance/cryptocom/rss",
+        feed: "https://nitter.actionsack.com/cryptocom/rss",
         site: "https://twitter.com/cryptocom",
         about: "Crypto.com Coin (CRO) is the native cryptocurrency token of Crypto.com Chain — a decentralized, open-source blockchain developed by the Crypto.com payment, trading and financial services company.",
         pic: "static/logos/CRO.svg",
@@ -2348,7 +2355,7 @@ const newssources = {
     uma: [
       {
         name: "UMA Twitter",
-        feed: "https://tweet.lambda.dance/UMAprotocol/rss",
+        feed: "https://nitter.actionsack.com/UMAprotocol/rss",
         site: "https://twitter.com/UMAprotocol",
         about: "UMA, or Universal Market Access, is a protocol for the creation of synthetic assets based on the Ethereum (ETH) blockchain. UMA was launched in December 2018.",
         pic: "static/logos/UMA.svg",
@@ -2364,7 +2371,7 @@ const newssources = {
     renbtc: [
       {
         name: "renBTC Twitter",
-        feed: "https://tweet.lambda.dance/renprotocol/rss",
+        feed: "https://nitter.actionsack.com/renprotocol/rss",
         site: "https://twitter.com/renprotocol",
         about: "RenBTC is an ERC-20 token built on the Ethereum network, pegged to Bitcoin. This means that each RENBTC can be always redeemed for one Bitcoin, and hence tends to maintain its value at close to the Bitcoin market rate.",
         pic: "static/logos/RENBTC.svg",
@@ -2387,7 +2394,7 @@ const newssources = {
     chsb: [
       {
         name: "SwissBorg Twitter",
-        feed: "https://tweet.lambda.dance/swissborg/rss",
+        feed: "https://nitter.actionsack.com/swissborg/rss",
         site: "https://twitter.com/swissborg",
         about: "SwissBorg aims to decentralize wealth management by making it fun, fair, and community-centric.",
         pic: "static/logos/CHSB.svg",
@@ -2403,7 +2410,7 @@ const newssources = {
     ampl: [
       {
         name: "Ampleforth Twitter",
-        feed: "https://tweet.lambda.dance/ampleforthorg/rss",
+        feed: "https://nitter.actionsack.com/ampleforthorg/rss",
         site: "https://twitter.com/ampleforthorg",
         about: "Ampleforth is an Ethereum-based cryptocurrency with an algorithmically adjusted circulating supply.",
         pic: "static/logos/AMPL.svg",
@@ -2419,7 +2426,7 @@ const newssources = {
     rsr: [
       {
         name: "Reserve Rights Twitter",
-        feed: "https://tweet.lambda.dance/reserveprotocol/rss",
+        feed: "https://nitter.actionsack.com/reserveprotocol/rss",
         site: "https://twitter.com/reserveprotocol",
         about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
         pic: "static/logos/RSR.svg",
@@ -2435,7 +2442,7 @@ const newssources = {
     ust: [
       {
         name: "TerraUSD Twitter",
-        feed: "https://tweet.lambda.dance/terra_money/rss",
+        feed: "https://nitter.actionsack.com/terra_money/rss",
         site: "https://twitter.com/terra_money",
         about: "A native Terra stablecoin pegged to the US Dollar.",
         pic: "static/logos/UST.svg",
@@ -2451,7 +2458,7 @@ const newssources = {
     hedg: [
       {
         name: "HedgeTrade Twitter",
-        feed: "https://tweet.lambda.dance/hedgetradehq/rss",
+        feed: "https://nitter.actionsack.com/hedgetradehq/rss",
         site: "https://twitter.com/hedgetradehq",
         about: "HedgeTrade aims to become a platform where the world’s best traders share their knowledge. Traders post predictions into a smart contract-powered Blueprint that users can purchase or unlock in order to access.",
         pic: "static/logos/HEDG.svg",
@@ -2460,7 +2467,7 @@ const newssources = {
     qnt: [
       {
         name: "Quant Twitter",
-        feed: "https://tweet.lambda.dance/quant_network/rss",
+        feed: "https://nitter.actionsack.com/quant_network/rss",
         site: "https://twitter.com/quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
         pic: "static/logos/QNT.svg",
@@ -2483,7 +2490,7 @@ const newssources = {
     ocean: [
       {
         name: "Ocean Protocol Twitter",
-        feed: "https://tweet.lambda.dance/oceanprotocol/rss",
+        feed: "https://nitter.actionsack.com/oceanprotocol/rss",
         site: "https://twitter.com/oceanprotocol",
         about: "Ocean Protocol is a blockchain-based ecosystem that allows individuals and businesses to easily unlock the value of their data and monetize it through the use of ERC-20 based datatokens.",
         pic: "static/logos/OCEAN.svg",
@@ -2499,7 +2506,7 @@ const newssources = {
     husd: [
       {
         name: "HUSD Twitter",
-        feed: "https://tweet.lambda.dance/Stablecoin_HUSD/rss",
+        feed: "https://nitter.actionsack.com/Stablecoin_HUSD/rss",
         site: "https://twitter.com/Stablecoin_HUSD",
         about: "HUSD is an ERC-20 token that is 1:1 ratio pegged with USD. It was issued by Stable Universal, an entity that claims to follow US regulations.",
         pic: "static/logos/HUSD.svg",
@@ -2515,7 +2522,7 @@ const newssources = {
     cvt: [
       {
         name: "CyberVein Twitter",
-        feed: "https://tweet.lambda.dance/cyberveingroup/rss",
+        feed: "https://nitter.actionsack.com/cyberveingroup/rss",
         site: "https://twitter.com/cyberveingroup",
         about: "CyberVein's big-data solution is based on the PISR (private, interlink, secure, robust) distributed database, database operations are stored on CyberVein blockchain network which runs on a Proof-of-Contribution (PoC) consensus mechanism.",
         pic: "static/logos/CVT.svg",
@@ -2524,7 +2531,7 @@ const newssources = {
     nxm: [
       {
         name: "NXM Twitter",
-        feed: "https://tweet.lambda.dance/NexusMutual/rss",
+        feed: "https://nitter.actionsack.com/NexusMutual/rss",
         site: "https://twitter.com/NexusMutual",
         about: "Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.",
         pic: "static/logos/NXM.svg",
@@ -2540,7 +2547,7 @@ const newssources = {
     gno: [
       {
         name: "Gnosis Twitter",
-        feed: "https://tweet.lambda.dance/gnosisPM/rss",
+        feed: "https://nitter.actionsack.com/gnosisPM/rss",
         site: "https://twitter.com/gnosisPM",
         about: "Started in 2015, Gnosis is a decentralized prediction market built on the Ethereum protocol. Third-party developers will also be able to introduce their own services.",
         pic: "static/logos/GNO.svg",
@@ -2556,7 +2563,7 @@ const newssources = {
     chzbnb: [
       {
         name: "Chiliz Twitter",
-        feed: "https://tweet.lambda.dance/chiliz/rss",
+        feed: "https://nitter.actionsack.com/chiliz/rss",
         site: "https://twitter.com/chiliz",
         about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
         pic: "static/logos/CHZ_BEP2.svg",
@@ -2572,7 +2579,7 @@ const newssources = {
     chz: [
       {
         name: "Chiliz Twitter",
-        feed: "https://tweet.lambda.dance/chiliz/rss",
+        feed: "https://nitter.actionsack.com/chiliz/rss",
         site: "https://twitter.com/chiliz",
         about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
         pic: "static/logos/CHZ_BEP2.svg",
@@ -2588,7 +2595,7 @@ const newssources = {
     suntrc: [
       {
         name: "SUN Twitter",
-        feed: "https://tweet.lambda.dance/defi_sunio/rss",
+        feed: "https://nitter.actionsack.com/defi_sunio/rss",
         site: "https://twitter.com/defi_sunio",
         about: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
         pic: "static/logos/SUN.svg",
@@ -2597,7 +2604,7 @@ const newssources = {
     usdjtrc: [
       {
         name: "USDJ Twitter",
-        feed: "https://tweet.lambda.dance/DeFi_JUST/rss",
+        feed: "https://nitter.actionsack.com/DeFi_JUST/rss",
         site: "https://twitter.com/DeFi_JUST",
         about: "In the whitepaper, USDJ is described as a a USD-pegged cryptocurrency backed by collateral assets, generated through decentralized smart contracts on the TRON network.",
         pic: "static/logos/USDJ.svg",
@@ -2606,7 +2613,7 @@ const newssources = {
     dot: [
       {
         name: "Polkadot Twitter",
-        feed: "https://tweet.lambda.dance/Polkadot/rss",
+        feed: "https://nitter.actionsack.com/Polkadot/rss",
         site: "https://twitter.com/Polkadot",
         about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
         pic: "static/logos/DOT.svg",
@@ -2629,7 +2636,7 @@ const newssources = {
     testnetwnd: [
       {
         name: "Polkadot Twitter",
-        feed: "https://tweet.lambda.dance/Polkadot/rss",
+        feed: "https://nitter.actionsack.com/Polkadot/rss",
         site: "https://twitter.com/Polkadot",
         about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
         pic: "static/logos/TESTWND.svg",
@@ -2652,7 +2659,7 @@ const newssources = {
     testnetkadena: [
       {
         name: "Kadena Twitter",
-        feed: "https://tweet.lambda.dance/kadena_io/rss",
+        feed: "https://nitter.actionsack.com/kadena_io/rss",
         site: "https://twitter.com/kadena_io",
         about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
         pic: "static/logos/KDA.svg",
@@ -2661,7 +2668,7 @@ const newssources = {
     ksm: [
       {
         name: "Kusama Twitter",
-        feed: "https://tweet.lambda.dance/kusamanetwork/rss",
+        feed: "https://nitter.actionsack.com/kusamanetwork/rss",
         site: "https://twitter.com/kusamanetwork",
         about: "Self-described as Polkadot's wild cousin, Kusama is an experimental blockchain platform that is designed to provide a massively interoperable and scalable framework for developers.",
         pic: "static/logos/KSM.svg",
@@ -2677,7 +2684,7 @@ const newssources = {
     inch: [
       {
         name: "1inch Twitter",
-        feed: "https://tweet.lambda.dance/1inchExchange/rss",
+        feed: "https://nitter.actionsack.com/1inchExchange/rss",
         site: "https://twitter.com/1inchExchange",
         about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
         pic: "static/logos/1INCH.svg",
@@ -2695,6 +2702,159 @@ const newssources = {
         site: "https://1inch-exchange.medium.com",
         about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
         pic: "static/logos/1INCH.svg",
+      },
+    ],
+    cardano: [
+      {
+        name: "Cardano Twitter",
+        feed: "https://nitter.net/cardano/rss",
+        site: "https://twitter.com/cardano",
+        about: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
+        pic: "static/logos/ADA.svg",
+      },
+      {
+        name: "Cardano Reddit",
+        feed: "https://www.reddit.com/r/cardano/.rss",
+        site: "https://www.reddit.com/r/cardano/",
+        about: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
+        pic: "static/logos/ADA.svg",
+      },
+      {
+        name: "Cardano Medium",
+        feed: "https://medium.com/feed/cardanorss",
+        site: "https://medium.com/cardanorss",
+        about: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a “first-principles” approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano’s multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must ‘square the circle’ by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks – in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a “wallet” to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation’s core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano’s wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don’t have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano’s long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
+        pic: "static/logos/ADA.svg",
+      },
+    ],
+    pancakeswap: [
+      {
+        name: "PancakeSwap Twitter",
+        feed: "https://nitter.actionsack.com/PancakeSwap/rss",
+        site: "https://twitter.com/PancakeSwap",
+        about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
+        pic: "static/logos/CAKE.svg",
+      },
+      {
+        name: "PancakeSwap Reddit",
+        feed: "https://www.reddit.com/r/pancakeswap/.rss",
+        site: "https://www.reddit.com/r/pancakeswap",
+        about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
+        pic: "static/logos/CAKE.svg",
+      },
+      {
+        name: "PancakeSwap Medium",
+        feed: "https://medium.com/feed/@pancakeswap",
+        site: "https://pancakeswap.medium.com",
+        about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
+        pic: "static/logos/CAKE.svg",
+      },
+    ],
+    matic: [
+      {
+        name: "Polygon Twitter",
+        feed: "https://nitter.actionsack.com/maticnetwork/rss",
+        site: "https://twitter.com/maticnetwork",
+        about: "Matic Network provides scalable, secure and instant Ethereum transactions using Plasma side chains and a Proof-of-Stake network.",
+        pic: "static/logos/MATIC.svg",
+      },
+      {
+        name: "Polygon Reddit",
+        feed: "https://www.reddit.com/r/maticnetwork/.rss",
+        site: "https://www.reddit.com/r/maticnetwork/",
+        about: "Matic Network provides scalable, secure and instant Ethereum transactions using Plasma side chains and a Proof-of-Stake network.",
+        pic: "static/logos/MATIC.svg",
+      },
+      {
+        name: "Polygon Medium",
+        feed: "https://medium.com/feed/@matic-network",
+        site: "https://medium.com/matic-network",
+        about: "Matic Network provides scalable, secure and instant Ethereum transactions using Plasma side chains and a Proof-of-Stake network.",
+        pic: "static/logos/MATIC.svg",
+      },
+    ],
+    bscbinance: [
+      {
+        name: "Binance Blog",
+        feed: "https://medium.com/feed/@binance",
+        site: "https://medium.com/@binance",
+        about: "Binance Exchange provides cryptocurrency trading for fintech and blockchain enthusiasts globally, with multilingual support over a variety of services.",
+        pic: "static/logos/BNB_BEP20.svg",
+      },
+    ],
+    arnx: [
+      {
+        name: "Aeron Blog",
+        feed: "https://medium.com/feed/@aeronaero",
+        site: "https://medium.com/@aeronaero/",
+        about: "Blockchain solutions for Aviation safety ",
+        pic: "static/logos/ARN.svg",
+      },
+    ],
+    bsceth: [
+      {
+        name: "Ethereum Reddit",
+        feed: "https://www.reddit.com/r/ethereum/.rss",
+        site: "https://www.reddit.com/r/ethereum/",
+        about: "Ethereum Reddit with the latest news and announcements",
+        pic: "static/logos/ETH_BEP20.svg",
+      },
+    ],
+    bscusdt: [
+      {
+        name: "Tether Blog",
+        feed: "https://tether.to/feed/",
+        site: "https://tether.to/press/",
+        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on other chain via their token standards.",
+        pic: "static/logos/USDT_BEP20.svg",
+      },
+    ],
+    bscwbnb: [
+      {
+        name: "Binance Blog",
+        feed: "https://medium.com/feed/@binance",
+        site: "https://medium.com/@binance",
+        about: "Binance Exchange provides cryptocurrency trading for fintech and blockchain enthusiasts globally, with multilingual support over a variety of services.",
+        pic: "static/logos/BNB_BEP20.svg",
+      },
+    ],
+    xcm: [
+      {
+        name: "CoinMetro Twitter",
+        feed: "https://nitter.actionsack.com/coinmetro/rss",
+        site: "https://twitter.com/coinmetro",
+        about: "CoinMetro describes itself as a fully-rounded FinTech ecosystem that was designed to simplify access to the digital asset economy. XCM is the native asset of the platform.",
+        pic: "static/logos/XCM.svg",
+      },
+      {
+        name: "CoinMetro Reddit",
+        feed: "https://www.reddit.com/r/coinmetro/.rss",
+        site: "https://www.reddit.com/r/coinmetro/",
+        about: "CoinMetro describes itself as a fully-rounded FinTech ecosystem that was designed to simplify access to the digital asset economy. XCM is the native asset of the platform.",
+        pic: "static/logos/XCM.svg",
+      },
+    ],
+    fluxkda: [
+      {
+        name: "Flux Blog",
+        feed: "https://medium.com/feed/fluxofficial",
+        site: "https://medium.com/fluxofficial",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "static/logos/FLUX.svg",
+      },
+      {
+        name: "Flux Twitter",
+        feed: "https://nitter.actionsack.com/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "static/logos/FLUX.svg",
+      },
+      {
+        name: "Zelcore Twitter",
+        feed: "https://nitter.actionsack.com/Zel_Core/rss",
+        site: "https://twitter.com/Zel_Core",
+        about: "Official zelcore Twitter.",
+        pic: "static/logos/FLUX.svg",
       },
     ],
   },

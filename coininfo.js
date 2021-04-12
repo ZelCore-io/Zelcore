@@ -327,7 +327,6 @@ const coininfo = {
     total_supply: 21000000000,
     circulating_supply: 8357497575,
     websites: [
-      "https://getbtcz.com",
       "https://btcz.rocks",
     ],
     explorers: [
@@ -3290,14 +3289,13 @@ const coininfo = {
   zelcash: {
     description: "Flux is the cryptocurrency that powers the Flux Ecosystem. The Flux Network comprises Proof-of-Work miners and FluxNode Operators, who are rewarded in Flux for validating transactions and providing computational resources.",
     total_supply: 440000000,
-    circulating_supply: 123095025,
+    circulating_supply: 146869743,
     websites: [
       "https://zel.network",
       "https://home.runonflux.io",
     ],
     explorers: [
-      "https://explorer.zel.network",
-      "https://explorer.zel.zelcore.io",
+      "https://explorer.runonflux.io",
       "https://explorer.flux.zelcore.io",
     ],
     medium: "https://fluxofficial.medium.com",
@@ -5511,6 +5509,27 @@ const coininfo = {
     twitter: "https://twitter.com/CoinMetro",
     reddit: "https://reddit.com/r/CoinMetro",
     repository: "https://github.com/CoinMetro/distribution-smart-contracts",
+  },
+  fluxkda: {
+    description: "Flux is the cryptocurrency that powers the Flux Ecosystem. The Flux Network comprises Proof-of-Work miners and FluxNode Operators, who are rewarded in Flux for validating transactions and providing computational resources.",
+    total_supply: 440000000,
+    circulating_supply: 146869743,
+    websites: [
+      "https://zel.network",
+      "https://home.runonflux.io",
+    ],
+    explorers: [
+      "https://explorer.runonflux.io",
+      "https://explorer.flux.zelcore.io",
+    ],
+    medium: "https://fluxofficial.medium.com",
+    discord: "https://discord.io/zel",
+    telegram: "https://t.me/zelhub",
+    bitcointalk: "https://bitcointalk.org/index.php?topic=2853688",
+    facebook: "https://www.facebook.com/groups/runonflux",
+    twitter: "https://twitter.com/RunOnFlux",
+    reddit: "https://www.reddit.com/r/ZelOfficial",
+    repository: "https://github.com/zelcash/zelcash",
   },
 };
 

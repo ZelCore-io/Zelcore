@@ -37,6 +37,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "https://bsc-dataseed1.binance.org",
         "https://bsc-dataseed1.defibit.io",
         "https://bsc-dataseed1.ninicoin.io",
+        "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
       ],
       fee: 63000,
       feepolicy: {
