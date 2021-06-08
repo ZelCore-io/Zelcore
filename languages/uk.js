@@ -419,7 +419,7 @@ export default {
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNode потребує:",
     cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Сервер: 2 vCore | 4GB RAM | 50 GB SSD",
+    cumulus_hardware: "Сервер: 2 vCore | 4GB RAM | 50 GB HDD",
     nimbus_spec: " Nimbus FluxNode потребує:",
     nimbus_twentyfive: "25 000 FLUX",
     nimbus_hardware: "Сервер: 4 vCore | 8GB RAM | 150 GB SSD",

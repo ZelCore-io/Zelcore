@@ -204,7 +204,7 @@ const coins = {
       "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
       "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
     ],
-    fee: 63000,
+    fee: 21000,
     feepolicy: {
       economy: 50,
       normal: 80,
@@ -497,7 +497,7 @@ const coins = {
       normal: 5,
       fast: 10,
     },
-    color: "#ed3483",
+    color: "#f4991a",
     backend: [
       "electrum",
     ],
@@ -819,7 +819,7 @@ const coins = {
     ],
     addresses: [],
     api: [
-      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x039b5649a59967e3e936d7471f9c3700100ee1ab&address=",
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xf34960d9d60be18cc1d5afc1a6f012a723a28811&address=",
     ],
     unit: "KCS",
     type: "eth",
@@ -847,7 +847,7 @@ const coins = {
       normal: 80,
       fast: 120,
     },
-    contractAddress: "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+    contractAddress: "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
     color: "#0093dd",
     decimals: 6,
     backend: [
@@ -944,21 +944,20 @@ const coins = {
   },
   kyber: {
     coin: "kyber",
-    name: "Kyber",
+    name: "KNC Legacy",
     uri: [
-      "kyber",
-      "knc",
+      "kncl",
     ],
     addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xdd974d5c2e2928dea5f71b9825b8b646686bd200&address=",
     ],
-    unit: "KNC",
+    unit: "KNCL",
     type: "eth",
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KNC.svg",
+    logolink: "static/logos/KNCL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -980,7 +979,7 @@ const coins = {
       fast: 120,
     },
     contractAddress: "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
-    color: "#31cb9e",
+    color: "#6c8275",
     decimals: 18,
     backend: [
       "infura",
@@ -1297,7 +1296,7 @@ const coins = {
       normal: 5,
       fast: 10,
     },
-    color: "#d21e2b",
+    color: "#000000",
     backend: [
       "insight",
     ],
@@ -1614,15 +1613,23 @@ const coins = {
     addresses: [],
     api: [
       "https://api.omniexplorer.info",
+      "https://api.omniwallet.org",
+      "https://omni.guarda.co",
+      "https://api.usdtexplorer.com",
     ],
     unit: "USDT",
     type: "omni",
     explorer: [
       "https://omniexplorer.info/tx/",
+      "https://omniwallet.org/tx/",
+      "https://omniexplorer.info/tx/",
     ],
     logolink: "static/logos/USDT_Omni.svg",
     node: [
-      "omniexplorer.info",
+      "https://api.usdtexplorer.com",
+      "https://api.omniexplorer.info",
+      "https://api.omniwallet.org",
+      "https://omni.guarda.co",
     ],
     fee: 0.0000226,
     feepolicy: {
@@ -3971,7 +3978,7 @@ const coins = {
       "https://etc.guarda.co",
       "https://etc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
     ],
-    fee: 63000,
+    fee: 21000,
     feepolicy: {
       economy: 0.1,
       normal: 0.3,
@@ -8292,13 +8299,14 @@ const coins = {
     logolink: "static/logos/KDA.svg",
     node: [
       "b.kadenachainwebnode.app.runonflux.io",
-      "api.chainweb.com",
+      "kadenachainwebnode.app.runonflux.io",
+      "kadena.app.runonflux.io",
     ],
     fee: 600,
     feepolicy: {
-      economy: 0.000001,
-      normal: 0.000005,
-      fast: 0.00001,
+      economy: 0.0000000001,
+      normal: 0.000001,
+      fast: 0.0001,
     },
     color: "#ED098F",
     backend: [
@@ -9140,7 +9148,7 @@ const coins = {
       "https://ropsten.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
       "https://ropsten.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
     ],
-    fee: 63000,
+    fee: 21000,
     feepolicy: {
       economy: 50,
       normal: 80,
@@ -9214,6 +9222,7 @@ const coins = {
     addresses: [],
     api: [
       "https://backend.bdx.zelcore.io",
+      "https://walapi.beldex.io",
     ],
     unit: "BDX",
     type: "cryptonight",
@@ -9308,15 +9317,23 @@ const coins = {
     addresses: [],
     api: [
       "https://api.omniexplorer.info",
+      "https://api.omniwallet.org",
+      "https://omni.guarda.co",
+      "https://api.usdtexplorer.com",
     ],
     unit: "MAID",
     type: "omni",
     explorer: [
       "https://omniexplorer.info/tx/",
+      "https://omniwallet.org/tx/",
+      "https://omniexplorer.info/tx/",
     ],
     logolink: "static/logos/MAID.svg",
     node: [
-      "omniexplorer.info",
+      "https://api.usdtexplorer.com",
+      "https://api.omniexplorer.info",
+      "https://api.omniwallet.org",
+      "https://omni.guarda.co",
     ],
     fee: 0.0000226,
     feepolicy: {
@@ -10970,9 +10987,9 @@ const coins = {
     ],
     fee: 600,
     feepolicy: {
-      economy: 0.000001,
-      normal: 0.000005,
-      fast: 0.00001,
+      economy: 0.0000000001,
+      normal: 0.000001,
+      fast: 0.0001,
     },
     color: "#ED098F",
     backend: [
@@ -11431,7 +11448,7 @@ const coins = {
   },
   fluxkda: {
     coin: "fluxkda",
-    name: "Flux Token",
+    name: "Flux KDA Token",
     uri: [
       "fluxkda",
     ],
@@ -11471,13 +11488,14 @@ const coins = {
     logolink: "static/logos/FLUXKDA.svg",
     node: [
       "b.kadenachainwebnode.app.runonflux.io",
-      "api.chainweb.com",
+      "kadenachainwebnode.app.runonflux.io",
+      "kadena.app.runonflux.io",
     ],
     fee: 600,
     feepolicy: {
-      economy: 0.000001,
-      normal: 0.000005,
-      fast: 0.00001,
+      economy: 0.0000000001,
+      normal: 0.000001,
+      fast: 0.0001,
     },
     color: "#2b61d1",
     backend: [
@@ -11486,6 +11504,717 @@ const coins = {
     namespace: "runonflux.flux",
     decimals: 8,
     chain: "mainnet01",
+  },
+  gatetoken: {
+    coin: "gatetoken",
+    name: "GateToken",
+    uri: [
+      "gatetoken",
+      "gt",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xe66747a101bff2dba3697199dcce5b743b454759&address=",
+    ],
+    unit: "GT",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/GT.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0xe66747a101bff2dba3697199dcce5b743b454759",
+    color: "#d35756",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
+  knc: {
+    coin: "knc",
+    name: "Kyber Network Crystal",
+    uri: [
+      "knc",
+      "kyber",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202&address=",
+    ],
+    unit: "KNC",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/KNC.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+    color: "#31cb9e",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
+  pre: {
+    coin: "pre",
+    name: "Presearch",
+    uri: [
+      "presearch",
+      "pre",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xEC213F83defB583af3A000B1c0ada660b1902A0F&address=",
+    ],
+    unit: "PRE",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/PRE.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+    color: "#2d8eff",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
+  solana: {
+    coin: "solana",
+    name: "Solana",
+    uri: [
+      "solana",
+      "sol",
+    ],
+    slip: 501,
+    mint: "11111111111111111111111111111111", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "SOL",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#1ae5ae",
+    backend: [
+      "solana",
+    ],
+    decimals: 9,
+  },
+  wrappedsolana: {
+    coin: "wrappedsolana",
+    name: "Wrapped Solana SPL",
+    uri: [
+      "wrappedsolana",
+      "wsol",
+      "sol",
+    ],
+    slip: 501,
+    mint: "So11111111111111111111111111111111111111112", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "WSOL",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/WSOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#1ae5ae",
+    backend: [
+      "solana",
+    ],
+    decimals: 9,
+  },
+  serum: {
+    coin: "serum",
+    name: "Serum SPL",
+    uri: [
+      "serum",
+      "srm",
+    ],
+    slip: 501,
+    mint: "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com", // uses solana api in code but for dex
+    ],
+    unit: "SRM",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/SRM_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#38c3d7",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  megaserum: {
+    coin: "megaserum",
+    name: "MegaSerum SPL",
+    uri: [
+      "megaserum",
+      "msrm",
+    ],
+    slip: 501,
+    mint: "MSRMcoVyrFxnSgo5uXwone5SKcGhT1KEJMFEkMEWf9L", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com", // uses solana api in code but for dex
+    ],
+    unit: "MSRM",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/MSRM_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#38c3d7",
+    backend: [
+      "solana",
+    ],
+    decimals: 0,
+  },
+  cope: {
+    coin: "cope",
+    name: "Cope SPL",
+    uri: [
+      "cope",
+    ],
+    slip: 501,
+    mint: "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com", // uses solana api in code but for dex
+    ],
+    unit: "COPE",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/COPE_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#01000f",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  bonfida: {
+    coin: "bonfida",
+    name: "Bonfida SPL",
+    uri: [
+      "bonfida",
+      "fida",
+    ],
+    slip: 501,
+    mint: "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "FIDA",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/FIDA_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#4949ff",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  fttsol: {
+    coin: "fttsol",
+    name: "Wrapped FTX Token SPL",
+    uri: [
+      "fttsol",
+      "wrappedftt",
+      "ftt",
+    ],
+    slip: 501,
+    mint: "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "FTT",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/FTT_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#02a6c2",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  kinsol: {
+    coin: "kinsol",
+    name: "Kin SPL",
+    uri: [
+      "kinsol",
+      "kin",
+    ],
+    slip: 501,
+    mint: "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "KIN",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/KIN_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#6f41e8",
+    backend: [
+      "solana",
+    ],
+    decimals: 5,
+  },
+  maps: {
+    coin: "maps",
+    name: "Maps SPL",
+    uri: [
+      "maps",
+    ],
+    slip: 501,
+    mint: "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "MAPS",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/MAPS_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#77d563",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  media: {
+    coin: "media",
+    name: "Media Network SPL",
+    uri: [
+      "media",
+      "medianetwork",
+    ],
+    slip: 501,
+    mint: "ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "MEDIA",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/MEDIA_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#272262",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  oxy: {
+    coin: "oxy",
+    name: "Oxygen SPL",
+    uri: [
+      "oxy",
+      "oxygen",
+    ],
+    slip: 501,
+    mint: "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "OXY",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/OXY_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#2261f6",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  ray: {
+    coin: "ray",
+    name: "Raydium SPL",
+    uri: [
+      "ray",
+      "raydium",
+    ],
+    slip: 501,
+    mint: "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "RAY",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/RAY_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#634efe",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  step: {
+    coin: "step",
+    name: "Step Finance SPL",
+    uri: [
+      "step",
+      "stepfinance",
+    ],
+    slip: 501,
+    mint: "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "STEP",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/STEP_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#ffd166",
+    backend: [
+      "solana",
+    ],
+    decimals: 9,
+  },
+  usdcsol: {
+    coin: "usdcsol",
+    name: "USD Coin SPL",
+    uri: [
+      "usdcsol",
+      "usdc",
+      "usdcoin",
+    ],
+    slip: 501,
+    mint: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "USDC",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/USDC_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#2775ca",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  usdtsol: {
+    coin: "usdtsol",
+    name: "Tether SPL",
+    uri: [
+      "usdtsol",
+      "usdt",
+      "tether",
+    ],
+    slip: 501,
+    mint: "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "USDT",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/USDT_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#26a17a",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  ropesol: {
+    coin: "ropesol",
+    name: "ROPE Token SPL",
+    uri: [
+      "rope",
+      "ropesol",
+      "ropetoken",
+    ],
+    slip: 501,
+    mint: "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "ROPE",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/ROPE_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#649acd",
+    backend: [
+      "solana",
+    ],
+    decimals: 9,
   },
 };
 

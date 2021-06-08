@@ -258,7 +258,7 @@ export default {
     take_some_mins: "Dette kan tage et par minutter, så vær tålmodig.",
 
     // Overview.vue
-    zelnodes: "zelnoder",
+    zelnodes: "FluxNoder",
     daemon_status: "Daemon Status: {status}",
     peers: "Klienter: {count}",
     height: "Højde: {height}",
@@ -419,7 +419,7 @@ export default {
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNode krav:",
     cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB SSD",
+    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB HDD",
     nimbus_spec: " Nimbus FluxNode krav:",
     nimbus_twentyfive: "25 000 FLUX",
     nimbus_hardware: "Server: 4 vCore | 8GB RAM | 150 GB SSD",

@@ -259,7 +259,7 @@ export default {
     take_some_mins: "Ovo može potrajati nekoliko minuta, budite strpljivi.",
 
     // Overview.vue
-    zelnodes: "zelnodes",
+    zelnodes: "FluxNodes",
     daemon_status: "Status daemona: {status}",
     peers: "Peer-ovi: {count}",
     height: "Visina: {height}",
@@ -421,7 +421,7 @@ export default {
     stratus: "Stratus",
     cumulus_spec: "Zahtevi za Cumulus FluxNode:",
     cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB SSD",
+    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB HDD",
     nimbus_spec: "Zahtevi za Nimbus FluxNode:",
     nimbus_twentyfive: "25 000 FLUX",
     nimbus_hardware: "Server: 4 vCore | 8GB RAM | 150 GB SSD",
