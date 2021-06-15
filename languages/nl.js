@@ -41,7 +41,7 @@ export default {
     twitter: "Twitter",
     facebook: "Facebook",
     medium: "Medium",
-    bitcointalk: "BitcoinPraat",
+    bitcointalk: "BitcoinTalk",
     telegram: "Telegram",
     slack: "Slack",
     back: "Terug",
