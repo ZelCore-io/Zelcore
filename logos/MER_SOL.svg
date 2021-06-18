@@ -1,0 +1,18 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256.9394 157.9194">
+  <defs>
+    <linearGradient id="linear-gradient" x1="17.5403" y1="109.4945" x2="99.4977" y2="-37.5694" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22c773"/>
+      <stop offset="1" stop-color="#29bae2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="52.6937" y1="129.0851" x2="134.6511" y2="-17.9787" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="124.2113" y1="168.9413" x2="206.1687" y2="21.8775" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="142.3065" y1="179.0256" x2="224.2639" y2="31.9618" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>mercurial finance logo mark full color rgb</title>
+  <g id="logoMark">
+    <path id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" d="M116.9693,72.0484,19.7084,24.9648A36.2262,36.2262,0,0,1,.6973,2.4139L0,0,.07.0416,97.0194,46.29a36.2063,36.2063,0,0,1,19.95,25.7581Z" style="fill: url(#linear-gradient)"/>
+    <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M100.4252,151.0436l-51.99-24.5244a33.2242,33.2242,0,0,1-17.7113-20.7023q-.5067-1.7278-1.0265-3.5017l.3612.1666v.0139l73.2125,34.5277a7.4721,7.4721,0,0,0,10.5183-8.2032h0A32.8955,32.8955,0,0,0,95.68,105.4922L33.5936,75.8693A33.2743,33.2743,0,0,1,16.0792,55.4658c-.4347-1.4376-.835-2.7764-1.1611-3.8915l.2777.125,83.3963,39.794a53.5715,53.5715,0,0,1,29.4879,37.98h0A19.6452,19.6452,0,0,1,100.4252,151.0436Z" style="fill: url(#linear-gradient-2)"/>
+    <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M139.97,72.0484,237.231,24.9648A36.2265,36.2265,0,0,0,256.2421,2.4139q.36-1.2458.6973-2.4139l-.07.0416L159.92,46.29a36.2061,36.2061,0,0,0-19.95,25.7581Z" style="fill: url(#linear-gradient-3)"/>
+    <path id="logoMark_PathItem_4" data-name="logoMark &lt;PathItem&gt;" d="M156.5142,151.0436l51.99-24.5244a33.2241,33.2241,0,0,0,17.7114-20.7023q.5066-1.7278,1.0264-3.5017l-.3611.1666v.0139l-73.2125,34.5277A7.4721,7.4721,0,0,1,143.15,128.82h0a32.8956,32.8956,0,0,1,18.1091-23.328l62.0867-29.6229A33.2739,33.2739,0,0,0,240.86,55.4658c.4348-1.4376.8351-2.7764,1.1612-3.8915l-.2777.125-83.3964,39.794a53.572,53.572,0,0,0-29.4879,37.98h0A19.6452,19.6452,0,0,0,156.5142,151.0436Z" style="fill: url(#linear-gradient-4)"/>
+  </g>
+</svg>
