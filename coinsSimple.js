@@ -12216,6 +12216,117 @@ const coins = {
     ],
     decimals: 9,
   },
+  mer: {
+    coin: "mersol",
+    name: "Mercurial Finance Token SPL",
+    uri: [
+      "mer",
+      "mersol",
+      "mertoken",
+    ],
+    slip: 501,
+    mint: "9u9iZBWqGsp5hXBxkVZtBTuLSGNAG9gEQLgpuVw39ASg", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "MER",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/MER_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#649acd",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  tulip: {
+    coin: "tulipsol",
+    name: "SolFarm Token SPL",
+    uri: [
+      "tulip",
+      "tulipsol",
+      "tuliptoken",
+    ],
+    slip: 501,
+    mint: "4fZ4UhDfrpUcUfPPUCuyFeyZYMM9AYAp5tkJ3egAB5QH", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "TULIP",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/TULIP_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#649acd",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  alephsol: {
+    coin: "alephsol",
+    name: "Aleph.im Token SPL",
+    uri: [
+      "aleph",
+      "alephsol",
+      "alephtoken",
+    ],
+    slip: 501,
+    mint: "6krMGWgeqD4CySfMr94WcfcVbf2TrMzfshAk5DcZ7mbu", // owner
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "ALEPH",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/ALEPH_SOL.png",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#649acd",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
 };
 
 module.exports = coins;

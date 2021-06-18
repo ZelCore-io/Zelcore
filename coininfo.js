@@ -5898,6 +5898,63 @@ const coininfo = {
     reddit: "https://reddit.com/r/RopeSolana",
     repository: "",
   },
+  mer: {
+    description: "Mercurial is stableswaps on steroids. On top of high efficiency/ low slippage swaps, we introduce dynamic fees and dynamic capital allocations to greatly improve profit potential for LPs, and liquidity depth for users.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    websites: [
+      "https://www.mercurial.finance/",
+    ],
+    explorers: [
+      "https://explorer.solana.com/address/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+    ],
+    medium: "",
+    discord: "https://discord.com/invite/WwFwsVtvpH",
+    telegram: "https://t.me/MercurialFi",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/MercurialFi",
+    reddit: "",
+    repository: "",
+  },
+  tulip: {
+    description: "SolFarm (TULIP) is the first yield aggregation platform built on Solana with auto-compounding vault strategies.",
+    total_supply: 10000000,
+    circulating_supply: 10000000,
+    websites: [
+      "https://solfarm.io/",
+    ],
+    explorers: [
+      "https://explorer.solana.com/address/TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
+    ],
+    medium: "",
+    discord: "https://discord.gg/vCaEUjnc28",
+    telegram: "",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/Solfarmio",
+    reddit: "",
+    repository: "",
+  },
+  alephsol: {
+    description: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages. It aims to be the infrastructure layer of the DeFI (decentralized finance) ecosystem.",
+    total_supply: 89070234,
+    circulating_supply: 89070234,
+    websites: [
+      "https://aleph.im/",
+    ],
+    explorers: [
+      "https://explorer.solana.com/address/CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
+    ],
+    medium: "",
+    discord: "h",
+    telegram: "https://t.me/alephim",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/aleph_im",
+    reddit: "",
+    repository: "",
+  },
 };
 
 export default {
