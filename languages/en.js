@@ -431,7 +431,7 @@ export default {
     insert_payment_id: "Insert Payment ID",
     transaction_sent: "Transaction Sent!",
     add_zelnode_to_monitor_info: "With this functionality you are able to add or renew your FluxNodes to your zelcore Mobile allowing monitoring of your FluxNodes on your mobile and receive alerts if they go offline. "
-      + "This functionality is only available on Mobile to zelcore+ users.",
+      + "This functionality is only available on mobile for zelcore+ users.",
     add_to_monitoring: "Add to Monitoring",
     initiate_full_node: "Initiate Full Node launch",
     invalid_openalias_prefix: "Invalid OpenAlias prefix",
@@ -2224,6 +2224,8 @@ export default {
     claiming_success: "Snapshot Reward Claimed",
     custom_address: "Custom Address",
     flux_on_kda_chain: "Flux on Kadena Chain",
+    flux_on_eth_chain: "Flux on Ethereum Chain",
+    flux_on_bsc_chain: "Flux on Binance Smart Chain",
     snapshot_unavailable: "Selectetd snapshot claim is unavailable",
     signing_error: "Internal error in message signing",
     not_fully_owned_claim: "Supplied Kadena receiving address is not fully owned on chain ID 0. Please select different Kadena account",

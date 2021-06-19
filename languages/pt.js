@@ -410,7 +410,7 @@ export default {
     no_payment_note: "Nenhuma nota de pagamento",
     insert_payment_id: "Inserir código de pagamento",
     transaction_sent: "Transação enviada!",
-    add_zelnode_to_monitor_info: "Com estas functionalidade irás poder adicionar/renovar os teus FluxNodes ao teu zelcore Mobile. "
+    add_zelnode_to_monitor_info: "Com estas functionalidade irás poder adicionar/renovar os teus FluxNodes ao teu zelcore nos dispositivos móveis. "
       + "Poderás monitorizar os teus FluxNode no teu telemóvel e receber notificações caso fiquem offline. Esta funcionalidade só está disponível no telemóvel para subscritores do zelcore+.",
     add_to_monitoring: "Adicionar à Monitorização",
     initiate_full_node: "Iniciar o lançamento do Node Completo",
@@ -2116,6 +2116,8 @@ export default {
     claiming_success: "Recompensa do Snapshot Obtida",
     custom_address: "Endereço Personalizado",
     flux_on_kda_chain: "Flux na Chain Kadena",
+    flux_on_eth_chain: "Flux na Chain Ethereum",
+    flux_on_bsc_chain: "Flux na Chain Smart Binance",
     snapshot_unavailable: "Snapshopt seleccionado não se encontra disponível",
     signing_error: "Erro interno a assinar a mensagem",
     not_fully_owned_claim: "Endereço Kadena indicado para receber não é possúido na chain ID 0. Por favor escolha uma conta Kadena diferente",

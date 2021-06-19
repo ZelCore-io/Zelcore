@@ -3197,6 +3197,107 @@ const newssources = {
       },
     ],
   },
+  fluxeth: [
+    {
+      name: "Flux Blog",
+      feed: "https://fluxofficial.medium.com/feed",
+      site: "https://fluxofficial.medium.com",
+      about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+      pic: "static/logos/FLUX.svg",
+    },
+    {
+      name: "Flux Twitter",
+      feed: "https://nitter.zelcore.io/RunOnFlux/rss",
+      site: "https://twitter.com/RunOnFlux",
+      about: "Official Flux Twitter.",
+      pic: "static/logos/FLUX.svg",
+    },
+    {
+      name: "Zelcore Twitter",
+      feed: "https://nitter.zelcore.io/Zel_Core/rss",
+      site: "https://twitter.com/Zel_Core",
+      about: "Official zelcore Twitter.",
+      pic: "static/logos/FLUX.svg",
+    },
+  ],
+  fluxbsc: [
+    {
+      name: "Flux Blog",
+      feed: "https://fluxofficial.medium.com/feed",
+      site: "https://fluxofficial.medium.com",
+      about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+      pic: "static/logos/FLUX.svg",
+    },
+    {
+      name: "Flux Twitter",
+      feed: "https://nitter.zelcore.io/RunOnFlux/rss",
+      site: "https://twitter.com/RunOnFlux",
+      about: "Official Flux Twitter.",
+      pic: "static/logos/FLUX.svg",
+    },
+    {
+      name: "Zelcore Twitter",
+      feed: "https://nitter.zelcore.io/Zel_Core/rss",
+      site: "https://twitter.com/Zel_Core",
+      about: "Official zelcore Twitter.",
+      pic: "static/logos/FLUX.svg",
+    },
+  ],
+  mersol: [
+    {
+      name: "Mercurial Blog",
+      feed: "https://mercurialfi.medium.com/feed",
+      site: "https://mercurialfi.medium.com",
+      about: "Mercurial is stableswaps on steroids.",
+      pic: "static/logos/MER_SOL.svg",
+    },
+    {
+      name: "Mercurial Twitter",
+      feed: "https://nitter.zelcore.io/MercurialFi/rss",
+      site: "https://twitter.com/MercurialFi",
+      about: "Mercurial is stableswaps on steroids.",
+      pic: "static/logos/MER_SOL.svg",
+    },
+  ],
+  tulipsol: [
+    {
+      name: "SolFarm Blog",
+      feed: "https://solfarm.medium.com/feed",
+      site: "https://solfarm.medium.com",
+      about: "SolFarm (TULIP) is the first yield aggregation platform built on Solana with auto-compounding vault strategies.",
+      pic: "static/logos/TULIP_SOL.svg",
+    },
+    {
+      name: "SolFarm Twitter",
+      feed: "https://nitter.zelcore.io/Solfarmio/rss",
+      site: "https://twitter.com/Solfarmio",
+      about: "SolFarm (TULIP) is the first yield aggregation platform built on Solana with auto-compounding vault strategies.",
+      pic: "static/logos/TULIP_SOL.svg",
+    },
+  ],
+  alephsol: [
+    {
+      name: "aleph.im Blog",
+      feed: "https://medium.com/feed/aleph-im",
+      site: "https://medium.com/aleph-im",
+      about: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages.",
+      pic: "static/logos/ALEPH_SOL.svg",
+    },
+    {
+      name: "aleph.im Reddit",
+      feed: "https://www.reddit.com/r/Aleph_im/.rss",
+      site: "https://www.reddit.com/r/Aleph_im/",
+      about: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages.",
+      pic: "static/logos/ALEPH_SOL.svg",
+    },
+    {
+      name: "aleph.im Twitter",
+      feed: "https://nitter.zelcore.io/aleph_im/rss",
+      site: "https://twitter.com/aleph_im",
+      about: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages.",
+      pic: "static/logos/ALEPH_SOL.svg",
+    },
+  ],
 };
 
 export default {

@@ -7142,7 +7142,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.01,
+    fee: 0.1,
     feepolicy: {
       economy: 0,
       normal: 10,
@@ -7180,7 +7180,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.01,
+    fee: 0.1,
     feepolicy: {
       economy: 0,
       normal: 10,
@@ -8912,7 +8912,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9191,7 +9191,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9452,7 +9452,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9775,7 +9775,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -10772,7 +10772,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -10810,7 +10810,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -12216,7 +12216,85 @@ const coins = {
     ],
     decimals: 9,
   },
-  mer: {
+  fluxeth: {
+    coin: "fluxeth",
+    name: "Flux ETH Token ERC20",
+    uri: [
+      "fluxeth",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x720cd16b011b987da3518fbf38c3071d4f0d1495&address=",
+    ],
+    unit: "FLUX-ETH",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/FLUXETH.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+    color: "#2b61d1",
+    decimals: 8,
+    backend: [
+      "infura",
+    ],
+  },
+  fluxbsc: {
+    coin: "fluxbsc",
+    name: "FLUX BSC Token BEP20",
+    uri: [
+      "fluxbsc",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xaff9084f2374585879e8b434c399e29e80cce635&address=",
+    ],
+    unit: "FLUX-BSC",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/FLUXBSC.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#2b61d1",
+    contractAddress: "0xaff9084f2374585879e8b434c399e29e80cce635",
+    decimals: 8,
+    backend: [
+      "bsc",
+    ],
+  },
+  mersol: {
     coin: "mersol",
     name: "Mercurial Finance Token SPL",
     uri: [
@@ -12225,7 +12303,7 @@ const coins = {
       "mertoken",
     ],
     slip: 501,
-    mint: "9u9iZBWqGsp5hXBxkVZtBTuLSGNAG9gEQLgpuVw39ASg", // owner
+    mint: "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
     addresses: [],
     api: [
       "https://api.mainnet-beta.solana.com",
@@ -12253,7 +12331,7 @@ const coins = {
     ],
     decimals: 6,
   },
-  tulip: {
+  tulipsol: {
     coin: "tulipsol",
     name: "SolFarm Token SPL",
     uri: [
@@ -12262,7 +12340,7 @@ const coins = {
       "tuliptoken",
     ],
     slip: 501,
-    mint: "4fZ4UhDfrpUcUfPPUCuyFeyZYMM9AYAp5tkJ3egAB5QH", // owner
+    mint: "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
     addresses: [],
     api: [
       "https://api.mainnet-beta.solana.com",
@@ -12299,7 +12377,7 @@ const coins = {
       "alephtoken",
     ],
     slip: 501,
-    mint: "6krMGWgeqD4CySfMr94WcfcVbf2TrMzfshAk5DcZ7mbu", // owner
+    mint: "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
     addresses: [],
     api: [
       "https://api.mainnet-beta.solana.com",
