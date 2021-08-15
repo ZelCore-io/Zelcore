@@ -501,6 +501,7 @@ export default {
     exchange_wallet: "Πορτοφόλι Ανταλλακτηρίου",
     selected_exchange_wallet: "Επιλέχθηκε πορτοφόλι ανταλλακτηρίου",
     wallet: "πορτοφόλι",
+    wallet_small: "πορτοφόλι",
     selected_wallet: "Επιλεγμένο Πορτοφόλι",
     show_private_key: "Εμφάνισε Ιδιωτικό Κλειδί",
     show_private_key_in_wif: "Εμφάνισε Ιδιωτικό Κλειδί σε WIF",

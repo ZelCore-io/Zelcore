@@ -6749,11 +6749,11 @@ const coins = {
     addresses: [],
     chainID: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     api: [
+      "https://eos.greymass.com:443",
       "https://api.eossweden.org",
       "https://api.eosdetroit.io",
       "https://eos.eoscafeblock.com",
       "https://eosbp.atticlab.net",
-      "https://eos.greymass.com:443",
     ],
     unit: "EOS",
     type: "eos",
@@ -10747,9 +10747,9 @@ const coins = {
   },
   suntrc: {
     coin: "suntrc",
-    name: "SUN",
+    name: "SUNOLD",
     uri: [
-      "sun",
+      "sunold",
     ],
     pubKeyHash: "1e",
     scriptHash: "16",
@@ -10762,7 +10762,7 @@ const coins = {
     api: [
       "https://api.trongrid.io/",
     ],
-    unit: "SUN",
+    unit: "SUNOLD",
     type: "tron",
     explorer: [
       "https://tronscan.org/#/transaction/",
@@ -12325,7 +12325,7 @@ const coins = {
       normal: 1,
       fast: 1,
     },
-    color: "#649acd",
+    color: "#22c778",
     backend: [
       "solana",
     ],
@@ -12362,7 +12362,7 @@ const coins = {
       normal: 1,
       fast: 1,
     },
-    color: "#649acd",
+    color: "#c44de5",
     backend: [
       "solana",
     ],
@@ -12389,7 +12389,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ALEPH_SOL.png",
+    logolink: "static/logos/ALEPH_SOL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12399,11 +12399,85 @@ const coins = {
       normal: 1,
       fast: 1,
     },
-    color: "#649acd",
+    color: "#3c8ded",
     backend: [
       "solana",
     ],
     decimals: 6,
+  },
+  busdbsc: {
+    coin: "busdbsc",
+    name: "Binance USD BEP20",
+    uri: [
+      "busdbsc",
+      "busd",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xe9e7cea3dedca5984780bafc599bd69add087d56&address=",
+    ],
+    unit: "BUSD",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/BUSD_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#F0B90B",
+    contractAddress: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
+  },
+  suntrcb: {
+    coin: "suntrcb",
+    name: "SUN",
+    uri: [
+      "sun",
+    ],
+    pubKeyHash: "1e",
+    scriptHash: "16",
+    wif: "9e",
+    normalAddress: "T",
+    normalAddressB: "T",
+    contractOrNumber: "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+    decimals: 18,
+    addresses: [],
+    api: [
+      "https://api.trongrid.io/",
+    ],
+    unit: "SUN",
+    type: "tron",
+    explorer: [
+      "https://tronscan.org/#/transaction/",
+      "https://trxplorer.io/tx/",
+    ],
+    logolink: "static/logos/SUN.svg",
+    node: [
+      "https://api.trongrid.io/",
+    ],
+    fee: 1,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 100,
+    },
+    color: "#ffd609",
+    backend: [
+      "tron",
+    ],
   },
 };
 

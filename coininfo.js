@@ -5225,7 +5225,7 @@ const coininfo = {
     repository: "",
   },
   suntrc: {
-    description: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
+    description: "SUNOLD (SUNOLD) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
     total_supply: 19900730,
     circulating_supply: 4629673,
     websites: [
@@ -5999,6 +5999,44 @@ const coininfo = {
     twitter: "https://twitter.com/aleph_im",
     reddit: "https://reddit.com/r/Aleph_im",
     repository: "https://github.com/aleph-im",
+  },
+  busdbsc: {
+    description: "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    total_supply: 917036462,
+    circulating_supply: 917036462,
+    websites: [
+      "https://paxos.com/busd",
+    ],
+    explorers: [
+      "https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    ],
+    medium: "",
+    discord: "",
+    telegram: "",
+    bitcointalk: "",
+    facebook: "https://facebook.com/binanceexchange",
+    twitter: "https://twitter.com/binance",
+    reddit: "https://reddit.com/r/binance",
+    repository: "https://github.com/paxosglobal/busd-contract",
+  },
+  suntrcb: {
+    description: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
+    total_supply: 19900730,
+    circulating_supply: 4629673,
+    websites: [
+      "https://sun.io/#/home",
+    ],
+    explorers: [
+      "https://tronscan.io/#/token20/TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+    ],
+    medium: "",
+    discord: "",
+    telegram: "https://t.me/SunMarket_Defi",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/defi_sunio",
+    reddit: "",
+    repository: "https://github.com/tronprotocol",
   },
 };
 

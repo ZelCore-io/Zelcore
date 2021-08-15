@@ -227,9 +227,9 @@ export default {
     create_recover_password_mechanism: "Vytvořit obnovovací fráze hesla",
     create_recover_password_mechanism_help: "Obnovovací fráze hesla se uloží pouze lokálně do tohoto počítače. Fráze jsou asociované s vaším účtem a zašifrované. "
       + "Užitečné při zapomenutí hesla.",
-    create_recover_password: "Zde můžete vytvořit obnovovací fráze hesla. Vyberte minimálně 5 otázek pro vytvoření obnovovacího mechanismu. Pamatujte, že kdokoliv s přístupem k vašemu počítači a znalostí odpovědí, se může do vašeho účtu dostat. "
-      + "Čím více otázek vyberete, tím silnější zabezpečení je. "
-      + "Odpovědi nerozlišují velká a malá písmenka.",
+    create_recover_password1: "Zde můžete vytvořit obnovovací fráze hesla. Vyberte minimálně 5 otázek pro vytvoření obnovovacího mechanismu. Pamatujte, že kdokoliv s přístupem k vašemu počítači a znalostí odpovědí, se může do vašeho účtu dostat.",
+    create_recover_password2: "Čím více otázek vyberete, tím silnější zabezpečení je.",
+    create_recover_password3: "Odpovědi nerozlišují velká a malá písmenka.",
     create_recover_password_select_question: "Vyberte otázku",
     create_recover_password_answer: "Zadejte odpověď",
     add_question_answer_not_set: "Otázka i odpověď musí být zadaná, než můžete vybrat další",
@@ -827,7 +827,8 @@ export default {
     hide_assets_in_portfolio: "Skrýt aktiva v portfoliu",
     exchange_wallet: "Peněženka pro směnárny",
     selected_exchange_wallet: "Vybraná směnárna",
-    wallet: "peněženka",
+    wallet: "Peněženka",
+    wallet_small: "peněženka",
     selected_wallet: "Vybraná peněženka",
     show_private_key: "Ukázat soukromý klíč",
     show_private_key_in_wif: "Ukázat soukromý klíč ve formátu WIF",
