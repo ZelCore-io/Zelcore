@@ -3316,6 +3316,85 @@ const newssources = {
       pic: "static/logos/SUN.svg",
     },
   ],
+  steth: [
+    {
+      name: "stETH Twitter",
+      feed: "https://nitter.zelcore.io/lidofinance/rss",
+      site: "https://twitter.com/lidofinance",
+      about: "stETH is a token that represents staked ether in Lido, combining the value of initial deposit + staking rewards. stETH tokens are pegged 1:1 to the ETH staked with Lido and can be used as one would use ether, allowing users to earn Eth2 staking rewards whilst benefiting from Defi yields.",
+      pic: "static/logos/steth.svg",
+    },
+    {
+      name: "stETH Reddit",
+      feed: "https://www.reddit.com/r/lidofinance//.rss",
+      site: "https://www.reddit.com/r/lidofinance/",
+      about: "stETH is a token that represents staked ether in Lido, combining the value of initial deposit + staking rewards. stETH tokens are pegged 1:1 to the ETH staked with Lido and can be used as one would use ether, allowing users to earn Eth2 staking rewards whilst benefiting from Defi yields.",
+      pic: "static/logos/steth.svg",
+    },
+  ],
+  amp: [
+    {
+      name: "Amp Twitter",
+      feed: "https://nitter.zelcore.io/amptoken/rss",
+      site: "https://twitter.com/amptoken",
+      about: "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility. Using Amp as collateral, individuals and entities benefit from instant, verifiable assurances for any kind of asset exchange.",
+      pic: "static/logos/amp.svg",
+    },
+    {
+      name: "Amp Medium",
+      feed: "https://medium.com/feed/amptoken",
+      site: "https://medium.com/amptoken",
+      about: "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility. Using Amp as collateral, individuals and entities benefit from instant, verifiable assurances for any kind of asset exchange.",
+      pic: "static/logos/amp.svg",
+    },
+  ],
+  telcoin: [
+    {
+      name: "Telcoin Twitter",
+      feed: "https://nitter.zelcore.io/telcoin_team/rss",
+      site: "https://twitter.com/telcoin_team",
+      about: "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+      pic: "static/logos/telcoin.svg",
+    },
+    {
+      name: "Telcoin Medium",
+      feed: "https://medium.com/feed/@telcoin",
+      site: "https://medium.com/@telcoin",
+      about: "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+      pic: "static/logos/telcoin.svg",
+    },
+  ],
+  harmonyone: [
+    {
+      name: "HarmonyOne Twitter",
+      feed: "https://nitter.zelcore.io/harmonyprotocol/rss",
+      site: "https://twitter.com/harmonyprotocol",
+      about: "A project to scale trust for billions of people and create a radically fair economy.",
+      pic: "static/logos/harmonyone.svg",
+    },
+    {
+      name: "HarmonyOne Reddit",
+      feed: "https://www.reddit.com/r/harmony_one//.rss",
+      site: "https://www.reddit.com/r/harmony_one/",
+      about: "A project to scale trust for billions of people and create a radically fair economy.",
+      pic: "static/logos/harmonyone.svg",
+    },
+    {
+      name: "HarmonyOne Medium",
+      feed: "https://medium.com/feed/harmony-one",
+      site: "https://medium.com/harmony-one",
+      about: "A project to scale trust for billions of people and create a radically fair economy.",
+      pic: "static/logos/harmonyone.svg",
+    },
+  ],
+    {
+      name: "MEDX TOKEN ERC20Twitter",
+      feed: "https://nitter.zelcore.io/_MediBloc/rss",
+      site: "https://twitter.com/_MediBloc",
+      about: "Decentralized healthcare information system",
+      pic: "static/logos/medxtoken.svg",
+    },
+  ],
 };
 
 export default {
