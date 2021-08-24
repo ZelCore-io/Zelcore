@@ -6043,7 +6043,7 @@ const coininfo = {
     total_supply: 980554,
     circulating_supply: 980380,
     websites: [
-      "https://stake.lido.fi/",
+      "https://stake.lido.fi",
     ],
     explorers: [
       "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
@@ -6056,7 +6056,7 @@ const coininfo = {
     bitcointalk: "",
     facebook: "",
     twitter: "https://twitter.com/lidofinance",
-    reddit: "https://www.reddit.com/r/lidofinance/",
+    reddit: "https://www.reddit.com/r/lidofinance",
     repository: "https://github.com/lidofinance",
   },
   amp: {
@@ -6064,7 +6064,7 @@ const coininfo = {
     total_supply: 99228318848,
     circulating_supply: 48013928909,
     websites: [
-      "https://amptoken.org/",
+      "https://amptoken.org",
     ],
     explorers: [
       "https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2",
@@ -6085,7 +6085,7 @@ const coininfo = {
     total_supply: 100000000000,
     circulating_supply: 56989406904,
     websites: [
-      "https://www.telco.in/",
+      "https://www.telco.in",
     ],
     explorers: [
       "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
@@ -6096,7 +6096,7 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/telcoincommunity",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/telcoin/",
+    facebook: "https://www.facebook.com/telcoin",
     twitter: "https://twitter.com/telcoin_team",
     reddit: "",
     repository: "https://github.com/telcoin",
@@ -6106,7 +6106,7 @@ const coininfo = {
     total_supply: 12459539943,
     circulating_supply: 10446007410,
     websites: [
-      "https://harmony.one/",
+      "https://harmony.one",
     ],
     explorers: [
       "https://etherscan.io/token/0x799a4202c12ca952cb311598a024c80ed371a41e",
@@ -6117,9 +6117,9 @@ const coininfo = {
     discord: "",
     telegram: "https://t.me/harmony_one",
     bitcointalk: "",
-    facebook: "https://www.facebook.com/harmonyoneprotocol/",
+    facebook: "https://www.facebook.com/harmonyoneprotocol",
     twitter: "https://twitter.com/harmonyprotocol",
-    reddit: "https://www.reddit.com/r/harmony_one/",
+    reddit: "https://www.reddit.com/r/harmony_one",
     repository: "https://github.com/harmony-one",
   },
 };
