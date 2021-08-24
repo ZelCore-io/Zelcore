@@ -12494,7 +12494,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/steth.svg",
+    logolink: "static/logos/STETH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -12537,7 +12537,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/amp.svg",
+    logolink: "static/logos/AMP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -12581,7 +12581,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/telcoin.svg",
+    logolink: "static/logos/TELCOIN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -12625,7 +12625,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/harmonyone.svg",
+    logolink: "static/logos/HARMONYONE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
