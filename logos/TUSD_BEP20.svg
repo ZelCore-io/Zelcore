@@ -1,1 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.733 67.733" height="256" width="256" xmlns:v="https://vecta.io/nano"><path d="M33.867 1.455h0c17.902 0 32.412 14.509 32.412 32.412h0c0 17.902-14.509 32.412-32.412 32.412h0c-17.902 0-32.412-14.509-32.412-32.412h0c0-17.902 14.509-32.412 32.412-32.412z" fill="#1a5aff"/><path d="M21.282 48.553l-7.166-4.102 11.673-20.156a4.16 4.16 0 0 1 3.57-2.076h9.318v8.103H31.84zm16.459 0l-7.166-4.102 11.673-20.156a4.16 4.16 0 0 1 3.57-2.076h9.318v8.103H48.3zM14.876 30.321v-8.103h8.103c0 4.482-3.621 8.103-8.103 8.103z" fill="#fff"/><circle r="30.834" cy="33.866" cx="33.867" fill="none" stroke="#474747" stroke-width="3.42" stroke-linejoin="round" paint-order="stroke fill markers"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 67.733 67.733"
+   height="256"
+   width="256"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="TUSD_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M33.867 1.455h0c17.902 0 32.412 14.509 32.412 32.412h0c0 17.902-14.509 32.412-32.412 32.412h0c-17.902 0-32.412-14.509-32.412-32.412h0c0-17.902 14.509-32.412 32.412-32.412z"
+     fill="#1a5aff"
+     id="path2" />
+  <path
+     d="M21.282 48.553l-7.166-4.102 11.673-20.156a4.16 4.16 0 0 1 3.57-2.076h9.318v8.103H31.84zm16.459 0l-7.166-4.102 11.673-20.156a4.16 4.16 0 0 1 3.57-2.076h9.318v8.103H48.3zM14.876 30.321v-8.103h8.103c0 4.482-3.621 8.103-8.103 8.103z"
+     fill="#fff"
+     id="path4" />
+  <ellipse
+     cy="33.866001"
+     cx="33.867001"
+     fill="none"
+     stroke="#474747"
+     stroke-width="3.42"
+     stroke-linejoin="round"
+     paint-order="stroke fill markers"
+     id="circle6"
+     rx="30.834126"
+     ry="30.834"
+     style="stroke:#e8a607;stroke-opacity:1" />
+</svg>

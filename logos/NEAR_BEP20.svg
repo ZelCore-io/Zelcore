@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" xmlns:v="https://vecta.io/nano"><circle cx="128" cy="128" r="118" fill="#fff" paint-order="stroke fill markers"/><path d="M178.021 53.484l-34.637 51.46c-2.395 3.504 2.211 7.747 5.527 4.796l34.084-29.696c.921-.738 2.211-.184 2.211 1.107v92.776c0 1.291-1.658 1.844-2.395.922L79.637 51.271C76.321 47.213 71.531 45 66.188 45h-3.685C52.922 45 45 52.931 45 62.707v130.587C45 203.069 52.922 211 62.687 211c6.08 0 11.791-3.136 15.108-8.484l34.637-51.46c2.395-3.504-2.211-7.747-5.527-4.796L72.82 175.771c-.921.738-2.211.184-2.211-1.107V82.073c0-1.291 1.658-1.844 2.395-.922l103.174 123.578c3.316 4.058 8.291 6.271 13.45 6.271h3.685c9.765 0 17.687-7.931 17.687-17.707V62.707C211 52.931 203.078 45 193.313 45c-6.264 0-11.976 3.136-15.292 8.484z"/><path d="M128 11.485C63.753 11.485 11.485 63.753 11.485 128S63.753 244.515 128 244.515 244.515 192.247 244.515 128 192.247 11.485 128 11.485M128 0c70.527 0 128 57.468 128 128s-57.468 128-128 128S0 198.53 0 128 57.473 0 128 0z" fill="#474747"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="NEAR_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <circle
+     cx="128"
+     cy="128"
+     r="118"
+     fill="#fff"
+     paint-order="stroke fill markers"
+     id="circle2" />
+  <path
+     d="M178.021 53.484l-34.637 51.46c-2.395 3.504 2.211 7.747 5.527 4.796l34.084-29.696c.921-.738 2.211-.184 2.211 1.107v92.776c0 1.291-1.658 1.844-2.395.922L79.637 51.271C76.321 47.213 71.531 45 66.188 45h-3.685C52.922 45 45 52.931 45 62.707v130.587C45 203.069 52.922 211 62.687 211c6.08 0 11.791-3.136 15.108-8.484l34.637-51.46c2.395-3.504-2.211-7.747-5.527-4.796L72.82 175.771c-.921.738-2.211.184-2.211-1.107V82.073c0-1.291 1.658-1.844 2.395-.922l103.174 123.578c3.316 4.058 8.291 6.271 13.45 6.271h3.685c9.765 0 17.687-7.931 17.687-17.707V62.707C211 52.931 203.078 45 193.313 45c-6.264 0-11.976 3.136-15.292 8.484z"
+     id="path4" />
+  <path
+     d="M128 11.485C63.753 11.485 11.485 63.753 11.485 128S63.753 244.515 128 244.515 244.515 192.247 244.515 128 192.247 11.485 128 11.485M128 0c70.527 0 128 57.468 128 128s-57.468 128-128 128S0 198.53 0 128 57.473 0 128 0z"
+     fill="#474747"
+     id="path6"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>

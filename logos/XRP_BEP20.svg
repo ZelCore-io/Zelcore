@@ -1,1 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490" xmlns:v="https://vecta.io/nano"><path d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z" fill="#0a93eb"/><path d="M344.8 123h40.6l-84.6 87.7c-29 30.6-77.4 31.9-108 2.9-1-.9-1.9-1.9-2.9-2.9L105.5 123h40.6l64.2 66.7c18.4 19.4 49 20.2 68.4 1.8l1.8-1.8 64.3-66.7zM145.6 367H105l85.1-88.3c29-30.6 77.4-31.9 108-2.9 1 .9 1.9 1.9 2.9 2.9l85 88.3h-40.6l-64.8-67.2c-18.4-19.4-49-20.2-68.4-1.8l-1.8 1.8-64.8 67.2z" fill="#fff"/><path d="M245.241 21.982C122.147 21.982 22.004 122.027 22.004 245s100.144 223.018 223.237 223.018S468.478 367.973 468.478 245 368.334 21.982 245.241 21.982m0-21.982c135.125 0 245.241 109.998 245.241 245S380.376 490 245.241 490 0 379.998 0 245 110.116 0 245.241 0z" fill="#474747"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 490 490"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="XRP_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7816327"
+     inkscape:cx="245"
+     inkscape:cy="245"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"
+     fill="#0a93eb"
+     id="path2" />
+  <path
+     d="M344.8 123h40.6l-84.6 87.7c-29 30.6-77.4 31.9-108 2.9-1-.9-1.9-1.9-2.9-2.9L105.5 123h40.6l64.2 66.7c18.4 19.4 49 20.2 68.4 1.8l1.8-1.8 64.3-66.7zM145.6 367H105l85.1-88.3c29-30.6 77.4-31.9 108-2.9 1 .9 1.9 1.9 2.9 2.9l85 88.3h-40.6l-64.8-67.2c-18.4-19.4-49-20.2-68.4-1.8l-1.8 1.8-64.8 67.2z"
+     fill="#fff"
+     id="path4" />
+  <path
+     d="M245.241 21.982C122.147 21.982 22.004 122.027 22.004 245s100.144 223.018 223.237 223.018S468.478 367.973 468.478 245 368.334 21.982 245.241 21.982m0-21.982c135.125 0 245.241 109.998 245.241 245S380.376 490 245.241 490 0 379.998 0 245 110.116 0 245.241 0z"
+     fill="#474747"
+     id="path6"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>

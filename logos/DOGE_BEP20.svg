@@ -1,1 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 490" xmlns:v="https://vecta.io/nano"><path d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z" fill="#ba9f33"/><path d="M239.3 346.2c36 0 63.5-9 82.6-27.1s28.7-43.7 28.7-77a101.9 101.9 0 0 0-7.4-38.9c-4.8-11.8-12.1-22.5-21.5-31.2-9.4-8.8-20.9-15.8-34.5-20.9s-29.2-7.7-46.8-7.7H152v38.3h18v125.9h-18v38.6h87.3zm42.2-78.6c-1.4 7.3-4 14.3-7.7 20.7-3.3 5.7-7.9 10.5-13.5 14.1-5.5 3.5-12.1 5.2-19.9 5.2h-11V181.8h11c7.7 0 14.4 1.7 19.9 5.1a41.47 41.47 0 0 1 13.5 13.5c3.6 6 6.2 12.5 7.7 19.3 1.7 7.4 2.5 14.9 2.5 22.5 0 8.5-.9 17-2.5 25.4h0z" fill="#f7f7f7"/><circle cx="245" cy="245" r="173" fill="none" stroke="#f7f7f7" stroke-width="10" stroke-linejoin="round"/><path d="M245.802 21.982C122.427 21.982 22.054 122.027 22.054 245s100.373 223.018 223.748 223.018S469.55 367.973 469.55 245 369.177 21.982 245.802 21.982m0-21.982c135.434 0 245.802 109.998 245.802 245S381.246 490 245.802 490 0 379.998 0 245 110.368 0 245.802 0z" fill="#474747"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 490 490"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="DOGE_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7816327"
+     inkscape:cx="245"
+     inkscape:cy="245"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"
+     fill="#ba9f33"
+     id="path2" />
+  <path
+     d="M239.3 346.2c36 0 63.5-9 82.6-27.1s28.7-43.7 28.7-77a101.9 101.9 0 0 0-7.4-38.9c-4.8-11.8-12.1-22.5-21.5-31.2-9.4-8.8-20.9-15.8-34.5-20.9s-29.2-7.7-46.8-7.7H152v38.3h18v125.9h-18v38.6h87.3zm42.2-78.6c-1.4 7.3-4 14.3-7.7 20.7-3.3 5.7-7.9 10.5-13.5 14.1-5.5 3.5-12.1 5.2-19.9 5.2h-11V181.8h11c7.7 0 14.4 1.7 19.9 5.1a41.47 41.47 0 0 1 13.5 13.5c3.6 6 6.2 12.5 7.7 19.3 1.7 7.4 2.5 14.9 2.5 22.5 0 8.5-.9 17-2.5 25.4h0z"
+     fill="#f7f7f7"
+     id="path4" />
+  <circle
+     cx="245"
+     cy="245"
+     r="173"
+     fill="none"
+     stroke="#f7f7f7"
+     stroke-width="10"
+     stroke-linejoin="round"
+     id="circle6" />
+  <path
+     d="M245.802 21.982C122.427 21.982 22.054 122.027 22.054 245s100.373 223.018 223.748 223.018S469.55 367.973 469.55 245 369.177 21.982 245.802 21.982m0-21.982c135.434 0 245.802 109.998 245.802 245S381.246 490 245.802 490 0 379.998 0 245 110.368 0 245.802 0z"
+     fill="#474747"
+     id="path8"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>

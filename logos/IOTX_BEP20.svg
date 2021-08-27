@@ -25,14 +25,14 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="1.7816327"
-   inkscape:cx="245"
-   inkscape:cy="245"
+   inkscape:cx="245.56128"
+   inkscape:cy="244.99999"
    inkscape:window-width="2560"
    inkscape:window-height="1361"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="IOTX" />
+   inkscape:current-layer="Main_copy_14" />
 <style
    type="text/css"
    id="style2">
@@ -67,4 +67,5 @@
      d="M 122.60001,11 C 61.063553,11 11,61.063553 11,122.60001 c 0,61.53645 50.063553,111.6 111.60001,111.6 61.53645,0 111.6,-50.06355 111.6,-111.6 C 234.20001,61.063553 184.13646,11 122.60001,11 m 0,-11 c 67.5512,0 122.6,55.043793 122.6,122.60001 0,67.55621 -55.04379,122.6 -122.6,122.6 C 55.043793,245.20001 0,190.15421 0,122.60001 0,55.043793 55.048798,0 122.60001,0 Z"
      stroke="none"
      fill="#474747"
-     id="path13" /></g></svg>
+     id="path13"
+     style="fill:#e8a607;fill-opacity:1" /></g></svg>
