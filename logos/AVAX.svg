@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1085" y1="373.21" x2="1085" y2="372.21" gradientTransform="matrix(28, 0, 0, -28, -30366.07, 10449.82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2674c8"/>
+      <stop offset="1" stop-color="#133a64"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="avalanche-avax-logo">
+        <circle id="Эллипс_162" data-name="Эллипс 162" cx="14" cy="14" r="14" fill="url(#linear-gradient)"/>
+        <path id="Контур_13586" data-name="Контур 13586" d="M19.12,14.39a.94.94,0,0,1,1.18-.59,1,1,0,0,1,.59.59l3.05,5.35c.49.85.09,1.54-.89,1.54H16.9c-1,0-1.37-.69-.89-1.54Zm-5.9-10.3a.92.92,0,0,1,1.17-.59.94.94,0,0,1,.59.59l.68,1.22,1.6,2.82a2.9,2.9,0,0,1,0,2.54L11.88,20a2.85,2.85,0,0,1-2.2,1.29H5.22c-1,0-1.38-.68-.89-1.54Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

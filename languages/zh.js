@@ -494,6 +494,7 @@ export default {
     exchange_wallet: "交易钱包",
     selected_exchange_wallet: "选择完成的交易钱包",
     wallet: "钱包",
+    wallet_small: "钱包",
     selected_wallet: "选择完成的钱包",
     show_private_key: "显示私钥",
     show_private_key_in_wif: "在WIF中显示私钥",

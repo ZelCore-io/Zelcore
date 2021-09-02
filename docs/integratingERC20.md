@@ -130,7 +130,7 @@ Here is an example for Quant
     qnt: [
       {
         name: "Quant Twitter",
-        feed: "https://nitter.actionsack.com/quant_network/rss",
+        feed: "https://nitter.zelcore.io/quant_network/rss",
         site: "https://twitter.com/quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
         pic: "static/logos/QNT.svg",

@@ -499,7 +499,8 @@ export default {
     hide_assets_in_portfolio: "Skjul eiendeler i portefølje",
     exchange_wallet: "Exchange wallet",
     selected_exchange_wallet: "Selected exchange wallet",
-    wallet: "lommebok",
+    wallet: "Lommebok",
+    wallet_small: "lommebok",
     selected_wallet: "Selected wallet",
     show_private_key: "Vis privat nøkkel",
     show_private_key_in_wif: "Vis privat nøkkel i WIF",
@@ -1066,7 +1067,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import wallet",
+    import_wallet: "Import Wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

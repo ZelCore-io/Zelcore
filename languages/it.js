@@ -226,9 +226,9 @@ export default {
     create_recover_password_mechanism: "Crea Meccanismo Recupero Password",
     create_recover_password_mechanism_help: "Il meccanismo di recupero password verrà archiviato localmente su questo dispositivo, associato al tuo account e crittografato. "
       + "Questo può essere utile nel caso in cui dimentichi la password.",
-    create_recover_password: "Qui puoi impostare il meccanismo di recupero della password. Dovrai selezionare almeno 3 domande per creare questo meccanismo di sicurezza e continuare con la creazione dell'account. Usa tutte le domande che desideri. "
-      + "Ricorda che se qualcuno che ti conosce hackera il tuo dispositivo, potrebbe conoscere le risposte alle domande più semplici. "
-      + "Più domande scegli, più sarai protetto. Le risposte non fanno distinzione tra maiuscole e minuscole.",
+    create_recover_password1: "Qui puoi impostare il meccanismo di recupero della password. Dovrai selezionare almeno 3 domande per creare questo meccanismo di sicurezza e continuare con la creazione dell'account. Usa tutte le domande che desideri.",
+    create_recover_password2: "Ricorda che se qualcuno che ti conosce hackera il tuo dispositivo, potrebbe conoscere le risposte alle domande più semplici.",
+    create_recover_password3: "Più domande scegli, più sarai protetto. Le risposte non fanno distinzione tra maiuscole e minuscole.",
     create_recover_password_select_question: "Seleziona Domanda",
     create_recover_password_answer: "Scrivi Risposta",
     add_question_answer_not_set: "Sia la domanda che la risposta devono essere compilate prima di poterne aggiungere un'altra o salvare.",
@@ -892,7 +892,8 @@ export default {
     hide_assets_in_portfolio: "Nascondi Assets dal Portafoglio",
     exchange_wallet: "Portafoglio per Exchange",
     selected_exchange_wallet: "Portafoglio exchange selezionato",
-    wallet: "portafoglio",
+    wallet: "Portafoglio",
+    wallet_small: "portafoglio",
     selected_wallet: "Portafoglio selezionato",
     show_private_key: "Mostra Chiave Privata",
     show_private_key_in_wif: "Mostra Chiave Privata in WIF",
