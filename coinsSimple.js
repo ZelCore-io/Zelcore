@@ -14168,11 +14168,12 @@ const coins = {
       "bsc",
     ],
   },
-  bscc98: {
-    coin: "bscc98",
+  bsccnineeight: {
+    coin: "bsccnineeight",
     name: "Coin98 BEP20",
     uri: [
       "bscc98",
+      "bsccnineeight",
       "c98",
     ],
     addresses: [],

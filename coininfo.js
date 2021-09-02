@@ -6919,7 +6919,7 @@ const coininfo = {
     reddit: "https://reddit.com/r/OntologyNetwork",
     repository: "https://github.com/ontio",
   },
-  bscc98: {
+  bsccnineeight: {
     description: "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
     total_supply: 1000000000,
     circulating_supply: 185000000,
@@ -6998,7 +6998,7 @@ const coininfo = {
   bscwrx: {
     description: "WRX, a utility token backed by WazirX, forms the backbone of the WazirX ecosystem. It launched WRX tokens to involve its community in helping build out WazirX, and reward them accordingly for contributing to success. This helps WazirX stay true to the ethos of cryptocurrency and blockchain - to share the rewards of WazirX's success with its early adopters and supporters.",
     total_supply: null,
-    circulating_supply: 452623998.0,
+    circulating_supply: 452623998,
     websites: [
       "https://wazirx.com",
     ],
