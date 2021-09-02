@@ -854,7 +854,8 @@ export default {
     save_and_continue: "Save and Continue",
     configuration_file_for_server: "Below you can find your generated Zel configuration file for your Server. Copy the text and paste it into ~/.zelcash/zelcash.conf file on your server. Then start your Zel daemon on your FluxNode server."
       + "Once your server FluxNode is synced, you can activate your FluxNode. Note that activation may take up to half an hour.",
-    configuration_file_for_server_deterministic: "Below you can find your generated Zel configuration file for your Server. Copy the text and paste it into ~/.zelcash/zelcash.conf file on your server. Then start your Zel daemon on your FluxNode server. "
+    configuration_file_for_server_deterministic: "This step can be skipped if you are using FluxNode multibox install script tool. "
+      + "Below you can find your generated Flux configuration file for your Server. Copy the text and paste it into ~/.flux/flux.conf file on your server. Then start your Flux daemon on your FluxNode server. "
       + "Once your server FluxNode is synced, you can activate your FluxNode. Note that activation can only be made after 100 block confirmations on the selected output, around 3.5 hours.",
     copy_configuration: "Copy configuration to clipboard",
     server_configuration_loading: "Configuration for your server is loading...",
@@ -2319,6 +2320,21 @@ export default {
     coinbase_claiming_success: "Coinbase Reward Claimed",
     coinbase_address_not_eligible: "Supplied address does not have claimable coinbase",
     coinbase_claiming_time: "It takes a while for coinbase claiming transaction to be visible on the explorer",
+    fusion_swap_history_unavailable: "Fusion Swap history is unavailable",
+    no_swap_history: "No Fusion Swap history",
+    loading_fusion_history: "Loading Fusion Swap history",
+    fusion_swap_in_progress: "Fusion Swap in progress",
+    dust_swap: "Minimum swappable amount not met",
+    max_swap: "Maximum swapable amount exceeded",
+    fusion_is_swapping: "Fusion is swapping",
+    invalid_deposit_address: "Invalid deposit address",
+    fusion_wallet: "Select a wallet that will be used for Fusion swap",
+    fusion_swap: "Fusion Swap",
+    choose_pair_first: "Choose swap pair first",
+    fusion_swap_info: "Embrace DeFi features by Swapping Flux to parallel chain!",
+    fusion_swap_updating: "Your Fusion Swap is being updated every few seconds.",
+    contact_fusion_support: "CONTACT FUSION SUPPORT!",
+    fusion_refused: "Fusion swap refused",
 
     // quickswap
     quickswap: "QuickSwap",
@@ -2331,6 +2347,7 @@ export default {
     provider: "Provider",
     visit: "Visit",
     my_buy_address: "My Buy Address",
+    my_sell_address: "My Sell Address",
     buy_txid: "Buy TX ID",
     sell_txid: "Sell TX ID",
     refund_txid: "Refund TX ID",

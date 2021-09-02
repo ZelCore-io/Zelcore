@@ -1,0 +1,70 @@
+<svg id="Blockonomi" xmlns="http://www.w3.org/2000/svg" width="1024" height="716" viewBox="0 0 1024 716">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-13, .cls-14, .cls-2, .cls-3, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        opacity: 0.48;
+      }
+
+      .cls-4, .cls-8 {
+        opacity: 0.53;
+      }
+
+      .cls-5, .cls-9 {
+        opacity: 0.55;
+      }
+
+      .cls-13, .cls-6 {
+        opacity: 0.64;
+      }
+
+      .cls-12, .cls-7 {
+        opacity: 0.6;
+      }
+
+      .cls-10 {
+        opacity: 0.7;
+      }
+
+      .cls-11 {
+        opacity: 0.73;
+      }
+
+      .cls-14 {
+        opacity: 0.77;
+      }
+    </style>
+  </defs>
+  <path id="Block" class="cls-1" d="M303.289,111H359v99H260V153.207C260,131.112,280.774,111,303.289,111Z"/>
+  <rect id="Block_kopiera" data-name="Block kopiera" x="359" y="111" width="99" height="99"/>
+  <rect id="Block_kopiera_2" data-name="Block kopiera 2" x="458" y="111" width="99" height="99"/>
+  <path id="Block_kopiera_3" data-name="Block kopiera 3" class="cls-2" d="M628.008,111H557v99h99V115.228C653.869,113.832,638.129,111,628.008,111Z"/>
+  <path id="Block_kopiera_4" data-name="Block kopiera 4" class="cls-3" d="M656,115v95h94S731.5,141.007,656,115Z"/>
+  <path id="Block_kopiera_5" data-name="Block kopiera 5" class="cls-2" d="M656,210h94s18.848,45.177-1,99H656V210Z"/>
+  <rect id="Block_kopiera_6" data-name="Block kopiera 6" class="cls-4" x="557" y="210" width="99" height="99"/>
+  <rect id="Block_kopiera_7" data-name="Block kopiera 7" class="cls-5" x="458" y="210" width="99" height="99"/>
+  <rect id="Block_kopiera_8" data-name="Block kopiera 8" x="359" y="210" width="99" height="99"/>
+  <rect id="Block_kopiera_9" data-name="Block kopiera 9" x="260" y="210" width="99" height="99"/>
+  <rect id="Block_kopiera_10" data-name="Block kopiera 10" x="260" y="309" width="99" height="99"/>
+  <rect id="Block_kopiera_10-2" data-name="Block kopiera 10" class="cls-6" x="359" y="309" width="99" height="99"/>
+  <rect id="Block_kopiera_10-3" data-name="Block kopiera 10" class="cls-7" x="458" y="309" width="99" height="99"/>
+  <rect id="Block_kopiera_10-4" data-name="Block kopiera 10" class="cls-5" x="557" y="309" width="99" height="99"/>
+  <path id="Block_kopiera_10-5" data-name="Block kopiera 10" class="cls-8" d="M656,309h93s-10.838,26.827-29,49.753C739.152,377.145,749,408,749,408H656V309Z"/>
+  <path id="Block_kopiera_10-6" data-name="Block kopiera 10" class="cls-9" d="M656,408h93s20.072,52.42,1,99H656V408Z"/>
+  <rect id="Block_kopiera_10-7" data-name="Block kopiera 10" class="cls-7" x="557" y="408" width="99" height="99"/>
+  <rect id="Block_kopiera_10-8" data-name="Block kopiera 10" class="cls-6" x="458" y="408" width="99" height="99"/>
+  <rect id="Block_kopiera_10-9" data-name="Block kopiera 10" class="cls-10" x="359" y="408" width="99" height="99"/>
+  <rect id="Block_kopiera_10-10" data-name="Block kopiera 10" class="cls-11" x="260" y="408" width="99" height="99"/>
+  <path id="Block_kopiera_11" data-name="Block kopiera 11" class="cls-12" d="M750,507H656v94C727.983,576.519,750,507,750,507Z"/>
+  <path id="Block_kopiera_11-2" data-name="Block kopiera 11" class="cls-13" d="M557,507h99v94s-24.849,5-34.617,5H557V507Z"/>
+  <rect id="Block_kopiera_11-3" data-name="Block kopiera 11" class="cls-10" x="458" y="507" width="99" height="99"/>
+  <rect id="Block_kopiera_11-4" data-name="Block kopiera 11" class="cls-11" x="359" y="507" width="99" height="99"/>
+  <path id="Block_kopiera_11-5" data-name="Block kopiera 11" class="cls-14" d="M260,556.538V507h99v99H307.241C283.266,606,260,581.275,260,556.538Z"/>
+</svg>
