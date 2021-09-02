@@ -3929,7 +3929,7 @@ const coininfo = {
     reddit: "",
     repository: "",
   },
-  factom: {
+  fantom: {
     description: "Rewards program for the golf industry.",
     total_supply: 2114495158.589,
     circulating_supply: 2114495158.589,
@@ -6278,8 +6278,8 @@ const coininfo = {
   },
   bscada: {
     description: "Cardano is a decentralised platform that will allow complex programmable transfers of value in a secure and scalable fashion. It is one of the first blockchains to be built in the highly secure Haskell programming language. Cardano is developing a <a href=\"https://coingecko.com/en?category_id=29\">smart contract platform</a> which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers.\r\n\r\nThe Cardano project is different from other blockchain projects as it openly addresses the need for regulatory oversight whilst maintaining consumer privacy and protections through an innovative software architecture. The protocol features a layered blockchain software stack that is flexible, scalable, and is being developed with the most rigorous academic and commercial software standards in the industry. \r\n\r\nCardano will use a democratic governance system that allows the project to evolve over time, and fund itself sustainably through a visionary treasury system.\r\n\r\n<b>Technological Innovation</b>\r\nCardano is the first protocol to incorporate Ouroboros, the ground breaking <a href=\"https://coingecko.com/en?hashing_algorithm=Proof+of+Stake&view=market\">proof of stake algorithm</a>. The IOHK team employed a 'first-principles' approach, driven by peer-reviewed academic research to build Cardano from the ground up.\r\n\r\nThe result of this collaborative effort is the first cryptocurrency to be based in Haskell code, which focuses on industrial strength product that delivers the resilience necessary for mission-critical systems, in this case, securing investment.\r\n\r\nCardano's multi-layer protocol performs advanced functions, and has a settlement layer that is elegantly linked to a control layer. The settlement layer will have a unit of account, while the control layer will run smart contracts and will be programmed to recognize identity, assisting compliance (and allowing blacklisting, for instance).\r\n\r\nThe protocol is geared towards protecting privacy rights of users, while also taking into account the needs of regulators. In doing so, Cardano is the first protocol to balance these requirements in a nuanced and effective way, pioneering a new approach for cryptocurrencies.\r\n\r\nThe system is also designed to allow upgrade through soft forks, enabling it to adapt to changing needs and evolve quickly, when required. A treasury system is also being installed that will ensure the sustainability of the protocol.\r\n\r\nCardano is built in the spirit of collaboration by being completely open source and patent-free. Engineered for efficiency and scalability, the Cardano ecosystem will develop into the most complete cryptocurrency ever constructed.\r\n\r\n<b>Conceptual Innovation</b>\r\n\r\ni. Privacy and regulation\r\nThe original <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain was meant to be a way for individuals to transact directly and anonymously with each other outside the control of banks and governments. This guarantees privacy in financial dealings, a fundamental individual right, but full anonymity can be counterproductive. Today most blockchain projects look to further either the aims of privacy or of regulation. To be effective globally, we think our blockchain must 'square the circle' by finding the right mix of individual privacy protection and provision for regulatory control.\r\n\r\nii. Governance\r\nPublic, decentralized blockchain projects rely on crowd-based governance models. This allows for democratic control of the network by its participants, which is essential to building truly decentralised economies. However, if they are not carefully designed, such governance can go awry. Both the Bitcoin and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> communities have experienced devastating schisms on the question of how to upgrade their networks in Ethereum's case already causing a split. The Cardano blockchain has an airtight governance model that allow the community to democratically take clear and binding decisions.\r\n\r\niii. Funding\r\nThe Cardano blockchain has sophisticated maintenance and development needs and is able to adequately fund itself, both in terms of running costs and new investment.\r\n\r\nThe Token: ADA Voucher\r\nEvery blockchain project has a token of value commonly referred to as a cryptocurrency. Ada is the cryptocurrency on the Cardano blockchain. With Ada, holders can send value between friends, pay for a good or service, deposit funds on an exchange, or enter an application. To perform a transfer on the settlement layer requires you own Ada, or acquire Ada through an exchange. It will also be the native token to be used in applications built on the computation layer.\r\n\r\nThe Wallet: <a href=\"https://daedaluswallet.io/\">Daedalus</a>\r\nEach cryptocurrency requires a 'wallet' to store Ada. Typically this wallet is a software application that can be installed on any computer or smartphone. Daedalus is a highly-engineered wallet with advanced security features that was developed by <a href=\"https://iohk.io/\">IOHK</a> specifically for the Cardano blockchain and protects your assets with the most advanced cryptography. In the future, Daedalus will not only support Ada, but other cryptocurrencies such as Bitcoin, <a href=\"https://coingecko.com/en/coins/ethereum-classic\">Ethereum Classic</a> and many more.\r\n\r\nThe <a href=\"https://cardanofoundation.org/en/\">Cardano Foundation</a>\r\nThe Cardano Foundation's core mission is to standardise, protect and promote the Cardano Protocol technology. The Cardano Foundation acts as a supervisory and educational body for Cardano. Our mission is to:\r\n\r\n1. Standardise, protect and promote the Cardano Protocol and its applications\r\n2. Be a community hub offering authoritative, timely information about the technology and Cardano's wide-ranging potential\r\n3. Liaise and influence government and regulatory bodies, form strategic partnerships with businesses, enterprises and other open source projects and aid the creation of formal software standards for Cardano, a crucial feature for its long term success and critical in adoption and government engagement\r\n\r\nAreas of Focus:\r\n1. Cardano Protocol - We function as an objective standards body for the Cardano protocol as it evolves over time.\r\n2. Cardano community - We support, grow and help educate the Cardano blockchain community.\r\n3. Cardano ecosystem - We work to expand and protect the Cardano ecosystem. This includes promoting Cardano as a platform for commercial entities and serving as an objective organization for enterprises interested in joining Cardano.\r\n4. Serving the wider blockchain community - We aim to influence and progress the emerging commercial and legislative landscape for blockchain technology and cryptocurrencies in general. We proactively approach government and regulatory bodies and form strategic partnerships with businesses, enterprises and other open-source projects.\r\n\r\nIOHK\r\nFounded in 2015 by <a href=\"https://iohk.io/team/charles-hoskinson/\">Charles Hoskinson</a> and <a href=\"https://iohk.io/team/jeremy-wood/\">Jeremy Wood</a>, IOHK is a world-class engineering and technology company committed to using peer-to-peer innovations to provide financial services to three billion people that don't have them. The group is contracted to design, build, and maintain Cardano through to 2020.\r\n\r\nEmurgo\r\n<a href=\"https://emurgo.io/\">Emurgo</a> is the venture building entity in the Cardano ecosystem, its goal is to aid, integrate, and foster Cardano blockchain applications.\r\n\r\nEmurgo captures the transformative power that blockchain technology brings to the developing world. Decentralized applications built on Cardano technology, funded and supported by Emurgo, will have the potential to build groundbreaking applications.\r\n\r\nProject Road Map\r\nIOHK has now released the settlement layer. This means you can transact, trade, and purchase Ada tokens fully independently of the computation layer. The goal for the computation layer is to have a beta released by the first quarter of 2018. Once both settlement and computation layers are live, users will be able to setup a custom environment to build decentralised applications on the Cardano stack.\r\nIn 2019, IOHK intends to work on Cardano's long-term scalability and augment its capabilities. As developers, IOHK has been contracted through 2020 to make sure Cardano is being adequately maintained. The goal is to create a sustainable ecosystem that is capable of funding and supporting itself.",
-    total_supply: null,
-    circulating_supply: 32145403414.0,
+    total_supply: 45000000000,
+    circulating_supply: 32145403414,
     websites: [
       "https://cardano.org",
     ],
@@ -6300,8 +6300,8 @@ const coininfo = {
   },
   bscxrp: {
     description: "Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.\r\n\r\nRipple was originally founded by a single company, <a href=\"https://crunchbase.com/organization/ripple-labs\">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=\"https://coingecko.com/en/coins/bitcoin\">bitcoin's</a> development. It also doesn't have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself - around 60 billion at the latest count.\r\n\r\nEven at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple's price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency's value, and isn't something Ripple Labs plans to do anytime soon.\r\n\r\nIn actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.\r\n\r\nXRP by Ripple price can be found on this page alongside the market capitalization and additional stats.\r\n\r\n",
-    total_supply: null,
-    circulating_supply: 46513604835.0,
+    total_supply: 100000000000,
+    circulating_supply: 46513604835,
     websites: [
       "https://ripple.com/xrp",
     ],
@@ -6323,7 +6323,7 @@ const coininfo = {
   bscdoge: {
     description: "A Bitcoin clone that has reached success through clever marketing. Over the past year well over a hundred new cryptocurrencies have been created but not many have instantly carved out a niche. Dogecoin has sponsored multiple high profile events such as Nascar teams and the winter Olympics - even so, there are few locations to use the coin - and instead, it has become a de facto internet tipping currency. The coin has produced 100 billion units by the end of 2014 and is now producing roughly 5 billion units per year.",
     total_supply: null,
-    circulating_supply: 131022506796.0,
+    circulating_supply: 131022506796,
     websites: [
       "https://dogecoin.com",
     ],
@@ -6345,7 +6345,7 @@ const coininfo = {
   bscusdc: {
     description: "USD Coin (known by its ticker USDC) is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by $1 that is held in reserve, in a mix of cash and short-term U.S. Treasury bonds. The Centre consortium, which is behind this asset, says USDC is issued by regulated financial institutions.",
     total_supply: null,
-    circulating_supply: 26983014185.0,
+    circulating_supply: 26983014185,
     websites: [
       "https://www.centre.io",
     ],
@@ -6365,7 +6365,7 @@ const coininfo = {
   bscdot: {
     description: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other. Polkadot development is on track to deliver a robust platform for security, scalability, and innovation. Currently, Polkadot is in the NPoS phase of launch. Polkadot enables cross-blockchain transfers of any type of data or asset, not just tokens. Connecting to Polkadot gives users the ability to interoperate with a wide variety of blockchains in the Polkadot network. The DOT token serves three distinct purposes: governance over the network, staking, and bonding.",
     total_supply: null,
-    circulating_supply: 987579315.0,
+    circulating_supply: 987579315,
     websites: [
       "https://polkadot.network",
     ],
@@ -6386,8 +6386,8 @@ const coininfo = {
   },
   bscuni: {
     description: "Uniswap v1 is an on-chain system of smart contracts on the Ethereum blockchain, implementing an automated liquidity protocol based on a “constant product formula”. Each Uniswap v1 pair stores pooled reserves of two assets, and provides liquidity for those two assets, maintaining the invariant that the product of the reserves cannot decrease. Traders pay a 30-basis-point fee on trades, which goes to liquidity providers. The contracts are non-upgradeable. Uniswap v2 is a new implementation based on the same formula, with several new highly-desirable features. Most significantly, it enables the creation of arbitrary ERC20/ERC20 pairs, rather than supporting only pairs between ERC20 and ETH. It also provides a hardened price oracle that accumulates the relative price of the two assets at the beginning of each block. This allows other contracts on Ethereum to estimate the time-weighted average price for the two assets over arbitrary intervals. Finally, it enables “flash swaps” where users can receive assets freely and use them elsewhere on the chain, only paying for (or returning) those assets at the end of the transaction.",
-    total_supply: null,
-    circulating_supply: 611616289.0,
+    total_supply: 1000000000,
+    circulating_supply: 611616289,
     websites: [
       "https://uniswap.org",
     ],
@@ -6405,8 +6405,8 @@ const coininfo = {
   },
   bscbch: {
     description: "Bitcoin Cash is a hard fork of <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> with a protocol upgrade to fix on-chain capacity. Bitcoin Cash intends to be a Bitcoin without Segregated Witness (SegWit) as soft fork, where upgrades of the protocol are done mainly through hard forks and without changing the original economic rules of the Bitcoin.\r\n\r\nBitcoin Cash (BCH) is released on 1st August 2017 as an upgraded version of the original <a href=\"https://coingecko.com/en/coins/bitcoin/developer#panel\">Bitcoin Core software</a>. The main upgrade is the increase in the block size limit from 1MB to 8MB. This effectively allows miners on the BCH chain to process up to 8 times more payments per second in comparison to Bitcoin. This makes for faster, cheaper transactions and a much smoother user experience.\r\n\r\nWhy was Bitcoin Cash Created?\r\n\r\nThe main objective of Bitcoin Cash is to to bring back the essential qualities of money inherent in the original Bitcoin software. Over the years, these qualities were filtered out of Bitcoin Core and progress was stifled by various people, organizations, and companies involved in Bitcoin protocol development. The result is that Bitcoin Core is currently unusable as money due to increasingly high fees per transactions and transfer times taking hours to complete. This is all because of the 1MB limitation of Bitcoin Core's block size, causing it unable to accommodate to large number of transactions.\r\n\r\nEssentially Bitcoin Cash is a community-activated upgrade (otherwise known as a hard fork) of Bitcoin that increased the block size to 8MB, solving the scaling issues that plague Bitcoin Core today.\r\n\r\nNov 16th 2018: A hashwar resulted in a split between <a href=\"https://coingecko.com/en/coins/bitcoin-cash-sv\">Bitcoin SV</a> and <a href=\"https://coingecko.com/en/coins/bitcoin-cash-abc\">Bitcoin ABC</a>",
-    total_supply: null,
-    circulating_supply: 18828450.0,
+    total_supply: 21000000,
+    circulating_supply: 18828450,
     websites: [
       "https://bitcoincash.org",
     ],
@@ -6426,8 +6426,8 @@ const coininfo = {
   },
   bscltc: {
     description: "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or 'altcoin' has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n'While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,' Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin's blocks would be larger, but with more 'orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
-    total_supply: null,
-    circulating_supply: 66752615.0,
+    total_supply: 84000000,
+    circulating_supply: 66752615,
     websites: [
       "https://litecoin.org",
     ],
@@ -6450,8 +6450,8 @@ const coininfo = {
   },
   bsclink: {
     description: "LINK (LN) is a digital token created by Line Corporation is a subsidiary of the South Korean internet search giant Naver Corporation.\r\n\r\nLINK is the digital token that powers the LINE token economy. LINK can be used to pay for or receive benefits from various LINE service categories, such as content, commerce, social, gaming, and digital asset exchange. LINK holds a minimum value of USD 5 when used for payment within the LINE ecosystem, but can rise in value according to market conditions. \r\n\r\nLINE is focused on expanding the LINE token economy through LINK and a diverse range of dApps to build an ecosystem that serves LINE's hundreds of millions of global users.\r\n\r\nLINK is distributed as rewards for users of BITBOX. By offering a variety of LINK-related promotions, including rewards based on trading volume and deposits, the BITBOX team aims to encourage participation in the exchange.\r\n\r\nIn addition, when you pay trading fees on BITBOX with LINK, LINK will be accepted at a paid minimum value of USD 5. BITBOX has also prepared additional discount of USD 1 for every LINK used to pay for trading fees for the introduction of the function.",
-    total_supply: null,
-    circulating_supply: 447509554.0,
+    total_supply: 1000000000,
+    circulating_supply: 447509554,
     websites: [
       "https://chain.link",
     ],
@@ -6470,8 +6470,8 @@ const coininfo = {
   },
   bscetc: {
     description: "Ethereum Classic is a decentralized platform that runs <a href=\"https://coingecko.com/en?category_id=29\">smart contracts</a>: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.\r\nEthereum Classic is a continuation of the original <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.\r\n\r\n\r\nTransaction Finality\r\n\r\nEthereum Classic believes the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; \r\n\r\nCode is Law. This does not necessarily mean that code replaces existing laws, or that only code is law (there are many geographical jurisdictions), but it gives users the opportunity to enter into a new blockchain-based jurisdiction where agreements are governed by code.\r\n\r\nBy entering into contracts on Ethereum Classic, you can be certain that the network remains neutral. The outcome of transactions will be dictated by code you voluntarily interact with. Unless explicitly defined by the contract code, there are no reversals, no undos, no opt-outs.\r\n\r\nTransactions are final; applications are unstoppable.\r\n\r\n\r\nDecentralized Governance\r\n\r\nThere are many problems that fester due to centralization and opaqueness; corruption, unaccountability, nepotism, inefficiency and stagnation. Ultimately, centralization leads to fragility; only decentralized systems can stand the test of time.\r\n\r\nThese problems can be only solved by adhering to governance systems that do not rely on a central point of failure. Just like distributed networks and the consensus protocol itself, we believe that only truly decentralized projects can survive in the long run.\r\n\r\nEthereum Classic manifests these values by relinquishing control by a formalized central foundation. The only hierarchy is that of transparent meritocracy and mutual reputation. No backroom deals or behind-closed-doors unilateral decision making; just free and open discourse.\r\n",
-    total_supply: null,
-    circulating_supply: 129209120.0,
+    total_supply: 210700000,
+    circulating_supply: 129209120,
     websites: [
       "https://ethereumclassic.org",
     ],
@@ -6492,8 +6492,8 @@ const coininfo = {
   },
   bscavax: {
     description: "Avalanche is an open-source platform for launching decentralized finance applications and enterprise blockchain deployments in one interoperable, highly scalable ecosystem. Developers who build on Avalanche can easily create applications and custom blockchain networks with complex rulesets or build on existing private or public subnets.Avalanche can confirm transactions in under one second, supports the entirety of the Ethereum development toolkit, and enables millions of independent validators to participate as full block producers (Avalanche had over 1,000 full, block-producing nodes on its Denali testnet).In addition to supporting transaction finality under one second, Avalanche is capable of throughput orders of magnitude greater than existing decentralized blockchain networks (4,500+ transactions/second) and security thresholds well-above the 51% standards of other networks.AVAX is the capped supply native token of the Avalanche platform. Participants can become full block-producers and validators by staking AVAX and are incentivized to do so because of staking rewards. Fees for all sorts of operations on the network are paid out in AVAX through burning, thus increasing the scarcity of AVAX for all token holders.On September 2020, Avalanche announced the launch of its mainnnet.",
-    total_supply: null,
-    circulating_supply: 174094294.0,
+    total_supply: 720000000,
+    circulating_supply: 174094294,
     websites: [
       "https://www.avalabs.org",
     ],
@@ -6512,7 +6512,7 @@ const coininfo = {
   bscdai: {
     description: "Multi-Collateral Dai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD - every Dai is worth $1, and will always be worth $1, regardless of how much Sai is in existence.",
     total_supply: null,
-    circulating_supply: 6060684492.0,
+    circulating_supply: 6134564264,
     websites: [
       "https://makerdao.com",
     ],
@@ -6531,7 +6531,7 @@ const coininfo = {
   bsctrx: {
     description: "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n",
     total_supply: null,
-    circulating_supply: 71660220128.0,
+    circulating_supply: 71660220128,
     websites: [
       "http://www.tron.network",
     ],
@@ -6552,7 +6552,7 @@ const coininfo = {
   bsceos: {
     description: "What Is EOS?\r\nEOS has always been one of the most hype over ICO and now a smart contract platform. When it was announced by founder <a href=\"https://linkedin.com/in/daniel-larimer-0a367089/\">Dan Larimer</a> in New York City in May 2017, a giant jumbotron advertisement could be seen glowing over Times Square. In the first 5 days of their <a href=\"https://coingecko.com/en/ico/eos\">ICO token sale</a>, EOS raised an unprecedented $185 million in ETH - all without having any kind of product or service yet.\r\n\r\nEOS claims to be 'the most powerful infrastructure for decentralized applications.' Basically, EOS is (or, rather, will be) a blockchain technology much like <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>. They plan to create their own blockchain with a long list of impressive features. Some are even calling EOS the 'Ethereum killer.' But along with all the hype and excitement about EOS, there's also a large amount of skepticism coming from the crypto community.\r\n\r\nThe EOS Vision\r\nEOS has big plans. It will be a software that will act as a decentralized operating system. Developers can then build applications on the EOS software. It will be highly scalable, flexible, and usable. The most notable feature that everyone is getting excited about is horizontal scalability - what this means is the EOS blockchain will be able to allow parallel execution of smart contracts and simultaneous processing of transactions. This could be a real game changer.\r\n\r\nEOS will incorporate the <a href=\"https://coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake\">delegated proof-of-stake (DPoS)</a> consensus protocol, created by founder Dan Larimer himself. This system is less centralized, uses far less energy, and is incredibly fast - as in, up to millions-of-transactions-per-second fast. Furthermore, there will be no user fees on the EOS blockchain. This would also set them apart from the competition and could help them gain more widespread adoption of their platform.\r\n\r\nEOS also wants to put a blockchain constitution in place to secure user rights and enable dispute resolution. As explained in their technical whitepaper: \"The EOS.IO software is designed from experience with proven concepts and best practices, and represents fundamental advancements in blockchain technology. The software is part of a holistic blueprint for a globally scalable blockchain society in which decentralized applications can be easily deployed and governed.\"\r\n\r\nTokens that are issued on top of the EOS platform includes <a href=\"https://coingecko.com/en/coins/everipedia\">Everipedia</a>, <a href=\"https://coingecko.com/en/coins/horuspay\">HorusPay</a>, <a href=\"https://coingecko.com/admin/coins/meetone\">Meet One</a>, and more.",
     total_supply: null,
-    circulating_supply: 956468000.0,
+    circulating_supply: 956468000,
     websites: [
       "https://eos.io",
     ],
@@ -6574,7 +6574,7 @@ const coininfo = {
   bscatom: {
     description: "Cosmos is a network of many independent blockchains, called zones. The zones are powered by Tendermint Core, which provides a high-performance, consistent, secure PBFT-like consensus engine, where strict fork-accountability guarantees hold over the behaviour of malicious actors. Tendermint Core's BFT consensus algorithm is well suited for scaling public proof-of-stake blockchains.The first zone on Cosmos is called the Cosmos Hub. The Cosmos Hub is a multi-asset proof-of-stake cryptocurrency with a simple governance mechanism which enables the network to adapt and upgrade. In addition, the Cosmos Hub can be extended by connecting other zones. 0The hub and zones of the Cosmos network communicate with each other via an inter-blockchain communication (IBC) protocol, a kind of virtual UDP or TCP for blockchains. Tokens can be transferred from one zone to another securely and quickly without the need for exchange liquidity between zones. Instead, all inter-zone token transfers go through the Cosmos Hub, which keeps track of the total amount of tokens held by each zone. The hub isolates each zone from the failure of other zones. Because anyone can connect a new zone to the Cosmos Hub, zones allow for future-compatibility with new blockchain innovations. 0The supply won't be limited as the project plans to introduce a yearly inflatory model.",
     total_supply: null,
-    circulating_supply: 220366585.0,
+    circulating_supply: 220366585,
     websites: [
       "https://cosmos.network",
     ],
@@ -6592,8 +6592,8 @@ const coininfo = {
   },
   bscaxs: {
     description: "What are Axie Infinity Shards (AXS)?<a href=\\\"https://axieinfinity.com/axs/\\\">Axie Infinity Shards</a> (AXS) are the governance token of the popular blockchain-based game Axie Infinity. The game was created by SkyMavis and allows players to earn income through non-fungible tokens (NFTs), by breeding, battling, and trading digital pets called Axies.Players need AXS tokens to trade Axies and can stake their coins to earn weekly rewards and participate in the protocol's governance. New players have to buy at least three tokens, priced in ether, to truly participate in the game.Each Axie is an NFT on its own with different attributes. These pets can enter battles to earn experience points and more. They can also be bred together to create new Axie NFTs with different attributes. These new Axies can then be used or sold on the Axie marketplace.According to <a href=\\\"https://dappradar.com/blog/7-ways-to-earn-in-the-axie-infinity-economy\\\">DappRadar</a>, the Axie Infinity game has multiple ways to earn revenue and has been gaining popularity in developing countries like Brazil, India, Indonesia, and Venezuela as a way to earn income. Dedicated players can reportedly earn over $1,000 a month in the game.Who created AXS?The Axie Infinity game was created back in 2018 by Sky Mavis, a firm co-founded by Trung Nguyen and Aleksander Larsen. In total, the Axie Infinity team now has 25 full-time employees actively working on improving the game.The Axie Infinity Shards were launched in November 2020 with a public sale price of just $0.1 per token meaning their price has increased over 28,000% since launch. Their launch came as part of an effort to decentralize the game Etherscan data shows there <a href=\\\"https://etherscan.io/token/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA\\\">are over 10,500 AXS holders</a>.",
-    total_supply: null,
-    circulating_supply: 57567724.0,
+    total_supply: 270000000,
+    circulating_supply: 57567724,
     websites: [
       "https://axieinfinity.com",
     ],
@@ -6612,7 +6612,7 @@ const coininfo = {
   bscxtz: {
     description: "Tezos is a new decentralized blockchain that governs itself by establishing a true digital commonwealth. It facilitates formal verification, a technique that mathematically proves the correctness of the code governing transactions and boosts the security of the most sensitive or financially weighted smart contracts.Tezos takes a fundamentally different approach to governance by creating governance rules for stakeholders to approve of protocol upgrades that are then automatically deployed on the network. When a developer proposes a protocol upgrade, they can attach an invoice to be paid out to their address upon approval and inclusion of their upgrade. This approach provides a strong incentive for participation in the Tezos core development and further decentralizes the maintenance of the network. It compensates developers with tokens that have immediate value rather than forcing them to seek corporate sponsorships, foundation salaries, or work for Internet fame alone.",
     total_supply: null,
-    circulating_supply: 857026791.0,
+    circulating_supply: 857026791,
     websites: [
       "https://tezos.com",
     ],
@@ -6630,8 +6630,8 @@ const coininfo = {
   },
   bscmkr: {
     description: "MKR is a cryptocurrency depicted as a smart contract platform and works alongside the Dai coin and aims to act as a hedge currency that provides traders with a stable alternative to the majority of coins currently available on the market. Maker offers a transparent stablecoin system that is fully inspectable on the Ethereum blockchain. Founded almost three years ago, MakerDao is lead by Rune Christensen, its CEO and founder. Maker's MKR coin is a recent entrant to the market and is not a well known project. However, after today it will be known by many more people after blowing up 40% and it is one of the coins to rise to prominence during the recent peaks and troughs.\r\n\r\nAfter being developed by the MakerDAO team, Maker Dai officially went live on December 18th, 2017. Dai is a price stable coin that is suitable for payments, savings, or collateral and provides cryptocurrency traders with increased options concerning opening and closing positions. Dai lives completely on the blockchain chain with its stability unmediated by the legal system or trusted counterparties and helps facilitate trading while staying entirely in the world of cryptocurrencies. The concept of a stablecoin is fairly straight forward it's a token that has its price or value pegged to a particular fiat currency. A stablecoin is a token (like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>) that exists on a blockchain, but unlike Bitcoin or Ethereum, Dai has no volatility.\r\n\r\nMKR is an ERC-20 token on the Ethereum blockchain and can not be mined. It's instead created/destroyed in response to DAI price fluctuations in order to keep it hovering around $1 USD. MKR is used to pay transaction fees on the Maker system, and it collateralizes the system. Holding MKR comes with voting rights within Maker's continuous approval voting system. Bad governance devalues MKR tokens, so MKR holders are incentivized to vote for the good of the entire system. It's a fully decentralized and democratic structure, then, which is an underutilized USP of blockchain tech.\r\n\r\nValue volatility is a relative concept among both cryptos and fiat currencies. The US dollar, for example, was worth 110.748 yen on July 9, 2018. On July 4, 2011, $1 was worth 80.64 yen, and on March 18, 1985, $1 was worth 255.65 yen. These are major differences in exchange rates, and inflation within each country makes each currency worth different values even when compared to themselves. One USD in 1913 is worth the equivalent of $25.41 today, and even $1 in 1993 is worth the equivalent of $1.74 today. Stablecoins don't negate these basic economic principles of value. Instead, both Tether and Dai have values pegged to the U.S. dollar. This is done to stabilize the price.",
-    total_supply: null,
-    circulating_supply: 991328.0,
+    total_supply: 1005577,
+    circulating_supply: 991328,
     websites: [
       "https://makerdao.com/en",
     ],
@@ -6650,7 +6650,7 @@ const coininfo = {
   bscshib: {
     description: "SHIBA is an experiment in decentralized spontaneous community building. SHIB token is the project first token and allows users to hold Billions or even Trillions of them. SHIBA INU is a 100% decentralized community experiment that claims that 1/2 the tokens have been sent to Vitalik Buterin and the other half were locked to a Uniswap pool and the keys burned.",
     total_supply: null,
-    circulating_supply: 394796000000000.0,
+    circulating_supply: 394796000000000,
     websites: [
       "https://shibatoken.com",
     ],
@@ -6668,8 +6668,8 @@ const coininfo = {
   },
   bsciota: {
     description: "IOTA is a distributed ledger with its proprietary technology known as Tangle, a system of nodes that confirm transactions. It aims to offer greater speeds than conventional blockchains and an ideal footprint for the ever-expanding Internet of Things ecosystem.",
-    total_supply: null,
-    circulating_supply: 2779530283.0,
+    total_supply: 2779530283,
+    circulating_supply: 2779530283,
     websites: [
       "https://www.iota.org",
     ],
@@ -6687,8 +6687,8 @@ const coininfo = {
   },
   bsccomp: {
     description: "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
-    total_supply: null,
-    circulating_supply: 5400845.0,
+    total_supply: 10000000,
+    circulating_supply: 5400845,
     websites: [
       "https://compound.finance",
     ],
@@ -6706,8 +6706,8 @@ const coininfo = {
   },
   bsczec: {
     description: "Zcash is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions. Zcash payments are published on a public blockchain, but the sender, recipient, and amount of a transaction remain private.\r\n\r\nZcash is based on peer-reviewed cryptographic research, and built by a security-specialized engineering team on an open source platform based on Bitcoin Core's battle-tested codebase. Our improvement over <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> is the addition of privacy. Zcash uses advanced cryptographic techniques, namely zero-knowledge proofs, to guarantee the validity of transactions without revealing additional information about them.\r\n\r\nHow Zcash works\r\n\r\nZcash encrypts the contents of shielded transactions. Since the payment information is encrypted, the protocol uses a novel cryptographic method to verify their validity.\r\n\r\nZcash uses a zero-knowledge proof construction called a zk-SNARK, developed by our team of experienced cryptographers based on recent breakthroughs in cryptography. These constructions allow the network to maintain a secure ledger of balances without disclosing the parties or amounts involved. Instead of publicly demonstrating spend-authority and transaction values, the transaction metadata is encrypted and zk-SNARKs are used to prove that nobody is cheating or stealing.\r\n\r\nZcash also enables users to send public payments which work similarly to Bitcoin. With the support for both shielded and transparent addresses, users can choose to send Zcash privately or publicly. Zcash payments sent from a shielded address to a transparent address reveal the received balance, while payments from a transparent address to a shielded address protect the receiving value. \r\n\r\nCheck out <a href=\"https://coinbureau.com/education/what-is-zcash/\">CoinBureau</a> for guide on What is ZCash.",
-    total_supply: null,
-    circulating_supply: 12513006.0,
+    total_supply: 21000000,
+    circulating_supply: 12513006,
     websites: [
       "https://z.cash",
     ],
@@ -6729,7 +6729,7 @@ const coininfo = {
   bsctusd: {
     description: "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds do not give access to the TrueUSD system.\r\n\r\nTrueUSD works with various trust companies which already manage around billions of dollars. Just pass an AML/KYC check, send USD to a trust company with an agreement of escrow. When the funds get verified, their API tells the smart contract of TUSD to mint an equal amount of TUSD to your public <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> address.\r\n\r\nThe USD funds are regularly verified in scheduled attestations by a very much trusted auditing firm. USD funds are kept safely in a third party account, that is escrow accounts, wherein TrustToken does not hold any direct access to the funds and cannot abscond with them even if they wish to. The token burning and minting system makes sure that every TUSD token is backed by 1 USD.\r\n\r\nA mandatory check of AML/KYC makes sure that TUSD keeps shady people away from the entire project. TUSD makes faster transactions in low transaction fees. Even though TUSD is a unique offering, it is most likely overshadowed by its bigger competitors - Tether. While TUSD arguably offers more security and features, it may be losing the marketing battle. This is not to say that the situation will remain the same. With more crypto investors joining the market every day, the good times for TUSD may be on their way.",
     total_supply: null,
-    circulating_supply: 1382667343.0,
+    circulating_supply: 1401112767,
     websites: [
       "https://trueusd.com",
     ],
@@ -6748,7 +6748,7 @@ const coininfo = {
   },
   bsczil: {
     description: "Zilliqa (ZIL) is a token developed in the year 2017. Zilliqa is mainly based on the concept of Sharding and primarily aims at improving the scalability of the cryptocurrency networks as in case of <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>. The white paper mentions that the transactions speed would be approximately a thousand times more than that of Ethereum network. Ziliqa is fast, secured and decentralized. Zilliqa's high throughput means that you can focus on developing your ideas without worrying about network congestion, high transaction fees or security which are the key issues with legacy blockchain platforms.\r\n\r\nZilliqa network uses a concept called Sharding where the transactions are grouped into smaller groups and divided among the miners for the parallel transactional verification. Developing smaller groups for transactional verification means the Consensus can be reached faster and hence a higher number of transactions can be processed in a given time frame. The capacity of the network linearly increases in other cryptocurrencies as the number of people joins the network, but in this case, the capacity is increased at a higher variable rate than the number of members joining the network. By incorporating the Sharding Technology, it can completely revolutionize the smart contract functionality too.\r\n\r\nZiliqa has few pros as it has a great new technology. Zilliqa is the first platform to use sharding technology. This puts it ahead of the rest of the market. It's a completely new kind of blockchain designed to solve the problem of scalability. Third-generation platforms like Zilliqa could be the big winners in the future of cryptocurrency. Ziliqa has a strong community. The platform has a lot of fans. The Zilliqa ICO only happened because there was so much demand for it. The Zilliqa ICO also shows that the crypto community is ready to see blockchain technology move to the next phase of its development.",
-    total_supply: null,
+    total_supply: 21000000000,
     circulating_supply: 102654588,
     websites: [
       "http://www.zilliqa.com",
@@ -6768,8 +6768,8 @@ const coininfo = {
   },
   bscsnx: {
     description: "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets. Each synthetic asset (or Synth) is an ERC20 token which tracks the price of an external asset; for example, each sUSD token tracks the price of the US dollar (and unlike the other synthetic assets, is fixed at 1). A wide variety of Synths exists within Synthetix, including fiat currencies, cryptocurrencies, commodities, and inverse indexes. In principle, the system can support any asset with a clear price and provides on-chain exposure to an unlimited range of real-world assets. The protocol will enable a variety of trading features including binary options, futures, and more.",
-    total_supply: null,
-    circulating_supply: 114841533.0,
+    total_supply: 212424133,
+    circulating_supply: 114841533,
     websites: [
       "https://www.synthetix.io",
     ],
@@ -6787,8 +6787,8 @@ const coininfo = {
   },
   bscyfi: {
     description: "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
-    total_supply: null,
-    circulating_supply: 35667.0,
+    total_supply: 36666,
+    circulating_supply: 35667,
     websites: [
       "https://yearn.finance",
     ],
@@ -6806,8 +6806,8 @@ const coininfo = {
   },
   bscnear: {
     description: "NEAR Protocol is a decentralized application platform designed to make apps usable on the web. The network runs on a Proof-of-Stake (PoS) consensus mechanism called Nightshade, which aims to offer scalability and stable fees.",
-    total_supply: null,
-    circulating_supply: 290164001.0,
+    total_supply: 1000000000,
+    circulating_supply: 290164001,
     websites: [
       "https://near.org",
     ],
@@ -6825,8 +6825,8 @@ const coininfo = {
   },
   bscbat: {
     description: "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device, removing the need for third-party tracking. BAT is focused on the Brave browser. Brave is an open-source, privacy-centered browser designed to block trackers and malware. It utilizes blockchain technology to anonymously and securely track user attention, which translates into rewards for publishers.\r\n\r\nA user's attention, meaning his or her focused mental engagement on digital content like advertisements, is logged through Brave. The makers of BAT indicate that the user's private data and tracking information is stored only on the user's device, ensuring that it is anonymous and private.\r\n\r\nCreated back in 2016, the Basic Attention Token has one of the biggest names behind it, that of Brendan Eich, the creator of JavaScript and the legendary co-founder of Mozilla. Other noteworthy team members include Brian Bondy, lead developer and co-founder of Brave and Scott Locklin, senior engineer, and co-founder of Kerf Software.\"\r\n\r\nBasic Attention Token is created by the team that built the <a href=\"https://brave.com/coi600\">Brave browser</a>, an open-source, privacy-focused browser that blocks ads and trackers. The browser measures user attention and rewards publishers for users attention. \r\n\r\nUse the Brave browser to protect your privacy and support CoinGecko at the same time: https://brave.com/coi600",
-    total_supply: null,
-    circulating_supply: 1489832620.0,
+    total_supply: 1500000000,
+    circulating_supply: 1489832620,
     websites: [
       "https://basicattentiontoken.org",
     ],
@@ -6844,8 +6844,8 @@ const coininfo = {
   },
   bscftm: {
     description: "Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm.",
-    total_supply: null,
-    circulating_supply: 2541152731.0,
+    total_supply: 3175000000,
+    circulating_supply: 2541152731,
     websites: [
       "http://fantom.foundation",
     ],
@@ -6864,7 +6864,7 @@ const coininfo = {
   bscbnt: {
     description: "Bancor is a blockchain protocol that allows users to convert between different tokens directly as opposed to exchanging them on cryptocurrency markets. The project offers a network, which we'll discuss soon, that works to bring liquidity to the majority of tokens that lack a consistent supply/demand in exchanges. That network is built on smart contracts and a new class of cryptocurrencies that the team calls 'Smart Tokens.' Bancor is looking to provide support to the illiquidity that currently exists within the cryptocurrency market. Illiquidity isn't so much an issue for top coins like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> because there are always buyers and sellers looking to exchange those coins. It is definitely an issue, however, for the thousands of other tokens that may serve legitimate decentralized purposes but haven't attracted enough attention in the market to be liquid.\r\n\r\nBancor's protocol uses smart contracts to create Smart Tokens, which serve as an alternative mechanism for trading. A key characteristic of the protocol is that it doesn't call for an exchange of tokens with a second party, as in the case of cryptocurrency exchanges. Rather, it employs Smart Tokens to convert between different ERC-20 tokens internally. These conversions take place through the blockchain's protocol and completely outside of cryptocurrency exchanges. Smart Tokens process token conversions internally by holding reserves of other ERC20 tokens within their Smart Contract. They can then convert back and forth between those reserves as users request it.\r\n\r\nThe Bancor team consists of a core Foundation Council and their Advisory Board. The Foundation Council includes four individuals based out of Zug, Switzerland. Bernard Lietaer is a Belgian civil engineer, economist, author, and professor. Lietaer specialized in monetary systems and promotes the notion of communities creating their own local currencies. Guy Benartzi serves as co-founder and is recognized for founding the gaming company, Mytopia. Benartzi also co-founded Particle Code, a development studio based in Tel Aviv, Israel. Guido Schmitz-Krummacher is an executive of the Bancor Protocol foundation that's involved with a variety of commercial entrepreneurial ventures in Switzerland. His involvement in the crypto space includes that of Bancor as well as an executive position in crowdfunding network, <a href=\"https://coingecko.com/en/coins/tezos\">Tezos (XTZ)</a>. \r\n\r\nOne of the key elements of the Bancor Network is the automated pricing. This comes from the Smart Tokens' built-in automated market makers. These automated market makers mean that the tokens' smart contracts always buy or sell Smart Tokens from or to any user in exchange for any connector token (as well as any token found in the network). The price comes from the Bancor Formula. This formula that is responsible for balancing a Smart Token's demand and supply while also maintaining the ratio between the token's total value with the connector token balances. The creator of the Smart Token configures these ratios, known as the connector weight. The creator can adjust them with the goal of decreasing or increasing the liquidity level of the token. The connector weight indicates price sensitivity, or how much sells and buys affect the price movement. Any time the prices no longer syncs with prices listed on external exchanges, the arbitrageurs will quickly balance the gaps.\"",
     total_supply: null,
-    circulating_supply: 231406877.0,
+    circulating_supply: 231406877,
     websites: [
       "https://bancor.network",
     ],
@@ -6875,7 +6875,7 @@ const coininfo = {
     discord: "https://discord.gg/qSs7tsC",
     telegram: "https://t.me/bancor",
     bitcointalk: "https://bitcointalk.org/index.php?topic=1789222.0",
-    facebook: "bancor",
+    facebook: "",
     twitter: "https://twitter.com/bancornetwork",
     reddit: "https://www.reddit.com/r/Bancor",
     repository: "",
@@ -6883,7 +6883,7 @@ const coininfo = {
   bscpax: {
     description: "Paxos Standard (PAX) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet. Paxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.\r\n\r\nThe Paxos team comes from a wide variety of backgrounds with a diverse array of experiences ranging from Wall Street to Silicon Valley. It's led by CEO and co-founder Charles Cascarilla, who has spent his career as a customer, analyst, investor and now creator of financial technology.\r\n\r\nPaxos describes itself as 'the first regulated Trust company with blockchain expertise', and it is using that expertise to create a modern settlement solution that can eliminate risk and simplify settlements. What many people may not know about Paxos is that it was actually founded in 2012 as Paxos Trust Company, and that for most of its life it ran the cryptocurrency exchange itBit, which is still operates. The creation of Paxos was a pivot from an exchange platform to a company focused on creating a modern settlement platform using blockchain technology.\r\n\r\nPaxos has become the most widely adopted cryptocurrency in the fastest time frame, with support from over 20 exchanges and OTC desks in the first five weeks of its existence. It's been picked up and listed by six of the top ten cryptocurrency exchanges, <a href=\"https://coingecko.com/en/exchanges/binance\">Binance</a>, <a href=\"https://coingecko.com/en/exchanges/okex\">OKEx</a>, <a href=\"https://coingecko.com/en/exchanges/gate\">Gate.io</a>, <a href=\"https://coingecko.com/en/exchanges/zb\">ZB</a>, <a href=\"https://coingecko.com/en/exchanges/kucoin\">KuCoin</a> and <a href=\"https://coingecko.com/en/exchanges/digifinex\">DigiFinex</a>. These exchanges are offering PAX as an alternative to the controversial <a href=\"https://coingecko.com/en/coins/tether\">Tether</a>. Unlike the controversy surrounding the people who control Tether, there is no such obscurity when it comes to the people behind Paxos. The CEO and co-founder is Charles Cascarilla. He has over 15 years in financial services and has co-founded Cedar Hill asset management back in 2005. He has also worked and Bank of America and Goldman Sachs prior to that.\r\n\r\nThe Paxos Standard (PAX) is the first digital asset to be issued by a financial institution and to be fully secured by the U.S. dollar. While other similar stablecoins have existed, there has been no proof of full U.S. dollar reserves, nor have these earlier assets been issued by a financial institution. The Paxos team has been fairly clear in declaring the different base that PAX is working from. ",
     total_supply: null,
-    circulating_supply: 918417013.0,
+    circulating_supply: 945642940,
     websites: [
       "https://www.paxos.com/standard",
     ],
@@ -6901,8 +6901,8 @@ const coininfo = {
   },
   bscont: {
     description: "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\nThe Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\nOntology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
-    total_supply: null,
-    circulating_supply: 875249524.0,
+    total_supply: 1000000000,
+    circulating_supply: 875249524,
     websites: [
       "https://ont.io",
     ],
@@ -6921,8 +6921,8 @@ const coininfo = {
   },
   bscc98: {
     description: "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
-    total_supply: null,
-    circulating_supply: 185000000.0,
+    total_supply: 1000000000,
+    circulating_supply: 185000000,
     websites: [
       "https://coin98.com",
     ],
@@ -6941,7 +6941,7 @@ const coininfo = {
   bscankr: {
     description: "Ankr is a distributed computing platform that aims to leverage idle computing resources in data centers and edge devices. What Ankr enables is a Sharing Economy model where enterprises and consumers can monetize their spare computing capacities from their devices, on-premise servers, private cloud, and even public cloud. This enables Ankr to provide computing power much closer to users at a much cheaper price.The Ankr mainnet launched on July 10th, 2019The Ankr Chain and token swap:Ankr native token and the current ERC 20 token will co-exist together, each with its own purposes.The Ankr native token will run on the Ankr Chain mainnet and will be used to power the network, purchase services on the Ankr platform and incentivize compute resource providers. It can also be staked.Therefore, the token swap is optional and is only required in case a user wants to utilize any service in the Ankr platform, including staking purposes.The Ankr ERC 20 token will continue to provide the necessary liquidity on all the exchanges that listed us.",
     total_supply: 10000000000,
-    circulating_supply: 7662899378.0,
+    circulating_supply: 7662899378,
     websites: [
       "https://www.ankr.com",
     ],
@@ -6959,8 +6959,8 @@ const coininfo = {
   },
   bscsxp: {
     description: "Swipe is a cryptocurrency wallet and debit card that enables users to spend their cryptocurrencies over the world. Swipe will create a platform that will be accessible to users worldwide via an Apple or Android device which enables them to buy, sell, or pay with cryptocurrencies at millions of locations. The plan to execute this vision starts with creating a highly-secure bank-grade digital Wallet infrastructure that will host multiple blockchain systems tied to a traditional debit card. With these two products, users will be able to buy or sell cryptocurrencies to traditional fiat and they may link it to their traditional bank accounts while having the ability to store these cryptocurrencies on the Wallet to spend it via the debit card at millions of locations worldwide. The ecosystem powering the product line will be fueled by its native cryptocurrency Swipe Token (SXP), which will be used as gas throughout the whole platform as gas. For every interaction on the network, it will require SXP to perform the transaction similar to gas on Ethereum.",
-    total_supply: 289714926,
-    circulating_supply: 187368789.0,
+    total_supply: 239612084,
+    circulating_supply: 187368789,
     websites: [
       "https://swipe.io",
     ],
@@ -6978,8 +6978,8 @@ const coininfo = {
   },
   bsciotx: {
     description: "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX's global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by connecting the physical world, block by block.",
-    total_supply: null,
-    circulating_supply: 9540779324.0,
+    total_supply: 10000000000,
+    circulating_supply: 9540779324,
     websites: [
       "https://iotex.io",
     ],
@@ -7017,7 +7017,7 @@ const coininfo = {
   bscinch: {
     description: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange - DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.",
     total_supply: null,
-    circulating_supply: 180525835.0,
+    circulating_supply: 180362122,
     websites: [
       "https://1inch.exchange",
     ],
@@ -7035,8 +7035,8 @@ const coininfo = {
   },
   bscbake: {
     description: "BakerySwap is like Uniswap, but designed to be faster and cheaper. In addition to all of the above, liquidity providers will also be rewarded with BAKE tokens from which they can earn a share of BakerySwap’s trading fees and use for voting as part of BakerySwap’s governance.",
-    total_supply: 729309648,
-    circulating_supply: 175459425.0,
+    total_supply: null,
+    circulating_supply: 175459425,
     websites: [
       "https://www.bakeryswap.org",
     ],
@@ -7055,7 +7055,7 @@ const coininfo = {
   bscalpha: {
     description: "Alpha Finance Lab is an ecosystem of DeFi products, starting on Binance Smart Chain and Ethereum. Alpha Finance Lab is focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal Alpha to users on a cross-chain level. Alpha Finance Lab is focused on researching and building in the Decentralized Finance (DeFi) space. Alpha Lending, the first product built by Alpha Finance Lab, is a decentralized lending protocol with algorithmically adjusted interest rates built on Binance Smart Chain. The ALPHA token is the native utility token of the platforms. Current and planned use cases of the ALPHA token includes liquidity mining, governance voting, as well as staking.",
     total_supply: 1000000000,
-    circulating_supply: 406330126.0,
+    circulating_supply: 406330126,
     websites: [
       "https://alphafinance.io",
     ],
