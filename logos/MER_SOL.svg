@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.8" height="244.8" viewBox="0 0 244.8 244.8">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.15" y1="1.52" x2="0.851" y2="-0.521" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="mer_sol" transform="translate(-14001.7 -7980.714)">
+    <path id="Main_copy_10" d="M0,121.252C0,188.064,54.44,242.5,121.252,242.5S242.5,188.064,242.5,121.252,188.064,0,121.252,0,0,54.44,0,121.252Z" transform="translate(14002.948 7981.962)" fill="#22c778"/>
+    <g id="Main_copy_14" transform="translate(14001.7 7980.714)">
+      <path id="Path_472526" data-name="Path 472526" d="M0,122.4c0,67.444,54.954,122.4,122.4,122.4s122.4-54.954,122.4-122.4S189.841,0,122.4,0,0,54.954,0,122.4Z" fill="none"/>
+      <path id="Path_472527" data-name="Path 472527" d="M122.4,11A111.4,111.4,0,1,0,233.8,122.4,111.526,111.526,0,0,0,122.4,11m0-11c67.441,0,122.4,54.954,122.4,122.4S189.846,244.8,122.4,244.8,0,189.844,0,122.4,54.959,0,122.4,0Z" fill="#1ae5ae"/>
+    </g>
+    <g id="logoMark" transform="translate(14034.27 8055.949)">
+      <path id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" d="M81.878,50.434,13.8,17.475A25.358,25.358,0,0,1,.488,1.69L0,0,.049.029,67.914,32.4A25.344,25.344,0,0,1,81.879,50.434Z" fill="url(#linear-gradient)"/>
+      <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M74.773,121.2,38.38,104.036a23.257,23.257,0,0,1-12.4-14.492l-.719-2.451.253.117v.01l51.249,24.169a5.23,5.23,0,0,0,7.363-5.742h0a23.027,23.027,0,0,0-12.676-16.33L27.991,68.581A23.292,23.292,0,0,1,15.731,54.3c-.3-1.006-.584-1.943-.813-2.724l.194.088L73.49,79.518A37.5,37.5,0,0,1,94.132,106.1h0a13.752,13.752,0,0,1-19.359,15.1Z" transform="translate(-4.475 -15.472)" fill="url(#linear-gradient)"/>
+      <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M139.97,50.434l68.083-32.959A25.359,25.359,0,0,0,221.36,1.69L221.849,0,221.8.029,153.935,32.4A25.344,25.344,0,0,0,139.97,50.434Z" transform="translate(-41.991)" fill="url(#linear-gradient)"/>
+      <path id="logoMark_PathItem_4" data-name="logoMark &lt;PathItem&gt;" d="M148.106,121.2,184.5,104.036a23.257,23.257,0,0,0,12.4-14.492l.718-2.451-.253.117v.01l-51.249,24.169a5.23,5.23,0,0,1-7.363-5.743h0a23.027,23.027,0,0,1,12.676-16.33l43.461-20.736A23.292,23.292,0,0,0,207.148,54.3c.3-1.006.585-1.943.813-2.724l-.194.088L149.389,79.518A37.5,37.5,0,0,0,128.748,106.1h0a13.752,13.752,0,0,0,19.358,15.1Z" transform="translate(-38.546 -15.472)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

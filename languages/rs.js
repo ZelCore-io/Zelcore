@@ -501,7 +501,8 @@ export default {
     hide_assets_in_portfolio: "Sakrij imovinu u portfoliju",
     exchange_wallet: "Novčanik za menjačnicu",
     selected_exchange_wallet: "Odabrani novčanik za menjačnicu",
-    wallet: "novčanik",
+    wallet: "Novčanik",
+    wallet_small: "novčanik",
     selected_wallet: "Odabrani novčanik",
     show_private_key: "Prikaži privatni ključ",
     show_private_key_in_wif: "Prikaži privatni ključ u WIF-u",
@@ -1068,7 +1069,7 @@ export default {
     error_loading_binance_dex_preset: "We hit a roadblock, your preset favorite markets are unavailable",
 
     error_decoding_address: "Error decoding address",
-    import_wallet: "Import wallet",
+    import_wallet: "Import Wallet",
     import_wallet_priv_key: "Paste your {coinname} private key here",
     error_in_import_wallet_priv_key: "Something went wrong importing private key",
     import_success: "Wallet successfully imported",

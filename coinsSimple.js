@@ -6749,11 +6749,11 @@ const coins = {
     addresses: [],
     chainID: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
     api: [
+      "https://eos.greymass.com:443",
       "https://api.eossweden.org",
       "https://api.eosdetroit.io",
       "https://eos.eoscafeblock.com",
       "https://eosbp.atticlab.net",
-      "https://eos.greymass.com:443",
     ],
     unit: "EOS",
     type: "eos",
@@ -7142,7 +7142,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.01,
+    fee: 0.1,
     feepolicy: {
       economy: 0,
       normal: 10,
@@ -7155,9 +7155,10 @@ const coins = {
   },
   bittorrent: {
     coin: "bittorrent",
-    name: "BitTorrent",
+    name: "BitTorrent TRC10",
     uri: [
       "bittorrent",
+      "btt",
     ],
     pubKeyHash: "1e",
     scriptHash: "16",
@@ -7176,17 +7177,17 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://www.trxplorer.io/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "static/logos/BTT_TRC.svg",
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.01,
+    fee: 0.1,
     feepolicy: {
       economy: 0,
       normal: 10,
       fast: 100,
     },
-    color: "#e81a4c",
+    color: "#000000",
     backend: [
       "tron",
     ],
@@ -8912,7 +8913,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9191,7 +9192,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9452,7 +9453,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -9775,7 +9776,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -10747,9 +10748,9 @@ const coins = {
   },
   suntrc: {
     coin: "suntrc",
-    name: "SUN",
+    name: "SUNOLD",
     uri: [
-      "sun",
+      "sunold",
     ],
     pubKeyHash: "1e",
     scriptHash: "16",
@@ -10762,7 +10763,7 @@ const coins = {
     api: [
       "https://api.trongrid.io/",
     ],
-    unit: "SUN",
+    unit: "SUNOLD",
     type: "tron",
     explorer: [
       "https://tronscan.org/#/transaction/",
@@ -10772,7 +10773,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -10810,7 +10811,7 @@ const coins = {
     node: [
       "https://api.trongrid.io/",
     ],
-    fee: 0.1,
+    fee: 1,
     feepolicy: {
       economy: 5,
       normal: 10,
@@ -10875,7 +10876,7 @@ const coins = {
     ],
     addresses: [],
     api: [
-      "https://polkadot.subscan.io/api/",
+      "https://polkadot.api.subscan.io/api/",
     ],
     unit: "DOT",
     type: "substrate",
@@ -10913,7 +10914,7 @@ const coins = {
     ],
     addresses: [],
     api: [
-      "https://westend.subscan.io/api/",
+      "https://westend.api.subscan.io/api/",
     ],
     unit: "TESTWND",
     type: "substrate",
@@ -11008,7 +11009,7 @@ const coins = {
     ],
     addresses: [],
     api: [
-      "https://kusama.subscan.io/api/",
+      "https://kusama.api.subscan.io/api/",
     ],
     unit: "KSM",
     type: "substrate",
@@ -11093,8 +11094,8 @@ const coins = {
     chimeric: 2,
     addresses: [],
     api: [
-      "https://backend.ada.zelcore.io/",
       "https://ada.getblock.io/mainnet/",
+      "https://backend.ada.zelcore.io/",
     ],
     unit: "ADA",
     type: "cardano",
@@ -11103,8 +11104,8 @@ const coins = {
     ],
     logolink: "static/logos/ADA.svg",
     node: [
-      "https://submit.ada.zelcore.io/",
       "https://ada.getblock.io/submit/",
+      "https://submit.ada.zelcore.io/",
     ],
     fee: 0.168273, // 1 utxo, 2 outputs
     feepolicy: { // do not use
@@ -12215,6 +12216,605 @@ const coins = {
       "solana",
     ],
     decimals: 9,
+  },
+  fluxeth: {
+    coin: "fluxeth",
+    name: "Flux ETH Token ERC20",
+    uri: [
+      "fluxeth",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x720cd16b011b987da3518fbf38c3071d4f0d1495&address=",
+    ],
+    unit: "FLUX-ETH",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/FLUXETH.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+    color: "#2b61d1",
+    decimals: 8,
+    backend: [
+      "infura",
+    ],
+  },
+  fluxbsc: {
+    coin: "fluxbsc",
+    name: "FLUX BSC Token BEP20",
+    uri: [
+      "fluxbsc",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xaff9084f2374585879e8b434c399e29e80cce635&address=",
+    ],
+    unit: "FLUX-BSC",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/FLUXBSC.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#2b61d1",
+    contractAddress: "0xaff9084f2374585879e8b434c399e29e80cce635",
+    decimals: 8,
+    backend: [
+      "bsc",
+    ],
+  },
+  mersol: {
+    coin: "mersol",
+    name: "Mercurial Finance Token SPL",
+    uri: [
+      "mer",
+      "mersol",
+      "mertoken",
+    ],
+    slip: 501,
+    mint: "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "MER",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/MER_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#22c778",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  tulipsol: {
+    coin: "tulipsol",
+    name: "SolFarm Token SPL",
+    uri: [
+      "tulip",
+      "tulipsol",
+      "tuliptoken",
+    ],
+    slip: 501,
+    mint: "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs",
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "TULIP",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/TULIP_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#c44de5",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  alephsol: {
+    coin: "alephsol",
+    name: "Aleph.im Token SPL",
+    uri: [
+      "aleph",
+      "alephsol",
+      "alephtoken",
+    ],
+    slip: 501,
+    mint: "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
+    addresses: [],
+    api: [
+      "https://api.mainnet-beta.solana.com",
+    ],
+    unit: "ALEPH",
+    type: "solana",
+    explorer: [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/",
+    ],
+    logolink: "static/logos/ALEPH_SOL.svg",
+    node: [
+      "api.mainnet-beta.solana.com",
+    ],
+    fee: 0.000005, // per signature!
+    feepolicy: {
+      economy: 1,
+      normal: 1,
+      fast: 1,
+    },
+    color: "#3c8ded",
+    backend: [
+      "solana",
+    ],
+    decimals: 6,
+  },
+  busdbsc: {
+    coin: "busdbsc",
+    name: "Binance USD BEP20",
+    uri: [
+      "busdbsc",
+      "busd",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xe9e7cea3dedca5984780bafc599bd69add087d56&address=",
+    ],
+    unit: "BUSD",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/BUSD_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#F0B90B",
+    contractAddress: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
+  },
+  suntrcb: {
+    coin: "suntrcb",
+    name: "SUN",
+    uri: [
+      "sun",
+    ],
+    pubKeyHash: "1e",
+    scriptHash: "16",
+    wif: "9e",
+    normalAddress: "T",
+    normalAddressB: "T",
+    contractOrNumber: "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+    decimals: 18,
+    addresses: [],
+    api: [
+      "https://api.trongrid.io/",
+    ],
+    unit: "SUN",
+    type: "tron",
+    explorer: [
+      "https://tronscan.org/#/transaction/",
+      "https://trxplorer.io/tx/",
+    ],
+    logolink: "static/logos/SUN.svg",
+    node: [
+      "https://api.trongrid.io/",
+    ],
+    fee: 1,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 100,
+    },
+    color: "#ffd609",
+    backend: [
+      "tron",
+    ],
+  },
+  safemoonbep: {
+    coin: "safemoonbep",
+    name: "SafeMoon BEP20",
+    uri: [
+      "safemoon",
+      "safemoonbep",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3&address=",
+    ],
+    unit: "SAFEMOON",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/SAFEMOON_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#00a89e",
+    contractAddress: "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+    decimals: 9,
+    backend: [
+      "bsc",
+    ],
+  },
+  safemoonerc: {
+    coin: "safemoonerc",
+    name: "SafeMoon ERC20",
+    uri: [
+      "safemoonerc",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x16631e53c20fd2670027c6d53efe2642929b285c&address=",
+    ],
+    unit: "SAFEMOON",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/SAFEMOON_ERC20.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0x16631e53c20fd2670027c6d53efe2642929b285c",
+    color: "#00a89e",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
+  huplife: {
+    coin: "huplife",
+    name: "HUP.LIFE BEP20",
+    uri: [
+      "hup",
+      "huplife",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d&address=",
+    ],
+    unit: "HUP",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/HUP.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    color: "#35bb0c",
+    contractAddress: "0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d",
+    decimals: 9,
+    backend: [
+      "bsc",
+    ],
+  },
+  raptoreum: {
+    coin: "raptoreum",
+    name: "Raptoreum",
+    uri: [
+      "raptoreum",
+      "rtm",
+    ],
+    pubKeyHash: "3c",
+    scriptHash: "10",
+    messagePrefix: "\u0019DarkCoin Signed Message:\n",
+    normalAddress: "R",
+    scriptAddress: "7",
+    normalAddressB: "R",
+    scriptAddressB: "7",
+    wif: "80",
+    slip: 10226,
+    addresses: [],
+    api: [
+      "explorer.raptoreum.com",
+    ],
+    proxy: [
+      "https://proxy.rtm.zelcore.io/?server=127.0.0.1&port=50002&contype=tls&coin=raptoreum&call=",
+      "https://proxy.btx.zelcore.io/?server=explorer.rtm.zelcore.io&port=50002&contype=tls&coin=raptoreum&call=",
+      "https://proxy.grs.zelcore.io/?server=explorer.rtm.zelcore.io&port=50002&contype=tls&coin=raptoreum&call=",
+    ],
+    pathlinux: "raptoreumcore",
+    pathmac: "RaptoreumCore",
+    path: "RaptoreumCore",
+    unit: "RTM",
+    config: "raptoreum",
+    rpcport: 9998,
+    testnetrpcport: 19998,
+    type: "electrum",
+    explorer: [
+      "https://explorer.raptoreum.com/tx/",
+    ],
+    logolink: "static/logos/RTM.svg",
+    node: [
+      "explorer.raptoreum.com",
+      "ger1.raptoreum.com",
+      "ny1.raptoreum.com",
+    ],
+    fee: 0.00001,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 20,
+    },
+    color: "#b64326",
+    backend: [
+      "electrum",
+    ],
+  },
+  vertcoin: {
+    coin: "vertcoin",
+    name: "Vertcoin",
+    uri: [
+      "vertcoin",
+      "vtc",
+    ],
+    pubKeyHash: "47",
+    scriptHash: "05",
+    messagePrefix: "\u0018Bitcoin Signed Message:\n",
+    normalAddress: "V",
+    scriptAddress: "3",
+    normalAddressB: "V",
+    scriptAddressB: "3",
+    bech32Address: "vtc",
+    wif: "80",
+    slip: 28,
+    addresses: [],
+    api: [],
+    blockbook: [
+      "https://explorer.vtc.zelcore.io/api/",
+    ],
+    pathlinux: "vertcoin",
+    pathmac: "Vertcoin",
+    path: "Vertcoin",
+    unit: "VTC",
+    config: "vertcoin",
+    rpcport: 5888,
+    testnetrpcport: 15888,
+    type: "blockbook",
+    explorer: [
+      "https://explorer.vtc.zelcore.io/tx/",
+      "https://insight.vertcoin.org/tx/",
+    ],
+    logolink: "static/logos/VTC.svg",
+    node: [
+      "explorer.vtc.zelcore.io",
+      "insight.vertcoin.org",
+    ],
+    fee: 0.0001,
+    feepolicy: {
+      economy: 100,
+      normal: 200,
+      fast: 1000,
+    },
+    color: "#048657",
+    backend: [
+      "blockbook",
+      "insight",
+    ],
+  },
+  btcbbsc: {
+    coin: "btcbbsc",
+    name: "Bitcoin BEP20",
+    uri: [
+      "btcbbsc",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c&address=",
+    ],
+    unit: "BTCB",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/BTCB_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 7,
+      normal: 10,
+      fast: 20,
+    },
+    color: "#f7931a",
+    contractAddress: "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
+  },
+  axserc: {
+    coin: "axserc",
+    name: "Axie Infinity ERC20",
+    uri: [
+      "axie",
+      "axs",
+      "axserc",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xbb0e17ef65f82ab018d8edd776e8dd940327b28b&address=",
+    ],
+    unit: "AXS",
+    type: "eth",
+    explorer: [
+      "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/AXS.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 50,
+      normal: 80,
+      fast: 120,
+    },
+    contractAddress: "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    color: "#0068e4",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
+  bttbsc: {
+    coin: "bttbsc",
+    name: "BitTorrent BEP20",
+    uri: [
+      "bttbsc",
+      "bittorent",
+      "btt",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0x8595f9da7b868b1822194faed312235e43007b49&address=",
+    ],
+    unit: "BTT",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/BTT_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 7,
+      normal: 10,
+      fast: 20,
+    },
+    color: "#000000",
+    contractAddress: "0x8595f9da7b868b1822194faed312235e43007b49",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
   },
 };
 

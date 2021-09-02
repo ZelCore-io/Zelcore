@@ -500,6 +500,7 @@ export default {
     exchange_wallet: "Гаманець для обміну",
     selected_exchange_wallet: "Оберіть гаманець для обміну",
     wallet: "гаманець",
+    wallet_small: "гаманець",
     selected_wallet: "Вибраний гаманець",
     show_private_key: "Показати приватний ключ",
     show_private_key_in_wif: "Показати приватний ключ у WIF",

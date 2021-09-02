@@ -120,7 +120,7 @@ Here is an example for Quant
     pancakeswap: [
       {
         name: "PancakeSwap Twitter",
-        feed: "https://nitter.actionsack.com/PancakeSwap/rss",
+        feed: "https://nitter.zelcore.io/PancakeSwap/rss",
         site: "https://twitter.com/PancakeSwap",
         about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
         pic: "static/logos/CAKE.svg",
