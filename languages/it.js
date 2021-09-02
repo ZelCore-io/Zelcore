@@ -925,12 +925,12 @@ export default {
 
     // Account.vue
     settings: "Impostazioni",
-    danger_zone: "Area Pericolosa"
+    danger_zone: "Area Pericolosa",
     currency: "Valuta",
     background: "Sfondo",
     choose_file: "Scegli file",
-    use_defaults: "Usa Default"
-    restore_defaults: "Ripristina Default",,
+    use_defaults: "Usa Default",
+    restore_defaults: "Ripristina Default",
     asset_management: "Gestione Assets",
     smart_portfolio: "Semplifica Portafoglio",
     hide_assets_in_portfolio: "Nascondi Assets dal Portafoglio",
@@ -1080,8 +1080,10 @@ export default {
     ex_serum_dex_text: "Serum è un exchange decentralizzato (DEX) ed ecosistema che offre velocità senza precedenti e bassi costi di transazione alla finanza decentralizzata. È costruito su Solana ed è completamente senza autorizzazione. I tuoi fondi sono sempre sotto il tuo controllo.",
     ex_binance_dex_text: "L'architettura dual-chain di Binance Chain e Binance Smart Chain ti consente di creare le tue app decentralizzate, sfruttando allo stesso tempo le prestazioni di trading veloce offerte sull'exchange decentralizzato di Binance.",
     ex_ftx_text: "FTX è un exchange di criptovalute creato dai trader, per i trader. FTX offre prodotti innovativi tra cui derivati, opzioni, prodotti di volatilità e token con leva finanziaria.",
-    ex_stex_text: "Lanciato a settembre 2017, STEX è un exchange centralizzato con licenza situato a Tallinn, in Estonia. Dispone di 3 tipi di verifica che consentono agli utenti di ridurre le commissioni di trading fino allo 0,1%. Supporta il trading crypto-to-crypto e fiat-to-crypto senza limiti di prelievo.",
-    ex_gemini_text: " Gemini è una piattaforma semplice, elegante e sicura per costruire il tuo portafoglio di criptovalute. Gemini è una società fiduciaria autorizzata di New York che si sottopone a regolari esami bancari ed è soggetta agli audit di sicurezza informatica condotti dal Dipartimento dei servizi finanziari di New York.",
+    ex_stex_text: "Lanciato a settembre 2017, STEX è un exchange centralizzato con licenza situato a Tallinn, in Estonia. Dispone di 3 tipi di verifica che consentono agli utenti di ridurre le commissioni di trading fino allo 0,1%. "
+      + "Supporta il trading crypto-to-crypto e fiat-to-crypto senza limiti di prelievo.",
+    ex_gemini_text: " Gemini è una piattaforma semplice, elegante e sicura per costruire il tuo portafoglio di criptovalute. "
+      + "Gemini è una società fiduciaria autorizzata di New York che si sottopone a regolari esami bancari ed è soggetta agli audit di sicurezza informatica condotti dal Dipartimento dei servizi finanziari di New York.",
     ex_kucoin_text: "L'Exchange KuCoin è stato aperto per il trading di criptovalute a settembre 2017 con sede alle Seychelles. È diventato rapidamente uno degli exchange più rinomati del settore che offre un servizio affidabile in tutto il mondo.",
     ex_binance_text: "Binance è un exchange di criptovalute con sede nelle Isole Cayman che fornisce una piattaforma per il trading di varie criptovalute fondato nel 2017. Binance è considerato il più grande exchange di criptovalute al mondo in termini di volume di scambi.",
     ex_kraken_text: "Kraken è un exchange e banca di criptovalute con sede negli Stati Uniti, fondato nel 2011. L'exchange fornisce trading da criptovaluta a moneta fiat e fornisce informazioni sui prezzi a Bloomberg Terminal. L'alta reputazione lo rendono una scelta facile.",
