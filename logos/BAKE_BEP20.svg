@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="BAKE_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <radialGradient
+     id="A"
+     cx="-160.022"
+     cy="828.812"
+     r="1"
+     gradientTransform="matrix(0,14.3808,14.2359,0,-11784.651,2315.6199)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".334"
+       stop-color="#f7b450"
+       id="stop2" />
+    <stop
+       offset=".648"
+       stop-color="#ffc977"
+       id="stop4" />
+    <stop
+       offset="1"
+       stop-color="#f90"
+       id="stop6" />
+  </radialGradient>
+  <circle
+     cx="128"
+     cy="128"
+     r="127"
+     fill="#fff"
+     paint-order="stroke fill markers"
+     id="circle9" />
+  <g
+     transform="matrix(8.230347 0 0 8.1659 11.033728 11.289939)"
+     id="g27">
+    <path
+       d="M21.6 13.9c.2-.1.5.1.5.3l.4 1.5c.1.2-.1.5-.3.5-.2.1-.5-.1-.5-.3l-.4-1.5c-.1-.2 0-.5.3-.5zM10.1 2.7c-.1-.2-.1-.5.1-.6l1.3-.9c.2-.1.5-.1.6.1.1.3.1.5-.1.7l-1.3.9c-.2 0-.5 0-.6-.2z"
+       fill="#fff"
+       id="path11" />
+    <path
+       d="M16.8 8c-1.5-.3-3.1-.1-4.5.8 2-.7 4.3-.2 5.9 1.4 2.2 2.3 2.2 6 0 8.2-.3.3-.6.5-.9.7.8-.3 1.6-.7 2.2-1.4 1.6-1.6 2-3.9 1.4-5.9-1.7-.6-3.2-2-4.1-3.8z"
+       fill-rule="evenodd"
+       fill="#ffae54"
+       id="path13" />
+    <g
+       stroke="#ac562a"
+       stroke-width="1.072"
+       id="g19">
+      <path
+         d="M26.3 21h0c-3.6 6.7-12 9.2-18.6 5.5C1 22.9-1.4 14.4 2.2 7.7 4.6 3.3 9 .7 13.7.5c.6 0 1.1.3 1.4.9s.5 1.4.4 2.2v.9c0 1.4.4 2.8 1 4-2.9-1.1-6.2.1-7.7 2.9-1.7 3.1-.5 6.9 2.5 8.6s6.9.5 8.5-2.5h0c.9-1.7 1-3.7.3-5.4 1.2.6 2.5.9 3.9.9.8 0 1.5-.1 2.3-.3.4-.1.9-.1 1.2.1s.5.4.5.7c.1 2.5-.5 5.1-1.7 7.5z"
+         fill="url(#A)"
+         id="path15" />
+      <path
+         d="M22.7 18.3l.5-.2c.4 1-.1 1.9-.4 2.6v.1c-.2.4-.4.7-.4 1-.1.5-.1 1 0 1.3s.4.6.8.7c.3.1.8 0 1.4-.4 2.4-2.8 3.5-6.4 3.3-9.8 0-.3-.2-.6-.5-.8s-.8-.2-1.2-.1a8.33 8.33 0 0 1-2.2.3c-1.4 0-2.7-.3-3.9-1 .7 1.7.6 3.6-.2 5.3-.1.3-.3.5-.5.8.4-.1.8-.3 1.4-.7.7-.5 1.6 0 1.9.9zm0 0c.3.8-.1 1.5-.4 2.2-.2.4-.4.8-.5 1.2zM13.1 8.1h0 0c-1.4.4-2.5.2-3.3-.2-.8-.5-1.5-1.2-1.8-2-.4-.9-.5-1.8-.3-2.6s.6-1.4 1.2-1.7C10.6.9 12.4.5 14.1.5c.5 0 .9.3 1.2.8s.4 1.2.3 1.8c-.1.4-.1.9-.1 1.4 0 1.4.4 2.8 1 4-1.1-.5-2.3-.6-3.4-.4z"
+         fill="#ac562a"
+         id="path17" />
+    </g>
+    <circle
+       cx="3.8"
+       cy="11.2"
+       r=".7"
+       fill="#ac562a"
+       id="circle21" />
+    <circle
+       cx="14.2"
+       cy="23.7"
+       r=".7"
+       fill="#ac562a"
+       id="circle23" />
+    <circle
+       cx="9.8"
+       cy="24.3"
+       r="1.2"
+       fill="#ac562a"
+       id="circle25" />
+  </g>
+  <path
+     d="M128.407 11.138c-64.379 0-116.755 52.542-116.755 117.125s52.376 117.125 116.755 117.125 116.755-52.542 116.755-117.125S192.786 11.138 128.407 11.138m0-11.545c70.671 0 128.263 57.769 128.263 128.67s-57.586 128.67-128.263 128.67S.144 199.163.144 128.264 57.736-.406 128.407-.406z"
+     fill="#474747"
+     id="path29"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>

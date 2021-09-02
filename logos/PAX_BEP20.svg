@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="PAX_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M10 128c0 65.084 52.916 118 118 118s118-52.916 118-118S193.084 10 128 10 10 62.916 10 128z"
+     fill="#00522c"
+     id="path2" />
+  <path
+     d="M206.544 112.052c14.012 22.586 4.886 36.875 3.319 39.548-7.652 12.353-28.486 17.331-38.995 25.997-10.048 6.73-27.564 24.891-32.727 27.933-5.531 3.688-33.925 10.694-56.603-16.133-2.397-.369-4.702-.738-7.006-1.198-7.098-3.134-32.819-5.531-32.819-32.727 0-13.091 8.666-31.713 12.169-40.931 5.808-25.905 5.992-37.059 12.537-44.342 6.177-11.062 21.48-12.445 33.003-11.892 6.545-5.623 15.58-11.523 24.338-11.247 16.409.553 21.019 9.034 31.344 12.998 11.984 6.084 35.769 8.205 44.342 10.602 19.82 10.325 7.836 39.641 7.098 41.392zM89.466 101.542c-19.175 22.494-5.9 48.398-.461 54.944 18.53 23.323 45.264 16.409 53.008 14.012 7.744-2.489 33.833-20.097 24.522-55.405-7.098-33.556-35.492-33.741-38.534-33.741-3.042-.092-22.125-1.106-38.534 20.189z"
+     fill="#fff"
+     id="path4" />
+  <path
+     d="M128 11.485C63.753 11.485 11.485 63.753 11.485 128S63.753 244.515 128 244.515 244.515 192.247 244.515 128 192.247 11.485 128 11.485M128 0c70.527 0 128 57.468 128 128s-57.468 128-128 128S0 198.53 0 128 57.473 0 128 0z"
+     fill="#474747"
+     id="path6"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>
