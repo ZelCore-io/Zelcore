@@ -4169,7 +4169,7 @@ const newssources = {
         pic: "static/logos/ONT_BEP20.svg",
       },
     ],
-    bscc98: [
+    bsccnineeight: [
       {
         name: "Coin98 Medium",
         feed: "https://blog.coin98.com/rss",
