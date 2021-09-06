@@ -3602,6 +3602,13 @@ const newssources = {
     ],
     bscusdc: [
       {
+        name: "USD Coin Blog",
+        feed: "https://www.circle.com/blog/rss.xml",
+        site: "https://www.circle.com/blog",
+        about: "USD Coin (known by its ticker USDC) is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis.",
+        pic: "static/logos/USDC_BEP20.svg",
+      },
+      {
         name: "USD Coin Medium",
         feed: "https://medium.com/feed/centre-blog",
         site: "https://medium.com/centre-blog",
@@ -4259,8 +4266,8 @@ const newssources = {
     bscinch: [
       {
         name: "1INCH Twitter",
-        feed: "https://nitter.zelcore.io/1inchExchange/rss",
-        site: "https://twitter.com/1inchExchange",
+        feed: "https://nitter.zelcore.io/@1inch/rss",
+        site: "https://twitter.com/@1inch",
         about: "1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs. Smart contract technology empowers this aggregator enabling users to optimize and customize their trades.",
         pic: "static/logos/1INCH_BEP20.svg",
       },
