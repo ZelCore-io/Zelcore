@@ -117,7 +117,7 @@ Here is an example for Quant
     qnt: [
       {
         name: "SUN Twitter",
-        feed: "https://nitter.actionsack.com/defi_sunio/rss",
+        feed: "https://nitter.zelcore.io/defi_sunio/rss",
         site: "https://twitter.com/defi_sunio",
         about: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
         pic: "static/logos/SUN.svg",

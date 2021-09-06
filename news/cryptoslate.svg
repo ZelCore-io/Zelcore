@@ -1,0 +1,29 @@
+<svg id="Cryptoslate" xmlns="http://www.w3.org/2000/svg" width="1024" height="716" viewBox="0 0 1024 716">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+
+      .cls-4 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <path id="_1" data-name="1" class="cls-1" d="M321.606,104.141H448.535v126.93H321.606V104.141Z"/>
+  <path id="_2" data-name="2" class="cls-2" d="M321.606,231.071H448.535V358H321.606V231.071Z"/>
+  <path id="_3" data-name="3" class="cls-3" d="M321.606,358H448.535V484.929H321.606V358Z"/>
+  <path id="_4" data-name="4" class="cls-2" d="M321.606,484.929H448.535v126.93H321.606V484.929Z"/>
+  <path id="_5" data-name="5" class="cls-3" d="M448.535,484.929h126.93v126.93H448.535V484.929Z"/>
+  <path id="_6" data-name="6" class="cls-4" d="M575.465,484.929H702.394v126.93H575.465V484.929Z"/>
+  <path id="_7" data-name="7" class="cls-3" d="M448.535,104.141h126.93v126.93H448.535V104.141Z"/>
+  <path id="_8" data-name="8" class="cls-2" d="M575.465,104.141H702.394v126.93H575.465V104.141Z"/>
+</svg>

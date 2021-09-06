@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="256"
+   width="256"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="YFI_BEP20.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.4101562"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <circle
+     cx="128"
+     cy="128"
+     r="122.5"
+     fill="#0065d0"
+     paint-order="stroke fill markers"
+     id="circle2" />
+  <path
+     d="M132.632 179.727H120.64V74.975h11.992zm-42.098-28.081c-3.345 5.905-4.544 11.417-4.544 18.688 0 22.449 18.198 40.646 40.646 40.646s40.647-18.197 40.647-40.646c0-19.022-13.068-34.987-30.713-39.42v12.132c11.141 4.057 19.1 14.741 19.1 27.288 0 16.034-12.999 29.033-29.034 29.033s-29.033-12.999-29.033-29.033c0-5.926 1.827-10.954 4.875-15.548l2.109 19.229 11.597-1.496-5.612-36.661-36.473 7.296 2.057 12.157zm73.892-50.934c2.386-5.172 2.858-8.976 2.858-15.045 0-22.448-18.199-40.647-40.647-40.647S85.989 63.219 85.989 85.667c0 19.02 13.068 34.985 30.715 39.418v-12.129c-11.143-4.057-19.102-14.744-19.102-27.289 0-16.035 12.999-29.033 29.035-29.033s29.033 12.999 29.033 29.033c0 4.04-.826 7.888-2.318 11.384L146.902 80l-10.666 3.333 10.333 36 35.333-13-4.297-10.13z"
+     fill="#fff"
+     id="path4" />
+  <path
+     d="M127.853 16.547c-61.536 0-111.6 50.064-111.6 111.6s50.064 111.6 111.6 111.6 111.6-50.064 111.6-111.6-50.064-111.6-111.6-111.6m0-11c67.551 0 122.6 55.044 122.6 122.6s-55.044 122.6-122.6 122.6-122.6-55.046-122.6-122.6 55.049-122.6 122.6-122.6z"
+     fill="#474747"
+     id="path6"
+     style="fill:#e8a607;fill-opacity:1" />
+</svg>

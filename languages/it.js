@@ -69,6 +69,8 @@ export default {
     yes_send: "Yes, Invia",
     no_back: "No, Indietro",
     proceed_tx: "Procedere con la transazione?",
+    more: "Altro",
+    less: "Meno",
     // Close Dialog
     log_out: "Log Out",
     delete_account: "Elimina Account",
@@ -86,6 +88,8 @@ export default {
     action_shutdown_fullnode: "Questa azione spegnerà il tuo portafogli Full Node, desideri continuare?“",
     close_action: "Chiudi",
     news: "Notizie",
+    at_a_glance: "In Primo Piano",
+    news_disabled: "Il tuo feed di notizie è disabilitato",
     show_news: "Mostra notizie",
     theme: "Tema",
     extras: "Extra",
@@ -187,11 +191,13 @@ export default {
     easy_login_phrase: "Frase Easy Login",
     enter_your_password: "Inserisci password",
     login: "Accedi",
+    log_in: "Accedi",
     add_to_device: "Aggiungi Account al Dispositivo",
     yes_add: "Si, Aggiungi al Dispositivo",
     account_not_present: "L'Account non è presente sul Dispositivo",
     account_not_present_text: "L'Account {account} non è ancora presente su questo dispositivo. Vorresti aggiungere l'accout su questo dispositivo?",
     register_new_user: "Registra un Nuovo Account",
+    create_new_account: "Crea un Nuovo Account",
     register_account_locally: "Aggiungi un account esistente",
     register_account: "Registra un Account",
     no_proxy: "Nessun proxy",
@@ -226,9 +232,9 @@ export default {
     create_recover_password_mechanism: "Crea Meccanismo Recupero Password",
     create_recover_password_mechanism_help: "Il meccanismo di recupero password verrà archiviato localmente su questo dispositivo, associato al tuo account e crittografato. "
       + "Questo può essere utile nel caso in cui dimentichi la password.",
-    create_recover_password: "Qui puoi impostare il meccanismo di recupero della password. Dovrai selezionare almeno 3 domande per creare questo meccanismo di sicurezza e continuare con la creazione dell'account. Usa tutte le domande che desideri. "
-      + "Ricorda che se qualcuno che ti conosce hackera il tuo dispositivo, potrebbe conoscere le risposte alle domande più semplici. "
-      + "Più domande scegli, più sarai protetto. Le risposte non fanno distinzione tra maiuscole e minuscole.",
+    create_recover_password1: "Qui puoi impostare il meccanismo di recupero della password. Dovrai selezionare almeno 3 domande per creare questo meccanismo di sicurezza e continuare con la creazione dell'account. Usa tutte le domande che desideri.",
+    create_recover_password2: "Ricorda che se qualcuno che ti conosce hackera il tuo dispositivo, potrebbe conoscere le risposte alle domande più semplici.",
+    create_recover_password3: "Più domande scegli, più sarai protetto. Le risposte non fanno distinzione tra maiuscole e minuscole.",
     create_recover_password_select_question: "Seleziona Domanda",
     create_recover_password_answer: "Scrivi Risposta",
     add_question_answer_not_set: "Sia la domanda che la risposta devono essere compilate prima di poterne aggiungere un'altra o salvare.",
@@ -287,6 +293,8 @@ export default {
     invalid_capital: "INVALIDO",
 
     // Portfolio.vue
+    wallets_summary: "Riepilogo Portafogli",
+    assets_summary: "Riepilogo Assets",
     portfolio_empty: "Il tuo portafogli è vuoto. Premi il segno + per aggiungere assets.",
     add_asset: "Aggiungi asset",
     add_assets: "Aggiungi Assets",
@@ -343,13 +351,35 @@ export default {
     insert_mint: "Inserisci Mint Address",
     invalid_mint: "Mint Address Invalido",
     import_token: "Importa Token",
+    blank: "",
+    active: "Attive",
+    zero_balance: "Inattive",
+    show_zero_balance: "Mostra Inattive",
+    hide_zero_balance: "Nascondi Inattive",
+    icon: "Icona",
+    title: "Titolo",
+    color: "Colore",
+    order: "Ordine",
+    wallet_is_imported: "Questo portafoglio è stato importato. Le chiavi private non fanno parte del tuo account.",
+    danger: "Rischio",
+    list: "Lista",
+    grid: "Griglia",
+    manage_assets: "Gestisci Assets",
+    no_asset_balance: "Nessun asset con saldo",
+    no_asset_wallet: "Nessun asset nel wallet",
+    wallet1: "Pagamenti",
+    wallet2: "Entrate",
+    wallet3: "Mining",
+    wallet4: "Investimenti",
+    wallet5: "Pensione",
+    wallet6: "Borsa di Studio",
 
     // Install.vue
     starting: "Inizializzo",
     installing: "Installo",
     launch: "Lancia",
     cancel_setup: "Annulla configurazione",
-    cancelling: "Annullo..."
+    cancelling: "Annullo...",
     bootstrap_filesystem: "Bootstrap filesystem",
     download_binary_files: "Scarico binary files",
     gen_conf_file: "Genero file di configurazione",
@@ -407,10 +437,12 @@ export default {
     warning_omni_is_btc: "Attenzione: {coinname} è un token Bitcoin Omni layer e perciò richiede che BTC esegua una transazione. In aggiunta alle commissioni di BTC, devono essere inviati 0.000006 BTC \n"
                          + "all’indirizzo destinatario come un requisito della rete Bitcoin. Il processo di invio tarda un paio di secondi, potrebbe tardare qualche minuto per \n"
                          + "essere visibile nell’Omni Explorer e anche di più per apparire nella tabella delle transazioni, per favore sii paziente! La transazione è visibile istantaneamente nel tuo portafogli Bitcoin zelcore.",
-    warning_monero_fee: "La commissione {coinname} non è nota prima della creazione della transazione, questa è solo un'approssimazione. La creazione della transazione richiede alcuni secondi. Le transazioni non confermate non vengono visualizzate correttamente nella tabella delle transazioni e potrebbero non riflettere il saldo.",
+    warning_monero_fee: "La commissione {coinname} non è nota prima della creazione della transazione, questa è solo un'approssimazione. La creazione della transazione richiede alcuni secondi. "
+      + "Le transazioni non confermate non vengono visualizzate correttamente nella tabella delle transazioni e potrebbero non riflettere il saldo.",
     warning_ripple: "Le commissioni di Ripple sono calcolate automaticamente dipendendo dalla rete. Ci vuole un pò di tempo prima che la transazione sia visibile nella cronologia e sull’explorer.",
     warning_neo: "Le transazioni tardano qualche secondo ad apparire sulla tabella di transazioni e ad essere mostrate sull’explorer",
-    warning_substrate: "La commissione di transazione può variare leggermente, il valore mostrato è una stima. Le policy di commissione normale e veloce possono includere un suggerimento per aumentare la priorità delle transazioni. Potrebbero essere necessari alcuni secondi prima che la transazione venga riflessa nella tabella delle transazioni.",
+    warning_substrate: "La commissione di transazione può variare leggermente, il valore mostrato è una stima. Le policy di commissione normale e veloce possono includere un suggerimento per aumentare la priorità delle transazioni. "
+      + "Potrebbero essere necessari alcuni secondi prima che la transazione venga riflessa nella tabella delle transazioni.",
     warning_trc20: "I trasferimenti di token Tron TRC20 richiedono un saldo di TRX in modo che possa essere utilizzato come energia per alimentare l'esecuzione del contratto. TRX verrà detratto dal tuo conto fino a un limite massimo di commissione consentito.",
     edit: "Modifica",
     delete: "Elimina",
@@ -418,7 +450,7 @@ export default {
     full_node_launch_note: "A causa della cifratura che utilizza zelcore (non cifra il daemon), i tuoi fondi (wallet.dat) non saranno accessibili in altri software Full Node diversi da zelcore. "
         + "Dovrai utilizzare Strumenti -> Gestione portafogli -> backup wallet.dat per ottenere il tuo wallet.dat senza la crittografia di Zelcore. "
         + "Full Node è per utenti avanzati, se non sai cos'è Full Node, non usarlo! Si prega di eseguire frequentemente il backup delle chiavi private degli indirizzi che si utilizzano come best practice.",
-     launch_full_node: "Lancia Full Node",
+    launch_full_node: "Lancia Full Node",
     destination_address: "Indirizzo Destinatario",
     destination_address_cruxid: "Indirizzo Destinatario",
     destination_address_cruxid_openalias: "Indirizzo Destinatario o OpenAlias",
@@ -543,6 +575,7 @@ export default {
     take_some_mins: "Potrebbe volerci qualche minuto, per favore sii paziente.",
 
     // Overview.vue
+    info: "Informazioni",
     show_hide_balance: "Premi per mostrare/nascondere il saldo",
     unconfirmed_balance: "Saldo non confermato",
     zelnodes: "FluxNodes",
@@ -613,7 +646,8 @@ export default {
     simple_setup_and_management_zelnodes: "Gestisci ed Imposta facilmente i tuoi FluxNodes",
     export_wallet: "Esporta Portafoglio",
     export_wallet_info: "Questo genererà un file nella directory di export con la lista di tutte le chiavi private con gli indirizzi a cui sono associate.",
-    import_wallet_info: "Questo importerà tutti gli indirizzi dal file, dopo l'importazione il portafoglio avvierà una nuova scansione che può richiedere diversi minuti/ore, non lasciare che il tuo portafoglio si disconnetti automaticamente. Il tuo portafoglio sarà sbloccato per l'uso solo una volta finito",
+    import_wallet_info: "Questo importerà tutti gli indirizzi dal file, dopo l'importazione il portafoglio avvierà una nuova scansione che può richiedere diversi minuti/ore, non lasciare che il tuo portafoglio si disconnetti automaticamente. "
+      + "Il tuo portafoglio sarà sbloccato per l'uso solo una volta finito",
     click_to_choose_path: "Clicca per scegliere percorso file",
     import_export: "Importa / Esporta",
     import_export_info: "Importa un indirizzo nel tuo portafogli Full Node oppure esporta il tuo portafogli.",
@@ -686,7 +720,7 @@ export default {
     start_your_zelnodes: "Avvia I tuoi FluxNodes",
     start_configured_zelnodes: "Avvia i tuoi FluxNodes configurati",
     start_zelnode_all_or_specific: "Questo strumento ti permette di avviare uno o tutti i tuoi FluxNodes.",
-    start_zelnode_specific: "Questo strumento ti permette di avviare il tuo FluxNode",   
+    start_zelnode_specific: "Questo strumento ti permette di avviare il tuo FluxNode",
     zelnode_15_confirmations: "Nota che sono richieste almeno 15 conferme (circa 30 minuti) prima di poter avviare il tuo FluxNode, ",
     zelnode_false_positive_start: "altrimenti otterrai uno start ‘falso’ positivo e dovrai avviarli nuovamente.",
     zelnode_100_confirmations: "Sono richieste almeno 100 conferme (circa 3,5 ore) prima di poter avviare il tuo FluxNode.",
@@ -759,7 +793,8 @@ export default {
     continue_zelnode_setup: "Continua Setup FluxNode",
     blocks: "Blocchi",
     setup: "Setup",
-    welcome_zelnodes_first: "Prima di configurare un nuovo FluxNode, per favore fai un backup dei tuoi indirizzi esistenti. Puoi eseguire il backup di ogni chiave privata scaricando il tuo portafoglio in una posizione desiderata oppure puoi eseguire il backup della chiave privata per ogni singolo indirizzo."
+    welcome_zelnodes_first: "Prima di configurare un nuovo FluxNode, per favore fai un backup dei tuoi indirizzi esistenti. "
+      + "Puoi eseguire il backup di ogni chiave privata scaricando il tuo portafoglio in una posizione desiderata oppure puoi eseguire il backup della chiave privata per ogni singolo indirizzo.",
     backup_single_address: "Esegui Backup Indirizzo Singolo",
     backup_all_addresses: "Esegui Backup di Tutti gli Indirizzi",
     skip: "Salta",
@@ -769,7 +804,8 @@ export default {
     enter_zelnode_pk: "Inserisci la chiave privata del tuo FluxNode",
     enter_zelnode_addr: "Inserisci l’indirizzo del tuo FluxNode",
     automatic_log_out: "Log out Automatico",
-    auto_log_out_info_full_node: "Grande! Dai un’occhiata al tuo Log out Automatico dalle Impostazioni. Le Operazioni in Full Node necessitano di tempo, specialmente quando è necessario un reindex. Perciò raccomandiamo di impostare il Log out Automatico su un tempo maggiore o disabilitarlo muovendo lo slider, mentre esegui queste operazioni",
+    auto_log_out_info_full_node: "Grande! Dai un’occhiata al tuo Log out Automatico dalle Impostazioni. Le Operazioni in Full Node necessitano di tempo, specialmente quando è necessario un reindex. "
+      + "Perciò raccomandiamo di impostare il Log out Automatico su un tempo maggiore o disabilitarlo muovendo lo slider, mentre esegui queste operazioni",
     next_step: "Avanti",
     configuration_done_reindex1: "Hai modificato il tuo file di configurazione. È richiesto un reindex della tua blockchain per poter impostare il tuo FluxNode.",
     configuration_done_reindex2: "Puoi ricontrollare la configurazione modificata qui sotto. Continua salvando, questo inizializzerà un reindex. Il reindex tarderà alcune ore.",
@@ -875,19 +911,36 @@ export default {
     app_join_dev: "Sei interessato ad aderire al nostro programma per sviluppatori? Inviaci una email a",
     app_tell_us: "e dicci cosa ti piacerebbe sviluppare sulla Rete e per Zel.",
     apps_tools: "Strumenti",
+    apps_zelcoreplus_text: "Zelcore+ è la versione Premium di Zelcore. Hai accesso a funzionalità premium tra cui indirizzi di portafoglio aggiuntivi, trading su exchange integrati, monitoraggio dei nodi e altro ancora.",
+    apps_zelid_text: "Zelcore utilizza la potenza della blockchain per offrire un'autenticazione a due fattori decentralizzata. Proteggi il tuo account Zelcore con d2FA e usa la tua identità ZelID per accedere a varie altre piattaforme.",
+    apps_buy_crypto_text: "Zelcore è una piattaforma e un portafoglio crypto multi-asset, gratuito per tutti, con exchange quick-swap integrati, che supporta oltre 280+ asset. Acquista varie criptovalute con la tua carta.",
+    apps_fusion_text: "Converti assets tra blockchain diverse per sfruttare la vera DeFi. Fusion consente di riscuotere gli snapshots, le ricompense di parallel mining e consente lo swap dei tuoi Flux per accedere a reti diverse.",
+    apps_coinrequest_text: "CoinRequest è stato sviluppato per accelerare l'adozione delle criptovalute nel complesso. Basta creare una richiesta, condividerla tramite più canali (social media) e semplicemente attendere che l'altra parte paghi.",
+    apps_portfolio_tracker_text: "Tieni traccia dei tuoi assets e delle tue operazioni nel Portfolio Tracker. Importa le tue spese ed entrate per visualizzare il valore totale del tuo portafoglio nel tempo.",
+    apps_fluxnodes_text: "Gli operatori di FluxNodes forniscono potenza di calcolo dedicata, che genera ricompense in Flux per alimentare la rete. Tieni traccia della rete Flux e accedi a varie dApp in esecuzione su di essa.",
+    apps_fironodes_text: "Privacy è stare un passo avanti. I FiroNode sono responsabili di alcuni dei protocolli di privacy blockchain più significativi mai registrati.",
+    eve: "Eve",
+    apps_eve_text: "Il tuo assistente di navigazione per l'intero universo delle criptovalute. Incontra il nostro assistente virtuale sempre pronto ad aiutarti.",
+    eve_coming_soon: "Il tuo Eve sta arrivando!",
 
     // Account.vue
     settings: "Impostazioni",
+    danger_zone: "Area Pericolosa",
     currency: "Valuta",
     background: "Sfondo",
     choose_file: "Scegli file",
-    use_defaults: "Usa Defaults",
+    use_defaults: "Usa Default",
+    restore_defaults: "Ripristina Default",
     asset_management: "Gestione Assets",
     smart_portfolio: "Semplifica Portafoglio",
     hide_assets_in_portfolio: "Nascondi Assets dal Portafoglio",
     exchange_wallet: "Portafoglio per Exchange",
     selected_exchange_wallet: "Portafoglio exchange selezionato",
-    wallet: "portafoglio",
+    wallet: "Portafoglio",
+    wallet_small: "portafoglio",
+    add_wallet: "Aggiungi Portafogli",
+    wallet_settings: "Impostazioni Portafoglio",
+    save_wallet_settings: "Salva Impostazioni Portafoglio",
     selected_wallet: "Portafoglio selezionato",
     show_private_key: "Mostra Chiave Privata",
     show_private_key_in_wif: "Mostra Chiave Privata in WIF",
@@ -935,6 +988,9 @@ export default {
     fiat_value: "Valori in Fiat",
     bitcoin_value: "Valori in BTC",
     private_mode: "Valori sono nascosti",
+    privacy_mode: "Modalità Privacy",
+    privacy: "Privacy",
+    mode: "modalità",
     portfolio_mode: "Modalità portafoglio",
 
     // Exchange.vue
@@ -1019,6 +1075,19 @@ export default {
     quickswap_expired: "Il tasso è cambiato, aggiorna l'importo.",
     selling_amount_under_quickswap: "L'importo di vendita è inferiore al minimo. Fare clic sul pulsante Min per inserire l'importo minimo di vendita richiesto.",
     selling_amount_higher_quickswap: "L'importo di vendita è superiore al massimo. Fare clic sul pulsante Max per inserire l'importo di vendita massimo consentito.",
+    ex_quickswap_text: "Eve è una potente soluzione che aggrega più exchange quickswap con tasso sia Variabile che Fisso offrendo sempre le migliori tariffe disponibili. "
+    + "I fondi lasciano il tuo portafoglio solo per un breve periodo durante lo swap offrendo un'elevata sicurezza con la maggior parte degli swap che durano meno di un'ora.",
+    ex_serum_dex_text: "Serum è un exchange decentralizzato (DEX) ed ecosistema che offre velocità senza precedenti e bassi costi di transazione alla finanza decentralizzata. È costruito su Solana ed è completamente senza autorizzazione. I tuoi fondi sono sempre sotto il tuo controllo.",
+    ex_binance_dex_text: "L'architettura dual-chain di Binance Chain e Binance Smart Chain ti consente di creare le tue app decentralizzate, sfruttando allo stesso tempo le prestazioni di trading veloce offerte sull'exchange decentralizzato di Binance.",
+    ex_ftx_text: "FTX è un exchange di criptovalute creato dai trader, per i trader. FTX offre prodotti innovativi tra cui derivati, opzioni, prodotti di volatilità e token con leva finanziaria.",
+    ex_stex_text: "Lanciato a settembre 2017, STEX è un exchange centralizzato con licenza situato a Tallinn, in Estonia. Dispone di 3 tipi di verifica che consentono agli utenti di ridurre le commissioni di trading fino allo 0,1%. "
+      + "Supporta il trading crypto-to-crypto e fiat-to-crypto senza limiti di prelievo.",
+    ex_gemini_text: " Gemini è una piattaforma semplice, elegante e sicura per costruire il tuo portafoglio di criptovalute. "
+      + "Gemini è una società fiduciaria autorizzata di New York che si sottopone a regolari esami bancari ed è soggetta agli audit di sicurezza informatica condotti dal Dipartimento dei servizi finanziari di New York.",
+    ex_kucoin_text: "L'Exchange KuCoin è stato aperto per il trading di criptovalute a settembre 2017 con sede alle Seychelles. È diventato rapidamente uno degli exchange più rinomati del settore che offre un servizio affidabile in tutto il mondo.",
+    ex_binance_text: "Binance è un exchange di criptovalute con sede nelle Isole Cayman che fornisce una piattaforma per il trading di varie criptovalute fondato nel 2017. Binance è considerato il più grande exchange di criptovalute al mondo in termini di volume di scambi.",
+    ex_kraken_text: "Kraken è un exchange e banca di criptovalute con sede negli Stati Uniti, fondato nel 2011. L'exchange fornisce trading da criptovaluta a moneta fiat e fornisce informazioni sui prezzi a Bloomberg Terminal. L'alta reputazione lo rendono una scelta facile.",
+    ex_bittrex_text: "Bittrex Global ha sede in Liechtenstein e Bermuda, collocandosi fra i sistemi finanziari di livello mondiale governati da una legislazione rivoluzionaria. Bittrex è un exchange veterano con scambi velocissimi e standard di sicurezza elevati.",
 
     // Exchanges specific dialog
     changelly_aml_kys: "AML/KYC di Changelly.",
@@ -1109,6 +1178,8 @@ export default {
     wrong_pin: "PIN errato - Accesso negato",
     error_d2fa_cert: "Errore nel certificato d2FA. Si prega di contattare il team Zel.",
     unable_to_paste: "Impossibile incollare",
+    unable_to_copy: "Impossibile copiare",
+    unable_to_open: "Impossibile aprire",
     not_btc_omni: "Non ci sono abbastanza BTC confermati per eseguire una transazione su Omni Layer",
     previous_wallet_encryption: "La crittografia del portafoglio precedente è ancora in corso. Per favore riprova più tardi.",
     no_omni_fullnode: "Siamo spiacenti, al momento non offriamo il servizio Full Node per i token Omni.",
@@ -1335,7 +1406,8 @@ export default {
     not_enough_confirmed: "Non ci sono abbastanza {unit} confermati nell'account per eseguire la transazione",
     tx_refused_by_network: "Transazione rifiutata dalla rete {coinname}",
     unencrypted_found: "Portafoglio non crittografato trovato su {activeCoinWalletFile}. È stato creato un backup di questo portafoglio su {activeCoinWalletFileBackup}. Zelcore non utilizzerà questo wallet.dat, utilizzerà il tuo wallet.dat crittografato.",
-    unencrypted_use: "Portafoglio non crittografato trovato su {activeCoinWalletFile}. È stato creato un backup di questo portafoglio su {activeCoinWalletFileBackup}. Zelcore non utilizzerà questo portafoglio. Se si desidera utilizzare altri portafogli Full Node in futuro, utilizzare il file di backup del wallet.dat.",
+    unencrypted_use: "Portafoglio non crittografato trovato su {activeCoinWalletFile}. È stato creato un backup di questo portafoglio su {activeCoinWalletFileBackup}. "
+      + "Zelcore non utilizzerà questo portafoglio. Se si desidera utilizzare altri portafogli Full Node in futuro, utilizzare il file di backup del wallet.dat.",
     fiat_rates_unavilable: "Il tasso in Valuta di {coinname} non è disponibile.",
     fn_tx_created: "La transazione è stata creata correttamente. L'ID della transazione è: {result}",
     address_imported_result: "Indirizzo {address} importato",
@@ -1451,6 +1523,7 @@ export default {
     bittrex: "Bittrex",
     bitmex: "Bitmex",
     bitforex: "BitForex",
+    ftx: "FTX",
     stex: "Stex",
     gemini: "Gemini",
     kucoin: "KuCoin",
@@ -1468,7 +1541,8 @@ export default {
     post_only_text: "Un ordine Post-Only non verrà eseguito immediatamente contro il mercato. Utilizzalo per garantire uno Maker Rebate. Se verrà eseguito contro ordini in coda, verrà annullato.",
     reduce_only_text: "Un ordine Reduce-Only ridurrà solo la tua posizione, non aumentarla. Se questo ordine aumenta la tua posizione, viene modificato o cancellato in modo tale da non farlo.",
     position_closed_successfully: "Posizione chiusa con successo",
-    exchange_time_in_force_label: "Il tempo in vigore per questo ordine. Se il tuo ordine è impostato su ImmediateOrCancel, qualsiasi porzione lasciata non riempita immediatamente dopo il posizionamento verrà annullata. Se impostato su FillOrKill, l'ordine verrà eseguito solo se la sua quantità completa può essere riempita immediatamente.",
+    exchange_time_in_force_label: "Il tempo in vigore per questo ordine. Se il tuo ordine è impostato su ImmediateOrCancel, qualsiasi porzione lasciata non riempita immediatamente dopo il posizionamento verrà annullata. "
+      + "Se impostato su FillOrKill, l'ordine verrà eseguito solo se la sua quantità completa può essere riempita immediatamente.",
     exchange_my_open_orders: "I miei ordini aperti",
     exchange_my_closed_orders: "I miei ordini chiusi",
     exchange_invalid_data: "Informazioni Invalide",
@@ -1653,6 +1727,7 @@ export default {
 
     error_decoding_address: "Errore nella decodifica dell'indirizzo",
     import_wallet: "Importa portafoglio",
+    import_asset: "Importa Asset",
     import_wallet_priv_key: "Incolla qui la tua chiave privata {coinname}",
     error_in_import_wallet_priv_key: "Si è verificato un errore durante l'importazione della chiave privata",
     import_success: "Portafoglio importato con successo",
@@ -1666,7 +1741,7 @@ export default {
     important_notifications: "Notifiche Importanti",
     bnb_coins_have_soon: "Gli assets Binance Chain non hanno queste funzionalità ma le avranno presto",
     notifications_in_place: "Le seguenti notifiche agli utenti zelcore sono attualmente in corso",
-    notification_center: "Centro Notifiche",  
+    notification_center: "Centro Notifiche",
     zelcore_server: "Zelcore Server",
     port: "Porta",
     invalid_port: "Porta non valida. La porta deve essere > 0 e < 65536",
@@ -1806,7 +1881,8 @@ export default {
     zelplus_desc_four: "Un portfolio tracker per tenere traccia dei tuoi Assets e dei trade a colpo d'occhio.",
     simple_mode: "Modalità Economy",
     simple_mode_message: "La modalità Economy disabilita l'aggregazione delle notizie e i dati di mercato. Ciò riduce l'utilizzo dei dati ed è ideale per i sistemi più lenti.",
-    portfolio_mode_message: "Controlla la visibilità dei valori del tuo portafoglio. Puoi scegliere tra visualizzare il valore del portafoglio in Fiat, BTC o lasciarlo nascosto. L'opzione nascosto avrà i valori e il tuo nome utente sfocati. Questa impostazione può essere modificata anche facendo clic sulla ciambella in Portfolio",
+    portfolio_mode_message: "Controlla la visibilità dei valori del tuo portafoglio. Puoi scegliere tra visualizzare il valore del portafoglio in Fiat, BTC o lasciarlo nascosto. "
+      + "L'opzione nascosto avrà i valori e il tuo nome utente sfocati. Questa impostazione può essere modificata anche facendo clic sulla ciambella in Portfolio",
     market_cap: "Capitalizzazione di Mercato:",
     volume_day: "Volume 24h:",
     circ_supply: "Distribuzione Circolante:",
@@ -1860,10 +1936,12 @@ export default {
     backend_updated: "Servizi di backend aggiornati",
     startheight: "Avvia blocco:",
     starttx: "Avvia Trans.:",
-    cryptonight_rescan: "La soluzione di back-end è sincronizzata con il tuo indirizzo dal Blocco Iniziale {0}. Lo stato di avanzamento della scansione è {1} / {2}. Se ritieni che il tuo indirizzo abbia ricevuto la transazione prima del blocco iniziale, dovresti avviare una nuova scansione del tuo indirizzo. \n"
-    + "Questo è particolarmente utile nel caso in cui si è cambiata la soluzione di back-end. L'azione di Rescanning può richiedere un paio d'ore.",
-    cryptonight_rescan_mymonero: "La soluzione di backend è sincronizzata con il tuo indirizzo dalla transazione iniziale {0}. Lo stato di avanzamento della scansione è {1} / {2}. Se ritieni che il tuo indirizzo abbia ricevuto la transazione prima del blocco iniziale, dovresti avviare una nuova scansione del tuo indirizzo. \n"
-    + "Questo è particolarmente utile nel caso in cui si è cambiata la soluzione di back-end. L'azione di Rescanning può richiedere un paio d'ore.",
+    cryptonight_rescan: "La soluzione di back-end è sincronizzata con il tuo indirizzo dal Blocco Iniziale {0}. Lo stato di avanzamento della scansione è {1} / {2}. "
+      + "Se ritieni che il tuo indirizzo abbia ricevuto la transazione prima del blocco iniziale, dovresti avviare una nuova scansione del tuo indirizzo. \n"
+      + "Questo è particolarmente utile nel caso in cui si è cambiata la soluzione di back-end. L'azione di Rescanning può richiedere un paio d'ore.",
+    cryptonight_rescan_mymonero: "La soluzione di backend è sincronizzata con il tuo indirizzo dalla transazione iniziale {0}. Lo stato di avanzamento della scansione è {1} / {2}. "
+      + "Se ritieni che il tuo indirizzo abbia ricevuto la transazione prima del blocco iniziale, dovresti avviare una nuova scansione del tuo indirizzo. \n"
+      + "Questo è particolarmente utile nel caso in cui si è cambiata la soluzione di back-end. L'azione di Rescanning può richiedere un paio d'ore.",
     cryptonight_rescan2: "Inserisci il numero degli ultimi blocchi di cui desideri ripetere la scansione",
     cryptonight_rescan2_mymonero: "Inserisci il block header iniziale dal quale desideri che il tuo indirizzo sia sincronizzato con la blockchain",
     number_of_blocks: "Numero di Blocchi su cui eseguire rescan",
@@ -1899,7 +1977,8 @@ export default {
     maximum_spendable_amount: "Importo massimo spendibile:",
     address_spendable_amount: "Indirizzo importo spendibile:",
     send_remaining_balance_back_to_source: "Invia il saldo residuo all'indirizzo di origine",
-    send_remaining_balance_back_to_source_warning: "La transazione utilizzerà tutti gli output non spesi (utxo), il che potrebbe comportare transazioni di dimensioni maggiori, commissioni più elevate o persino transazioni rifiutate. La disabilitazione di questa opzione invierà la modifica rimanente al tuo indirizzo di modifica (comportamento standard Full Node).",
+    send_remaining_balance_back_to_source_warning: "La transazione utilizzerà tutti gli output non spesi (utxo), il che potrebbe comportare transazioni di dimensioni maggiori, commissioni più elevate o persino transazioni rifiutate. "
+      + "La disabilitazione di questa opzione invierà la modifica rimanente al tuo indirizzo di modifica (comportamento standard Full Node).",
     no_private_address: "Nessun indirizzo privato presente nel portafoglio",
     no_memo_attached: "Nessun memo allegato",
     no_acc_or_wallet: "Nessun portafoglio o account attivo è presente in zelcore",
@@ -1953,7 +2032,8 @@ export default {
     crux_error_putaddressmap: "Errore durante l'aggiornamento del mapping degli indirizzi registrati",
     crux_error_updatepassword: "Errore durante l'aggiornamento della password CruxID",
     crux_input_cruxid: "Inserire il CruxID desiderato",
-    crux_register_info: "Registra il tuo CruxID e lo associa con il portafoglio zelcore selezionato. Una volta completata la registrazione, puoi gestire il tuo account CruxID direttamente da zelcore. Si noti che tutti gli indirizzi selezionati verranno esposti pubblicamente. La registrazione di CruxID può richiedere diverse ore.",
+    crux_register_info: "Registra il tuo CruxID e lo associa con il portafoglio zelcore selezionato. Una volta completata la registrazione, puoi gestire il tuo account CruxID direttamente da zelcore. "
+      + "Si noti che tutti gli indirizzi selezionati verranno esposti pubblicamente. La registrazione di CruxID può richiedere diverse ore.",
     crux_cruxidnotavailable: "Siamo spiacenti, il CruxID desiderato non è più disponibile",
     crux_available: "Il CruxID {cruxid} è disponibile",
     crux_notavailable: "Il CruxID {cruxid} non è disponibile",
@@ -2061,7 +2141,8 @@ export default {
     znode_enter_a_valid_fee_address: "Inserisci un indirizzo Fee Source",
     znode_enter_valid_ipv4: "Inserisci un indirizzo IPv4 valido",
     activate_my_znode: "Registra il mio FiroNode!",
-    znode_end_process: "Interrompi il daemon FiroNode sul tuo VPS e sostituisci il file zcoin.conf con quello qui sotto. Dopo aver sostituito il file zcoin.conf, riavvia il tuo daemon e assicurati che sia stato avviato correttamente e che sia sincronizzato con la rete Firo prima di continuare con il passaggio successivo.",
+    znode_end_process: "Interrompi il daemon FiroNode sul tuo VPS e sostituisci il file zcoin.conf con quello qui sotto. "
+      + "Dopo aver sostituito il file zcoin.conf, riavvia il tuo daemon e assicurati che sia stato avviato correttamente e che sia sincronizzato con la rete Firo prima di continuare con il passaggio successivo.",
     register_znode: "È il momento di registrare il tuo FiroNode sulla blockchain. Dopo aver premuto registrati, verrà inviata una transazione speciale alla rete per registrare il tuo FiroNode. "
       + "Riceverai la transazione per controllarla su explorer. Dopo che la transazione è stata confermata, il tuo FiroNode dovrebbe apparire nella sezione I Miei FiroNodes",
     list_of_znode_outputs: "FiroNode richiede un output di transazione di esattamente 1000 XZC. Ecco l'elenco degli outputs disponibili. Fare clic su un output per utilizzarlo per configurare un FiroNode.",
@@ -2090,7 +2171,8 @@ export default {
     znodes_overview: "Panoramica FiroNodes",
     znodes_on_zcoin_network: "FiroNode sulla rete Firo",
     my_monitoring_znodes: "I miei FiroNode Monitorati",
-    znode_list_unspent: "Di seguito puoi vedere tutti gli output delle transazioni non spese (utxo) disponibili sul tuo portafoglio Full Node. Il tuo saldo non rifletterà gli output delle transazioni bloccate e non spese. Fare clic su una riga della tabella sottostante per bloccare l'output della transazione.",
+    znode_list_unspent: "Di seguito puoi vedere tutti gli output delle transazioni non spese (utxo) disponibili sul tuo portafoglio Full Node. Il tuo saldo non rifletterà gli output delle transazioni bloccate e non spese. "
+      + "Fare clic su una riga della tabella sottostante per bloccare l'output della transazione.",
     znode_lock_list: "Di seguito puoi vedere tutti gli output delle transazioni bloccate disponibili sul tuo portafoglio Full Node. Fai clic su una riga della tabella sottostante per sbloccare l'importo in modo che possa essere riutilizzato nel portafoglio.",
     znode_show_list_unspent: "Mostra elenco non spesi",
     znode_show_locked_list: "Mostra elenco bloccati",
@@ -2105,7 +2187,7 @@ export default {
     unlocked_znode_utxos: "Di seguito puoi vedere tutti gli output delle transazioni non spesi disponibili per la configurazione di FiroNode sul tuo portafoglio Full Node. Si consiglia di bloccare l'output della transazione collaterale utilizzato per creare un FiroNode. "
       + "Per sbloccarli in futuro, utilizzare la funzione di output bloccati dello strumento di gestione FiroNodes. Il tuo saldo non rifletterà gli output delle transazioni bloccate e non spese. Fare clic su una riga della tabella sottostante per bloccare l'output della transazione.",
 
- // wallet connect
+    // wallet connect
     session_request: "Richiesta Sessione Wallet Connect",
     approve_session: "Approva Sessione",
     reject_session: "Rifiuta Sessione",
@@ -2224,6 +2306,8 @@ export default {
     claiming_success: "Reward dello Snapshot Riscosso",
     custom_address: "Indirizzo personalizzato",
     flux_on_kda_chain: "Flux su Kadena Chain",
+    flux_on_eth_chain: "Flux su Ethereum Chain",
+    flux_on_bsc_chain: "Flux su Binance Smart Chain",
     snapshot_unavailable: "La riscossione dello Snapshot selezionato non è disponibile",
     signing_error: "Errore interno nella firma del messaggio",
     not_fully_owned_claim: "L'indirizzo di ricezione Kadena fornito non è completamente di proprietà del chain ID 0. Seleziona un altro account Kadena",
@@ -2233,6 +2317,24 @@ export default {
     address_not_eligible: "L'indirizzo fornito non ha partecipato allo Snapshot",
     already_claimed: "Istantanea già riscossa per l'indirizzo {address}",
     claiming_time: "Ci vuole un po' prima che la transazione di riscossione dello Snapshot sia visibile sull'explorer",
+    select_coinbase: "Seleziona Coinbase",
+    coinbase: "Coinbase",
+    coinbase_claim_intro: "Riscuoti Token Flux Coinbase",
+    coinbase_address: "Indirizzo Coinbase",
+    specified_coinbase_address: "Indirizzo Coinbase Specificato",
+    select_coinbase_address: "Seleziona Indirizzo Coinbase",
+    specified_coinbase_address_private_key: "Chiave Privata Indirizzo Coinbase",
+    coinbase_select_receiving_address: "Seleziona l'Indirizzo Coinbase di Ricezione",
+    coinbase_receiving_address: "Indirizzo Coinbase di Ricezione",
+    coinbase_claim: "Riscuoti Coinbase",
+    claim_coinbase: "Riscuoti Coinbase",
+    coinbase_claim_introC: "Si prega di controllare i dettagli della riscossione coinbase",
+    coinbase_receiving_wallet: "Portafogli Coinbase di Ricezione",
+    coinbase_claiming_address: "Indirizzo Coinbase che Riscuote",
+    coinbase_claiming_wallet: "Portafogli Coinbase che Riscuote",
+    coinbase_claiming_success: "Reward Coinbase Riscosso",
+    coinbase_address_not_eligible: "L'indirizzo fornito non ha coinbase riscuotibili",
+    coinbase_claiming_time: "Ci vuole un po' di tempo prima che la transazione di richiesta di coinbase sia visibile sull'explorer",
 
     // quickswap
     quickswap: "QuickSwap",
@@ -2295,6 +2397,12 @@ export default {
     close: "Chiudi",
     create_transaction: "Crea transazione",
     select_asset: "Seleziona asset",
+    managed_asset: "Managed Asset",
+    logout_information: "Scegli disconnetti per accedere a diversi account zelcore. Potresti continuare a ricevere transazioni e notifiche dell'applicazione a seconda delle tue impostazioni. L'eliminazione dell'account eliminerà il tuo account da questo dispositivo.",
+    privkeys_information: "Le tue chiavi private sono la chiave per sbloccare gli assets. Fanne un backup e tienilo molto al sicuro. Chiunque sia in possesso della chiave privata può effettuare transazioni con gli assets",
+    wallet_management_information: "Qui puoi impostare i portafogli corrispondenti per funzionalità aggiuntive di zelcore come gli exchange e modificare le tue notifiche e le impostazioni del full node",
+    appearance_information: "Personalizza il tuo portafoglio zelcore in base alle tue esigenze. Applica il tuo sfondo preferito, seleziona il tuo tema e personalizza ulteriormente la tua esperienza",
+    extras_information: "Regola gli extra del tuo portafoglio zelcore, controllane ogni aspetto, scegli i server proxy per un maggiore anonimato e aggira i subdoli firewall dei governi",
     enable_drag: "Abilita Trascinamento",
     disable_drag: "Disabilita Trascinamento",
     books: "Books",

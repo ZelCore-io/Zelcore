@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244.8" height="244.8" viewBox="0 0 244.8 244.8">
+  <g id="aleph_sol" transform="translate(-12866.7 -8120.147)">
+    <g id="rope-sol" transform="translate(-984.3 714.147)">
+      <path id="Main_copy_10" d="M0,121.252C0,188.064,54.44,242.5,121.252,242.5S242.5,188.064,242.5,121.252,188.064,0,121.252,0,0,54.44,0,121.252Z" transform="translate(13852.248 7407.248)" fill="#3c8ded"/>
+      <g id="Main_copy_14" transform="translate(13851 7406)">
+        <path id="Path_472526" data-name="Path 472526" d="M0,122.4c0,67.444,54.954,122.4,122.4,122.4s122.4-54.954,122.4-122.4S189.841,0,122.4,0,0,54.954,0,122.4Z" fill="none"/>
+        <path id="Path_472527" data-name="Path 472527" d="M122.4,11A111.4,111.4,0,1,0,233.8,122.4,111.526,111.526,0,0,0,122.4,11m0-11c67.441,0,122.4,54.954,122.4,122.4S189.846,244.8,122.4,244.8,0,189.844,0,122.4,54.959,0,122.4,0Z" fill="#1ae5ae"/>
+      </g>
+    </g>
+    <g id="Group_9324" data-name="Group 9324" transform="translate(1068.222 197.565)">
+      <g id="Group_9322" data-name="Group 9322" transform="translate(11887.276 7937.536) rotate(45)">
+        <circle id="Ellipse_1192" data-name="Ellipse 1192" cx="11.322" cy="11.322" r="11.322" transform="translate(44.989 44.692)" fill="#fff"/>
+        <circle id="Ellipse_1193" data-name="Ellipse 1193" cx="11.322" cy="11.322" r="11.322" transform="translate(123.647 44.692)" fill="#fff"/>
+        <rect id="Rectangle_1039" data-name="Rectangle 1039" width="11.918" height="33.966" rx="5.959" transform="translate(129.01 78.657)" fill="#fff"/>
+        <rect id="Rectangle_1040" data-name="Rectangle 1040" width="11.918" height="33.966" rx="5.959" transform="translate(50.352)" fill="#fff"/>
+        <rect id="Rectangle_1041" data-name="Rectangle 1041" width="11.918" height="33.966" rx="5.959" transform="translate(33.966 50.055) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_1043" data-name="Rectangle 1043" width="11.918" height="33.966" rx="5.959" transform="translate(191.28 50.055) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_1044" data-name="Rectangle 1044" width="11.918" height="33.966" rx="5.959" transform="translate(112.623 50.055) rotate(90)" fill="#fff"/>
+      </g>
+      <text id="aleph.im" transform="translate(11959.984 8052.612) rotate(45)" fill="#fff" font-size="25" font-family="Monospace821BT-Roman, Monospac821 BT" letter-spacing="-0.03em"><tspan x="-57.58" y="0">aleph.im</tspan></text>
+    </g>
+  </g>
+</svg>
