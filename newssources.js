@@ -4323,21 +4323,24 @@ const newssources = {
         name: "Waves Twitter",
         feed: "https://nitter.zelcore.io/wavesprotocol/rss",
         site: "https://twitter.com/wavesprotocol",
-        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. "
+          + "It enables anyone to build their apps, fostering mass adoption of blockchain.",
         pic: "static/logos/WAVES_ERC20.svg",
       },
       {
         name: "Waves Reddit",
         feed: "https://reddit.com/r/Wavesplatform/.rss",
         site: "https://reddit.com/r/Wavesplatform",
-        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. "
+          + "It enables anyone to build their apps, fostering mass adoption of blockchain.",
         pic: "static/logos/WAVES_ERC20.svg",
       },
       {
         name: "Waves Medium",
         feed: "https://medium.com/feed/wavesprotocol",
         site: "https://medium.com/wavesprotocol",
-        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. "
+          + "It enables anyone to build their apps, fostering mass adoption of blockchain.",
         pic: "static/logos/WAVES_ERC20.svg",
       },
     ],
@@ -4603,21 +4606,24 @@ const newssources = {
         name: "Numeraire Twitter",
         feed: "https://nitter.zelcore.io/numerai/rss",
         site: "https://twitter.com/numerai",
-        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
+        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. "
+          + "The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
         pic: "static/logos/NMR_ERC20.svg",
       },
       {
         name: "Numeraire Reddit",
         feed: "https://reddit.com/r/numerai/.rss",
         site: "https://reddit.com/r/numerai",
-        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
+        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. "
+          + "The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
         pic: "static/logos/NMR_ERC20.svg",
       },
       {
         name: "Numeraire Medium",
         feed: "https://medium.com/feed/numerai",
         site: "https://medium.com/numerai",
-        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
+        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. "
+          + "The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
         pic: "static/logos/NMR_ERC20.svg",
       },
     ],

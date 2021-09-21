@@ -9222,8 +9222,8 @@ const coins = {
     slip: 570,
     addresses: [],
     api: [
-      "https://backend.bdx.zelcore.io",
       "https://walapi.beldex.io",
+      "https://backend.bdx.zelcore.io",
     ],
     unit: "BDX",
     type: "cryptonight",
@@ -11094,8 +11094,8 @@ const coins = {
     chimeric: 2,
     addresses: [],
     api: [
-      "https://ada.getblock.io/mainnet/",
-      "https://backend.ada.zelcore.io/",
+      "https://backend.ada.zelcore.io/graphql",
+      "https://graphql.adatools.io/graphql",
     ],
     unit: "ADA",
     type: "cardano",
@@ -11104,8 +11104,8 @@ const coins = {
     ],
     logolink: "static/logos/ADA.svg",
     node: [
-      "https://ada.getblock.io/submit/",
-      "https://submit.ada.zelcore.io/",
+      "https://backend.ada.zelcore.io",
+      "https://graphql.adatools.io",
     ],
     fee: 0.168273, // 1 utxo, 2 outputs
     feepolicy: { // do not use
@@ -14507,7 +14507,7 @@ const coins = {
     coin: "shibeth",
     name: "SHIBA INU ERC20",
     uri: [
-      "shiba-inu",
+      "shibainu",
       "shib",
       "shibeth",
     ],
@@ -14552,9 +14552,10 @@ const coins = {
     coin: "perpeth",
     name: "Perpetual Protocol ERC20",
     uri: [
-      "perpetual-protocol",
+      "perpetualprotocol",
       "perp",
       "perpeth",
+      "perpetual",
     ],
     addresses: [],
     api: [
@@ -14642,9 +14643,11 @@ const coins = {
     coin: "crveth",
     name: "Curve DAO Token ERC20",
     uri: [
-      "curve-dao-token",
+      "curvedaotoken",
       "crv",
       "crveth",
+      "curve",
+      "curvedao",
     ],
     addresses: [],
     api: [
@@ -14687,7 +14690,8 @@ const coins = {
     coin: "sandeth",
     name: "The Sandbox ERC20",
     uri: [
-      "the-sandbox",
+      "sandbox",
+      "thesandbox",
       "sand",
       "sandeth",
     ],
@@ -14732,7 +14736,8 @@ const coins = {
     coin: "vgxeth",
     name: "Voyager Token ERC20",
     uri: [
-      "voyager-token",
+      "voyager",
+      "voyagertoken",
       "vgx",
       "vgxeth",
     ],
@@ -14866,7 +14871,8 @@ const coins = {
     coin: "alphaeth",
     name: "Alpha Finance Lab ERC20",
     uri: [
-      "alpha-finance-lab",
+      "alphafinancelab",
+      "alphafinance",
       "alpha",
       "alphaeth",
     ],
@@ -14914,7 +14920,6 @@ const coins = {
       "fetch",
       "fet",
       "feteth",
-      "fetbsc",
     ],
     addresses: [],
     api: [
@@ -14957,7 +14962,8 @@ const coins = {
     coin: "glmeth",
     name: "Golem ERC20",
     uri: [
-      "golem-network-tokens",
+      "golem",
+      "golemnetworktoken",
       "glm",
       "glmeth",
     ],
@@ -15002,10 +15008,10 @@ const coins = {
     coin: "usdneth",
     name: "Neutrino USD ERC20",
     uri: [
-      "neutrino-usd",
+      "neutrino",
+      "neutrinousd",
       "usdn",
       "usdneth",
-      "usdnbsc",
     ],
     addresses: [],
     api: [
@@ -15048,7 +15054,8 @@ const coins = {
     coin: "skleth",
     name: "SKALE Network ERC20",
     uri: [
-      "skale-network",
+      "skale",
+      "skalenetwork",
       "skl",
       "skleth",
     ],
@@ -15138,9 +15145,9 @@ const coins = {
     coin: "srmeth",
     name: "Serum ERC20",
     uri: [
+      "srmeth",
       "serum",
       "srm",
-      "srmeth",
     ],
     addresses: [],
     api: [
@@ -15231,7 +15238,6 @@ const coins = {
       "myneighboralice",
       "alice",
       "aliceeth",
-      "alicebsc",
     ],
     addresses: [],
     api: [
@@ -15274,8 +15280,8 @@ const coins = {
     coin: "feieth",
     name: "Fei Protocol ERC20",
     uri: [
-      "fei-protocol",
       "fei",
+      "feiprotocol",
       "feieth",
     ],
     addresses: [],
@@ -15319,7 +15325,8 @@ const coins = {
     coin: "ogneth",
     name: "Origin Protocol ERC20",
     uri: [
-      "origin-protocol",
+      "origin",
+      "originprotocol",
       "ogn",
       "ogneth",
     ],
@@ -15364,10 +15371,10 @@ const coins = {
     coin: "injeth",
     name: "Injective Protocol ERC20",
     uri: [
-      "injective-protocol",
+      "injective",
+      "injectiveprotocol",
       "inj",
       "injeth",
-      "injbsc",
     ],
     addresses: [],
     api: [
@@ -15411,6 +15418,7 @@ const coins = {
     name: "SingularityNET ERC20",
     uri: [
       "singularitynet",
+      "singularity",
       "agix",
       "agixeth",
     ],
@@ -15453,12 +15461,12 @@ const coins = {
   },
   paxgeth: {
     coin: "paxgeth",
-    name: "PAX Gold ERC20",
+    name: "Paxos Gold ERC20",
     uri: [
-      "pax-gold",
+      "paxosgold",
+      "paxgold",
       "paxg",
       "paxgeth",
-      "paxgbsc",
     ],
     addresses: [],
     api: [
@@ -15501,8 +15509,8 @@ const coins = {
     coin: "bandeth",
     name: "Band Protocol ERC20",
     uri: [
-      "band-protocol",
       "band",
+      "bandprotocol",
       "bandeth",
       "bandbsc",
     ],
@@ -15590,11 +15598,11 @@ const coins = {
   },
   reefeth: {
     coin: "reefeth",
-    name: "Reef ERC20",
+    name: "Reef Finance ERC20",
     uri: [
       "reef",
+      "reeffinance",
       "reefeth",
-      "reefbsc",
     ],
     addresses: [],
     api: [
@@ -15640,7 +15648,6 @@ const coins = {
       "cartesi",
       "ctsi",
       "ctsieth",
-      "ctsibsc",
     ],
     addresses: [],
     api: [
