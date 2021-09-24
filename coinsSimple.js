@@ -1,3 +1,6 @@
+/* eslint array-bracket-newline: ["error", { "minItems": 1 }] */
+/* eslint array-element-newline: ["error", "always"] */
+/* eslint object-property-newline: "error" */
 const coins = {
   zelcash: {
     coin: "zelcash",
