@@ -11143,7 +11143,7 @@ const coins = {
       "https://etherscan.io/tx/",
       "https://blockchair.com/ethereum/transaction/",
     ],
-    logolink: "static/logos/MATIC.svg",
+    logolink: "static/logos/MATIC_ERC20.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11173,7 +11173,7 @@ const coins = {
   },
   bscbinance: {
     coin: "bscbinance",
-    name: "Binance Smart Chain",
+    name: "Binance Smart Chain BNB",
     uri: [
       "bsc",
       "binancesmartchain",
@@ -11196,7 +11196,7 @@ const coins = {
       "https://bsc-dataseed1.ninicoin.io",
       "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
     ],
-    fee: 120000,
+    fee: 21000,
     feepolicy: {
       economy: 20,
       normal: 25,
@@ -15731,6 +15731,76 @@ const coins = {
       "infura",
     ],
   },
+  maticpolygon: {
+    coin: "maticpolygon",
+    name: "Polygon",
+    uri: [
+      "matic",
+      "maticpolygon",
+      "polygon",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=txlist&address=",
+    ],
+    unit: "MATIC",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/MATIC.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+    ],
+    fee: 21000,
+    feepolicy: {
+      economy: 2,
+      normal: 3,
+      fast: 5,
+    },
+    color: "#8247e5",
+    contractAddress: "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+    chainID: 137, // 137 - mainnet, 80001 - testnet
+    networkName: "Polygon Chain",
+  },
+  // polygontoken: {
+  //   coin: "polygontoken",
+  //   name: "Some Token",
+  //   uri: [
+  //     "matic",
+  //     "maticpolygon",
+  //     "polygon",
+  //   ],
+  //   addresses: [],
+  //   api: [
+  //     "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e&address=",
+  //   ],
+  //   unit: "TOKEN",
+  //   type: "polygon",
+  //   explorer: [
+  //     "https://polygonscan.com/tx/",
+  //   ],
+  //   logolink: "static/logos/MATIC.svg",
+  //   node: [
+  //     "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+  //   ],
+  //   fee: 120000,
+  //   feepolicy: {
+  //     economy: 2,
+  //     normal: 3,
+  //     fast: 5,
+  //   },
+  //   color: "#8247e5",
+  //   contractAddress: "0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e",
+  //   decimals: 18,
+  //   backend: [
+  //     "polygon",
+  //   ],
+  // },
 };
 
 module.exports = coins;
