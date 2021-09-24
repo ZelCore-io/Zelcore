@@ -593,7 +593,7 @@ const coins = {
   },
   sonm: {
     coin: "sonm",
-    name: "Sonm",
+    name: "Sonm ERC20",
     uri: [
       "sonm",
     ],
@@ -636,7 +636,7 @@ const coins = {
   },
   omisego: {
     coin: "omisego",
-    name: "OmiseGO",
+    name: "OmiseGO ERC20",
     uri: [
       "omisego",
       "omg",
@@ -680,7 +680,7 @@ const coins = {
   },
   zilliqa: {
     coin: "zilliqa",
-    name: "Zilliqa",
+    name: "Zilliqa ERC20",
     uri: [
       "zilliqa",
       "zil",
@@ -724,7 +724,7 @@ const coins = {
   },
   zrx: {
     coin: "zrx",
-    name: "0x",
+    name: "0x ERC20",
     uri: [
       "0x",
       "zrx",
@@ -768,7 +768,7 @@ const coins = {
   },
   golem: {
     coin: "golem",
-    name: "Golem",
+    name: "Golem ERC20",
     uri: [
       "golem",
       "gnt",
@@ -812,7 +812,7 @@ const coins = {
   },
   kucoin: {
     coin: "kucoin",
-    name: "KuCoin",
+    name: "KuCoin ERC20",
     uri: [
       "kucoin",
       "kcs",
@@ -856,7 +856,7 @@ const coins = {
   },
   bat: {
     coin: "bat",
-    name: "Basic Attention Token",
+    name: "Basic Attention Token ERC20",
     uri: [
       "basicattentiontoken",
       "bat",
@@ -900,7 +900,7 @@ const coins = {
   },
   maker: {
     coin: "maker",
-    name: "Maker",
+    name: "Maker ERC20",
     uri: [
       "maker",
       "mkr",
@@ -944,7 +944,7 @@ const coins = {
   },
   kyber: {
     coin: "kyber",
-    name: "KNC Legacy",
+    name: "KNC Legacy ERC20",
     uri: [
       "kncl",
     ],
@@ -987,7 +987,7 @@ const coins = {
   },
   enigma: {
     coin: "enigma",
-    name: "Enigma",
+    name: "Enigma ERC20",
     uri: [
       "enigma",
       "eng",
@@ -1031,7 +1031,7 @@ const coins = {
   },
   tenx: {
     coin: "tenx",
-    name: "TenX",
+    name: "TenX ERC20",
     uri: [
       "tenx",
       "pay",
@@ -1075,7 +1075,7 @@ const coins = {
   },
   substratum: {
     coin: "substratum",
-    name: "Substratum",
+    name: "Substratum ERC20",
     uri: [
       "substratum",
       "sub",
@@ -1119,7 +1119,7 @@ const coins = {
   },
   civic: {
     coin: "civic",
-    name: "Civic",
+    name: "Civic ERC20",
     uri: [
       "civic",
       "cvc",
@@ -1163,7 +1163,7 @@ const coins = {
   },
   stox: {
     coin: "stox",
-    name: "Stox",
+    name: "Stox ERC20",
     uri: [
       "stox",
       "stx",
@@ -1754,7 +1754,7 @@ const coins = {
   },
   arcblock: {
     coin: "arcblock",
-    name: "ArcBlock",
+    name: "ArcBlock ERC20",
     uri: [
       "arcblock",
       "abt",
@@ -1798,7 +1798,7 @@ const coins = {
   },
   adex: {
     coin: "adex",
-    name: "AdEx",
+    name: "AdEx ERC20",
     uri: [
       "adex",
       "adx",
@@ -1842,7 +1842,7 @@ const coins = {
   },
   aeternity: {
     coin: "aeternity",
-    name: "Aeternity",
+    name: "Aeternity ERC20",
     uri: [
       "aeternity",
       "ae",
@@ -1886,7 +1886,7 @@ const coins = {
   },
   airswap: {
     coin: "airswap",
-    name: "AirSwap",
+    name: "AirSwap ERC20",
     uri: [
       "airswap",
       "ast",
@@ -1930,7 +1930,7 @@ const coins = {
   },
   bigbom: {
     coin: "bigbom",
-    name: "Bigbom",
+    name: "Bigbom ERC20",
     uri: [
       "bigbom",
       "bbo",
@@ -1974,7 +1974,7 @@ const coins = {
   },
   appcoins: {
     coin: "appcoins",
-    name: "AppCoins",
+    name: "AppCoins ERC20",
     uri: [
       "appcoins",
       "appc",
@@ -2018,7 +2018,7 @@ const coins = {
   },
   bluzelle: {
     coin: "bluzelle",
-    name: "Bluzelle",
+    name: "Bluzelle ERC20",
     uri: [
       "bluzelle",
       "blz",
@@ -2062,7 +2062,7 @@ const coins = {
   },
   bancor: {
     coin: "bancor",
-    name: "Bancor",
+    name: "Bancor ERC20",
     uri: [
       "bancor",
       "bnt",
@@ -2106,7 +2106,7 @@ const coins = {
   },
   coinfi: {
     coin: "coinfi",
-    name: "CoinFi",
+    name: "CoinFi ERC20",
     uri: [
       "coinfi",
       "cofi",
@@ -2150,7 +2150,7 @@ const coins = {
   },
   dai: {
     coin: "dai",
-    name: "Sai",
+    name: "Sai ERC20",
     uri: [
       "sai",
     ],
@@ -2193,7 +2193,7 @@ const coins = {
   },
   digixgoldtoken: {
     coin: "digixgoldtoken",
-    name: "Digix Gold",
+    name: "Digix Gold ERC20",
     uri: [
       "digixgoldtoken",
       "dgx",
@@ -2237,7 +2237,7 @@ const coins = {
   },
   electrify: {
     coin: "electrify",
-    name: "Electrify",
+    name: "Electrify ERC20",
     uri: [
       "electrify.asia",
       "electrify",
@@ -2282,7 +2282,7 @@ const coins = {
   },
   aelf: {
     coin: "aelf",
-    name: "Aelf",
+    name: "Aelf ERC20",
     uri: [
       "aelf",
       "elf",
@@ -2326,7 +2326,7 @@ const coins = {
   },
   enjincoin: {
     coin: "enjincoin",
-    name: "EnjinCoin",
+    name: "EnjinCoin ERC20",
     uri: [
       "enjincoin",
       "enj",
@@ -2370,7 +2370,7 @@ const coins = {
   },
   storj: {
     coin: "storj",
-    name: "Storj",
+    name: "Storj ERC20",
     uri: [
       "storj",
     ],
@@ -2413,7 +2413,7 @@ const coins = {
   },
   iost: {
     coin: "iost",
-    name: "IOST",
+    name: "IOST ERC20",
     uri: [
       "iost",
     ],
@@ -2456,7 +2456,7 @@ const coins = {
   },
   dent: {
     coin: "dent",
-    name: "DENT",
+    name: "DENT ERC20",
     uri: [
       "dent",
     ],
@@ -2499,7 +2499,7 @@ const coins = {
   },
   ethlend: {
     coin: "ethlend",
-    name: "ETHLend",
+    name: "ETHLend ERC20",
     uri: [
       "ethlend",
       "lend",
@@ -2543,7 +2543,7 @@ const coins = {
   },
   chainlink: {
     coin: "chainlink",
-    name: "ChainLink",
+    name: "ChainLink ERC20",
     uri: [
       "chainlink",
       "link",
@@ -2587,7 +2587,7 @@ const coins = {
   },
   decentraland: {
     coin: "decentraland",
-    name: "Decentraland",
+    name: "Decentraland ERC20",
     uri: [
       "decentraland",
       "mana",
@@ -2631,7 +2631,7 @@ const coins = {
   },
   loopring: {
     coin: "loopring",
-    name: "Loopring",
+    name: "Loopring ERC20",
     uri: [
       "loopring",
       "lrc",
@@ -2675,7 +2675,7 @@ const coins = {
   },
   qash: {
     coin: "qash",
-    name: "QASH",
+    name: "QASH ERC20",
     uri: [
       "qash",
     ],
@@ -2718,7 +2718,7 @@ const coins = {
   },
   iconomi: {
     coin: "iconomi",
-    name: "Iconomi",
+    name: "Iconomi ERC20",
     uri: [
       "iconomi",
       "icn",
@@ -2762,7 +2762,7 @@ const coins = {
   },
   mco: {
     coin: "mco",
-    name: "MCO",
+    name: "MCO ERC20",
     uri: [
       "monaco",
       "mco",
@@ -2806,7 +2806,7 @@ const coins = {
   },
   poet: {
     coin: "poet",
-    name: "po.et",
+    name: "po.et ERC20",
     uri: [
       "po.et",
       "poet",
@@ -2851,7 +2851,7 @@ const coins = {
   },
   polymath: {
     coin: "polymath",
-    name: "Polymath",
+    name: "Polymath ERC20",
     uri: [
       "polymath",
       "poly",
@@ -2895,7 +2895,7 @@ const coins = {
   },
   powerledger: {
     coin: "powerledger",
-    name: "Power Ledger",
+    name: "Power Ledger ERC20",
     uri: [
       "powerledger",
       "powr",
@@ -2939,7 +2939,7 @@ const coins = {
   },
   ripiocredit: {
     coin: "ripiocredit",
-    name: "Ripio Credit",
+    name: "Ripio Credit ERC20",
     uri: [
       "ripiocreditnetwork",
       "ripiocredit",
@@ -2984,7 +2984,7 @@ const coins = {
   },
   raidentoken: {
     coin: "raidentoken",
-    name: "Raiden Token",
+    name: "Raiden Token ERC20",
     uri: [
       "raidentoken",
       "rdn",
@@ -3028,7 +3028,7 @@ const coins = {
   },
   requestnetwork: {
     coin: "requestnetwork",
-    name: "Request Network",
+    name: "Request Network ERC20",
     uri: [
       "requestnetwork",
       "req",
@@ -3072,7 +3072,7 @@ const coins = {
   },
   status: {
     coin: "status",
-    name: "Status",
+    name: "Status ERC20",
     uri: [
       "status",
       "snt",
@@ -3116,7 +3116,7 @@ const coins = {
   },
   salt: {
     coin: "salt",
-    name: "SALT",
+    name: "SALT ERC20",
     uri: [
       "salt",
     ],
@@ -3159,7 +3159,7 @@ const coins = {
   },
   storm: {
     coin: "storm",
-    name: "STORM",
+    name: "STORM ERC20",
     uri: [
       "storm",
     ],
@@ -3202,7 +3202,7 @@ const coins = {
   },
   eidoo: {
     coin: "eidoo",
-    name: "Eidoo",
+    name: "Eidoo ERC20",
     uri: [
       "eidoo",
       "edo",
@@ -3290,7 +3290,7 @@ const coins = {
   },
   dentacoin: {
     coin: "dentacoin",
-    name: "Dentacoin",
+    name: "Dentacoin ERC20",
     uri: [
       "dentacoin",
       "dcn",
@@ -3334,7 +3334,7 @@ const coins = {
   },
   wax: {
     coin: "wax",
-    name: "WAX",
+    name: "WAX ERC20",
     uri: [
       "wax",
     ],
@@ -3377,7 +3377,7 @@ const coins = {
   },
   wings: {
     coin: "wings",
-    name: "Wings",
+    name: "Wings ERC20",
     uri: [
       "wings",
     ],
@@ -3420,7 +3420,7 @@ const coins = {
   },
   data: {
     coin: "data",
-    name: "Data",
+    name: "Data ERC20",
     uri: [
       "data",
     ],
@@ -3463,7 +3463,7 @@ const coins = {
   },
   funfair: {
     coin: "funfair",
-    name: "FunFair",
+    name: "FunFair ERC20",
     uri: [
       "funfair",
       "fun",
@@ -3507,7 +3507,7 @@ const coins = {
   },
   kin: {
     coin: "kin",
-    name: "KIN",
+    name: "KIN ERC20",
     uri: [
       "kin",
     ],
@@ -3596,7 +3596,7 @@ const coins = {
   },
   sirin: {
     coin: "sirin",
-    name: "Sirin",
+    name: "Sirin ERC20",
     uri: [
       "sirinlabstoken",
       "sirin",
@@ -3641,7 +3641,7 @@ const coins = {
   },
   aurora: {
     coin: "aurora",
-    name: "Aurora",
+    name: "Aurora ERC20",
     uri: [
       "aurora",
       "aoa",
@@ -3685,7 +3685,7 @@ const coins = {
   },
   theta: {
     coin: "theta",
-    name: "Theta",
+    name: "Theta ERC20",
     uri: [
       "theta",
     ],
@@ -3824,7 +3824,7 @@ const coins = {
   },
   usdc: {
     coin: "usdc",
-    name: "USD Coin",
+    name: "USD Coin ERC20",
     uri: [
       "usdcoin",
       "usdc",
@@ -3868,7 +3868,7 @@ const coins = {
   },
   gusd: {
     coin: "gusd",
-    name: "Gemini Dollar",
+    name: "Gemini Dollar ERC20",
     uri: [
       "geminidollar",
       "gusd",
@@ -3912,7 +3912,7 @@ const coins = {
   },
   pax: {
     coin: "pax",
-    name: "Paxos Standard",
+    name: "Paxos Standard ERC20",
     uri: [
       "paxosstandard",
       "pax",
@@ -3994,7 +3994,7 @@ const coins = {
   },
   coni: {
     coin: "coni",
-    name: "Coni",
+    name: "Coni ERC20",
     uri: [
       "coni",
     ],
@@ -4037,7 +4037,7 @@ const coins = {
   },
   tok: {
     coin: "tok",
-    name: "Tokok",
+    name: "Tokok ERC20",
     uri: [
       "tokok",
       "tok",
@@ -4133,7 +4133,7 @@ const coins = {
   },
   por: {
     coin: "por",
-    name: "Proof Of Review",
+    name: "Proof Of Review ERC20",
     uri: [
       "proofofreview",
       "por",
@@ -4279,7 +4279,7 @@ const coins = {
   },
   adt: {
     coin: "adt",
-    name: "AdToken",
+    name: "AdToken ERC20",
     uri: [
       "adtoken",
       "adt",
@@ -4323,7 +4323,7 @@ const coins = {
   },
   mft: {
     coin: "mft",
-    name: "Mainframe Token",
+    name: "Mainframe Token ERC20",
     uri: [
       "mainframe",
       "mainframetoken",
@@ -4368,7 +4368,7 @@ const coins = {
   },
   atl: {
     coin: "atl",
-    name: "ATLANT",
+    name: "ATLANT ERC20",
     uri: [
       "atlant",
       "atl",
@@ -4412,7 +4412,7 @@ const coins = {
   },
   ant: {
     coin: "ant",
-    name: "Aragon",
+    name: "Aragon ERC20",
     uri: [
       "aragon",
       "ant",
@@ -4456,7 +4456,7 @@ const coins = {
   },
   arn: {
     coin: "arn",
-    name: "Aeron",
+    name: "Aeron ERC20",
     uri: [
       "aeron",
       "arn",
@@ -4500,7 +4500,7 @@ const coins = {
   },
   brd: {
     coin: "brd",
-    name: "Bread",
+    name: "Bread ERC20",
     uri: [
       "bread",
       "breadtoken",
@@ -4545,7 +4545,7 @@ const coins = {
   },
   rep: {
     coin: "rep",
-    name: "Augur",
+    name: "Augur ERC20",
     uri: [
       "augur",
       "rep",
@@ -4589,7 +4589,7 @@ const coins = {
   },
   qkc: {
     coin: "qkc",
-    name: "QuarkChain Token",
+    name: "QuarkChain Token ERC20",
     uri: [
       "quarkchain",
       "quarkchaintoken",
@@ -4635,7 +4635,7 @@ const coins = {
   },
   loom: {
     coin: "loom",
-    name: "LOOM",
+    name: "LOOM ERC20",
     uri: [
       "loomnetwork",
       "loom",
@@ -4679,7 +4679,7 @@ const coins = {
   },
   eurs: {
     coin: "eurs",
-    name: "STASIS EURS",
+    name: "STASIS EURS ERC20",
     uri: [
       "stasiseurs",
       "eurs",
@@ -4844,7 +4844,7 @@ const coins = {
   },
   gunthy: {
     coin: "gunthy",
-    name: "GUNTHY",
+    name: "GUNTHY ERC20",
     uri: [
       "gunthy",
     ],
@@ -4887,7 +4887,7 @@ const coins = {
   },
   metal: {
     coin: "metal",
-    name: "Metal",
+    name: "Metal ERC20",
     uri: [
       "metal",
       "mtl",
@@ -4931,7 +4931,7 @@ const coins = {
   },
   ethos: {
     coin: "ethos",
-    name: "EthOS",
+    name: "EthOS ERC20",
     uri: [
       "ethos",
     ],
@@ -4974,7 +4974,7 @@ const coins = {
   },
   singularitynet: {
     coin: "singularitynet",
-    name: "SingularityNET",
+    name: "SingularityNET ERC20",
     uri: [
       "singularitynet",
       "agi",
@@ -5018,7 +5018,7 @@ const coins = {
   },
   ambrosus: {
     coin: "ambrosus",
-    name: "Ambrosus",
+    name: "Ambrosus ERC20",
     uri: [
       "ambrosus",
       "amb",
@@ -5062,7 +5062,7 @@ const coins = {
   },
   blockmasoncreditprotocol: {
     coin: "blockmasoncreditprotocol",
-    name: "BlockMason Credit Protocol",
+    name: "BlockMason Credit Protocol ERC20",
     uri: [
       "blockmasoncreditprotocol",
       "bcpt",
@@ -5106,7 +5106,7 @@ const coins = {
   },
   blox: {
     coin: "blox",
-    name: "Blox",
+    name: "Blox ERC20",
     uri: [
       "blox",
       "cdt",
@@ -5150,7 +5150,7 @@ const coins = {
   },
   celertoken: {
     coin: "celertoken",
-    name: "CelerToken",
+    name: "CelerToken ERC20",
     uri: [
       "celertoken",
       "celer",
@@ -5195,7 +5195,7 @@ const coins = {
   },
   cindicator: {
     coin: "cindicator",
-    name: "Cindicator",
+    name: "Cindicator ERC20",
     uri: [
       "cindicator",
       "cnd",
@@ -5239,7 +5239,7 @@ const coins = {
   },
   streamrdatacoin: {
     coin: "streamrdatacoin",
-    name: "Streamr DATAcoin",
+    name: "Streamr DATAcoin ERC20",
     uri: [
       "streamrdatacoin",
       "streamr",
@@ -5284,7 +5284,7 @@ const coins = {
   },
   agrello: {
     coin: "agrello",
-    name: "Agrello",
+    name: "Agrello ERC20",
     uri: [
       "agrello",
       "dlt",
@@ -5328,7 +5328,7 @@ const coins = {
   },
   dock: {
     coin: "dock",
-    name: "Dock",
+    name: "Dock ERC20",
     uri: [
       "dock",
     ],
@@ -5371,7 +5371,7 @@ const coins = {
   },
   everex: {
     coin: "everex",
-    name: "Everex",
+    name: "Everex ERC20",
     uri: [
       "everex",
       "evx",
@@ -5415,7 +5415,7 @@ const coins = {
   },
   gifto: {
     coin: "gifto",
-    name: "Gifto",
+    name: "Gifto ERC20",
     uri: [
       "gifto",
       "gto",
@@ -5459,7 +5459,7 @@ const coins = {
   },
   genesisvision: {
     coin: "genesisvision",
-    name: "Genesis Vision",
+    name: "Genesis Vision ERC20",
     uri: [
       "genesisvision",
       "gvt",
@@ -5503,7 +5503,7 @@ const coins = {
   },
   holotoken: {
     coin: "holotoken",
-    name: "HoloToken",
+    name: "HoloToken ERC20",
     uri: [
       "holo",
       "holotoken",
@@ -5548,7 +5548,7 @@ const coins = {
   },
   insolar: {
     coin: "insolar",
-    name: "Insolar",
+    name: "Insolar ERC20",
     uri: [
       "insolar",
       "ins",
@@ -5592,7 +5592,7 @@ const coins = {
   },
   iotex: {
     coin: "iotex",
-    name: "IoTeX",
+    name: "IoTeX ERC20",
     uri: [
       "iotex",
       "iotx",
@@ -5636,7 +5636,7 @@ const coins = {
   },
   selfkey: {
     coin: "selfkey",
-    name: "SelfKey",
+    name: "SelfKey ERC20",
     uri: [
       "selfkey",
       "key",
@@ -5680,7 +5680,7 @@ const coins = {
   },
   lunyr: {
     coin: "lunyr",
-    name: "Lunyr",
+    name: "Lunyr ERC20",
     uri: [
       "lunyr",
       "lun",
@@ -5724,7 +5724,7 @@ const coins = {
   },
   monetha: {
     coin: "monetha",
-    name: "Monetha",
+    name: "Monetha ERC20",
     uri: [
       "monetha",
       "mth",
@@ -5768,7 +5768,7 @@ const coins = {
   },
   oax: {
     coin: "oax",
-    name: "oax",
+    name: "oax ERC20",
     uri: [
       "oax",
     ],
@@ -5811,7 +5811,7 @@ const coins = {
   },
   ost: {
     coin: "ost",
-    name: "OST",
+    name: "OST ERC20",
     uri: [
       "ost",
     ],
@@ -5854,7 +5854,7 @@ const coins = {
   },
   populous: {
     coin: "populous",
-    name: "Populous",
+    name: "Populous ERC20",
     uri: [
       "populous",
       "ppt",
@@ -5898,7 +5898,7 @@ const coins = {
   },
   quantstamp: {
     coin: "quantstamp",
-    name: "Quantstamp",
+    name: "Quantstamp ERC20",
     uri: [
       "quantstamp",
       "qsp",
@@ -5942,7 +5942,7 @@ const coins = {
   },
   ren: {
     coin: "ren",
-    name: "Ren",
+    name: "Ren ERC20",
     uri: [
       "ren",
     ],
@@ -5985,7 +5985,7 @@ const coins = {
   },
   iexecrlc: {
     coin: "iexecrlc",
-    name: "iExec RLC",
+    name: "iExec RLC ERC20",
     uri: [
       "iexecrlc",
       "rlc",
@@ -6029,7 +6029,7 @@ const coins = {
   },
   singulardtv: {
     coin: "singulardtv",
-    name: "SingularDTV",
+    name: "SingularDTV ERC20",
     uri: [
       "singulardtv",
       "sngls",
@@ -6073,7 +6073,7 @@ const coins = {
   },
   tierion: {
     coin: "tierion",
-    name: "Tierion",
+    name: "Tierion ERC20",
     uri: [
       "tierion",
       "tnt",
@@ -6117,7 +6117,7 @@ const coins = {
   },
   viberate: {
     coin: "viberate",
-    name: "Viberate",
+    name: "Viberate ERC20",
     uri: [
       "viberate",
       "vib",
@@ -6161,7 +6161,7 @@ const coins = {
   },
   vibe: {
     coin: "vibe",
-    name: "VIBE",
+    name: "VIBE ERC20",
     uri: [
       "vibe",
     ],
@@ -6204,7 +6204,7 @@ const coins = {
   },
   tael: {
     coin: "tael",
-    name: "Tael",
+    name: "Tael ERC20",
     uri: [
       "tael",
       "wabi",
@@ -6248,7 +6248,7 @@ const coins = {
   },
   wepower: {
     coin: "wepower",
-    name: "WePower",
+    name: "WePower ERC20",
     uri: [
       "wepower",
       "wpr",
@@ -6292,7 +6292,7 @@ const coins = {
   },
   dibicoin: {
     coin: "dibicoin",
-    name: "Dibicoin",
+    name: "Dibicoin ERC20",
     uri: [
       "dibicoin",
       "dibi",
@@ -6389,7 +6389,7 @@ const coins = {
   },
   etherparty: {
     coin: "etherparty",
-    name: "Etherparty",
+    name: "Etherparty ERC20",
     uri: [
       "etherparty",
       "fueltoken",
@@ -6559,7 +6559,7 @@ const coins = {
   },
   unussedleo: {
     coin: "unussedleo",
-    name: "Unus Sed Leo",
+    name: "Unus Sed Leo ERC20",
     uri: [
       "unussedleo",
       "leo",
@@ -6603,7 +6603,7 @@ const coins = {
   },
   beaxy: {
     coin: "beaxy",
-    name: "Beaxy",
+    name: "Beaxy ERC20",
     uri: [
       "beaxy",
       "beaxyexchangetoken",
@@ -6650,7 +6650,7 @@ const coins = {
   },
   stableusd: {
     coin: "stableusd",
-    name: "StableUSD",
+    name: "StableUSD ERC20",
     uri: [
       "stableusd",
       "stably",
@@ -6695,7 +6695,7 @@ const coins = {
   },
   nuke: {
     coin: "nuke",
-    name: "Half Life",
+    name: "Half Life ERC20",
     uri: [
       "halflife",
       "nuke",
@@ -7194,7 +7194,7 @@ const coins = {
   },
   gcstar: {
     coin: "gcstar",
-    name: "GCSTAR",
+    name: "GCSTAR ERC20",
     uri: [
       "starbucks",
       "GCSTAR",
@@ -7238,7 +7238,7 @@ const coins = {
   },
   gctgt: {
     coin: "gctgt",
-    name: "GCTGT",
+    name: "GCTGT ERC20",
     uri: [
       "target",
       "GCTGT",
@@ -7282,7 +7282,7 @@ const coins = {
   },
   gcwal: {
     coin: "gcwal",
-    name: "GCWAL",
+    name: "GCWAL ERC20",
     uri: [
       "walmart",
       "GCWAL",
@@ -7326,7 +7326,7 @@ const coins = {
   },
   gcbest: {
     coin: "gcbest",
-    name: "GCBEST",
+    name: "GCBEST ERC20",
     uri: [
       "bestbuy",
       "GCBEST",
@@ -7370,7 +7370,7 @@ const coins = {
   },
   gchd: {
     coin: "gchd",
-    name: "GCHD",
+    name: "GCHD ERC20",
     uri: [
       "homedepot",
       "GCHD",
@@ -7414,7 +7414,7 @@ const coins = {
   },
   gclowe: {
     coin: "gclowe",
-    name: "GCLOWE",
+    name: "GCLOWE ERC20",
     uri: [
       "lowes",
       "GCLOWE",
@@ -7526,7 +7526,7 @@ const coins = {
   },
   dmme: {
     coin: "dmme",
-    name: "DMme",
+    name: "DMme ERC20",
     uri: [
       "dmme",
     ],
@@ -7601,7 +7601,7 @@ const coins = {
   },
   huobitoken: {
     coin: "huobitoken",
-    name: "Huobi Token",
+    name: "Huobi Token ERC20",
     uri: [
       "huobitoken",
       "ht",
@@ -7689,7 +7689,7 @@ const coins = {
   },
   okb: {
     coin: "okb",
-    name: "OKB",
+    name: "OKB ERC20",
     uri: [
       "okb",
     ],
@@ -7732,7 +7732,7 @@ const coins = {
   },
   bitforextoken: {
     coin: "bitforextoken",
-    name: "BitForex Token",
+    name: "BitForex Token ERC20",
     uri: [
       "bitforextoken",
       "bf",
@@ -7776,7 +7776,7 @@ const coins = {
   },
   mxtoken: {
     coin: "mxtoken",
-    name: "MX Token",
+    name: "MX Token ERC20",
     uri: [
       "mxtoken",
       "mx",
@@ -7820,7 +7820,7 @@ const coins = {
   },
   zbtoken: {
     coin: "zbtoken",
-    name: "ZB Token",
+    name: "ZB Token ERC20",
     uri: [
       "zbtoken",
       "zb",
@@ -7864,7 +7864,7 @@ const coins = {
   },
   hotbittoken: {
     coin: "hotbittoken",
-    name: "Hotbit Token",
+    name: "Hotbit Token ERC20",
     uri: [
       "hotbittoken",
       "hotbit",
@@ -7909,7 +7909,7 @@ const coins = {
   },
   huobipooltoken: {
     coin: "huobipooltoken",
-    name: "Huobi Pool Token",
+    name: "Huobi Pool Token ERC20",
     uri: [
       "huobipooltoken",
       "hpt",
@@ -7953,7 +7953,7 @@ const coins = {
   },
   golfcoin: {
     coin: "golfcoin",
-    name: "Golfcoin",
+    name: "Golfcoin ERC20",
     uri: [
       "golfcoin",
       "golf",
@@ -7997,7 +7997,7 @@ const coins = {
   },
   enecuum: {
     coin: "enecuum",
-    name: "Enecuum",
+    name: "Enecuum ERC20",
     uri: [
       "enecuum",
       "ENQ",
@@ -8041,7 +8041,7 @@ const coins = {
   },
   fantom: {
     coin: "fantom",
-    name: "fantom",
+    name: "fantom ERC20",
     uri: [
       "fantom",
       "FTM",
@@ -8085,7 +8085,7 @@ const coins = {
   },
   zeroxbitcoin: {
     coin: "zeroxbitcoin",
-    name: "0xBitcoin",
+    name: "0xBitcoin ERC20",
     uri: [
       "0xbitcoin",
       "0xBTC",
@@ -8129,7 +8129,7 @@ const coins = {
   },
   vayla: {
     coin: "vayla",
-    name: "VAYLA",
+    name: "VAYLA ERC20",
     uri: [
       "vayla",
       "VYA",
@@ -8173,7 +8173,7 @@ const coins = {
   },
   aergo: {
     coin: "aergo",
-    name: "AERGO",
+    name: "AERGO ERC20",
     uri: [
       "aergo",
     ],
@@ -8216,7 +8216,7 @@ const coins = {
   },
   lunchmoney: {
     coin: "lunchmoney",
-    name: "Lunch Money Token",
+    name: "Lunch Money Token ERC20",
     uri: [
       "lunchmoney",
     ],
@@ -8319,7 +8319,7 @@ const coins = {
   },
   netkoin: {
     coin: "netkoin",
-    name: "netkoin",
+    name: "netkoin ERC20",
     uri: [
       "netkoin",
     ],
@@ -8362,7 +8362,7 @@ const coins = {
   },
   gammacoin: {
     coin: "gammacoin",
-    name: "Gamma Coin",
+    name: "Gamma Coin ERC20",
     uri: [
       "lunchmoney",
     ],
@@ -8405,7 +8405,7 @@ const coins = {
   },
   bazookatoken: {
     coin: "bazookatoken",
-    name: "BazToken",
+    name: "BazToken ERC20",
     uri: [
       "bazookatoken",
     ],
@@ -8448,7 +8448,7 @@ const coins = {
   },
   coinsto: {
     coin: "coinsto",
-    name: "COINSTO",
+    name: "COINSTO ERC20",
     uri: [
       "coinsto",
     ],
@@ -8491,7 +8491,7 @@ const coins = {
   },
   unibright: {
     coin: "unibright",
-    name: "UniBright",
+    name: "UniBright ERC20",
     uri: [
       "unibright",
     ],
@@ -8535,7 +8535,10 @@ const coins = {
   usdterc: {
     coin: "usdterc",
     name: "Tether ERC20",
-    uri: ["tether", "usdt"],
+    uri: [
+      "tether",
+      "usdt",
+    ],
     addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xdac17f958d2ee523a2206206994597c13d831ec7&address=",
@@ -8621,7 +8624,7 @@ const coins = {
   },
   hex: {
     coin: "hex",
-    name: "HEX",
+    name: "HEX ERC20",
     uri: [
       "hex",
     ],
@@ -8664,7 +8667,7 @@ const coins = {
   },
   comp: {
     coin: "comp",
-    name: "Compound",
+    name: "Compound ERC20",
     uri: [
       "compound",
       "comp",
@@ -8708,14 +8711,13 @@ const coins = {
   },
   vidt: {
     coin: "vidt",
-    name: "V-ID",
+    name: "V-ID ERC20",
     uri: [
       "vidt",
       "vid",
       "vidtoken",
     ],
-    addresses: [
-    ],
+    addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xfeF4185594457050cC9c23980d301908FE057Bb1&address=",
     ],
@@ -8754,13 +8756,12 @@ const coins = {
   },
   drgn: {
     coin: "drgn",
-    name: "Dragon",
+    name: "Dragon ERC20",
     uri: [
       "dragon",
       "drgn",
     ],
-    addresses: [
-    ],
+    addresses: [],
     api: [
       "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e&address=",
     ],
@@ -8799,7 +8800,7 @@ const coins = {
   },
   whale: {
     coin: "whale",
-    name: "Whale",
+    name: "Whale ERC20",
     uri: [
       "whale",
     ],
@@ -8842,7 +8843,7 @@ const coins = {
   },
   wbtc: {
     coin: "wbtc",
-    name: "Wrapped Bitcoin",
+    name: "Wrapped Bitcoin ERC20",
     uri: [
       "wrappedbitcoint",
       "wbtc",
@@ -8926,7 +8927,7 @@ const coins = {
   },
   om: {
     coin: "om",
-    name: "MANTRA DAO",
+    name: "MANTRA DAO ERC20",
     uri: [
       "mantradao",
       "om",
@@ -9030,7 +9031,7 @@ const coins = {
   },
   coinartisttoken: {
     coin: "coinartisttoken",
-    name: "Coin Artist Token",
+    name: "Coin Artist Token ERC20",
     uri: [
       "coinartisttoken",
       "coin",
@@ -9074,7 +9075,7 @@ const coins = {
   },
   uni: {
     coin: "uni",
-    name: "Uniswap",
+    name: "Uniswap ERC20",
     uri: [
       "uniswap",
       "uni",
@@ -9165,7 +9166,7 @@ const coins = {
   },
   jst: {
     coin: "jst",
-    name: "JUST",
+    name: "JUST TRC20",
     uri: [
       "jst",
       "just",
@@ -9259,7 +9260,7 @@ const coins = {
   },
   toshi: {
     coin: "toshi",
-    name: "Toshi",
+    name: "Toshi ERC20",
     uri: [
       "toshi",
     ],
@@ -9302,7 +9303,7 @@ const coins = {
   },
   maid: {
     coin: "maid",
-    name: "MaidSafeCoin",
+    name: "MaidSafeCoin Omni",
     uri: [
       "maidsafecoin",
       "maid",
@@ -9389,7 +9390,7 @@ const coins = {
   },
   rune: {
     coin: "rune",
-    name: "THORChain",
+    name: "THORChain BEP2",
     uri: [
       "thorchain",
       "rune",
@@ -9620,7 +9621,7 @@ const coins = {
   },
   mcdai: {
     coin: "mcdai",
-    name: "Dai",
+    name: "Dai ERC20",
     uri: [
       "dai",
     ],
@@ -9663,7 +9664,7 @@ const coins = {
   },
   xdai: {
     coin: "xdai",
-    name: "xDai",
+    name: "xDai ERC20",
     uri: [
       "xdai",
     ],
@@ -9789,7 +9790,7 @@ const coins = {
   },
   aave: {
     coin: "aave",
-    name: "Aave",
+    name: "Aave ERC20",
     uri: [
       "aave",
     ],
@@ -9832,7 +9833,7 @@ const coins = {
   },
   snx: {
     coin: "snx",
-    name: "Synthetix",
+    name: "Synthetix ERC20",
     uri: [
       "snx",
       "synthetic",
@@ -9876,7 +9877,7 @@ const coins = {
   },
   yfi: {
     coin: "yfi",
-    name: "yearn.finance",
+    name: "yearn.finance ERC20",
     uri: [
       "yearn",
       "yearn.finance",
@@ -9921,7 +9922,7 @@ const coins = {
   },
   ftt: {
     coin: "ftt",
-    name: "FTX Token",
+    name: "FTX Token ERC20",
     uri: [
       "ftx",
       "ftxtoken",
@@ -9966,7 +9967,7 @@ const coins = {
   },
   grt: {
     coin: "grt",
-    name: "The Graph",
+    name: "The Graph ERC20",
     uri: [
       "grt",
       "graph",
@@ -10011,7 +10012,7 @@ const coins = {
   },
   sushi: {
     coin: "sushi",
-    name: "SushiSwap",
+    name: "SushiSwap ERC20",
     uri: [
       "sushi",
       "sushiswap",
@@ -10055,7 +10056,7 @@ const coins = {
   },
   cel: {
     coin: "cel",
-    name: "Celsius",
+    name: "Celsius ERC20",
     uri: [
       "cel",
       "celsius",
@@ -10099,7 +10100,7 @@ const coins = {
   },
   cro: {
     coin: "cro",
-    name: "Crypto.com Coin",
+    name: "Crypto.com Coin ERC20",
     uri: [
       "cro",
       "crypto.comcoin",
@@ -10143,7 +10144,7 @@ const coins = {
   },
   uma: {
     coin: "uma",
-    name: "UMA",
+    name: "UMA ERC20",
     uri: [
       "uma",
     ],
@@ -10186,7 +10187,7 @@ const coins = {
   },
   renbtc: {
     coin: "renbtc",
-    name: "renBTC",
+    name: "renBTC ERC20",
     uri: [
       "renbtc",
     ],
@@ -10229,7 +10230,7 @@ const coins = {
   },
   chsb: {
     coin: "chsb",
-    name: "SwissBorg",
+    name: "SwissBorg ERC20",
     uri: [
       "chsb",
       "swissborg",
@@ -10273,7 +10274,7 @@ const coins = {
   },
   ampl: {
     coin: "ampl",
-    name: "Ampleforth",
+    name: "Ampleforth ERC20",
     uri: [
       "ampl",
       "ampleforth",
@@ -10317,7 +10318,7 @@ const coins = {
   },
   rsr: {
     coin: "rsr",
-    name: "Reserve Rights",
+    name: "Reserve Rights ERC20",
     uri: [
       "rsr",
       "reserverights",
@@ -10361,7 +10362,7 @@ const coins = {
   },
   ust: {
     coin: "ust",
-    name: "TerraUSD",
+    name: "TerraUSD ERC20",
     uri: [
       "ust",
       "terrausd",
@@ -10405,7 +10406,7 @@ const coins = {
   },
   hedg: {
     coin: "hedg",
-    name: "HedgeTrade",
+    name: "HedgeTrade ERC20",
     uri: [
       "hedg",
       "hedgetrade",
@@ -10449,7 +10450,7 @@ const coins = {
   },
   qnt: {
     coin: "qnt",
-    name: "Quant",
+    name: "Quant ERC20",
     uri: [
       "qnt",
       "quant",
@@ -10493,7 +10494,7 @@ const coins = {
   },
   ocean: {
     coin: "ocean",
-    name: "Ocean Protocol",
+    name: "Ocean Protocol ERC20",
     uri: [
       "ocean",
       "oceanprotocol",
@@ -10537,7 +10538,7 @@ const coins = {
   },
   husd: {
     coin: "husd",
-    name: "HUSD",
+    name: "HUSD ERC20",
     uri: [
       "husd",
     ],
@@ -10580,7 +10581,7 @@ const coins = {
   },
   cvt: {
     coin: "cvt",
-    name: "CyberVein",
+    name: "CyberVein ERC20",
     uri: [
       "cvt",
     ],
@@ -10623,7 +10624,7 @@ const coins = {
   },
   gno: {
     coin: "gno",
-    name: "Gnosis",
+    name: "Gnosis ERC20",
     uri: [
       "gnosis",
       "gno",
@@ -10748,7 +10749,7 @@ const coins = {
   },
   suntrc: {
     coin: "suntrc",
-    name: "SUNOLD",
+    name: "SUNOLD TRC20",
     uri: [
       "sunold",
     ],
@@ -10786,7 +10787,7 @@ const coins = {
   },
   usdjtrc: {
     coin: "usdjtrc",
-    name: "JUST Stablecoin",
+    name: "JUST Stablecoin TRC20",
     uri: [
       "usdj",
     ],
@@ -10824,7 +10825,7 @@ const coins = {
   },
   nxm: {
     coin: "nxm",
-    name: "Nexus Mutual",
+    name: "Nexus Mutual ERC20",
     uri: [
       "nxm",
       "nexusmutual",
@@ -11039,7 +11040,7 @@ const coins = {
   },
   inch: {
     coin: "inch",
-    name: "1inch",
+    name: "1inch ERC20",
     uri: [
       "inch",
       "1inch",
@@ -11127,7 +11128,7 @@ const coins = {
   },
   matic: {
     coin: "matic",
-    name: "Polygon",
+    name: "Polygon ERC20",
     uri: [
       "matic",
       "polygon",
@@ -11248,7 +11249,7 @@ const coins = {
   },
   arnx: {
     coin: "arnx",
-    name: "Aeron",
+    name: "Aeron ERC20",
     uri: [
       "aeron",
       "arnx",
@@ -11405,7 +11406,7 @@ const coins = {
   },
   xcm: {
     coin: "xcm",
-    name: "CoinMetro",
+    name: "CoinMetro ERC20",
     uri: [
       "xcm",
       "coinmetro",
@@ -11508,7 +11509,7 @@ const coins = {
   },
   gatetoken: {
     coin: "gatetoken",
-    name: "GateToken",
+    name: "GateToken ERC20",
     uri: [
       "gatetoken",
       "gt",
@@ -11552,7 +11553,7 @@ const coins = {
   },
   knc: {
     coin: "knc",
-    name: "Kyber Network Crystal",
+    name: "Kyber Network Crystal ERC20",
     uri: [
       "knc",
       "kyber",
@@ -11596,7 +11597,7 @@ const coins = {
   },
   pre: {
     coin: "pre",
-    name: "Presearch",
+    name: "Presearch ERC20",
     uri: [
       "presearch",
       "pre",
@@ -12444,7 +12445,7 @@ const coins = {
   },
   suntrcb: {
     coin: "suntrcb",
-    name: "SUN",
+    name: "SUN TRC20",
     uri: [
       "sun",
     ],
