@@ -5,17 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="256"
-   width="256"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="245"
+   width="245"
    xml:space="preserve"
-   viewBox="0 0 256 256"
+   viewBox="0 0 245 245"
    y="0px"
    x="0px"
    id="BUSD"
-   version="1.1"><metadata
+   version="1.1"
+   sodipodi:docname="BUSD_BEP2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="3.3203125"
+   inkscape:cx="122.5"
+   inkscape:cy="122.5"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="BUSD" /><metadata
    id="metadata881"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs879" />
 <style
    id="style872"
@@ -25,7 +48,7 @@
 </style>
 
 <g
-   transform="matrix(0.5,0,0,0.5,5.5,5.5)"
+   transform="scale(0.5)"
    id="g904"><path
      style="fill:#f0b90b"
      id="Full"
@@ -35,9 +58,4 @@
      id="BUSD-2"
      class="st1"
      d="m 102,244.5 36.1,-36.1 36.1,36.1 -36.2,36.1 z m 53.7,-53.7 89.8,-89.8 36.1,36.1 -89.8,89.8 z m 0,107.4 143.5,-143.5 36.1,36.1 -143.5,143.5 z M 209.4,352 353,208.4 389.1,244.5 245.5,388 Z" /></g>
-<circle
-   r="116.53765"
-   cy="128"
-   cx="128"
-   id="path2008"
-   style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e8a607;stroke-width:12.92468739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" /></svg>
+</svg>

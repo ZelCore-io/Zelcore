@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2807"
+   version="1.1"
+   viewBox="0 0 67.733332 67.733335"
+   height="256"
+   width="256">
+  <title
+     id="title3425">WBTC</title>
+  <defs
+     id="defs2801" />
+  <metadata
+     id="metadata2804">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>WBTC</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26665)"
+     id="layer1">
+    <g
+       id="g3460">
+      <circle
+         style="opacity:1;fill:#342946;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:65.67904663;stroke-opacity:1;paint-order:normal"
+         id="path1588"
+         cx="33.870621"
+         cy="263.13272"
+         r="33.866665" />
+      <path
+         d="m 51.48124,246.74092 -1.553734,1.55732 c 7.684249,8.42303 7.684249,21.33219 0,29.75522 l 1.553734,1.55732 c 8.552267,-9.29358 8.552267,-23.61211 0,-32.9062 z"
+         id="Fill-6"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.96034813;fill-opacity:1" />
+      <path
+         d="m 18.800983,246.87604 c 8.40363,-7.70251 21.283047,-7.70251 29.686676,0 l 1.553734,-1.55732 c -9.272683,-8.57201 -23.557714,-8.57201 -32.830398,0 z"
+         id="Fill-8"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.96034813;fill-opacity:1" />
+      <path
+         d="m 17.350935,278.06909 c -7.6749275,-8.42096 -7.6749275,-21.3187 0,-29.73965 l -1.553733,-1.55732 c -8.5522702,9.29409 -8.5522702,23.6121 0,32.90619 z"
+         id="Fill-10"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.96034813;fill-opacity:1" />
+      <path
+         d="m 48.472123,279.5068 c -8.40363,7.70251 -21.283049,7.70251 -29.686677,0 l -1.553734,1.55732 c 9.272684,8.57202 23.557715,8.57202 32.830398,0 z"
+         id="Fill-12"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.96034813;fill-opacity:1" />
+      <path
+         d="m 38.341778,259.23069 c 0,3.11463 -4.85801,2.73569 -6.401385,2.73569 v -5.48696 c 1.543375,0 6.401385,-0.48796 6.401385,2.75127 m 1.268883,8.51854 c 0,3.40535 -5.821325,3.01601 -7.675446,3.01601 v -6.0424 c 1.854121,0.005 7.675446,-0.52949 7.675446,3.02639 m 3.832542,-9.74883 c -0.310745,-3.2496 -3.107467,-4.33973 -6.644801,-4.67197 v -4.47989 H 34.06383 v 4.39165 c -0.719897,0 -1.455332,0 -2.185585,0.0259 v -4.4176 h -2.719036 v 4.50584 h -1.74018 -3.801471 v 2.93296 c 0,0 2.019854,-0.0363 1.98878,0 0.757187,-0.0836 1.443936,0.44903 1.553735,1.20433 v 12.33918 c -0.03314,0.5352 -0.492535,0.94166 -1.026502,0.90896 -0.0031,0 -0.0062,0 -0.0093,-5.3e-4 0.03625,0.0311 -1.988779,0 -1.988779,0 l -0.543806,3.27556 h 3.563231 1.957702 v 4.57853 h 2.734572 v -4.51105 h 2.185588 v 4.49028 h 2.73975 v -4.52661 c 4.619762,-0.28032 7.84117,-1.42236 8.245141,-5.75691 0.326284,-3.48839 -1.310314,-5.04571 -3.925768,-5.67384 1.589987,-0.8098 2.589556,-2.23734 2.351317,-4.61486"
+         id="Fill-14"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.96034813" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.22399998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:65.67904663;stroke-opacity:1;paint-order:normal"
+         id="path2711"
+         cx="33.654789"
+         cy="263.18307"
+         r="27.276243" />
+    </g>
+  </g>
+</svg>

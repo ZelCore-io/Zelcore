@@ -1200,7 +1200,7 @@ export default {
     cannot_decode_contact_zel: "Ei voida purkaa vastaanotettua viestiä. Ole hyvä ja ota yhteyttä Zelcore tiimiin.",
     your_sub_activated: "Tilauksesi aktivoitiin",
     friends_sub_activated: "Tilaus ystävällesi aktivoitiin",
-    five_off: "Hieno valinta maksutavaksi! Saat 5% alennuksen!",
+    five_off: "Hieno valinta maksutavaksi! Saat 10% alennuksen!",
     delete_wallet: "Poista Lompakko",
     delete_wallet_confirm: "Oletko varma, että haluat poistaa {walletLabel}?",
     action_undone: "Tätä toimintoa ei voi peruuttaa. Varmista, että olet varmuuskopioinut vastaavan yksityisen avaimen.",

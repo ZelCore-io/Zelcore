@@ -1273,7 +1273,7 @@ const coins = {
     slip: 19171,
     addresses: [],
     api: [
-      "https://explorer.xsg.zelcore.io/api/",
+      "https://explorer.tent.zelcore.io/api/",
       "https://explorer.snowgem.org/api/",
     ],
     pathlinux: "snowgem",
@@ -1285,12 +1285,12 @@ const coins = {
     testnetrpcport: 26112,
     type: "zcash",
     explorer: [
-      "https://explorer.xsg.zelcore.io/tx/",
+      "https://explorer.tent.zelcore.io/tx/",
       "https://explorer.snowgem.org/tx/",
     ],
     logolink: "static/logos/TENT.svg",
     node: [
-      "explorer.xsg.zelcore.io",
+      "explorer.tent.zelcore.io",
       "explorer.snowgem.org",
     ],
     fee: 0.00001,
@@ -1564,7 +1564,7 @@ const coins = {
     slip: 136,
     addresses: [],
     api: [
-      "https://explorer.zcoin.zelcore.io/api/",
+      "https://explorer.firo.zelcore.io/api/",
       "https://insight.zcoin.io/api/",
       "https://explorer.zcoin.io/api/",
     ],
@@ -1577,13 +1577,13 @@ const coins = {
     testnetrpcport: 18888,
     type: "btc",
     explorer: [
-      "https://explorer.zcoin.zelcore.io/tx/",
+      "https://explorer.firo.zelcore.io/tx/",
       "https://insight.zcoin.io/tx/",
       "https://explorer.zcoin.io/tx/",
     ],
     logolink: "static/logos/FIRO.svg",
     node: [
-      "explorer.zcoin.zelcore.io",
+      "explorer.firo.zelcore.io",
       "insight.zcoin.io",
       "explorer.zcoin.io",
     ],
@@ -1718,12 +1718,12 @@ const coins = {
       "bch0.kister.net",
     ],
     proxy: [
-      "https://proxy.genx.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
-      "https://proxy.grs.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
-      "https://proxy.sin.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.genx.zelcore.io/?server=bch.crypto.mldlabs.com&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.grs.zelcore.io/?server=bch.crypto.mldlabs.com&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.sin.zelcore.io/?server=bch.crypto.mldlabs.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.genx.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.grs.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
+      "https://proxy.sin.zelcore.io/?server=blackie.c3-soft.com&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.genx.zelcore.io/?server=bch0.kister.net&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.grs.zelcore.io/?server=bch0.kister.net&port=50002&contype=tls&coin=bitcoincash&call=",
       "https://proxy.sin.zelcore.io/?server=bch0.kister.net&port=50002&contype=tls&coin=bitcoincash&call=",
@@ -12330,7 +12330,7 @@ const coins = {
       normal: 1,
       fast: 1,
     },
-    color: "#22c778",
+    color: "#29bae2",
     backend: [
       "solana",
     ],
@@ -12592,7 +12592,7 @@ const coins = {
       normal: 25,
       fast: 40,
     },
-    color: "#35bb0c",
+    color: "#732483",
     contractAddress: "0x375a7b6a6f74a5acb86c420c53c4ce8cf1d51b4d",
     decimals: 9,
     backend: [
@@ -12944,7 +12944,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-    color: "#000000",
+    color: "#14c8ff",
     decimals: 2,
     backend: [
       "infura",
@@ -12988,7 +12988,7 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0x799a4202c12ca952cb311598a024c80ed371a41e",
-    color: "#000000",
+    color: "#00aee9",
     decimals: 18,
     backend: [
       "infura",
@@ -15754,12 +15754,13 @@ const coins = {
     logolink: "static/logos/MATIC.svg",
     node: [
       "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
     ],
     fee: 21000,
     feepolicy: {
-      economy: 2,
-      normal: 3,
-      fast: 5,
+      economy: 22,
+      normal: 30,
+      fast: 45,
     },
     color: "#8247e5",
     contractAddress: "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -15770,40 +15771,738 @@ const coins = {
     chainID: 137, // 137 - mainnet, 80001 - testnet
     networkName: "Polygon Chain",
   },
-  // polygontoken: {
-  //   coin: "polygontoken",
-  //   name: "Some Token",
-  //   uri: [
-  //     "matic",
-  //     "maticpolygon",
-  //     "polygon",
-  //   ],
-  //   addresses: [],
-  //   api: [
-  //     "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e&address=",
-  //   ],
-  //   unit: "TOKEN",
-  //   type: "polygon",
-  //   explorer: [
-  //     "https://polygonscan.com/tx/",
-  //   ],
-  //   logolink: "static/logos/MATIC.svg",
-  //   node: [
-  //     "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
-  //   ],
-  //   fee: 120000,
-  //   feepolicy: {
-  //     economy: 2,
-  //     normal: 3,
-  //     fast: 5,
-  //   },
-  //   color: "#8247e5",
-  //   contractAddress: "0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e",
-  //   decimals: 18,
-  //   backend: [
-  //     "polygon",
-  //   ],
-  // },
+  wethpoly: {
+    coin: "wethpoly",
+    name: "Wrapped Ether POLY",
+    uri: [
+      "wethpoly",
+      "wrappedether",
+      "weth",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x7ceb23fd6bc0add59e62ac25578270cff1b9f619&address=",
+    ],
+    unit: "WETH",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/WETH_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    color: "#b0b0b0",
+    contractAddress: "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  usdtpoly: {
+    coin: "usdtpoly",
+    name: "Tether POLY",
+    uri: [
+      "usdtpoly",
+      "tether",
+      "usdt",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0xc2132d05d31c914a87c6611c10748aeb04b58e8f&address=",
+    ],
+    unit: "USDT",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/USDT_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    color: "#26a17a",
+    contractAddress: "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    decimals: 6,
+    backend: [
+      "polygon",
+    ],
+  },
+  usdcpoly: {
+    coin: "usdcpoly",
+    name: "USD Coin POLY",
+    uri: [
+      "usdcpoly",
+      "usdc",
+      "usdcoin",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x2791bca1f2de4661ed88a30c99a7a9449aa84174&address=",
+    ],
+    unit: "USDC",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/USDC_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    color: "#2775ca",
+    contractAddress: "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    decimals: 6,
+    backend: [
+      "polygon",
+    ],
+  },
+  quickpoly: {
+    coin: "quickpoly",
+    name: "QuickSwap POLY",
+    uri: [
+      "quickswap",
+      "quick",
+      "quickpoly",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x831753dd7087cac61ab5644b308642cc1c33dc13&address=",
+    ],
+    unit: "QUICK",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/QUICK.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    color: "#458ccc",
+    contractAddress: "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  unipoly: {
+    coin: "unipoly",
+    name: "Uniswap POLY",
+    uri: [
+      "unipoly",
+      "uni",
+      "uniswap",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0xb33eaad8d922b1083446dc23f610c2567fb5180f&address=",
+    ],
+    unit: "UNI",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/UNI_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+    color: "#ff007a",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  linkpoly: {
+    coin: "linkpoly",
+    name: "Chainlink POLY",
+    uri: [
+      "linkpoly",
+      "link",
+      "chainlink",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39&address=",
+    ],
+    unit: "LINK",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/LINK_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+    color: "#2a5ada",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  wbtcpoly: {
+    coin: "wbtcpoly",
+    name: "Wrapped Bitcoin POLY",
+    uri: [
+      "wbtcpoly",
+      "wbtc",
+      "wrapped-bitcoin",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6&address=",
+    ],
+    unit: "WBTC",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/WBTC_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    color: "#342946",
+    decimals: 8,
+    backend: [
+      "polygon",
+    ],
+  },
+  daipoly: {
+    coin: "daipoly",
+    name: "Dai POLY",
+    uri: [
+      "daipoly",
+      "dai",
+      "multi-collateral-dai",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063&address=",
+    ],
+    unit: "DAI",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/DAI_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    color: "#f4b731",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  aavepoly: {
+    coin: "aavepoly",
+    name: "Aave POLY",
+    uri: [
+      "aavepoly",
+      "aave",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0xd6df932a45c0f255f85145f286ea0b292b21c90b&address=",
+    ],
+    unit: "AAVE",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/AAVE_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+    color: "#b6509e",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  sushipoly: {
+    coin: "sushipoly",
+    name: "SushiSwap POLY",
+    uri: [
+      "sushipoly",
+      "sushi",
+      "sushiswap",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a&address=",
+    ],
+    unit: "SUSHI",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/SUSHI_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    color: "#f14f9b",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  snxpoly: {
+    coin: "snxpoly",
+    name: "Synthetix POLY",
+    uri: [
+      "snxpoly",
+      "snx",
+      "synthetix-network-token",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x50b728d8d964fd00c2d0aad81718b71311fef68a&address=",
+    ],
+    unit: "SNX",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/SNX_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+    color: "#00d1ff",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  telpoly: {
+    coin: "telpoly",
+    name: "Telcoin POLY",
+    uri: [
+      "telpoly",
+      "tel",
+      "telcoin",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32&address=",
+    ],
+    unit: "TEL",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/TEL_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+    color: "#14c8ff",
+    decimals: 2,
+    backend: [
+      "polygon",
+    ],
+  },
+  nexopoly: {
+    coin: "nexopoly",
+    name: "Nexo POLY",
+    uri: [
+      "nexopoly",
+      "nexo",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e&address=",
+    ],
+    unit: "NEXO",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/NEXO_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+    color: "#1e4dd8",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  ubtpoly: {
+    coin: "ubtpoly",
+    name: "Unibright POLY",
+    uri: [
+      "ubtpoly",
+      "ubt",
+      "unibright",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x7FBc10850caE055B27039aF31bD258430e714c62&address=",
+    ],
+    unit: "UBT",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/UBT_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x7FBc10850caE055B27039aF31bD258430e714c62",
+    color: "#01608b",
+    decimals: 8,
+    backend: [
+      "polygon",
+    ],
+  },
+  wrxpoly: {
+    coin: "wrxpoly",
+    name: "WazirX POLY",
+    uri: [
+      "wrxpoly",
+      "wrx",
+      "wazirx",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x72d6066F486bd0052eefB9114B66ae40e0A6031a&address=",
+    ],
+    unit: "WRX",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/WRX_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+    color: "#cad4f8",
+    decimals: 8,
+    backend: [
+      "polygon",
+    ],
+  },
+  ctsipoly: {
+    coin: "ctsipoly",
+    name: "Cartesi POLY",
+    uri: [
+      "ctsipoly",
+      "ctsi",
+      "cartesi",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B&address=",
+    ],
+    unit: "CTSI",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/CTSI_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+    color: "#c9c9c9",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  woopoly: {
+    coin: "woopoly",
+    name: "WOO Network POLY",
+    uri: [
+      "woopoly",
+      "woo",
+      "wootrade",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603&address=",
+    ],
+    unit: "WOO",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/WOO_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+    color: "#131b24",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  fishpoly: {
+    coin: "fishpoly",
+    name: "Polycat Finance POLY",
+    uri: [
+      "fishpoly",
+      "fish",
+      "polycat-finance",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x3a3Df212b7AA91Aa0402B9035b098891d276572B&address=",
+    ],
+    unit: "FISH",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/FISH_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+    color: "58BF00",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  hexpoly: {
+    coin: "hexpoly",
+    name: "HEX POLY",
+    uri: [
+      "hexpoly",
+      "hex",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C&address=",
+    ],
+    unit: "HEX",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/HEX_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+    color: "#ff2674",
+    decimals: 8,
+    backend: [
+      "polygon",
+    ],
+  },
+  ompoly: {
+    coin: "ompoly",
+    name: "MANTRA DAO POLY",
+    uri: [
+      "ompoly",
+      "om",
+      "mantra-dao",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea&address=",
+    ],
+    unit: "OM",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/OM_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea",
+    color: "#ed1b6c",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
+  kncpoly: {
+    coin: "kncpoly",
+    name: "Kyber Network Crystal v2 POLY",
+    uri: [
+      "kncpoly",
+      "knc",
+      "kyber-network-crystal-v2",
+    ],
+    addresses: [],
+    api: [
+      "https://api.polygonscan.com/api?module=account&action=tokentx&contractaddress=0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c&address=",
+    ],
+    unit: "KNC",
+    type: "polygon",
+    explorer: [
+      "https://polygonscan.com/tx/",
+    ],
+    logolink: "static/logos/KNC_POLY.svg",
+    node: [
+      "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
+      "https://polygon-rpc.com",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 22,
+      normal: 30,
+      fast: 45,
+    },
+    contractAddress: "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+    color: "#31cb9e",
+    decimals: 18,
+    backend: [
+      "polygon",
+    ],
+  },
 };
 
 module.exports = coins;

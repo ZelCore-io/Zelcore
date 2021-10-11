@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 256 256"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 245 245"
    version="1.1"
    id="svg2946"
-   width="256"
-   height="256">
+   width="245"
+   height="245"
+   sodipodi:docname="REV_ERC20.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="3.3203125"
+     inkscape:cx="122.5"
+     inkscape:cy="122.50001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1547" />
   <metadata
      id="metadata2952">
     <rdf:RDF>
@@ -18,7 +42,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,10 +177,11 @@
        id="stop2941" />
   </linearGradient>
   <g
-     id="g1547">
+     id="g1547"
+     transform="translate(-5.5,-5.4999924)">
     <circle
        r="122.5"
-       style="fill:#ffffff;stroke-width:6.28205109"
+       style="fill:#ffffff;stroke-width:6.28205"
        id="circle2886"
        cy="127.99999"
        cx="128" />
@@ -166,25 +191,19 @@
       <path
          d="M 109.78205,38.794899 V 180.76926 L 79.628203,201.50003 V 55.128232 Z"
          id="path2899"
-         style="fill:url(#a);stroke-width:6.28205109" />
+         style="fill:url(#a);stroke-width:6.28205" />
       <path
          d="M 185.16666,82.141053 154.38461,98.474386 109.78205,73.346181 V 38.794899 Z"
          id="path2910"
-         style="fill:url(#b);stroke-width:6.28205109" />
+         style="fill:url(#b);stroke-width:6.28205" />
       <path
          d="m 191.44872,165.06413 v 36.4359 l -70.98718,-50.88462 29.52564,-15.70513 z"
          id="path2927"
-         style="fill:url(#c);stroke-width:6.28205109" />
+         style="fill:url(#c);stroke-width:6.28205" />
       <path
          d="m 185.16666,82.141053 v 33.923077 l -64.70512,34.55128 v -33.92308 z"
          id="path2944"
-         style="fill:url(#d);stroke-width:6.28205109" />
+         style="fill:url(#d);stroke-width:6.28205" />
     </g>
-    <circle
-       r="116.53765"
-       cy="128"
-       cx="128"
-       id="path2008"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b0b0b0;stroke-width:12.92468739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>

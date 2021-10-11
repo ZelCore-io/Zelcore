@@ -1,12 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="244.8" height="244.8" viewBox="0 0 244.8 244.8">
-  <g id="USDT_BSc" transform="translate(-4222 -4445)">
-    <g id="USDT" transform="translate(4223.248 4446.248)">
-      <path id="Main_copy_10" d="M0,121.252C0,188.064,54.44,242.5,121.252,242.5S242.5,188.064,242.5,121.252,188.064,0,121.252,0,0,54.44,0,121.252Z" fill="#26a17a"/>
-      <path id="Path_4885" data-name="Path 4885" d="M137.547,104.516V86.2H180.6V57.5H63.311V86.2h43.057v18.806S46.781,107.584,45,121.343c-1.188,14.154,61.368,17.322,61.368,17.322v60.379h31.179V138.665s61.269-2.87,60.873-16.827S137.547,104.516,137.547,104.516ZM121.71,134.21c-15.441-.2-70.277-1.881-69.782-13.857,2.87-11.482,54.44-12.868,54.44-12.868v20.786s6.929.495,15.342.495,15.837-.495,15.837-.495V106.991s52.658,2.376,53.45,13.362C191.789,132.132,137.745,133.913,121.71,134.21Z" transform="translate(-0.458 -0.586)" fill="#fff"/>
-    </g>
-    <g id="Main_copy_14" transform="translate(4222 4445)" fill="none">
-      <path d="M0,122.4c0,67.444,54.954,122.4,122.4,122.4s122.4-54.954,122.4-122.4S189.841,0,122.4,0,0,54.954,0,122.4Z" stroke="none"/>
-      <path d="M 122.4000015258789 11 C 60.97383117675781 11 11 60.97383117675781 11 122.4000015258789 C 11 183.826171875 60.97383117675781 233.8000030517578 122.4000015258789 233.8000030517578 C 183.826171875 233.8000030517578 233.8000030517578 183.826171875 233.8000030517578 122.4000015258789 C 233.8000030517578 60.97383117675781 183.826171875 11 122.4000015258789 11 M 122.4000015258789 0 C 189.8410034179688 0 244.8000030517578 54.95399475097656 244.8000030517578 122.4000015258789 C 244.8000030517578 189.8460083007813 189.8460083007813 244.8000030517578 122.4000015258789 244.8000030517578 C 54.95399475097656 244.8000030517578 0 189.843994140625 0 122.4000015258789 C 0 54.95399475097656 54.95899963378906 0 122.4000015258789 0 Z" stroke="none" fill="#474747"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="242.5"
+   height="242.5"
+   viewBox="0 0 242.5 242.5"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="USDT_BEP20.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="3.4722222"
+     inkscape:cx="121.152"
+     inkscape:cy="121.152"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="USDT_BSc" />
+  <g
+     id="USDT_BSc"
+     transform="translate(-4223.248,-4446.248)">
+    <g
+       id="USDT"
+       transform="translate(4223.248,4446.248)">
+      <path
+         id="Main_copy_10"
+         d="M 0,121.252 C 0,188.064 54.44,242.5 121.252,242.5 188.064,242.5 242.5,188.064 242.5,121.252 242.5,54.44 188.064,0 121.252,0 54.44,0 0,54.44 0,121.252 Z"
+         fill="#26a17a" />
+      <path
+         id="Path_4885"
+         data-name="Path 4885"
+         d="M 137.547,104.516 V 86.2 H 180.6 V 57.5 H 63.311 v 28.7 h 43.057 v 18.806 c 0,0 -59.587,2.578 -61.368,16.337 -1.188,14.154 61.368,17.322 61.368,17.322 v 60.379 h 31.179 v -60.379 c 0,0 61.269,-2.87 60.873,-16.827 -0.396,-13.957 -60.873,-17.322 -60.873,-17.322 z M 121.71,134.21 c -15.441,-0.2 -70.277,-1.881 -69.782,-13.857 2.87,-11.482 54.44,-12.868 54.44,-12.868 v 20.786 c 0,0 6.929,0.495 15.342,0.495 8.413,0 15.837,-0.495 15.837,-0.495 v -21.28 c 0,0 52.658,2.376 53.45,13.362 0.792,11.779 -53.252,13.56 -69.287,13.857 z"
+         transform="translate(-0.458,-0.586)"
+         fill="#fff" />
     </g>
   </g>
 </svg>

@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3052"
    version="1.1"
-   viewBox="0 0 67.733333 67.733335"
-   height="256"
-   width="256">
+   viewBox="0 0 64.822912 64.822914"
+   height="244.99998"
+   width="244.99998"
+   sodipodi:docname="NEXO_ERC20.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="3.3203125"
+     inkscape:cx="122.5"
+     inkscape:cy="122.49994"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2739" />
   <defs
      id="defs3046" />
   <metadata
@@ -20,17 +44,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-229.26665)"
+     transform="translate(-1.4552078,-230.72187)"
      id="layer1">
     <g
        id="g2739">
       <circle
-         style="opacity:1;fill:#1e4dd8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.56656402;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#1e4dd8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.566564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          id="path3597"
          cx="33.866665"
          cy="263.13333"
@@ -97,12 +121,6 @@
              style="fill:#d9eeff" />
         </g>
       </g>
-      <circle
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b0b0b0;stroke-width:3.41965675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="path2008"
-         cx="33.866665"
-         cy="263.13333"
-         r="30.83392" />
     </g>
   </g>
   <style

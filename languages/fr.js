@@ -1855,7 +1855,7 @@ export default {
     cannot_decode_contact_zel: "Impossible de déchiffrer le message reçu. Veuillez contacter l'équipe Zel.",
     your_sub_activated: "Votre souscription a été activée",
     friends_sub_activated: "La souscription pour votre ami a été activée",
-    five_off: "Bon choix de méthode de paiement ! Vous avez 5% de réduction !",
+    five_off: "Bon choix de méthode de paiement ! Vous avez 10% de réduction !",
     delete_wallet: "Supprimer le portefeuille",
     delete_wallet_confirm: "Etes-vous sur de vouloir supprimer {walletLabel}?",
     action_undone: "Cette action ne peut être annulée. Assurez-vous d'avoir les clés privées correspondantes sauvegardées.",

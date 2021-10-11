@@ -1706,7 +1706,7 @@ export default {
     cannot_decode_contact_zel: "Não é possível decodificar a mensagem recebida. Entre em contato com a equipe Zel.",
     your_sub_activated: "Sua assinatura ativada",
     friends_sub_activated: "Assinatura do seu amigo ativada",
-    five_off: "Ótima opção de método de pagamento! Você recebe 5% de desconto!",
+    five_off: "Ótima opção de método de pagamento! Você recebe 10% de desconto!",
     delete_wallet: "Apagar carteira",
     delete_wallet_confirm: "Tem certeza de que deseja excluir {walletLabel}?",
     action_undone: "Essa ação não pode ser desfeita. Verifique se você tem a chave privada correspondente salva.",

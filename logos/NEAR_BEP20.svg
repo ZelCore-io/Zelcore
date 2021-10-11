@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="256"
-   height="256"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="236"
+   height="236"
    version="1.1"
    id="svg8"
    sodipodi:docname="NEAR_BEP20.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs12" />
   <sodipodi:namedview
@@ -22,27 +36,23 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.4101562"
-     inkscape:cx="128"
-     inkscape:cy="128"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="118"
+     inkscape:cy="118"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
   <circle
-     cx="128"
-     cy="128"
+     cx="118"
+     cy="118"
      r="118"
-     fill="#fff"
+     fill="#ffffff"
      paint-order="stroke fill markers"
      id="circle2" />
   <path
-     d="M178.021 53.484l-34.637 51.46c-2.395 3.504 2.211 7.747 5.527 4.796l34.084-29.696c.921-.738 2.211-.184 2.211 1.107v92.776c0 1.291-1.658 1.844-2.395.922L79.637 51.271C76.321 47.213 71.531 45 66.188 45h-3.685C52.922 45 45 52.931 45 62.707v130.587C45 203.069 52.922 211 62.687 211c6.08 0 11.791-3.136 15.108-8.484l34.637-51.46c2.395-3.504-2.211-7.747-5.527-4.796L72.82 175.771c-.921.738-2.211.184-2.211-1.107V82.073c0-1.291 1.658-1.844 2.395-.922l103.174 123.578c3.316 4.058 8.291 6.271 13.45 6.271h3.685c9.765 0 17.687-7.931 17.687-17.707V62.707C211 52.931 203.078 45 193.313 45c-6.264 0-11.976 3.136-15.292 8.484z"
+     d="m 168.021,43.484 -34.637,51.46 c -2.395,3.504 2.211,7.747 5.527,4.796 l 34.084,-29.696 c 0.921,-0.738 2.211,-0.184 2.211,1.107 v 92.776 c 0,1.291 -1.658,1.844 -2.395,0.922 L 69.637,41.271 C 66.321,37.213 61.531,35 56.188,35 H 52.503 C 42.922,35 35,42.931 35,52.707 v 130.587 c 0,9.775 7.922,17.706 17.687,17.706 6.08,0 11.791,-3.136 15.108,-8.484 l 34.637,-51.46 c 2.395,-3.504 -2.211,-7.747 -5.527,-4.796 L 62.82,165.771 c -0.921,0.738 -2.211,0.184 -2.211,-1.107 V 72.073 c 0,-1.291 1.658,-1.844 2.395,-0.922 l 103.174,123.578 c 3.316,4.058 8.291,6.271 13.45,6.271 h 3.685 C 193.078,201 201,193.069 201,183.293 V 52.707 C 201,42.931 193.078,35 183.313,35 c -6.264,0 -11.976,3.136 -15.292,8.484 z"
      id="path4" />
-  <path
-     d="M128 11.485C63.753 11.485 11.485 63.753 11.485 128S63.753 244.515 128 244.515 244.515 192.247 244.515 128 192.247 11.485 128 11.485M128 0c70.527 0 128 57.468 128 128s-57.468 128-128 128S0 198.53 0 128 57.473 0 128 0z"
-     fill="#474747"
-     id="path6"
-     style="fill:#e8a607;fill-opacity:1" />
 </svg>

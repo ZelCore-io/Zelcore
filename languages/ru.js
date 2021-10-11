@@ -1449,7 +1449,7 @@ export default {
     cannot_decode_contact_zel: "Cannot decode received message. Please contact Zelcore Team.",
     your_sub_activated: "Your subscription activated",
     friends_sub_activated: "Subscription for your friend activated",
-    five_off: "Great choice of payment method! You get a 5% discount!",
+    five_off: "Great choice of payment method! You get a 10% discount!",
     delete_wallet: "Удалить кошелек",
     delete_wallet_confirm: "Are you sure you want to delete {walletLabel}?",
     action_undone: "This action can not be undone. Make sure you have corresponding private key saved.",

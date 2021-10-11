@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="132" viewBox="0 0 132 132">
+  <g id="Group_9470" data-name="Group 9470" transform="translate(-7883 18696)">
+    <g id="Group_9469" data-name="Group 9469">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(7883 -18696)">
+        <g id="full-wrapp">
+          <g id="wrapp">
+            <g id="bg">
+              <path id="bg-line" d="M66,0h0a66,66,0,0,1,66,66h0a66,66,0,0,1-66,66h0A66,66,0,0,1,0,66H0A66,66,0,0,1,66,0Z" fill="#4adef2"/>
+              <path id="bg-circle" d="M66,10h0a56,56,0,0,1,56,56h0a56,56,0,0,1-56,56h0A56,56,0,0,1,10,66h0A56,56,0,0,1,66,10Z" fill="#1d1d1d"/>
+            </g>
+            <g id="Layer_2" data-name="Layer 2" transform="translate(28.739 37.058)">
+              <g id="Layer_1-2" data-name="Layer 1">
+                <path id="Path_472521" data-name="Path 472521" d="M565.3,0h51.04q.008,8.249,0,16.494-25.519.008-51.04,0Q565.291,8.25,565.3,0Z" transform="translate(-545.182)" fill="#fff"/>
+                <path id="Path_472522" data-name="Path 472522" d="M.021,637.521q8.233-.043,16.469,0,.043,8.233,0,16.469-8.235.042-16.469,0Q-.021,645.757.021,637.521Z" transform="translate(0 -614.818)" fill="#c90c34"/>
+                <path id="Path_472523" data-name="Path 472523" d="M565.249,637.57q18.419-.039,36.835,0,.039,8.233,0,16.469-18.419.038-36.835,0Q565.211,645.8,565.249,637.57Z" transform="translate(-545.119 -614.866)" fill="#fff"/>
+                <path id="Path_472524" data-name="Path 472524" d="M565.1,1275.02q8.219-.089,16.435,0,.085,8.214,0,16.435-8.219.081-16.435,0Q565.018,1283.24,565.1,1275.02Z" transform="translate(-544.955 -1229.611)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="US" transform="translate(7960 -18600)" fill="#fff" font-size="13" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-9.269" y="0">US</tspan></text>
+    </g>
+  </g>
+</svg>

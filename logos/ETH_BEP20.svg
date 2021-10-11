@@ -1,19 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="245.2" height="245.2" viewBox="0 0 245.2 245.2">
-  <g id="ETH_BSC" transform="translate(-4542.8 -4454.8)">
-    <g id="ETH" transform="translate(4543 4455)">
-      <path id="Full" d="M0,122.5C0,190,55,245,122.5,245S245,190,245,122.5,190,0,122.5,0,0,55,0,122.5Z" fill="#b0b0b0"/>
-      <g id="Eth_copy">
-        <path id="Shape1" d="M122.5,38l-52,86,52-23.5Z" fill="#fff"/>
-        <path id="Shape2" d="M122.5,38l52,86-52-23.5Z" fill="#fff"/>
-        <path id="Shape3" d="M70.5,123.5l52-23.5v54.5Z" fill="#efefef"/>
-        <path id="Shape4" d="M174.5,123.5l-52-23.5v54.5Z" fill="#efefef"/>
-        <path id="Shape5" d="M70.5,134l52,30.5V207Z" fill="#fff"/>
-        <path id="Shape6" d="M174.5,134l-52,30.5V207Z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="245"
+   height="245"
+   viewBox="0 0 245 245"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="ETH_BEP20.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="3.466558"
+     inkscape:cx="122.4"
+     inkscape:cy="122.4"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ETH_BSC" />
+  <g
+     id="ETH_BSC"
+     transform="translate(-4543,-4455)">
+    <g
+       id="ETH"
+       transform="translate(4543,4455)">
+      <path
+         id="Full"
+         d="M 0,122.5 C 0,190 55,245 122.5,245 190,245 245,190 245,122.5 245,55 190,0 122.5,0 55,0 0,55 0,122.5 Z"
+         fill="#b0b0b0" />
+      <g
+         id="Eth_copy">
+        <path
+           id="Shape1"
+           d="m 122.5,38 -52,86 52,-23.5 z"
+           fill="#fff" />
+        <path
+           id="Shape2"
+           d="m 122.5,38 52,86 -52,-23.5 z"
+           fill="#fff" />
+        <path
+           id="Shape3"
+           d="m 70.5,123.5 52,-23.5 v 54.5 z"
+           fill="#efefef" />
+        <path
+           id="Shape4"
+           d="m 174.5,123.5 -52,-23.5 v 54.5 z"
+           fill="#efefef" />
+        <path
+           id="Shape5"
+           d="m 70.5,134 52,30.5 V 207 Z"
+           fill="#fff" />
+        <path
+           id="Shape6"
+           d="m 174.5,134 -52,30.5 V 207 Z"
+           fill="#fff" />
       </g>
-    </g>
-    <g id="Main_copy_14" transform="translate(4542.8 4454.8)" fill="none">
-      <path d="M0,122.6c0,67.554,55.044,122.6,122.6,122.6s122.6-55.044,122.6-122.6S190.151,0,122.6,0,0,55.044,0,122.6Z" stroke="none"/>
-      <path d="M 122.6000061035156 11 C 61.06355285644531 11 11 61.06355285644531 11 122.6000061035156 C 11 184.1364593505859 61.06355285644531 234.2000122070313 122.6000061035156 234.2000122070313 C 184.1364593505859 234.2000122070313 234.2000122070313 184.1364593505859 234.2000122070313 122.6000061035156 C 234.2000122070313 61.06355285644531 184.1364593505859 11 122.6000061035156 11 M 122.6000061035156 0 C 190.1512145996094 0 245.2000122070313 55.04379272460938 245.2000122070313 122.6000061035156 C 245.2000122070313 190.1562194824219 190.1562194824219 245.2000122070313 122.6000061035156 245.2000122070313 C 55.04379272460938 245.2000122070313 0 190.1542053222656 0 122.6000061035156 C 0 55.04379272460938 55.04879760742188 0 122.6000061035156 0 Z" stroke="none" fill="#474747"/>
     </g>
   </g>
 </svg>

@@ -113,6 +113,23 @@ This files controls some social interactions of coins. Displays description, lin
       twitter:  "https://twitter.com/Tether_to",
       reddit:  "",
       repository:  "",
+      youtube: "",
+      instagram: "",
+      tiktok: "",
+      twitch: "",
+      linkedin: "",
+      cryptoCompareID: "USDT",
+      coinMarketCapID: "tether",
+      coingeckoID: "tether",
+      auditInfos: [
+        {
+          auditor: "CertiK",
+          reportUrl: "https://cmc.certik-skynet.com/redirect?project=tether",
+        },
+      ],
+      whitepaper: [
+        "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+      ],
     },
 
 Fields are done to be self-explanatory:
@@ -130,6 +147,23 @@ Fields are done to be self-explanatory:
 - twitter - main twitter
 - reddit - subreddit of asset
 - repository - repository account. Does not have to be github. Bitbucket, gitlab and others possible as well.
+- youtube - youtube channel of asset
+- instagram - main instagram of asset
+- tiktok - main tiktok of asset
+- twitch - twitch channel of asset
+- linkedin - main linkedin of asset
+- cryptoCompareID - the ID of the asset at the cryproCompare aggregator api
+- coinMarketCapID - the ID of the asset at the coinMarketCap aggregator api
+- coingeckoID - the ID of the asset at the coingecko aggregator api
+- auditInfos - available audit reports for the asset in dictionary format e.g. [
+      {
+        auditor: "Quantstamp",
+        reportUrl: "https://certificate.quantstamp.com/view/serum",
+      },
+    ],
+- whitepaper - available whitepapers for the asset e.g. [
+      "https://docs.projectserum.com",
+    ],
 - Others - feel free to add slack, wechat groups or others. We may let it available in the future
 
 ### newssources.js
@@ -163,11 +197,9 @@ Please look at many examples in [Logos directory](https://github.com/zelcore-io/
 ## Rates & Markets
 
 Zelcore uses its own Rates and Markets services. The repository can be found in [rates-api](https://github.com/zelcore-io/rates-api).
+1 File have to be adjusted at rates-api/src/services/. Add the asset's aggregator ID on the corresponding list. Adding the ID of one aggregetor is enough.
 
-2 Files have to be adjusted
-
-1. zelcoreMarkets.js
-2. zelcoreRates.js
+ 1. coinAggregatorIDs.js
 
 You can find them in [services folder](https://github.com/zelcore-io/rates-api/blob/master/src/services/) of rates-api.
 

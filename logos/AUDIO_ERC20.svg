@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
+   width="236"
+   height="236"
+   viewBox="0 0 236 236"
    sodipodi:docname="AUDIO_ERC20.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs6" />
   <sodipodi:namedview
@@ -25,26 +37,20 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.3512476"
-     inkscape:cx="246.32617"
-     inkscape:cy="148.75057"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="236.32617"
+     inkscape:cy="138.75057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g8"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g8">
-    <path
-       d="M 6.5570002,128 C 6.5570002,194.964 61.036,249.443 128,249.443 194.964,249.443 249.443,194.964 249.443,128 249.443,61.036004 194.964,6.5570002 128,6.5570002 61.036,6.5570002 6.5570002,61.036004 6.5570002,128 Z"
-       fill="#ffffff"
-       fill-rule="evenodd"
-       stroke="#b0b0b0"
-       stroke-width="13.114"
-       paint-order="normal"
-       id="path2" />
+     id="g8"
+     transform="translate(-10,-10)">
     <g
        id="g9368"
        transform="matrix(0.0944,0,0,0.0944,10,10.000012)">

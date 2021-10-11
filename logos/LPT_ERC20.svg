@@ -1,1 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" xmlns:v="https://vecta.io/nano"><defs><radialGradient id="A" cx="128" cy="128" fx="128" fy="128" r="128" gradientTransform="matrix(1.4574085,-1.097953,1.3423567,1.7818267,-230.36996,40.464176)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#04d47b"/><stop offset="1" stop-color="#04d47b" stop-opacity="0"/></radialGradient></defs><g fill-rule="evenodd"><path d="M6.557 128c0 66.964 54.479 121.443 121.443 121.443S249.443 194.964 249.443 128 194.964 6.557 128 6.557 6.557 61.036 6.557 128z" fill="url(#A)" stroke="#b0b0b0" stroke-width="13.114" paint-order="normal"/><path d="M60 179v34h34v-34zm0-68v34h34v-34zm136 0v34h34v-34zM60 77V43h34v34zm68 34V77h34v34zm0 34v34h34v-34z" fill="#131418"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="242.886"
+   height="242.886"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="LPT_ERC20.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="3.3203125"
+     inkscape:cx="121.443"
+     inkscape:cy="121.443"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13" />
+  <defs
+     id="defs7">
+    <radialGradient
+       id="A"
+       cx="128"
+       cy="128"
+       fx="128"
+       fy="128"
+       r="128"
+       gradientTransform="matrix(1.4574085,-1.097953,1.3423567,1.7818267,-230.36996,40.464176)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#04d47b"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#04d47b"
+         stop-opacity="0"
+         id="stop4" />
+    </radialGradient>
+  </defs>
+  <g
+     fill-rule="evenodd"
+     id="g13"
+     transform="translate(-6.557,-6.557)">
+    <path
+       d="m 6.557,128 c 0,66.964 54.479,121.443 121.443,121.443 66.964,0 121.443,-54.479 121.443,-121.443 C 249.443,61.036 194.964,6.557 128,6.557 61.036,6.557 6.557,61.036 6.557,128 Z"
+       fill="url(#A)"
+       stroke="#b0b0b0"
+       stroke-width="13.114"
+       paint-order="normal"
+       id="path9"
+       style="fill:url(#A);stroke:none" />
+    <path
+       d="m 60,179 v 34 h 34 v -34 z m 0,-68 v 34 h 34 v -34 z m 136,0 v 34 h 34 V 111 Z M 60,77 V 43 h 34 v 34 z m 68,34 V 77 h 34 v 34 z m 0,34 v 34 h 34 v -34 z"
+       fill="#131418"
+       id="path11" />
+  </g>
+</svg>

@@ -1635,7 +1635,7 @@ export default {
     cannot_decode_contact_zel: "Přijatou zprávu nelze dekódovat. Kontaktujte prosím Zelcore tým.",
     your_sub_activated: "Vaše předplatné bylo aktivováno",
     friends_sub_activated: "Předplatné pro vašeho přítele bylo aktivováno",
-    five_off: "Skvělá volba způsobu platby! Získáváte 5% slevu!",
+    five_off: "Skvělá volba způsobu platby! Získáváte 10% slevu!",
     delete_wallet: "Smazat peněženku",
     delete_wallet_confirm: "Jste si jistí, že chcete smazat {walletLabel}?",
     action_undone: "Tuto akci nelze vrátit zpět. Ujistěte se, že máte uložen odpovídající soukromý klíč.",

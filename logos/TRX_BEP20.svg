@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 490 490"
    version="1.1"
    id="svg8"
    sodipodi:docname="TRX_BEP20.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   width="490"
+   height="490">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs12" />
   <sodipodi:namedview
@@ -23,24 +39,19 @@
      inkscape:zoom="1.7816327"
      inkscape:cx="245"
      inkscape:cy="245"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
   <path
-     d="M0,245c0,135.1,109.9,245,245,245s245-109.9,245-245S380.1,0,245,0S0,109.9,0,245z"
+     d="M 0,245 C 0,380.1 109.9,490 245,490 380.1,490 490,380.1 490,245 490,109.9 380.1,0 245,0 109.9,0 0,109.9 0,245 Z"
      fill="#eb0029"
      id="path2" />
   <path
-     d="M325 159.7L109 120l113.6 286L381 213.1l-56-53.4zm-3.5 17.6l33 31.4-90.3 16.3 57.3-47.7zm-77 44.4l-95.2-79L305 171.4l-60.5 50.3zm-6.7 14l-15.5 128.4-83.7-210.7 99.2 82.3zm14.3 6.8l100-18.1-114.7 139.8 14.7-121.7z"
-     fill="#fff"
+     d="M 325,159.7 109,120 222.6,406 381,213.1 Z m -3.5,17.6 33,31.4 -90.3,16.3 z m -77,44.4 -95.2,-79 155.7,28.7 z m -6.7,14 -15.5,128.4 -83.7,-210.7 z m 14.3,6.8 100,-18.1 -114.7,139.8 z"
+     fill="#ffffff"
      id="path4" />
-  <path
-     d="M122.6 11C61.064 11 11 61.064 11 122.6s50.064 111.6 111.6 111.6 111.6-50.064 111.6-111.6S184.136 11 122.6 11m0-11c67.551 0 122.6 55.044 122.6 122.6s-55.044 122.6-122.6 122.6S0 190.154 0 122.6 55.049 0 122.6 0z"
-     fill="#474747"
-     transform="matrix(2.000774 -.085445 .085671 1.995509 -10.277163 10.701037)"
-     id="path6"
-     style="fill:#e8a607;fill-opacity:1" />
 </svg>

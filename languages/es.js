@@ -1588,7 +1588,7 @@ export default {
     cannot_decode_contact_zel: "No se puede decodificar el mensaje recibido. Póngase en contacto con el equipo de Zel.",
     your_sub_activated: "Tu suscripción activada",
     friends_sub_activated: "Suscripción para tu amigo activada",
-    five_off: "¡Gran elección de método de pago! Obtienes un 5% de descuento!",
+    five_off: "¡Gran elección de método de pago! Obtienes un 10% de descuento!",
     delete_wallet: "Borrar Billetera",
     delete_wallet_confirm: "Estas seguro que quieres borrarla {walletLabel}?",
     action_undone: "Esta acción no se puede deshacer. Asegúrese de haber guardado la clave privada correspondiente.",
