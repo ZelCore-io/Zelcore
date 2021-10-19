@@ -5327,6 +5327,22 @@ const newssources = {
         pic: "static/logos/KNC_POLY.svg",
       },
     ],
+    tribe: [
+      {
+        name: "Tribe Twitter",
+        feed: "https://nitter.zelcore.io/tribe/rss",
+        site: "https://twitter.com/feiprotocol",
+        about: "Tribe is the governance token for the FEI algorithmic stablecoin. Fei aims to provide a new decentralized solution to the stablecoin market. Existing stablecoins are either fiat-collateralized and, therefore, centralized or crypto-collateralized, making them capital-inefficient.",
+        pic: "static/logos/TRIBE_ERC20.svg",
+      },
+      {
+        name: "Tribe Medium",
+        feed: "https://medium.com/feed/@fei-protocol",
+        site: "https://medium.com/@fei-protocol",
+        about: "Tribe is the governance token for the FEI algorithmic stablecoin. Fei aims to provide a new decentralized solution to the stablecoin market. Existing stablecoins are either fiat-collateralized and, therefore, centralized or crypto-collateralized, making them capital-inefficient.",
+        pic: "static/logos/TRIBE_ERC20.svg",
+      },
+    ],
   },
 };
 
