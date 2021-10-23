@@ -4318,6 +4318,22 @@ const newssources = {
         pic: "static/logos/ALPHA_BEP20.svg",
       },
     ],
+    bscprom: [
+      {
+        name: "Prometeus Network Twitter",
+        feed: "https://nitter.zelcore.io/PrometeusNetwork/rss",
+        site: "https://twitter.com/prometeusnet",
+        about: "Prometeus Network is a decentralized ecosystem for trustless and anonymous data exchange.",
+        pic: "static/logos/PROM_BEP20.svg",
+      },
+      {
+        name: "Prometeus Network Medium",
+        feed: "https://medium.com/prometeus-network",
+        site: "https://medium.com/prometeus-network",
+        about: "Prometeus Network is a decentralized ecosystem for trustless and anonymous data exchange.",
+        pic: "static/logos/PROM_BEP20.svg",
+      },
+    ],
     waveseth: [
       {
         name: "Waves Twitter",
