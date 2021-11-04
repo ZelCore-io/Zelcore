@@ -12933,6 +12933,18 @@ const coininfo = {
     twitter: "https://twitter.com/feiprotocol",
     reddit: "",
     repository: "https://github.com/fei-protocol",
+    youtube: "",
+    instagram: "",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "TRIBE",
+    coinMarketCapID: "tribe",
+    coingeckoID: "tribe-2",
+    auditInfos: [],
+    whitepaper: [
+      "https://fei.money/static/media/whitepaper.7d5e2986.pdf",
+    ],
   },
 };
 
