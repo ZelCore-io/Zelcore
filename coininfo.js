@@ -12913,7 +12913,7 @@ const coininfo = {
       "https://developer.kyber.network/docs/Home-Intro",
     ],
   },
-  tribe: {
+  tribeeth: {
     description: "Tribe is the governance token for the FEI algorithmic stablecoin. Fei aims to provide a new decentralized solution to the stablecoin market. Existing stablecoins are either fiat-collateralized and, therefore, centralized or crypto-collateralized, making them capital-inefficient. Other algorithmic stablecoins suffer from no liquidity backing the peg, making them inherently unstable or centralize rewards to seigniorage stakeholders. FEI proposes a model similar in design to fractional reserve central banking, where the protocol issues FEI for a subsidized price against ETH at its genesis event and subsequently uses the incurred Ether as a treasury to maintain the peg. TRIBE is the governance token of the DAO controlling the governance of FEI and can be used in governance proposals or swapped for FEI in a UniSwapV2 liquidity pool.",
     total_supply: null,
     circulating_supply: 453448622,
