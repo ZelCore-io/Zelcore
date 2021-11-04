@@ -5330,7 +5330,7 @@ const newssources = {
     tribeeth: [
       {
         name: "Tribe Twitter",
-        feed: "https://nitter.zelcore.io/tribe/rss",
+        feed: "https://nitter.zelcore.io/feiprotocol/rss",
         site: "https://twitter.com/feiprotocol",
         about: "Tribe is the governance token for the FEI algorithmic stablecoin. Fei aims to provide a new decentralized solution to the stablecoin market. Existing stablecoins are either fiat-collateralized and, therefore, centralized or crypto-collateralized, making them capital-inefficient.",
         pic: "static/logos/TRIBE_ERC20.svg",
