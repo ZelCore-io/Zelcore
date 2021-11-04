@@ -16503,8 +16503,8 @@ const coins = {
       "polygon",
     ],
   },
-  tribe: {
-    coin: "tribe",
+  tribeeth: {
+    coin: "tribeeth",
     name: "Tribe ERC20",
     uri: [
       "tribe",
