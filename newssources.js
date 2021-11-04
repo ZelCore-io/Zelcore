@@ -5327,7 +5327,7 @@ const newssources = {
         pic: "static/logos/KNC_POLY.svg",
       },
     ],
-    tribe: [
+    tribeeth: [
       {
         name: "Tribe Twitter",
         feed: "https://nitter.zelcore.io/tribe/rss",
