@@ -12918,7 +12918,7 @@ const coininfo = {
     total_supply: 1000000000,
     circulating_supply: 453448622,
     websites: [
-      "https://fei.money/",
+      "https://fei.money",
       "https://medium.com/@fei-protocol",
     ],
     explorers: [
