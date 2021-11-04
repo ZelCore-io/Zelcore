@@ -5343,6 +5343,22 @@ const newssources = {
         pic: "static/logos/TRIBE_ERC20.svg",
       },
     ],
+    bscprom: [
+      {
+        name: "Prometeus Network Twitter",
+        feed: "https://nitter.zelcore.io/prometeusnet/rss",
+        site: "https://twitter.com/prometeusnet",
+        about: "Prometeus Network is a decentralized ecosystem for trustless and anonymous data exchange.",
+        pic: "static/logos/PROM_BEP20.svg",
+      },
+      {
+        name: "Prometeus Network Medium",
+        feed: "https://medium.com/feed/prometeus-network",
+        site: "https://medium.com/prometeus-network",
+        about: "Prometeus Network is a decentralized ecosystem for trustless and anonymous data exchange.",
+        pic: "static/logos/PROM_BEP20.svg",
+      },
+    ],
   },
 };
 

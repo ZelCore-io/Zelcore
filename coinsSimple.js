@@ -16548,6 +16548,42 @@ const coins = {
       "infura",
     ],
   },
+  bscprom: {
+    coin: "bscprom",
+    name: "Prometeus BEP20",
+    uri: [
+      "bscprom",
+      "prom",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5&address=",
+    ],
+    unit: "PROM",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/PROM_BEP20.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 20,
+      normal: 25,
+      fast: 40,
+    },
+    contractAddress: "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+    color: "#EA7437",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
+  },
 };
 
 module.exports = coins;

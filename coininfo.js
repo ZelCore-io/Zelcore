@@ -12946,6 +12946,37 @@ const coininfo = {
       "https://fei.money/static/media/whitepaper.7d5e2986.pdf",
     ],
   },
+  bscprom: {
+    description: "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries. Prometeus Network is developed by Prometeus Labs. A company existing out of data scientists and entrepreneurs who have been working for more than 15 years on machine learning, business development and marketing.",
+    total_supply: 20000000,
+    circulating_supply: 16449996,
+    websites: [
+      "https://prometeus.io",
+    ],
+    explorers: [
+      "https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+    ],
+    medium: "https://medium.com/prometeus-network",
+    discord: "",
+    telegram: "https://t.me/promnetwork",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/prometeusnet",
+    reddit: "",
+    repository: "https://github.com/Prometeus-Network",
+    youtube: "",
+    instagram: "",
+    tiktok: "",
+    twitch: "",
+    linkedin: "https://www.linkedin.com/company/prometeus-labs",
+    cryptoCompareID: "PROM",
+    coinMarketCapID: "prometeus",
+    coingeckoID: "prometeus",
+    auditInfos: [],
+    whitepaper: [
+      "https://prometheus.business/Whitepaper.pdf",
+    ],
+  },
 };
 
 export default {
