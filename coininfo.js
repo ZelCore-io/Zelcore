@@ -12918,7 +12918,7 @@ const coininfo = {
     total_supply: 20000000,
     circulating_supply: 16449996,
     websites: [
-      "https://prometeus.io/",
+      "https://prometeus.io",
     ],
     explorers: [
       "https://bscscan.com/token/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
@@ -12935,7 +12935,7 @@ const coininfo = {
     instagram: "",
     tiktok: "",
     twitch: "",
-    linkedin: "https://www.linkedin.com/company/prometeus-labs/",
+    linkedin: "https://www.linkedin.com/company/prometeus-labs",
     cryptoCompareID: "PROM",
     coinMarketCapID: "prometeus",
     coingeckoID: "prometeus",
