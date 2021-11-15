@@ -1053,7 +1053,7 @@ export default {
     no_ontology_fullnode: "Je nám líto, ale momentálně nenabízíme Full Node podporu pro Ontologz.",
     no_veriblock_fullnode: "Je nám líto, ale momentálně nenabízíme Full Node podporu pro VeriBlock.",
     no_kadena_fullnode: "Je nám líto, ale momentálně nenabízíme Full Node podporu pro Kadena.",
-    kadena_acc_not_owned: "Účet Kadeny na chainu {chainID} není plně pod vaši kontrolou. Nepoužívejte jej!",
+    kadena_acc_not_owned: "Účet {coinname} na chainu {chainID} není plně pod vaši kontrolou. Nepoužívejte jej!",
     minimum_gas_limit: "Gas Limit musí být nejméně 600 Gas.",
     kda_no_transaction_history: "Historie transakcí prozatím není podporována.",
     gas_payer_on_receiver_chain: "Plátce Gas na Chainu {chainID}",
@@ -1980,7 +1980,7 @@ export default {
     transfer: "Transfer",
 
     // Wyre
-    buy_crypto: "Koupit Krypto",
+    purchase_crypto: "Koupit Krypto",
     orders: "Objednávky",
     order_history: "Historie objednávek",
     track_transfer: "Sledovat Transfer",

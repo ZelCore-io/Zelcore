@@ -870,7 +870,7 @@ export default {
     no_ontology_fullnode: "Sorry, we do not offer Full Node support for Ontology at this moment.",
     no_veriblock_fullnode: "Sorry, we do not offer Full Node support for VeriBlock at this moment.",
     no_kadena_fullnode: "Sorry, we do not offer Full Node support for Kadena at this moment.",
-    kadena_acc_not_owned: "Kadena account on chain {chainID} is not fully owned. Do not use it!",
+    kadena_acc_not_owned: "{coinname} account on chain {chainID} is not fully owned. Do not use it!",
     minimum_gas_limit: "Gas Limit has to be at least 600 Gas.",
     kda_no_transaction_history: "Transaction history is not supported yet.",
     gas_payer_on_receiver_chain: "Gas Payer on Chain {chainID}",

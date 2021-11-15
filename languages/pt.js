@@ -1091,7 +1091,7 @@ export default {
     no_kadena_fullnode: "Desculpe, de momento não oferecemos suporte FullNode para Kadena",
     no_substrate_fullnode: "Desculpe, de momento não oferecemos suporte FullNode para Substrate Blockchains",
     no_cardano_fullnode: "Desculpe, de momento não oferecemos suporte FullNode para Blockchains Cardano",
-    kadena_acc_not_owned: "A conta Kadena na chain {chainID} não é completamente propriatária. Não a use!",
+    kadena_acc_not_owned: "A conta {coinname} na chain {chainID} não é completamente propriatária. Não a use!",
     minimum_gas_limit: "Gas Limit tem que ser de pelo menos 600 Gas.",
     kda_no_transaction_history: "Histórico de Transacções ainda não é suportado por enquanto.",
     gas_payer_on_receiver_chain: "Gas Payer on Chain {chainID}",
@@ -2034,6 +2034,7 @@ export default {
     transfer: "Transferir",
 
     // Wyre
+    purchase_crypto: "Comprar Crypto",
     buy_crypto: "Comprar Crypto",
     orders: "Compras",
     order_history: "Histórico de compras",

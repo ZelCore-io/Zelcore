@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="250"
+   height="250"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="AscendEX.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.492"
+     inkscape:cx="125"
+     inkscape:cy="125"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="Прямоугольник_193250"
+     data-name="Прямоугольник 193250"
+     d="m 125,0 v 0 a 125,125 0 0 1 125,125 v 0 A 125,125 0 0 1 125,250 v 0 A 125,125 0 0 1 0,125 v 0 A 125,125 0 0 1 125,0 Z"
+     fill="#0093dd"
+     style="stroke-width:1.89393;fill:#43d7f0;fill-opacity:1" />
+  <path
+     id="Прямоугольник_193251"
+     data-name="Прямоугольник 193251"
+     d="m 125,18.939394 v 0 A 106.06061,106.06061 0 0 1 231.06061,125 v 0 A 106.06061,106.06061 0 0 1 125,231.06061 v 0 A 106.06061,106.06061 0 0 1 18.93939,125 v 0 A 106.06061,106.06061 0 0 1 125,18.939394 Z"
+     fill="#1d1d1d"
+     style="stroke-width:1.89393" />
+  <path
+     d="M33.285 173.558c.249-1.697 81.825-83.442 84.901-85.077 5.163-2.744 12.48-.453 15.29 4.787 1.081 2.015 1.555 4.711 1.555 8.846v5.948l22.794-22.737 22.794-22.737 3.58-1.376c4.34-1.668 11.971 2.733 12.937 7.981h0v49.544 49.544l.038 6.643-6.643-.038h-78.72c-70.926 0-78.701-.132-78.525-1.331zm58.782-22.491c3.721-3.743 7.36-6.806 8.085-6.806.738 0 2.986 2.812 5.102 6.381l3.783 6.381h4.489 4.489V134.62v-22.403l-11.078 11.188-22.826 22.828-11.748 11.64h6.469 6.469zm88.054-28.324V88.464l-22.545 22.602-22.545 22.602v11.677 11.677h22.545 22.545z"
+     fill="#fff"
+     id="path4" />
+</svg>

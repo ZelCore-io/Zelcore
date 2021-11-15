@@ -999,7 +999,7 @@ export default {
     no_veriblock_fullnode: "Lo sentimos, no ofrecemos soporte de nodo completo para VeriBlock en este momento.",
     no_kadena_fullnode: "Lo sentimos, no ofrecemos soporte de nodo completo para Kadena en este momento.",
     no_substrate_fullnode: "Lo sentimos, no ofrecemos soporte de nodo completo para Substrate Blockchains",
-    kadena_acc_not_owned: "Kadena cuenta en chain {chainID} no es de propiedad total. No lo uses!",
+    kadena_acc_not_owned: "{coinname} cuenta en chain {chainID} no es de propiedad total. No lo uses!",
     minimum_gas_limit: "Gas El límite tiene que ser al menos 600 Gas.",
     kda_no_transaction_history: "El historial de transacciones aún no es compatible.",
     gas_payer_on_receiver_chain: "Gas a Pagar en Chain {chainID}",
@@ -1940,6 +1940,7 @@ export default {
     transfer: "Transferir",
 
     // Wyre
+    purchase_crypto: "Compra cripto",
     buy_crypto: "Compra cripto",
     orders: "Ordenes",
     order_history: "Historial de pedidos",

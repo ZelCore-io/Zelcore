@@ -913,7 +913,7 @@ export default {
     apps_tools: "Strumenti",
     apps_zelcoreplus_text: "Zelcore+ è la versione Premium di Zelcore. Hai accesso a funzionalità premium tra cui indirizzi di portafoglio aggiuntivi, trading su exchange integrati, monitoraggio dei nodi e altro ancora.",
     apps_zelid_text: "Zelcore utilizza la potenza della blockchain per offrire un'autenticazione a due fattori decentralizzata. Proteggi il tuo account Zelcore con d2FA e usa la tua identità ZelID per accedere a varie altre piattaforme.",
-    apps_buy_crypto_text: "Zelcore è una piattaforma e un portafoglio crypto multi-asset, gratuito per tutti, con exchange quick-swap integrati, che supporta oltre 280+ asset. Acquista varie criptovalute con la tua carta.",
+    apps_purchase_crypto_text: "Zelcore è una piattaforma e un portafoglio crypto multi-asset, gratuito per tutti, con exchange quick-swap integrati, che supporta oltre 280+ asset. Acquista varie criptovalute con la tua carta.",
     apps_fusion_text: "Converti assets tra blockchain diverse per sfruttare la vera DeFi. Fusion consente di riscuotere gli snapshots, le ricompense di parallel mining e consente lo swap dei tuoi Flux per accedere a reti diverse.",
     apps_coinrequest_text: "CoinRequest è stato sviluppato per accelerare l'adozione delle criptovalute nel complesso. Basta creare una richiesta, condividerla tramite più canali (social media) e semplicemente attendere che l'altra parte paghi.",
     apps_portfolio_tracker_text: "Tieni traccia dei tuoi assets e delle tue operazioni nel Portfolio Tracker. Importa le tue spese ed entrate per visualizzare il valore totale del tuo portafoglio nel tempo.",
@@ -1204,7 +1204,7 @@ export default {
     no_kadena_fullnode: "Siamo Spiacenti, al momento non offriamo il servizio Full Node per Kadena.",
     no_substrate_fullnode: "Siamo Spiacenti, non offriamo il servizio Full Node per Blockchain Substrate",
     no_cardano_fullnode: "Siamo Spiacenti, non offriamo il servizio Full Node per Blockchain Cardano",
-    kadena_acc_not_owned: "L'account Kadena sulla chain {chainID} non è interamente proprietario. Non usarlo!",
+    kadena_acc_not_owned: "L'account {coinname} sulla chain {chainID} non è interamente proprietario. Non usarlo!",
     minimum_gas_limit: "Il gas limit deve essere di almeno 600 gas.",
     kda_no_transaction_history: "La cronologia delle transazioni non è ancora supportata.",
     gas_payer_on_receiver_chain: "Gas Payer su Chain {chainID}",
@@ -2223,7 +2223,8 @@ export default {
     transfer: "Trasferisci",
 
     // Wyre
-    buy_crypto: "Acquista Crypto",
+    purchase_crypto: "Acquista Crypto",
+    buy_crypto: "Buy Crypto",
     orders: "Ordini",
     order_history: "Cronologia Ordini",
     track_transfer: "Traccia Trasferimenti",
