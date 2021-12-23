@@ -2412,7 +2412,7 @@ export default {
     low: "Minimo",
     close_zelcore_q: "Esci da zelcore?",
     swipe_for_news: "Scorri per le Notizie",
-    invalid_qr: "Invalid QR code",
+    invalid_qr: "Codice QR non valido",
     scan_zelnodes: "Scansione FluxNodes",
     scan_znodes: "Scansione FiroNodes",
     data_scanned: "Dati scansionati!",
