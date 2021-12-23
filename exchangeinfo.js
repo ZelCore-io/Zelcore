@@ -1,5 +1,123 @@
 // Implemented exchanges information and stracture
 const implementedExchanges = {
+  // Coinbase Implementation
+  coinbasepro: {
+    name: "CoinbasePro",
+    isZelcorePlus: true,
+    apiKeyHelpURL: "https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro",
+    msgName: "coinbasePro",
+    msgDesc: "ex_coinbasePro_text",
+    logolink: "static/logos/Exchanges/CoinbasePro.svg",
+    hasFlux: false,
+    ccxtName: "coinbasepro",
+    ccxtOptions: {
+      // verbose: true,
+      options: {
+        // adjustForTimeDifference: false,
+        fetchTickerMethod: "publicGetProductsIdStats",
+      },
+    },
+    apiData: {
+      key: true,
+      secret: true,
+      password: true,
+      token: false,
+    },
+    // web socket urls
+    klineUri: null, // "wss://ws-feed.exchange.coinbase.com";
+    aggregatedOrdersUrl: "wss://ws-feed.exchange.coinbase.com",
+    tickerUrl: "wss://ws-feed.exchange.coinbase.com",
+    // Bars resolutions
+    barsRes: ["1", "5", "15", "60", "360", "1D"],
+    // OHVL CCXT interval
+    intervalArray: {
+      1: "1m",
+      5: "5m",
+      15: "15m",
+      60: "1h",
+      360: "6h",
+      D: "1d",
+      "1D": "1d",
+    },
+    klineLimit: 2500,
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
+    interval: {
+      1: "1m",
+      5: "5m",
+      15: "15m",
+      60: "1h",
+      360: "6h",
+      D: "1d",
+      "1D": "1d",
+    },
+  },
+  kucoin: {
+    name: "KuCoin",
+    isZelcorePlus: false,
+    apiKeyHelpURL: "https://kucoin.zendesk.com/hc/en-us/articles/360015102174-How-to-Create-an-API",
+    msgName: "kucoin",
+    msgDesc: "ex_kucoin_text",
+    logolink: "static/logos/Exchanges/KuCoin.svg",
+    ccxtName: "kucoin",
+    hasFlux: true,
+    ccxtOptions: {
+      // verbose: true,
+      options: {
+        // adjustForTimeDifference: false,
+      },
+    },
+    apiData: {
+      key: true,
+      secret: true,
+      password: true,
+      token: false,
+    },
+    // web socket urls
+    klineUri: "wss://push1-v2.kucoin.com/endpoint",
+    aggregatedOrdersUrl: "wss://push1-v2.kucoin.com/endpoint",
+    tickerUrl: "wss://push1-v2.kucoin.com/endpoint",
+    // Bars resolutions
+    barsRes: ["1", "3", "5", "15", "30", "60", "120", "240", "360", "480", "720", "1D", "1W"],
+    // OHVL CCXT interval
+    intervalArray: {
+      1: "1m",
+      3: "3m",
+      5: "5m",
+      15: "15m",
+      30: "30m",
+      60: "1h",
+      120: "2h",
+      240: "4h",
+      360: "6h",
+      480: "8h",
+      720: "12h",
+      D: "1d",
+      "1D": "1d",
+      W: "1w",
+      "1W": "1w",
+    },
+    klineLimit: 2500,
+    aggregatedOrdersLimit: 20,
+    // OHVL websocket interval or manual tv update same as interval
+    interval: {
+      1: "1min",
+      3: "3min",
+      5: "5min",
+      15: "15min",
+      30: "30min",
+      60: "1hour",
+      120: "2hour",
+      240: "4hour",
+      360: "6hour",
+      480: "8hour",
+      720: "12hour",
+      D: "1dy",
+      "1D": "1day",
+      W: "1week",
+      "1W": "1week",
+    },
+  },
   ftx: {
     name: "FTX",
     isZelcorePlus: false,
@@ -44,8 +162,8 @@ const implementedExchanges = {
       "1M": "1M",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       // TODO no OHLCV
       1: "1m",
@@ -109,8 +227,8 @@ const implementedExchanges = {
       "1M": "1M",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       // TODO no OHLCV
       1: "1m",
@@ -126,72 +244,6 @@ const implementedExchanges = {
       "2W": "2w",
       M: "1M",
       "1M": "1M",
-    },
-  },
-  kucoin: {
-    name: "KuCoin",
-    isZelcorePlus: false,
-    apiKeyHelpURL: "https://kucoin.zendesk.com/hc/en-us/articles/360015102174-How-to-Create-an-API",
-    msgName: "kucoin",
-    msgDesc: "ex_kucoin_text",
-    logolink: "static/logos/Exchanges/KuCoin.svg",
-    ccxtName: "kucoin",
-    hasFlux: true,
-    ccxtOptions: {
-      // verbose: true,
-      options: {
-        // adjustForTimeDifference: false,
-      },
-    },
-    apiData: {
-      key: true,
-      secret: true,
-      password: true,
-      token: false,
-    },
-    // web socket urls
-    klineUri: "wss://push1-v2.kucoin.com/endpoint",
-    aggregatedOrdersUrl: "wss://push1-v2.kucoin.com/endpoint",
-    tickerUrl: "wss://push1-v2.kucoin.com/endpoint",
-    // Bars resolutions
-    barsRes: ["1", "3", "5", "15", "30", "60", "120", "240", "360", "480", "720", "1D", "1W"],
-    // OHVL CCXT interval
-    intervalArray: {
-      1: "1m",
-      3: "3m",
-      5: "5m",
-      15: "15m",
-      30: "30m",
-      60: "1h",
-      120: "2h",
-      240: "4h",
-      360: "6h",
-      480: "8h",
-      720: "12h",
-      D: "1d",
-      "1D": "1d",
-      W: "1w",
-      "1W": "1w",
-    },
-    klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
-    interval: {
-      1: "1min",
-      3: "3min",
-      5: "5min",
-      15: "15min",
-      30: "30min",
-      60: "1hour",
-      120: "2hour",
-      240: "4hour",
-      360: "6hour",
-      480: "8hour",
-      720: "12hour",
-      D: "1dy",
-      "1D": "1day",
-      W: "1week",
-      "1W": "1week",
     },
   },
   binance: {
@@ -244,8 +296,8 @@ const implementedExchanges = {
       "1M": "1M",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
       3: "3m",
@@ -293,7 +345,7 @@ const implementedExchanges = {
     aggregatedOrdersUrl: "wss://ws.kraken.com",
     tickerUrl: "wss://ws.kraken.com",
     // Bars resolutions
-    barsRes: ["1", "5", "15", "30", "60", "240", "1440", "10080", "21600"],
+    barsRes: ["1", "5", "15", "30", "60", "240", "1D", "1W", "2W"],
     // OHVL CCXT interval
     intervalArray: {
       1: "1m",
@@ -309,8 +361,8 @@ const implementedExchanges = {
       "2W": "2w",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: 1,
       5: 5,
@@ -370,8 +422,8 @@ const implementedExchanges = {
       "1Y": "1y",
     },
     klineLimit: 999,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1min",
       5: "5min",
@@ -429,8 +481,8 @@ const implementedExchanges = {
       "1D": "1d",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
       5: "5m",
@@ -480,7 +532,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 25,
-    // OHVL websocket interval
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
       5: "5m",
@@ -531,8 +583,8 @@ const implementedExchanges = {
       "7D": "7d",
     },
     klineLimit: 999,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
       5: "5m",
@@ -585,8 +637,8 @@ const implementedExchanges = {
       "1D": "1d",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: 1,
       5: 5,
@@ -644,8 +696,8 @@ const implementedExchanges = {
       "1M": "1M",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1",
       5: "5",
@@ -668,56 +720,137 @@ const implementedExchanges = {
 
 // eslint-disable-next-line no-unused-vars
 const expirimentalExchanges = {
-  // Coinbase Implementation
-  coinbasepro: {
-    name: "CoinbasePro",
+  aax: {
+    name: "AAX",
     isZelcorePlus: true,
-    apiKeyHelpURL: "https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro",
-    msgName: "coinbasePro",
-    msgDesc: "ex_coinbasePro_text",
-    logolink: "static/logos/Exchanges/CoinbasePro.svg",
+    apiKeyHelpURL: "https://www.aax.com/apidoc/index.html#api-key",
+    msgName: "aax",
+    msgDesc: "ex_aax_text",
+    logolink: "static/logos/Exchanges/AAX.svg",
+    ccxtName: "aax",
     hasFlux: false,
-    ccxtName: "coinbasepro",
     ccxtOptions: {
       // verbose: true,
       options: {
         // adjustForTimeDifference: false,
-        fetchTickerMethod: "publicGetProductsIdStats",
       },
     },
     apiData: {
       key: true,
       secret: true,
-      password: true,
+      password: false,
       token: false,
     },
     // web socket urls
-    klineUri: null, // "wss://ws-feed.exchange.coinbase.com";
-    aggregatedOrdersUrl: "wss://ws-feed.exchange.coinbase.com",
-    tickerUrl: "wss://ws-feed.exchange.coinbase.com",
+    klineUri: null,
+    aggregatedOrdersUrl: null,
+    tickerUrl: null,
     // Bars resolutions
-    barsRes: ["1", "5", "15", "60", "360", "1D"],
+    barsRes: ["1", "5", "15", "30", "60", "120", "240", "720", "1D", "3D", "1W"],
     // OHVL CCXT interval
     intervalArray: {
       1: "1m",
       5: "5m",
       15: "15m",
+      30: "30m",
       60: "1h",
-      360: "6h",
+      120: "2h",
+      240: "4h",
+      720: "12h",
       D: "1d",
       "1D": "1d",
+      "3D": "3d",
+      W: "1w",
+      "1W": "1w",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
       5: "5m",
       15: "15m",
+      30: "30m",
       60: "1h",
-      360: "6h",
+      120: "2h",
+      240: "4h",
+      720: "12h",
       D: "1d",
       "1D": "1d",
+      "3D": "3d",
+      W: "1w",
+      "1W": "1w",
+    },
+  },
+  bitmart: {
+    name: "BitMart",
+    isZelcorePlus: true,
+    apiKeyHelpURL: "https://developer-pro.bitmart.com/en/part1/question/apikey.html",
+    msgName: "bitmart",
+    msgDesc: "ex_bitmart_text",
+    logolink: "static/logos/Exchanges/Bitmart.svg",
+    ccxtName: "bitmart",
+    hasFlux: false,
+    ccxtOptions: {
+      // verbose: true,
+      options: {
+        // adjustForTimeDifference: false,
+        watchOrderBook: {
+          depth: "depth400",
+        },
+      },
+    },
+    apiData: {
+      key: true,
+      secret: true,
+      password: false,
+      token: false,
+    },
+    // web socket urls
+    klineUri: null,
+    aggregatedOrdersUrl: null,
+    tickerUrl: null,
+    // Bars resolutions
+    barsRes: ["1", "3", "5", "15", "30", "45", "60", "120", "180", "240", "1D", "1W", "1M"],
+    // OHVL CCXT interval
+    intervalArray: {
+      1: "1m",
+      3: "3m",
+      5: "5m",
+      15: "15m",
+      30: "30m",
+      45: "45m",
+      60: "1h",
+      120: "2h",
+      180: "3h",
+      240: "4h",
+      D: "1d",
+      "1D": "1d",
+      W: "1w",
+      "1W": "1w",
+      M: "1M",
+      "1M": "1M",
+    },
+    klineLimit: 2500,
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
+    interval: {
+      1: "1m",
+      3: "3m",
+      5: "5m",
+      15: "15m",
+      30: "30m",
+      45: "45m",
+      60: "1h",
+      120: "2h",
+      180: "3h",
+      240: "4h",
+      D: "1d",
+      "1D": "1d",
+      W: "1w",
+      "1W": "1w",
+      M: "1M",
+      "1M": "1M",
     },
   },
   bitmex: {
@@ -726,7 +859,7 @@ const expirimentalExchanges = {
     apiKeyHelpURL: "https://support.coinigy.com/hc/en-us/articles/360007187634-How-do-I-find-my-API-key-on-Bitmex-com-",
     msgName: "bitmex",
     msgDesc: "ex_bitmex_text",
-    logolink: "test",
+    logolink: "static/logos/Exchanges/Bitmex.svg",
     ccxtName: "bitmex",
     hasFlux: false,
     ccxtOptions: {
@@ -743,7 +876,7 @@ const expirimentalExchanges = {
     },
     // web socket urls
     klineUri: null,
-    aggregatedOrdersUrl: "wss://www.bitmex.com/realtime",
+    aggregatedOrdersUrl: null,
     tickerUrl: null,
     // Bars resolutions
     barsRes: ["1", "5", "60", "1D"],
@@ -756,10 +889,14 @@ const expirimentalExchanges = {
       "1D": "1d",
     },
     klineLimit: 750,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
-
+      1: "1m",
+      5: "5m",
+      60: "1h",
+      D: "1d",
+      "1D": "1d",
     },
   },
   bitforex: {
@@ -807,8 +944,8 @@ const expirimentalExchanges = {
       "1M": "1M",
     },
     klineLimit: 2500,
-    aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1min",
       5: "5min",
@@ -862,8 +999,8 @@ test: {
 
     },
     klineLimit: 2500,
-aggregatedOrdersLimit: 20,
-    // OHVL websocket interval
+    aggregatedOrdersLimit: 50,
+    // OHVL websocket interval or manual tv update same as interval
     interval: {
 
     },

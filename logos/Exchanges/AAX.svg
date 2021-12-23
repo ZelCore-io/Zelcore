@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   sodipodi:docname="AAX.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.9393939"
+     inkscape:cx="232.87113"
+     inkscape:cy="110.73711"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g827" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1"
+       transform="matrix(1.8939394,0,0,1.8939394,484.31347,10.934642)">
+      <g
+         id="Сгруппировать_185907"
+         data-name="Сгруппировать 185907"
+         transform="translate(-15.155412,10.34417)">
+        <g
+           id="Сгруппировать_185900"
+           data-name="Сгруппировать 185900">
+          <g
+             id="Сгруппировать_185881"
+             data-name="Сгруппировать 185881"
+             transform="translate(-240.5621,-16.117661)">
+            <path
+               id="Прямоугольник_193250"
+               data-name="Прямоугольник 193250"
+               d="m 66,0 v 0 a 66,66 0 0 1 66,66 v 0 a 66,66 0 0 1 -66,66 v 0 A 66,66 0 0 1 0,66 v 0 A 66,66 0 0 1 66,0 Z"
+               fill="#0093dd" />
+            <path
+               id="Прямоугольник_193251"
+               data-name="Прямоугольник 193251"
+               d="m 66,10 v 0 a 56,56 0 0 1 56,56 v 0 a 56,56 0 0 1 -56,56 v 0 A 56,56 0 0 1 10,66 v 0 A 56,56 0 0 1 66,10 Z"
+               fill="#1d1d1d" />
+          </g>
+          <g
+             id="kucoin-token-kcs-logo" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g827"
+       transform="translate(22.453607,-166.02062)"
+       style="fill:#0095fb;fill-opacity:1">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.792551"
+         d="m 27.546393,350.58323 c 0,-0.21608 10.107798,-13.26001 22.461774,-28.98649 12.353975,-15.7265 35.178762,-44.78969 50.721743,-64.58487 l 28.25998,-35.99125 h 14.27824 14.27826 v 64.78025 64.78024 l -10.92679,0.21976 -10.92678,0.21975 -0.20471,-49.98994 c -0.17793,-43.44914 -0.35823,-49.98995 -1.37796,-49.98995 -0.64528,0 -18.83905,22.48546 -40.43061,49.96769 L 54.422161,350.97611 H 40.984277 c -7.390836,0 -13.437884,-0.17679 -13.437884,-0.39288 z"
+         id="path829"
+         sodipodi:nodetypes="ssscccccccssscss" />
+    </g>
+  </g>
+</svg>

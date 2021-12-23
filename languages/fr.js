@@ -195,7 +195,7 @@ export default {
     add_to_device: "Ajouter un compte à l'appareil",
     yes_add: "Oui, ajouter à l'appareil",
     account_not_present: "Le compte n'existe pas sur l'appareil",
-    account_not_present_text: "Le compte {account} n'est pas présent sur l'appareil. Voulez-vous ajouter le compte à cet appareil ?",
+    account_not_present_text: "Le compte {account} n'est pas présent sur l'appareil.",
     register_new_user: "Enregistrer un nouveau compte",
     create_new_account: "Création nouveau compte",
     register_account_locally: "Ajouter un compte existant",
