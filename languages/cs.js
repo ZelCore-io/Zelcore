@@ -191,7 +191,7 @@ export default {
     add_to_device: "Přidat účet do zařízení",
     yes_add: "Ano, Přidat účet do zařízení",
     account_not_present: "Účet není na tomto zařízení",
-    account_not_present_text: "Účet {account} ještě není na tomto zařízení. Chtěli byste jej přidat do tohoto zařířezní?",
+    account_not_present_text: "Účet {account} ještě není na tomto zařízení.",
     register_new_user: "Registrovat Nový Účet",
     register_account_locally: "Přidat Stávající Účet",
     register_account: "Registrovat Účet",

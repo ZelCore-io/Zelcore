@@ -179,7 +179,7 @@ export default {
     add_to_device: "Adicionar ao dispositivo",
     yes_add: "Sim, adicionar ao dispositivo",
     account_not_present: "Conta não existe no dispositivo",
-    account_not_present_text: "A conta {account} não se encontra ainda presente neste dispositivo. Gostaria de adicionar esta conta ao dispositivo?",
+    account_not_present_text: "A conta {account} não se encontra ainda presente neste dispositivo.",
     register_new_user: "Registar Nova Conta",
     register_account_locally: "Adicionar Conta Existente",
     register_account: "Registar Conta",
