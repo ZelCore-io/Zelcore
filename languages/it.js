@@ -231,7 +231,8 @@ export default {
     // create.vue
     create_account_info: "Queste credenziali sono usate per registrare in locale i tuoi portafogli lite e la crittografia dei tuoi account",
     create_account_info2: "Sia l'username che la password fanno distinzione tra maiuscole e minuscole. Rendili entrambi sicuri.",
-    create_account_info3: "Le informazioni sul tuo account non vengono mai inviate ad alcun server e rimangono crittate in questo dispositivo. Se vuoi accedere su un altro dispositivo, devi prima registrare il tuo account sul nuovo dispositivo con gli stessi username e password per effettuare l'accesso all'account.",
+    create_account_info3: "Le informazioni sul tuo account non vengono mai inviate ad alcun server e rimangono crittate in questo dispositivo. "
+      + "Se vuoi accedere su un altro dispositivo, devi prima registrare il tuo account sul nuovo dispositivo con gli stessi username e password per effettuare l'accesso all'account.",
     confirm_password: "Conferma Password",
     login_to_account: "Accedi a un'account",
     account_exist: "Esiste già un'account {username} !",
