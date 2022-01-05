@@ -15915,6 +15915,38 @@ const coininfo = {
     auditInfos: [],
     whitepaper: [],
   },
+  saito: {
+    description: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.",
+    total_supply: 3000000000,
+    circulating_supply: 1367693264,
+    websites: [
+      "https://org.saito.tech",
+    ],
+    explorers: [
+      "https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+      "https://ethplorer.io/address/0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+    ],
+    medium: "https://saitoofficial.medium.com",
+    discord: "",
+    telegram: "",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/SaitoOfficial",
+    reddit: "https://www.reddit.com/r/SaitoIO",
+    repository: "https://github.com/SaitoTech",
+    youtube: "https://www.youtube.com/channel/UCRUhZVAUH4JyWUFmxm5P6dQ",
+    instagram: "",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "SAITO",
+    coinMarketCapID: "saito",
+    coingeckoID: "saito",
+    auditInfos: [],
+    whitepaper: [
+      "https://saito.io/saito-whitepaper.pdf",
+    ],
+  },
 };
 
 export default {

@@ -6981,6 +6981,36 @@ const newssources = {
         pic: "static/logos/KURO.svg",
       },
     ],
+    saito: [
+      {
+        name: "Saito Blog",
+        feed: "https://org.saito.tech/blog/feed",
+        site: "https://org.saito.tech/blog",
+        about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.",
+        pic: "static/logos/SAITO.svg",
+      },
+      {
+        name: "Saito Twitter",
+        feed: "https://nitter.zelcore.io/SaitoOfficial/rss",
+        site: "https://twitter.com/SaitoOfficial",
+        about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.",
+        pic: "static/logos/SAITO.svg",
+      },
+      {
+        name: "Saito Reddit",
+        feed: "https://www.reddit.com/r/SaitoIO/.rss",
+        site: "https://www.reddit.com/r/SaitoIO",
+        about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.",
+        pic: "static/logos/SAITO.svg",
+      },
+      {
+        name: "Saito Medium",
+        feed: "https://saitoofficial.medium.com/feed",
+        site: "https://saitoofficial.medium.com",
+        about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers, delivering a permissionless and scalable network capable of powering decentralized versions of Twitter, Facebook and Amazon without the need for predatory monopolies in the network layer.",
+        pic: "static/logos/SAITO.svg",
+      },
+    ],
   },
 };
 

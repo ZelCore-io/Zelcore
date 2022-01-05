@@ -20525,6 +20525,50 @@ const coins = {
     ],
     decimals: 6,
   },
+  saito: {
+    coin: "saito",
+    name: "Saito",
+    uri: [
+      "saito",
+    ],
+    addresses: [],
+    api: [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xfa14fa6958401314851a17d6c5360ca29f74b57b&address=",
+    ],
+    unit: "SAITO",
+    type: "eth",
+    explorer: [
+     "https://etherscan.io/tx/",
+    ],
+    logolink: "static/logos/SAITO.svg",
+    node: [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
+      "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
+      "https://mainnet.infura.io/v3/3258e142b54447a89b8c002ee7465a6d",
+      "https://mainnet.infura.io/v3/7533c3c93ff146b1b791cae8af63c25b",
+      "https://mainnet.infura.io/v3/533a7c4dec96470aa1682fe03f734cc7",
+      "https://mainnet.infura.io/v3/a6a62579e0f94d3e86e77b28e1e0e52d",
+      "https://mainnet.infura.io/v3/21f49e19bcbd40a58782763013eeafa6",
+      "https://mainnet.infura.io/v3/407f253e1be4454e823175e370b765fd",
+      "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
+      "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
+      "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+      "https://ethereumnodelight.app.runonflux.io",
+      "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+    color: "#f71e3d",
+    decimals: 18,
+    backend: [
+      "infura",
+    ],
+  },
 };
 
 module.exports = coins;
