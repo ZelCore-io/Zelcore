@@ -20587,6 +20587,42 @@ const coins = {
     decimals: 12,
     chain: "mainnet01",
   },
+  bscegld: {
+    coin: "bscegld",
+    name: "EGLD BEP20",
+    uri: [
+      "bscegld",
+      "egld",
+    ],
+    addresses: [],
+    api: [
+      "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe&address=",
+    ],
+    unit: "EGLD",
+    type: "bsc",
+    explorer: [
+      "https://bscscan.com/tx/",
+    ],
+    logolink: "static/logos/EGLD.svg",
+    node: [
+      "https://bsc-dataseed1.binance.org",
+      "https://bsc-dataseed1.defibit.io",
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://bsc.getblock.io/mainnet/?api_key=7c1fa2b5-9db1-4477-9320-9ec186ec575a",
+    ],
+    fee: 63000,
+    feepolicy: {
+      economy: 6,
+      normal: 10,
+      fast: 15,
+    },
+    contractAddress: "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    color: "#0d022b",
+    decimals: 18,
+    backend: [
+      "bsc",
+    ],
+  },
 };
 
 module.exports = coins;
