@@ -15946,6 +15946,37 @@ const coininfo = {
     auditInfos: [],
     whitepaper: [],
   },
+xht: {
+    description: "HollaEx Token or XHT is a token issued by HollaEx. XHT powers the white-label exchange software HollaEx Kit. With XHT anyone can create new coins and list tokens on their very own exchange. By donating XHT, new coins and trading pairs can be activated for trading, distribution, and price discovery. XHT can also be staked in a process called collateralization which generates passive income from the trading fees from all participants using the open-source HollaEx Kit crypto exchange software.",
+    total_supply: 200000000,
+    circulating_supply: 200000000,
+    websites: [
+      "https://hollaex.com",
+    ],
+    explorers: [
+      "https://etherscan.io/token/0xD3c625F54dec647DB8780dBBe0E880eF21BA4329",
+      "https://ethplorer.io/address/0xD3c625F54dec647DB8780dBBe0E880eF21BA4329",
+      "https://enjinx.io/eth/token/0xD3c625F54dec647DB8780dBBe0E880eF21BA4329",
+    ],
+    medium: "",
+    discord: "https://discord.gg/2FqvS6TbRm",
+    telegram: "https://t.me/hollaex",
+    bitcointalk: "",
+    facebook: "",
+    twitter: "https://twitter.com/hollaex",
+    reddit: "https://reddit.com/r/hollaex",
+    repository: "https://github.com/bitholla/hollaex-kit",
+    youtube: "https://www.youtube.com/channel/UCobspC2mT1Qwx2k2u5zDZiw",
+    instagram: "https://www.instagram.com/hollaex_official/",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "xht",
+    coinMarketCapID: "hollaex-token",
+    coingeckoID: "hollaex-token",
+    auditInfos: [],
+    whitepaper: "https://whitepaper.hollaex.com/",
+  },
 };
 
 export default {
