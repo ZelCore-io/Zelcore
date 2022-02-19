@@ -1826,6 +1826,20 @@ const newssources = {
         about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
         pic: "static/logos/KDA.svg",
       },
+      {
+        name: "Kadena Medium",
+        feed: "https://medium.com/feed/kadena-io",
+        site: "https://medium.com/kadena-io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
+      {
+        name: "Kadena Reddit",
+        feed: "https://www.reddit.com/r/kadena/.rss",
+        site: "https://www.reddit.com/r/kadena",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
     ],
     netkoin: [
       {
@@ -2695,6 +2709,20 @@ const newssources = {
         name: "Kadena Twitter",
         feed: "https://nitter.zelcore.io/kadena_io/rss",
         site: "https://twitter.com/kadena_io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
+      {
+        name: "Kadena Medium",
+        feed: "https://medium.com/feed/kadena-io",
+        site: "https://medium.com/kadena-io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "static/logos/KDA.svg",
+      },
+      {
+        name: "Kadena Reddit",
+        feed: "https://www.reddit.com/r/kadena/.rss",
+        site: "https://www.reddit.com/r/kadena",
         about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
         pic: "static/logos/KDA.svg",
       },
@@ -6979,6 +7007,22 @@ const newssources = {
         site: "https://kurobi.medium.com",
         about: undefined,
         pic: "static/logos/KURO.svg",
+      },
+    ],
+    babena: [
+      {
+        name: "Babena Twitter",
+        feed: "https://nitter.zelcore.io/BabenaFinance/rss",
+        site: "https://twitter.com/BabenaFinance",
+        about: "Babena is a new token on the Kadena network. We took a CEFI concept and turned it into DEFI.",
+        pic: "static/logos/BABENA.svg",
+      },
+      {
+        name: "Babena Medium",
+        feed: "https://thanos-42.medium.com/feed",
+        site: "https://thanos-42.medium.com",
+        about: "Babena is a new token on the Kadena network. We took a CEFI concept and turned it into DEFI.",
+        pic: "static/logos/BABENA.svg",
       },
     ],
     saito: [
