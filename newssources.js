@@ -7055,6 +7055,29 @@ const newssources = {
         pic: "static/logos/SAITO.svg",
       },
     ],
+    bscegld: [
+      {
+        name: "ElrondNetwork Twitter",
+        feed: "https://nitter.zelcore.io/elrondnetwork/rss",
+        site: "https://twitter.com/elrondnetwork",
+        about: "Elrond is the internet-scale blockchain, designed from scratch that introduces two key innovations: a novel Adaptive State Sharding mechanism, and a Secure Proof of Stake algorithm, this way being able to process upwards of 15,000 transactions per second, with 6-second latency, and negligible cost.",
+        pic: "static/logos/EGLD.svg",
+      },
+      {
+        name: "ElrondNetwork Reddit",
+        feed: "https://www.reddit.com/r/elrondnetwork/.rss",
+        site: "https://www.reddit.com/r/elrondnetwork",
+        about: "Elrond is the internet-scale blockchain, designed from scratch that introduces two key innovations: a novel Adaptive State Sharding mechanism, and a Secure Proof of Stake algorithm, this way being able to process upwards of 15,000 transactions per second, with 6-second latency, and negligible cost.",
+        pic: "static/logos/EGLD.svg",
+      },
+      {
+        name: "PancakeSwap Medium",
+        feed: "https://medium.com/feed/@elrondnetwork",
+        site: "https://medium.com/elrondnetwork/",
+        about: "Elrond is the internet-scale blockchain, designed from scratch that introduces two key innovations: a novel Adaptive State Sharding mechanism, and a Secure Proof of Stake algorithm, this way being able to process upwards of 15,000 transactions per second, with 6-second latency, and negligible cost.",
+        pic: "static/logos/EGLD.svg",
+      },
+    ],
   },
 };
 
