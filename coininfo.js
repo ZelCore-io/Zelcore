@@ -15978,6 +15978,40 @@ const coininfo = {
       "https://saito.io/saito-whitepaper.pdf",
     ],
   },
+  bscegld: {
+    description: "Elrond is a distributed transactional computation protocol which relies on a sharded state architecture and a secure Proof of Stake consensus mechanism. While most other blockchain networks require custom hardware and high energy consumption, Elrond runs on average computers. By employing sharding, a method of parallelizing data & transactions processing, Elrond’s performance will scale up with the number of computers joining the network, reaching more than 100.000 transactions per second while growing increasingly decentralized.",
+    total_supply: 600000,
+    circulating_supply: 599830.679052,
+    websites: [
+      "https://elrond.com/",
+    ],
+    explorers: [
+      "https://bscscan.com/token/0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    ],
+    medium: "https://medium.com/elrondnetwork/",
+    discord: "",
+    telegram: "https://t.me/ElrondNetwork",
+    bitcointalk: "",
+    facebook: "https://www.facebook.com/ElrondNetwork/",
+    twitter: "https://twitter.com/elrondnetwork",
+    reddit: "https://www.reddit.com/r/elrondnetwork/",
+    repository: "https://github.com/ElrondNetwork",
+    youtube: "https://www.youtube.com/c/ElrondNetwork",
+    instagram: "https://www.instagram.com/elrondnetwork/",
+    tiktok: "",
+    twitch: "",
+    linkedin: "https://www.linkedin.com/company/elrondnetwork",
+    cryptoCompareID: "EGLD",
+    coinMarketCapID: "elrond-egld",
+    coingeckoID: "elrond-erd-2",
+    auditInfos: [
+      {
+        auditor: "TrailOfBits",
+        reportUrl: "https://github.com/trailofbits/publications",
+      },
+    ],
+    whitepaper: ["https://elrond.com/assets/files/elrond-whitepaper.pdf"],
+  },
 };
 
 export default {
