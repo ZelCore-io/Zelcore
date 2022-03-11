@@ -38,15 +38,30 @@ This file consist of an object of coin objects. This is a definition of a coin a
       addresses: [],
       api: [
         "https://api.omniexplorer.info",
+        "https://api.omniwallet.org",
+        "https://omni.guarda.co",
+        "https://api.usdtexplorer.com",
+      ],
+      blockbook: [
+        "https://blockbook.btc.zelcore.io/api/",
+        "https://btc4.trezor.io/api/",
+        "https://btc3.trezor.io/api/",
+        "https://btc2.trezor.io/api/",
+        "https://btc1.trezor.io/api/",
       ],
       unit:  "USDT",
       type:  "omni",
       explorer: [
         "https://omniexplorer.info/tx/",
+        "https://omniwallet.org/tx/",
+        "https://omniexplorer.info/tx/",
       ],
-      logolink:  "static/logos/USDT_Omni.svg",
+      logolink: "static/logos/USDT_Omni.svg",
       node: [
-        "omniexplorer.info",
+        "https://api.usdtexplorer.com",
+        "https://api.omniexplorer.info",
+        "https://api.omniwallet.org",
+        "https://omni.guarda.co",
       ],
       fee:  0.0000226,
       feepolicy: {

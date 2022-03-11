@@ -240,14 +240,15 @@ export default {
     // create.vue
     create_account_info: "Te poświadczenia służą do generowania portfeli i szyfrowania konta.",
     create_account_info2: "Zarówno nazwa użytkownika, jak i hasło są wrażliwe na wielkość liter. Skorzystaj z tego aby dane były silnie chronione i wyjątkowe.",
-    create_account_info3: "Informacje o Twoim koncie nigdy nie są wysyłane na żaden serwer, pozostają zaszyfrowane na tym urządzeniu. Jeśli będziesz chciał się później zalogować na innym urządzeniu, pierw należy zarejstrować konto na kolejnym urządzeniu, używając tego samego hasła i nazwy użytkownika aby otrzymać dostęp do tego konta.",
+    create_account_info3: "Informacje o Twoim koncie nigdy nie są wysyłane na żaden serwer, pozostają zaszyfrowane na tym urządzeniu. "
+      + "Jeśli będziesz chciał się później zalogować na innym urządzeniu, pierw należy zarejstrować konto na kolejnym urządzeniu, używając tego samego hasła i nazwy użytkownika aby otrzymać dostęp do tego konta.",
     confirm_password: "Potwierdź hasło",
     login_to_account: "Zaloguj się do konta",
     account_exist: "Konto {username} już istnieje",
     account_registered: "Zarejestrowano konto {username}",
     account_added: "Konto {username} Dodano do urządzenia",
     create_recover_password_mechanism: "Utwórz mechanizm odzyskiwania hasła",
-    create_recover_password_mechanism_help: "Mechanizm odzyskiwania hasła powiązany z kontem będzie przechowywany zaszyfrowany lokalnie na tym urządzeniu. Może to być pomocne w przypadku zapomnienia hasła.",
+    create_recover_password_mechanism_help: "Mechanizm odzyskiwania hasła powiązany z kontem będzie przechowywany zaszyfrowany lokalnie na tym urządzeniu. Może to być pomocne w przypadku zapomnienia hasła. "
       + "Może być to pomocne w sytuacji gdy zapomnisz hasła.",
     create_recover_password1: "Tutaj możesz ustawić mechanizm odzyskiwania hasła. Będziesz musiał wybrać co najmniej 3 pytania, aby utworzyć konfigurację odzyskiwania i kontynuować tworzenie konta. Użyj jak najwięcej pytań.",
     create_recover_password2: "Pamiętaj, że jeśli ktoś, kto zna cię dobrze uzyska dostęp do urządzenia, znając odpowiedzi na łatwiejsze pytania.",
@@ -286,7 +287,9 @@ export default {
     no_keep_copy: "Zelcore nie utrzymuje kopii samodzielnego hasła lokalnie lub zdalnie. Ze względu na tę funkcję nie ma możliwości odzyskania hasła lub zmiany go."
       + "Jeśli stracisz(lub zapomnisz) nazwę użytkownika lub hasło, stracisz dostęp do portfela na stałe.Dlatego bardzo ważne i konieczne jest, aby zachować kopię swoich informacji gdzieś bezpiecznie.",
     software_as_is: "Oprogramowanie jest dostarczane -jak jest-, bez żadnych gwarancji, wyraźnej ani domniemanej, w tym gwarancji zdatności handlowej i przydatności do użycia, i nie należy na "
-      + "ich podstawie domniemywać ochrony z tytułu jakiekolwiek prawa lub patentu, ale nie ograniczając się, do gwarancji własności i domniemanej gwarancji zgodności z przeznaczeniem i przydatności do określonego celu. W żadnym wypadku autorzy lub posiadacze praw autorskich nie mogą być odpowiedzialni za jakiekolwiek roszczenia, szkody lub inne zobowiązania, bez względu na to, czy podstawą roszczenia są warunki umowy, zaniedbanie lub odpowiedzialność deliktowa, powstała w wyniku użytkowania tego oprogramowania lub w związku z jego działaniem.",
+      + "ich podstawie domniemywać ochrony z tytułu jakiekolwiek prawa lub patentu, ale nie ograniczając się, do gwarancji własności i domniemanej gwarancji zgodności z przeznaczeniem i przydatności do określonego celu. "
+      + "W żadnym wypadku autorzy lub posiadacze praw autorskich nie mogą być odpowiedzialni za jakiekolwiek roszczenia, szkody lub inne zobowiązania, bez względu na to, czy podstawą roszczenia są warunki umowy, "
+      + "zaniedbanie lub odpowiedzialność deliktowa, powstała w wyniku użytkowania tego oprogramowania lub w związku z jego działaniem.",
     backup_backup_backup: "Upewnij się, że tworzysz kopię zapasową i kopie kopii!",
     im_aware_register: "Jestem świadomy, zarejestruj się",
     account_backup: "Tak, mam kopie zapasową zarówno nazwy użytkownika jak i hasła.",
@@ -675,12 +678,12 @@ export default {
     collateral: "Zabezpieczenie",
     output_txid: "Zabezpieczony Identyfikator TX",
     output_index: "Indeks wyjściowy",
-    delete_zelnode_info: "Zamierzasz usunąć FluxNode {zelnodeAlias} z pliku konfiguracyjnego. Twój pełny węzeł uruchomi się ponownie, aby zastosować zmiany i odblokować kwotę FluxNode.",
+    delete_zelnode_info: "Zamierzasz usunąć FluxNode {zelnodeAlias} z pliku konfiguracyjnego. Twój pełny węzeł uruchomi się ponownie, aby zastosować zmiany i odblokować kwotę FluxNode. "
       + "Twój Pełny Węzeł zrestartuje się aby zastosować zmiany i zwolnić zablokowaną przez FluxNode kwotę.",
     yes_delete_zelnode: "Tak, usuń FluxNode",
     delete_zelnode: "Usuń FluxNode",
     edit_zelnode: "Edytuj FluxNode",
-    edit_zelnode_info: "Edycja pliku konfiguracyjnego FluxNode dla {zelnodeAlias}. Twój portfel Pełnego Węzła zostanie ponownie uruchomiony, aby zastosować tę zmianę.",
+    edit_zelnode_info: "Edycja pliku konfiguracyjnego FluxNode dla {zelnodeAlias}. Twój portfel Pełnego Węzła zostanie ponownie uruchomiony, aby zastosować tę zmianę. "
       + "Twój Pełny Węzeł zrestartuje się aby zastosować tą zmianę.",
     configuration_saved: "Zapisano konfiguracje",
     selected: "Wybrany",
@@ -862,7 +865,8 @@ export default {
     enter_zelnode_pk: "Wpisz klucz prywatny FluxNode",
     enter_zelnode_addr: "Wpisz adres FluxNode",
     automatic_log_out: "Automatyczne wyloguj się",
-    auto_log_out_info_full_node: "Świetnie! Spójrz na swoje automatyczne ustawienia wylogowania. Operacje w Pełnym Węźle trwają trochę czasu, zwłaszcza gdy potrzebny jest przeindeksowanie. Podczas prowadzenia tych operacji zalecamy ustawienie dłużego czasu automatycznego wylogowania lub wyłączenie go, przesuwając suwak."
+    auto_log_out_info_full_node: "Świetnie! Spójrz na swoje automatyczne ustawienia wylogowania. Operacje w Pełnym Węźle trwają trochę czasu, zwłaszcza gdy potrzebny jest przeindeksowanie. "
+      + "Podczas prowadzenia tych operacji zalecamy ustawienie dłużego czasu automatycznego wylogowania lub wyłączenie go, przesuwając suwak.",
     next_step: "Następny krok",
     configuration_done_reindex1: "Zmodyfikowałeś plik konfiguracyjny. Przeindeksowanie twojego blockchaina jest wymagane, aby skonfigurować FluxNode.",
     configuration_done_reindex2: "Możesz ponownie sprawdzić zmodyfikowaną konfigurację poniżej. Kontynuuj, aby zainicjować przeindeksowywanie. Przeindeksowanie zajmie kilka godzin.",
@@ -878,14 +882,14 @@ export default {
     nimbuss: "Nimbusy",
     stratuss: "Stratusy",
     cumulus_spec: "Wymagania FluxNode Cumulus:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Serwer: 2VCORE | 4GB RAM | 50GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Serwer: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: "Wymagania FluxNode Nimbus:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Serwer: 4VCore | 8GB RAM | 150GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Serwer: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: "Wymagania FluxNode Stratus:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Serwer: 8VCORE | 32GB RAM | 600GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Serwer: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Wpisz IP:port serwera FluxNode",
     i_do_not_server: "Nie mam serwera",
     want_a_server: "Współpracujemy z dostawcami, takimi jak DigitalOcean i Amazon Web Services, aby zaoferować łatwy sposób na skonfigurowanie FluxNode'ów.",
@@ -1156,7 +1160,8 @@ export default {
     ex_serum_dex_text: "Serum jest zdecentralizowaną giełdą (DEX) i ekosystemem, który przynosi bezprecedensową prędkość i niskie koszty transakcji do DeFi. Jest zbudowany w oparciu o Solanę jako -permissionless-. Twoje fundusze są zawsze pod Twoją kontrolą.",
     ex_binance_dex_text: "Dwułańcuchowa architektura Binance i Binance Smart umożliwia Ci zbudowanie własnych zdecentralizowanych aplikacji, przy jednoczesnym wykorzystaniu szybkiej wydajności handlowej oferowanej na giełdzie zdecentralizowanej Binance.",
     ex_ftx_text: "FTX to giełda kryptowalutowa zbudowana przez traderów, dla traderów. FTX oferuje innowacyjne produkty, w tym pierwsze instrumenty pochodne, opcje, produkty zmienne i tokeny dźwigniowe.",
-    ex_stex_text: "Uruchomiona we wrześniu 2017 r. giełda STEX jest scentralizowaną, licencjonowaną giełdą zlokalizowaną w Tallinie, Estonii. Posiada 3 typy weryfikacji, które umożliwiają użytkownikom zmniejszenie opłat handlowych o 0,1%. Obsługuje handel Crypto-to-Crypto i Fiat-To-Crypto bez ograniczeń wybrania.",
+    ex_stex_text: "Uruchomiona we wrześniu 2017 r. giełda STEX jest scentralizowaną, licencjonowaną giełdą zlokalizowaną w Tallinie, Estonii. "
+      + "Posiada 3 typy weryfikacji, które umożliwiają użytkownikom zmniejszenie opłat handlowych o 0,1%. Obsługuje handel Crypto-to-Crypto i Fiat-To-Crypto bez ograniczeń wybrania.",
     ex_gemini_text: "Gemini to prosta, elegancka i bezpieczna platforma do zbudowania Twojego portfolio Crypto. Gemini jest licencjonowaną przez New York Trust firmą, która przechodzi regularne badania bankowe i podlega kontroli cyberbezpieczeństwa prowadzonej przez Departament Nowego Jorku.",
     ex_kucoin_text: "Giełda KuCoin została otwarta do obrotu kryptowalutami we wrześniu 2017 r. Jest zlokalizowana na Seszelach. Szybko stało się jedną z najbardziej renomowanych giełd w branży oferując niezawodną usługę na całym świecie.",
     ex_huobi_text: "Huobi to giełda kryptowalutowa zlokalizowana na Seszelach i jest jedną z największych wymian kryptowalutowych skierowanych do azjatyckich klientów, działając w przestrzeni od 2013 roku.",
@@ -1642,7 +1647,8 @@ export default {
     post_only_text: "Zlecenia -post only- nie zostanie natychmiast wykonane na rynku. Użyj go, aby uzyskać prowizje Maker. Jeśli miałaby wykonać się przedzłożonymi wczesniej zleceniami, anuluje się.",
     reduce_only_text: "Zlecenia -reduce only- tylko zmniejszaja aktulane otwarte pozycje, nigdy nie zwiększają ich. Jeśli to zlecenie zwiększy twoje pozycje, zostanie zmienione lub anulowane.",
     position_closed_successfully: "Pozycja zamknięta pomyślnie",
-    exchange_time_in_force_label: "Czas obowiązujący na to zamówienie. Jeśli zlecenie jest ustawione na -Time in Force-, dowolna niezrealizowana część zlecenia natychmiast po umieszczeniu zostanie anulowana. Jeśli zostanie ustawione -Fill or Kill-, zlecenie będzie wykonane tylko wtedy, gdy jego pełna ilość może być natychmiast wypełniona.",
+    exchange_time_in_force_label: "Czas obowiązujący na to zamówienie. Jeśli zlecenie jest ustawione na -Time in Force-, dowolna niezrealizowana część zlecenia natychmiast po umieszczeniu zostanie anulowana. "
+      + "Jeśli zostanie ustawione -Fill or Kill-, zlecenie będzie wykonane tylko wtedy, gdy jego pełna ilość może być natychmiast wypełniona.",
     exchange_my_open_orders: "Moje otwarte zamówienia",
     exchange_my_closed_orders: "Moje zamknięte zamówienia",
     exchange_invalid_data: "Nieprawidłowe dane",
@@ -2076,7 +2082,8 @@ export default {
     maximum_spendable_amount: "Maksymalna kwota do wydania:",
     address_spendable_amount: "Adres kwoty do wydania:",
     send_remaining_balance_back_to_source: "Wyślij pozostałe saldo z powrotem do adresu źródłowego",
-    send_remaining_balance_back_to_source_warning: "Transakcja wykorzysta wszystkie niewykorzystane wyjścia, które mogą spowodować większy rozmiar transakcji, wyższe opłaty lub nawet jej odrzuconie. Wyłączenie tej opcji wyśle ​​pozostałą reszte kwoty do adresu zmiany (standardowe zachowanie Pełnego Węzła).",
+    send_remaining_balance_back_to_source_warning: "Transakcja wykorzysta wszystkie niewykorzystane wyjścia, które mogą spowodować większy rozmiar transakcji, wyższe opłaty lub nawet jej odrzuconie. "
+      + "Wyłączenie tej opcji wyśle ​​pozostałą reszte kwoty do adresu zmiany (standardowe zachowanie Pełnego Węzła).",
     no_private_address: "Brak obecnego prywatnego adresu w portfelu",
     no_memo_attached: "Nie ma załączonej notatki",
     no_acc_or_wallet: "W Zelcore obecnie brak aktywnego portfela lub konta",
@@ -2132,7 +2139,8 @@ export default {
     crux_error_putaddressmap: "Błąd aktualizacji mapowania publicznie zarejestrowanego adresu",
     crux_error_updatepassword: "Błąd aktualizacji hasła identyfikatora Crux",
     crux_input_cruxid: "Wprowadź żądany identyfikator Crux",
-    crux_register_info: "Rejestruje Twój identyfikator Crux i wiąże go z wybranym portfelem Zelcore. Po zakończeniu rejestracji można zarządzać swoim kontem identyfikatora Crux bezpośrednio z Zelcore. Należy pamiętać o tym, że wszystkie wybrane adresy zostaną upublicznione. Rejestrowanie identyfikatora Crux może potrwać kilka godzin.",
+    crux_register_info: "Rejestruje Twój identyfikator Crux i wiąże go z wybranym portfelem Zelcore. Po zakończeniu rejestracji można zarządzać swoim kontem identyfikatora Crux bezpośrednio z Zelcore. "
+      + "Należy pamiętać o tym, że wszystkie wybrane adresy zostaną upublicznione. Rejestrowanie identyfikatora Crux może potrwać kilka godzin.",
     crux_cruxidnotavailable: "Przepraszamy, żądany identyfikator Crux nie jest już dostępny",
     crux_available: "Identyfikator Crux {CRUXID} jest dostępny",
     crux_notavailable: "Identyfikator Crux {CRUXID} nie jest dostępny",
@@ -2184,7 +2192,8 @@ export default {
     start_fluxnode_info2: "Jak sprawdzić, czy mój FluxNode działa prawidłowo przed uruchomieniem?",
     start_fluxnode_info3: "Naciśnij przycisk FluxOS, otworzy on FluxOS w przeglądarce. Kontynuuj, naciskając po lewej stronie menu Benchmark -> FluxNode -> Uzyskaj benchmarki. Jeśli status jest wyświetlany jako poziom FluxNode, możesz go uruchomić. "
       + "Jeśli status jest -pracuje-, poczekaj chwilę i odśwież go, aż benchmark zakończy sie. Jeśli status to -niepowodzenie- lub FluxOS nie ładuje się w przeglądarce, nie uruchamiaj FluxNode, wejdź na nasz serwer Discord (https://discord.io/runonflux) i poproś o pomoc na kanałach wsparcia.",
-    start_fluxnode_info4: "Transakcja uruchomienia FluxNode {fluxnodealias} została wysłana pomyślnie. Po wykopaniu 1 bloku status FluxNode zmieni się na -wystartowano-, po wykopaniu kolejnych 1-10 bloków (2 do 20 minut), zmieni się na -potwierdzony-. Status -potwierdzony- jest prawidłowym końcowym statusem.",
+    start_fluxnode_info4: "Transakcja uruchomienia FluxNode {fluxnodealias} została wysłana pomyślnie. Po wykopaniu 1 bloku status FluxNode zmieni się na -wystartowano-, po wykopaniu kolejnych 1-10 bloków (2 do 20 minut), zmieni się na -potwierdzony-. "
+      + "Status -potwierdzony- jest prawidłowym końcowym statusem.",
     start_fluxnode_info5: "Możesz sprawdzić FluxOS, odświeżając stronę główną, jeśli węzeł ma status -potwierdzony-, wyświetli się na stronie -Flux działa prawidłowo- lub możesz pozostać na stronie bez odświeżania, Zelcore sprawdza aktualizację statusu co minutę.",
     how_it_works_fluxnodes_light: "Jak to działa?",
     welcome_fluxnode_management: "Witamy w zarządzaniu FluxNode",
@@ -2202,7 +2211,8 @@ export default {
     fluxnode_management_note_11: "Czy można to zrobić również na innym urządzeniu?",
     fluxnode_management_note_12: "Tak, działa na każdej wersji Zelcore - PC oraz mobilnej. Otwórz aplikację FluxNode po zalogowaniu się na innym urządzeniu, a dane FluxNodes zostaną zsynchronizowane, tylko alias nowych węzłów będzie trzeba dopisać manualnie.",
     fluxnode_management_note_13: "Czy otrzymam powiadomienia z moich FluxNode'ów, jeśli będą offline?",
-    fluxnode_management_note_14: "Tak, ale działa to tylko dla FluxNode'ów do których umieściłeś alias. Nie zapomnij ustawić aliasu FluxNode na nowych urządzeniach. Ponadto włącz powiadomienia o offline, wtedy nawet jeśli wylogujesz się z konta, otrzymasz powiadomienie, jeśli jedna z Twoich FluxNode'ów jest offline.",
+    fluxnode_management_note_14: "Tak, ale działa to tylko dla FluxNode'ów do których umieściłeś alias. Nie zapomnij ustawić aliasu FluxNode na nowych urządzeniach. "
+      + "Ponadto włącz powiadomienia o offline, wtedy nawet jeśli wylogujesz się z konta, otrzymasz powiadomienie, jeśli jedna z Twoich FluxNode'ów jest offline.",
     fluxnode_management_note_15: "Dlaczego nie widzę opcji start FluxNode'a?",
     fluxnode_management_note_16: "Opcja start FluxNode'a pojawi się tylko po tym jak transakcja przesłania zabezpieczenia osiągnie 100 potwierdzeń.",
     fluxnode_management_note_17: "Czy mogę monitorować inne FluxNode'y?",

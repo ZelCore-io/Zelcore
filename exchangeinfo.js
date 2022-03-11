@@ -188,11 +188,11 @@ const implementedExchanges = {
     msgName: "ftx_us",
     msgDesc: "ex_ftx_text",
     logolink: "static/logos/Exchanges/FTXUS.svg",
-    ccxtName: "ftx",
+    ccxtName: "ftxus",
     hasFlux: false,
     ccxtOptions: {
-      hostname: "ftx.us",
-      name: "FTXUS",
+      // hostname: "ftx.us",
+      // name: "FTXUS",
       // verbose: true,
       options: {
         // adjustForTimeDifference: false,
@@ -402,6 +402,9 @@ const implementedExchanges = {
     hasFlux: false,
     ccxtOptions: {
       // verbose: true,
+      has: {
+        fetchTickers: false, // fetchtickers method broken in ccxt
+      },
       options: {
         // adjustForTimeDifference: false,
       },
