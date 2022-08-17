@@ -22279,6 +22279,56 @@ const coins = {
       "avalanchec",
     ],
   },
+  vkax: {
+    coin: "vkax",
+    name: "Vkax",
+    uri: [
+      "vkax",
+    ],
+    pubKeyHash: "4C",
+    scriptHash: "10",
+    messagePrefix: "\u0019DarkCoin Signed Message:\n",
+    wif: "CC",
+    normalAddress: "X",
+    normalAddressB: "X",
+    scriptAddress: "7",
+    scriptAddressB: "7",
+    slip: 960,
+    addresses: [],
+    api: [
+      "https://insight.vkax.xyz/insight-api/",
+      "https://explorer.vkax.xyz/api/",
+
+    ],
+    pathlinux: "vkaxcore",
+    pathmac: "VkaxCore",
+    path: "VkaxCore",
+    unit: "VKAX",
+    config: "vkax",
+    rpcport: 11111,
+    testnetrpcport: 22222,
+    type: "btc",
+    explorer: [
+      "https://explorer.vkax.xyz/tx/",
+      "https://insight.vkax.xyz/insight/tx/",
+    ],
+    logolink: "static/logos/VKAX.svg",
+    node: [
+      "insight.vkax.xyz",
+      "explorer.vkax.xyz",
+    ],
+    fee: 0.00001,
+    feepolicy: {
+      economy: 3,
+      normal: 5,
+      fast: 10,
+    },
+    color: "#0296f0",
+    backend: [
+      "insight",
+    ],
+  },
+
 };
 
 module.exports = coins;

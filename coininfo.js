@@ -17330,6 +17330,37 @@ const coininfo = {
       "https://docs.benqi.fi",
     ],
   },
+  vkax: {
+    description: "Vkax is a decentralized project that is created to bridge the gap that other crypto have closed. It is born out of the need to create easy mining algorithm that are user friendly and devoid of asic mining. \n\nIts a digital experimental currency that uses fast, private payments to anyone at any time of the day with no limitations. \n\nVkax uses peer-to-peer technology to operate with no central authority like dash etc: managing transactions and issuing money are carried out collectively by the network.",
+    total_supply: 21000000000,
+    circulating_supply: 234815000,
+    websites: [
+      "https://www.vkax.xyz",
+    ],
+    explorers: [
+      "https://explorer.vkax.xyz",
+    ],
+    medium: "",
+    discord: "https://discord.gg/WdY9pVGJZB",
+    telegram: "https://t.me/vkaxtechnology",
+    bitcointalk: "https://bitcointalk.org/index.php?topic=5405550.0",
+    facebook: "https://www.facebook.com/vkaxproject",
+    twitter: "https://twitter.com/vkaxproject",
+    reddit: "https://reddit.com/r/vkaxproject",
+    repository: "https://github.com/vkaxproject/vkax",
+    youtube: "",
+    instagram: "",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "",
+    coinMarketCapID: "",
+    coingeckoID: "",
+    auditInfos: [],
+    whitepaper: [
+      "https://www.vkax.xyz/whitepaper.html",
+    ],
+  },
 };
 
 export default {

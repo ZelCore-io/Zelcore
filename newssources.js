@@ -7763,6 +7763,15 @@ const newssources = {
         pic: "static/logos/QI.svg",
       },
     ],
+    vkax: [
+      {
+        name: "Vkax Blog",
+        feed: "https://medium.com/feed/vkaxproject",
+        site: "https://medium.com/vkaxproject",
+        about: "Powering Next generation crypto",
+        pic: "static/logos/VKAX.svg",
+      },
+    ],
     yusd: [
       {
         name: "Yeti USD Medium",
