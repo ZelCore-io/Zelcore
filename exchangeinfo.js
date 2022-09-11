@@ -7,7 +7,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://help.coinbase.com/en/pro/other-topics/api/how-do-i-create-an-api-key-for-coinbase-pro",
     msgName: "coinbasePro",
     msgDesc: "ex_coinbasePro_text",
-    logolink: "static/logos/Exchanges/CoinbasePro.svg",
+    logolink: "@/assets/logos/Exchanges/CoinbasePro.svg",
     hasFlux: false,
     ccxtName: "coinbasepro",
     ccxtOptions: {
@@ -58,7 +58,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://kucoin.zendesk.com/hc/en-us/articles/360015102174-How-to-Create-an-API",
     msgName: "kucoin",
     msgDesc: "ex_kucoin_text",
-    logolink: "static/logos/Exchanges/KuCoin.svg",
+    logolink: "@/assets/logos/Exchanges/KuCoin.svg",
     ccxtName: "kucoin",
     hasFlux: true,
     ccxtOptions: {
@@ -124,7 +124,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
     msgName: "ftx",
     msgDesc: "ex_ftx_text",
-    logolink: "static/logos/Exchanges/FTX.svg",
+    logolink: "@/assets/logos/Exchanges/FTX.svg",
     ccxtName: "ftx",
     hasFlux: false,
     ccxtOptions: {
@@ -187,7 +187,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
     msgName: "ftx_us",
     msgDesc: "ex_ftx_text",
-    logolink: "static/logos/Exchanges/FTXUS.svg",
+    logolink: "@/assets/logos/Exchanges/FTXUS.svg",
     ccxtName: "ftxus",
     hasFlux: false,
     ccxtOptions: {
@@ -252,7 +252,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://www.binance.com/en/support/faq/360002502072",
     msgName: "binance",
     msgDesc: "ex_binance_text",
-    logolink: "static/logos/Exchanges/Binance.svg",
+    logolink: "@/assets/logos/Exchanges/Binance.svg",
     ccxtName: "binance",
     hasFlux: true,
     ccxtOptions: {
@@ -325,7 +325,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://www.binance.com/en/support/faq/360002502072",
     msgName: "binanceus",
     msgDesc: "ex_binanceus_text",
-    logolink: "static/logos/Exchanges/BinanceUS.svg",
+    logolink: "@/assets/logos/Exchanges/BinanceUS.svg",
     ccxtName: "binanceus",
     hasFlux: false,
     ccxtOptions: {
@@ -397,7 +397,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://support.kraken.com/hc/en-us/articles/360000919966-How-to-generate-an-API-key-pair-",
     msgName: "kraken",
     msgDesc: "ex_kraken_text",
-    logolink: "static/logos/Exchanges/Kraken.svg",
+    logolink: "@/assets/logos/Exchanges/Kraken.svg",
     ccxtName: "kraken",
     hasFlux: false,
     ccxtOptions: {
@@ -458,7 +458,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://huobiapi.github.io/docs/spot/v1/en/#preparation",
     msgName: "huobi",
     msgDesc: "ex_huobi_text",
-    logolink: "static/logos/Exchanges/Huobi.svg",
+    logolink: "@/assets/logos/Exchanges/Huobi.svg",
     ccxtName: "huobi",
     hasFlux: false,
     ccxtOptions: {
@@ -522,7 +522,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://support.gemini.com/hc/en-us/articles/360031080191-How-do-I-create-an-API-key-",
     msgName: "gemini",
     msgDesc: "ex_gemini_text",
-    logolink: "static/logos/Exchanges/Gemini.svg",
+    logolink: "@/assets/logos/Exchanges/Gemini.svg",
     hasFlux: false,
     ccxtName: "gemini",
     ccxtOptions: {
@@ -575,7 +575,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://bittrex.zendesk.com/hc/en-us/articles/360031921872-How-to-create-an-API-key-",
     msgName: "bittrex",
     msgDesc: "ex_bittrex_text",
-    logolink: "static/logos/Exchanges/Bittrex.svg",
+    logolink: "@/assets/logos/Exchanges/Bittrex.svg",
     ccxtName: "bittrex",
     hasFlux: false,
     ccxtOptions: {
@@ -623,7 +623,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://support.gate.io/hc/en-us/articles/900000114363-What-are-APIKey-and-APIV4keys-for-",
     msgName: "gateio",
     msgDesc: "ex_gateio_text",
-    logolink: "static/logos/Exchanges/Gateio.svg",
+    logolink: "@/assets/logos/Exchanges/Gateio.svg",
     ccxtName: "gateio",
     hasFlux: true,
     ccxtOptions: {
@@ -679,7 +679,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://help.stex.com/en/articles/3417182-server-to-server-integration",
     msgName: "stex",
     msgDesc: "ex_stex_text",
-    logolink: "static/logos/Exchanges/Stex.svg",
+    logolink: "@/assets/logos/Exchanges/Stex.svg",
     ccxtName: "stex",
     hasFlux: false,
     ccxtOptions: {
@@ -731,7 +731,7 @@ const implementedExchanges = {
     apiKeyHelpURL: "https://ascendex.com/en/help-center/articles/4405542558099",
     msgName: "ascendex",
     msgDesc: "ex_ascendex_text",
-    logolink: "static/logos/Exchanges/AscendEX.svg",
+    logolink: "@/assets/logos/Exchanges/AscendEX.svg",
     ccxtName: "ascendex",
     hasFlux: false,
     ccxtOptions: {
@@ -801,7 +801,7 @@ const expirimentalExchanges = {
     apiKeyHelpURL: "https://www.aax.com/apidoc/index.html#api-key",
     msgName: "aax",
     msgDesc: "ex_aax_text",
-    logolink: "static/logos/Exchanges/AAX.svg",
+    logolink: "@/assets/logos/Exchanges/AAX.svg",
     ccxtName: "aax",
     hasFlux: false,
     ccxtOptions: {
@@ -863,7 +863,7 @@ const expirimentalExchanges = {
     apiKeyHelpURL: "https://developer-pro.bitmart.com/en/part1/question/apikey.html",
     msgName: "bitmart",
     msgDesc: "ex_bitmart_text",
-    logolink: "static/logos/Exchanges/Bitmart.svg",
+    logolink: "@/assets/logos/Exchanges/Bitmart.svg",
     ccxtName: "bitmart",
     hasFlux: false,
     ccxtOptions: {
@@ -934,7 +934,7 @@ const expirimentalExchanges = {
     apiKeyHelpURL: "https://support.coinigy.com/hc/en-us/articles/360007187634-How-do-I-find-my-API-key-on-Bitmex-com-",
     msgName: "bitmex",
     msgDesc: "ex_bitmex_text",
-    logolink: "static/logos/Exchanges/Bitmex.svg",
+    logolink: "@/assets/logos/Exchanges/Bitmex.svg",
     ccxtName: "bitmex",
     hasFlux: false,
     ccxtOptions: {

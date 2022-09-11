@@ -39,9 +39,9 @@ const coins = {
     explorer: [
       "https://explorer.flux.zelcore.io/tx/",
       "https://explorer.runonflux.io/tx/",
-      "https://blockbook.ruonflux.io/tx/",
+      "https://blockbook.runonflux.io/tx/",
     ],
-    logolink: "static/logos/FLUX.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "explorer.flux.zelcore.io",
       "explorer.runonflux.io",
@@ -94,7 +94,7 @@ const coins = {
     explorer: [
       "https://testnet.runonflux.io/tx/",
     ],
-    logolink: "static/logos/TESTFLUX.svg",
+    logolink: "@/assets/logos/TESTFLUX.svg",
     node: [
       "testnet.runonflux.io",
     ],
@@ -154,7 +154,7 @@ const coins = {
       "https://insight.bitpay.com/tx/",
       "https://blockexplorer.com/tx/",
     ],
-    logolink: "static/logos/BTC.svg",
+    logolink: "@/assets/logos/BTC.svg",
     node: [
       "blockbook.btc.zelcore.io",
       "explorer.btc.zelcore.io",
@@ -191,7 +191,7 @@ const coins = {
       "https://etherscan.io/tx/",
       "https://blockchair.com/ethereum/transaction/",
     ],
-    logolink: "static/logos/ETH.svg",
+    logolink: "@/assets/logos/ETH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -266,7 +266,7 @@ const coins = {
       "https://insight.litecore.io/tx/",
       "https://litecoinblockexplorer.net/tx/",
     ],
-    logolink: "static/logos/LTC.svg",
+    logolink: "@/assets/logos/LTC.svg",
     node: [
       "blockbook.ltc.zelcore.io",
       "explorer.ltc.zelcore.io",
@@ -309,6 +309,14 @@ const coins = {
       "https://explorer.zecmate.com/api/",
       "https://explorer.z.cash/api/",
     ],
+    blockbook: [
+      "https://blockbook.zec.zelcore.io/api/",
+      "https://blockbook-zcash.binancechain.io/api/",
+      "https://zec4.trezor.io/api/",
+      "https://zec3.trezor.io/api/",
+      "https://zec2.trezor.io/api/",
+      "https://zec1.trezor.io/api/",
+    ],
     pathlinux: "zcash",
     pathmac: "Zcash",
     path: "Zcash",
@@ -318,14 +326,14 @@ const coins = {
     testnetrpcport: 18232,
     type: "zcash",
     explorer: [
-      "https://explorer2.zec.zelcore.io/tx/",
+      "https://blockbook.zec.zelcore.io/tx/",
+      "https://zec1.trezor.io/tx/",
       "https://explorer.zec.zelcore.io/tx/",
-      "https://explorer2.zecmate.com/tx/",
       "https://explorer.zecmate.com/tx/",
       "https://blockchair.com/zcash/transaction/",
       "https://explorer.z.cash/tx/",
     ],
-    logolink: "static/logos/ZEC.svg",
+    logolink: "@/assets/logos/ZEC.svg",
     node: [
       "explorer2.zec.zelcore.io",
       "explorer.zec.zelcore.io",
@@ -379,7 +387,7 @@ const coins = {
       "https://explorer.btcz.zelcore.io/tx/",
       "https://explorer.btcz.rocks/tx/",
     ],
-    logolink: "static/logos/BTCZ.svg",
+    logolink: "@/assets/logos/BTCZ.svg",
     node: [
       "explorer2.btcz.zelcore.io",
       "explorer.btcz.zelcore.io",
@@ -435,7 +443,7 @@ const coins = {
       "https://ravenexplorer.minermore.com/tx/",
       "https://explorer.ravenland.org/tx/",
     ],
-    logolink: "static/logos/RVN.svg",
+    logolink: "@/assets/logos/RVN.svg",
     node: [
       "explorer.rvn.zelcore.io",
       "api.ravencoin.org",
@@ -490,7 +498,7 @@ const coins = {
       "https://explorer.bitcore.cc/#/BTX/mainnet/tx/",
       "https://explorer.btx.zelcore.io/tx/",
     ],
-    logolink: "static/logos/BTX.svg",
+    logolink: "@/assets/logos/BTX.svg",
     node: [
       "explorer.btx.zelcore.io",
     ],
@@ -535,7 +543,7 @@ const coins = {
     explorer: [
       "https://explorer.hush.zelcore.io/tx/",
     ],
-    logolink: "static/logos/HUSH.svg",
+    logolink: "@/assets/logos/HUSH.svg",
     node: [
       "explorer.hush.zelcore.io",
     ],
@@ -566,7 +574,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BNB.svg",
+    logolink: "@/assets/logos/BNB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -610,7 +618,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SONM.svg",
+    logolink: "@/assets/logos/SONM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -655,7 +663,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OMG.svg",
+    logolink: "@/assets/logos/OMG.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -700,7 +708,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ZIL.svg",
+    logolink: "@/assets/logos/ZIL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -745,7 +753,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ZRX.svg",
+    logolink: "@/assets/logos/ZRX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -790,7 +798,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GNT.svg",
+    logolink: "@/assets/logos/GNT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -835,7 +843,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KCS.svg",
+    logolink: "@/assets/logos/KCS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -880,7 +888,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BAT.svg",
+    logolink: "@/assets/logos/BAT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -925,7 +933,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MKR.svg",
+    logolink: "@/assets/logos/MKR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -969,7 +977,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KNCL.svg",
+    logolink: "@/assets/logos/KNCL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1014,7 +1022,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ENG.svg",
+    logolink: "@/assets/logos/ENG.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1059,7 +1067,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PAY.svg",
+    logolink: "@/assets/logos/PAY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1104,7 +1112,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SUB.svg",
+    logolink: "@/assets/logos/SUB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1149,7 +1157,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CVC.svg",
+    logolink: "@/assets/logos/CVC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1194,7 +1202,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STX.svg",
+    logolink: "@/assets/logos/STX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1255,7 +1263,7 @@ const coins = {
     explorer: [
       "https://explorer.bitcoingold.org/insight/tx/",
     ],
-    logolink: "static/logos/BTG.svg",
+    logolink: "@/assets/logos/BTG.svg",
     node: [
       "explorer.bitcoingold.org",
     ],
@@ -1304,7 +1312,7 @@ const coins = {
       "https://explorer.tent.zelcore.io/tx/",
       "https://explorer.snowgem.org/tx/",
     ],
-    logolink: "static/logos/TENT.svg",
+    logolink: "@/assets/logos/TENT.svg",
     node: [
       "explorer.tent.zelcore.io",
       "explorer.snowgem.org",
@@ -1353,7 +1361,7 @@ const coins = {
       "https://explorer.gemlink.org/tx/",
       "https://explorer2.gemlink.org/tx/",
     ],
-    logolink: "static/logos/GEMLINK.svg",
+    logolink: "@/assets/logos/GEMLINK.svg",
     node: [
       "explorer.gemlink.org",
       "explorer2.gemlink.org",
@@ -1400,7 +1408,7 @@ const coins = {
     explorer: [
       "https://explorer.btcprivate.org/tx/",
     ],
-    logolink: "static/logos/BTCP.svg",
+    logolink: "@/assets/logos/BTCP.svg",
     node: [
       "explorer.btcprivate.org",
     ],
@@ -1447,7 +1455,7 @@ const coins = {
       "https://explorer.anon.zelcore.io/tx/",
       "https://explorer2.anon.zelcore.io/tx/",
     ],
-    logolink: "static/logos/ANON.svg",
+    logolink: "@/assets/logos/ANON.svg",
     node: [
       "explorer.anon.zelcore.io",
       "explorer2.anon.zelcore.io",
@@ -1496,7 +1504,7 @@ const coins = {
       "https://explorer.zensystem.io/tx/",
       "https://explorer.zen-solutions.io/tx/",
     ],
-    logolink: "static/logos/ZEN.svg",
+    logolink: "@/assets/logos/ZEN.svg",
     node: [
       "explorer.zensystem.io",
       "explorer.zen-solutions.io",
@@ -1545,7 +1553,7 @@ const coins = {
       "https://explorer.safe.zelcore.io/tx/",
       "https://explorer.safecoin.org/tx/",
     ],
-    logolink: "static/logos/SAFE.svg",
+    logolink: "@/assets/logos/SAFE.svg",
     node: [
       "explorer.safe.zelcore.io",
       "explorer.safecoin.org",
@@ -1594,7 +1602,7 @@ const coins = {
       "https://explorer.kmd.zelcore.io/tx/",
       "https://kmdexplorer.io/tx/",
     ],
-    logolink: "static/logos/KMD.svg",
+    logolink: "@/assets/logos/KMD.svg",
     node: [
       "explorer.kmd.zelcore.io",
       "kmdexplorer.io",
@@ -1646,7 +1654,7 @@ const coins = {
       "https://insight.zcoin.io/tx/",
       "https://explorer.zcoin.io/tx/",
     ],
-    logolink: "static/logos/FIRO.svg",
+    logolink: "@/assets/logos/FIRO.svg",
     node: [
       "explorer.firo.zelcore.io",
       "insight.zcoin.io",
@@ -1699,7 +1707,7 @@ const coins = {
       "https://omniwallet.org/tx/",
       "https://omniexplorer.info/tx/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "https://api.usdtexplorer.com",
       "https://api.omniexplorer.info",
@@ -1751,7 +1759,7 @@ const coins = {
       "https://explorer.zer.zelcore.io/tx/",
       "https://insight.zerocurrency.io/insight/tx/",
     ],
-    logolink: "static/logos/ZER.svg",
+    logolink: "@/assets/logos/ZER.svg",
     node: [
       "explorer.zer.zelcore.io",
       "insight.zerocurrency.io",
@@ -1812,7 +1820,7 @@ const coins = {
       "https://blockchair.com/bitcoin-cash/transaction/",
       "https://explorer.bitcoin.com/bch/tx/",
     ],
-    logolink: "static/logos/BCH.svg",
+    logolink: "@/assets/logos/BCH.svg",
     node: [
       "blockdozer.com",
     ],
@@ -1843,7 +1851,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ABT.svg",
+    logolink: "@/assets/logos/ABT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1888,7 +1896,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ADX.svg",
+    logolink: "@/assets/logos/ADX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1933,7 +1941,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AE.svg",
+    logolink: "@/assets/logos/AE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -1978,7 +1986,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AST.svg",
+    logolink: "@/assets/logos/AST.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2023,7 +2031,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BBO.svg",
+    logolink: "@/assets/logos/BBO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2068,7 +2076,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/APPC.svg",
+    logolink: "@/assets/logos/APPC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2113,7 +2121,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BLZ.svg",
+    logolink: "@/assets/logos/BLZ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2158,7 +2166,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BNT.svg",
+    logolink: "@/assets/logos/BNT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2203,7 +2211,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/COFI.svg",
+    logolink: "@/assets/logos/COFI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2247,7 +2255,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SAI.svg",
+    logolink: "@/assets/logos/SAI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2292,7 +2300,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DGX.svg",
+    logolink: "@/assets/logos/DGX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2338,7 +2346,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ELEC.svg",
+    logolink: "@/assets/logos/ELEC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2383,7 +2391,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ELF.svg",
+    logolink: "@/assets/logos/ELF.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2428,7 +2436,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ENJ.svg",
+    logolink: "@/assets/logos/ENJ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2472,7 +2480,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STORJ.svg",
+    logolink: "@/assets/logos/STORJ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2516,7 +2524,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/IOST.svg",
+    logolink: "@/assets/logos/IOST.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2560,7 +2568,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DENT.svg",
+    logolink: "@/assets/logos/DENT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2605,7 +2613,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LEND.svg",
+    logolink: "@/assets/logos/LEND.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2650,7 +2658,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LINK.svg",
+    logolink: "@/assets/logos/LINK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2695,7 +2703,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MANA.svg",
+    logolink: "@/assets/logos/MANA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2740,7 +2748,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LRC.svg",
+    logolink: "@/assets/logos/LRC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2784,7 +2792,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/QASH.svg",
+    logolink: "@/assets/logos/QASH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2829,7 +2837,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ICN.svg",
+    logolink: "@/assets/logos/ICN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2874,7 +2882,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MCO.svg",
+    logolink: "@/assets/logos/MCO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2920,7 +2928,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/POE.svg",
+    logolink: "@/assets/logos/POE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -2965,7 +2973,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/POLY.svg",
+    logolink: "@/assets/logos/POLY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3010,7 +3018,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/POWR.svg",
+    logolink: "@/assets/logos/POWR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3056,7 +3064,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RCN.svg",
+    logolink: "@/assets/logos/RCN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3101,7 +3109,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RDN.svg",
+    logolink: "@/assets/logos/RDN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3146,7 +3154,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/REQ.svg",
+    logolink: "@/assets/logos/REQ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3191,7 +3199,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SNT.svg",
+    logolink: "@/assets/logos/SNT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3235,7 +3243,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SALT.svg",
+    logolink: "@/assets/logos/SALT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3279,7 +3287,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STORM.svg",
+    logolink: "@/assets/logos/STORM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3324,7 +3332,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/EDO.svg",
+    logolink: "@/assets/logos/EDO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3369,7 +3377,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TUSD.svg",
+    logolink: "@/assets/logos/TUSD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3414,7 +3422,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DCN.svg",
+    logolink: "@/assets/logos/DCN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3458,7 +3466,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WAX.svg",
+    logolink: "@/assets/logos/WAX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3502,7 +3510,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WINGS.svg",
+    logolink: "@/assets/logos/WINGS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3546,7 +3554,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DTA.svg",
+    logolink: "@/assets/logos/DTA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3591,7 +3599,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FUN.svg",
+    logolink: "@/assets/logos/FUN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3635,7 +3643,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KIN.svg",
+    logolink: "@/assets/logos/KIN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3695,7 +3703,7 @@ const coins = {
     explorer: [
       "https://explorer.zcl.zelcore.io/tx/",
     ],
-    logolink: "static/logos/ZCL.svg",
+    logolink: "@/assets/logos/ZCL.svg",
     node: [
       "explorer.zcl.zelcore.io",
     ],
@@ -3727,7 +3735,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SRN.svg",
+    logolink: "@/assets/logos/SRN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3772,7 +3780,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AOA.svg",
+    logolink: "@/assets/logos/AOA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3816,7 +3824,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/THETA.svg",
+    logolink: "@/assets/logos/THETA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -3880,7 +3888,7 @@ const coins = {
       "https://insight.dash.org/insight/tx/",
       "https://explorer.mydashwallet.org/tx/",
     ],
-    logolink: "static/logos/DASH.svg",
+    logolink: "@/assets/logos/DASH.svg",
     node: [
       "explorer.dash.zelcore.io",
       "insight.dash.org",
@@ -3926,7 +3934,7 @@ const coins = {
       "https://moneroblocks.info/tx/",
       "https://xmrchain.net/tx/",
     ],
-    logolink: "static/logos/XMR.svg",
+    logolink: "@/assets/logos/XMR.svg",
     node: [
       "explorer.xmr.zelcore.io",
     ],
@@ -3957,7 +3965,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4002,7 +4010,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GUSD.svg",
+    logolink: "@/assets/logos/GUSD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4047,7 +4055,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PAX.svg",
+    logolink: "@/assets/logos/PAX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4094,7 +4102,7 @@ const coins = {
       "https://explorer.etc.zelcore.io/tx/",
       "https://blockscout.com/etc/mainnet/tx/",
     ],
-    logolink: "static/logos/ETC.svg",
+    logolink: "@/assets/logos/ETC.svg",
     node: [
       "https://node.etc.zelcore.io",
       "https://etc.guarda.co",
@@ -4129,7 +4137,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CONI.svg",
+    logolink: "@/assets/logos/CONI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4174,7 +4182,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TOK.svg",
+    logolink: "@/assets/logos/TOK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4240,7 +4248,7 @@ const coins = {
     explorer: [
       "https://explorer.genx.zelcore.io/tx/",
     ],
-    logolink: "static/logos/GENX.svg",
+    logolink: "@/assets/logos/GENX.svg",
     node: [
       "explorer.genx.zelcore.io",
     ],
@@ -4271,7 +4279,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/POR.svg",
+    logolink: "@/assets/logos/POR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4333,7 +4341,7 @@ const coins = {
       "https://explorer.bze.zelcore.io/tx/",
       "https://explorer.getbze.com/tx/",
     ],
-    logolink: "static/logos/BZE.svg",
+    logolink: "@/assets/logos/BZE.svg",
     node: [
       "explorer.bze.zelcore.io",
       "explorer.getbze.com",
@@ -4387,7 +4395,7 @@ const coins = {
     explorer: [
       "https://explorer.bth.zelcore.io/tx/",
     ],
-    logolink: "static/logos/BTH.svg",
+    logolink: "@/assets/logos/BTH.svg",
     node: [
       "explorer.bth.zelcore.io",
     ],
@@ -4418,7 +4426,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ADT.svg",
+    logolink: "@/assets/logos/ADT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4464,7 +4472,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MFT.svg",
+    logolink: "@/assets/logos/MFT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4509,7 +4517,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ATL.svg",
+    logolink: "@/assets/logos/ATL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4554,7 +4562,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ANT.svg",
+    logolink: "@/assets/logos/ANT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4599,7 +4607,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ARN.svg",
+    logolink: "@/assets/logos/ARN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4645,7 +4653,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BRD.svg",
+    logolink: "@/assets/logos/BRD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4690,7 +4698,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/REP.svg",
+    logolink: "@/assets/logos/REP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4737,7 +4745,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/QKC.svg",
+    logolink: "@/assets/logos/QKC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4782,7 +4790,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LOOM.svg",
+    logolink: "@/assets/logos/LOOM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4828,7 +4836,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/EURS.svg",
+    logolink: "@/assets/logos/EURS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -4890,7 +4898,7 @@ const coins = {
       "https://explorer.cmm.zelcore.io/tx/",
       "https://explorer.commercium.net/tx/",
     ],
-    logolink: "static/logos/CMM.svg",
+    logolink: "@/assets/logos/CMM.svg",
     node: [
       "explorer.cmm.zelcore.io",
       "explorer.commercium.net",
@@ -4964,7 +4972,7 @@ const coins = {
       "https://blockchair.com/groestlcoin/transaction/",
       "https://blockbook.groestlcoin.org/tx/",
     ],
-    logolink: "static/logos/GRS.svg",
+    logolink: "@/assets/logos/GRS.svg",
     node: [
       "explorer.grs.zelcore.io",
       "groestlsight.groestlcoin.org",
@@ -4995,7 +5003,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GUNTHY.svg",
+    logolink: "@/assets/logos/GUNTHY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5040,7 +5048,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MTL.svg",
+    logolink: "@/assets/logos/MTL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5084,7 +5092,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ETHOS.svg",
+    logolink: "@/assets/logos/ETHOS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5129,7 +5137,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AGI.svg",
+    logolink: "@/assets/logos/AGI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5174,7 +5182,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AMB.svg",
+    logolink: "@/assets/logos/AMB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5219,7 +5227,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BCPT.svg",
+    logolink: "@/assets/logos/BCPT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5264,7 +5272,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CDT.svg",
+    logolink: "@/assets/logos/CDT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5310,7 +5318,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CELR.svg",
+    logolink: "@/assets/logos/CELR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5355,7 +5363,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CND.svg",
+    logolink: "@/assets/logos/CND.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5401,7 +5409,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DATA.svg",
+    logolink: "@/assets/logos/DATA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5446,7 +5454,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DLT.svg",
+    logolink: "@/assets/logos/DLT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5490,7 +5498,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DOCK.svg",
+    logolink: "@/assets/logos/DOCK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5535,7 +5543,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/EVX.svg",
+    logolink: "@/assets/logos/EVX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5580,7 +5588,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GTO.svg",
+    logolink: "@/assets/logos/GTO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5625,7 +5633,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GVT.svg",
+    logolink: "@/assets/logos/GVT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5671,7 +5679,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HOT.svg",
+    logolink: "@/assets/logos/HOT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5716,7 +5724,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/INS.svg",
+    logolink: "@/assets/logos/INS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5761,7 +5769,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/IOTX.svg",
+    logolink: "@/assets/logos/IOTX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5806,7 +5814,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KEY.svg",
+    logolink: "@/assets/logos/KEY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5851,7 +5859,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LUN.svg",
+    logolink: "@/assets/logos/LUN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5896,7 +5904,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MTH.svg",
+    logolink: "@/assets/logos/MTH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5940,7 +5948,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OAX.svg",
+    logolink: "@/assets/logos/OAX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -5984,7 +5992,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OST.svg",
+    logolink: "@/assets/logos/OST.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6029,7 +6037,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PPT.svg",
+    logolink: "@/assets/logos/PPT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6074,7 +6082,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/QSP.svg",
+    logolink: "@/assets/logos/QSP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6118,7 +6126,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/REN.svg",
+    logolink: "@/assets/logos/REN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6163,7 +6171,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RLC.svg",
+    logolink: "@/assets/logos/RLC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6208,7 +6216,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SNGLS.svg",
+    logolink: "@/assets/logos/SNGLS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6253,7 +6261,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TNT.svg",
+    logolink: "@/assets/logos/TNT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6298,7 +6306,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VIB.svg",
+    logolink: "@/assets/logos/VIB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6342,7 +6350,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VIBE.svg",
+    logolink: "@/assets/logos/VIBE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6387,7 +6395,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WABI.svg",
+    logolink: "@/assets/logos/WABI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6432,7 +6440,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WPR.svg",
+    logolink: "@/assets/logos/WPR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6477,7 +6485,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DIBI.svg",
+    logolink: "@/assets/logos/DIBI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6544,7 +6552,7 @@ const coins = {
     explorer: [
       "https://explorer.bzx.zelcore.io/tx/",
     ],
-    logolink: "static/logos/BZX.svg",
+    logolink: "@/assets/logos/BZX.svg",
     node: [
       "explorer.bzx.zelcore.io",
     ],
@@ -6576,7 +6584,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FUEL.svg",
+    logolink: "@/assets/logos/FUEL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6629,7 +6637,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/BNB.svg",
+    logolink: "@/assets/logos/BNB.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -6664,7 +6672,7 @@ const coins = {
       "https://xrpscan.com/tx/",
       "https://blockchair.com/ripple/transaction/",
     ],
-    logolink: "static/logos/XRP.svg",
+    logolink: "@/assets/logos/XRP.svg",
     node: [
       "wss://s1.ripple.com",
       "wss://s2.ripple.com",
@@ -6714,7 +6722,7 @@ const coins = {
       "https://explorer.axe.zelcore.io/tx/",
       "https://insight.axecore.net/tx/",
     ],
-    logolink: "static/logos/AXE.svg",
+    logolink: "@/assets/logos/AXE.svg",
     node: [
       "explorer.axe.zelcore.io",
       "insight.axecore.net",
@@ -6746,7 +6754,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LEO.svg",
+    logolink: "@/assets/logos/LEO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6794,7 +6802,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BXY.svg",
+    logolink: "@/assets/logos/BXY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6840,7 +6848,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/USDS.svg",
+    logolink: "@/assets/logos/USDS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6886,7 +6894,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NUKE.svg",
+    logolink: "@/assets/logos/NUKE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -6940,7 +6948,7 @@ const coins = {
       "https://www.eosx.io/tx/",
       "https://eospark.com/tx/",
     ],
-    logolink: "static/logos/EOS.svg",
+    logolink: "@/assets/logos/EOS.svg",
     node: [
       "https://www.eosx.io/",
       "https://eosflare.io/",
@@ -7005,7 +7013,7 @@ const coins = {
       "https://blockchair.com/dogecoin/transaction/",
       "http://dogechain.info/tx/",
     ],
-    logolink: "static/logos/DOGE.svg",
+    logolink: "@/assets/logos/DOGE.svg",
     node: [
       "explorer.doge.zelcore.io",
       "dogechain.info",
@@ -7070,7 +7078,7 @@ const coins = {
       "https://explorer.dgb.zelcore.io/tx/",
       "https://digiexplorer.info/tx/",
     ],
-    logolink: "static/logos/DGB.svg",
+    logolink: "@/assets/logos/DGB.svg",
     node: [
       "explorer.dgb.zelcore.io",
       "digiexplorer.info",
@@ -7123,7 +7131,7 @@ const coins = {
       "https://explorer.sin.zelcore.io/tx/",
       "https://explorer.sinovate.io/tx/",
     ],
-    logolink: "static/logos/SIN.svg",
+    logolink: "@/assets/logos/SIN.svg",
     node: [
       "explorer.sin.zelcore.io",
     ],
@@ -7143,7 +7151,7 @@ const coins = {
   },
   neo: {
     coin: "neo",
-    name: "NEO",
+    name: "NEO Legacy",
     uri: [
       "neo",
     ],
@@ -7158,7 +7166,7 @@ const coins = {
       "https://neoscan.io/transaction/",
       "https://neotracker.io/tx/",
     ],
-    logolink: "static/logos/NEO.svg",
+    logolink: "@/assets/logos/NEO.svg",
     node: [
       "http://seed9.ngd.network:10332",
       "https://seed0.cityofzion.io:443",
@@ -7182,7 +7190,7 @@ const coins = {
   },
   gas: {
     coin: "gas",
-    name: "GAS",
+    name: "GAS Legacy",
     uri: [
       "gas",
     ],
@@ -7197,7 +7205,7 @@ const coins = {
       "https://neoscan.io/transaction/",
       "https://neotracker.io/tx/",
     ],
-    logolink: "static/logos/GAS.svg",
+    logolink: "@/assets/logos/GAS.svg",
     node: [
       "http://seed9.ngd.network:10332",
       "https://seed0.cityofzion.io:443",
@@ -7221,7 +7229,7 @@ const coins = {
   },
   neofish: {
     coin: "neofish",
-    name: "NEOFISH",
+    name: "NEOFISH Legacy",
     uri: [
       "neoFish",
       "fish",
@@ -7237,7 +7245,7 @@ const coins = {
       "https://neoscan.io/transaction/",
       "https://neotracker.io/tx/",
     ],
-    logolink: "static/logos/NEO.svg",
+    logolink: "@/assets/logos/NEO.svg",
     node: [
       "http://seed9.ngd.network:10332",
       "https://seed0.cityofzion.io:443",
@@ -7280,7 +7288,7 @@ const coins = {
       "https://steexp.com/tx/",
       "https://stellarchain.io/tx/",
     ],
-    logolink: "static/logos/XLM.svg",
+    logolink: "@/assets/logos/XLM.svg",
     node: [
       "https://stellarscan.io/",
       "https://steexp.com/",
@@ -7320,7 +7328,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://www.trxplorer.io/tx/",
     ],
-    logolink: "static/logos/TRX.svg",
+    logolink: "@/assets/logos/TRX.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -7359,7 +7367,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://www.trxplorer.io/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "@/assets/logos/BTT.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -7390,7 +7398,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCSTAR.svg",
+    logolink: "@/assets/logos/GCSTAR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7435,7 +7443,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCTGT.svg",
+    logolink: "@/assets/logos/GCTGT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7480,7 +7488,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCWAL.svg",
+    logolink: "@/assets/logos/GCWAL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7525,7 +7533,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCBEST.svg",
+    logolink: "@/assets/logos/GCBEST.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7570,7 +7578,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCHD.svg",
+    logolink: "@/assets/logos/GCHD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7615,7 +7623,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GCLOWE.svg",
+    logolink: "@/assets/logos/GCLOWE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7663,7 +7671,7 @@ const coins = {
     explorer: [
       "https://explorer.ont.io/transaction/",
     ],
-    logolink: "static/logos/ONT.svg",
+    logolink: "@/assets/logos/ONT.svg",
     node: [
       "http://dappnode1.ont.io:20334/",
     ],
@@ -7696,7 +7704,7 @@ const coins = {
     explorer: [
       "https://explorer.ont.io/transaction/",
     ],
-    logolink: "static/logos/ONG.svg",
+    logolink: "@/assets/logos/ONG.svg",
     node: [
       "http://dappnode1.ont.io:20334/",
     ],
@@ -7727,7 +7735,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DMME.svg",
+    logolink: "@/assets/logos/DMME.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7773,7 +7781,7 @@ const coins = {
     explorer: [
       "https://explore.veriblock.org/tx/",
     ],
-    logolink: "static/logos/VBK.svg",
+    logolink: "@/assets/logos/VBK.svg",
     node: [
       "https://proxy.vbk.zelcore.io/",
     ],
@@ -7804,7 +7812,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HT.svg",
+    logolink: "@/assets/logos/HT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7849,7 +7857,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BUSD.svg",
+    logolink: "@/assets/logos/BUSD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7893,7 +7901,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OKB.svg",
+    logolink: "@/assets/logos/OKB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7938,7 +7946,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BF.svg",
+    logolink: "@/assets/logos/BF.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -7983,7 +7991,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MX.svg",
+    logolink: "@/assets/logos/MX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8028,7 +8036,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ZB.svg",
+    logolink: "@/assets/logos/ZB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8074,7 +8082,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HTB.svg",
+    logolink: "@/assets/logos/HTB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8119,7 +8127,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HPT.svg",
+    logolink: "@/assets/logos/HPT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8164,7 +8172,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GOLF.svg",
+    logolink: "@/assets/logos/GOLF.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8209,7 +8217,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ENQ.svg",
+    logolink: "@/assets/logos/ENQ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8254,7 +8262,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FTM.svg",
+    logolink: "@/assets/logos/FTM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8299,7 +8307,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/0xBTC.svg",
+    logolink: "@/assets/logos/0xBTC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8344,7 +8352,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VYA.svg",
+    logolink: "@/assets/logos/VYA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8388,7 +8396,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AERGO.svg",
+    logolink: "@/assets/logos/AERGO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8432,7 +8440,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LMY.svg",
+    logolink: "@/assets/logos/LMY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8502,7 +8510,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/KDA.svg",
+    logolink: "@/assets/logos/KDA.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -8538,7 +8546,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NTK.svg",
+    logolink: "@/assets/logos/NTK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8582,7 +8590,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GMC.svg",
+    logolink: "@/assets/logos/GMC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8626,7 +8634,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BAZ.svg",
+    logolink: "@/assets/logos/BAZ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8670,7 +8678,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CSO.svg",
+    logolink: "@/assets/logos/CSO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8714,7 +8722,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UBT.svg",
+    logolink: "@/assets/logos/UBT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8759,7 +8767,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8819,7 +8827,7 @@ const coins = {
     explorer: [
       "https://ilcoinexplorer.com/tx/",
     ],
-    logolink: "static/logos/ILC.svg",
+    logolink: "@/assets/logos/ILC.svg",
     node: [
       "ilcoinexplorer.com",
     ],
@@ -8849,7 +8857,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HEX.svg",
+    logolink: "@/assets/logos/HEX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8894,7 +8902,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/COMP.svg",
+    logolink: "@/assets/logos/COMP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8940,7 +8948,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VIDT.svg",
+    logolink: "@/assets/logos/VIDT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -8985,7 +8993,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DRGN.svg",
+    logolink: "@/assets/logos/DRGN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9029,7 +9037,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WHALE.svg",
+    logolink: "@/assets/logos/WHALE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9074,7 +9082,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WBTC.svg",
+    logolink: "@/assets/logos/WBTC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9128,7 +9136,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/GENX.svg",
+    logolink: "@/assets/logos/GENX.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -9159,7 +9167,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OM.svg",
+    logolink: "@/assets/logos/OM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9231,7 +9239,7 @@ const coins = {
       "https://tbtc1.trezor.io/tx/",
       "https://tbtc2.trezor.io/tx/",
     ],
-    logolink: "static/logos/TESTBTC.svg",
+    logolink: "@/assets/logos/TESTBTC.svg",
     node: [
       "explorer.tbtc.zelcore.io",
       "tbtc1.trezor.io",
@@ -9264,7 +9272,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/COIN.svg",
+    logolink: "@/assets/logos/COIN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9309,7 +9317,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UNI.svg",
+    logolink: "@/assets/logos/UNI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9357,7 +9365,7 @@ const coins = {
     explorer: [
       "https://ropsten.etherscan.io/tx/",
     ],
-    logolink: "static/logos/TESTETH.svg",
+    logolink: "@/assets/logos/TESTETH.svg",
     node: [
       "https://ropsten.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://ropsten.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9410,7 +9418,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://www.trxplorer.io/tx/",
     ],
-    logolink: "static/logos/JST.svg",
+    logolink: "@/assets/logos/JST.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -9452,7 +9460,7 @@ const coins = {
     explorer: [
       "https://explorer.beldex.io/tx/",
     ],
-    logolink: "static/logos/BDX.svg",
+    logolink: "@/assets/logos/BDX.svg",
     node: [
       "explorer.bdx.zelcore.io",
     ],
@@ -9475,7 +9483,7 @@ const coins = {
     ],
     type: "rvnasset",
     unit: "NAHAN",
-    logolink: "static/logos/RVNNAHAN.svg",
+    logolink: "@/assets/logos/RVNNAHAN.svg",
     color: "#f05239",
     assetname: "NAHAN",
   },
@@ -9494,7 +9502,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TOSHI.svg",
+    logolink: "@/assets/logos/TOSHI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9559,7 +9567,7 @@ const coins = {
       "https://omniwallet.org/tx/",
       "https://omniexplorer.info/tx/",
     ],
-    logolink: "static/logos/MAID.svg",
+    logolink: "@/assets/logos/MAID.svg",
     node: [
       "https://api.usdtexplorer.com",
       "https://api.omniexplorer.info",
@@ -9600,7 +9608,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/BTCB.svg",
+    logolink: "@/assets/logos/BTCB.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -9637,7 +9645,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/RUNE.svg",
+    logolink: "@/assets/logos/RUNE.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -9679,7 +9687,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -9714,7 +9722,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/TUSD.svg",
+    logolink: "@/assets/logos/TUSD.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -9752,7 +9760,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/BUSD.svg",
+    logolink: "@/assets/logos/BUSD.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -9784,7 +9792,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NEXO.svg",
+    logolink: "@/assets/logos/NEXO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9832,7 +9840,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/NEXO.svg",
+    logolink: "@/assets/logos/NEXO.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -9864,7 +9872,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DAI.svg",
+    logolink: "@/assets/logos/DAI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9908,7 +9916,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STAKE.svg",
+    logolink: "@/assets/logos/STAKE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -9953,7 +9961,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/REV.svg",
+    logolink: "@/assets/logos/REV.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10006,7 +10014,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/REV.svg",
+    logolink: "@/assets/logos/REV.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -10036,7 +10044,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AAVE.svg",
+    logolink: "@/assets/logos/AAVE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10081,7 +10089,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SNX.svg",
+    logolink: "@/assets/logos/SNX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10127,7 +10135,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/YFI.svg",
+    logolink: "@/assets/logos/YFI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10173,7 +10181,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FTT.svg",
+    logolink: "@/assets/logos/FTT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10219,7 +10227,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GRT.svg",
+    logolink: "@/assets/logos/GRT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10264,7 +10272,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SUSHI.svg",
+    logolink: "@/assets/logos/SUSHI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10309,7 +10317,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CEL.svg",
+    logolink: "@/assets/logos/CEL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10354,7 +10362,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CRO.svg",
+    logolink: "@/assets/logos/CRO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10398,7 +10406,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UMA.svg",
+    logolink: "@/assets/logos/UMA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10442,7 +10450,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RENBTC.svg",
+    logolink: "@/assets/logos/RENBTC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10487,7 +10495,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CHSB.svg",
+    logolink: "@/assets/logos/CHSB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10532,7 +10540,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AMPL.svg",
+    logolink: "@/assets/logos/AMPL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10577,7 +10585,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RSR.svg",
+    logolink: "@/assets/logos/RSR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10622,7 +10630,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UST.svg",
+    logolink: "@/assets/logos/UST.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10667,7 +10675,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HEDG.svg",
+    logolink: "@/assets/logos/HEDG.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10712,7 +10720,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/QNT.svg",
+    logolink: "@/assets/logos/QNT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10757,7 +10765,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OCEAN.svg",
+    logolink: "@/assets/logos/OCEAN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10801,7 +10809,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HUSD.svg",
+    logolink: "@/assets/logos/HUSD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10845,7 +10853,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CVT.svg",
+    logolink: "@/assets/logos/CVT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10890,7 +10898,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GNO.svg",
+    logolink: "@/assets/logos/GNO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -10939,7 +10947,7 @@ const coins = {
     explorer: [
       "https://explorer.binance.org/tx/",
     ],
-    logolink: "static/logos/CHZ.svg",
+    logolink: "@/assets/logos/CHZ.svg",
     node: [
       "https://explorer.binance.org/",
     ],
@@ -10972,7 +10980,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CHZ.svg",
+    logolink: "@/assets/logos/CHZ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11024,7 +11032,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/SUN.svg",
+    logolink: "@/assets/logos/SUN.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -11062,7 +11070,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/USDJ.svg",
+    logolink: "@/assets/logos/USDJ.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -11093,7 +11101,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NXM.svg",
+    logolink: "@/assets/logos/NXM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11139,7 +11147,7 @@ const coins = {
     explorer: [
       "https://polkadot.subscan.io/extrinsic/",
     ],
-    logolink: "static/logos/DOT.svg",
+    logolink: "@/assets/logos/DOT.svg",
     node: [
       "https://backend.dot.zelcore.io/",
     ],
@@ -11177,7 +11185,7 @@ const coins = {
     explorer: [
       "https://westend.subscan.io/extrinsic/",
     ],
-    logolink: "static/logos/TESTWND.svg",
+    logolink: "@/assets/logos/TESTWND.svg",
     node: [
       "https://backend.wnd.zelcore.io/",
     ],
@@ -11238,7 +11246,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/testnet/tx/",
     ],
-    logolink: "static/logos/TESTKDA.svg",
+    logolink: "@/assets/logos/TESTKDA.svg",
     node: [
       "api.testnet.chainweb.com",
     ],
@@ -11272,7 +11280,7 @@ const coins = {
     explorer: [
       "https://kusama.subscan.io/extrinsic/",
     ],
-    logolink: "static/logos/KSM.svg",
+    logolink: "@/assets/logos/KSM.svg",
     node: [
       "https://backend.ksm.zelcore.io/",
     ],
@@ -11309,7 +11317,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/1INCH.svg",
+    logolink: "@/assets/logos/1INCH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11354,6 +11362,7 @@ const coins = {
       "https://backend.ada.zelcore.io/graphql",
       "https://backend2.ada.zelcore.io/graphql",
       "https://backend3.ada.zelcore.io/graphql",
+      "https://backend4.ada.zelcore.io/graphql",
       "https://graphql.adatools.io/graphql",
     ],
     unit: "ADA",
@@ -11361,11 +11370,12 @@ const coins = {
     explorer: [
       "https://explorer.cardano.org/en/transaction?id=",
     ],
-    logolink: "static/logos/ADA.svg",
+    logolink: "@/assets/logos/ADA.svg",
     node: [
       "https://backend.ada.zelcore.io",
       "https://backend2.ada.zelcore.io",
       "https://backend3.ada.zelcore.io",
+      "https://backend4.ada.zelcore.io",
       "https://graphql.adatools.io",
     ],
     fee: 0.168273, // 1 utxo, 2 outputs
@@ -11403,7 +11413,7 @@ const coins = {
       "https://etherscan.io/tx/",
       "https://blockchair.com/ethereum/transaction/",
     ],
-    logolink: "static/logos/MATIC.svg",
+    logolink: "@/assets/logos/MATIC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11450,7 +11460,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BNB.svg",
+    logolink: "@/assets/logos/BNB.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -11488,7 +11498,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/CAKE.svg",
+    logolink: "@/assets/logos/CAKE.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -11524,7 +11534,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ARNX.svg",
+    logolink: "@/assets/logos/ARNX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11570,7 +11580,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ETH.svg",
+    logolink: "@/assets/logos/ETH.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -11607,7 +11617,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -11646,7 +11656,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BNB.svg",
+    logolink: "@/assets/logos/BNB.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -11682,7 +11692,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/XCM.svg",
+    logolink: "@/assets/logos/XCM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11751,7 +11761,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/FLUXKDA.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -11788,7 +11798,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GT.svg",
+    logolink: "@/assets/logos/GT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11833,7 +11843,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/KNC.svg",
+    logolink: "@/assets/logos/KNC.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11878,7 +11888,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PRE.svg",
+    logolink: "@/assets/logos/PRE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -11927,7 +11937,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SOL.svg",
+    logolink: "@/assets/logos/SOL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -11964,7 +11974,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/WSOL.svg",
+    logolink: "@/assets/logos/WSOL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12000,7 +12010,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SRM.svg",
+    logolink: "@/assets/logos/SRM.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12036,7 +12046,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MSRM.svg",
+    logolink: "@/assets/logos/MSRM.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12071,7 +12081,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/COPE.svg",
+    logolink: "@/assets/logos/COPE.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12107,7 +12117,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/FIDA.svg",
+    logolink: "@/assets/logos/FIDA.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12144,7 +12154,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/FTT.svg",
+    logolink: "@/assets/logos/FTT.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12180,7 +12190,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/KIN.svg",
+    logolink: "@/assets/logos/KIN.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12215,7 +12225,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MAPS.svg",
+    logolink: "@/assets/logos/MAPS.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12251,7 +12261,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MEDIA.svg",
+    logolink: "@/assets/logos/MEDIA.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12287,7 +12297,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/OXY.svg",
+    logolink: "@/assets/logos/OXY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12323,7 +12333,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/RAY.svg",
+    logolink: "@/assets/logos/RAY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12359,7 +12369,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/STEP.svg",
+    logolink: "@/assets/logos/STEP.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12396,7 +12406,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12433,7 +12443,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12470,7 +12480,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ROPE.svg",
+    logolink: "@/assets/logos/ROPE.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12501,7 +12511,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FLUXETH.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -12545,7 +12555,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/FLUXBSC.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -12586,7 +12596,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MER.svg",
+    logolink: "@/assets/logos/MER.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12623,7 +12633,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/TULIP.svg",
+    logolink: "@/assets/logos/TULIP.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12660,7 +12670,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ALEPH.svg",
+    logolink: "@/assets/logos/ALEPH.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -12692,7 +12702,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BUSD.svg",
+    logolink: "@/assets/logos/BUSD.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -12735,7 +12745,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/SUN.svg",
+    logolink: "@/assets/logos/SUN.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -12766,7 +12776,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SAFEMOON.svg",
+    logolink: "@/assets/logos/SAFEMOON.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -12801,7 +12811,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SAFEMOON.svg",
+    logolink: "@/assets/logos/SAFEMOON.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -12846,7 +12856,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/HUP.svg",
+    logolink: "@/assets/logos/HUP.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -12903,7 +12913,7 @@ const coins = {
     explorer: [
       "https://explorer.raptoreum.com/tx/",
     ],
-    logolink: "static/logos/RTM.svg",
+    logolink: "@/assets/logos/RTM.svg",
     node: [
       "explorer.raptoreum.com",
       "ger1.raptoreum.com",
@@ -12954,7 +12964,7 @@ const coins = {
       "https://explorer.vtc.zelcore.io/tx/",
       "https://insight.vertcoin.org/tx/",
     ],
-    logolink: "static/logos/VTC.svg",
+    logolink: "@/assets/logos/VTC.svg",
     node: [
       "explorer.vtc.zelcore.io",
       "insight.vertcoin.org",
@@ -12986,7 +12996,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BTCB.svg",
+    logolink: "@/assets/logos/BTCB.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13023,7 +13033,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AXS.svg",
+    logolink: "@/assets/logos/AXS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -13069,7 +13079,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "@/assets/logos/BTT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13104,7 +13114,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STETH.svg",
+    logolink: "@/assets/logos/STETH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -13148,7 +13158,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AMP.svg",
+    logolink: "@/assets/logos/AMP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -13193,7 +13203,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TELCOIN.svg",
+    logolink: "@/assets/logos/TELCOIN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -13238,7 +13248,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/HARMONYONE.svg",
+    logolink: "@/assets/logos/HARMONYONE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -13284,7 +13294,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ADA.svg",
+    logolink: "@/assets/logos/ADA.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13321,7 +13331,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/XRP.svg",
+    logolink: "@/assets/logos/XRP.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13358,7 +13368,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/DOGE.svg",
+    logolink: "@/assets/logos/DOGE.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13396,7 +13406,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13434,7 +13444,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/DOT.svg",
+    logolink: "@/assets/logos/DOT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13471,7 +13481,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/UNI.svg",
+    logolink: "@/assets/logos/UNI.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13508,7 +13518,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BCH.svg",
+    logolink: "@/assets/logos/BCH.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13545,7 +13555,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/LTC.svg",
+    logolink: "@/assets/logos/LTC.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13582,7 +13592,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/LINK.svg",
+    logolink: "@/assets/logos/LINK.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13619,7 +13629,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ETC.svg",
+    logolink: "@/assets/logos/ETC.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13655,7 +13665,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/AVAX.svg",
+    logolink: "@/assets/logos/AVAX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13691,7 +13701,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/DAI.svg",
+    logolink: "@/assets/logos/DAI.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13728,7 +13738,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/TRX.svg",
+    logolink: "@/assets/logos/TRX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13764,7 +13774,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/EOS.svg",
+    logolink: "@/assets/logos/EOS.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13800,7 +13810,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ATOM.svg",
+    logolink: "@/assets/logos/ATOM.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13836,7 +13846,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/AXS.svg",
+    logolink: "@/assets/logos/AXS.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13872,7 +13882,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/XTZ.svg",
+    logolink: "@/assets/logos/XTZ.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13909,7 +13919,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/MKR.svg",
+    logolink: "@/assets/logos/MKR.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13945,7 +13955,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SHIB.svg",
+    logolink: "@/assets/logos/SHIB.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -13981,7 +13991,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/IOTA.svg",
+    logolink: "@/assets/logos/IOTA.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14018,7 +14028,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/COMP.svg",
+    logolink: "@/assets/logos/COMP.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14055,7 +14065,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ZEC.svg",
+    logolink: "@/assets/logos/ZEC.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14092,7 +14102,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/TUSD.svg",
+    logolink: "@/assets/logos/TUSD.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14129,7 +14139,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ZIL.svg",
+    logolink: "@/assets/logos/ZIL.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14166,7 +14176,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SNX.svg",
+    logolink: "@/assets/logos/SNX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14204,7 +14214,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/YFI.svg",
+    logolink: "@/assets/logos/YFI.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14240,7 +14250,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/NEAR.svg",
+    logolink: "@/assets/logos/NEAR.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14277,7 +14287,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BAT.svg",
+    logolink: "@/assets/logos/BAT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14313,7 +14323,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/FTM.svg",
+    logolink: "@/assets/logos/FTM.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14350,7 +14360,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BNT.svg",
+    logolink: "@/assets/logos/BNT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14387,7 +14397,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/PAX.svg",
+    logolink: "@/assets/logos/PAX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14425,7 +14435,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ONT.svg",
+    logolink: "@/assets/logos/ONT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14462,7 +14472,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/C98.svg",
+    logolink: "@/assets/logos/C98.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14498,7 +14508,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ANKR.svg",
+    logolink: "@/assets/logos/ANKR.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14534,7 +14544,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SXP.svg",
+    logolink: "@/assets/logos/SXP.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14571,7 +14581,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/IOTX.svg",
+    logolink: "@/assets/logos/IOTX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14607,7 +14617,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/WRX.svg",
+    logolink: "@/assets/logos/WRX.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14644,7 +14654,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/1INCH.svg",
+    logolink: "@/assets/logos/1INCH.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14680,7 +14690,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BAKE.svg",
+    logolink: "@/assets/logos/BAKE.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14716,7 +14726,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ALPHA.svg",
+    logolink: "@/assets/logos/ALPHA.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -14752,7 +14762,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WAVES.svg",
+    logolink: "@/assets/logos/WAVES.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -14798,7 +14808,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SHIB.svg",
+    logolink: "@/assets/logos/SHIB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -14845,7 +14855,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PERP.svg",
+    logolink: "@/assets/logos/PERP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -14891,7 +14901,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AUDIO.svg",
+    logolink: "@/assets/logos/AUDIO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -14939,7 +14949,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CRV.svg",
+    logolink: "@/assets/logos/CRV.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -14986,7 +14996,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SAND.svg",
+    logolink: "@/assets/logos/SAND.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15033,7 +15043,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VGX.svg",
+    logolink: "@/assets/logos/VGX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15078,7 +15088,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ANKR.svg",
+    logolink: "@/assets/logos/ANKR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15124,7 +15134,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SXP.svg",
+    logolink: "@/assets/logos/SXP.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15171,7 +15181,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ALPHA.svg",
+    logolink: "@/assets/logos/ALPHA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15217,7 +15227,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FET.svg",
+    logolink: "@/assets/logos/FET.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15264,7 +15274,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GLM.svg",
+    logolink: "@/assets/logos/GLM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15311,7 +15321,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/USDN.svg",
+    logolink: "@/assets/logos/USDN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15358,7 +15368,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SKL.svg",
+    logolink: "@/assets/logos/SKL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15404,7 +15414,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NMR.svg",
+    logolink: "@/assets/logos/NMR.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15450,7 +15460,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SRM.svg",
+    logolink: "@/assets/logos/SRM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15496,7 +15506,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LPT.svg",
+    logolink: "@/assets/logos/LPT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15542,7 +15552,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ALICE.svg",
+    logolink: "@/assets/logos/ALICE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15588,7 +15598,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FEI.svg",
+    logolink: "@/assets/logos/FEI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15635,7 +15645,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OGN.svg",
+    logolink: "@/assets/logos/OGN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15682,7 +15692,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/INJ.svg",
+    logolink: "@/assets/logos/INJ.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15729,7 +15739,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AGIX.svg",
+    logolink: "@/assets/logos/AGIX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15776,7 +15786,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PAXG.svg",
+    logolink: "@/assets/logos/PAXG.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15823,7 +15833,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BAND.svg",
+    logolink: "@/assets/logos/BAND.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15869,7 +15879,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STMX.svg",
+    logolink: "@/assets/logos/STMX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15915,7 +15925,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/REEF.svg",
+    logolink: "@/assets/logos/REEF.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -15961,7 +15971,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CTSI.svg",
+    logolink: "@/assets/logos/CTSI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -16006,7 +16016,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NKN.svg",
+    logolink: "@/assets/logos/NKN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -16052,7 +16062,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/MATIC.svg",
+    logolink: "@/assets/logos/MATIC.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16090,7 +16100,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/WETH.svg",
+    logolink: "@/assets/logos/WETH.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16126,7 +16136,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16162,7 +16172,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16198,7 +16208,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/QUICK.svg",
+    logolink: "@/assets/logos/QUICK.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16234,7 +16244,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/UNI.svg",
+    logolink: "@/assets/logos/UNI.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16270,7 +16280,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/LINK.svg",
+    logolink: "@/assets/logos/LINK.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16306,7 +16316,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/WBTC.svg",
+    logolink: "@/assets/logos/WBTC.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16342,7 +16352,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/DAI.svg",
+    logolink: "@/assets/logos/DAI.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16377,7 +16387,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/AAVE.svg",
+    logolink: "@/assets/logos/AAVE.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16413,7 +16423,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/SUSHI.svg",
+    logolink: "@/assets/logos/SUSHI.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16449,7 +16459,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/SNX.svg",
+    logolink: "@/assets/logos/SNX.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16485,7 +16495,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/TEL.svg",
+    logolink: "@/assets/logos/TEL.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16520,7 +16530,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/NEXO.svg",
+    logolink: "@/assets/logos/NEXO.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16556,7 +16566,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/UBT.svg",
+    logolink: "@/assets/logos/UBT.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16592,7 +16602,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/WRX.svg",
+    logolink: "@/assets/logos/WRX.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16628,7 +16638,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/CTSI.svg",
+    logolink: "@/assets/logos/CTSI.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16664,7 +16674,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/WOO.svg",
+    logolink: "@/assets/logos/WOO.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16700,7 +16710,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/FISH.svg",
+    logolink: "@/assets/logos/FISH.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16735,7 +16745,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/HEX.svg",
+    logolink: "@/assets/logos/HEX.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16771,7 +16781,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/OM.svg",
+    logolink: "@/assets/logos/OM.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16807,7 +16817,7 @@ const coins = {
     explorer: [
       "https://polygonscan.com/tx/",
     ],
-    logolink: "static/logos/KNC.svg",
+    logolink: "@/assets/logos/KNC.svg",
     node: [
       "https://polygon-rpc.com",
       "https://rpc-mainnet.maticvigil.com",
@@ -16842,7 +16852,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TRIBE.svg",
+    logolink: "@/assets/logos/TRIBE.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -16887,7 +16897,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/PROM.svg",
+    logolink: "@/assets/logos/PROM.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -16923,7 +16933,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/GODS.svg",
+    logolink: "@/assets/logos/GODS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -16968,7 +16978,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/ORE.svg",
+    logolink: "@/assets/logos/ORE.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -17004,7 +17014,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PBX.svg",
+    logolink: "@/assets/logos/PBX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17050,7 +17060,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STRAX.svg",
+    logolink: "@/assets/logos/STRAX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17096,7 +17106,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/EWT.svg",
+    logolink: "@/assets/logos/EWT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17142,7 +17152,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PROM.svg",
+    logolink: "@/assets/logos/PROM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17188,7 +17198,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WOO.svg",
+    logolink: "@/assets/logos/WOO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17233,7 +17243,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/COTI.svg",
+    logolink: "@/assets/logos/COTI.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17279,7 +17289,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OXT.svg",
+    logolink: "@/assets/logos/OXT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17325,7 +17335,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/TOMO.svg",
+    logolink: "@/assets/logos/TOMO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17370,7 +17380,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ORBS.svg",
+    logolink: "@/assets/logos/ORBS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17416,7 +17426,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UOS.svg",
+    logolink: "@/assets/logos/UOS.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17462,7 +17472,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BADGER.svg",
+    logolink: "@/assets/logos/BADGER.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17508,7 +17518,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/PHA.svg",
+    logolink: "@/assets/logos/PHA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17553,7 +17563,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MVL.svg",
+    logolink: "@/assets/logos/MVL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17599,7 +17609,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/NU.svg",
+    logolink: "@/assets/logos/NU.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17645,7 +17655,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ANT.svg",
+    logolink: "@/assets/logos/ANT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17690,7 +17700,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DODO.svg",
+    logolink: "@/assets/logos/DODO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17735,7 +17745,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/XYO.svg",
+    logolink: "@/assets/logos/XYO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17781,7 +17791,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/UTK.svg",
+    logolink: "@/assets/logos/UTK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17827,7 +17837,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/YFII.svg",
+    logolink: "@/assets/logos/YFII.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17873,7 +17883,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/MLN.svg",
+    logolink: "@/assets/logos/MLN.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17919,7 +17929,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BAL.svg",
+    logolink: "@/assets/logos/BAL.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -17964,7 +17974,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BORA.svg",
+    logolink: "@/assets/logos/BORA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18010,7 +18020,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/STRK.svg",
+    logolink: "@/assets/logos/STRK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18056,7 +18066,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SNM.svg",
+    logolink: "@/assets/logos/SNM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18103,7 +18113,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ADX.svg",
+    logolink: "@/assets/logos/ADX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18149,7 +18159,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/LOOM.svg",
+    logolink: "@/assets/logos/LOOM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18195,7 +18205,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DATA.svg",
+    logolink: "@/assets/logos/DATA.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18240,7 +18250,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/AERGO.svg",
+    logolink: "@/assets/logos/AERGO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18286,7 +18296,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VID.svg",
+    logolink: "@/assets/logos/VID.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18332,7 +18342,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OM.svg",
+    logolink: "@/assets/logos/OM.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18378,7 +18388,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/OXY.svg",
+    logolink: "@/assets/logos/OXY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18424,7 +18434,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/RAY.svg",
+    logolink: "@/assets/logos/RAY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18470,7 +18480,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ALEPH.svg",
+    logolink: "@/assets/logos/ALEPH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18516,7 +18526,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/C98.svg",
+    logolink: "@/assets/logos/C98.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18561,7 +18571,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/WETH.svg",
+    logolink: "@/assets/logos/WETH.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18607,7 +18617,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/QUICK.svg",
+    logolink: "@/assets/logos/QUICK.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18652,7 +18662,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/DYDX.svg",
+    logolink: "@/assets/logos/DYDX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18698,7 +18708,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/XDB.svg",
+    logolink: "@/assets/logos/XDB.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18744,7 +18754,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/VLX.svg",
+    logolink: "@/assets/logos/VLX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18790,7 +18800,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/FX.svg",
+    logolink: "@/assets/logos/FX.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18836,7 +18846,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/ASD.svg",
+    logolink: "@/assets/logos/ASD.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18881,7 +18891,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/CRWNY.svg",
+    logolink: "@/assets/logos/CRWNY.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -18931,7 +18941,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/LINK.svg",
+    logolink: "@/assets/logos/LINK.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -18968,7 +18978,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SUSHI.svg",
+    logolink: "@/assets/logos/SUSHI.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19005,7 +19015,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/WOO.svg",
+    logolink: "@/assets/logos/WOO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19042,7 +19052,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/C98.svg",
+    logolink: "@/assets/logos/C98.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19079,7 +19089,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SAMO.svg",
+    logolink: "@/assets/logos/SAMO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19116,7 +19126,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MNGO.svg",
+    logolink: "@/assets/logos/MNGO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19153,7 +19163,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ATLAS.svg",
+    logolink: "@/assets/logos/ATLAS.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19190,7 +19200,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/POLIS.svg",
+    logolink: "@/assets/logos/POLIS.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19226,7 +19236,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ORCA.svg",
+    logolink: "@/assets/logos/ORCA.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19263,7 +19273,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/AURY.svg",
+    logolink: "@/assets/logos/AURY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19300,7 +19310,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SLND.svg",
+    logolink: "@/assets/logos/SLND.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19337,7 +19347,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SBR.svg",
+    logolink: "@/assets/logos/SBR.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19374,7 +19384,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/LIQ.svg",
+    logolink: "@/assets/logos/LIQ.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19411,7 +19421,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SNY.svg",
+    logolink: "@/assets/logos/SNY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19448,7 +19458,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/PORT.svg",
+    logolink: "@/assets/logos/PORT.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19485,7 +19495,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/ABR.svg",
+    logolink: "@/assets/logos/ABR.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19522,7 +19532,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/CRP.svg",
+    logolink: "@/assets/logos/CRP.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19559,7 +19569,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/IVN.svg",
+    logolink: "@/assets/logos/IVN.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19596,7 +19606,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/GRAPE.svg",
+    logolink: "@/assets/logos/GRAPE.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19633,7 +19643,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/NINJA.svg",
+    logolink: "@/assets/logos/NINJA.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19672,7 +19682,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/FLUX.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -19707,7 +19717,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/CRWNY.svg",
+    logolink: "@/assets/logos/CRWNY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19743,7 +19753,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/FLUX.svg",
+    logolink: "@/assets/logos/FLUX.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19775,7 +19785,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SAFEMOON.svg",
+    logolink: "@/assets/logos/SAFEMOON.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -19815,7 +19825,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MSOL.svg",
+    logolink: "@/assets/logos/MSOL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19851,7 +19861,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/STSOL.svg",
+    logolink: "@/assets/logos/STSOL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19888,7 +19898,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SLIM.svg",
+    logolink: "@/assets/logos/SLIM.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19925,7 +19935,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/DFL.svg",
+    logolink: "@/assets/logos/DFL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19961,7 +19971,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/IN.svg",
+    logolink: "@/assets/logos/IN.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -19997,7 +20007,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/JET.svg",
+    logolink: "@/assets/logos/JET.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20034,7 +20044,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/DXL.svg",
+    logolink: "@/assets/logos/DXL.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20070,7 +20080,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/LIKE.svg",
+    logolink: "@/assets/logos/LIKE.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20106,7 +20116,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MNDE.svg",
+    logolink: "@/assets/logos/MNDE.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20142,7 +20152,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/WHAPI.svg",
+    logolink: "@/assets/logos/WHAPI.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20179,7 +20189,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/RIN.svg",
+    logolink: "@/assets/logos/RIN.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20216,7 +20226,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/CYS.svg",
+    logolink: "@/assets/logos/CYS.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20252,7 +20262,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/FAB.svg",
+    logolink: "@/assets/logos/FAB.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20289,7 +20299,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/WAG.svg",
+    logolink: "@/assets/logos/WAG.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20326,7 +20336,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/MOLA.svg",
+    logolink: "@/assets/logos/MOLA.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20363,7 +20373,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SOLD.svg",
+    logolink: "@/assets/logos/SOLD.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20400,7 +20410,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/CATO.svg",
+    logolink: "@/assets/logos/CATO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20437,7 +20447,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/CSTR.svg",
+    logolink: "@/assets/logos/CSTR.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20474,7 +20484,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SAO.svg",
+    logolink: "@/assets/logos/SAO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20511,7 +20521,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/APYS.svg",
+    logolink: "@/assets/logos/APYS.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20547,7 +20557,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/SUNNY.svg",
+    logolink: "@/assets/logos/SUNNY.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20584,7 +20594,7 @@ const coins = {
       "https://solanascan.io/txn/",
       "https://solanabeach.io/transaction/",
     ],
-    logolink: "static/logos/KURO.svg",
+    logolink: "@/assets/logos/KURO.svg",
     node: [
       "api.mainnet-beta.solana.com",
     ],
@@ -20641,7 +20651,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/BABENA.svg",
+    logolink: "@/assets/logos/BABENA.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -20684,7 +20694,7 @@ const coins = {
     explorer: [
       "https://fio.bloks.io/transaction/",
     ],
-    logolink: "static/logos/FIO.svg",
+    logolink: "@/assets/logos/FIO.svg",
     node: [
       "https://fio.blockpane.com",
       "https://fio.greymass.com",
@@ -20754,7 +20764,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/KDL.svg",
+    logolink: "@/assets/logos/KDL.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -20783,7 +20793,7 @@ const coins = {
     ],
     type: "rvnasset",
     unit: "SEEDMONEY",
-    logolink: "static/logos/RVNSEEDMONEY.svg",
+    logolink: "@/assets/logos/RVNSEEDMONEY.svg",
     color: "#fcc40c",
     assetname: "SEEDMONEY",
   },
@@ -20804,7 +20814,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/SMTF.svg",
+    logolink: "@/assets/logos/SMTF.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -20841,13 +20851,13 @@ const coins = {
       "https://backend.terra.zelcore.io/",
     ],
     chainID: "columbus-5",
-    unit: "LUNA",
+    unit: "LUNC",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/LUNA.svg",
+    logolink: "@/assets/logos/LUNA.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -20880,13 +20890,13 @@ const coins = {
       "https://backend.terra.zelcore.io/74d562b7ce11681586937298a566ac37deb2b2a1/",
       "https://backend.terra.zelcore.io/",
     ],
-    unit: "UST",
+    unit: "USTC",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/UST.svg",
+    logolink: "@/assets/logos/UST.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -20922,10 +20932,10 @@ const coins = {
     unit: "SDT",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/SDT.svg",
+    logolink: "@/assets/logos/SDT.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -20961,10 +20971,10 @@ const coins = {
     unit: "KRT",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/KRT.svg",
+    logolink: "@/assets/logos/KRT.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -20999,10 +21009,10 @@ const coins = {
     unit: "mAMZN",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MAMZN.svg",
+    logolink: "@/assets/logos/MAMZN.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21037,10 +21047,10 @@ const coins = {
     unit: "mAAPL",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MAAPL.svg",
+    logolink: "@/assets/logos/MAAPL.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21075,10 +21085,10 @@ const coins = {
     unit: "mABNB",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MABNB.svg",
+    logolink: "@/assets/logos/MABNB.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21113,10 +21123,10 @@ const coins = {
     unit: "mCOIN",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MCOIN.svg",
+    logolink: "@/assets/logos/MCOIN.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21151,10 +21161,10 @@ const coins = {
     unit: "mMSFT",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MMSFT.svg",
+    logolink: "@/assets/logos/MMSFT.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21189,10 +21199,10 @@ const coins = {
     unit: "mGOOGL",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MGOOGL.svg",
+    logolink: "@/assets/logos/MGOOGL.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21227,10 +21237,10 @@ const coins = {
     unit: "mTSLA",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MTSLA.svg",
+    logolink: "@/assets/logos/MTSLA.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21265,10 +21275,10 @@ const coins = {
     unit: "mTWTR",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MTWTR.svg",
+    logolink: "@/assets/logos/MTWTR.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21303,10 +21313,10 @@ const coins = {
     unit: "mNFLX",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MNFLX.svg",
+    logolink: "@/assets/logos/MNFLX.svg",
     node: [
       "https://fcd.terra.dev",
     ],
@@ -21338,7 +21348,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/SAITO.svg",
+    logolink: "@/assets/logos/SAITO.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -21391,7 +21401,7 @@ const coins = {
       "https://tronscan.org/#/transaction/",
       "https://trxplorer.io/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "@/assets/logos/BTT.svg",
     node: [
       "https://api.trongrid.io/",
     ],
@@ -21423,7 +21433,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "@/assets/logos/BTT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -21469,7 +21479,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/BTT.svg",
+    logolink: "@/assets/logos/BTT.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -21505,7 +21515,7 @@ const coins = {
     explorer: [
       "https://bscscan.com/tx/",
     ],
-    logolink: "static/logos/EGLD.svg",
+    logolink: "@/assets/logos/EGLD.svg",
     node: [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -21542,7 +21552,7 @@ const coins = {
     explorer: [
       "https://etherscan.io/tx/",
     ],
-    logolink: "static/logos/XHT.svg",
+    logolink: "@/assets/logos/XHT.svg",
     node: [
       "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
       "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -21613,7 +21623,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/BKA.svg",
+    logolink: "@/assets/logos/BKA.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -21676,7 +21686,7 @@ const coins = {
     explorer: [
       "https://explorer.chainweb.com/mainnet/tx/",
     ],
-    logolink: "static/logos/KDS.svg",
+    logolink: "@/assets/logos/KDS.svg",
     node: [
       "kadena.app.runonflux.io",
       "kadena2.app.runonflux.io",
@@ -21708,7 +21718,7 @@ const coins = {
     addresses: [],
     unit: "AVAX-X",
     type: "avalanchex",
-    logolink: "static/logos/AVAXX.svg",
+    logolink: "@/assets/logos/AVAXX.svg",
     decimals: 9,
     color: "#ec4444",
     api: [
@@ -21746,7 +21756,7 @@ const coins = {
     chainID: 43114,
     unit: "AVAX-C",
     type: "avalanchec",
-    logolink: "static/logos/AVAXC.svg",
+    logolink: "@/assets/logos/AVAXC.svg",
     decimals: 18,
     color: "#ec4444",
     api: [
@@ -21780,7 +21790,7 @@ const coins = {
     addresses: [],
     unit: "AVAX-P",
     type: "avalanchep",
-    logolink: "static/logos/AVAXP.svg",
+    logolink: "@/assets/logos/AVAXP.svg",
     decimals: 9,
     color: "#ec4444",
     api: [
@@ -21817,7 +21827,7 @@ const coins = {
     chainID: 43114,
     unit: "USDC",
     type: "avalanchec",
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     decimals: 6,
     color: "#2775ca",
     api: [
@@ -21854,7 +21864,7 @@ const coins = {
     chainID: 43114,
     unit: "USDC.E",
     type: "avalanchec",
-    logolink: "static/logos/USDC.svg",
+    logolink: "@/assets/logos/USDC.svg",
     decimals: 6,
     color: "#2775ca",
     api: [
@@ -21891,7 +21901,7 @@ const coins = {
     chainID: 43114,
     unit: "USDT",
     type: "avalanchec",
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     decimals: 6,
     color: "#26a17a",
     api: [
@@ -21928,7 +21938,7 @@ const coins = {
     chainID: 43114,
     unit: "USDT.E",
     type: "avalanchec",
-    logolink: "static/logos/USDT.svg",
+    logolink: "@/assets/logos/USDT.svg",
     decimals: 6,
     color: "#26a17a",
     api: [
@@ -21965,7 +21975,7 @@ const coins = {
     chainID: 43114,
     unit: "WETH.E",
     type: "avalanchec",
-    logolink: "static/logos/WETH.svg",
+    logolink: "@/assets/logos/WETH.svg",
     decimals: 18,
     color: "#b0b0b0",
     api: [
@@ -22002,7 +22012,7 @@ const coins = {
     chainID: 43114,
     unit: "WBTC.E",
     type: "avalanchec",
-    logolink: "static/logos/WBTC.svg",
+    logolink: "@/assets/logos/WBTC.svg",
     decimals: 8,
     color: "#342946",
     api: [
@@ -22039,7 +22049,7 @@ const coins = {
     chainID: 43114,
     unit: "DAI.E",
     type: "avalanchec",
-    logolink: "static/logos/DAI.svg",
+    logolink: "@/assets/logos/DAI.svg",
     decimals: 18,
     color: "#f4b731",
     api: [
@@ -22076,7 +22086,7 @@ const coins = {
     chainID: 43114,
     unit: "LINK.E",
     type: "avalanchec",
-    logolink: "static/logos/LINK.svg",
+    logolink: "@/assets/logos/LINK.svg",
     decimals: 18,
     color: "#2a5ada",
     api: [
@@ -22112,7 +22122,7 @@ const coins = {
     chainID: 43114,
     unit: "WAVAX",
     type: "avalanchec",
-    logolink: "static/logos/AVAX.svg",
+    logolink: "@/assets/logos/AVAX.svg",
     decimals: 18,
     color: "#ec4444",
     api: [
@@ -22148,7 +22158,7 @@ const coins = {
     chainID: 43114,
     unit: "JOE",
     type: "avalanchec",
-    logolink: "static/logos/JOE.svg",
+    logolink: "@/assets/logos/JOE.svg",
     decimals: 18,
     color: "#FFBDBB",
     api: [
@@ -22184,7 +22194,7 @@ const coins = {
     chainID: 43114,
     unit: "QI",
     type: "avalanchec",
-    logolink: "static/logos/QI.svg",
+    logolink: "@/assets/logos/QI.svg",
     decimals: 18,
     color: "#000000",
     api: [
@@ -22220,7 +22230,7 @@ const coins = {
     chainID: 43114,
     unit: "SAVAX",
     type: "avalanchec",
-    logolink: "static/logos/SAVAX.svg",
+    logolink: "@/assets/logos/SAVAX.svg",
     decimals: 18,
     color: "#ec4444",
     api: [
@@ -22256,7 +22266,7 @@ const coins = {
     chainID: 43114,
     unit: "YUSD",
     type: "avalanchec",
-    logolink: "static/logos/YUSD.svg",
+    logolink: "@/assets/logos/YUSD.svg",
     decimals: 18,
     color: "#346AFD",
     api: [
@@ -22277,6 +22287,650 @@ const coins = {
     },
     backend: [
       "avalanchec",
+    ],
+  },
+  mokkda: {
+    coin: "mokkda",
+    name: "MOK KDA",
+    uri: [
+      "mok",
+      "mmokkdaok",
+    ],
+    slip: 1024,
+    wif: "80",
+    addresses: [],
+    api: [
+      "https://kadena.app.runonflux.io/",
+      "https://kadena2.app.runonflux.io/",
+    ],
+    unit: "MOK",
+    type: "kadena",
+    chainIDs: [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+    ],
+    explorer: [
+      "https://explorer.chainweb.com/mainnet/tx/",
+    ],
+    logolink: "@/assets/logos/MOK.svg",
+    node: [
+      "kadena.app.runonflux.io",
+      "kadena2.app.runonflux.io",
+      "b.kadenachainwebnode.app.runonflux.io",
+      "kadenachainwebnode.app.runonflux.io",
+    ],
+    fee: 900,
+    feepolicy: {
+      economy: 1e-8,
+      normal: 0.000001,
+      fast: 0.00011,
+    },
+    color: "#92197c",
+    backend: [
+      "kadena",
+    ],
+    namespace: "mok.token",
+    decimals: 12,
+    chain: "mainnet01",
+  },
+  usdctrc: {
+    coin: "usdctrc",
+    name: "USD Coin TRC20",
+    uri: [
+      "usdctrc",
+      "usdcoin",
+      "usdc",
+    ],
+    pubKeyHash: "1e",
+    scriptHash: "16",
+    wif: "9e",
+    normalAddress: "T",
+    normalAddressB: "T",
+    contractOrNumber: "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+    decimals: 6,
+    addresses: [],
+    api: [
+      "https://api.trongrid.io/",
+    ],
+    unit: "USDC",
+    type: "tron",
+    explorer: [
+      "https://tronscan.org/#/transaction/",
+      "https://trxplorer.io/tx/",
+    ],
+    logolink: "@/assets/logos/USDC.svg",
+    node: [
+      "https://api.trongrid.io/",
+    ],
+    fee: 1,
+    feepolicy: {
+      economy: 5,
+      normal: 10,
+      fast: 100,
+    },
+    color: "#2775ca",
+    backend: [
+      "tron",
+    ],
+  },
+  fluxavax: {
+    coin: "fluxavax",
+    name: "Flux AVAX Token",
+    uri: [
+      "fluxavax",
+      "flux",
+    ],
+    contractAddress: "0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55",
+    addresses: [],
+    networkName: "C Chain",
+    networkID: 1,
+    chainID: 43114,
+    unit: "FLUX-AVAX",
+    type: "avalanchec",
+    logolink: "@/assets/logos/FLUX.svg",
+    decimals: 8,
+    color: "#2b61d1",
+    api: [
+      "https://api.snowtrace.io/api?module=account&action=tokentx&contractaddress=0xc4B06F17ECcB2215a5DBf042C672101Fc20daF55&address=",
+    ],
+    node: [
+      "https://api.avax.network",
+    ],
+    explorer: [
+      "https://avascan.info/blockchain/c/tx/",
+      "https://snowtrace.io/tx/",
+    ],
+    fee: 120000,
+    feepolicy: {
+      economy: 26,
+      normal: 28,
+      fast: 30,
+    },
+    backend: [
+      "avalanchec",
+    ],
+  },
+  kdx: {
+    coin: "kdx",
+    name: "Kaddex KDA",
+    uri: [
+      "kdx",
+    ],
+    slip: 1024,
+    wif: "80",
+    addresses: [],
+    api: [
+      "https://kadena.app.runonflux.io/",
+      "https://kadena2.app.runonflux.io/",
+    ],
+    unit: "KDX",
+    type: "kadena",
+    chainIDs: [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+    ],
+    explorer: [
+      "https://explorer.chainweb.com/mainnet/tx/",
+    ],
+    logolink: "@/assets/logos/KDX.svg",
+    node: [
+      "kadena.app.runonflux.io",
+      "kadena2.app.runonflux.io",
+      "b.kadenachainwebnode.app.runonflux.io",
+      "kadenachainwebnode.app.runonflux.io",
+    ],
+    fee: 900,
+    feepolicy: {
+      economy: 1e-8,
+      normal: 0.000001,
+      fast: 0.00011,
+    },
+    color: "#1d2050",
+    backend: [
+      "kadena",
+    ],
+    namespace: "kaddex.kdx",
+    decimals: 12,
+    chain: "mainnet01",
+  },
+  skdx: {
+    coin: "skdx",
+    name: "SKDX KDA",
+    uri: [
+      "skdx",
+    ],
+    slip: 1024,
+    wif: "80",
+    addresses: [],
+    api: [
+      "https://kadena.app.runonflux.io/",
+      "https://kadena2.app.runonflux.io/",
+    ],
+    unit: "SKDX",
+    type: "kadena",
+    chainIDs: [
+      "2",
+    ],
+    explorer: [
+      "https://explorer.chainweb.com/mainnet/tx/",
+    ],
+    logolink: "@/assets/logos/SKDX.svg",
+    node: [
+      "kadena.app.runonflux.io",
+      "kadena2.app.runonflux.io",
+      "b.kadenachainwebnode.app.runonflux.io",
+      "kadenachainwebnode.app.runonflux.io",
+    ],
+    fee: 900,
+    feepolicy: {
+      economy: 1e-8,
+      normal: 0.000001,
+      fast: 0.00011,
+    },
+    color: "#4c85bd",
+    backend: [
+      "kadena",
+    ],
+    namespace: "kaddex.skdx",
+    decimals: 12,
+    chain: "mainnet01",
+  },
+  ergo: {
+    coin: "ergo",
+    name: "Ergo",
+    uri: [
+      "ergo",
+      "erg",
+    ],
+    contractAddress: "Ergo",
+    addresses: [],
+    unit: "ERG",
+    type: "ergo",
+    logolink: "@/assets/logos/ERG.svg",
+    decimals: 9,
+    color: "#000000",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  fluxerg: {
+    coin: "fluxerg",
+    name: "Flux ERG Token",
+    uri: [
+      "fluxerg",
+      "flux",
+    ],
+    contractAddress: "e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807",
+    addresses: [],
+    unit: "FLUX-ERG",
+    type: "ergo",
+    logolink: "@/assets/logos/FLUX.svg",
+    decimals: 8,
+    color: "#2b61d1",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  sigmausd: {
+    coin: "sigmausd",
+    name: "SigmaUSD ERG",
+    uri: [
+      "sigmausd",
+    ],
+    contractAddress: "03faf2cb329f2e90d6d23b58d91bbb6c046aa143261cc21f52fbe2824bfcbf04",
+    addresses: [],
+    unit: "SIGUSD",
+    type: "ergo",
+    logolink: "@/assets/logos/SIGUSD.svg",
+    decimals: 2,
+    color: "#000000",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  sigmarsv: {
+    coin: "sigmarsv",
+    name: "SigmaRSV ERG",
+    uri: [
+      "sigmarsv",
+    ],
+    contractAddress: "003bd19d0187117f130b62e1bcab0939929ff5c7709f843c5c4dd158949285d0",
+    addresses: [],
+    unit: "SIGRSV",
+    type: "ergo",
+    logolink: "@/assets/logos/SIGRSV.svg",
+    decimals: 0,
+    color: "#000000",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  erdoge: {
+    coin: "erdoge",
+    name: "Erdoge ERG",
+    uri: [
+      "erdoge",
+    ],
+    contractAddress: "36aba4b4a97b65be491cf9f5ca57b5408b0da8d0194f30ec8330d1e8946161c1",
+    addresses: [],
+    unit: "ERDOGE",
+    type: "ergo",
+    logolink: "@/assets/logos/ERDOGE.svg",
+    decimals: 0,
+    color: "#a4dfd2",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  ergopad: {
+    coin: "ergopad",
+    name: "Ergopad ERG",
+    uri: [
+      "ergopad",
+    ],
+    contractAddress: "d71693c49a84fbbecd4908c94813b46514b18b67a99952dc1e6e4791556de413",
+    addresses: [],
+    unit: "ERGOPAD",
+    type: "ergo",
+    logolink: "@/assets/logos/ERGOPAD.svg",
+    decimals: 2,
+    color: "#2d94a3",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  paideia: {
+    coin: "paideia",
+    name: "Paideia ERG",
+    uri: [
+      "paideia",
+    ],
+    contractAddress: "1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489",
+    addresses: [],
+    unit: "PAIDEIA",
+    type: "ergo",
+    logolink: "@/assets/logos/PAIDEIA.svg",
+    decimals: 4,
+    color: "#e3924e",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  ergoland: {
+    coin: "ergoland",
+    name: "Ergoland ERG",
+    uri: [
+      "ergoland",
+    ],
+    contractAddress: "007fd64d1ee54d78dd269c8930a38286caa28d3f29d27cadcb796418ab15c283",
+    addresses: [],
+    unit: "EXLE",
+    type: "ergo",
+    logolink: "@/assets/logos/EXLE.svg",
+    decimals: 4,
+    color: "#4a82df",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  egio: {
+    coin: "egio",
+    name: "Ergo Games ERG",
+    uri: [
+      "egio",
+    ],
+    contractAddress: "00b1e236b60b95c2c6f8007a9d89bc460fc9e78f98b09faec9449007b40bccf3",
+    addresses: [],
+    unit: "EGIO",
+    type: "ergo",
+    logolink: "@/assets/logos/EGIO.svg",
+    decimals: 4,
+    color: "#000000",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
+    ],
+  },
+  comet: {
+    coin: "comet",
+    name: "Comet ERG",
+    uri: [
+      "comet",
+    ],
+    contractAddress: "0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b",
+    addresses: [],
+    unit: "COMET",
+    type: "ergo",
+    logolink: "@/assets/logos/COMET.svg",
+    decimals: 0,
+    color: "#ce7e00",
+    api: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    node: [
+      "https://graphql.erg.zelcore.io",
+      "https://ergo_graphql.app.runonflux.io",
+      "https://explore.sigmaspace.io/api/graphql",
+      "https://gql.ergoplatform.com",
+    ],
+    explorer: [
+      "https://explorer.erg.zelcore.io/en/transactions/",
+      "https://ergo_explorer.app.runonflux.io/en/transactions/",
+      "https://explorer.ergoplatform.com/en/transactions/",
+    ],
+    fee: 0.001,
+    feepolicy: {
+      economy: 1,
+      normal: 1.1,
+      fast: 2,
+    },
+    backend: [
+      "ergo",
     ],
   },
 };
