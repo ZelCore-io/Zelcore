@@ -7769,7 +7769,7 @@ const newssources = {
         feed: "https://medium.com/feed/vkaxproject",
         site: "https://medium.com/vkaxproject",
         about: "Powering Next generation crypto",
-        pic: "static/logos/VKAX.svg",
+        pic: "@/assets/logos/VKAX.svg",
       },
     ],
     yusd: [
