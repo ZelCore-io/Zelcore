@@ -22933,6 +22933,56 @@ const coins = {
       "ergo",
     ],
   },
+  meowcoin: {
+    coin: "meowcoin",
+    name: "Meowcoin",
+    uri: [
+      "meowcoin",
+      "mewc",
+    ],
+    pubKeyHash: "32",
+    scriptHash: "7a",
+    messagePrefix: "\u0028Meowcoin Signed Message:\n",
+    normalAddress: "M",
+    normalAddressB: "M",
+    scriptAddress: "m",
+    scriptAddressB: "m",
+    wif: "80",
+    slip: 1669,
+    addresses: [],
+    api: [
+      "https://explorer.mewccrypto.com/api/",
+      "https://explorer.mewccrypto.com/ext/",
+    ],
+    pathlinux: "meowcoin",
+    pathmac: "Meowcoin",
+    path: "Meowcoin",
+    unit: "MEWC",
+    config: "meowcoin",
+    rpcport: 9766,
+    testnetrpcport: 19766,
+    type: "btc",
+    explorer: [
+      "https://explorer.mewccrypto.com/",
+      "https://explorer.mewccrypto.com/tx/",
+    ],
+    logolink: "@/assets/logos/MEWC.svg",
+    node: [
+      "explorer.mewccrypto.com",
+      "node-map.mewccrypto.com",
+      "arcade.mewccrypto.com",
+    ],
+    fee: 0.00001,
+    feepolicy: {
+      economy: 2000,
+      normal: 6000,
+      fast: 12000,
+    },
+    color: "#D8C47E",
+    backend: [
+      "iquidus",
+    ],
+  },
 };
 
 module.exports = coins;
