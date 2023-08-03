@@ -164,7 +164,7 @@ export default {
     enter_your_password: "Ingrese su Contraseña",
     login: "Inicio de Sesión",
     register_new_user: "Registrar nueva Cuenta",
-    register_account_locally: "Registrar Cuenta lLocalmente",
+    register_account_locally: "Registrar Cuenta Localmente",
     register_account: "Registrar una Cuenta",
     no_proxy: "No proxy",
     proxy_capital: "Proxy",
@@ -177,9 +177,9 @@ export default {
     recover_password: "Recuperar contraseña",
     recover_password_information: "En esta página podrá recuperar su contraseña olvidada si responde correctamente a todas las preguntas.",
     show_password: "Mostrar Contraseña",
-    recovery_password_answers_failed: "Tus respuestas no coincidieron con las almacenadas para recuperación.",
+    recovery_password_answers_failed: "Tus respuestas no coincidieron con las almacenadas para la recuperación.",
     recovery_password_success: "Contraseña recuperada con éxito",
-    recovery_password_last_try: "Sus respuestas no coincidieron con las almacenadas para recuperación. Tienes un intento mas.",
+    recovery_password_last_try: "Sus respuestas no coincidieron con las almacenadas para la recuperación. Tienes un intento mas.",
     recovery_password_no_more_attempts: "Has superado el número máximo de reintentos. Tienes que esperar 5 minutos para volver a intentarlo.",
     recovery_password_no_more_attempts_awaiting: "Has superado el número máximo de reintentos. Tienes que esperar un poco más hasta que puedas volver a intentarlo.",
 
@@ -226,14 +226,14 @@ export default {
     recovery_password_question20: "Cuál es el segundo nombre de tu padre?",
 
     // account warning
-    password_is_key: "¡Su contraseña es la clave para acceder a sus fondos, hacer lo más fuerte posible!",
+    password_is_key: "¡Su contraseña es la clave para acceder a sus fondos, hagala lo más fuerte posible!",
     no_keep_copy: "Zelcore no guarda una copia de su contraseña no cifrada local o remotamente. Debido a esta función, no hay forma de recuperar la contraseña ni de cambiarla. "
     + "Si pierde (o olvida) su nombre de usuario o contraseña, perderá el acceso a su billetera PERMANENTE. Por lo tanto, es MUY IMPORTANTE e IMPERATIVO que guarde una copia de su información en algún lugar seguro",
     software_as_is: "EL SOFTWARE SE PROPORCIONA 'TAL CUAL', SIN GARANTÍA DE NINGÚN TIPO, EXPRESO O IMPLÍCITO, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFLUENCIA. "
                     + "EN NINGÚN CASO, LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA QUE SEA RESPONSABLE DE UN CONTRATO, CORTE U OTRA MANERA, DERIVADOS DE, "
                     + "FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS REPARACIONES EN EL SOFTWARE.",
     backup_backup_backup: "¡RESPALDAR, RESPALDAR, RESPALDAR otra vez!",
-    im_aware_register: "¡Estoy consciente, registrate!",
+    im_aware_register: "¡Soy consciente, registrate!",
 
     // landingpage.vue
     start_by: "Comience por registrar una cuenta localmente",
@@ -425,7 +425,7 @@ export default {
     donation1: "Yo donare un Lollipop",
     donation2: "Yo donare Ositos de goma",
     donation3: "Yo donare un helado",
-    donation4: "Yo donare un Coffee",
+    donation4: "Yo donare un café",
     donation5: "Yo donare una Barra de Chocolate",
     donation6: "Yo donare una Hamburgesa",
     donation7: "Yo donare una Pizza",
@@ -435,7 +435,7 @@ export default {
       + "Las donaciones se utilizarán para ayudar a pagar los costos de infraestructura y el desarrollo continuo de zelcore. <br /><br />Gracias por apoyar nuestro proyecto!<br /> El equipo de Zel.",
 
     // mainland.vue
-    take_some_mins: "Esto puede demorar unos minutos, por favor sea paciente",
+    take_some_mins: "Esto puede tardar unos minutos, por favor sea paciente",
 
     // Overview.vue
     show_hide_balance: "Presióname para mostrar/Ocultar saldo",
@@ -517,11 +517,11 @@ export default {
     daemon_experimental_features: "Daemon el cifrado es una función experimental. Úselo bajo su propio riesgo. Asegúrese de hacer una copia de seguridad de todas sus claves privadas antes de configurar esta función.",
     turn_on_experimental_features: "Su billetera debe reiniciarse para activar las funciones experimentales antes de que pueda configurar su contraseña de cifrado de demonio.",
     daemon_encryption_info: "Le permitirá activar el cifrado del demonio o cambiar la contraseña de cifrado del demonio.",
-    daemon_encryption_experimental: "Sí, entiendo que esta función es experimental y quiero usarla bajo mi propio riesgo..",
+    daemon_encryption_experimental: "Sí, entiendo que esta función es experimental y quiero usarla bajo mi propio riesgo...",
     accept_experimental_features: "Debes aceptar funciones experimentales.",
     all_fields_are_mandatory: "Todos los campos son obligatorios.",
     daemon_encryption_set: "Daemon conjunto de cifrado",
-    daemon_encryption_password_changed: "Daemon la contraseña de cifrado ha cambiado",
+    daemon_encryption_password_changed: "Daemon: la contraseña de cifrado ha cambiado",
     change_daemon_password: "Encender daemon cifrado o cambie su contraseña de cifrado de daemon existente",
     set_daemon_password: "En este cuadro de diálogo podrá cifrar su billetera Full Node. Una vez cifrado, solo se puede usar con contraseña de cifrado, asegúrese de no olvidarlo. Tu billetera se reiniciará.",
     new_password: "Nueva contraseña",
@@ -574,7 +574,7 @@ export default {
     start_zelnode_specific: "Esta herramienta le permite iniciar su FluxNode",
     zelnode_15_confirmations: "Tenga en cuenta que se requieren al menos 15 confirmaciones (alrededor de 30 minutos) antes de que pueda iniciar su FluxNode. ",
     zelnode_false_positive_start: "otherwise you will get a 'false' positive start and will have to start it again.",
-    zelnode_100_confirmations: "At least 100 confirmations (around 3,5 hours) are required before you can start your FluxNode.",
+    zelnode_100_confirmations: "Al menos se requieren 100 confirmaciones (cerca de 3,5 horas) antes de poder arrancar Fluxnode.",
     start_your_zelnodes_info: "Muestra tus FluxNodes como presentes en tu archivo de configuración de FluxNode y los inicia",
     start_zelnodes: "Comenzar FluxNodes",
     start_zelnode: "Comenzar FluxNode",
@@ -636,7 +636,7 @@ export default {
     failed_to_start: "Error al iniciar",
     successfully_started: "Iniciado con éxito",
     confirm_zelnode_status: "Confirme su estado de FluxNode en el servidor de FluxNode o en el explorador de Zel.",
-    zelnode_missing_status: "Su FluxNode puede aparecer como faltante en zelcore porque un FluxNode tarda algún tiempo en propagar su estado a la red.",
+    zelnode_missing_status: "Su FluxNode puede aparecer como no activo en zelcore porque un FluxNode tarda algún tiempo en propagar su estado a la red.",
     please_follow_up_with: "Por favor, sigue con",
     startzelnode_local_false: "startzelnode local false",
     on_your_server: "en tu servidor",
@@ -646,7 +646,7 @@ export default {
     setup: "configuración",
     welcome_zelnodes_first: "Bienvenido a FluxNodes. En primer lugar, se recomienda hacer una copia de seguridad de nuestras direcciones existentes. "
                           + "Puede hacer una copia de seguridad de cada clave privada descargando su billetera en la ubicación que desee o haga una copia de seguridad de una clave privada de solo las direcciones que desee",
-    backup_single_address: "Backup Single address",
+    backup_single_address: "Copia de seguridad de una direccion",
     backup_all_addresses: "Copia de seguridad de todas las direcciones",
     skip: "omitir",
     backup_address_info: "Esto generará un archivo en el directorio de exportación que enumera todas las claves privadas con sus direcciones asociadas",
@@ -655,7 +655,7 @@ export default {
     enter_zelnode_pk: "Entre su FluxNode's Clave Privada",
     enter_zelnode_addr: "Entre su FluxNode's Direccion de cartera",
     automatic_log_out: "Cierre de sesión automático",
-    auto_log_out_info_full_node: "¡Impresionante! Mire su configuración de cierre de sesión automático. Las operaciones en el nodo completo toman algún tiempo, "
+    auto_log_out_info_full_node: "¡Impresionante! Mire su configuración de cierre de sesión automático. Las operaciones en el nodo completo tardan algún tiempo, "
                                 + "especialmente cuando se necesita reindexar. Por lo tanto, recomendamos configurar el cierre de sesión automático en un tiempo mayor o deshabilitarlo moviendo el control deslizante",
     next_step: "Siguiente paso",
     configuration_done_reindex1: "Hemos modificado su archivo de configuración. Se requiere una reindexación de su blockchain para que FluxNodes funcione correctamente",
@@ -743,8 +743,8 @@ export default {
     connecting: "Conectando ...",
     connected: "Conectado",
     stopped: "Detenido",
-    zel_enter_testnet_port: "Para el puerto de uso de Zel TestNet :26125",
-    zel_enter_mainet_port: "Para el puerto de uso de Zel MainNet :16125",
+    zel_enter_testnet_port: "Para el puerto de uso de Zel en TestNet :26125",
+    zel_enter_mainet_port: "Para el puerto de uso de Zel en MainNet :16125",
     daemon_not_starting: "Su billetera Full Node no se está iniciando. Por lo general, cuando su Nodo completo no se inicia, puede estar relacionado con un firewall o una billetera, "
       + "un nodo maestro o un archivo de configuración de FluxNode incorrectos. Marque esos antes de probar la opción de reindexación.",
     daemon_issue: "Error: el nodo completo no se inicia",
@@ -846,7 +846,7 @@ export default {
     details: "Detalles",
     status: "estado",
     order_id: "ID de pedido",
-    valid_till: "Valid Till",
+    valid_till: "Valido hasta",
     created_at: "Created At",
     send_receipt: "Enviar recibo",
     no_receipt: "No recibo",
@@ -1137,7 +1137,7 @@ export default {
     d2fa_successfully_set: "d2FA configurado correctamente",
     wallet_encryption_completed: "Cifrado de billetera completado. Comprobando y cerrando zelcore.",
     wallet_encrypted: "Cifrado de billetera completado",
-    something_went_wrong_wallet_encryption: "Algo salió mal durante el cifrado de la billetera. Mata el proceso de zelcore y contacta al equipo de Zel",
+    something_went_wrong_wallet_encryption: "Algo salió mal durante el cifrado de la billetera. Cierra el proceso de zelcore y contacta al equipo de Zel",
     an_important_operation: "Una operación importante sigue en marcha. Inténtelo de nuevo más tarde",
     decrypting_wallet: "Descifrando billetera",
     wallet_decrypted: "Monedero desencriptado",
@@ -1226,7 +1226,7 @@ export default {
     cryptowolf_error_markets: "Error al obtener los mercados actuales de CryptoWolf.",
     cryptowolf_error_pair: "Error al obtener el par de CryptoWolf {pair} actual.",
     cryptowolf_exchange_hour: "An exchange usually takes about an hour.",
-    cryptowolf_is_initializing: "CryptoWolf is initializing",
+    cryptowolf_is_initializing: "CryptoWolf esta iniciandose",
     cryptowolf_terms_agree: "In order to exchange, read and agree to the CryptoWolf Terms",
     message: "Mensaje",
     transaction: "Transaccion",
