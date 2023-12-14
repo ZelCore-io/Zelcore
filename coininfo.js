@@ -17805,6 +17805,37 @@ const coininfo = {
       "https://thecomettoken.com/about",
     ],
   },
+  meowcoin: {
+    description: "<a href=\"https://coingecko.com/en/coins/meowcoin\">Meowcoin</a> (MEWC) is a fork of the <a href=\"https://coingecko.com/en/coins/ravencoin\">Ravencoin</a> (RVN) blockchain in which is not only dedicated to the creation and peer-to-peer transfer of assets, but also dedicated to our cause of supporting various real-world, community based animal shelters/clinics/protective organizations. Just as <a href=\"https://coingecko.com/en/coins/monero\">Monero</a> is solely focused on privacy, Ravencoin specializes in asset transfer – nothing more, nothing less. Although you can exchange assets over other blockchains, like <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a>, that’s not their intended purpose. The lack of specialization leads to problems that are specific to transferring assets. Ravencoin enabled you to create and trade any real-world (e.g., gold bars, land deeds) or digital (e.g., gaming items, software licenses) assets on a network with only that in mind.\r\n\r\nRavencoin did not have an established team. It is an open-source project led by the core developers and Tron Black. Bruce Fenton, a previous board member of The Bitcoin Foundation, advised the team. The core developers launched Ravencoin on January 3rd, 2018 and Fenton kicked off the launch with a Tweet announcing the start of mining.\r\n\r\nMeowcoin aimed to keep these same values but expand upon the technologies offered by the coin, as well as utilize the project to give good back to the community through weekly donations to various animal health, animal rights, and animal service groups across the globe! The Meowcoin core devs launched the coin on September 6th, 2022, and it has been off to the races since! The Meowcoin staff consists of the original founders MeowMan and Meowmancer, the support/marketing team MrTheKing43 and Mana, and the development team nameless and α (all discord usernames). Big things are brewing for this community!",
+    total_supply: 21000000000,
+    circulating_supply: 1040859310,
+    websites: [
+      "https://www.mewccrypto.com",
+    ],
+    explorers: [
+      "https://explorer.mewccrypto.com",
+    ],
+    medium: "",
+    discord: "https://discord.gg/DkVz5JYkAk",
+    telegram: "https://t.me/+UH37sU5CHwwyYmQ1",
+    bitcointalk: "https://bitcointalk.org/index.php?topic=5412692.0",
+    facebook: "",
+    twitter: "https://twitter.com/meowcoinlol",
+    reddit: "https://www.reddit.com/r/MeowcoinOfficial",
+    repository: "https://github.com/justaresearcher/meowcoin",
+    youtube: "https://www.youtube.com/embed/fbfUvkZaw2w?rel=0&showinfo=0",
+    instagram: "",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "",
+    coinMarketCapID: "meowcoin",
+    coingeckoID: "meowcoin",
+    auditInfos: [],
+    whitepaper: [
+      "https://docs.mewccrypto.com/whitepaper",
+    ],
+  },
 };
 
 export default {
