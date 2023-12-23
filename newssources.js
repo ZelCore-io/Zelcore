@@ -445,10 +445,10 @@ const newssources = {
     ],
     usdt: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on the Ethereum blockchain via the ERC20 Token Standard.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -461,10 +461,10 @@ const newssources = {
     ],
     usdterc: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Ethereum blockchain via the ERC20 Token Standard. It is also issued on the Bitcoin blockchain via the Omni Layer Protocol.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -2035,6 +2035,15 @@ const newssources = {
         pic: "@/assets/logos/TESTETH.svg",
       },
     ],
+    testnetsepoliaethereum: [
+      {
+        name: "Ethereum Reddit",
+        feed: "https://www.reddit.com/r/ethereum/.rss",
+        site: "https://www.reddit.com/r/ethereum",
+        about: "Ethereum Reddit with the latest news and announcements",
+        pic: "@/assets/logos/TESTETH.svg",
+      },
+    ],
     jst: [
       {
         name: "Just Twitter",
@@ -2105,10 +2114,10 @@ const newssources = {
     ],
     usdttrc: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on the Ethereum blockchain via the ERC20 Token Standard and Tron blockchain via TRC20 Token standard.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -2873,10 +2882,10 @@ const newssources = {
     ],
     bscusdt: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on other chain via their token standards.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -3223,9 +3232,9 @@ const newssources = {
         pic: "@/assets/logos/USDT.svg",
       },
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
@@ -4969,10 +4978,10 @@ const newssources = {
     ],
     usdtpoly: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Ethereum blockchain via the ERC20 Token Standard. It is also issued on the Bitcoin blockchain via the Omni Layer Protocol.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -7577,10 +7586,10 @@ const newssources = {
     ],
     ausdt: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Ethereum blockchain via the ERC20 Token Standard. It is also issued on the Bitcoin blockchain via the Omni Layer Protocol.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -7593,10 +7602,10 @@ const newssources = {
     ],
     usdte: [
       {
-        name: "Tether Blog",
-        feed: "https://tether.to/feed",
-        site: "https://tether.to/press",
-        about: "USDT is a cryptocurrency asset issued on the Ethereum blockchain via the ERC20 Token Standard. It is also issued on the Bitcoin blockchain via the Omni Layer Protocol.",
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
       {
@@ -7966,6 +7975,365 @@ const newssources = {
         site: "https://twitter.com/CometMooning",
         about: "Official Comet Twitter.",
         pic: "@/assets/logos/COMET.svg",
+      },
+    ],
+    noweth: [
+      {
+        name: "ChangeNOW Token Blog",
+        feed: "https://changenow-io.medium.com/feed",
+        site: "https://changenow-io.medium.com",
+        about: "Official ChangeNOW Blog.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+      {
+        name: "ChangeNOW Token Twitter",
+        feed: "https://nitter.zelcore.io/ChangeNOW_io/rss",
+        site: "https://twitter.com/ChangeNOW_io",
+        about: "Official ChangeNOW Twitter.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+      {
+        name: "ChangeNOW Token Reddit",
+        feed: "https://reddit.com/r/ChangeNOW_io/.rss",
+        site: "https://www.reddit.com/r/ChangeNOW_io",
+        about: "Official ChangeNOW Reddit.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+    ],
+    nowbnb: [
+      {
+        name: "ChangeNOW Token Blog",
+        feed: "https://changenow-io.medium.com/feed",
+        site: "https://changenow-io.medium.com",
+        about: "Official ChangeNOW Blog.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+      {
+        name: "ChangeNOW Token Twitter",
+        feed: "https://nitter.zelcore.io/ChangeNOW_io/rss",
+        site: "https://twitter.com/ChangeNOW_io",
+        about: "Official ChangeNOW Twitter.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+      {
+        name: "ChangeNOW Token Reddit",
+        feed: "https://reddit.com/r/ChangeNOW_io/.rss",
+        site: "https://www.reddit.com/r/ChangeNOW_io",
+        about: "Official ChangeNOW Reddit.",
+        pic: "@/assets/logos/NOW.svg",
+      },
+    ],
+    rsrerc: [
+      {
+        name: "Reserve Rights Twitter",
+        feed: "https://nitter.zelcore.io/reserveprotocol/rss",
+        site: "https://twitter.com/reserveprotocol",
+        about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
+        pic: "@/assets/logos/RSR.svg",
+      },
+      {
+        name: "Reserve Rights Medium",
+        feed: "https://medium.com/feed/reserve-currency",
+        site: "https://medium.com/reserve-currency",
+        about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
+        pic: "@/assets/logos/RSR.svg",
+      },
+    ],
+    algorand: [
+      {
+        name: "Algorand Blog",
+        feed: "https://medium.com/feed/algorand-foundation",
+        site: "https://medium.com/algorand-foundation",
+        about: "Official Algorand Blog.",
+        pic: "@/assets/logos/ALGO.svg",
+      },
+      {
+        name: "Algorand Twitter",
+        feed: "https://nitter.zelcore.io/AlgoFoundation/rss",
+        site: "https://twitter.com/AlgoFoundation",
+        about: "Official Algorand Blog.",
+        pic: "@/assets/logos/ALGO.svg",
+      },
+      {
+        name: "Algorand Reddit",
+        feed: "https://reddit.com/r/AlgorandOfficial/.rss",
+        site: "https://www.reddit.com/r/AlgorandOfficial",
+        about: "Official Algorand Blog.",
+        pic: "@/assets/logos/ALGO.svg",
+      },
+    ],
+    usdtalgo: [
+      {
+        name: "Tether Reddit",
+        feed: "https://reddit.com/r/Tether/.rss",
+        site: "https://reddit.com/r/Tether",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
+        pic: "@/assets/logos/USDT.svg",
+      },
+      {
+        name: "Tether Twitter",
+        feed: "https://nitter.zelcore.io/tether_to/rss",
+        site: "https://twitter.com/tether_to",
+        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
+        pic: "@/assets/logos/USDT.svg",
+      },
+    ],
+    usdcalgo: [
+      {
+        name: "Centre Blog",
+        feed: "https://medium.com/feed/centre-blog",
+        site: "https://medium.com/centre-blog",
+        about: "USDC provides a fully collateralized US dollar stablecoin, and is based on the open source asset-backed stablecoin framework developed by Centre.",
+        pic: "@/assets/logos/USDC.svg",
+      },
+      {
+        name: "Centre Twitter",
+        feed: "https://nitter.zelcore.io/centre_io/rss",
+        site: "https://twitter.com/centre_io",
+        about: "USDC provides a fully collateralized US dollar stablecoin, and is based on the open source asset-backed stablecoin framework developed by Centre.",
+        pic: "@/assets/logos/USDC.svg",
+      },
+    ],
+    planetsalgo: [
+      {
+        name: "PlanetWatch Blog",
+        feed: "https://medium.com/feed/planet-watch",
+        site: "https://medium.com/planet-watch",
+        about: "Your planet needs you.",
+        pic: "@/assets/logos/Planets.svg",
+      },
+      {
+        name: "PlanetWatch Twitter",
+        feed: "https://nitter.zelcore.io/planetwatchsas/rss",
+        site: "https://twitter.com/planetwatchsas",
+        about: "Planetwatch decentralizes, incentivizes and gamifies air quality monitoring. Your planet needs you! $algo #planetwatchers $planet",
+        pic: "@/assets/logos/Planets.svg",
+      },
+    ],
+    xetalgo: [
+      {
+        name: "Xfinite Official",
+        feed: "https://medium.com/feed/xfiniteofficial",
+        site: "https://medium.com/xfiniteofficial",
+        about: "Welcome To The World Of Decentralized Entertainment Ecosystem",
+        pic: "@/assets/logos/XET.svg",
+      },
+      {
+        name: "Xfinite Official",
+        feed: "https://nitter.zelcore.io/XfiniteOfficial/rss",
+        site: "https://twitter.com/XfiniteOfficial",
+        about: "Building a decentralized entertainment ecosystem on @algorand $ALGO powered by $XET",
+        pic: "@/assets/logos/XET.svg",
+      },
+    ],
+    opulalgo: [
+      {
+        name: "Opulous",
+        feed: "https://opulous.medium.com/feed",
+        site: "https://opulous.medium.com",
+        about: "Bringing Music Assets into DeFi",
+        pic: "@/assets/logos/OPUL.svg",
+      },
+      {
+        name: "Opulous",
+        feed: "https://nitter.zelcore.io/opulousapp/rss",
+        site: "https://twitter.com/opulousapp",
+        about: "$OPUL is launching the next gen of #MFTs & peer-to-peer #DeFi loans to change how artists get funding & connect with fans. Built on @Algorand http://t.me/opulousapp",
+        pic: "@/assets/logos/OPUL.svg",
+      },
+    ],
+    stblalgo: [
+      {
+        name: "AlgoStable",
+        feed: "https://nitter.zelcore.io/algofiorg/rss",
+        site: "https://twitter.com/algofiorg",
+        about: "Building DeFi that scales on @Algorand. YC S21. Earn interest, borrow, and trade your crypto.",
+        pic: "@/assets/logos/STBL.svg",
+      },
+    ],
+    fluxalgo: [
+      {
+        name: "Flux Blog",
+        feed: "https://fluxofficial.medium.com/feed",
+        site: "https://fluxofficial.medium.com",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Flux Twitter",
+        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Zelcore Twitter",
+        feed: "https://nitter.zelcore.io/zelcore_io/rss",
+        site: "https://twitter.com/zelcore_io",
+        about: "Official zelcore Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+    ],
+    kaspa: [
+      {
+        name: "Kaspa Blog",
+        feed: "https://hashdag.medium.com/feed",
+        site: "https://hashdag.medium.com",
+        about: "Kaspa is a proof-of-work (PoW) cryptocurrency which implements the GHOSTDAG protocol.",
+        pic: "@/assets/logos/KAS.svg",
+      },
+      {
+        name: "Kaspa Twitter",
+        feed: "https://nitter.zelcore.io/CurrencyKaspa/rss",
+        site: "https://twitter.com/CurrencyKaspa",
+        about: "Kaspa is a proof-of-work (PoW) cryptocurrency which implements the GHOSTDAG protocol.",
+        pic: "@/assets/logos/KAS.svg",
+      },
+      {
+        name: "Kaspa Reddit",
+        feed: "https://www.reddit.com/r/kaspa/.rss",
+        site: "https://www.reddit.com/r/kaspa",
+        about: "Kaspa is a proof-of-work (PoW) cryptocurrency which implements the GHOSTDAG protocol.",
+        pic: "@/assets/logos/KAS.svg",
+      },
+    ],
+    fluxmatic: [
+      {
+        name: "Flux Blog",
+        feed: "https://fluxofficial.medium.com/feed",
+        site: "https://fluxofficial.medium.com",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Flux Twitter",
+        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Zelcore Twitter",
+        feed: "https://nitter.zelcore.io/zelcore_io/rss",
+        site: "https://twitter.com/zelcore_io",
+        about: "Official zelcore Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+    ],
+    usdcgoerli: [
+      {
+        name: "Circle Blog",
+        feed: "https://medium.com/feed/circle-blog",
+        site: "https://medium.com/circle-blog",
+        about: "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        pic: "@/assets/logos/USDC.svg",
+      },
+    ],
+    zusdtestkda: [],
+    zusdkda: [],
+    developmentkadena: [
+      {
+        name: "Kadena Twitter",
+        feed: "https://nitter.zelcore.io/kadena_io/rss",
+        site: "https://twitter.com/kadena_io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "@/assets/logos/KDA.svg",
+      },
+      {
+        name: "Kadena Medium",
+        feed: "https://medium.com/feed/kadena-io",
+        site: "https://medium.com/kadena-io",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "@/assets/logos/KDA.svg",
+      },
+      {
+        name: "Kadena Reddit",
+        feed: "https://www.reddit.com/r/kadena/.rss",
+        site: "https://www.reddit.com/r/kadena",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "@/assets/logos/KDA.svg",
+      },
+    ],
+    base: [
+      {
+        name: "Base Twitter",
+        feed: "https://nitter.zelcore.io/buildonbase/rss",
+        site: "https://twitter.com/buildonbase",
+        about: "A new Ethereum L2, incubated by Coinbase and built on the open-source OP Stack. We have no plans to issue a new network token.",
+        pic: "@/assets/logos/BASE.svg",
+      },
+      {
+        name: "Base Reddit",
+        feed: "https://www.reddit.com/r/CoinBase/.rss",
+        site: "https://www.reddit.com/r/CoinBase",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "@/assets/logos/BASE.svg",
+      },
+    ],
+    basegoerli: [
+      {
+        name: "Base Twitter",
+        feed: "https://nitter.zelcore.io/buildonbase/rss",
+        site: "https://twitter.com/buildonbase",
+        about: "A new Ethereum L2, incubated by Coinbase and built on the open-source OP Stack. We have no plans to issue a new network token.",
+        pic: "@/assets/logos/BASE.svg",
+      },
+      {
+        name: "Base Reddit",
+        feed: "https://www.reddit.com/r/CoinBase/.rss",
+        site: "https://www.reddit.com/r/CoinBase",
+        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+        pic: "@/assets/logos/BASE.svg",
+      },
+    ],
+    usdcbase: [
+      {
+        name: "Circle Blog",
+        feed: "https://medium.com/feed/circle-blog",
+        site: "https://medium.com/circle-blog",
+        about: "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        pic: "@/assets/logos/USDC.svg",
+      },
+    ],
+    daibase: [
+      {
+        name: "Sai Blog",
+        feed: "https://medium.com/feed/@MakerDAO",
+        site: "https://medium.com/@MakerDAO",
+        about: "Sai is an asset-backed, hard currency for the 21st century. The first decentralized stablecoin on the Ethereum blockchain.",
+        pic: "@/assets/logos/SAI.svg",
+      },
+    ],
+    fluxbase: [
+      {
+        name: "Flux Blog",
+        feed: "https://fluxofficial.medium.com/feed",
+        site: "https://fluxofficial.medium.com",
+        about: "Blog source for all things Flux, officially, from the Zelcore Team.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Flux Twitter",
+        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
+        site: "https://twitter.com/RunOnFlux",
+        about: "Official Flux Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+      {
+        name: "Zelcore Twitter",
+        feed: "https://nitter.zelcore.io/zelcore_io/rss",
+        site: "https://twitter.com/zelcore_io",
+        about: "Official zelcore Twitter.",
+        pic: "@/assets/logos/FLUX.svg",
+      },
+    ],
+    clore: [
+      {
+        name: "Clore.AI Twitter",
+        feed: "https://nitter.zelcore.io/clore_ai/rss",
+        site: "https://twitter.com/clore_ai",
+        about: "Official Clore.AI Twitter.",
+        pic: "@/assets/logos/CLORE.svg",
       },
     ],
   },

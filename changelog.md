@@ -1,9 +1,6 @@
 
 # Changelog
 
-## [7.7.1] - Apis cerana javana
-- Added suppport for Clore.AI blockchain
-
 ## [7.7.0] - Apis cerana javana
 ### Added
 - Added support for BASE L2 Ethereum blockchain mainnet
