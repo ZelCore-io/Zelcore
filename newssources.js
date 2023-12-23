@@ -1447,10 +1447,10 @@ const newssources = {
     ],
     ripple: [
       {
-        name: "Ripple Blog",
-        feed: "https://ripple.com/insights/feed",
-        site: "https://ripple.com",
-        about: "Ripple is centralized payment protocol used to hold fiat currency, cryptocurrency and commodities. Ripple has been adopted by banks and payment networks as settlement infrastructure technology.",
+        name: "Ripple Reddit",
+        feed: "https://reddit.com/r/ripple/.rss",
+        site: "https://reddit.com/r/ripple",
+        about: "XRP is a digital asset built for payments. It is the native digital asset on the XRP Ledger an open-source, permissionless and decentralized blockchain technology that can settle transactions in 3-5 seconds.",
         pic: "@/assets/logos/XRP.svg",
       },
     ],
@@ -3623,9 +3623,9 @@ const newssources = {
         pic: "@/assets/logos/XRP.svg",
       },
       {
-        name: "XRP Blog",
-        feed: "https://ripple.com/insights/feed",
-        site: "https://ripple.com",
+        name: "Ripple Reddit",
+        feed: "https://reddit.com/r/ripple/.rss",
+        site: "https://reddit.com/r/ripple",
         about: "XRP is a digital asset built for payments. It is the native digital asset on the XRP Ledger an open-source, permissionless and decentralized blockchain technology that can settle transactions in 3-5 seconds.",
         pic: "@/assets/logos/XRP.svg",
       },

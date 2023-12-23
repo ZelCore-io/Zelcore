@@ -4120,6 +4120,7 @@ const coins = {
       normal: 5,
       fast: 10,
     },
+    decimals: 6,
     color: "#0a93eb",
     explorer: backends.ripple.explorer,
     node: backends.ripple.node,
