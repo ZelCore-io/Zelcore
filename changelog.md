@@ -1,6 +1,44 @@
 
 # Changelog
 
+## [7.8.0] - Apis cerana nuluensis
+### Fixed
+- Fixed sinovate transactions and balance not showing up in the wallet
+- Fixed issue with kadena transactions missing on some tokens
+- Various minor styling & functional fixes
+
+### Added
+- Kadena coin and tokens' detailed view now displays balances on account and chain selection dropdowns
+- Tokens and coins will now be automatically added to the wallet after swap, fusion swap, parallel claiming, or snapshot claiming
+- Rework of Kadena transactions with new custom endpoint and flux hosted decentralized API
+- Removed EVE and Legacy Swap from the Apps page.
+- Performance optimizations
+- General improvements
+
+## [7.7.6] - Apis cerana javana
+### Fixed
+- Fixed bug that caused Zelcore to not start on Linux distros
+
+## [7.7.5] - Apis cerana javana
+### Fixed
+- Fixed imported wallet delete process not working
+- Fixed solana phantom private key import issue
+
+### Added
+- Updating bitcoinz daemon to latest version in full node
+- Rebranding KADDEX to EckoDEX
+
+## [7.7.4] - Apis cerana javana
+### Fixed
+- Reversed Hardware Wallet lib updates because of lack of binaries for windows.
+
+## [7.7.3] - Apis cerana javana
+### Fixed
+- Updating to latest Electron version. Zelcore will no longer support macOS 10.13 (High Sierra) and macOS 10.14 (Mojave)
+
+### Added
+- Updating Flux Full Node Wallet Binnaries to version 7.0.1
+
 ## [7.7.2] - Apis cerana javana
 ### Fixed
 - Updated XRP implementation to fix issue with balance and transactions not showing
@@ -8,6 +46,7 @@
 - Fixed issue of ZELID browser button not openning ZELID signing dialog in UBUNTU 22
 
 ## [7.7.1] - Apis cerana javana
+### Added
 - Added suppport for Clore.AI blockchain
 
 ## [7.7.0] - Apis cerana javana

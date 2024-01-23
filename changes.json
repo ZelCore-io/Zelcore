@@ -1,19 +1,19 @@
 {
-  "version": "7.7.1",
-  "codename": "Apis cerana javana",
+  "version": "7.8.0",
+  "codename": "Apis cerana nuluensis",
   "info": [
-    "Version 7.7 comes full support for BASE L2 Ethereum blockchain further more support for FLUX's newest PA (FLUX-BASE)!"
+    "Version 7.8 comes with kadena transactions rework, stability fixes, and various improvements."
   ],
   "bugs":[
-    "Improved wallet connect integration",
+    "Fixed sinovate transactions and balance not showing up in the wallet",
+    "Fixed issue with kadena transactions missing on some tokens",
     "Various minor styling & functional fixes"
   ],
   "features": [
-    "Added suppport for Clore.AI blockchain",
-    "Added support for BASE L2 Ethereum blockchain mainnet",
-    "Added support for BASE L2 Ethereum blockchain on walletconnect integration",
-    "Added support for FLUX's newest PA (FLUX-BASE)",
-    "Added support for BASE L2 Ethereum blockchain goerli testnet",
+    "Kadena coin and tokens' detailed view now displays balances on account and chain selection dropdowns",
+    "Tokens and coins will now be automatically added to the wallet after swap, fusion swap, parallel claiming, or snapshot claiming",
+    "Rework of Kadena transactions with new custom endpoint and flux hosted decentralized API",
+    "Removed EVE and Legacy Swap from the Apps page.",
     "Performance optimizations",
     "General improvements"
   ]

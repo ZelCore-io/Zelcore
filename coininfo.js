@@ -12083,6 +12083,43 @@ const coininfo = {
       "https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf",
     ],
   },
+  strxeth: {
+    description: "STORM is an ERC20-compliant token which operates on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain. CEO, and co-founder, Simon Yu, evolved this digital currency from an app called BitMaker, he and co-founder, Calvin Hsieh, worked on in 2014. BitMaker allowed users to send money without transaction fees which was the main reason this app experienced high growth volumes. A new feature called BitTask was introduced which allowed users to trade their time and effort for trying out new products in exchange for <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or Ethereum. This feature is now the STORM Play App and has experienced massive growth since its launch in Feb 2017.\r\n\r\nThe vision the founders have for STORM is beyond just an ordinary Cryptocurrency. They aim to create a marketplace for decentralized marketplace for tasks which will be called the “Storm Market”. “The Storm Market will operate similar to the Apple App Store or the Google Play Store in that it will serve as a platform where Storm Makers and Storm Players can create and accept tasks using smart contracts powered and paid for with STORM tokens.” The team is confident of the success of the app as it strongly relies on the give and takes model. By completing relatively easy and enjoyable tasks, users can potentially earn quite a bit of STORM, Ethereum or even Bitcoin.\r\n\r\nStorm Market is targeting the freelancing industry around micro-tasks. Currently, there are identified competitors in the market like Upwork, Mechanical Turk, etc. which are circulating huge amount of money through their platform with existing inefficiencies that ultimately creates hurdles for the freelancers. They deduct huge amount from their users earning by charging 40% of transaction cost.  The Storm market is striving to resolve the problems by providing following benefits, such as as compared to traditional micro-task marketplaces, they will charge reduce transaction fees. Besides, they Eliminate the interruption of any middlemen between buyers and sellers.\r\n\r\nStorm Market is a gamified micro-task marketplace that enables users to earn by completing different tasks. The company is expanding its platform by creating decentralized storm market by incorporating blockchain technology. In storm market, people can use their skills and talents to accomplish various tasks and get good rewards for it in the form of tokens. In short, a company is aiming to operate decentralized platform where anyone can offer or engage in tasks by utilizing blockchain based smart contracts supported by tokens (ERC-20).\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/storm-token/\">CoinBureau</a> for the complete review of Storm Token.",
+    total_supply: 12500000000,
+    circulating_supply: 12500000000,
+    websites: [
+      "https://stormx.io",
+    ],
+    explorers: [
+      "https://etherscan.io/token/0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+      "https://ethplorer.io/address/0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+    ],
+    medium: "",
+    discord: "https://discord.gg/ZeFH6D5c9F",
+    telegram: "https://t.me/stormxapp",
+    bitcointalk: "https://bitcointalk.org/index.php?topic=2006999",
+    facebook: "https://www.facebook.com/stormxio",
+    twitter: "https://twitter.com/stormxio",
+    reddit: "https://reddit.com/r/stormxio",
+    repository: "",
+    youtube: "https://www.youtube.com/stormxio",
+    instagram: "https://www.instagram.com/stormxio",
+    tiktok: "",
+    twitch: "",
+    linkedin: "",
+    cryptoCompareID: "STMX",
+    coinMarketCapID: "stormx",
+    coingeckoID: "storm",
+    auditInfos: [
+      {
+        auditor: "Quantstamp",
+        reportUrl: "https://certificate.quantstamp.com/view/sele-ct-x-storm-x-nft",
+      },
+    ],
+    whitepaper: [
+      "https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf",
+    ],
+  },
   reefeth: {
     description: "Reef is a [DeFi](https://coinmarketcap.com/alexandria/article/what-is-decentralized-finance) platform built on [Polkadot](https://coinmarketcap.com/currencies/polkadot-new/) that aims to deliver cross-chain trading. A yield engine and a smart liquidity aggregator are among the project’s offerings.\n\nWork began on the project in the second half of 2020. Those behind Reef argue that the process of trading, lending and staking crypto is currently fragmented — creating “a painful experience for all of its participants.”\n\nReef aggregates liquidity and provides automation. It also aims to address the drawbacks associated with existing trading platforms. While centralized exchanges are prone to security breaches, decentralized rivals can lack liquidity and are often difficult to use.\n\n\n# Who Are the Founders of Reef?\n\nReef was founded by Denko Mancheski. His motivation was to remove technical barriers to entry for retail investors who want to get involved with DeFi — and offer a straightforward decision-making process that takes a user’s appetite for risk into account.\n\nMancheski wanted to help crypto newcomers overcome the complexities associated with using order books, and enable them to learn how different protocols work with ease.\n\nBorn in Macedonia, Mancheski said that his passion for fintech led to him being introduced to blockchain technology. He has described forming a competent team as the biggest challenge associated with bringing Reef to life. \n\nWhen asked about the personal attributes that will help him become a successful entrepreneur, he added: “I have a very addictive personality — I just can’t stop doing something until I get to the imaginary goal that I set for myself.”\n\nMancheski previously worked as a chief technology officer for Adel, a global crypto community that serves as a “technology incubator for blockchain innovation.” He was also appointed as CTO for Viewly, a social video platform without advertisements.\n\n\n What Makes Reef Unique?\n\nReef is geared towards newcomers, as well as current DeFi users who find it difficult to keep up with the best investment strategies. The company also wants to tackle the high gas fees that are seen on the [Ethereum](https://coinmarketcap.com/currencies/ethereum/) blockchain, which some claim renders DeFi protocols “unusable.”\n\nWhen it comes to Reef’s unique attributes, one is linked to how any DeFi protocol can integrate into its operating system. Users can enter and exit into their chosen positions in a single click — and removes some of the hassle associated with managing liquidity pool tokens.\n\nBecause of how it has been built on Polkadot, Reef is able to support DeFi protocols on Avalanche, Moonbeam and Plasma, as well as on Ethereum and the Binance Smart Chain. As a result, Reef users have access to a broader number of platforms without requiring multiple accounts and a myriad of usernames and passwords that can be difficult to keep track of.\n\n\n Related Pages:\n\nFind out more about [Polkadot](http://coinmarketcap.com/currencies/polkadot).\n\nCheck out our [deep dive into decentralized finance](https://coinmarketcap.com/alexandria/article/what-is-decentralized-finance).\n\nLearn about cryptocurrencies with [CoinMarketCap Alexandria](https://coinmarketcap.com/alexandria/).\n\nSubscribe to the [CoinMarketCap newsletter](https://coinmarketcap.com/newsletter).\n\n\n How Many Reef (REEF) Coins Are There in Circulation?\n\nAt present, REEF has a circulating supply of above three billion tokens. When it comes to the total token supply, approximately 3% has been allocated to Binance Launchpool, while 21% has been distributed to investors through token sales. The Reef team holds 16% of the supply and a specially created foundation has 17.5%, with about 12.5% earmarked for developing the ecosystem. The remaining 30% is devoted to protocol emissions and liquidity rewards, and tokens are going to be gradually released between now and the end of 2025.\n\n\n# How Is the Reef Network Secured?\n\nAccording to Reef, the network is secured under the shared security model operated by Polkadot. Not only does this make the network resilient, but it also means that upgrades can be performed without forks.\n\nA decentralized autonomous organization has also been established that is governed by those who hold REEF tokens.\n\n\n# Where Can You Buy Reef (REEF)?\n\nREEF is available on [Binance](https://coinmarketcap.com/exchanges/binance/) in two trading pairs — linking this token with [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/) and the [USDT](https://coinmarketcap.com/currencies/tether/) stablecoin. It has also been listed on Bilaxy. REEF can also be acquired through the decentralized [Uniswap](https://coinmarketcap.com/exchanges/uniswap-v2/) exchange using Wrapped Ether and USDT. [Read more about how to convert fiat currencies to crypto here.](https://coinmarketcap.com/how-to-buy-bitcoin/)",
     total_supply: null,
@@ -17460,30 +17497,30 @@ const coininfo = {
     ],
   },
   kdx: {
-    description: "Kaddex (KDX) is governance token of end-to-end decentralized trading on Kadena. Featuring lightining speed, at zero cost, on Kadena’s secure infinite scalability.",
+    description: "eckoDEX (KDX) is governance token of end-to-end decentralized trading on Kadena. Featuring lightining speed, at zero cost, on Kadena’s secure infinite scalability.",
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://kaddex.com",
+      "https://dex.ecko.finance",
     ],
     explorers: [
       "https://explorer.chainweb.com",
     ],
-    medium: "https://medium.com/kaddex",
-    discord: "https://discord.com/invite/QSJpHRFDcv",
-    telegram: "https://t.me/KaddeXofficial",
+    medium: "https://blog.ecko.finance",
+    discord: "https://discord.com/invite/eckodao",
+    telegram: "https://t.me/eckofinance",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/kaddexofficial",
+    twitter: "https://twitter.com/eckoDAO",
     reddit: "",
-    repository: "https://github.com/kaddex-org/",
-    youtube: "https://www.youtube.com/channel/UCqne8XRfTGTQMr_9BXyfHBg",
+    repository: "https://github.com/eckoDAO-org",
+    youtube: "https://www.youtube.com/@eckodao",
     instagram: "",
     tiktok: "",
     twitch: "",
     linkedin: "",
     cryptoCompareID: "",
-    coinMarketCapID: "",
+    coinMarketCapID: "kaddex",
     coingeckoID: "kaddex",
     auditInfos: [
       {
@@ -17492,34 +17529,34 @@ const coininfo = {
       },
     ],
     whitepaper: [
-      "https://kaddex.com/kaddex%20litepaper.pdf",
+      "https://dex.ecko.finance/litepaper-eckoDEX.pdf",
     ],
   },
   skdx: {
-    description: "Staked Kaddex (SKDX) is a staked version of Kaddex (KDX) Token is governance token of end-to-end decentralized trading on Kadena. Featuring lightining speed, at zero cost, on Kadena’s secure infinite scalability.",
+    description: "Staked eckoDEX (SKDX) is a staked version of eckoDEX (KDX) Token is governance token of end-to-end decentralized trading on Kadena. Featuring lightining speed, at zero cost, on Kadena’s secure infinite scalability.",
     total_supply: 1000000000,
     circulating_supply: 1000000000,
     websites: [
-      "https://kaddex.com",
+      "https://dex.ecko.finance",
     ],
     explorers: [
       "https://explorer.chainweb.com",
     ],
-    medium: "https://medium.com/kaddex",
-    discord: "https://discord.com/invite/QSJpHRFDcv",
-    telegram: "https://t.me/KaddeXofficial",
+    medium: "https://blog.ecko.finance",
+    discord: "https://discord.com/invite/eckodao",
+    telegram: "https://t.me/eckofinance",
     bitcointalk: "",
     facebook: "",
-    twitter: "https://twitter.com/kaddexofficial",
+    twitter: "https://twitter.com/eckoDAO",
     reddit: "",
-    repository: "https://github.com/kaddex-org/",
-    youtube: "https://www.youtube.com/channel/UCqne8XRfTGTQMr_9BXyfHBg",
+    repository: "https://github.com/eckoDAO-org",
+    youtube: "https://www.youtube.com/@eckodao",
     instagram: "",
     tiktok: "",
     twitch: "",
     linkedin: "",
     cryptoCompareID: "",
-    coinMarketCapID: "",
+    coinMarketCapID: "kaddex",
     coingeckoID: "kaddex",
     auditInfos: [
       {
@@ -17528,7 +17565,7 @@ const coininfo = {
       },
     ],
     whitepaper: [
-      "https://kaddex.com/kaddex%20litepaper.pdf",
+      "https://dex.ecko.finance/litepaper-eckoDEX.pdf",
     ],
   },
   ergo: {
@@ -17826,7 +17863,7 @@ const coininfo = {
     reddit: "",
     repository: "https://github.com/CometCommunity",
     youtube: "",
-    instagram: "https://www.instagram.com/comet_token/",
+    instagram: "https://www.instagram.com/comet_token",
     tiktok: "",
     twitch: "",
     linkedin: "",
@@ -18041,7 +18078,7 @@ const coininfo = {
     total_supply: 4500000000,
     circulating_supply: 1062974511,
     websites: [
-      "https://www.planetwatch.io/",
+      "https://www.planetwatch.io",
     ],
     explorers: [
       "https://algoexplorer.io/asset/27165954",
@@ -18064,7 +18101,7 @@ const coininfo = {
     coingeckoID: "planetwatch",
     auditInfos: [],
     whitepaper: [
-      "https://www.planetwatch.us/white-paper/",
+      "https://www.planetwatch.us/white-paper",
     ],
   },
   xetalgo: {
@@ -18072,7 +18109,7 @@ const coininfo = {
     total_supply: 4000000000,
     circulating_supply: 4000000000,
     websites: [
-      "https://www.xfinite.io/",
+      "https://www.xfinite.io",
     ],
     explorers: [
       "https://algoexplorer.io/asset/283820866",
@@ -18095,7 +18132,7 @@ const coininfo = {
     coingeckoID: "xfinite-entertainment-token",
     auditInfos: [],
     whitepaper: [
-      "https://drive.google.com/file/d/1FOVr4VZwjSCdw8LgmwgPd9MxBRCvIlls/viewhttps://www.planetwatch.us/white-paper/",
+      "https://drive.google.com/file/d/1FOVr4VZwjSCdw8LgmwgPd9MxBRCvIlls/viewhttps://www.planetwatch.us/white-paper",
     ],
   },
   opulalgo: {
@@ -18103,7 +18140,7 @@ const coininfo = {
     total_supply: 500000000,
     circulating_supply: 153762692,
     websites: [
-      "https://opulous.org/",
+      "https://opulous.org",
     ],
     explorers: [
       "https://algoexplorer.io/asset/287867876",
@@ -18134,7 +18171,7 @@ const coininfo = {
     total_supply: 1000000000000,
     circulating_supply: 462356,
     websites: [
-      "https://www.algofi.org/",
+      "https://www.algofi.org",
     ],
     explorers: [
       "https://algoexplorer.io/asset/465865291",
@@ -18389,7 +18426,7 @@ const coininfo = {
       "https://www.coinbase.com/blog/introducing-base",
     ],
     explorers: [
-      "https://basescan.org/",
+      "https://basescan.org",
       "https://base.blockscout.com",
     ],
     medium: "",
@@ -18420,8 +18457,8 @@ const coininfo = {
       "https://www.coinbase.com/blog/introducing-base",
     ],
     explorers: [
-      "https://goerli.basescan.org/",
-      "https://basescan.org/",
+      "https://goerli.basescan.org",
+      "https://basescan.org",
       "https://base.blockscout.com",
     ],
     medium: "",

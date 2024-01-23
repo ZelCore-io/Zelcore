@@ -10130,7 +10130,7 @@ const coins = {
   },
   stmxeth: {
     coin: "stmxeth",
-    name: "StormX ERC20",
+    name: "StormX Old ERC20",
     uri: [
       "stormx",
       "stmx",
@@ -10149,6 +10149,34 @@ const coins = {
       fast: 20,
     },
     contractAddress: "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+    color: "#fc2c54",
+    decimals: 18,
+    explorer: backends.eth.explorer,
+    node: backends.eth.node,
+    api: backends.eth.api,
+  },
+  strxeth: {
+    coin: "strxeth",
+    name: "StormX ERC20",
+    uri: [
+      "stormx",
+      "stmx",
+      "stmxeth",
+      "strxeth",
+    ],
+    addresses: [],
+    unit: "STMX",
+    type: "eth",
+    family: "ethlike",
+    coinType: "token",
+    logolink: "@/assets/logos/STMX.svg",
+    fee: 63000,
+    feepolicy: {
+      economy: 10,
+      normal: 15,
+      fast: 20,
+    },
+    contractAddress: "0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
     color: "#fc2c54",
     decimals: 18,
     explorer: backends.eth.explorer,
@@ -14635,7 +14663,7 @@ const coins = {
   },
   kdx: {
     coin: "kdx",
-    name: "Kaddex KDA",
+    name: "eckoDEX KDA",
     uri: [
       "kdx",
     ],

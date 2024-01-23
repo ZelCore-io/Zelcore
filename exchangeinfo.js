@@ -41,6 +41,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -99,6 +100,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 20,
+    orderBookLimit: 20,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1min",
@@ -118,134 +120,138 @@ const implementedExchanges = {
       "1W": "1week",
     },
   },
-  ftx: {
-    name: "FTX",
-    isZelcorePlus: false,
-    apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
-    msgName: "ftx",
-    msgDesc: "ex_ftx_text",
-    logolink: "@/assets/logos/Exchanges/FTX.svg",
-    ccxtName: "ftx",
-    hasFlux: false,
-    ccxtOptions: {
-      // verbose: true,
-      options: {
-        // adjustForTimeDifference: false,
-      },
-    },
-    apiData: {
-      key: true,
-      secret: true,
-      password: false,
-      token: false,
-    },
-    // web socket urls
-    klineUri: null, // "wss://ftx.com/ws";
-    aggregatedOrdersUrl: "wss://ftx.com/ws",
-    tickerUrl: "wss://ftx.com/ws",
-    // Bars resolutions
-    barsRes: ["1", "5", "15", "60", "240", "1D", "3D", "1W", "2W", "1M"],
-    // OHVL CCXT interval
-    intervalArray: {
-      1: "1m",
-      5: "5m",
-      15: "15m",
-      60: "1h",
-      240: "4h",
-      D: "1d",
-      "1D": "1d",
-      "3D": "3d",
-      W: "1w",
-      "1W": "1w",
-      "2W": "2w",
-      M: "1M",
-      "1M": "1M",
-    },
-    klineLimit: 2500,
-    aggregatedOrdersLimit: 50,
-    // OHVL websocket interval or manual tv update same as interval
-    interval: {
-      // TODO no OHLCV
-      1: "1m",
-      5: "5m",
-      15: "15m",
-      60: "1h",
-      240: "4h",
-      D: "1d",
-      "1D": "1d",
-      "3D": "3d",
-      W: "1w",
-      "1W": "1w",
-      "2W": "2w",
-      M: "1M",
-      "1M": "1M",
-    },
-  },
-  ftxus: {
-    name: "FTXUS",
-    isZelcorePlus: false,
-    apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
-    msgName: "ftx_us",
-    msgDesc: "ex_ftx_text",
-    logolink: "@/assets/logos/Exchanges/FTXUS.svg",
-    ccxtName: "ftxus",
-    hasFlux: false,
-    ccxtOptions: {
-      // hostname: "ftx.us",
-      // name: "FTXUS",
-      // verbose: true,
-      options: {
-        // adjustForTimeDifference: false,
-      },
-    },
-    apiData: {
-      key: true,
-      secret: true,
-      password: false,
-      token: false,
-    },
-    // web socket urls
-    klineUri: null, // "wss://ftx.us/ws";
-    aggregatedOrdersUrl: "wss://ftx.us/ws",
-    tickerUrl: "wss://ftx.us/ws",
-    // Bars resolutions
-    barsRes: ["1", "5", "15", "60", "240", "1D", "3D", "1W", "2W", "1M"],
-    // OHVL CCXT interval
-    intervalArray: {
-      1: "1m",
-      5: "5m",
-      15: "15m",
-      60: "1h",
-      240: "4h",
-      D: "1d",
-      "1D": "1d",
-      "3D": "3d",
-      W: "1w",
-      "1W": "1w",
-      "2W": "2w",
-      M: "1M",
-      "1M": "1M",
-    },
-    klineLimit: 2500,
-    aggregatedOrdersLimit: 50,
-    // OHVL websocket interval or manual tv update same as interval
-    interval: {
-      // TODO no OHLCV
-      1: "1m",
-      5: "5m",
-      15: "15m",
-      60: "1h",
-      240: "4h",
-      D: "1d",
-      "1D": "1d",
-      "3D": "3d",
-      W: "1w",
-      "1W": "1w",
-      "2W": "2w",
-      M: "1M",
-      "1M": "1M",
-    },
-  },
+  // ftx: {
+  //   name: "FTX",
+  //   isZelcorePlus: false,
+  //   isDisabled: true,
+  //   apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
+  //   msgName: "ftx",
+  //   msgDesc: "ex_ftx_text",
+  //   logolink: "@/assets/logos/Exchanges/FTX.svg",
+  //   ccxtName: "ftx",
+  //   hasFlux: false,
+  //   ccxtOptions: {
+  //     // verbose: true,
+  //     options: {
+  //       // adjustForTimeDifference: false,
+  //     },
+  //   },
+  //   apiData: {
+  //     key: true,
+  //     secret: true,
+  //     password: false,
+  //     token: false,
+  //   },
+  //   // web socket urls
+  //   klineUri: null, // "wss://ftx.com/ws";
+  //   aggregatedOrdersUrl: "wss://ftx.com/ws",
+  //   tickerUrl: "wss://ftx.com/ws",
+  //   // Bars resolutions
+  //   barsRes: ["1", "5", "15", "60", "240", "1D", "3D", "1W", "2W", "1M"],
+  //   // OHVL CCXT interval
+  //   intervalArray: {
+  //     1: "1m",
+  //     5: "5m",
+  //     15: "15m",
+  //     60: "1h",
+  //     240: "4h",
+  //     D: "1d",
+  //     "1D": "1d",
+  //     "3D": "3d",
+  //     W: "1w",
+  //     "1W": "1w",
+  //     "2W": "2w",
+  //     M: "1M",
+  //     "1M": "1M",
+  //   },
+  //   klineLimit: 2500,
+  //   aggregatedOrdersLimit: 50,
+  //   orderBookLimit: undefined,
+  //   // OHVL websocket interval or manual tv update same as interval
+  //   interval: {
+  //     // TODO no OHLCV
+  //     1: "1m",
+  //     5: "5m",
+  //     15: "15m",
+  //     60: "1h",
+  //     240: "4h",
+  //     D: "1d",
+  //     "1D": "1d",
+  //     "3D": "3d",
+  //     W: "1w",
+  //     "1W": "1w",
+  //     "2W": "2w",
+  //     M: "1M",
+  //     "1M": "1M",
+  //   },
+  // },
+  // ftxus: {
+  //   name: "FTXUS",
+  //   isZelcorePlus: false,
+  //   isDisabled: true,
+  //   apiKeyHelpURL: "https://help.ftx.com/hc/en-us/articles/360028807171-API-docs",
+  //   msgName: "ftx_us",
+  //   msgDesc: "ex_ftx_text",
+  //   logolink: "@/assets/logos/Exchanges/FTXUS.svg",
+  //   ccxtName: "ftxus",
+  //   hasFlux: false,
+  //   ccxtOptions: {
+  //     // hostname: "ftx.us",
+  //     // name: "FTXUS",
+  //     // verbose: true,
+  //     options: {
+  //       // adjustForTimeDifference: false,
+  //     },
+  //   },
+  //   apiData: {
+  //     key: true,
+  //     secret: true,
+  //     password: false,
+  //     token: false,
+  //   },
+  //   // web socket urls
+  //   klineUri: null, // "wss://ftx.us/ws";
+  //   aggregatedOrdersUrl: "wss://ftx.us/ws",
+  //   tickerUrl: "wss://ftx.us/ws",
+  //   // Bars resolutions
+  //   barsRes: ["1", "5", "15", "60", "240", "1D", "3D", "1W", "2W", "1M"],
+  //   // OHVL CCXT interval
+  //   intervalArray: {
+  //     1: "1m",
+  //     5: "5m",
+  //     15: "15m",
+  //     60: "1h",
+  //     240: "4h",
+  //     D: "1d",
+  //     "1D": "1d",
+  //     "3D": "3d",
+  //     W: "1w",
+  //     "1W": "1w",
+  //     "2W": "2w",
+  //     M: "1M",
+  //     "1M": "1M",
+  //   },
+  //   klineLimit: 2500,
+  //   aggregatedOrdersLimit: 50,
+  //   orderBookLimit: undefined,
+  //   // OHVL websocket interval or manual tv update same as interval
+  //   interval: {
+  //     // TODO no OHLCV
+  //     1: "1m",
+  //     5: "5m",
+  //     15: "15m",
+  //     60: "1h",
+  //     240: "4h",
+  //     D: "1d",
+  //     "1D": "1d",
+  //     "3D": "3d",
+  //     W: "1w",
+  //     "1W": "1w",
+  //     "2W": "2w",
+  //     M: "1M",
+  //     "1M": "1M",
+  //   },
+  // },
   binance: {
     name: "Binance",
     isZelcorePlus: true,
@@ -297,6 +303,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -369,6 +376,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -437,6 +445,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 25,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: 1,
@@ -497,7 +506,8 @@ const implementedExchanges = {
       "1Y": "1y",
     },
     klineLimit: 999,
-    aggregatedOrdersLimit: 50,
+    aggregatedOrdersLimit: 150,
+    orderBookLimit: undefined,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1min",
@@ -557,6 +567,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -607,6 +618,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 25,
+    orderBookLimit: 25,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -659,6 +671,7 @@ const implementedExchanges = {
     },
     klineLimit: 999,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -713,6 +726,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: 1,
@@ -772,6 +786,7 @@ const implementedExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1",
@@ -840,6 +855,7 @@ const expirimentalExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -908,6 +924,7 @@ const expirimentalExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -965,6 +982,7 @@ const expirimentalExchanges = {
     },
     klineLimit: 750,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1m",
@@ -1020,6 +1038,7 @@ const expirimentalExchanges = {
     },
     klineLimit: 2500,
     aggregatedOrdersLimit: 50,
+    orderBookLimit: 50,
     // OHVL websocket interval or manual tv update same as interval
     interval: {
       1: "1min",
