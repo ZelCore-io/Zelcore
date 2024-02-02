@@ -1,6 +1,24 @@
 
 # Changelog
 
+## [7.9.0] - Apis cerana skorikovi
+
+### Fixed
+- Updated Solana package and its implementation
+- Updated SPL package and its implementation
+- Updated Ergo implementation
+- Updated Monero implementation
+- Updated Ethereum common implementation
+- Updated Stellar implementation
+- Updated Substrate implementation
+- Updated Tron implementation
+- Various minor updates of other packages
+- Various minor styling & functional fixes
+
+### Added
+- Performance optimizations
+- General improvements
+
 ## [7.8.0] - Apis cerana nuluensis
 ### Fixed
 - Fixed sinovate transactions and balance not showing up in the wallet
@@ -120,7 +138,7 @@
 ## [7.3.3] - Apis andreniformis
 ### Fixed
 -- Improvements to walletconnect V2 protocol,
--- Improvements to swap UI and functionality",
+-- Improvements to swap UI and functionality
 
 ---
 ## [7.3.2] - Apis andreniformis

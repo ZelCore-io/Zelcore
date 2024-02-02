@@ -1,19 +1,22 @@
 {
-  "version": "7.8.0",
-  "codename": "Apis cerana nuluensis",
+  "version": "7.9.0",
+  "codename": "Apis cerana skorikovi",
   "info": [
-    "Version 7.8 comes with kadena transactions rework, stability fixes, and various improvements."
+    "Version 7.9 comes with major blockchain implementation rework, stability fixes, and various improvements."
   ],
   "bugs":[
-    "Fixed sinovate transactions and balance not showing up in the wallet",
-    "Fixed issue with kadena transactions missing on some tokens",
+    "Updated Solana package and its implementation",
+    "Updated SPL package and its implementation",
+    "Updated Ergo implementation",
+    "Updated Monero implementation",
+    "Updated Ethereum common implementation",
+    "Updated Stellar implementation",
+    "Updated Substrate implementation",
+    "Updated Tron implementation",
+    "Various minor updates of other packages",
     "Various minor styling & functional fixes"
   ],
   "features": [
-    "Kadena coin and tokens' detailed view now displays balances on account and chain selection dropdowns",
-    "Tokens and coins will now be automatically added to the wallet after swap, fusion swap, parallel claiming, or snapshot claiming",
-    "Rework of Kadena transactions with new custom endpoint and flux hosted decentralized API",
-    "Removed EVE and Legacy Swap from the Apps page.",
     "Performance optimizations",
     "General improvements"
   ]
