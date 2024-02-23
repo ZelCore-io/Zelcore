@@ -16,6 +16,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Binance Chain BEP2 Tokens, following configuration shall be present
 
+```js
     btcb: {
       coin: "btcb",
       name: "Bitcoin BEP2",
@@ -36,7 +37,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
       explorer: [
         "https://explorer.binance.org/tx/",
       ],
-      logolink: "static/logos/BTCB.svg",
+      logolink: "@/assets/logos/BTCB.svg",
       node: [
         "https://explorer.binance.org/",
       ],
@@ -53,6 +54,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
       identifier: "BTCB-1DE",
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add trc behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add trc behind it.
@@ -153,7 +155,7 @@ Here is an example for Quant
         feed: "https://www.reddit.com/r/bitcoin/.rss",
         site: "https://www.reddit.com/r/bitcoin/",
         about: "Subreddit for the discussion of Bitcoin 'The official source for CryptoCurrency News, Discussion & Analysis.",
-        pic: "static/logos/BTCB.svg",
+        pic: "@/assets/logos/BTCB.svg",
       },
     ],
 This array is an object of available news for an asset.

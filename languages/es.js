@@ -1,3 +1,8 @@
+/**
+ * Language: Spanish
+ * Language-code: es
+ */
+
 export default {
   message: {
     // universal
@@ -45,6 +50,10 @@ export default {
     hello: "Hola",
     here_manage_account: "Aquí puede administrar la configuración de su cuenta",
     search: "Buscar",
+    filter_open: "Abrir filtro",
+    filter_remove: "Quitar filtro",
+    filter_close: "Cerrar filtro",
+    filter: "Filtrar",
     gas: "Gas",
     gwei: "Gwei",
     name: "Nombre",
@@ -263,7 +272,7 @@ export default {
     ethereum_network: "Ethereum Red",
     tron_network: "Tron Red",
     omni_network: "Omni Red Capa",
-    neo_network: "NEO Red",
+    neo_network: "NEO Red Legacy",
     ontology_network: "Ontology Red",
     giftcard_tokens: "Giftcard Tokens",
     testnet_coins: "Testnet Red Coins",
@@ -395,7 +404,7 @@ export default {
     eos_account_exchange: "Cuenta EOS para el intercambio:",
     neo_whole_numbers: "Por favor, ingrese solo la cantidad total de NEO (1, 2 etc... )",
     xrp_activation_required: "Se requiere la activación de XRP",
-    xrp_requires_locked: "Se requiere 20 XRP como reserva bloqueada. Haga clic para ver los detalles.",
+    xrp_requires_locked: "Se requiere 10 XRP como reserva bloqueada. Haga clic para ver los detalles.",
     confirmations: "Confirmaciones: {confirmations}",
     internal_transaction: "Internal Transaction: Yes",
     tx_fee_paid: "Tarifa de transacción: {txfee} {unit}",
@@ -672,14 +681,14 @@ export default {
     nimbuss: "Nimbuss",
     stratuss: "Stratus",
     cumulus_spec: "Requisitos Cumulus de FluxNode:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Servidor: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Servidor: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: "Requisitos de Nimbus FluxNode:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Servidor: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Servidor: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: "Requisitos de Stratus FluxNode:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Servidor: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Servidor: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Introduzca la dirección IP de su servidor",
     i_do_not_server: "No tengo un servidor",
     want_a_server: "Nos hemos asociado con proveedores como DigitalOcean y Amazon Web Services. ¡Puede configurar un servidor en pocos minutos e incluso obtener un descuento!",

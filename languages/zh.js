@@ -1,3 +1,8 @@
+/**
+ * Language: Chinese
+ * Language-code: zh
+ */
+
 export default {
   message: {
     // Universal
@@ -12,10 +17,15 @@ export default {
     quit: "退出",
     help: "帮助",
     help_center: "帮助中心",
+    help_message: "我们会在这里帮助您",
+    help_faq: "浏览FAQ以便快速寻找答案",
+    help_support: "有任何问题均可以寻求我们的帮助",
+    help_discord: "请与Discord社区联系",
     join_zel_community: "或者在这加入Zel社区",
     faq: "常问问题及答案",
     verify: "验证",
     live_support: "在线支援",
+    support: "支援",
     forums: "论坛",
     information: "讯息：",
     fixed_bugs: "修复了错误：",
@@ -43,6 +53,10 @@ export default {
     hello: "你好",
     here_manage_account: "您可以在此处管理帐户的设置。",
     search: "搜索",
+    filter_open: "打开筛选器",
+    filter_remove: "刪除過濾器",
+    filter_close: "关闭筛选器",
+    filter: "筛选",
     gas: "燃料",
     gwei: "Gwei",
     name: "名字",
@@ -56,6 +70,7 @@ export default {
     exit_full_node: "退出整个节点",
     action_shutdown_fullnode: "此操作将关闭整个节点钱包部分。 你想继续吗?",
     close_action: "关闭操作",
+    confirm_logout: "确定退出",
 
     // words
     approx_symbol: "~",
@@ -137,6 +152,7 @@ export default {
     easy_login_phrase: "快捷登录短语",
     enter_your_password: "输入您的密码",
     login: "登录",
+    welcome_message: "欢迎光临",
     register_account_locally: "在本地注册帐户",
     no_proxy: "不使用代理服務器",
     proxy_capital: "使用代理服務器",
@@ -412,14 +428,14 @@ export default {
     nimbus: "Nimbus",
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNode要求：",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Server: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: " Nimbus FluxNode要求：",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Server: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Server: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: " Stratus FluxNode要求：",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Server: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Server: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "输入服务器的IP地址",
     i_do_not_server: "我没有服务器",
     want_a_server: "我们与DigitalOcean和Amazon网页服务等提供商建立了合作关系。您可以在几分钟内设置服务器，甚至可以获得折扣！",

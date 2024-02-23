@@ -1,3 +1,7 @@
+/**
+ * Language: Danish
+ * Language-code: dk
+ */
 export default {
   message: {
     // Universal
@@ -42,6 +46,10 @@ export default {
     hello: "Hej",
     here_manage_account: "Her kan du administrere dine konto indstillinger.",
     search: "Søg",
+    filter_open: "Åbn filter",
+    filter_remove: "Fjern filteret",
+    filter_close: "Luk filteret",
+    filter: "Filter",
     gas: "Gas",
     gwei: "Gwei",
     name: "Navn",
@@ -418,14 +426,14 @@ export default {
     nimbus: "Nimbus",
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNode krav:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Server: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Server: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: " Nimbus FluxNode krav:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Server: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Server: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: " Stratus FluxNode krav:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Server: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Server: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Indtast IP-adresse på din server",
     i_do_not_server: "Jeg har ikke en server",
     want_a_server: "Vi samarbejder med udbydere som DigitalOcean og Amazon Web Services. Du kan opsætte en server inden for et par minutter og endda få rabat!",

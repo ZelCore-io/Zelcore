@@ -1,6 +1,6 @@
-# Integrating Tron Token
+# Integrating Polygon Token
 
-Integration of Tron TRC20 Token is fairly straightforward and consist of following integration scheme.
+Integration of Polygon ERC20 Token is fairly straightforward and consist of following integration scheme.
 Integration is done in 2 steps.
 
  1. Adjusting zelcore files
@@ -14,8 +14,9 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 ### coinSimple.js
 
-This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Tron TRC20 Tokens, following configuration shall be present
+This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Polygon ERC20 Tokens, following configuration shall be present
 
+```js
     usdcpoly: {
       coin: "usdcpoly",
       name: "USD Coin POLY",
@@ -30,10 +31,12 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
       unit: "USDC",
       type: "polygon",
+      family: "ethlike",
+      coinType: "token",
       explorer: [
         "https://polygonscan.com/tx/",
       ],
-      logolink: "static/logos/USDC_POLY.svg",
+      logolink: "@/assets/logos/USDC_POLY.svg",
       node: [
         "https://rpc-mainnet.maticvigil.com/v1/402f9f697388f6a978ca9579a79e6b17d60f1378",
         "https://polygon-rpc.com",
@@ -51,6 +54,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "polygon",
       ],
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add trc behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add trc behind it.
@@ -61,14 +65,14 @@ This file consist of an object of coin objects. This is a definition of a coin a
 - addresses: [] - leave like this
 - api - api which zelcore shall use for this coin. Note the contract address inside. This has to be changed correctly to your token
 - unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition
-- type: "tron" - leave like this for tron token
+- type: "polygon" - leave like this for polygon token
 - explorer array - you can add more explorers that can be used for the showing transactions on the particular coin
 - logolink - path inside zelcore to your logo. Logos are always svg file and shall be named as your UNIT.svg
    node - available infura nodes. Feel free to add yours as well or any infura compatible node
 - fee - default fee used for the token. Leave as 0.1. Others shall be discouraged and are not reflected anyway.
-- feepolicy - economy, normal and fast fee policies. This field is obsolete and not used for Tron. It is left only for future compatibility. Leave like it is.
+- feepolicy - economy, normal and fast fee policies. This field is obsolete and not used for Polygon. It is left only for future compatibility. Leave like it is.
 - color - dominant color of the Token. Shall correspond to logo
-- backend - Only Tron type backend is coded. Leave like this.
+- backend - Only polygon type backend is coded. Leave like this.
 
 ### coininfo.js
 
@@ -156,14 +160,14 @@ Here is an example for Quant
         feed: "https://www.circle.com/blog/rss.xml",
         site: "https://www.circle.com/blog",
         about: "USD Coin (known by its ticker USDC) is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis.",
-        pic: "static/logos/USDC_POLY.svg",
+        pic: "@/assets/logos/USDC_POLY.svg",
       },
       {
         name: "USD Coin Medium",
         feed: "https://medium.com/feed/centre-blog",
         site: "https://medium.com/centre-blog",
         about: "USD Coin (known by its ticker USDC) is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis.",
-        pic: "static/logos/USDC_POLY.svg",
+        pic: "@/assets/logos/USDC_POLY.svg",
       },
     ],
 

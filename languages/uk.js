@@ -1,3 +1,8 @@
+/**
+ * Language: Ukranian
+ * Language-code: uk
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Привіт",
     here_manage_account: "Тут ви можете керувати налаштуваннями акаунта.",
     search: "Пошук",
+    filter_open: "Відкритий фільтр",
+    filter_remove: "Зняти фільтр",
+    filter_close: "Закрити фільтр",
+    filter: "фільтр",
     gas: "Gas",
     gwei: "Gwei",
     name: "Ім'я",
@@ -418,14 +427,14 @@ export default {
     nimbus: "Nimbus",
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNode потребує:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Сервер: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Сервер: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: " Nimbus FluxNode потребує:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Сервер: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Сервер: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: " Stratus FluxNode потребує:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Сервер: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Сервер: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Введіть IP адресу вашого серверу",
     i_do_not_server: "У мене немає серверу",
     want_a_server: "Ми співпрацюємо з такими провайдерами, як DigitalOcean і Amazon Web Services. Ви можете налаштувати сервер протягом декількох хвилин і навіть отримати знижку!",

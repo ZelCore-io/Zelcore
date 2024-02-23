@@ -1,0 +1,23 @@
+{
+  "version": "7.9.0",
+  "codename": "Apis cerana skorikovi",
+  "info": [
+    "Version 7.9 comes with major blockchain implementation rework, stability fixes, and various improvements."
+  ],
+  "bugs":[
+    "Updated Solana package and its implementation",
+    "Updated SPL package and its implementation",
+    "Updated Ergo implementation",
+    "Updated Monero implementation",
+    "Updated Ethereum common implementation",
+    "Updated Stellar implementation",
+    "Updated Substrate implementation",
+    "Updated Tron implementation",
+    "Various minor updates of other packages",
+    "Various minor styling & functional fixes"
+  ],
+  "features": [
+    "Performance optimizations",
+    "General improvements"
+  ]
+}

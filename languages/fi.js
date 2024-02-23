@@ -1,3 +1,8 @@
+/**
+ * Language: Finnish
+ * Language-code: fi
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Hei",
     here_manage_account: "Täällä sinä voit hallinnoida tilin asetuksia.",
     search: "Etsi",
+    filter_open: "Avaa suodatin",
+    filter_remove: "Poista suodatin",
+    filter_close: "Sulje suodatin",
+    filter: "Suodattaa",
     gas: "Gas",
     gwei: "Gwei",
     name: "Nimi",
@@ -426,14 +435,14 @@ export default {
     nimbus: "Nimbus",
     stratus: "Stratus",
     cumulus_spec: " Cumulus FluxNoodin vaatimukset:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Serveri: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Serveri: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: " Nimbus FluxNoodi vaatimukset:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Serveri: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Serveri: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: " Stratus FluxNoodi vaatimukset:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Serveri: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Serveri: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Syötä serverisi IP-osoite",
     i_do_not_server: "Minulla ei ole serveriä",
     want_a_server: "Olemme yhteistyössä palveluntarjoajien kanssa, kuten DigitalOcean ja Amazon Web Services. Voit määrittää palvelimen muutamassa minuutissa ja saada jopa alennuksen!",

@@ -1,3 +1,8 @@
+/**
+ * Language: Russian
+ * Language-code: ru
+ */
+
 export default {
   message: {
     // Universal
@@ -45,6 +50,10 @@ export default {
     hello: "Добро пожаловать",
     here_manage_account: "Здесь вы можете управлять настройками своей учетной записи.",
     search: "Поиск",
+    filter_open: "Открыть фильтр",
+    filter_remove: "Удалить фильтр",
+    filter_close: "Закрыть фильтр",
+    filter: "Фильтр",
     gas: "Газ",
     gwei: "Gwei",
     name: "Имя",
@@ -84,6 +93,10 @@ export default {
     token: "Токен:",
     tokenUnit: "TOKEN",
     change_zelcore_classic: "Вернуться к классическому интерфейсу zelcore",
+    too_weak: "Слишком слабый",
+    fair: "Умеренно надежный",
+    strong: "Надежный",
+    password_strength: "Надежность пароля",
 
     // Zel ID
     full_node_wallet: "Кошелек полной ноды",
@@ -209,7 +222,7 @@ export default {
     ethereum_network: "Ethereum Network",
     tron_network: "Tron Network",
     omni_network: "Omni Layer",
-    neo_network: "NEO Network",
+    neo_network: "NEO Network Legacy",
     ontology_network: "Ontology Network",
     giftcard_tokens: "Giftcard Tokens",
     my_assets: "Мои Активы",
@@ -318,7 +331,7 @@ export default {
     eos_account_exchange: "EOS аккаунт для обмена:",
     neo_whole_numbers: "Пожалуйста, введите только целое количество NEO (1, 2 etc... )",
     xrp_activation_required: "XRP требует активацию",
-    xrp_requires_locked: "Необходимо 20 XRP. Нажмите здесь, чтобы узнать подробнее.",
+    xrp_requires_locked: "Необходимо 10 XRP. Нажмите здесь, чтобы узнать подробнее.",
     confirmations: "Подтвержденя: {confirmations}",
     internal_transaction: "Internal Transaction: Yes",
     tx_fee_paid: "Комиссия за транзакцию: {txfee} {unit}",
@@ -560,14 +573,14 @@ export default {
     nimbuss: "Nimbuss",
     stratuss: "Stratus",
     cumulus_spec: "Требования для Cumulus FluxNode:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Сервер: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Сервер: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: "Требования для Nimbus FluxNode:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Сервер: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Сервер: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: "Требования для Stratus FluxNode:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Сервер: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Сервер: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Введите IP адрес Вашего сервера",
     i_do_not_server: "У меня нет сервера",
     want_a_server: "Мы сотрудничаем с мировыми провайдерами DigitalOcean и Amazon Web Services. Вы можете получить свой выделенный сервер за несколько минут с хорошей скидкой!",
@@ -1628,6 +1641,18 @@ export default {
     crux_mapping_issues: "CruxPay mapping issues",
     crux_failures: "Следующие монеты потерпели неудачу в отображении: {0}",
     crux_is_email: "CruxPay - это один email, вместо множества адресов",
+
+    // NFT Overview Page
+    nft_menu_title: "NFT",
+    nft_description: "Портфолио для всех ваших NFT, которые находятся на разных блокчеинах. Zelcore команда прилагает все усилия, чтобы предоставить лучший интерфейс для этого уникального токена!",
+    nft_overview: "Обзор NFT",
+    nft_none_found: "NFT не найдены",
+    all_nfts: "Все",
+    by_collection: "Коллекции",
+    all_blockchains: "Все Блокчеины",
+    load_more: "Загрузить Еще",
+    collection: "Коллекция",
+    collections: "Коллекции",
 
     // BottomIntro
     proxy_settings: "Выбор прокси",

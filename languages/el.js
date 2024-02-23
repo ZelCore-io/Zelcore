@@ -1,3 +1,8 @@
+/**
+ * Language: Greek
+ * Language-code: el
+ */
+
 export default {
   message: {
     // Universal
@@ -50,6 +55,10 @@ export default {
     hello: "Χαίρεται",
     here_manage_account: "Εδώ μπορείτε να διαχειριστείτε τις ρυθμίσεις του λογαριασμού σας.",
     search: "Αναζήτηση",
+    filter_open: "Ανοίξτε το φίλτρο",
+    filter_remove: "Αφαιρέστε το φίλτρο",
+    filter_close: "Κλείστε το φίλτρο",
+    filter: "Φίλτρο",
     gas: "΄Γκάζι",
     gwei: "Gwei",
     name: "Όνομα",
@@ -426,14 +435,14 @@ export default {
     nimbus: "Νίμπους",
     stratus: "Στράτουςs",
     cumulus_spec: "Ο Κούμουλους FluxNode απαιτεί:",
-    cumulus_ten: "10 000 FLUX",
-    cumulus_hardware: "Εξυπηρετητή: 2 vCore | 4GB RAM | 50 GB HDD",
+    cumulus_ten: "1 000 FLUX",
+    cumulus_hardware: "Εξυπηρετητή: 2 cores | 4 Threads/vCores | 8GB RAM | 220 GB SDD",
     nimbus_spec: "Ο Νίμπους FluxNode απαιτεί:",
-    nimbus_twentyfive: "25 000 FLUX",
-    nimbus_hardware: "Εξυπηρετητή: 4 vCore | 8GB RAM | 150 GB SSD",
+    nimbus_twentyfive: "12 500 FLUX",
+    nimbus_hardware: "Εξυπηρετητή: 4 cores | 8 Threads/vCores | 32GB RAM | 440 GB SDD",
     stratus_spec: "Ο Στράτους FluxNode απαιτεί:",
-    stratus_hundred: "100 000 FLUX",
-    stratus_hardware: "Εξυπηρετητή: 8 vCore | 32GB RAM | 600 GB SSD",
+    stratus_hundred: "40 000 FLUX",
+    stratus_hardware: "Εξυπηρετητή: 8 cores | 16 Threads/vCores | 64GB RAM | 880 GB NVME/SDD",
     enter_ip_address_server: "Δώστε την διεύθυνση IP του εξυπηρετητή σας",
     i_do_not_server: "Δεν διαθέτω εξυπηρετητή (server)",
     want_a_server: "Έχουμε συνεργασία με παρόχους όπως η DigitalOcean και η Amazon Web Services. Μπορείτε να στήσετε εξυπηρετητή μέσα σε μερικά λεπτά, λαμβάνοντας μάλιστα και έκπτωση!",

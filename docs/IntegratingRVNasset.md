@@ -18,6 +18,7 @@ File that need to be adjusted is coinsSimple.js,
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Binance Chain BEP2 Tokens, following configuration shall be present
 
+```js
     nahanrvn: {
       coin: "nahanrvn",
       name: "NAHAN",
@@ -26,17 +27,18 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "nahan"
       ],
       type: "rvnasset",
-      unit: "RVN/NAHAN",
-      logolink: "static/logos/RVNNAHAN.svg",
+      unit: "NAHAN",
+      logolink: "@/assets/logos/RVNNAHAN.svg",
       color: "#f05239",
       assetname: "NAHAN",
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add rvn behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add rvn behind it.
 - name - The name of the integrated coin, that will be displayed. Name shall be the same as identifier or RVN network assetName (described later) to not confuse user.
 - uri - uri protocol schemes of coin that is using, can be multiple. Usually name, ticker. Cannot contain space.
-- unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition. It is recommended to add RVN/ in front of the asset
+- unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition.
 - type: "rvnasset" - leave like this for binance chain token
 - logolink - path inside zelcore to your logo. Logos are always svg file and shall be named as your UNIT.svg
 - color - dominant color of the Token. Shall correspond to logo
