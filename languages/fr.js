@@ -1,3 +1,8 @@
+/**
+ * Language: French
+ * Language-code: fr
+ */
+
 export default {
   message: {
     // Universal
@@ -59,6 +64,10 @@ export default {
     hello: "Bonjour",
     here_manage_account: "Ici, vous pouvez gérer les paramètres de votre compte.",
     search: "Recherche",
+    filter_open: "Ouvrir le filtre",
+    filter_remove: "Supprimer le filtre",
+    filter_close: "Fermer le filtre",
+    filter: "Filtre",
     gas: "GAS",
     gwei: "Gwei",
     name: "Nom",
@@ -192,7 +201,8 @@ export default {
     enter_votre_password: "Entrez votre mot de passe",
     login: "Connexion",
     log_in: "Connexion",
-    add_to_device: "Ajouter un compte existant à l'appareil",
+    sync_register: "Synchroniser/Enregistrer",
+    add_to_device: "Compte sur cet appareil",
     yes_add: "Oui, ajouter à l'appareil",
     account_not_present: "Le compte n'est pas enregistrer sur l'appareil",
     account_not_present_text: "Le compte {account} n'est pas enregistrer sur l'appareil.",
@@ -1753,7 +1763,7 @@ export default {
     share_addresses: "Partager des adresses",
     share_wallet: "Partager Wallet",
     shared_wallet: "Wallet partagé",
-    reject: "Requête rejetée",
+    reject: "Rejeter",
     wallet_request: "Requête Wallet",
     wallet_adapter: "Adaptateur Wallet ",
     wallet_adapter_decs: "L'adaptateur Wallet permet de se connecter facilement avec diverses dApps en suivant le protocole d'adaptateur de Wallet Solana fonctionnant sur link.zelcore.io",
@@ -2340,7 +2350,7 @@ export default {
     quickswap_wallet: "Sélectionner un portefeuille qui sera utilisé pour l'échange QuickSwap",
     loading_exchange_history: "Chargement de l'historique de l'échange",
     quickswap_init_failed: "Echec de l'obtention des spécifications de l'échange",
-    quickswap_status: "Statut: {status}",
+    order_status: "Statut: {status}",
     exchange_rate_type: "Type de taux",
     provider: "Fournisseur",
     visit: "Visiter",

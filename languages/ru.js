@@ -1,3 +1,8 @@
+/**
+ * Language: Russian
+ * Language-code: ru
+ */
+
 export default {
   message: {
     // Universal
@@ -45,6 +50,10 @@ export default {
     hello: "Добро пожаловать",
     here_manage_account: "Здесь вы можете управлять настройками своей учетной записи.",
     search: "Поиск",
+    filter_open: "Открыть фильтр",
+    filter_remove: "Удалить фильтр",
+    filter_close: "Закрыть фильтр",
+    filter: "Фильтр",
     gas: "Газ",
     gwei: "Gwei",
     name: "Имя",
@@ -84,6 +93,10 @@ export default {
     token: "Токен:",
     tokenUnit: "TOKEN",
     change_zelcore_classic: "Вернуться к классическому интерфейсу zelcore",
+    too_weak: "Слишком слабый",
+    fair: "Умеренно надежный",
+    strong: "Надежный",
+    password_strength: "Надежность пароля",
 
     // Zel ID
     full_node_wallet: "Кошелек полной ноды",
@@ -1628,6 +1641,18 @@ export default {
     crux_mapping_issues: "CruxPay mapping issues",
     crux_failures: "Следующие монеты потерпели неудачу в отображении: {0}",
     crux_is_email: "CruxPay - это один email, вместо множества адресов",
+
+    // NFT Overview Page
+    nft_menu_title: "NFT",
+    nft_description: "Портфолио для всех ваших NFT, которые находятся на разных блокчеинах. Zelcore команда прилагает все усилия, чтобы предоставить лучший интерфейс для этого уникального токена!",
+    nft_overview: "Обзор NFT",
+    nft_none_found: "NFT не найдены",
+    all_nfts: "Все",
+    by_collection: "Коллекции",
+    all_blockchains: "Все Блокчеины",
+    load_more: "Загрузить Еще",
+    collection: "Коллекция",
+    collections: "Коллекции",
 
     // BottomIntro
     proxy_settings: "Выбор прокси",

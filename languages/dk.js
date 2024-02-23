@@ -1,3 +1,7 @@
+/**
+ * Language: Danish
+ * Language-code: dk
+ */
 export default {
   message: {
     // Universal
@@ -42,6 +46,10 @@ export default {
     hello: "Hej",
     here_manage_account: "Her kan du administrere dine konto indstillinger.",
     search: "Søg",
+    filter_open: "Åbn filter",
+    filter_remove: "Fjern filteret",
+    filter_close: "Luk filteret",
+    filter: "Filter",
     gas: "Gas",
     gwei: "Gwei",
     name: "Navn",

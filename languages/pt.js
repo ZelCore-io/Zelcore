@@ -1,3 +1,8 @@
+/**
+ * Language: Portuguese
+ * Language-code: pt
+ */
+
 export default {
   message: {
     // Universal
@@ -54,6 +59,10 @@ export default {
     hello: "Olá",
     here_manage_account: "Aqui você pode gerenciar as definições da sua conta.",
     search: "Procurar",
+    filter_open: "Abrir filtro",
+    filter_remove: "Remover filtro",
+    filter_close: "Fechar filtro",
+    filter: "Filtro",
     gas: "Gás",
     gwei: "Gwei",
     name: "Nome",
@@ -176,7 +185,8 @@ export default {
     easy_login_phrase: "Frase Conexão Fácil",
     enter_your_password: "Coloque sua senha",
     login: "Entrar",
-    add_to_device: "Adicionar ao dispositivo",
+    sync_register: "Sincronizar/Registrar",
+    add_to_device: "Conta neste dispositivo",
     yes_add: "Sim, adicionar ao dispositivo",
     account_not_present: "Conta não existe no dispositivo",
     account_not_present_text: "A conta {account} não se encontra ainda presente neste dispositivo.",
@@ -1619,7 +1629,7 @@ export default {
     share_addresses: "Endereços Partilhados",
     share_wallet: "Partilhar Carteira",
     shared_wallet: "Carteiras Partilhadas",
-    reject: "Rejeitar Pedido",
+    reject: "Rejeitar",
     wallet_request: "Pedido na Carteira",
     wallet_adapter: "Adapter da Carteira",
     wallet_adapter_decs: "Adapter da Carteira permite-te com facilidade conectar com várias dApps seuindo o protocolo da Carteira Solana Adapter correndo em link.zelcore.io",
@@ -2136,7 +2146,7 @@ export default {
     quickswap_wallet: "Escolha a carteira que será utilizada para a troca QuickSwap",
     loading_exchange_history: "A Carregar Histórico de Trocas",
     quickswap_init_failed: "Falha na obtenção das especificações da exchange",
-    quickswap_status: "Estado: {status}",
+    order_status: "Estado: {status}",
     exchange_rate_type: "Tipo de Rate",
     provider: "Provedor",
     visit: "Visitar",

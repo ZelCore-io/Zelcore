@@ -1,4 +1,4 @@
-# Integrating Tron Token
+# Integrating Terra Token
 
 Integration of Terra CW20 Token is fairly straightforward and consist of following integration scheme.
 Integration is done in 2 steps.
@@ -16,6 +16,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Terra CW20 Tokens, following configuration shall be present
 
+```js
   mamznterra: {
     coin: "mamznterra",
     name: "Mirrored Amazon TERRA",
@@ -27,23 +28,25 @@ This file consist of an object of coin objects. This is a definition of a coin a
     terraType: "CW20", // native or CW20
     addresses: [],
     api: [
+      "https://columbus-lcd.terra.dev/",
       "https://lcd.terra.dev/",
     ],
     unit: "mAMZN",
     type: "terra",
     explorer: [
-      "https://finder.terra.money/mainnet/tx/",
+      "https://finder.terra.money/classic/tx/",
       "https://terra.stake.id/?#/tx/",
     ],
-    logolink: "static/logos/MAMZN.svg",
+    logolink: "@/assets/logos/MAMZN.svg",
     node: [
+      "https://columbus-fcd.terra.dev",
       "https://fcd.terra.dev",
     ],
-    fee: 0.01133,
+    fee: 566,
     feepolicy: {
-      economy: 1.2,
-      normal: 1.4,
-      fast: 1.6,
+      economy: 3,
+      normal: 4,
+      fast: 6,
     },
     color: "#5493f7",
     backend: [
@@ -51,6 +54,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
     ],
     decimals: 6,
   },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add trc behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add trc behind it.
@@ -62,7 +66,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
 - addresses: [] - leave like this
 - api - api which zelcore shall use for this coin. Note the contract address inside. This has to be changed correctly to your token
 - unit - unit that will be displayed for your coin. This is also unit that most services such as rates, markets, exchanges use for coin recognition
-- type: "terra" - leave like this for tron token
+- type: "terra" - leave like this for terra token
 - explorer array - you can add more explorers that can be used for the showing transactions on the particular coin
 - logolink - path inside zelcore to your logo. Logos are always svg file and shall be named as your UNIT.svg
 - node - available infura nodes. Feel free to add yours as well or any infura compatible node
@@ -83,7 +87,7 @@ This files controls some social interactions of coins. Displays description, lin
       "https://mirror.finance",
     ],
     explorers: [
-      "https://finder.terra.money/mainnet/address/terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+      "https://finder.terra.money/classic/address/terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
       "https://etherscan.io/token/0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
       "https://ethplorer.io/address/0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
     ],
@@ -158,15 +162,15 @@ Here is an example for Quant
         name: "Mirror (mAMZN) Twitter",
         feed: "https://nitter.zelcore.io/mirror_protocol/rss",
         site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock.",
-        pic: "static/logos/MAMZN.svg",
+        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
+        pic: "@/assets/logos/MAMZN.svg",
       },
       {
         name: "Mirror (mAMZN) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
-        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock.",
-        pic: "static/logos/MAMZN.svg",
+        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
+        pic: "@/assets/logos/MAMZN.svg",
       },
     ],
 

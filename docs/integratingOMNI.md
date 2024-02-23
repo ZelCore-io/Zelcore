@@ -1,5 +1,5 @@
 
-# Integrating Omni  Token
+# Integrating Omni Token
 
 Integration of Omni Token is fairly straightforward and consist of following integration scheme.
 
@@ -20,6 +20,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js, and newssources.
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Binance Chain BEP2 Tokens, following configuration shall be present
 
+````js
     usdtomni: {
       coin:  "usdtomni",
       name:  "Tether Omni",
@@ -56,7 +57,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "https://omniwallet.org/tx/",
         "https://omniexplorer.info/tx/",
       ],
-      logolink: "static/logos/USDT_Omni.svg",
+      logolink: "@/assets/logos/USDT_Omni.svg",
       node: [
         "https://api.usdtexplorer.com",
         "https://api.omniexplorer.info",
@@ -76,6 +77,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
       decimals:  8,
       tokenNumber:  31,
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. Nowadays It is recommended to add omni behind it - eg from  usdt create usdtomni
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommended to add omni behind it.
@@ -193,7 +195,7 @@ Here is an example for Quant
         feed:  "https://tether.to/feed/",
         site:  "https://tether.to/press/",
         about:  "USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. It is also issued on the Ethereum blockchain via the ERC20 Token Standard.",
-        pic:  "static/logos/USDT_Omni.svg",
+        pic:  "@/assets/logos/USDT_Omni.svg",
       },
     ],
 

@@ -1,3 +1,8 @@
+/**
+ * Language: German
+ * Language-code: de
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Hall",
     here_manage_account: "Hier können Sie Ihre Account Einstellungen verwalten.",
     search: "Suche",
+    filter_open: "Filter öffnen",
+    filter_remove: "Filter entfernen",
+    filter_close: "Filter schließen",
+    filter: "Filter",
     gas: "Gas",
     gwei: "Gwei",
     name: "Name",

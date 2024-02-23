@@ -16,6 +16,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Tron TRC20 Tokens, following configuration shall be present
 
+```js
     suntrc: {
       coin: "suntrc",
       name: "sun",
@@ -34,21 +35,22 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "https://tronscan.org/#/transaction/",
         "https://trxplorer.io/tx/",
       ],
-      logolink: "static/logos/SUN.svg",
+      logolink: "@/assets/logos/SUN.svg",
       node: [
         "https://api.trongrid.io/",
       ],
       fee: 0.1,
       feepolicy: {
-        economy: 5,
-        normal: 10,
-        fast: 20,
+        economy: 3,
+        normal: 50,
+        fast: 100,
       },
       color: "#ffd609",
       backend: [
         "tron",
       ],
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add trc behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add trc behind it.
@@ -66,7 +68,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
 - fee - default fee used for the token. Leave as 0.1. Others shall be discouraged and are not reflected anyway.
 - feepolicy - economy, normal and fast fee policies. This field is obsolete and not used for Tron. It is left only for future compatibility. Leave like it is.
 - color - dominant color of the Token. Shall correspond to logo
-- backend - Only Tron type backend is coded. Leave like this.
+- backend - Only tron type backend is coded. Leave like this.
 
 ### coininfo.js
 
@@ -147,7 +149,7 @@ Here is an example for Quant
         feed: "https://nitter.zelcore.io/defi_sunio/rss",
         site: "https://twitter.com/defi_sunio",
         about: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
-        pic: "static/logos/SUN.svg",
+        pic: "@/assets/logos/SUN.svg",
       },
     ],
 This array is an object of available news for an asset.

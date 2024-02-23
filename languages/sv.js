@@ -1,3 +1,8 @@
+/**
+ * Language: Swedish
+ * Language-code: sv
+ */
+
 export default {
   message: {
     // Universal
@@ -24,6 +29,10 @@ export default {
     contract: "Kontrakt",
     back: "Tillbaka",
     send: "Skicka",
+    filter_open: "Öppna filtret",
+    filter_remove: "Ta bort filtret",
+    filter_close: "Stäng filtret",
+    filter: "Filtrera",
 
     // Close Dialog
     log_out: "Logga Ut",

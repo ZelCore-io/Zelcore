@@ -1,3 +1,8 @@
+/**
+ * Language: Itlian
+ * Language-code: it
+ */
+
 export default {
   message: {
     // Universal
@@ -59,6 +64,10 @@ export default {
     hello: "Ciao",
     here_manage_account: "Qui puoi gestire le impostazioni del tuo account.",
     search: "Cerca",
+    filter_open: "Apri il filtro",
+    filter_remove: "Rimuovere il filtro",
+    filter_close: "Chiudi il filtro",
+    filter: "Filtro",
     gas: "Gas",
     gwei: "Gwei",
     name: "Nome",
@@ -196,7 +205,8 @@ export default {
     enter_your_password: "Inserisci password",
     login: "Accedi",
     log_in: "Accedi",
-    add_to_device: "Aggiungi/Registra Account al Dispositivo",
+    sync_register: "Aggiungi/Registra",
+    add_to_device: "Account al Dispositivo",
     yes_add: "Sì, Aggiungi al Dispositivo",
     account_not_present: "L'Account non è presente sul Dispositivo",
     account_not_present_text: "L'Account {account} non è ancora presente su questo dispositivo.",
@@ -1803,7 +1813,7 @@ export default {
     share_addresses: "Condividi Indirizzi",
     share_wallet: "Condividi Wallet",
     shared_wallet: "Wallet Condivisi",
-    reject: "Rifiuta richiesta",
+    reject: "Rigettare",
     wallet_request: "Richiesta Wallet",
     wallet_adapter: "Wallet Adapter",
     wallet_adapter_decs: "Wallet Adapter ti consente di connetterti facilmente con molte dApp seguendo il protocollo Solana Wallet Adapter in esecuzione su link.zelcore.io",
@@ -2393,7 +2403,7 @@ export default {
     quickswap_wallet: "Seleziona un portafoglio che verrà utilizzato per lo scambio QuickSwap",
     loading_exchange_history: "Caricamento della cronologia degli Scambi",
     quickswap_init_failed: "Impossibile ottenere le specifiche degli scambi",
-    quickswap_status: "Stato: {status}",
+    order_status: "Stato: {status}",
     exchange_rate_type: "Tipo di Tasso",
     provider: "Fornitore",
     visit: "Visita",

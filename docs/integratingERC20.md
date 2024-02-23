@@ -16,6 +16,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of ethereum ERC20 Tokens, following configuration shall be present
 
+```js
     qnt: {
       coin: "qnt",
       name: "Quant",
@@ -29,10 +30,12 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
       unit: "QNT",
       type: "eth",
+      family: "ethlike",
+      coinType: "token",
       explorer: [
        "https://etherscan.io/tx/",
       ],
-      logolink: "static/logos/QNT.svg",
+      logolink: "@/assets/logos/QNT.svg",
       node: [
         "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3",
         "https://mainnet.infura.io/v3/b203d49348c546c2b5614e5197788937",
@@ -45,8 +48,8 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "https://mainnet.infura.io/v3/abcdf7814da54da6a0bd864959202de8",
         "https://mainnet.infura.io/v3/5f9d174ed8ce4ce7b139c9a964207707",
         "https://mainnet.infura.io/v3/be18d2c65a2441c2b726064fb80f98b4",
+        "https://node.eth.zelcore.io",
         "https://ethereumnodelight.app.runonflux.io",
-        "https://eth.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
       ],
       fee: 63000,
       feepolicy: {
@@ -61,6 +64,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "infura",
       ],
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space.
@@ -161,21 +165,21 @@ Here is an example for Quant
         feed: "https://nitter.zelcore.io/quant_network/rss",
         site: "https://twitter.com/quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
-        pic: "static/logos/QNT.svg",
+        pic: "@/assets/logos/QNT.svg",
       },
       {
         name: "Quant Reddit",
         feed: "https://www.reddit.com/r/QuantNetwork/.rss",
         site: "https://www.reddit.com/r/QuantNetwork/",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
-        pic: "static/logos/QNT.svg",
+        pic: "@/assets/logos/QNT.svg",
       },
       {
         name: "Quant Medium",
         feed: "https://medium.com/feed/@quant_network",
         site: "https://medium.com/@quant_network",
         about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
-        pic: "static/logos/QNT.svg",
+        pic: "@/assets/logos/QNT.svg",
       },
     ],
 This array is an object of available news for an asset.

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="60"
+   height="60"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="CLORE.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.9265537"
+     inkscape:cx="20.753029"
+     inkscape:cy="28.827156"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="Main_copy_15"
+     class="st0"
+     d="M 0,30 C 0,46.530612 13.469388,60 30,60 46.530612,60 60,46.530612 60,30 60,13.469388 46.530612,0 30,0 13.469388,0 0,13.469388 0,30 Z"
+     style="fill:#2d2d2d;stroke-width:0.244898" />
+  <path
+     d="M 45.418,5.377 C 41.014,2.642 37.16,1.365 31.286,1 c -5.506,5.107 -5.322,15.503 0,20.245 2.203,-8.754 7.342,-13.497 14.132,-15.868 z m 6.424,4.925 c -8.26,-0.365 -14.683,7.113 -14.683,14.409 6.791,-4.56 14.683,-4.742 21.29,-1.095 -1.1,-5.836 -3.184,-8.913 -6.607,-13.314 z M 59,31.094 C 53.86,25.623 43.767,26.17 38.811,31.277 46.904,33.23 51.291,36.931 54.962,45.138 57.764,40.541 59,37.114 59,31.095 Z m -9.177,20.428 c -0.55,-8.755 -6.524,-13.905 -14.499,-14.409 4.128,7.174 4.956,13.862 1.285,21.157 5.48,-1.49 8.626,-2.918 13.214,-6.748 z M 28.717,59 c 5.322,-5.29 5.69,-13.862 0,-20.245 -2.203,8.937 -6.975,13.496 -14.132,16.05 4.929,2.989 8.13,3.663 14.132,4.195 z M 8.528,49.698 C 17.102,48.902 22.66,43.315 22.66,35.107 17.337,39.302 8.344,39.849 1.37,36.748 c 1.948,5.667 3.496,8.63 7.158,12.95 z M 1.003,28.723 c 4.588,4.925 14.132,5.654 20.189,0 C 12.565,26.717 7.513,21.665 5.224,15.043 2.654,18.874 0.921,24.166 1.003,28.723 Z M 10.18,8.66 c 1.285,8.755 6.057,13.497 14.5,14.227 C 20.418,15.884 20.09,9.207 23.21,1.73 17.154,3.189 13.951,5.2 10.18,8.66 Z"
+     fill="#f73737"
+     id="path1"
+     sodipodi:nodetypes="cccccccccccsccccccccccccccccccccc" />
+</svg>

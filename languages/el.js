@@ -1,3 +1,8 @@
+/**
+ * Language: Greek
+ * Language-code: el
+ */
+
 export default {
   message: {
     // Universal
@@ -50,6 +55,10 @@ export default {
     hello: "Χαίρεται",
     here_manage_account: "Εδώ μπορείτε να διαχειριστείτε τις ρυθμίσεις του λογαριασμού σας.",
     search: "Αναζήτηση",
+    filter_open: "Ανοίξτε το φίλτρο",
+    filter_remove: "Αφαιρέστε το φίλτρο",
+    filter_close: "Κλείστε το φίλτρο",
+    filter: "Φίλτρο",
     gas: "΄Γκάζι",
     gwei: "Gwei",
     name: "Όνομα",

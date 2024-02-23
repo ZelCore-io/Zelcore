@@ -1,3 +1,8 @@
+/**
+ * Language: Ukranian
+ * Language-code: uk
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Привіт",
     here_manage_account: "Тут ви можете керувати налаштуваннями акаунта.",
     search: "Пошук",
+    filter_open: "Відкритий фільтр",
+    filter_remove: "Зняти фільтр",
+    filter_close: "Закрити фільтр",
+    filter: "фільтр",
     gas: "Gas",
     gwei: "Gwei",
     name: "Ім'я",

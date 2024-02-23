@@ -1,3 +1,8 @@
+/**
+ * Language: Spanish
+ * Language-code: es
+ */
+
 export default {
   message: {
     // universal
@@ -45,6 +50,10 @@ export default {
     hello: "Hola",
     here_manage_account: "Aquí puede administrar la configuración de su cuenta",
     search: "Buscar",
+    filter_open: "Abrir filtro",
+    filter_remove: "Quitar filtro",
+    filter_close: "Cerrar filtro",
+    filter: "Filtrar",
     gas: "Gas",
     gwei: "Gwei",
     name: "Nombre",

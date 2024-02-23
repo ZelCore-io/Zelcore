@@ -13383,9 +13383,9 @@ const coins = {
     fee: 1,
     decimals: 9,
     feepolicy: {
-      economy: 1,
-      normal: 2,
-      fast: 5,
+      economy: 5,
+      normal: 7,
+      fast: 10,
     },
     color: "#3cb4e5",
     explorer: backends.fio.explorer,

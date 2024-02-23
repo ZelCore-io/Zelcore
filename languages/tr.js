@@ -1,3 +1,8 @@
+/**
+ * Language: Turkish
+ * Language-code: tr
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Merhaba",
     here_manage_account: "Burada hesabınızın ayarlarını yönetebilirsiniz.",
     search: "Arama",
+    filter_open: "Filtreyi aç",
+    filter_remove: "Filtreyi kaldır",
+    filter_close: "Filtreyi kapat",
+    filter: "Filtre",
     gas: "Gas",
     gwei: "Gwei",
     name: "İsim",

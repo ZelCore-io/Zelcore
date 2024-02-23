@@ -1,3 +1,8 @@
+/**
+ * Language: Czech
+ * Language-code: cs
+ */
+
 export default {
   message: {
     // Universal
@@ -69,6 +74,10 @@ export default {
     yes_send: "Ano, Odeslat",
     no_back: "Ne, Zpět",
     proceed_tx: "Pokračovat s transakcí?",
+    filter_open: "Otevřít filtr",
+    filter_remove: "Zrušit filtr",
+    filter_close: "Zavřít filtr",
+    filter: "Filtr",
     // Close Dialog
     log_out: "Odhlásit",
     delete_account: "Odebrat účet",
@@ -188,8 +197,9 @@ export default {
     easy_login_phrase: "Fráze pro Snadné přihlášení",
     enter_your_password: "Vložte heslo",
     login: "Přihlášení",
-    add_to_device: "Přidat účet do zařízení",
-    yes_add: "Ano, Přidat účet do zařízení",
+    sync_register: "Synchronizovat/Registrovat",
+    add_to_device: "Účet do Zařízení",
+    yes_add: "Ano, Přidat Účet do Zařízení",
     account_not_present: "Účet není na tomto zařízení",
     account_not_present_text: "Účet {account} ještě není na tomto zařízení.",
     register_new_user: "Registrovat Nový Účet",
@@ -291,6 +301,7 @@ export default {
     portfolio_empty: "Vaše portfólio je prázdné! Klikněte na + symbol pro přidání aktiv.",
     add_asset: "Přidat aktivum",
     add_assets: "Přidat aktiva",
+    add_assets_to_wallet: "Přidat aktiva do {wallet} peněženky",
     stable_assets: "Stabilní aktiva",
     coins: "Mince",
     eth_tokens: "Ethereum tokeny",
@@ -310,6 +321,7 @@ export default {
     hide_zero_balance_assets: "Skrýt aktiva s nulovým zůstatkem z vašeho Portfolia",
     smartify: "Smartify", // name of feature
     hide_assets: "Skrýt aktiva",
+    hide_assets_in_wallet: "Skrýt aktiva v {wallet} peněžence",
     transaction_received_title: "Příchozí transakce",
     reward_received: "Příchozí odměna",
     reward_received_info: "{coinname} odměna obdržena! Děkujeme, že používáte zelcore",
@@ -1994,7 +2006,7 @@ export default {
     wyre_terms: "podmínkami Wyre",
     and: "a ",
     zelcore_disclaimer: "zelcore Disclaimerem",
-    purchase_btc_eth: "Koupit Bitcoin, Ethereum s debetní kartou",
+    purchase_btc_eth: "Nákup kryptoměn",
     select_country: "Vyberte vaši zemi",
     select_state: "Vyberte váš kraj",
     first_name: "Jméno",

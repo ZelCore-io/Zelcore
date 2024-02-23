@@ -1,3 +1,8 @@
+/**
+ * Language: Norwegian
+ * Language-code: no
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Hei",
     here_manage_account: "Her kan du administrere kontoinnstillingene dine.",
     search: "Søk",
+    filter_open: "Åpne filteret",
+    filter_remove: "Fjern filteret",
+    filter_close: "Lukk filteret",
+    filter: "Filter",
     gas: "Gass",
     gwei: "Gwei",
     name: "Navn",

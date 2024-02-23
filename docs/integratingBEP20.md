@@ -16,6 +16,7 @@ Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Binance Smart Chain BEP20 Tokens, following configuration shall be present
 
+```js
     pancakeswap: {
       coin: "pancakeswap",
       name: "PancakeSwap BEP20",
@@ -29,15 +30,17 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
       unit: "CAKE",
       type: "bsc",
+      family: "ethlike",
+      coinType: "token",
       explorer: [
        "https://bscscan.com/tx/",
       ],
-      logolink: "static/logos/CAKE.svg",
+      logolink: "@/assets/logos/CAKE.svg",
       node: [
+        "https://node.bsc.zelcore.io",
         "https://bsc-dataseed1.binance.org",
         "https://bsc-dataseed1.defibit.io",
         "https://bsc-dataseed1.ninicoin.io",
-        "https://bsc.getblock.io/mainnet/?api_key=3d10f1d2-eebc-4ad4-8a8a-33fbeb3481dc",
       ],
       fee: 63000,
       feepolicy: {
@@ -52,6 +55,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
         "bsc",
       ],
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space.
@@ -159,21 +163,21 @@ Here is an example for Quant
         feed: "https://nitter.zelcore.io/PancakeSwap/rss",
         site: "https://twitter.com/PancakeSwap",
         about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
-        pic: "static/logos/CAKE.svg",
+        pic: "@/assets/logos/CAKE.svg",
       },
       {
         name: "PancakeSwap Reddit",
         feed: "https://www.reddit.com/r/pancakeswap/.rss",
         site: "https://www.reddit.com/r/pancakeswap",
         about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
-        pic: "static/logos/CAKE.svg",
+        pic: "@/assets/logos/CAKE.svg",
       },
       {
         name: "PancakeSwap Medium",
         feed: "https://medium.com/feed/@pancakeswap",
         site: "https://pancakeswap.medium.com",
         about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
-        pic: "static/logos/CAKE.svg",
+        pic: "@/assets/logos/CAKE.svg",
       },
     ],
 This array is an object of available news for an asset.

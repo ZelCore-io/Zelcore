@@ -1,3 +1,8 @@
+/**
+ * Language: Finnish
+ * Language-code: fi
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Hei",
     here_manage_account: "Täällä sinä voit hallinnoida tilin asetuksia.",
     search: "Etsi",
+    filter_open: "Avaa suodatin",
+    filter_remove: "Poista suodatin",
+    filter_close: "Sulje suodatin",
+    filter: "Suodattaa",
     gas: "Gas",
     gwei: "Gwei",
     name: "Nimi",

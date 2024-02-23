@@ -1,3 +1,8 @@
+/**
+ * Language: Serbian
+ * Language-code: rs
+ */
+
 export default {
   message: {
     // Universal
@@ -43,6 +48,10 @@ export default {
     hello: "Zdravo",
     here_manage_account: "Ovde možete upravljati postavkama vašeg naloga.",
     search: "Traži",
+    filter_open: "Отвори филтер",
+    filter_remove: "Уклоните филтер",
+    filter_close: "Затворите филтер",
+    filter: "Филтер",
     gas: "Gas",
     gwei: "Gwei",
     name: "Ime",

@@ -18,6 +18,7 @@ File that need to be adjusted is coinsSimple.js,
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Binance Chain BEP2 Tokens, following configuration shall be present
 
+```js
     nahanrvn: {
       coin: "nahanrvn",
       name: "NAHAN",
@@ -27,10 +28,11 @@ This file consist of an object of coin objects. This is a definition of a coin a
       ],
       type: "rvnasset",
       unit: "NAHAN",
-      logolink: "static/logos/RVNNAHAN.svg",
+      logolink: "@/assets/logos/RVNNAHAN.svg",
       color: "#f05239",
       assetname: "NAHAN",
     },
+```
 
 - The name of the object ALWAYS corresponds to the 'coin' variable in the object. Usually it is lower case of a ticker. This variable has to be lower case, without spaces and unique. It is reccommeded to add rvn behind it.
 - coin - This is unique identifier of a coin in zelcore. Cannot contain space. It is recommeded to add rvn behind it.

@@ -1,3 +1,8 @@
+/**
+ * Language: Polish
+ * Language-code: pl
+ */
+
 export default {
   message: {
     // Universal
@@ -67,6 +72,10 @@ export default {
     hello: "Dzień Dobry",
     here_manage_account: "Tutaj możesz zarządzać ustawieniami konta.",
     search: "Szukaj",
+    filter_open: "Otwórz filtr",
+    filter_remove: "Usuń filtr",
+    filter_close: "Zamknij filtr",
+    filter: "Filtr",
     gas: "Gaz",
     gwei: "Gwei",
     name: "Nazwa",
@@ -205,7 +214,8 @@ export default {
     enter_your_password: "Wprowadź hasło",
     login: "Login",
     log_in: "Zaloguj sie",
-    add_to_device: "Synchronizuj/Zarejestruj konto na tym urządzeniu",
+    sync_register: "Synchronizuj/Zarejestruj",
+    add_to_device: "konto na tym urządzeniu",
     yes_add: "Tak, synchronizuj z urządzeniem",
     account_not_present: "Konto nie jest obecne na urządzeniu",
     account_not_present_text: "Konto {account} nie jest jeszcze obecne na tym urządzeniu. Czy chcesz dodać konto do tego urządzenia?",
@@ -1865,7 +1875,7 @@ export default {
     share_addresses: "Udostępnij adresy",
     share_wallet: "Udostępnij portfel",
     shared_wallet: "Udostepniony portfel",
-    reject: "Odrzuć wniosek",
+    reject: "Odrzucać",
     wallet_request: "Żądanie portfela",
     wallet_adapter: "Adapter portfela",
     wallet_adapter_decs: "Adapter portfela umożliwia łatwe połączenie z wieloma dApps po protokole Adaptera Portfela Solana pracujących na link.Zelcore.io",
@@ -2512,7 +2522,7 @@ export default {
     quickswap_wallet: "Wybierz portfel, który zostanie użyty do wymiany QuickSwap",
     loading_exchange_history: "Ładowanie historii wymiany",
     quickswap_init_failed: "Nie udało się uzyskać parametrów wymiany",
-    quickswap_status: "Status: {status}",
+    order_status: "Status: {status}",
     exchange_rate_type: "Typ kursu wymiany",
     provider: "Dostawca",
     visit: "Odwiedź",

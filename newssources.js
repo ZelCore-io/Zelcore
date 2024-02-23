@@ -96,20 +96,6 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     testnet: [
       {
@@ -117,20 +103,6 @@ const newssources = {
         feed: "https://fluxofficial.medium.com/feed",
         site: "https://fluxofficial.medium.com",
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
         pic: "@/assets/logos/FLUX.svg",
       },
     ],
@@ -162,40 +134,12 @@ const newssources = {
       },
     ],
     zcash: [
-      {
-        name: "Zcash Twitter",
-        feed: "https://nitter.zelcore.io/zcashco/rss",
-        site: "https://twitter.com/zcashco",
-        about: "Zcash is a privacy-protectig, digital currency built on strong science.",
-        pic: "@/assets/logos/ZEC.svg",
-      },
     ],
     bitcoinz: [
-      {
-        name: "BitcoinZ Twitter",
-        feed: "https://nitter.zelcore.io/BitcoinZTeam/rss",
-        site: "https://twitter.com/bitcoinzteam",
-        about: "BitcoinZ - 100% community focused and ran Zcash fork.",
-        pic: "@/assets/logos/BTCZ.svg",
-      },
     ],
     ravencoin: [
-      {
-        name: "Ravencoin Twitter",
-        feed: "https://nitter.zelcore.io/ravencoin/rss",
-        site: "https://twitter.com/ravencoin",
-        about: "Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.",
-        pic: "@/assets/logos/RVN.svg",
-      },
     ],
     bitcore: [
-      {
-        name: "Bitcore Twitter",
-        feed: "https://nitter.zelcore.io/Bitcore_BTX/rss",
-        site: "  https://twitter.com/Bitcore_BTX",
-        about: "Bitcore is a cryptocurrency that is based on 0.15.2 of Bitcoin Core.",
-        pic: "@/assets/logos/BTX.svg",
-      },
     ],
     binance: [
       {
@@ -261,13 +205,6 @@ const newssources = {
       },
     ],
     kucoin: [
-      {
-        name: "Kucoin Blog",
-        feed: "https://nitter.zelcore.io/kucoincom/rss",
-        site: "https://twitter.com/kucoincom",
-        about: "Kucoin is a cryptocurrency exchange.",
-        pic: "@/assets/logos/KCS.svg",
-      },
     ],
     bat: [
       {
@@ -360,13 +297,6 @@ const newssources = {
       },
     ],
     gemlink: [
-      {
-        name: "Gemlink Twitter",
-        feed: "https://nitter.zelcore.io/gemlinkt/rss",
-        site: "https://twitter.com/gemlinkt",
-        about: "Gemlink is one of the currencies that ensure the anonymity of transactions, so it is worth considering your investment if privacy is particularly important to you. ",
-        pic: "@/assets/logos/GEMLINK.svg",
-      },
     ],
     btcp: [
       {
@@ -396,13 +326,6 @@ const newssources = {
       },
     ],
     safecoin: [
-      {
-        name: "Safecoin Twitter",
-        feed: "https://nitter.zelcore.io/safecoins/rss",
-        site: "https://twitter.com/safecoins",
-        about: "Safecoin is the cryptocurrency of the SAFE (Secure Access For Everyone) network.",
-        pic: "@/assets/logos/SAFE.svg",
-      },
     ],
     komodo: [
       {
@@ -428,20 +351,6 @@ const newssources = {
         about: "Firo (FIRO) formerly Zcoin (XZC) is a cryptocurrency focused on privacy and decentralization. Firo recent accomplishment is a privacy protocol Lelantus. It is also the first coin to implement the Zerocoin protocol that enables financial privacy through the power of zero knowledge proofs with a focus on making privacy easy to use. It is also set to be the first to release MTP an ASIC resistant, anti-botnet proof of work algorithm that remains lightweight to verify to ensure fair distribution of coins and decentralized security.\r\n\r\nZcoin is an open source decentralized cryptocurrency that focuses on achieving privacy and anonymity for its users while transacting. To achieve this privacy and anonymity, Zcoin uses zero-knowledge proofs via Zerocoin protocol which is one of the most cited cryptography papers at this point in time. In other words, when you transact using  <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> or <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> or something similar, your transaction history is always linked to your coins by default which makes you vulnerable. That, because all it takes is one link to your personal information or IP to find out the origin of the coins.However, if you transact using Zcoin’s Zerocoin feature, none of your transaction histories is linked to the actual coins and only the receiver and sender know that you have actually exchanged funds.\r\n\r\nZerocoin is a cryptocurrency proposed by Johns Hopkins University professor Matthew D. Green and graduate students Ian Miers and Christina Garman as an extension to the Bitcoin protocol that would add true cryptographic anonymity to Bitcoin transactions. Zerocoin was first implemented into a fully functional cryptocurrency released to the public by Poramin Insom, as Zcoin who is also the lead developer, in September 2016. At the initial stage, Zcoin uses the Lyra2z algorithm for proof of work, then they will transition to a Merkle Tree proof of work algorithm, known as MTP. MTP is a unique memory hard algorithm that aims to solve several problems. Memory hard algorithms help prevent the development of ASICs which lead to centralized mining farms. \r\n\r\nMemory hard algorithms also prevent the use of botnets infecting computers for mining purposes. If a botnet was using up multiple gigs of memory, you’d be likely to notice something is wrong. “The basic concept is that it should establish the same price/cost for a single computation unit on all platforms meaning that there is no single device that should gain a significant advantage over another for the same price hence promoting egalitarian computing.",
         pic: "@/assets/logos/FIRO.svg",
       },
-      {
-        name: "Zcoin Twitter",
-        feed: "https://nitter.zelcore.io/zcoinofficial/rss",
-        site: "https://twitter.com/zcoinofficial",
-        about: "Official Zcoin Twitter.",
-        pic: "@/assets/logos/FIRO.svg",
-      },
-      {
-        name: "Zcoin Twitter 2",
-        feed: "https://nitter.zelcore.io/firoorg/rss",
-        site: "https://twitter.com/firoorg",
-        about: "Official Firo Twitter.",
-        pic: "@/assets/logos/FIRO.svg",
-      },
     ],
     usdt: [
       {
@@ -451,26 +360,12 @@ const newssources = {
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
     ],
     usdterc: [
       {
         name: "Tether Reddit",
         feed: "https://reddit.com/r/Tether/.rss",
         site: "https://reddit.com/r/Tether",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
@@ -971,13 +866,6 @@ const newssources = {
       },
     ],
     genesis: [
-      {
-        name: "Genesis Blog",
-        feed: "https://nitter.zelcore.io/genx_network/rss",
-        site: "https://twitter.com/genx_network",
-        about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
-        pic: "@/assets/logos/GENX.svg",
-      },
     ],
     por: [
       {
@@ -1052,13 +940,6 @@ const newssources = {
       },
     ],
     brd: [
-      {
-        name: "BRD Blog",
-        feed: "https://nitter.zelcore.io/brdhq/rss",
-        site: "https://twitter.com/brdhq",
-        about: "BRD is the simple and secure onramp to bitcoin, ethereum, and other digital currencies.",
-        pic: "@/assets/logos/BRD.svg",
-      },
     ],
     rep: [
       {
@@ -1115,13 +996,6 @@ const newssources = {
       },
     ],
     gunthy: [
-      {
-        name: "Gunthy Twitter",
-        feed: "https://nitter.zelcore.io/gunthyio/rss",
-        site: "https://twitter.com/Gunthyio",
-        about: "Emotionless trading.",
-        pic: "@/assets/logos/GUNTHY.svg",
-      },
     ],
     metal: [
       {
@@ -1169,13 +1043,6 @@ const newssources = {
       },
     ],
     blox: [
-      {
-        name: "Blox Twitter",
-        feed: "https://nitter.zelcore.io/Blox_Official/rss",
-        site: "https://twitter.com/Blox_Official",
-        about: "Blox is a platform for managing crypto assets.",
-        pic: "@/assets/logos/CDT.svg",
-      },
     ],
     celertoken: [
       {
@@ -1419,13 +1286,6 @@ const newssources = {
       },
     ],
     dibicoin: [
-      {
-        name: "Dibicoin Twitter",
-        feed: "https://nitter.zelcore.io/dibicoin/rss",
-        site: "https://twitter.com/dibicoin",
-        about: "Who let the DIBI out?",
-        pic: "@/assets/logos/DIBI.svg",
-      },
     ],
     bitcoinzero: [
       {
@@ -1500,22 +1360,8 @@ const newssources = {
       },
     ],
     nuke: [
-      {
-        name: "Half Life Twitter",
-        feed: "https://nitter.zelcore.io/NukeToken/rss",
-        site: "https://twitter.com/NukeToken",
-        about: "NUKE is a currency that grows by shrinking.",
-        pic: "@/assets/logos/NUKE.svg",
-      },
     ],
     dogecoin: [
-      {
-        name: "Dogeocin Twitter",
-        feed: "https://nitter.zelcore.io/dogecoin/rss",
-        site: "https://twitter.com/dogecoin",
-        about: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
-        pic: "@/assets/logos/DOGE.svg",
-      },
     ],
     tron: [
       {
@@ -1528,13 +1374,6 @@ const newssources = {
     ],
     bittorrent: [
       {
-        name: "BitTorrent Twitter",
-        feed: "https://nitter.zelcore.io/bittorrent/rss",
-        site: "https://twitter.com/bittorrent",
-        about: "BitTorrent is a popular peer-to-peer (P2P) file sharing and torrent platform which has become increasingly decentralized in recent years.",
-        pic: "@/assets/logos/BTT.svg",
-      },
-      {
         name: "BitTorrent Reddit",
         feed: "https://www.reddit.com/r/bittorrent/.rss",
         site: "https://www.reddit.com/r/bittorrent",
@@ -1543,23 +1382,8 @@ const newssources = {
       },
     ],
     digibyte: [
-      {
-        name: "DigiByte Twitter",
-        feed: "https://nitter.zelcore.io/DigiByteCoin/rss",
-        site: "https://twitter.com/DigiByteCoin",
-        about: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
-        pic: "@/assets/logos/DGB.svg",
-      },
     ],
     sinovate: [
-      {
-        name: "Sinovate Twitter",
-        feed: "https://nitter.zelcore.io/SinovateChain/rss",
-        site: "https://twitter.com/SinovateChain",
-        about: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
-          + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
-        pic: "@/assets/logos/SIN.svg",
-      },
     ],
     neo: [
       {
@@ -1684,22 +1508,8 @@ const newssources = {
       },
     ],
     veriblock: [
-      {
-        name: "Veriblock Twitter",
-        feed: "https://nitter.zelcore.io/VeriBlock/rss",
-        site: "https://twitter.com/VeriBlock",
-        about: "Using VeriBlock, every blockchain can benefit from Bitcoin’s computational power and unrivaled security.",
-        pic: "@/assets/logos/VBK.svg",
-      },
     ],
     huobitoken: [
-      {
-        name: "Huobi Twitter",
-        feed: "https://nitter.zelcore.io/HuobiGlobal/rss",
-        site: "https://twitter.com/HuobiGlobal",
-        about: "The Leading Global Digital Asset Exchange.",
-        pic: "@/assets/logos/HT.svg",
-      },
     ],
     busd: [
       {
@@ -1711,22 +1521,8 @@ const newssources = {
       },
     ],
     okb: [
-      {
-        name: "OKEx Twitter",
-        feed: "https://nitter.zelcore.io/OKEx/rss",
-        site: "https://twitter.com/OKEx",
-        about: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
-        pic: "@/assets/logos/OKB.svg",
-      },
     ],
     bitforextoken: [
-      {
-        name: "BitForex Twitter",
-        feed: "https://nitter.zelcore.io/bitforexcom/rss",
-        site: "https://twitter.com/bitforexcom",
-        about: "A global top-10 cryptocurrency exchange leader — BitForex provides powerful tools letting you take full control of your digital asset trades and management.",
-        pic: "@/assets/logos/BF.svg",
-      },
     ],
     mxtoken: [
       {
@@ -1756,22 +1552,8 @@ const newssources = {
       },
     ],
     huobipooltoken: [
-      {
-        name: "Huobi Pool Twitter",
-        feed: "https://nitter.zelcore.io/EOS_huobipool/rss",
-        site: "https://twitter.com/EOS_huobipool",
-        about: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
-        pic: "@/assets/logos/HPT.svg",
-      },
     ],
     golfcoin: [
-      {
-        name: "Golfcoin Twitter",
-        feed: "https://nitter.zelcore.io/golfcoin/rss",
-        site: "https://twitter.com/golfcoin",
-        about: "Rewards program for the golf industry.",
-        pic: "@/assets/logos/GOLF.svg",
-      },
     ],
     enecuum: [
       {
@@ -1792,49 +1574,14 @@ const newssources = {
       },
     ],
     zeroxbitcoin: [
-      {
-        name: "0xBitcoin Twitter",
-        feed: "https://nitter.zelcore.io/0xbitcoin_erc20/rss",
-        site: "https://twitter.com/0xbitcoin_erc20",
-        about: "The first truly decentralized PoW mineable ERC20 token contract on the Ethereum blockchain.",
-        pic: "@/assets/logos/0xBTC.svg",
-      },
     ],
     vayla: [
-      {
-        name: "Vayla Twitter",
-        feed: "https://nitter.zelcore.io/VAYLAtoken/rss",
-        site: "https://twitter.com/VAYLAtoken",
-        about: "A token valued by the people.",
-        pic: "@/assets/logos/VYA.svg",
-      },
     ],
     aergo: [
-      {
-        name: "Aergo Twitter",
-        feed: "https://nitter.zelcore.io/AERGO_IO/rss",
-        site: "https://twitter.com/AERGO_IO",
-        about: "It's not blockchain. It's blockchain for business.",
-        pic: "@/assets/logos/AERGO.svg",
-      },
     ],
     lunchmoney: [
-      {
-        name: "Lunchmoney Twitter",
-        feed: "https://nitter.zelcore.io/LunchToken/rss",
-        site: "https://twitter.com/LunchToken",
-        about: "ERC20 utility token used for incentivizing real feedback from restaurant and eatery patrons wordwide.",
-        pic: "@/assets/logos/LMY.svg",
-      },
     ],
     kadena: [
-      {
-        name: "Kadena Twitter",
-        feed: "https://nitter.zelcore.io/kadena_io/rss",
-        site: "https://twitter.com/kadena_io",
-        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
-        pic: "@/assets/logos/KDA.svg",
-      },
       {
         name: "Kadena Medium",
         feed: "https://medium.com/feed/kadena-io",
@@ -1851,68 +1598,18 @@ const newssources = {
       },
     ],
     netkoin: [
-      {
-        name: "NetKoin Twitter",
-        feed: "https://nitter.zelcore.io/netkoin/rss",
-        site: "https://twitter.com/netkoin",
-        about: "Earn cryptocurrency and redeem rewards from everday shopping!",
-        pic: "@/assets/logos/NTK.svg",
-      },
     ],
     gammacoin: [
-      {
-        name: "GammaCoin Twitter",
-        feed: "https://nitter.zelcore.io/gammagmc/rss",
-        site: "https://twitter.com/gammagmc",
-        about: "GMC are economic tokens and investments made using the Ethereum blockchain.",
-        pic: "@/assets/logos/GMC.svg",
-      },
     ],
     bazookatoken: [
-      {
-        name: "Baztoken Twitter",
-        feed: "https://nitter.zelcore.io/BazToken/rss",
-        site: "https://twitter.com/BazToken",
-        about: "Baztoken is an ERC20 with limitless usability which aims to revolutionize the E-Gaming, Sports betting & E-commerce.",
-        pic: "@/assets/logos/BAZ.svg",
-      },
     ],
     coinsto: [
-      {
-        name: "Coinsto Twitter",
-        feed: "https://nitter.zelcore.io/Coinstoglobal/rss",
-        site: "https://twitter.com/Coinstoglobal",
-        about: "Coinsto is a Cryptocurrency project helping people to learn by others experience.",
-        pic: "@/assets/logos/CSO.svg",
-      },
     ],
     unibright: [
-      {
-        name: "UniBright Twitter",
-        feed: "https://nitter.zelcore.io/unibrightio/rss",
-        site: "https://twitter.com/unibrightio",
-        about: "UniBright is a business integration specialists, now offering Unibright.io - the first unified framework for blockchain based business integration",
-        pic: "@/assets/logos/UBT.svg",
-      },
     ],
     ilcoin: [
-      {
-        name: "ILCoin Twitter",
-        feed: "https://nitter.zelcore.io/ILC_B_Project/rss",
-        site: "https://twitter.com/ILC_B_Project",
-        about: "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, "
-          + "but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.",
-        pic: "@/assets/logos/ILC.svg",
-      },
     ],
     hex: [
-      {
-        name: "Hex Twitter",
-        feed: "https://nitter.zelcore.io/HEXcrypto/rss",
-        site: "https://twitter.com/HEXcrypto",
-        about: "Hex twitter",
-        pic: "@/assets/logos/HEX.svg",
-      },
       {
         name: "Hex Reddit",
         feed: "https://www.reddit.com/r/HEXcrypto/.rss",
@@ -1923,13 +1620,6 @@ const newssources = {
     ],
     comp: [
       {
-        name: "Compound Twitter",
-        feed: "https://nitter.zelcore.io/compoundfinance/rss",
-        site: "https://twitter.com/compoundfinance",
-        about: "Compound - an algorithmic, autonomous interest rate protocol for developers.",
-        pic: "@/assets/logos/COMP.svg",
-      },
-      {
         name: "Compound Medium",
         feed: "https://medium.com/feed/compound-finance",
         site: "https://medium.com/compound-finance",
@@ -1939,13 +1629,6 @@ const newssources = {
     ],
     vidt: [
       {
-        name: "V-ID Twitter",
-        feed: "https://nitter.zelcore.io/v_id_blockchain/rss",
-        site: "https://twitter.com/v_id_blockchain",
-        about: "V-ID is a service that detects any unlawful manipulation of any digital file.",
-        pic: "@/assets/logos/VIDT.svg",
-      },
-      {
         name: "V-ID Medium",
         feed: "https://medium.com/feed/@pim_vee",
         site: "https://medium.com/@pim_vee",
@@ -1954,50 +1637,14 @@ const newssources = {
       },
     ],
     drgn: [
-      {
-        name: "Dragon Twitter",
-        feed: "https://nitter.zelcore.io/dragonchaingang/rss",
-        site: "https://twitter.com/dragonchaingang",
-        about: "Dragonchain is a public/private hybrid blockchain. A private blockchain leveraging decentralization and interoperability to ensure your data is both verifiable and secure.",
-        pic: "@/assets/logos/DRGN.svg",
-      },
     ],
     whale: [
-      {
-        name: "Whale Twitter",
-        feed: "https://nitter.zelcore.io/WhaleShark_Pro/rss",
-        site: "https://twitter.com/WhaleShark_Pro",
-        about: "THE WORLD'S FIRST SOCIAL CURRENCY BACKED BY HIGH-VALUE ASSETS. We have created the world's first social currency with a foundational valuation that is underpinned by some of the world's most valuable non-fungible tokens (NFTs).",
-        pic: "@/assets/logos/WHALE.svg",
-      },
     ],
     wbtc: [
-      {
-        name: "WBTC Twitter",
-        feed: "https://nitter.zelcore.io/WrappedBTC/rss",
-        site: "https://twitter.com/WrappedBTC",
-        about: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
-        pic: "@/assets/logos/WBTC.svg",
-      },
     ],
     genesistron: [
-      {
-        name: "Genesis Blog",
-        feed: "https://nitter.zelcore.io/genx_network/rss",
-        site: "https://twitter.com/genx_network",
-        about: "P2P point of sale and payments processing ecosystem for business and e-commerce.",
-        pic: "@/assets/logos/GENX.svg",
-      },
     ],
     om: [
-      {
-        name: "MANTRA DAO Twitter",
-        feed: "https://nitter.zelcore.io/MANTRADAO/rss",
-        site: "https://twitter.com/MANTRADAO",
-        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance. MANTRA DAO leverages the wisdom of the crowd to create a community-governed, transparent, and decentralized ecosystem for web 3.0. "
-          + "Built on Parity Substrate for the Polkadot ecosystem, MANTRA DAO gives financial control back to the people to grow wealth together.",
-        pic: "@/assets/logos/OM.svg",
-      },
     ],
     testnetbitcoin: [
       {
@@ -2009,22 +1656,8 @@ const newssources = {
       },
     ],
     coinartisttoken: [
-      {
-        name: "Coin Artist Token Twitter",
-        feed: "https://nitter.zelcore.io/coin_artist/rss",
-        site: "https://twitter.com/coin_artist",
-        about: "tokenized version of Marguerite deCourcelle as an ongoing social experiment called Coin’s E-Den. You can think of COIN as a collaborative governance token regarding me and the Coin Artist ecosystem.",
-        pic: "@/assets/logos/COIN.svg",
-      },
     ],
     uni: [
-      {
-        name: "Uniswap Twitter",
-        feed: "https://nitter.zelcore.io/UniswapProtocol/rss",
-        site: "https://twitter.com/UniswapProtocol",
-        about: "The Uniswap Protocol token.",
-        pic: "@/assets/logos/UNI.svg",
-      },
     ],
     testnetropstenethereum: [
       {
@@ -2045,40 +1678,12 @@ const newssources = {
       },
     ],
     jst: [
-      {
-        name: "Just Twitter",
-        feed: "https://nitter.zelcore.io/DeFi_JUST/rss",
-        site: "https://twitter.com/DeFi_JUST",
-        about: "JUST is committed to developing TRON-b  ased DeFi protocols and aims to provide all-in-one financial solutions to its users.",
-        pic: "@/assets/logos/JST.svg",
-      },
     ],
     beldex: [
-      {
-        name: "Beldex Twitter",
-        feed: "https://nitter.zelcore.io/BeldexCoin/rss",
-        site: "https://twitter.com/BeldexCoin",
-        about: "BELDEX, a new cryptocurrency ecosystem has emerged with the sole purpose of resolving some of the key issues faced by the crypto world like privacy, liquidity, and usability.",
-        pic: "@/assets/logos/BDX.svg",
-      },
     ],
     toshi: [
-      {
-        name: "Toshimon Twitter",
-        feed: "https://nitter.zelcore.io/Toshimon_/rss",
-        site: "https://twitter.com/Toshimon_",
-        about: "Toshimon Governance Token",
-        pic: "@/assets/logos/TOSHI.svg",
-      },
     ],
     maid: [
-      {
-        name: "MaidSafeCoin Twitter",
-        feed: "https://nitter.zelcore.io/maidsafe/rss",
-        site: "https://twitter.com/maidsafe",
-        about: "MaidSafeCoin (MAID) is the decentralized currency for the SAFE Network, a autonomous and decentralized data network that boasts extra hard disk space, processing power, and data connectivity for its users.",
-        pic: "@/assets/logos/MAID.svg",
-      },
     ],
     btcb: [
       {
@@ -2098,13 +1703,6 @@ const newssources = {
         pic: "@/assets/logos/RUNE.svg",
       },
       {
-        name: "THORChain Twitter",
-        feed: "https://nitter.zelcore.io/thorchain_org/rss",
-        site: "https://twitter.com/thorchain_org",
-        about: "THORChain is a decentralised cross-chain liquidity network with no pegged or wrapped tokens.",
-        pic: "@/assets/logos/RUNE.svg",
-      },
-      {
         name: "THORChain Medium",
         feed: "https://medium.com/feed/topic/thorchain",
         site: "https://medium.com/topic/thorchain",
@@ -2117,13 +1715,6 @@ const newssources = {
         name: "Tether Reddit",
         feed: "https://reddit.com/r/Tether/.rss",
         site: "https://reddit.com/r/Tether",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
@@ -2155,13 +1746,6 @@ const newssources = {
         pic: "@/assets/logos/NEXO.svg",
       },
       {
-        name: "Nexo Twitter",
-        feed: "https://nitter.zelcore.io/NexoFinance/rss",
-        site: "https://twitter.com/NexoFinance",
-        about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
-        pic: "@/assets/logos/NEXO.svg",
-      },
-      {
         name: "Nexo Reddit",
         feed: "https://www.reddit.com/r/nexo/.rss",
         site: "https://www.reddit.com/r/nexo",
@@ -2174,13 +1758,6 @@ const newssources = {
         name: "Nexo Blog",
         feed: "https://medium.com/feed/@community_83533",
         site: "https://medium.com/@community_83533",
-        about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
-        pic: "@/assets/logos/NEXO.svg",
-      },
-      {
-        name: "Nexo Twitter",
-        feed: "https://nitter.zelcore.io/NexoFinance/rss",
-        site: "https://twitter.com/NexoFinance",
         about: "Nexo is a blockchain-based lending platform that offers users instant cryptocurrency-backed loans. Users deposit an accepted token — such as Bitcoin (BTC), Ether (ETH), Litecoin (LTC) or XRP (XRP) — as collateral to receive a loan in the form of a fiat currency or stablecoin.",
         pic: "@/assets/logos/NEXO.svg",
       },
@@ -2201,13 +1778,6 @@ const newssources = {
         pic: "@/assets/logos/DAI.svg",
       },
       {
-        name: "Dai Twitter",
-        feed: "https://nitter.zelcore.io/MakerDAO/rss",
-        site: "https://twitter.com/MakerDAO",
-        about: "DAI is an Ethereum-based stablecoin (stable-price cryptocurrency) whose issuance and development is managed by the Maker Protocol and the MakerDAO decentralized autonomous organization.",
-        pic: "@/assets/logos/DAI.svg",
-      },
-      {
         name: "Dai Reddit",
         feed: "https://www.reddit.com/r/MakerDAO/.rss",
         site: "https://www.reddit.com/r/MakerDAO",
@@ -2216,23 +1786,8 @@ const newssources = {
       },
     ],
     xdai: [
-      {
-        name: "xDai Twitter",
-        feed: "https://nitter.zelcore.io/xdaichain/rss",
-        site: "https://twitter.com/xdaichain",
-        about: "The xDai Chain is a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees, and STAKE is used to support Proof-of-Stake consensus.",
-        pic: "@/assets/logos/STAKE.svg",
-      },
     ],
     rev: [
-      {
-        name: "Revain Twitter",
-        feed: "https://nitter.zelcore.io/revain_org/rss",
-        site: "https://twitter.com/revain_org",
-        about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
-        pic: "@/assets/logos/REV.svg",
-      },
       {
         name: "Revain Reddit",
         feed: "https://www.reddit.com/r/revain_org/.rss",
@@ -2252,14 +1807,6 @@ const newssources = {
     ],
     revtrc: [
       {
-        name: "Revain Twitter",
-        feed: "https://nitter.zelcore.io/revain_org/rss",
-        site: "https://twitter.com/revain_org",
-        about: "Revain describes itself as the first trustworthy review platform built with blockchain technology. All user reviews are written in the blockchain, providing transparency. "
-          + "No one can change or delete them, including the Revain itself. This makes review manipulation by any party nearly impossible.",
-        pic: "@/assets/logos/REV.svg",
-      },
-      {
         name: "Revain Reddit",
         feed: "https://www.reddit.com/r/revain_org/.rss",
         site: "https://www.reddit.com/r/revain_org",
@@ -2278,13 +1825,6 @@ const newssources = {
     ],
     aave: [
       {
-        name: "Aave Twitter",
-        feed: "https://nitter.zelcore.io/AaveAave/rss",
-        site: "https://twitter.com/AaveAave",
-        about: "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
-        pic: "@/assets/logos/AAVE.svg",
-      },
-      {
         name: "Aave Reddit",
         feed: "https://www.reddit.com/r/Aave_Official/.rss",
         site: "https://www.reddit.com/r/Aave_Official",
@@ -2301,13 +1841,6 @@ const newssources = {
     ],
     snx: [
       {
-        name: "Synthetix Twitter",
-        feed: "https://nitter.zelcore.io/synthetix_io/rss",
-        site: "https://twitter.com/synthetix_io",
-        about: "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets. Each synthetic asset (or Synth) is an ERC20 token which tracks the price of an external asset.",
-        pic: "@/assets/logos/SNX.svg",
-      },
-      {
         name: "Synthetix Reddit",
         feed: "https://www.reddit.com/r/synthetix_io/.rss",
         site: "https://www.reddit.com/r/synthetix_io",
@@ -2316,13 +1849,6 @@ const newssources = {
       },
     ],
     yfi: [
-      {
-        name: "yearn.finance Twitter",
-        feed: "https://nitter.zelcore.io/iearnfinance/rss",
-        site: "https://twitter.com/iearnfinance",
-        about: "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
-        pic: "@/assets/logos/YFI.svg",
-      },
       {
         name: "yearn.finance Medium",
         feed: "https://medium.com/feed/iearn",
@@ -2333,13 +1859,6 @@ const newssources = {
     ],
     ftt: [
       {
-        name: "FTX Token Twitter",
-        feed: "https://nitter.zelcore.io/FTX_Official/rss",
-        site: "https://twitter.com/FTX_Official",
-        about: "FTX is owned by FTX Trading LTD, a company incorporated in Antigua and Barbuda. FTX was incubated by Alameda Research, a cryptocurrency liquidity provider. ",
-        pic: "@/assets/logos/FTT.svg",
-      },
-      {
         name: "FTX Token Medium",
         feed: "https://medium.com/feed/@ftx",
         site: "https://medium.com/@ftx",
@@ -2348,13 +1867,6 @@ const newssources = {
       },
     ],
     grt: [
-      {
-        name: "The Graph Twitter",
-        feed: "https://nitter.zelcore.io/graphprotocol/rss",
-        site: "https://twitter.com/graphprotocol",
-        about: "The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem.",
-        pic: "@/assets/logos/GRT.svg",
-      },
       {
         name: "The Graph Reddit",
         feed: "https://www.reddit.com/r/thegraph/.rss",
@@ -2365,13 +1877,6 @@ const newssources = {
     ],
     sushi: [
       {
-        name: "Sushi Twitter",
-        feed: "https://nitter.zelcore.io/sushiswap/rss",
-        site: "https://twitter.com/sushiswap",
-        about: "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
-        pic: "@/assets/logos/SUSHI.svg",
-      },
-      {
         name: "Sushi Medium",
         feed: "https://medium.com/feed/sushiswap-org",
         site: "https://medium.com/sushiswap-org",
@@ -2381,13 +1886,6 @@ const newssources = {
     ],
     cel: [
       {
-        name: "Celsius Twitter",
-        feed: "https://nitter.zelcore.io/graphprotocol/rss",
-        site: "https://twitter.com/graphprotocol",
-        about: "Celsius (CEL) is an all-in-one banking and financial services platform for cryptocurrency users.",
-        pic: "@/assets/logos/CEL.svg",
-      },
-      {
         name: "Celsius Reddit",
         feed: "https://www.reddit.com/r/thegraph/.rss",
         site: "https://www.reddit.com/r/thegraph",
@@ -2396,13 +1894,6 @@ const newssources = {
       },
     ],
     cro: [
-      {
-        name: "Crypto.com Coin Twitter",
-        feed: "https://nitter.zelcore.io/cryptocom/rss",
-        site: "https://twitter.com/cryptocom",
-        about: "Crypto.com Coin (CRO) is the native cryptocurrency token of Crypto.com Chain — a decentralized, open-source blockchain developed by the Crypto.com payment, trading and financial services company.",
-        pic: "@/assets/logos/CRO.svg",
-      },
       {
         name: "Crypto.com Coin Reddit",
         feed: "https://www.reddit.com/r/Crypto_com/.rss",
@@ -2420,13 +1911,6 @@ const newssources = {
     ],
     uma: [
       {
-        name: "UMA Twitter",
-        feed: "https://nitter.zelcore.io/UMAprotocol/rss",
-        site: "https://twitter.com/UMAprotocol",
-        about: "UMA, or Universal Market Access, is a protocol for the creation of synthetic assets based on the Ethereum (ETH) blockchain. UMA was launched in December 2018.",
-        pic: "@/assets/logos/UMA.svg",
-      },
-      {
         name: "UMA Medium",
         feed: "https://medium.com/feed/uma-project",
         site: "https://medium.com/uma-project",
@@ -2435,13 +1919,6 @@ const newssources = {
       },
     ],
     renbtc: [
-      {
-        name: "renBTC Twitter",
-        feed: "https://nitter.zelcore.io/renprotocol/rss",
-        site: "https://twitter.com/renprotocol",
-        about: "RenBTC is an ERC-20 token built on the Ethereum network, pegged to Bitcoin. This means that each RENBTC can be always redeemed for one Bitcoin, and hence tends to maintain its value at close to the Bitcoin market rate.",
-        pic: "@/assets/logos/RENBTC.svg",
-      },
       {
         name: "renBTC Reddit",
         feed: "https://www.reddit.com/r/renproject/.rss",
@@ -2459,13 +1936,6 @@ const newssources = {
     ],
     chsb: [
       {
-        name: "SwissBorg Twitter",
-        feed: "https://nitter.zelcore.io/swissborg/rss",
-        site: "https://twitter.com/swissborg",
-        about: "SwissBorg aims to decentralize wealth management by making it fun, fair, and community-centric.",
-        pic: "@/assets/logos/CHSB.svg",
-      },
-      {
         name: "SwissBorg Reddit",
         feed: "https://www.reddit.com/r/swissborg/.rss",
         site: "https://www.reddit.com/r/swissborg",
@@ -2474,13 +1944,6 @@ const newssources = {
       },
     ],
     ampl: [
-      {
-        name: "Ampleforth Twitter",
-        feed: "https://nitter.zelcore.io/ampleforthorg/rss",
-        site: "https://twitter.com/ampleforthorg",
-        about: "Ampleforth is an Ethereum-based cryptocurrency with an algorithmically adjusted circulating supply.",
-        pic: "@/assets/logos/AMPL.svg",
-      },
       {
         name: "Ampleforth Reddit",
         feed: "https://www.reddit.com/r/ampleforthcrypto/.rss",
@@ -2491,13 +1954,6 @@ const newssources = {
     ],
     rsr: [
       {
-        name: "Reserve Rights Twitter",
-        feed: "https://nitter.zelcore.io/reserveprotocol/rss",
-        site: "https://twitter.com/reserveprotocol",
-        about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
-        pic: "@/assets/logos/RSR.svg",
-      },
-      {
         name: "Reserve Rights Medium",
         feed: "https://medium.com/feed/reserve-currency",
         site: "https://medium.com/reserve-currency",
@@ -2507,13 +1963,6 @@ const newssources = {
     ],
     ust: [
       {
-        name: "TerraUSD Twitter",
-        feed: "https://nitter.zelcore.io/terra_money/rss",
-        site: "https://twitter.com/terra_money",
-        about: "A native Terra stablecoin pegged to the US Dollar.",
-        pic: "@/assets/logos/UST.svg",
-      },
-      {
         name: "TerraUSD Medium",
         feed: "https://medium.com/feed/terra-money",
         site: "https://medium.com/terra-money",
@@ -2522,22 +1971,8 @@ const newssources = {
       },
     ],
     hedg: [
-      {
-        name: "HedgeTrade Twitter",
-        feed: "https://nitter.zelcore.io/hedgetradehq/rss",
-        site: "https://twitter.com/hedgetradehq",
-        about: "HedgeTrade aims to become a platform where the world’s best traders share their knowledge. Traders post predictions into a smart contract-powered Blueprint that users can purchase or unlock in order to access.",
-        pic: "@/assets/logos/HEDG.svg",
-      },
     ],
     qnt: [
-      {
-        name: "Quant Twitter",
-        feed: "https://nitter.zelcore.io/quant_network/rss",
-        site: "https://twitter.com/quant_network",
-        about: "Quant Network is a United Kingdom-based technology company that is focused on providing interoperable solutions that bridge multiple protocols, blockchains or other distributed networks.",
-        pic: "@/assets/logos/QNT.svg",
-      },
       {
         name: "Quant Reddit",
         feed: "https://www.reddit.com/r/QuantNetwork/.rss",
@@ -2555,13 +1990,6 @@ const newssources = {
     ],
     ocean: [
       {
-        name: "Ocean Protocol Twitter",
-        feed: "https://nitter.zelcore.io/oceanprotocol/rss",
-        site: "https://twitter.com/oceanprotocol",
-        about: "Ocean Protocol is a blockchain-based ecosystem that allows individuals and businesses to easily unlock the value of their data and monetize it through the use of ERC-20 based datatokens.",
-        pic: "@/assets/logos/OCEAN.svg",
-      },
-      {
         name: "Ocean Protocol Reddit",
         feed: "https://www.reddit.com/r/oceanprotocol/.rss",
         site: "https://www.reddit.com/r/oceanprotocol",
@@ -2571,13 +1999,6 @@ const newssources = {
     ],
     husd: [
       {
-        name: "HUSD Twitter",
-        feed: "https://nitter.zelcore.io/Stablecoin_HUSD/rss",
-        site: "https://twitter.com/Stablecoin_HUSD",
-        about: "HUSD is an ERC-20 token that is 1:1 ratio pegged with USD. It was issued by Stable Universal, an entity that claims to follow US regulations.",
-        pic: "@/assets/logos/HUSD.svg",
-      },
-      {
         name: "HUSD Medium",
         feed: "https://medium.com/feed/@Stablecoin_HUSD",
         site: "https://medium.com/@Stablecoin_HUSD",
@@ -2586,22 +2007,8 @@ const newssources = {
       },
     ],
     cvt: [
-      {
-        name: "CyberVein Twitter",
-        feed: "https://nitter.zelcore.io/cyberveingroup/rss",
-        site: "https://twitter.com/cyberveingroup",
-        about: "CyberVein's big-data solution is based on the PISR (private, interlink, secure, robust) distributed database, database operations are stored on CyberVein blockchain network which runs on a Proof-of-Contribution (PoC) consensus mechanism.",
-        pic: "@/assets/logos/CVT.svg",
-      },
     ],
     nxm: [
-      {
-        name: "NXM Twitter",
-        feed: "https://nitter.zelcore.io/NexusMutual/rss",
-        site: "https://twitter.com/NexusMutual",
-        about: "Nexus Mutual uses Ethereum so that people can pool risk together without the need for an insurance company.",
-        pic: "@/assets/logos/NXM.svg",
-      },
       {
         name: "NXM Medium",
         feed: "https://medium.com/feed/nexus-mutual",
@@ -2612,13 +2019,6 @@ const newssources = {
     ],
     gno: [
       {
-        name: "Gnosis Twitter",
-        feed: "https://nitter.zelcore.io/gnosisPM/rss",
-        site: "https://twitter.com/gnosisPM",
-        about: "Started in 2015, Gnosis is a decentralized prediction market built on the Ethereum protocol. Third-party developers will also be able to introduce their own services.",
-        pic: "@/assets/logos/GNO.svg",
-      },
-      {
         name: "Gnosis Reddit",
         feed: "https://www.reddit.com/r/gnosisPM/.rss",
         site: "https://www.reddit.com/r/gnosisPM",
@@ -2627,13 +2027,6 @@ const newssources = {
       },
     ],
     chzbnb: [
-      {
-        name: "Chiliz Twitter",
-        feed: "https://nitter.zelcore.io/chiliz/rss",
-        site: "https://twitter.com/chiliz",
-        about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
-        pic: "@/assets/logos/CHZ.svg",
-      },
       {
         name: "Chiliz Medium",
         feed: "https://medium.com/feed/chiliz",
@@ -2644,13 +2037,6 @@ const newssources = {
     ],
     chz: [
       {
-        name: "Chiliz Twitter",
-        feed: "https://nitter.zelcore.io/chiliz/rss",
-        site: "https://twitter.com/chiliz",
-        about: "Chiliz, powering Socios.com, aims to give sports and esports fans the ability to crowd-manage their favorite teams, games, leagues, and events.",
-        pic: "@/assets/logos/CHZ.svg",
-      },
-      {
         name: "Chiliz Medium",
         feed: "https://medium.com/feed/chiliz",
         site: "https://medium.com/chiliz",
@@ -2659,31 +2045,10 @@ const newssources = {
       },
     ],
     suntrc: [
-      {
-        name: "SUNOLD Twitter",
-        feed: "https://nitter.zelcore.io/defi_sunio/rss",
-        site: "https://twitter.com/defi_sunio",
-        about: "SUNOLD (SUNOLD) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
-        pic: "@/assets/logos/SUN.svg",
-      },
     ],
     usdjtrc: [
-      {
-        name: "USDJ Twitter",
-        feed: "https://nitter.zelcore.io/DeFi_JUST/rss",
-        site: "https://twitter.com/DeFi_JUST",
-        about: "In the whitepaper, USDJ is described as a a USD-pegged cryptocurrency backed by collateral assets, generated through decentralized smart contracts on the TRON network.",
-        pic: "@/assets/logos/USDJ.svg",
-      },
     ],
     dot: [
-      {
-        name: "Polkadot Twitter",
-        feed: "https://nitter.zelcore.io/Polkadot/rss",
-        site: "https://twitter.com/Polkadot",
-        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
-        pic: "@/assets/logos/DOT.svg",
-      },
       {
         name: "Polkadot Reddit",
         feed: "https://www.reddit.com/r/dot/.rss",
@@ -2701,13 +2066,6 @@ const newssources = {
     ],
     testnetwnd: [
       {
-        name: "Polkadot Twitter",
-        feed: "https://nitter.zelcore.io/Polkadot/rss",
-        site: "https://twitter.com/Polkadot",
-        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
-        pic: "@/assets/logos/TESTWND.svg",
-      },
-      {
         name: "Polkadot Reddit",
         feed: "https://www.reddit.com/r/dot/.rss",
         site: "https://www.reddit.com/r/dot",
@@ -2723,13 +2081,6 @@ const newssources = {
       },
     ],
     testnetkadena: [
-      {
-        name: "Kadena Twitter",
-        feed: "https://nitter.zelcore.io/kadena_io/rss",
-        site: "https://twitter.com/kadena_io",
-        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
-        pic: "@/assets/logos/KDA.svg",
-      },
       {
         name: "Kadena Medium",
         feed: "https://medium.com/feed/kadena-io",
@@ -2747,13 +2098,6 @@ const newssources = {
     ],
     ksm: [
       {
-        name: "Kusama Twitter",
-        feed: "https://nitter.zelcore.io/kusamanetwork/rss",
-        site: "https://twitter.com/kusamanetwork",
-        about: "Self-described as Polkadot's wild cousin, Kusama is an experimental blockchain platform that is designed to provide a massively interoperable and scalable framework for developers.",
-        pic: "@/assets/logos/KSM.svg",
-      },
-      {
         name: "Kusama Reddit",
         feed: "https://www.reddit.com/r/Kusama/.rss",
         site: "https://www.reddit.com/r/Kusama",
@@ -2762,13 +2106,6 @@ const newssources = {
       },
     ],
     inch: [
-      {
-        name: "1inch Twitter",
-        feed: "https://nitter.zelcore.io/1inchExchange/rss",
-        site: "https://twitter.com/1inchExchange",
-        about: "1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms.",
-        pic: "@/assets/logos/1INCH.svg",
-      },
       {
         name: "1inch Reddit",
         feed: "https://www.reddit.com/r/1inch_exchange/.rss",
@@ -2809,13 +2146,6 @@ const newssources = {
     ],
     pancakeswap: [
       {
-        name: "PancakeSwap Twitter",
-        feed: "https://nitter.zelcore.io/PancakeSwap/rss",
-        site: "https://twitter.com/PancakeSwap",
-        about: "PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.",
-        pic: "@/assets/logos/CAKE.svg",
-      },
-      {
         name: "PancakeSwap Reddit",
         feed: "https://www.reddit.com/r/pancakeswap/.rss",
         site: "https://www.reddit.com/r/pancakeswap",
@@ -2831,13 +2161,6 @@ const newssources = {
       },
     ],
     matic: [
-      {
-        name: "Polygon Twitter",
-        feed: "https://nitter.zelcore.io/maticnetwork/rss",
-        site: "https://twitter.com/maticnetwork",
-        about: "Matic Network provides scalable, secure and instant Ethereum transactions using Plasma side chains and a Proof-of-Stake network.",
-        pic: "@/assets/logos/MATIC.svg",
-      },
       {
         name: "Polygon Reddit",
         feed: "https://www.reddit.com/r/maticnetwork/.rss",
@@ -2888,13 +2211,6 @@ const newssources = {
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
     ],
     bscwbnb: [
       {
@@ -2906,13 +2222,6 @@ const newssources = {
       },
     ],
     xcm: [
-      {
-        name: "CoinMetro Twitter",
-        feed: "https://nitter.zelcore.io/coinmetro/rss",
-        site: "https://twitter.com/coinmetro",
-        about: "CoinMetro describes itself as a fully-rounded FinTech ecosystem that was designed to simplify access to the digital asset economy. XCM is the native asset of the platform.",
-        pic: "@/assets/logos/XCM.svg",
-      },
       {
         name: "CoinMetro Reddit",
         feed: "https://www.reddit.com/r/coinmetro/.rss",
@@ -2929,20 +2238,6 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     gatetoken: [
       {
@@ -2952,26 +2247,12 @@ const newssources = {
         about: "GateChain is a next-generation public blockchain, focused on onchain asset safety and decentralized trading.",
         pic: "@/assets/logos/GT.svg",
       },
-      {
-        name: "GateToken Twitter",
-        feed: "https://nitter.zelcore.io/gatechain_io/rss",
-        site: "https://twitter.com/gatechain_io",
-        about: "GateChain is a next-generation public blockchain, focused on onchain asset safety and decentralized trading.",
-        pic: "@/assets/logos/GT.svg",
-      },
     ],
     knc: [
       {
         name: "Kyber Blog",
         feed: "https://blog.kyber.network/feed",
         site: "https://blog.kyber.network",
-        about: "Kyber’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem.",
-        pic: "@/assets/logos/KNC.svg",
-      },
-      {
-        name: "Kyber Twitter",
-        feed: "https://nitter.zelcore.io/kybernetwork/rss",
-        site: "https://twitter.com/kybernetwork",
         about: "Kyber’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem.",
         pic: "@/assets/logos/KNC.svg",
       },
@@ -2992,13 +2273,6 @@ const newssources = {
         pic: "@/assets/logos/PRE.svg",
       },
       {
-        name: "Presearch Twitter",
-        feed: "https://nitter.zelcore.io/presearchnews/rss",
-        site: "https://twitter.com/presearchnews",
-        about: "Presearch aims to build a next-generation search engine that is powered by its community.",
-        pic: "@/assets/logos/PRE.svg",
-      },
-      {
         name: "Presearch Reddit",
         feed: "https://www.reddit.com/r/PresearchCommunity/.rss",
         site: "https://www.reddit.com/r/PresearchCommunity",
@@ -3011,13 +2285,6 @@ const newssources = {
         name: "Solana Blog",
         feed: "https://medium.com/feed/solana-labs",
         site: "https://medium.com/solana-labs",
-        about: "Solana is an open source project implementing a new, high-performance, permissionless blockchain. The Solana Foundation is based in Geneva, Switzerland and maintains the open source project.",
-        pic: "@/assets/logos/SOL.svg",
-      },
-      {
-        name: "Solana Twitter",
-        feed: "https://nitter.zelcore.io/solana/rss",
-        site: "https://twitter.com/solana",
         about: "Solana is an open source project implementing a new, high-performance, permissionless blockchain. The Solana Foundation is based in Geneva, Switzerland and maintains the open source project.",
         pic: "@/assets/logos/SOL.svg",
       },
@@ -3038,13 +2305,6 @@ const newssources = {
         pic: "@/assets/logos/WSOL.svg",
       },
       {
-        name: "Solana Twitter",
-        feed: "https://nitter.zelcore.io/solana/rss",
-        site: "https://twitter.com/solana",
-        about: "Solana is an open source project implementing a new, high-performance, permissionless blockchain. The Solana Foundation is based in Geneva, Switzerland and maintains the open source project.",
-        pic: "@/assets/logos/WSOL.svg",
-      },
-      {
         name: "Solana Reddit",
         feed: "https://www.reddit.com/r/solana/.rss",
         site: "https://www.reddit.com/r/solana",
@@ -3060,13 +2320,6 @@ const newssources = {
         about: "Serum is a decentralized exchange (DEX) and an ecosystem that brings high speed and low transaction costs to decentralized finance (DeFi).",
         pic: "@/assets/logos/SRM.svg",
       },
-      {
-        name: "Serum Twitter",
-        feed: "https://nitter.zelcore.io/projectserum/rss",
-        site: "https://twitter.com/projectserum",
-        about: "Serum is a decentralized exchange (DEX) and an ecosystem that brings high speed and low transaction costs to decentralized finance (DeFi).",
-        pic: "@/assets/logos/SRM.svg",
-      },
     ],
     megaserum: [
       {
@@ -3076,31 +2329,10 @@ const newssources = {
         about: "Serum is a decentralized exchange (DEX) and an ecosystem that brings high speed and low transaction costs to decentralized finance (DeFi).",
         pic: "@/assets/logos/MSRM.svg",
       },
-      {
-        name: "Serum Twitter",
-        feed: "https://nitter.zelcore.io/projectserum/rss",
-        site: "https://twitter.com/projectserum",
-        about: "Serum is a decentralized exchange (DEX) and an ecosystem that brings high speed and low transaction costs to decentralized finance (DeFi).",
-        pic: "@/assets/logos/MSRM.svg",
-      },
     ],
     cope: [
-      {
-        name: "Cope Twitter",
-        feed: "https://nitter.zelcore.io/cyrii_mm/rss",
-        site: "https://twitter.com/cyrii_mm",
-        about: "COPE is a project that has two phases.",
-        pic: "@/assets/logos/COPE.svg",
-      },
     ],
     bonfida: [
-      {
-        name: "Bonfida Twitter",
-        feed: "https://nitter.zelcore.io/bonfida/rss",
-        site: "https://twitter.com/bonfida",
-        about: "Bonfida bridges the gap between Serum, Solana, and the user.",
-        pic: "@/assets/logos/FIDA.svg",
-      },
       {
         name: "Bonfida Blog",
         feed: "https://bonfida.medium.com/feed",
@@ -3110,13 +2342,6 @@ const newssources = {
       },
     ],
     fttsol: [
-      {
-        name: "FTX Token Twitter",
-        feed: "https://nitter.zelcore.io/FTX_Official/rss",
-        site: "https://twitter.com/FTX_Official",
-        about: "FTX is owned by FTX Trading LTD, a company incorporated in Antigua and Barbuda. FTX was incubated by Alameda Research, a cryptocurrency liquidity provider. ",
-        pic: "@/assets/logos/FTT.svg",
-      },
       {
         name: "FTX Token Medium",
         feed: "https://medium.com/feed/@ftx",
@@ -3134,13 +2359,6 @@ const newssources = {
         pic: "@/assets/logos/KIN.svg",
       },
       {
-        name: "Kin Twitter",
-        feed: "https://nitter.zelcore.io/kin_ecosystem/rss",
-        site: "https://twitter.com/kin_ecosystem",
-        about: "The Kin cryptocurrency is used as money within a digital ecosystem of consumer applications and services.",
-        pic: "@/assets/logos/KIN.svg",
-      },
-      {
         name: "Kin Reddit",
         feed: "https://www.reddit.com/r/KinFoundation/.rss",
         site: "https://www.reddit.com/r/KinFoundation",
@@ -3149,13 +2367,6 @@ const newssources = {
       },
     ],
     maps: [
-      {
-        name: "Maps Twitter",
-        feed: "https://nitter.zelcore.io/MAPS_ME/rss",
-        site: "https://twitter.com/MAPS_ME",
-        about: "Maps.me 2.0 has both online and offline maps while offering DeFi functionalities to its 100M+ users.",
-        pic: "@/assets/logos/MAPS.svg",
-      },
     ],
     media: [
       {
@@ -3165,22 +2376,8 @@ const newssources = {
         about: "Media Network is a new protocol that bypasses traditional CDN providers’ centralized approach for a self-governed and open source solution where everyone can participate.",
         pic: "@/assets/logos/MEDIA.svg",
       },
-      {
-        name: "Media Network Twitter",
-        feed: "https://nitter.zelcore.io/Media_FDN/rss",
-        site: "https://twitter.com/Media_FDN",
-        about: "Media Network is a new protocol that bypasses traditional CDN providers’ centralized approach for a self-governed and open source solution where everyone can participate.",
-        pic: "@/assets/logos/MEDIA.svg",
-      },
     ],
     oxy: [
-      {
-        name: "Oxygen Twitter",
-        feed: "https://nitter.zelcore.io/Oxygen_protocol/rss",
-        site: "https://twitter.com/Oxygen_protocol",
-        about: "Oxygen is a DeFi prime brokerage service built on Solana and powered by Serum's on-chain infrastructure.",
-        pic: "@/assets/logos/OXY.svg",
-      },
     ],
     ray: [
       {
@@ -3190,26 +2387,12 @@ const newssources = {
         about: "Raydium is an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX).",
         pic: "@/assets/logos/RAY.svg",
       },
-      {
-        name: "Raydium Twitter",
-        feed: "https://nitter.zelcore.io/raydiumprotocol/rss",
-        site: "https://twitter.com/raydiumprotocol",
-        about: "Raydium is an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX).",
-        pic: "@/assets/logos/RAY.svg",
-      },
     ],
     step: [
       {
         name: "Step Finance Blog",
         feed: "https://stepfinance.medium.com/feed",
         site: "https://stepfinance.medium.com",
-        about: "Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place.",
-        pic: "@/assets/logos/STEP.svg",
-      },
-      {
-        name: "Step Finance Twitter",
-        feed: "https://nitter.zelcore.io/stepfinance_/rss",
-        site: "https://twitter.com/stepfinance_",
         about: "Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place.",
         pic: "@/assets/logos/STEP.svg",
       },
@@ -3225,13 +2408,6 @@ const newssources = {
     ],
     usdtsol: [
       {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
-      {
         name: "Tether Reddit",
         feed: "https://reddit.com/r/Tether/.rss",
         site: "https://reddit.com/r/Tether",
@@ -3240,13 +2416,6 @@ const newssources = {
       },
     ],
     ropesol: [
-      {
-        name: "Rope Twitter",
-        feed: "https://nitter.zelcore.io/rope_official/rss",
-        site: "https://twitter.com/rope_official",
-        about: "ROPE, a full-scale decentralized ecosystem that brings the well known 'market volatility index' to the crypto market.",
-        pic: "@/assets/logos/ROPE.svg",
-      },
       {
         name: "Rope Reddit",
         feed: "https://www.reddit.com/r/RopeSolana/.rss",
@@ -3263,20 +2432,6 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     fluxbsc: [
       {
@@ -3284,20 +2439,6 @@ const newssources = {
         feed: "https://fluxofficial.medium.com/feed",
         site: "https://fluxofficial.medium.com",
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
         pic: "@/assets/logos/FLUX.svg",
       },
     ],
@@ -3309,26 +2450,12 @@ const newssources = {
         about: "Mercurial is stableswaps on steroids.",
         pic: "@/assets/logos/MER.svg",
       },
-      {
-        name: "Mercurial Twitter",
-        feed: "https://nitter.zelcore.io/MercurialFi/rss",
-        site: "https://twitter.com/MercurialFi",
-        about: "Mercurial is stableswaps on steroids.",
-        pic: "@/assets/logos/MER.svg",
-      },
     ],
     tulipsol: [
       {
         name: "SolFarm Blog",
         feed: "https://solfarm.medium.com/feed",
         site: "https://solfarm.medium.com",
-        about: "SolFarm (TULIP) is the first yield aggregation platform built on Solana with auto-compounding vault strategies.",
-        pic: "@/assets/logos/TULIP.svg",
-      },
-      {
-        name: "SolFarm Twitter",
-        feed: "https://nitter.zelcore.io/Solfarmio/rss",
-        site: "https://twitter.com/Solfarmio",
         about: "SolFarm (TULIP) is the first yield aggregation platform built on Solana with auto-compounding vault strategies.",
         pic: "@/assets/logos/TULIP.svg",
       },
@@ -3348,13 +2475,6 @@ const newssources = {
         about: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages.",
         pic: "@/assets/logos/ALEPH.svg",
       },
-      {
-        name: "aleph.im Twitter",
-        feed: "https://nitter.zelcore.io/aleph_im/rss",
-        site: "https://twitter.com/aleph_im",
-        about: "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages.",
-        pic: "@/assets/logos/ALEPH.svg",
-      },
     ],
     busdbsc: [
       {
@@ -3366,22 +2486,8 @@ const newssources = {
       },
     ],
     suntrcb: [
-      {
-        name: "SUN Twitter",
-        feed: "https://nitter.zelcore.io/defi_sunio/rss",
-        site: "https://twitter.com/defi_sunio",
-        about: "SUN (SUN) is a cryptocurrency designed to further the development of decentralized finance (DeFi) on blockchain network TRON (TRX).",
-        pic: "@/assets/logos/SUN.svg",
-      },
     ],
     safemoonerc: [
-      {
-        name: "SafeMoon Twitter",
-        feed: "https://nitter.zelcore.io/safemoon/rss",
-        site: "https://twitter.com/safemoon",
-        about: "SafeMoon Protocol is a decentralized finance (DeFi) token. According to the SafeMoon website, SafeMoon has three functions that take place during each trade: Reflection, LP Acquisition and Burn.",
-        pic: "@/assets/logos/SAFEMOON.svg",
-      },
       {
         name: "SafeMoon Reddit",
         feed: "https://www.reddit.com/r/SafeMoon/.rss",
@@ -3392,13 +2498,6 @@ const newssources = {
     ],
     safemoonbep: [
       {
-        name: "SafeMoon Twitter",
-        feed: "https://nitter.zelcore.io/safemoon/rss",
-        site: "https://twitter.com/safemoon",
-        about: "SafeMoon Protocol is a decentralized finance (DeFi) token. According to the SafeMoon website, SafeMoon has three functions that take place during each trade: Reflection, LP Acquisition and Burn.",
-        pic: "@/assets/logos/SAFEMOON.svg",
-      },
-      {
         name: "SafeMoon Reddit",
         feed: "https://www.reddit.com/r/SafeMoon/.rss",
         site: "https://www.reddit.com/r/SafeMoon",
@@ -3407,13 +2506,6 @@ const newssources = {
       },
     ],
     huplife: [
-      {
-        name: "HUP.LIFE Twitter",
-        feed: "https://nitter.zelcore.io/hupdotlife/rss",
-        site: "https://twitter.com/hupdotlife",
-        about: "HUP solves the NFT Permanence Problem and hosts metadata and multimedia files through a Decentralized, Resilient File Hosting Protocol - through our partnerships with ETHO Protocol and Flux.",
-        pic: "@/assets/logos/HUP.svg",
-      },
       {
         name: "HUP.LIFE Reddit",
         feed: "https://www.reddit.com/r/huplife/.rss",
@@ -3431,13 +2523,6 @@ const newssources = {
     ],
     raptoreum: [
       {
-        name: "Raptoreum Twitter",
-        feed: "https://nitter.zelcore.io/raptoreum/rss",
-        site: "https://twitter.com/raptoreum",
-        about: "A secure and ASIC/FPGA resistant Proof or Work cryptocurrency that allows for asset creation, futures, and smart contracts, while remaining immune to 51% double spend attacks.",
-        pic: "@/assets/logos/RTM.svg",
-      },
-      {
         name: "Raptoreum Reddit",
         feed: "https://www.reddit.com/r/raptoreum/.rss",
         site: "https://www.reddit.com/r/raptoreum",
@@ -3446,13 +2531,6 @@ const newssources = {
       },
     ],
     vertcoin: [
-      {
-        name: "Vertcoin Twitter",
-        feed: "https://nitter.zelcore.io/Vertcoin/rss",
-        site: "https://twitter.com/Vertcoin",
-        about: "Vertcoin (VTC) is an ASIC-resistant P2P Litecoin fork that uses PoW to reach consensus.",
-        pic: "@/assets/logos/VTC.svg",
-      },
       {
         name: "Vertcoin Reddit",
         feed: "https://www.reddit.com/r/vertcoin/.rss",
@@ -3479,13 +2557,6 @@ const newssources = {
     ],
     axserc: [
       {
-        name: "Axie Infinity Twitter",
-        feed: "https://nitter.zelcore.io/AxieInfinity/rss",
-        site: "https://twitter.com/AxieInfinity",
-        about: "Axie Infinity is a blockchain-based trading and battling game that is partially owned and operated by its players.",
-        pic: "@/assets/logos/AXS.svg",
-      },
-      {
         name: "Axie Infinity Reddit",
         feed: "https://www.reddit.com/r/AxieInfinity/.rss",
         site: "https://www.reddit.com/r/AxieInfinity",
@@ -3502,13 +2573,6 @@ const newssources = {
     ],
     bttbsc: [
       {
-        name: "BitTorrent Twitter",
-        feed: "https://nitter.zelcore.io/bittorrent/rss",
-        site: "https://twitter.com/bittorrent",
-        about: "BitTorrent is a popular peer-to-peer (P2P) file sharing and torrent platform which has become increasingly decentralized in recent years.",
-        pic: "@/assets/logos/BTT.svg",
-      },
-      {
         name: "BitTorrent Reddit",
         feed: "https://www.reddit.com/r/bittorrent/.rss",
         site: "https://www.reddit.com/r/bittorrent",
@@ -3517,14 +2581,6 @@ const newssources = {
       },
     ],
     steth: [
-      {
-        name: "stETH Twitter",
-        feed: "https://nitter.zelcore.io/lidofinance/rss",
-        site: "https://twitter.com/lidofinance",
-        about: "stETH is a token that represents staked ether in Lido, combining the value of initial deposit + staking rewards. "
-          + "stETH tokens are pegged 1:1 to the ETH staked with Lido and can be used as one would use ether, allowing users to earn Eth2 staking rewards whilst benefiting from Defi yields.",
-        pic: "@/assets/logos/STETH.svg",
-      },
       {
         name: "stETH Reddit",
         feed: "https://www.reddit.com/r/lidofinance/.rss",
@@ -3536,14 +2592,6 @@ const newssources = {
     ],
     amp: [
       {
-        name: "Amp Twitter",
-        feed: "https://nitter.zelcore.io/amptoken/rss",
-        site: "https://twitter.com/amptoken",
-        about: "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility. "
-          + "Using Amp as collateral, individuals and entities benefit from instant, verifiable assurances for any kind of asset exchange.",
-        pic: "@/assets/logos/AMP.svg",
-      },
-      {
         name: "Amp Medium",
         feed: "https://medium.com/feed/amptoken",
         site: "https://medium.com/amptoken",
@@ -3554,13 +2602,6 @@ const newssources = {
     ],
     telcoin: [
       {
-        name: "Telcoin Twitter",
-        feed: "https://nitter.zelcore.io/telcoin_team/rss",
-        site: "https://twitter.com/telcoin_team",
-        about: "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
-        pic: "@/assets/logos/TELCOIN.svg",
-      },
-      {
         name: "Telcoin Medium",
         feed: "https://medium.com/feed/@telcoin",
         site: "https://medium.com/@telcoin",
@@ -3569,13 +2610,6 @@ const newssources = {
       },
     ],
     harmonyone: [
-      {
-        name: "HarmonyOne Twitter",
-        feed: "https://nitter.zelcore.io/harmonyprotocol/rss",
-        site: "https://twitter.com/harmonyprotocol",
-        about: "A project to scale trust for billions of people and create a radically fair economy.",
-        pic: "@/assets/logos/HARMONYONE.svg",
-      },
       {
         name: "HarmonyOne Reddit",
         feed: "https://www.reddit.com/r/harmony_one/.rss",
@@ -3593,13 +2627,6 @@ const newssources = {
     ],
     bscada: [
       {
-        name: "Cardano Twitter",
-        feed: "https://nitter.zelcore.io/cardano/rss",
-        site: "https://twitter.com/cardano",
-        about: "Cardano (ADA) is a decentralized platform that will allow complex programmable transfers of value in a secure and scalable fashion. Cardano is built in the secure Haskell programming language.",
-        pic: "@/assets/logos/ADA.svg",
-      },
-      {
         name: "Cardano Reddit",
         feed: "https://reddit.com/r/cardano/.rss",
         site: "https://reddit.com/r/cardano",
@@ -3616,13 +2643,6 @@ const newssources = {
     ],
     bscxrp: [
       {
-        name: "XRP Twitter",
-        feed: "https://nitter.zelcore.io/Ripple/rss",
-        site: "https://twitter.com/Ripple",
-        about: "XRP is a digital asset built for payments. It is the native digital asset on the XRP Ledger an open-source, permissionless and decentralized blockchain technology that can settle transactions in 3-5 seconds.",
-        pic: "@/assets/logos/XRP.svg",
-      },
-      {
         name: "Ripple Reddit",
         feed: "https://reddit.com/r/ripple/.rss",
         site: "https://reddit.com/r/ripple",
@@ -3638,13 +2658,6 @@ const newssources = {
       },
     ],
     bscdoge: [
-      {
-        name: "Dogecoin Twitter",
-        feed: "https://nitter.zelcore.io/dogecoin/rss",
-        site: "https://twitter.com/dogecoin",
-        about: "Dogecoin (DOGE) is based on the popular \"doge\" Internet meme and features a Shiba Inu on its logo. Dogecoin's creators envisaged it as a fun, light-hearted cryptocurrency. that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme.",
-        pic: "@/assets/logos/DOGE.svg",
-      },
       {
         name: "Dogecoin Reddit",
         feed: "https://www.reddit.com/r/dogecoin/.rss",
@@ -3671,13 +2684,6 @@ const newssources = {
     ],
     bscdot: [
       {
-        name: "Polkadot Twitter",
-        feed: "https://nitter.zelcore.io/polkadotnetwork/rss",
-        site: "https://twitter.com/polkadotnetwork",
-        about: "Polkadot is an open-source sharding multichain protocol that facilitates the cross-chain transfer of any data or asset types, not just tokens, thereby making a wide range of blockchains interoperable with each other.",
-        pic: "@/assets/logos/DOT.svg",
-      },
-      {
         name: "Polkadot Reddit",
         feed: "https://reddit.com/r/dot/.rss",
         site: "https://reddit.com/r/dot",
@@ -3693,13 +2699,6 @@ const newssources = {
       },
     ],
     bscuni: [
-      {
-        name: "Uniswap Twitter",
-        feed: "https://nitter.zelcore.io/Uniswap/rss",
-        site: "https://twitter.com/Uniswap",
-        about: "Uniswap is an automated liquidity protocol powered by a constant product formula and implemented in a system of non-upgradeable smart contracts on the Ethereum blockchain.",
-        pic: "@/assets/logos/UNI.svg",
-      },
       {
         name: "Uniswap Reddit",
         feed: "https://reddit.com/r/UniSwap/.rss",
@@ -3733,13 +2732,6 @@ const newssources = {
         pic: "@/assets/logos/LTC.svg",
       },
       {
-        name: "Litecoin Twitter",
-        feed: "https://nitter.zelcore.io/LitecoinProject/rss",
-        site: "https://twitter.com/LitecoinProject",
-        about: "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities.",
-        pic: "@/assets/logos/LTC.svg",
-      },
-      {
         name: "Litecoin Reddit",
         feed: "https://www.reddit.com/r/litecoin/.rss",
         site: "https://www.reddit.com/r/litecoin",
@@ -3756,13 +2748,6 @@ const newssources = {
         pic: "@/assets/logos/LINK.svg",
       },
       {
-        name: "ChainLink Twitter",
-        feed: "https://nitter.zelcore.io/chainlink/rss",
-        site: "https://twitter.com/chainlink",
-        about: "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
-        pic: "@/assets/logos/LINK.svg",
-      },
-      {
         name: "ChainLink Reddit",
         feed: "https://reddit.com/r/chainlink/.rss",
         site: "https://reddit.com/r/chainlink",
@@ -3771,13 +2756,6 @@ const newssources = {
       },
     ],
     bscetc: [
-      {
-        name: "Ethereum Classic Twitter",
-        feed: "https://nitter.zelcore.io/eth_classic/rss",
-        site: "https://twitter.com/eth_classic",
-        about: "Ethereum Classic (ETC) is a hard fork of Ethereum (ETH) that launched in July 2016. Its main function is as a smart contract network, with the ability to host and support decentralized applications (DApps). Its native is ETC.",
-        pic: "@/assets/logos/ETC.svg",
-      },
       {
         name: "Ethereum Classic Reddit",
         feed: "https://www.reddit.com/r/EthereumClassic/.rss",
@@ -3795,13 +2773,6 @@ const newssources = {
         pic: "@/assets/logos/AVAX.svg",
       },
       {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/AVAX.svg",
-      },
-      {
         name: "Avalanche Reddit",
         feed: "https://reddit.com/r/Avax/.rss",
         site: "https://reddit.com/r/Avax",
@@ -3810,13 +2781,6 @@ const newssources = {
       },
     ],
     bscdai: [
-      {
-        name: "Dai Twitter",
-        feed: "https://nitter.zelcore.io/MakerDAO/rss",
-        site: "https://twitter.com/MakerDAO",
-        about: "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
-        pic: "@/assets/logos/DAI.svg",
-      },
       {
         name: "Dai Reddit",
         feed: "https://www.reddit.com/r/MakerDAO/.rss",
@@ -3834,13 +2798,6 @@ const newssources = {
     ],
     bsctrx: [
       {
-        name: "TRON Twitter",
-        feed: "https://nitter.zelcore.io/Tronfoundation/rss",
-        site: "https://twitter.com/Tronfoundation",
-        about: "TRON (TRX) strives to build the future of a truly decentralized internet and global free content entertainment system that utilizes blockchain technology.",
-        pic: "@/assets/logos/TRX.svg",
-      },
-      {
         name: "TRON Reddit",
         feed: "https://reddit.com/r/Tronix/.rss",
         site: "https://reddit.com/r/Tronix",
@@ -3857,13 +2814,6 @@ const newssources = {
     ],
     bsceos: [
       {
-        name: "EOS Twitter",
-        feed: "https://nitter.zelcore.io/eosio/rss",
-        site: "https://twitter.com/eosio",
-        about: "EOS is a cryptocurrency and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations.",
-        pic: "@/assets/logos/EOS.svg",
-      },
-      {
         name: "EOS Reddit",
         feed: "https://reddit.com/r/EOS/.rss",
         site: "https://reddit.com/r/EOS",
@@ -3873,13 +2823,6 @@ const newssources = {
     ],
     bscatom: [
       {
-        name: "Cosmos Twitter",
-        feed: "https://nitter.zelcore.io/tezos/rss",
-        site: "https://twitter.com/tezos",
-        about: "Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.",
-        pic: "@/assets/logos/ATOM.svg",
-      },
-      {
         name: "Cosmos Reddit",
         feed: "https://reddit.com/r/tezos/.rss",
         site: "https://reddit.com/r/tezos",
@@ -3888,13 +2831,6 @@ const newssources = {
       },
     ],
     bscaxs: [
-      {
-        name: "Axie Infinity Shard Twitter",
-        feed: "https://nitter.zelcore.io/AxieInfinity/rss",
-        site: "https://twitter.com/AxieInfinity",
-        about: "Axie Infinity is a Pokemon-inspired digital pet universe where anyone can earns through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets (known as Axies).",
-        pic: "@/assets/logos/AXS.svg",
-      },
       {
         name: "Axie Infinity Shard Reddit",
         feed: "https://www.reddit.com/r/AxieInfinity/.rss",
@@ -3912,13 +2848,6 @@ const newssources = {
     ],
     bscxtz: [
       {
-        name: "Tezos Twitter",
-        feed: "https://nitter.zelcore.io/tezos/rss",
-        site: "https://twitter.com/tezos",
-        about: "Tezos is a smart contract platform that uses blockchain voting to be self-governing by its holders. Also, the platform aims to boost the security of smart contracts.",
-        pic: "@/assets/logos/XTZ.svg",
-      },
-      {
         name: "Tezos Reddit",
         feed: "https://reddit.com/r/tezos/.rss",
         site: "https://reddit.com/r/tezos",
@@ -3927,13 +2856,6 @@ const newssources = {
       },
     ],
     bscmkr: [
-      {
-        name: "Maker Twitter",
-        feed: "https://nitter.zelcore.io/MakerDAO/rss",
-        site: "https://twitter.com/MakerDAO",
-        about: "Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain",
-        pic: "@/assets/logos/MKR.svg",
-      },
       {
         name: "Maker Reddit",
         feed: "https://www.reddit.com/r/MakerDAO/.rss",
@@ -3958,13 +2880,6 @@ const newssources = {
         pic: "@/assets/logos/SHIB.svg",
       },
       {
-        name: "SHIBA INU Twitter",
-        feed: "https://nitter.zelcore.io/shibtoken/rss",
-        site: "https://twitter.com/shibtoken",
-        about: "SHIBA INU is an experiment in decentralized spontaneous community building.",
-        pic: "@/assets/logos/SHIB.svg",
-      },
-      {
         name: "SHIBA INU Reddit",
         feed: "https://www.reddit.com/r/SHIBArmy/.rss",
         site: "https://www.reddit.com/r/SHIBArmy",
@@ -3973,13 +2888,6 @@ const newssources = {
       },
     ],
     bsciota: [
-      {
-        name: "IOTA Twitter",
-        feed: "https://nitter.zelcore.io/iota/rss",
-        site: "https://twitter.com/iota",
-        about: "IOTA is a distributed ledger with its proprietary technology known as Tangle, a system of nodes that confirm transactions. It aims to offer greater speeds than conventional blockchains and an ideal footprint for the ever-expanding Internet of Things ecosystem.",
-        pic: "@/assets/logos/IOTA.svg",
-      },
       {
         name: "IOTA Reddit",
         feed: "https://reddit.com/r/Iota/.rss",
@@ -3997,13 +2905,6 @@ const newssources = {
     ],
     bsccomp: [
       {
-        name: "Compound Coin Twitter",
-        feed: "https://nitter.zelcore.io/compoundfinance/rss",
-        site: "https://twitter.com/compoundfinance",
-        about: "Compound (COMP) is an ERC-20 asset that powers the community governance of the Compound protocol; COMP-holders and their delegates debate, propose, and vote on changes to the protocol.",
-        pic: "@/assets/logos/COMP.svg",
-      },
-      {
         name: "Compound Coin Medium",
         feed: "https://medium.com/feed/compound-finance",
         site: "https://medium.com/compound-finance",
@@ -4012,13 +2913,6 @@ const newssources = {
       },
     ],
     bsczec: [
-      {
-        name: "Zcash Twitter",
-        feed: "https://nitter.zelcore.io/zcashfoundation/rss",
-        site: "https://twitter.com/zcashfoundation",
-        about: "Zcash (ZEC) is a decentralized and open-source privacy-focused cryptocurrency that enables selective transparency of transactions. Zcash transactions can either be transparent or shielded through a zero-knowledge proof called zk-SNARKs.",
-        pic: "@/assets/logos/ZEC.svg",
-      },
       {
         name: "Zcash Reddit",
         feed: "https://www.reddit.com/r/zec/.rss",
@@ -4029,13 +2923,6 @@ const newssources = {
     ],
     bsctusd: [
       {
-        name: "TrueUSD Twitter",
-        feed: "https://nitter.zelcore.io/tusd_official/rss",
-        site: "https://twitter.com/tusd_official",
-        about: "TUSD is a regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.",
-        pic: "@/assets/logos/TUSD.svg",
-      },
-      {
         name: "TrueUSD Medium",
         feed: "https://trueusd.medium.com/feed",
         site: "https://trueusd.medium.com",
@@ -4044,13 +2931,6 @@ const newssources = {
       },
     ],
     bsczil: [
-      {
-        name: "Zilliqa Twitter",
-        feed: "https://nitter.zelcore.io/zilliqa/rss",
-        site: "https://twitter.com/zilliqa",
-        about: "Zilliqa (ZIL) is a public blockchain built on a sharded architecture. It has solved blockchain scalability and speed by implementing sharding.",
-        pic: "@/assets/logos/ZIL.svg",
-      },
       {
         name: "Zilliqa Reddit",
         feed: "https://reddit.com/r/zilliqa/.rss",
@@ -4068,13 +2948,6 @@ const newssources = {
     ],
     bscsnx: [
       {
-        name: "Synthetix Network Twitter",
-        feed: "https://nitter.zelcore.io/synthetix_io/rss",
-        site: "https://twitter.com/synthetix_io",
-        about: "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.",
-        pic: "@/assets/logos/SNX.svg",
-      },
-      {
         name: "Synthetix Network Reddit",
         feed: "https://www.reddit.com/r/synthetix_io/.rss",
         site: "https://www.reddit.com/r/synthetix_io",
@@ -4083,13 +2956,6 @@ const newssources = {
       },
     ],
     bscyfi: [
-      {
-        name: "yearn.finance Twitter",
-        feed: "https://nitter.zelcore.io/iearnfinance/rss",
-        site: "https://twitter.com/iearnfinance",
-        about: "Yearn.finance is an aggregator service for decentralized finance (DeFi) investors, using automation to allow them to maximize profits from yield farming.",
-        pic: "@/assets/logos/YFI.svg",
-      },
       {
         name: "yearn.finance Medium",
         feed: "https://medium.com/feed/iearn",
@@ -4100,13 +2966,6 @@ const newssources = {
     ],
     bscnear: [
       {
-        name: "NEAR Protocol Twitter",
-        feed: "https://nitter.zelcore.io/nearprotocol/rss",
-        site: "https://twitter.com/nearprotocol",
-        about: "NEAR Protocol is a decentralized application platform designed to make apps usable on the web. The network runs on a Proof-of-Stake (PoS) consensus mechanism called Nightshade, which aims to offer scalability and stable fees.",
-        pic: "@/assets/logos/NEAR.svg",
-      },
-      {
         name: "NEAR Protocol Reddit",
         feed: "https://www.reddit.com/r/nearprotocol/.rss",
         site: "https://www.reddit.com/r/nearprotocol",
@@ -4115,13 +2974,6 @@ const newssources = {
       },
     ],
     bscbat: [
-      {
-        name: "Basic Attention Twitter",
-        feed: "https://nitter.zelcore.io/@attentiontoken/rss",
-        site: "https://twitter.com/@attentiontoken",
-        about: "The Basic Attention is the new for the digital advertising industry.",
-        pic: "@/assets/logos/BAT.svg",
-      },
       {
         name: "Basic Attention Reddit",
         feed: "https://www.reddit.com/r/BATProject/.rss",
@@ -4139,13 +2991,6 @@ const newssources = {
     ],
     bscftm: [
       {
-        name: "Fantom Twitter",
-        feed: "https://nitter.zelcore.io/FantomFDN/rss",
-        site: "https://twitter.com/FantomFDN",
-        about: "Fantom is a directed acyclic graph (DAG) smart contract platform providing decentralized finance (DeFi) services to developers using its own bespoke consensus algorithm.",
-        pic: "@/assets/logos/FTM.svg",
-      },
-      {
         name: "Fantom Reddit",
         feed: "https://reddit.com/r/FantomFoundation/.rss",
         site: "https://reddit.com/r/FantomFoundation",
@@ -4162,13 +3007,6 @@ const newssources = {
     ],
     bscbnt: [
       {
-        name: "Bancor Network Twitter",
-        feed: "https://nitter.zelcore.io/bancornetwork/rss",
-        site: "https://twitter.com/bancornetwork",
-        about: "Bancor is an on-chain liquidity protocol that enables constant convertibility betweens. Conversions using Bancor are executed against on-chain liquidity pools using automated market makers to price and process transactions without order books or counterparties.",
-        pic: "@/assets/logos/BNT.svg",
-      },
-      {
         name: "Bancor Network Reddit",
         feed: "https://www.reddit.com/r/Bancor/.rss",
         site: "https://www.reddit.com/r/Bancor",
@@ -4184,13 +3022,6 @@ const newssources = {
       },
     ],
     bscpax: [
-      {
-        name: "Paxos Standard Twitter",
-        feed: "https://nitter.zelcore.io/PaxosStandard/rss",
-        site: "https://twitter.com/PaxosStandard",
-        about: "Paxos Standard (PAX) is a stablecoin that allows users to exchange US dollars for Paxos Standards to 'transact at the speed of the internet'.",
-        pic: "@/assets/logos/PAX.svg",
-      },
       {
         name: "Paxos Standard Blog",
         feed: "https://www.paxos.com/feed",
@@ -4215,13 +3046,6 @@ const newssources = {
         pic: "@/assets/logos/ONT.svg",
       },
       {
-        name: "Ontology Twitter",
-        feed: "https://nitter.zelcore.io/OntologyNetwork/rss",
-        site: "https://twitter.com/OntologyNetwork",
-        about: "Ontology is a new high-performance public blockchain project & a distributed trust collaboration platform that include a series of complete distributed ledgers and smart contract systems.",
-        pic: "@/assets/logos/ONT.svg",
-      },
-      {
         name: "Ontology Reddit",
         feed: "https://reddit.com/r/OntologyNetwork/.rss",
         site: "https://reddit.com/r/OntologyNetwork",
@@ -4237,22 +3061,8 @@ const newssources = {
         about: "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
         pic: "@/assets/logos/C98.svg",
       },
-      {
-        name: "Coin98 Twitter",
-        feed: "https://nitter.zelcore.io/coin98_finance/rss",
-        site: "https://twitter.com/coin98_finance",
-        about: "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
-        pic: "@/assets/logos/C98.svg",
-      },
     ],
     bscankr: [
-      {
-        name: "Ankr Twitter",
-        feed: "https://nitter.zelcore.io/ankr/rss",
-        site: "https://twitter.com/ankr",
-        about: "Web3 Infrastructure for All",
-        pic: "@/assets/logos/ANKR.svg",
-      },
       {
         name: "Ankr Medium",
         feed: "https://medium.com/feed/ankr-network",
@@ -4271,13 +3081,6 @@ const newssources = {
       },
     ],
     bsciotx: [
-      {
-        name: "IoTeX Network Twitter",
-        feed: "https://nitter.zelcore.io/iotex_io/rss",
-        site: "https://twitter.com/iotex_io",
-        about: "Building the Internet of Trusted Things -- Blockchain, IoT, & Privacy.",
-        pic: "@/assets/logos/IOTX.svg",
-      },
       {
         name: "IoTeX Network Reddit",
         feed: "https://www.reddit.com/r/IoTeX/.rss",
@@ -4302,13 +3105,6 @@ const newssources = {
         pic: "@/assets/logos/WRX.svg",
       },
       {
-        name: "wazirx Twitter",
-        feed: "https://nitter.zelcore.io/wazirxindia/rss",
-        site: "https://twitter.com/wazirxindia",
-        about: "WazirX is a India's cryptocurrency exchange with trading interface and features to buy, sell and trade cryptocurrencies.",
-        pic: "@/assets/logos/WRX.svg",
-      },
-      {
         name: "wazirx Medium",
         feed: "https://medium.com/feed/@wazirx",
         site: "https://medium.com/@wazirx",
@@ -4317,13 +3113,6 @@ const newssources = {
       },
     ],
     bscinch: [
-      {
-        name: "1INCH Twitter",
-        feed: "https://nitter.zelcore.io/@1inch/rss",
-        site: "https://twitter.com/@1inch",
-        about: "1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs. Smart contract technology empowers this aggregator enabling users to optimize and customize their trades.",
-        pic: "@/assets/logos/1INCH.svg",
-      },
       {
         name: "1INCH Reddit",
         feed: "https://reddit.com/r/1inch_exchange/.rss",
@@ -4341,13 +3130,6 @@ const newssources = {
     ],
     bscbake: [
       {
-        name: "BakeryToken Twitter",
-        feed: "https://nitter.zelcore.io/bakery_swap/rss",
-        site: "https://twitter.com/bakery_swap",
-        about: "An AMM Dex on Binance Smart Chain.",
-        pic: "@/assets/logos/BAKE.svg",
-      },
-      {
         name: "BakeryToken Medium",
         feed: "https://medium.com/feed/@BakerySwap",
         site: "https://medium.com/@BakerySwap",
@@ -4363,23 +3145,8 @@ const newssources = {
         about: "Alpha Finance Lab is an ecosystem of DeFi products and focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal alpha to users on a cross-chain level.",
         pic: "@/assets/logos/ALPHA.svg",
       },
-      {
-        name: "AlphaToken Twitter",
-        feed: "https://nitter.zelcore.io/AlphaFinanceLab/rss",
-        site: "https://twitter.com/AlphaFinanceLab",
-        about: "Alpha Finance Lab is an ecosystem of DeFi products and focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal alpha to users on a cross-chain level.",
-        pic: "@/assets/logos/ALPHA.svg",
-      },
     ],
     waveseth: [
-      {
-        name: "Waves Twitter",
-        feed: "https://nitter.zelcore.io/wavesprotocol/rss",
-        site: "https://twitter.com/wavesprotocol",
-        about: "WAVES is the core token of the Waves blockchain, an open protocol, and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. "
-          + "It enables anyone to build their apps, fostering mass adoption of blockchain.",
-        pic: "@/assets/logos/WAVES.svg",
-      },
       {
         name: "Waves Reddit",
         feed: "https://reddit.com/r/Wavesplatform/.rss",
@@ -4399,13 +3166,6 @@ const newssources = {
     ],
     shibeth: [
       {
-        name: "SHIBA INU Twitter",
-        feed: "https://nitter.zelcore.io/shibtoken/rss",
-        site: "https://twitter.com/shibtoken",
-        about: "SHIBA INU is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik and the other half were locked to a Uniswap pool and the keys burned.",
-        pic: "@/assets/logos/SHIB.svg",
-      },
-      {
         name: "SHIBA INU Reddit",
         feed: "https://reddit.com/r/SHIBArmy/.rss",
         site: "https://reddit.com/r/SHIBArmy",
@@ -4414,13 +3174,6 @@ const newssources = {
       },
     ],
     perpeth: [
-      {
-        name: "Perpetual Protocol Twitter",
-        feed: "https://nitter.zelcore.io/perpprotocol/rss",
-        site: "https://twitter.com/perpprotocol",
-        about: "Perpetual Protocol is composed of two parts: Uniswap-inspired virtual AMMs backed by fully collateralized vaults and a built-in staking pool that provide a backstop for each virtual market.",
-        pic: "@/assets/logos/PERP.svg",
-      },
       {
         name: "Perpetual Protocol Medium",
         feed: "https://medium.com/feed/@perpetualprotocol",
@@ -4431,13 +3184,6 @@ const newssources = {
     ],
     audioeth: [
       {
-        name: "Audius Twitter",
-        feed: "https://nitter.zelcore.io/AudiusProject/rss",
-        site: "https://twitter.com/AudiusProject",
-        about: "Audius protocol offers $AUDIO which enables network security, exclusive feature access, and community-owned governance.",
-        pic: "@/assets/logos/AUDIO.svg",
-      },
-      {
         name: "Audius Medium",
         feed: "https://audiusproject.medium.com/feed",
         site: "https://audiusproject.medium.com",
@@ -4446,13 +3192,6 @@ const newssources = {
       },
     ],
     crveth: [
-      {
-        name: "Curve DAO Token Twitter",
-        feed: "https://nitter.zelcore.io/curvefinance/rss",
-        site: "https://twitter.com/curvefinance",
-        about: "",
-        pic: "@/assets/logos/CRV.svg",
-      },
       {
         name: "Curve DAO Token Reddit",
         feed: "https://reddit.com/r/CurveDAO/.rss",
@@ -4463,13 +3202,6 @@ const newssources = {
     ],
     sandeth: [
       {
-        name: "The Sandbox Twitter",
-        feed: "https://nitter.zelcore.io/thesandboxgame/rss",
-        site: "https://twitter.com/thesandboxgame",
-        about: "The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform\u2019s utility token.",
-        pic: "@/assets/logos/SAND.svg",
-      },
-      {
         name: "The Sandbox Medium",
         feed: "https://medium.com/feed/sandbox-game",
         site: "https://medium.com/sandbox-game",
@@ -4479,13 +3211,6 @@ const newssources = {
     ],
     vgxeth: [
       {
-        name: "Voyager Token Twitter",
-        feed: "https://nitter.zelcore.io/investvoyager/rss",
-        site: "https://twitter.com/investvoyager",
-        about: "The Voyager Token (VGX) is the native utility token designed to reward Voyager customers for their loyalty, for holding VGX in their Voyager accounts and to motivate community members for their participation in the multifaceted rewards functions of VGX.",
-        pic: "@/assets/logos/VGX.svg",
-      },
-      {
         name: "Voyager Token Reddit",
         feed: "https://reddit.com/r/investvoyager/.rss",
         site: "https://reddit.com/r/investvoyager",
@@ -4494,13 +3219,6 @@ const newssources = {
       },
     ],
     ankreth: [
-      {
-        name: "Ankr Twitter",
-        feed: "https://nitter.zelcore.io/ankr/rss",
-        site: "https://twitter.com/ankr",
-        about: "Distributed computing platform that aims to leverage idle computing resources in data centers and edge devices.",
-        pic: "@/assets/logos/ANKR.svg",
-      },
       {
         name: "Ankr Reddit",
         feed: "https://www.reddit.com/r/Ankrofficial/.rss",
@@ -4518,13 +3236,6 @@ const newssources = {
     ],
     sxpeth: [
       {
-        name: "Swipe Twitter",
-        feed: "https://nitter.zelcore.io/Swipe/rss",
-        site: "https://twitter.com/Swipe",
-        about: "Swipe is a cryptocurrency wallet and debit card that enables users to spend their cryptocurrencies over the world.",
-        pic: "@/assets/logos/SXP.svg",
-      },
-      {
         name: "Swipe Medium",
         feed: "https://medium.com/feed/SwipeWallet",
         site: "https://medium.com/SwipeWallet",
@@ -4533,13 +3244,6 @@ const newssources = {
       },
     ],
     alphaeth: [
-      {
-        name: "Alpha Finance Lab Twitter",
-        feed: "https://nitter.zelcore.io/alphafinancelab/rss",
-        site: "https://twitter.com/alphafinancelab",
-        about: "Alpha Finance Lab is an ecosystem of DeFi products and focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal alpha to users on a cross-chain level.",
-        pic: "@/assets/logos/ALPHA.svg",
-      },
       {
         name: "Alpha Finance Lab Blog",
         feed: "https://blog.alphafinance.io/rss",
@@ -4556,13 +3260,6 @@ const newssources = {
       },
     ],
     feteth: [
-      {
-        name: "Fetch.ai Twitter",
-        feed: "https://nitter.zelcore.io/fetch_ai/rss",
-        site: "https://twitter.com/fetch_ai",
-        about: "Fetch.ai is building tools and infrastructure to enable a decentralized digital economy by combining AI, multi-agent systems and advanced cryptography.",
-        pic: "@/assets/logos/FET.svg",
-      },
       {
         name: "Fetch.ai Reddit",
         feed: "https://reddit.com/r/FetchAI_Community/.rss",
@@ -4587,13 +3284,6 @@ const newssources = {
     ],
     glmeth: [
       {
-        name: "Golem Twitter",
-        feed: "https://nitter.zelcore.io/golemproject/rss",
-        site: "https://twitter.com/golemproject",
-        about: "Golem is going to create the first decentralized global market for computing power",
-        pic: "@/assets/logos/GLM.svg",
-      },
-      {
         name: "Golem Reddit",
         feed: "https://reddit.com/r/GolemProject/.rss",
         site: "https://reddit.com/r/GolemProject",
@@ -4617,13 +3307,6 @@ const newssources = {
     ],
     usdneth: [
       {
-        name: "Neutrino USD Twitter",
-        feed: "https://nitter.zelcore.io/neutrino_proto/rss",
-        site: "https://twitter.com/neutrino_proto",
-        about: "Neutrino USD (USDN) is an algorithmic crypto-collateralized stablecoin pegged to the US dollar. All operations involving USDN, such as issuance, collateralization, staking and reward payouts, are fully transparent and governed by a smart contract.",
-        pic: "@/assets/logos/USDN.svg",
-      },
-      {
         name: "Neutrino USD Medium",
         feed: "https://medium.com/feed/neutrinoteam",
         site: "https://medium.com/neutrinoteam",
@@ -4632,13 +3315,6 @@ const newssources = {
       },
     ],
     skleth: [
-      {
-        name: "SKALE Network Twitter",
-        feed: "https://nitter.zelcore.io/SkaleNetwork/rss",
-        site: "https://twitter.com/SkaleNetwork",
-        about: "SKALE Network is an open source Web3 platform intended to bring speed and configurability to blockchain. SKALE Network token (SKL) is a hybrid use token which represents the right to work in the network as a validator, stake as a delegator, or access a share of its resources.",
-        pic: "@/assets/logos/SKL.svg",
-      },
       {
         name: "SKALE Network Medium",
         feed: "https://medium.com/feed/skale",
@@ -4655,14 +3331,6 @@ const newssources = {
       },
     ],
     nmreth: [
-      {
-        name: "Numeraire Twitter",
-        feed: "https://nitter.zelcore.io/numerai/rss",
-        site: "https://twitter.com/numerai",
-        about: "NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. "
-          + "The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.",
-        pic: "@/assets/logos/NMR.svg",
-      },
       {
         name: "Numeraire Reddit",
         feed: "https://reddit.com/r/numerai/.rss",
@@ -4682,13 +3350,6 @@ const newssources = {
     ],
     srmeth: [
       {
-        name: "Serum Twitter",
-        feed: "https://nitter.zelcore.io/projectserum/rss",
-        site: "https://twitter.com/projectserum",
-        about: "Serum is a decentralized derivatives exchange with trustless cross-chain trading by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts.",
-        pic: "@/assets/logos/SRM.svg",
-      },
-      {
         name: "Serum Medium",
         feed: "https://projectserum.medium.com/feed",
         site: "https://projectserum.medium.com",
@@ -4697,13 +3358,6 @@ const newssources = {
       },
     ],
     lpteth: [
-      {
-        name: "Livepeer Twitter",
-        feed: "https://nitter.zelcore.io/LivepeerOrg/rss",
-        site: "https://twitter.com/LivepeerOrg",
-        about: "A decentralized video streaming protocol that empowers developers to build video enabled applications backed by a competitive market of economically incentivized service providers.",
-        pic: "@/assets/logos/LPT.svg",
-      },
       {
         name: "Livepeer Reddit",
         feed: "https://reddit.com/r/livepeer/.rss",
@@ -4721,13 +3375,6 @@ const newssources = {
     ],
     aliceeth: [
       {
-        name: "MyNeighborAlice Twitter",
-        feed: "https://nitter.zelcore.io/MyNeighborAlice/rss",
-        site: "https://twitter.com/MyNeighborAlice",
-        about: "My Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build items and meet new friends.",
-        pic: "@/assets/logos/ALICE.svg",
-      },
-      {
         name: "MyNeighborAlice Reddit",
         feed: "https://reddit.com/r/MyNeighborAlice/.rss",
         site: "https://reddit.com/r/MyNeighborAlice",
@@ -4744,13 +3391,6 @@ const newssources = {
     ],
     feieth: [
       {
-        name: "Fei Protocol Twitter",
-        feed: "https://nitter.zelcore.io/feiprotocol/rss",
-        site: "https://twitter.com/feiprotocol",
-        about: "Fei Protocol ($FEI) represents a direct incentive stablecoin which is undercollateralized and fully decentralized.FEI employs a stability mechanism known as direct incentives - dynamic mint rewards and burn penalties on DEX trade volume to maintain the peg.",
-        pic: "@/assets/logos/FEI.svg",
-      },
-      {
         name: "Fei Protocol Medium",
         feed: "https://medium.com/feed/fei-protocol",
         site: "https://medium.com/fei-protocol",
@@ -4759,13 +3399,6 @@ const newssources = {
       },
     ],
     ogneth: [
-      {
-        name: "Origin Protocol Twitter",
-        feed: "https://nitter.zelcore.io/originprotocol/rss",
-        site: "https://twitter.com/originprotocol",
-        about: "Origin Protocol is a platform for creating decentralized marketplaces on the blockchain.",
-        pic: "@/assets/logos/OGN.svg",
-      },
       {
         name: "Origin Protocol Reddit",
         feed: "https://reddit.com/r/originprotocol/.rss",
@@ -4783,13 +3416,6 @@ const newssources = {
     ],
     injeth: [
       {
-        name: "Injective Protocol Twitter",
-        feed: "https://nitter.zelcore.io/injectivelabs/rss",
-        site: "https://twitter.com/injectivelabs",
-        about: "Access, create and trade unlimited decentralized finance markets on an Ethereum-compatible exchange protocol for cross-chain DeFi.",
-        pic: "@/assets/logos/INJ.svg",
-      },
-      {
         name: "Injective Protocol Reddit",
         feed: "https://reddit.com/r/injective/.rss",
         site: "https://reddit.com/r/injective",
@@ -4805,13 +3431,6 @@ const newssources = {
       },
     ],
     agixeth: [
-      {
-        name: "SingularityNET Twitter",
-        feed: "https://nitter.zelcore.io/singularity_net/rss",
-        site: "https://twitter.com/singularity_net",
-        about: "Decentralized marketplace for artificial intelligence.",
-        pic: "@/assets/logos/AGIX.svg",
-      },
       {
         name: "SingularityNET Reddit",
         feed: "https://reddit.com/r/SingularityNet/.rss",
@@ -4829,13 +3448,6 @@ const newssources = {
     ],
     paxgeth: [
       {
-        name: "PAX Gold Twitter",
-        feed: "https://nitter.zelcore.io/paxosglobal/rss",
-        site: "https://twitter.com/paxosglobal",
-        about: "PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink\u2019s vaults.",
-        pic: "@/assets/logos/PAXG.svg",
-      },
-      {
         name: "PAX Gold Medium",
         feed: "https://medium.com/feed/paxos",
         site: "https://medium.com/paxos",
@@ -4844,13 +3456,6 @@ const newssources = {
       },
     ],
     bandeth: [
-      {
-        name: "Band Protocol Twitter",
-        feed: "https://nitter.zelcore.io/bandprotocol/rss",
-        site: "https://twitter.com/bandprotocol",
-        about: "A data governance framework for Web3.0 applications operating as an open-source standard for the decentralized management of data. Band Protocol connects smart contracts with trusted off-chain information, provided through community-curated oracle data providers.",
-        pic: "@/assets/logos/BAND.svg",
-      },
       {
         name: "Band Protocol Reddit",
         feed: "https://reddit.com/r/bandprotocol/.rss",
@@ -4868,13 +3473,6 @@ const newssources = {
     ],
     stmxeth: [
       {
-        name: "StormX Twitter",
-        feed: "https://nitter.zelcore.io/stormxio/rss",
-        site: "https://twitter.com/stormxio",
-        about: "StormX is a gamified marketplace that enables users to earn STMX ERC-20 tokens by completing micro-tasks or shopping at global partner stores online. Users can earn staking rewards, shopping, and micro-task benefits for holding STMX in their own wallet.",
-        pic: "@/assets/logos/STMX.svg",
-      },
-      {
         name: "StormX Reddit",
         feed: "https://reddit.com/r/stormxio/.rss",
         site: "https://reddit.com/r/stormxio",
@@ -4884,13 +3482,6 @@ const newssources = {
     ],
     strxeth: [
       {
-        name: "StormX Twitter",
-        feed: "https://nitter.zelcore.io/stormxio/rss",
-        site: "https://twitter.com/stormxio",
-        about: "StormX is a gamified marketplace that enables users to earn STMX ERC-20 tokens by completing micro-tasks or shopping at global partner stores online. Users can earn staking rewards, shopping, and micro-task benefits for holding STMX in their own wallet.",
-        pic: "@/assets/logos/STMX.svg",
-      },
-      {
         name: "StormX Reddit",
         feed: "https://reddit.com/r/stormxio/.rss",
         site: "https://reddit.com/r/stormxio",
@@ -4899,13 +3490,6 @@ const newssources = {
       },
     ],
     reefeth: [
-      {
-        name: "Reef Twitter",
-        feed: "https://nitter.zelcore.io/ReefDeFi/rss",
-        site: "https://twitter.com/ReefDeFi",
-        about: "Reef finance aims to offer multi-chain smart liquidity aggregator and yield engine powered by Polkadot.",
-        pic: "@/assets/logos/REEF.svg",
-      },
       {
         name: "Reef Reddit",
         feed: "https://reddit.com/r/ReefDeFi/.rss",
@@ -4923,13 +3507,6 @@ const newssources = {
     ],
     ctsieth: [
       {
-        name: "Cartesi Twitter",
-        feed: "https://nitter.zelcore.io/cartesiproject/rss",
-        site: "https://twitter.com/cartesiproject",
-        about: "Cartesi aims to solve the problems of scalability and high fees through optimistic roll-ups. Cartesi revolutionizes smart contracts by enabling mainstream software stacks. Noether is Cartesi's Data Availability Oracle which provides low-cost storage to DApp devs.",
-        pic: "@/assets/logos/CTSI.svg",
-      },
-      {
         name: "Cartesi Reddit",
         feed: "https://www.reddit.com/r/cartesi/.rss",
         site: "https://www.reddit.com/r/cartesi",
@@ -4946,13 +3523,6 @@ const newssources = {
     ],
     nkneth: [
       {
-        name: "NKN Twitter",
-        feed: "https://nitter.zelcore.io/nkn_org/rss",
-        site: "https://twitter.com/nkn_org",
-        about: "NKN is the new kind of P2P network connectivity protocol & ecosystem powered by a novel public blockchain.",
-        pic: "@/assets/logos/NKN.svg",
-      },
-      {
         name: "NKN Reddit",
         feed: "https://reddit.com/r/nknblockchain/.rss",
         site: "https://reddit.com/r/nknblockchain",
@@ -4961,13 +3531,6 @@ const newssources = {
       },
     ],
     maticpolygon: [
-      {
-        name: "Polygon Twitter",
-        feed: "https://nitter.zelcore.io/maticnetwork/rss",
-        site: "https://twitter.com/maticnetwork",
-        about: "Matic Network provides scalable, secure and instant Ethereum transactions using Plasma side chains and a Proof-of-Stake network.",
-        pic: "@/assets/logos/MATIC.svg",
-      },
       {
         name: "Polygon Reddit",
         feed: "https://www.reddit.com/r/maticnetwork/.rss",
@@ -5000,13 +3563,6 @@ const newssources = {
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
     ],
     usdcpoly: [
       {
@@ -5026,13 +3582,6 @@ const newssources = {
     ],
     quickpoly: [
       {
-        name: "QuickSwap Twitter",
-        feed: "https://nitter.zelcore.io/QuickswapDEX/rss",
-        site: "https://twitter.com/QuickswapDEX",
-        about: "QuickSwap is a fork of the originator of Automated Market Makers in the now rapidly expanding DeFi sector of the Cryptocurrency industry, Uniswap.",
-        pic: "@/assets/logos/QUICK.svg",
-      },
-      {
         name: "QuickSwap Reddit",
         feed: "https://reddit.com/r/QuickSwap/.rss",
         site: "https://reddit.com/r/QuickSwap",
@@ -5049,13 +3598,6 @@ const newssources = {
     ],
     unipoly: [
       {
-        name: "Uniswap Twitter",
-        feed: "https://nitter.zelcore.io/Uniswap/rss",
-        site: "https://twitter.com/Uniswap",
-        about: "The Uniswap protocol empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all.",
-        pic: "@/assets/logos/UNI.svg",
-      },
-      {
         name: "Uniswap Reddit",
         feed: "https://reddit.com/r/Uniswap/.rss",
         site: "https://reddit.com/r/Uniswap",
@@ -5064,13 +3606,6 @@ const newssources = {
       },
     ],
     linkpoly: [
-      {
-        name: "Chainlink Twitter",
-        feed: "https://nitter.zelcore.io/chainlink/rss",
-        site: "https://twitter.com/chainlink",
-        about: "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
-        pic: "@/assets/logos/LINK.svg",
-      },
       {
         name: "Chainlink Reddit",
         feed: "https://reddit.com/r/chainlink/.rss",
@@ -5094,22 +3629,8 @@ const newssources = {
       },
     ],
     wbtcpoly: [
-      {
-        name: "Wrapped Bitcoin Twitter",
-        feed: "https://nitter.zelcore.io/WrappedBTC/rss",
-        site: "https://twitter.com/WrappedBTC",
-        about: "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-        pic: "@/assets/logos/WBTC.svg",
-      },
     ],
     daipoly: [
-      {
-        name: "Dai Twitter",
-        feed: "https://nitter.zelcore.io/MakerDAO/rss",
-        site: "https://twitter.com/MakerDAO",
-        about: "Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.",
-        pic: "@/assets/logos/DAI.svg",
-      },
       {
         name: "Dai Reddit",
         feed: "https://www.reddit.com/r/MakerDAO/.rss",
@@ -5150,13 +3671,6 @@ const newssources = {
     ],
     sushipoly: [
       {
-        name: "SushiSwap Twitter",
-        feed: "https://nitter.zelcore.io/sushiswap/rss",
-        site: "https://twitter.com/sushiswap",
-        about: "Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.",
-        pic: "@/assets/logos/SUSHI.svg",
-      },
-      {
         name: "SushiSwap Reddit",
         feed: "https://reddit.com/r/SushiSwap/.rss",
         site: "https://reddit.com/r/SushiSwap",
@@ -5165,13 +3679,6 @@ const newssources = {
       },
     ],
     snxpoly: [
-      {
-        name: "Synthetix Twitter",
-        feed: "https://nitter.zelcore.io/synthetix_io/rss",
-        site: "https://twitter.com/synthetix_io",
-        about: "Synthetix is the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.",
-        pic: "@/assets/logos/SNX.svg",
-      },
       {
         name: "Synthetix Reddit",
         feed: "https://reddit.com/r/synthetix_io/.rss",
@@ -5189,13 +3696,6 @@ const newssources = {
     ],
     telpoly: [
       {
-        name: "Telcoin Twitter",
-        feed: "https://nitter.zelcore.io/telcoin_team/rss",
-        site: "https://twitter.com/telcoin_team",
-        about: "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
-        pic: "@/assets/logos/TEL.svg",
-      },
-      {
         name: "Telcoin Reddit",
         feed: "https://reddit.com/r/telcoin/.rss",
         site: "https://reddit.com/r/telcoin",
@@ -5211,13 +3711,6 @@ const newssources = {
       },
     ],
     nexopoly: [
-      {
-        name: "Nexo Twitter",
-        feed: "https://nitter.zelcore.io/NexoFinance/rss",
-        site: "https://twitter.com/NexoFinance",
-        about: "Instant Crypto-backed Loans",
-        pic: "@/assets/logos/NEXO.svg",
-      },
       {
         name: "Nexo Reddit",
         feed: "https://reddit.com/r/nexo/.rss",
@@ -5235,13 +3728,6 @@ const newssources = {
     ],
     ubtpoly: [
       {
-        name: "Unibright Twitter",
-        feed: "https://nitter.zelcore.io/Unibrightio/rss",
-        site: "https://twitter.com/Unibrightio",
-        about: "The unified framework for blockchain based business integration",
-        pic: "@/assets/logos/UBT.svg",
-      },
-      {
         name: "Unibright Reddit",
         feed: "https://reddit.com/r/Unibright/.rss",
         site: "https://reddit.com/r/Unibright",
@@ -5257,13 +3743,6 @@ const newssources = {
       },
     ],
     wrxpoly: [
-      {
-        name: "WazirX Twitter",
-        feed: "https://nitter.zelcore.io/wazirxindia/rss",
-        site: "https://twitter.com/wazirxindia",
-        about: "",
-        pic: "@/assets/logos/WRX.svg",
-      },
       {
         name: "WazirX Medium",
         feed: "https://medium.com/feed/@wazirx",
@@ -5281,13 +3760,6 @@ const newssources = {
     ],
     ctsipoly: [
       {
-        name: "Cartesi Twitter",
-        feed: "https://nitter.zelcore.io/cartesiproject/rss",
-        site: "https://twitter.com/cartesiproject",
-        about: "",
-        pic: "@/assets/logos/CTSI.svg",
-      },
-      {
         name: "Cartesi Reddit",
         feed: "https://www.reddit.com/r/cartesi/.rss",
         site: "https://www.reddit.com/r/cartesi",
@@ -5304,13 +3776,6 @@ const newssources = {
     ],
     woopoly: [
       {
-        name: "WOO Network Twitter",
-        feed: "https://nitter.zelcore.io/WOOnetwork/rss",
-        site: "https://twitter.com/WOOnetwork",
-        about: "WOO Network connects global liquidity, quantitative strategies, and top market makers to provide exchanges, institutions, and DeFi platforms with democratized access to deep liquidity.",
-        pic: "@/assets/logos/WOO.svg",
-      },
-      {
         name: "WOO Network Medium",
         feed: "https://medium.com/feed/woonetwork",
         site: "https://medium.com/woonetwork",
@@ -5319,13 +3784,6 @@ const newssources = {
       },
     ],
     fishpoly: [
-      {
-        name: "Polycat Finance Twitter",
-        feed: "https://nitter.zelcore.io/PolycatFinance/rss",
-        site: "https://twitter.com/PolycatFinance",
-        about: "Value-oriented, economically sustainable hybrid yield aggregator on Polygon.",
-        pic: "@/assets/logos/FISH.svg",
-      },
       {
         name: "Polycat Finance Reddit",
         feed: "https://reddit.com/r/PolycatFinance/.rss",
@@ -5343,13 +3801,6 @@ const newssources = {
     ],
     hexpoly: [
       {
-        name: "HEX Twitter",
-        feed: "https://nitter.zelcore.io/HEXcrypto/rss",
-        site: "https://twitter.com/HEXcrypto",
-        about: "HEX.com averages 25% APY interest recently. HEX virtually lends value from stakers to non-stakers as staking reduces supply. The launch ends Nov. 19th, 2020 when HEX stakers get credited ~200B HEX. HEX's total supply is now ~350B. Audited 3 times, 2 security, and 1 economics.",
-        pic: "@/assets/logos/HEX.svg",
-      },
-      {
         name: "HEX Reddit",
         feed: "https://reddit.com/r/HEXcrypto/.rss",
         site: "https://reddit.com/r/HEXcrypto",
@@ -5359,13 +3810,6 @@ const newssources = {
     ],
     ompoly: [
       {
-        name: "MANTRA DAO Twitter",
-        feed: "https://nitter.zelcore.io/MANTRADAO/rss",
-        site: "https://twitter.com/MANTRADAO",
-        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance.",
-        pic: "@/assets/logos/OM.svg",
-      },
-      {
         name: "MANTRA DAO Medium",
         feed: "https://medium.com/feed/@mantradao",
         site: "https://medium.com/@mantradao",
@@ -5374,13 +3818,6 @@ const newssources = {
       },
     ],
     kncpoly: [
-      {
-        name: "Kyber Network Crystal v2 Twitter",
-        feed: "https://nitter.zelcore.io/kybernetwork/rss",
-        site: "https://twitter.com/kybernetwork",
-        about: "Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.",
-        pic: "@/assets/logos/KNC.svg",
-      },
       {
         name: "Kyber Network Crystal v2 Reddit",
         feed: "https://reddit.com/r/kybernetwork/.rss",
@@ -5398,13 +3835,6 @@ const newssources = {
     ],
     tribeeth: [
       {
-        name: "Tribe Twitter",
-        feed: "https://nitter.zelcore.io/feiprotocol/rss",
-        site: "https://twitter.com/feiprotocol",
-        about: "Tribe is the governance token for the FEI algorithmic stablecoin. Fei aims to provide a new decentralized solution to the stablecoin market. Existing stablecoins are either fiat-collateralized and, therefore, centralized or crypto-collateralized, making them capital-inefficient.",
-        pic: "@/assets/logos/TRIBE.svg",
-      },
-      {
         name: "Tribe Medium",
         feed: "https://medium.com/feed/@fei-protocol",
         site: "https://medium.com/@fei-protocol",
@@ -5413,13 +3843,6 @@ const newssources = {
       },
     ],
     bscprom: [
-      {
-        name: "Prometeus Network Twitter",
-        feed: "https://nitter.zelcore.io/prometeusnet/rss",
-        site: "https://twitter.com/prometeusnet",
-        about: "Prometeus Network is a decentralized ecosystem for trustless and anonymous data exchange.",
-        pic: "@/assets/logos/PROM.svg",
-      },
       {
         name: "Prometeus Network Medium",
         feed: "https://medium.com/feed/prometeus-network",
@@ -5430,13 +3853,6 @@ const newssources = {
     ],
     godseth: [
       {
-        name: "Gods Unchained Twitter",
-        feed: "https://nitter.zelcore.io/GodsUnchained/rss",
-        site: "https://twitter.com/GodsUnchained",
-        about: "Gods Unchained is a free-to-play tactical card game that gives players true ownership of their in-game items.",
-        pic: "@/assets/logos/GODS.svg",
-      },
-      {
         name: "Gods Unchained Blog",
         feed: "https://blog.godsunchained.com/feed",
         site: "https://blog.godsunchained.com",
@@ -5445,22 +3861,8 @@ const newssources = {
       },
     ],
     bscore: [
-      {
-        name: "ORE Token Twitter",
-        feed: "https://nitter.zelcore.io/OreSystemNFT/rss",
-        site: "https://twitter.com/OreSystemNFT",
-        about: "The ORE System is a block-chain technology that creates value for content-creators, collectors, and studios with three major components. The ORE Token provides a crypto backed in-game currency and NFT valuation application.",
-        pic: "@/assets/logos/ORE.svg",
-      },
     ],
     pbxeth: [
-      {
-        name: "Paribus Twitter",
-        feed: "https://nitter.zelcore.io/paribus_io/rss",
-        site: "https://twitter.com/paribus_io",
-        about: "A cross-chain borrowing and lending protocol for NFTs, liquidity positions, and synthetic assets, powered by the Cardano blockchain.",
-        pic: "@/assets/logos/PBX.svg",
-      },
       {
         name: "Paribus Medium",
         feed: "https://medium.com/feed/@paribus_io",
@@ -5471,13 +3873,6 @@ const newssources = {
     ],
     straxeth: [
       {
-        name: "Stratis Twitter",
-        feed: "https://nitter.zelcore.io/stratisplatform/rss",
-        site: "https://twitter.com/stratisplatform",
-        about: "",
-        pic: "@/assets/logos/STRAX.svg",
-      },
-      {
         name: "Stratis Reddit",
         feed: "https://reddit.com/r/Stratisplatform/.rss",
         site: "https://reddit.com/r/Stratisplatform",
@@ -5486,13 +3881,6 @@ const newssources = {
       },
     ],
     ewteth: [
-      {
-        name: "Energy Web Token Twitter",
-        feed: "https://nitter.zelcore.io/energywebx/rss",
-        site: "https://twitter.com/energywebx",
-        about: "Energy Web Token (EWT) is the native token of the Energy Web Chain, a public, Proof-of-Authority Ethereum Virtual Machine blockchain specifically designed to support enterprise-grade applications in the energy sector.",
-        pic: "@/assets/logos/EWT.svg",
-      },
       {
         name: "Energy Web Token Reddit",
         feed: "https://reddit.com/r/EnergyWeb/.rss",
@@ -5510,13 +3898,6 @@ const newssources = {
     ],
     prometh: [
       {
-        name: "Prometeus Twitter",
-        feed: "https://nitter.zelcore.io/prometeusnet/rss",
-        site: "https://twitter.com/prometeusnet",
-        about: "Prometeus Network fuels people-owned data markets, introducing new ways to interact with data and profit from it. They use a peer-to-peer approach to operate beyond any border or jurisdiction.",
-        pic: "@/assets/logos/PROM.svg",
-      },
-      {
         name: "Prometeus Medium",
         feed: "https://medium.com/feed/prometeus-network",
         site: "https://medium.com/prometeus-network",
@@ -5526,13 +3907,6 @@ const newssources = {
     ],
     wooeth: [
       {
-        name: "WOO Network Twitter",
-        feed: "https://nitter.zelcore.io/WOOnetwork/rss",
-        site: "https://twitter.com/WOOnetwork",
-        about: "Wootrade is incubated by Kronos Research, which aims to solve the pain points of the diversified liquidity of the cryptocurrency market, and provides sufficient trading depth for users such as exchanges, wallets, and trading institutions with zero fees.",
-        pic: "@/assets/logos/WOO.svg",
-      },
-      {
         name: "WOO Network Medium",
         feed: "https://medium.com/feed/woonetwork",
         site: "https://medium.com/woonetwork",
@@ -5541,13 +3915,6 @@ const newssources = {
       },
     ],
     cotieth: [
-      {
-        name: "COTI Twitter",
-        feed: "https://nitter.zelcore.io/COTInetwork/rss",
-        site: "https://twitter.com/COTInetwork",
-        about: "COTI is an enterprise-grade fintech platform that enables cross-chain interoperability and is built on its own DAG-based chain. It supports extreme scalability, low transaction costs and is supplemented with payment-specific requirements in the form of COTI Pay.",
-        pic: "@/assets/logos/COTI.svg",
-      },
       {
         name: "COTI Reddit",
         feed: "https://reddit.com/r/cotinetwork/.rss",
@@ -5565,13 +3932,6 @@ const newssources = {
     ],
     oxteth: [
       {
-        name: "Orchid Twitter",
-        feed: "https://nitter.zelcore.io/OrchidProtocol/rss",
-        site: "https://twitter.com/OrchidProtocol",
-        about: "Orchid enables a decentralized VPN.",
-        pic: "@/assets/logos/OXT.svg",
-      },
-      {
         name: "Orchid Reddit",
         feed: "https://reddit.com/r/orchid/.rss",
         site: "https://reddit.com/r/orchid",
@@ -5580,13 +3940,6 @@ const newssources = {
       },
     ],
     tomoeth: [
-      {
-        name: "TomoChain Twitter",
-        feed: "https://nitter.zelcore.io/TomoChainANN/rss",
-        site: "https://twitter.com/TomoChainANN",
-        about: "TomoChain is a scalable blockchain-powered via Proof-of-Stake Voting consensus which is used commercially by companies globally",
-        pic: "@/assets/logos/TOMO.svg",
-      },
       {
         name: "TomoChain Reddit",
         feed: "https://reddit.com/r/Tomochain/.rss",
@@ -5604,13 +3957,6 @@ const newssources = {
     ],
     orbseth: [
       {
-        name: "Orbs Twitter",
-        feed: "https://nitter.zelcore.io/orbs_network/rss",
-        site: "https://twitter.com/orbs_network",
-        about: "Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.",
-        pic: "@/assets/logos/ORBS.svg",
-      },
-      {
         name: "Orbs Reddit",
         feed: "https://reddit.com/r/ORBS_Network/.rss",
         site: "https://reddit.com/r/ORBS_Network",
@@ -5619,13 +3965,6 @@ const newssources = {
       },
     ],
     uoseth: [
-      {
-        name: "Ultra Twitter",
-        feed: "https://nitter.zelcore.io/ultra_io/rss",
-        site: "https://twitter.com/ultra_io",
-        about: "Ultra is a games distribution platform, offering new solutions to both developers and players.",
-        pic: "@/assets/logos/UOS.svg",
-      },
       {
         name: "Ultra Medium",
         feed: "https://medium.com/feed/ultra-io",
@@ -5636,13 +3975,6 @@ const newssources = {
     ],
     badgereth: [
       {
-        name: "Badger DAO Twitter",
-        feed: "https://nitter.zelcore.io/badgerdao/rss",
-        site: "https://twitter.com/badgerdao",
-        about: "Badger is a decentralized autonomous organization (DAO) with a single purpose: build the products and infrastructure necessary to accelerate Bitcoin as collateral across other blockchains.",
-        pic: "@/assets/logos/BADGER.svg",
-      },
-      {
         name: "Badger DAO Medium",
         feed: "https://badgerdao.medium.com/feed",
         site: "https://badgerdao.medium.com",
@@ -5651,13 +3983,6 @@ const newssources = {
       },
     ],
     phaeth: [
-      {
-        name: "Phala Network Twitter",
-        feed: "https://nitter.zelcore.io/PhalaNetwork/rss",
-        site: "https://twitter.com/PhalaNetwork",
-        about: "Phala Network is a general-purpose confidential smart contract network on Polkadot. The confidential contracts run inside the hardware TEE enclaves for confidentiality. It acts as a confidential layer for any blockchains via Polkadot cross-chain messaging protocol.",
-        pic: "@/assets/logos/PHA.svg",
-      },
       {
         name: "Phala Network Medium",
         feed: "https://medium.com/feed/phala-network",
@@ -5668,13 +3993,6 @@ const newssources = {
     ],
     mvleth: [
       {
-        name: "MVL Twitter",
-        feed: "https://nitter.zelcore.io/mvlchain/rss",
-        site: "https://twitter.com/mvlchain",
-        about: "MVLChain aims to build an incentive-based blockchain mobility ecosystem. MVL Ecosystem breaks away current centralized system. Ecosystem participants get fairly rewarded for data contributions and uses in all-connected mobility services.",
-        pic: "@/assets/logos/MVL.svg",
-      },
-      {
         name: "MVL Reddit",
         feed: "https://reddit.com/r/MVL/.rss",
         site: "https://reddit.com/r/MVL",
@@ -5683,13 +4001,6 @@ const newssources = {
       },
     ],
     nueth: [
-      {
-        name: "NuCypher Twitter",
-        feed: "https://nitter.zelcore.io/nucypher/rss",
-        site: "https://twitter.com/nucypher",
-        about: "NuCypher is a threshold cryptography network.",
-        pic: "@/assets/logos/NU.svg",
-      },
       {
         name: "NuCypher Reddit",
         feed: "https://reddit.com/r/nucypher/.rss",
@@ -5707,13 +4018,6 @@ const newssources = {
     ],
     anteth: [
       {
-        name: "Aragon Twitter",
-        feed: "https://nitter.zelcore.io/AragonProject/rss",
-        site: "https://twitter.com/AragonProject",
-        about: "Create and manage unstoppable organizations. Aragon lets you manage entire organizations using the blockchain. This makes Aragon organizations more efficient than their traditional counterparties.",
-        pic: "@/assets/logos/ANT.svg",
-      },
-      {
         name: "Aragon Reddit",
         feed: "https://www.reddit.com/r/aragonproject/.rss",
         site: "https://www.reddit.com/r/aragonproject",
@@ -5730,13 +4034,6 @@ const newssources = {
     ],
     dodoeth: [
       {
-        name: "DODO Twitter",
-        feed: "https://nitter.zelcore.io/BreederDodo/rss",
-        site: "https://twitter.com/BreederDodo",
-        about: "DODO is a on-chain liquidity provider, which leverages the Proactive Market Maker algorithm (PMM) to provide pure on-chain and contract-fillable liquidity for everyone.",
-        pic: "@/assets/logos/DODO.svg",
-      },
-      {
         name: "DODO Reddit",
         feed: "https://reddit.com/r/DodoEx/.rss",
         site: "https://reddit.com/r/DodoEx",
@@ -5745,13 +4042,6 @@ const newssources = {
       },
     ],
     xyoeth: [
-      {
-        name: "XYO Twitter",
-        feed: "https://nitter.zelcore.io/officialxyo/rss",
-        site: "https://twitter.com/officialxyo",
-        about: "Blockchain's crypto-location oracle network",
-        pic: "@/assets/logos/XYO.svg",
-      },
       {
         name: "XYO Reddit",
         feed: "https://reddit.com/r/XYONetwork/.rss",
@@ -5769,13 +4059,6 @@ const newssources = {
     ],
     utketh: [
       {
-        name: "Utrust Twitter",
-        feed: "https://nitter.zelcore.io/UTRUST/rss",
-        site: "https://twitter.com/UTRUST",
-        about: "The Utrust platform allows merchants to accept payments in digital currencies and aims to bring digital currencies to mainstream consumers while providing buyer protection and credibility. Utrust stands at the intersection of e-commerce, mobile payments, and cryptocurrency.",
-        pic: "@/assets/logos/UTK.svg",
-      },
-      {
         name: "Utrust Reddit",
         feed: "https://reddit.com/r/UTRUST_Official/.rss",
         site: "https://reddit.com/r/UTRUST_Official",
@@ -5791,22 +4074,8 @@ const newssources = {
       },
     ],
     yfiieth: [
-      {
-        name: "DFI.Money Twitter",
-        feed: "https://nitter.zelcore.io/dfimoney/rss",
-        site: "https://twitter.com/dfimoney",
-        about: "",
-        pic: "@/assets/logos/YFII.svg",
-      },
     ],
     mlneth: [
-      {
-        name: "Enzyme Twitter",
-        feed: "https://nitter.zelcore.io/enzymefinance/rss",
-        site: "https://twitter.com/enzymefinance",
-        about: "Enzyme is a way to build, scale, and monetize investment strategies",
-        pic: "@/assets/logos/MLN.svg",
-      },
       {
         name: "Enzyme Reddit",
         feed: "https://reddit.com/r/enzymefinance/.rss",
@@ -5823,22 +4092,8 @@ const newssources = {
       },
     ],
     baleth: [
-      {
-        name: "Balancer Twitter",
-        feed: "https://nitter.zelcore.io/BalancerLabs/rss",
-        site: "https://twitter.com/BalancerLabs",
-        about: "Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees.",
-        pic: "@/assets/logos/BAL.svg",
-      },
     ],
     boraeth: [
-      {
-        name: "BORA Twitter",
-        feed: "https://nitter.zelcore.io/bora_ecosystem/rss",
-        site: "https://twitter.com/bora_ecosystem",
-        about: "Decentralized application platform for digital contents distribution",
-        pic: "@/assets/logos/BORA.svg",
-      },
       {
         name: "BORA Medium",
         feed: "https://medium.com/feed/boraecosystem",
@@ -5849,13 +4104,6 @@ const newssources = {
     ],
     strketh: [
       {
-        name: "Strike Twitter",
-        feed: "https://nitter.zelcore.io/StrikeFinance/rss",
-        site: "https://twitter.com/StrikeFinance",
-        about: "Strike is a decentralized money market that lets users earn and borrow digital assets on Ethereum.",
-        pic: "@/assets/logos/STRK.svg",
-      },
-      {
         name: "Strike Medium",
         feed: "https://medium.com/feed/StrikeFinance",
         site: "https://medium.com/StrikeFinance",
@@ -5865,13 +4113,6 @@ const newssources = {
     ],
     snmeth: [
       {
-        name: "SONM (BEP-20) Twitter",
-        feed: "https://nitter.zelcore.io/sonmdevelopment/rss",
-        site: "https://twitter.com/sonmdevelopment",
-        about: "SONM's aims to be a secure and cost-effective fog supercomputer for general-purpose computing, from mobile app hosting to video rendering to DNA analysis.",
-        pic: "@/assets/logos/SNM.svg",
-      },
-      {
         name: "SONM (BEP-20) Reddit",
         feed: "https://reddit.com/r/SONM/.rss",
         site: "https://reddit.com/r/SONM",
@@ -5880,13 +4121,6 @@ const newssources = {
       },
     ],
     adxeth: [
-      {
-        name: "Ambire AdEx Twitter",
-        feed: "https://nitter.zelcore.io/AmbireAdEx/rss",
-        site: "https://twitter.com/AmbireAdEx",
-        about: "Decentralized Ad Network",
-        pic: "@/assets/logos/ADX.svg",
-      },
       {
         name: "Ambire AdEx Reddit",
         feed: "https://reddit.com/r/AdEx/.rss",
@@ -5904,13 +4138,6 @@ const newssources = {
     ],
     loometh: [
       {
-        name: "Loom Network Twitter",
-        feed: "https://nitter.zelcore.io/loomnetwork/rss",
-        site: "https://twitter.com/loomnetwork",
-        about: "Loom Network is building the zkLoom protocol, based on zkRollup, and secured by Ethereum Mainnet. The zkLoom protocol is at the core of Loom Network's enterprise platform which provides services to healthcare providers and government departments.",
-        pic: "@/assets/logos/LOOM.svg",
-      },
-      {
         name: "Loom Network Reddit",
         feed: "https://reddit.com/r/loomnetwork/.rss",
         site: "https://reddit.com/r/loomnetwork",
@@ -5926,13 +4153,6 @@ const newssources = {
       },
     ],
     dataeth: [
-      {
-        name: "Streamr Twitter",
-        feed: "https://nitter.zelcore.io/streamr/rss",
-        site: "https://twitter.com/streamr",
-        about: "Streamr is a decentralized real‑time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization.",
-        pic: "@/assets/logos/DATA.svg",
-      },
       {
         name: "Streamr Reddit",
         feed: "https://reddit.com/r/streamr/.rss",
@@ -5950,13 +4170,6 @@ const newssources = {
     ],
     aergoeth: [
       {
-        name: "Aergo Twitter",
-        feed: "https://nitter.zelcore.io/AERGO_IO/rss",
-        site: "https://twitter.com/AERGO_IO",
-        about: "Aergo is an open platform that allows businesses to build innovative applications and services by sharing data on a trustless and distributed IT ecosystem.",
-        pic: "@/assets/logos/AERGO.svg",
-      },
-      {
         name: "Aergo Reddit",
         feed: "https://reddit.com/r/Aergo_Official/.rss",
         site: "https://reddit.com/r/Aergo_Official",
@@ -5973,13 +4186,6 @@ const newssources = {
     ],
     videth: [
       {
-        name: "VideoCoin Twitter",
-        feed: "https://nitter.zelcore.io/VideoCoinHQ/rss",
-        site: "https://twitter.com/VideoCoinHQ",
-        about: "VideoCoin - A Decentralized Video Encoding, Storage, and Content Distribution Network",
-        pic: "@/assets/logos/VID.svg",
-      },
-      {
         name: "VideoCoin Medium",
         feed: "https://medium.com/feed/videocoin",
         site: "https://medium.com/videocoin",
@@ -5989,13 +4195,6 @@ const newssources = {
     ],
     ometh: [
       {
-        name: "MANTRA DAO Twitter",
-        feed: "https://nitter.zelcore.io/MANTRADAO/rss",
-        site: "https://twitter.com/MANTRADAO",
-        about: "MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance.",
-        pic: "@/assets/logos/OM.svg",
-      },
-      {
         name: "MANTRA DAO Medium",
         feed: "https://medium.com/feed/@mantradao",
         site: "https://medium.com/@mantradao",
@@ -6004,31 +4203,10 @@ const newssources = {
       },
     ],
     oxyeth: [
-      {
-        name: "Oxygen Twitter",
-        feed: "https://nitter.zelcore.io/Oxygen_protocol/rss",
-        site: "https://twitter.com/Oxygen_protocol",
-        about: "DeFi Prime Brokerage Protocol and cross chain decentralized wallet built to scale.",
-        pic: "@/assets/logos/OXY.svg",
-      },
     ],
     rayeth: [
-      {
-        name: "Raydium Twitter",
-        feed: "https://nitter.zelcore.io/raydiumprotocol/rss",
-        site: "https://twitter.com/raydiumprotocol",
-        about: "An on-chain order book AMM powering the evolution of DeFi",
-        pic: "@/assets/logos/RAY.svg",
-      },
     ],
     alepheth: [
-      {
-        name: "Aleph.im Twitter",
-        feed: "https://nitter.zelcore.io/aleph_im/rss",
-        site: "https://twitter.com/aleph_im",
-        about: "Built for the DeFI ecosystem, aleph.im is a decentralized network that is dedicated to providing secure storage and computing to decentralized applications of all chains.",
-        pic: "@/assets/logos/ALEPH.svg",
-      },
       {
         name: "Aleph.im Reddit",
         feed: "https://reddit.com/r/Aleph_im/.rss",
@@ -6045,13 +4223,6 @@ const newssources = {
       },
     ],
     c98eth: [
-      {
-        name: "Coin98 Twitter",
-        feed: "https://nitter.zelcore.io/coin98_wallet/rss",
-        site: "https://twitter.com/coin98_wallet",
-        about: "A project aiming to build an ecosystem of DeFi products that help traditional finance users to access DeFi services easier.",
-        pic: "@/assets/logos/C98.svg",
-      },
       {
         name: "Coin98 Blog",
         feed: "https://blog.coin98.com/rss",
@@ -6071,13 +4242,6 @@ const newssources = {
     ],
     quicketh: [
       {
-        name: "QuickSwap Twitter",
-        feed: "https://nitter.zelcore.io/QuickswapDEX/rss",
-        site: "https://twitter.com/QuickswapDEX",
-        about: "QuickSwap is a Layer 2 DEX powered by Matic Network.",
-        pic: "@/assets/logos/QUICK.svg",
-      },
-      {
         name: "QuickSwap Reddit",
         feed: "https://reddit.com/r/QuickSwap/.rss",
         site: "https://reddit.com/r/QuickSwap",
@@ -6094,13 +4258,6 @@ const newssources = {
     ],
     dydxeth: [
       {
-        name: "dYdX Twitter",
-        feed: "https://nitter.zelcore.io/dydxfoundation/rss",
-        site: "https://twitter.com/dydxfoundation",
-        about: "DYDX is a governance token that allows the dYdX community to truly govern the dYdX Layer 2 Protocol. By enabling shared control of the protocol, DYDX allows traders, liquidity providers, and partners of dYdX to work collectively towards an enhanced Protocol.",
-        pic: "@/assets/logos/DYDX.svg",
-      },
-      {
         name: "dYdX Reddit",
         feed: "https://reddit.com/r/dydxprotocol/.rss",
         site: "https://reddit.com/r/dydxprotocol",
@@ -6109,13 +4266,6 @@ const newssources = {
       },
     ],
     xdbeth: [
-      {
-        name: "DigitalBits Twitter",
-        feed: "https://nitter.zelcore.io/DigitalBitsOrg/rss",
-        site: "https://twitter.com/DigitalBitsOrg",
-        about: "DigitalBits is a protocol and network layer blockchain designed to support consumer digital assets such as brand currencies.",
-        pic: "@/assets/logos/XDB.svg",
-      },
       {
         name: "DigitalBits Reddit",
         feed: "https://reddit.com/r/DigitalBits_XDB/.rss",
@@ -6132,13 +4282,6 @@ const newssources = {
       },
     ],
     vlxeth: [
-      {
-        name: "Velas Twitter",
-        feed: "https://nitter.zelcore.io/VelasBlockchain/rss",
-        site: "https://twitter.com/VelasBlockchain",
-        about: "Velas is building a decentralized ecosystem of user-friendly, transparent and privacy-preserving products. VLX is a native coin of Velas blockchain that is bridged to Ethereum and other chains.",
-        pic: "@/assets/logos/VLX.svg",
-      },
       {
         name: "Velas Reddit",
         feed: "https://reddit.com/r/Velas/.rss",
@@ -6163,13 +4306,6 @@ const newssources = {
     ],
     fxeth: [
       {
-        name: "Function X Twitter",
-        feed: "https://nitter.zelcore.io/functionx_io/rss",
-        site: "https://twitter.com/functionx_io",
-        about: "Function X is an ecosystem built entirely on and for the blockchain. It consists of five elements: f(x) OS, f(x) public blockchain, f(x) FXTP, f(x) docker and f(x) IPFS.",
-        pic: "@/assets/logos/FX.svg",
-      },
-      {
         name: "Function X Reddit",
         feed: "https://reddit.com/r/FunctionX/.rss",
         site: "https://reddit.com/r/FunctionX",
@@ -6185,13 +4321,6 @@ const newssources = {
       },
     ],
     asdeth: [
-      {
-        name: "ASD Twitter",
-        feed: "https://nitter.zelcore.io/AscendEX_Global/rss",
-        site: "https://twitter.com/AscendEX_Global",
-        about: "AscendEX is a global digital asset financial platform founded by a group of Wall Street quantitative trading veterans in 2018, building on core value of “Efficiency, Resilience and Transparency.”",
-        pic: "@/assets/logos/ASD.svg",
-      },
       {
         name: "ASD Reddit",
         feed: "https://reddit.com/r/BitMax/.rss",
@@ -6209,13 +4338,6 @@ const newssources = {
     ],
     crwnyeth: [
       {
-        name: "Crowny Twitter",
-        feed: "https://nitter.zelcore.io/crownyio/rss",
-        site: "https://www.twitter.com/crownyio",
-        about: "Crowny is a platform that will allow brands to create effective campaigns and reach their target audiences with ease and simplicity.",
-        pic: "@/assets/logos/CRWNY.svg",
-      },
-      {
         name: "Crowny Medium",
         feed: "https://crowny.medium.com/feed",
         site: "https://crowny.medium.com",
@@ -6224,13 +4346,6 @@ const newssources = {
       },
     ],
     linksol: [
-      {
-        name: "Chainlink Twitter",
-        feed: "https://nitter.zelcore.io/chainlink/rss",
-        site: "https://twitter.com/chainlink",
-        about: "Chainlink is a blockchain-base middleware, acting as a bridge between cryptocurrency smart contracts and off-chain resources like data feeds, various web APIs, and traditional bank account payments.",
-        pic: "@/assets/logos/LINK.svg",
-      },
       {
         name: "Chainlink Reddit",
         feed: "https://reddit.com/r/chainlink/.rss",
@@ -6255,13 +4370,6 @@ const newssources = {
     ],
     sushisol: [
       {
-        name: "SushiSwap Twitter",
-        feed: "https://nitter.zelcore.io/sushiswap/rss",
-        site: "https://twitter.com/sushiswap",
-        about: "SushiSwap (SUSHI) is an example of an automated market maker (AMM). An increasingly popular tool among cryptocurrency users, AMMs are decentralized exchanges which use smart contracts to create markets for any given pair of tokens.",
-        pic: "@/assets/logos/SUSHI.svg",
-      },
-      {
         name: "SushiSwap Reddit",
         feed: "https://reddit.com/r/SushiSwap/.rss",
         site: "https://reddit.com/r/SushiSwap",
@@ -6278,13 +4386,6 @@ const newssources = {
     ],
     woosol: [
       {
-        name: "WOO Network Twitter",
-        feed: "https://nitter.zelcore.io/WOOnetwork/rss",
-        site: "https://twitter.com/WOOnetwork",
-        about: "Wootrade features alpha-based market-making abilities via partnerships with the leading quantitative trading teams globally.",
-        pic: "@/assets/logos/WOO.svg",
-      },
-      {
         name: "WOO Network Medium",
         feed: "https://medium.com/feed/woonetwork",
         site: "https://medium.com/woonetwork",
@@ -6294,13 +4395,6 @@ const newssources = {
     ],
     c98sol: [
       {
-        name: "Coin98 Twitter",
-        feed: "https://nitter.zelcore.io/coin98_wallet/rss",
-        site: "https://twitter.com/coin98_wallet",
-        about: "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
-        pic: "@/assets/logos/C98.svg",
-      },
-      {
         name: "Coin98 Blog",
         feed: "https://blog.coin98.com/rss",
         site: "https://blog.coin98.com",
@@ -6309,13 +4403,6 @@ const newssources = {
       },
     ],
     samosol: [
-      {
-        name: "Samoyedcoin Twitter",
-        feed: "https://nitter.zelcore.io/samoyedcoin/rss",
-        site: "https://twitter.com/samoyedcoin",
-        about: "Samoyedcoin ($SAMO) is Solana’s cutest ambassador. It’s community-owned and fun!",
-        pic: "@/assets/logos/SAMO.svg",
-      },
       {
         name: "Samoyedcoin Reddit",
         feed: "https://www.reddit.com/r/SamoyedCoin/.rss",
@@ -6333,13 +4420,6 @@ const newssources = {
     ],
     mngosol: [
       {
-        name: "Mango Markets Twitter",
-        feed: "https://nitter.zelcore.io/mangomarkets/rss",
-        site: "https://twitter.com/mangomarkets",
-        about: "",
-        pic: "@/assets/logos/MNGO.svg",
-      },
-      {
         name: "Mango Markets Medium",
         feed: "https://medium.com/feed/blockworks-foundation",
         site: "https://medium.com/blockworks-foundation",
@@ -6348,13 +4428,6 @@ const newssources = {
       },
     ],
     atlassol: [
-      {
-        name: "Star Atlas Twitter",
-        feed: "https://nitter.zelcore.io/staratlas/rss",
-        site: "https://twitter.com/staratlas",
-        about: "Star Atlas is a virtual gaming metaverse based in the year 2620. In this distant future, three major factions have emerged; 1. The MUD Territory governed by humankind, 2. The ONI Region as a consortium of alien races, and 3. Sentient androids control the Ustur Sector.",
-        pic: "@/assets/logos/ATLAS.svg",
-      },
       {
         name: "Star Atlas Reddit",
         feed: "https://reddit.com/r/staratlas/.rss",
@@ -6372,13 +4445,6 @@ const newssources = {
     ],
     polissol: [
       {
-        name: "Star Atlas DAO Twitter",
-        feed: "https://nitter.zelcore.io/staratlas/rss",
-        site: "https://twitter.com/staratlas",
-        about: "Star Atlas is a next-gen gaming metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video games, and decentralized financial technologies.",
-        pic: "@/assets/logos/POLIS.svg",
-      },
-      {
         name: "Star Atlas DAO Reddit",
         feed: "https://reddit.com/r/staratlas/.rss",
         site: "https://reddit.com/r/staratlas",
@@ -6394,13 +4460,6 @@ const newssources = {
       },
     ],
     orcasol: [
-      {
-        name: "Orca Twitter",
-        feed: "https://nitter.zelcore.io/orca_so/rss",
-        site: "https://twitter.com/orca_so",
-        about: "The DEX for people, not programs.",
-        pic: "@/assets/logos/ORCA.svg",
-      },
       {
         name: "Orca Reddit",
         feed: "https://reddit.com/r/orca_so/.rss",
@@ -6418,13 +4477,6 @@ const newssources = {
     ],
     aurysol: [
       {
-        name: "Aurory Twitter",
-        feed: "https://nitter.zelcore.io/AuroryProject/rss",
-        site: "https://twitter.com/AuroryProject",
-        about: "Aurory is a JRPG computer game where people will evolve in a rich and diverse universe. In this world, players will discover Antik and Cryptos, two different areas and biomes. They will meet several NPCs and the mystical creatures that are living in this world, called Nefties.",
-        pic: "@/assets/logos/AURY.svg",
-      },
-      {
         name: "Aurory Medium",
         feed: "https://auroryproject.medium.com/feed",
         site: "https://auroryproject.medium.com",
@@ -6433,13 +4485,6 @@ const newssources = {
       },
     ],
     slndsol: [
-      {
-        name: "Solend Twitter",
-        feed: "https://nitter.zelcore.io/solendprotocol/rss",
-        site: "https://twitter.com/solendprotocol",
-        about: "Algorithmic, decentralized protocol for lending and borrowing on Solana.",
-        pic: "@/assets/logos/SLND.svg",
-      },
       {
         name: "Solend Reddit",
         feed: "https://reddit.com/r/solend/.rss",
@@ -6450,13 +4495,6 @@ const newssources = {
     ],
     sbrsol: [
       {
-        name: "Saber Twitter",
-        feed: "https://nitter.zelcore.io/Saber_HQ/rss",
-        site: "https://twitter.com/Saber_HQ",
-        about: "Saber Labs contributes to Saber, a cross-chain stablecoin exchange on Solana. Saber provides the liquidity foundation for stablecoins, which is a type of cryptocurrency whose value is pegged to another asset, like the US dollar or bitcoin.",
-        pic: "@/assets/logos/SBR.svg",
-      },
-      {
         name: "Saber Blog",
         feed: "https://blog.saber.so/feed",
         site: "https://blog.saber.so",
@@ -6465,40 +4503,12 @@ const newssources = {
       },
     ],
     liqsol: [
-      {
-        name: "LIQ Protocol Twitter",
-        feed: "https://nitter.zelcore.io/liqprotocol/rss",
-        site: "https://twitter.com/liqprotocol",
-        about: "",
-        pic: "@/assets/logos/LIQ.svg",
-      },
     ],
     snysol: [
-      {
-        name: "Synthetify Twitter",
-        feed: "https://nitter.zelcore.io/synthetify/rss",
-        site: "https://twitter.com/synthetify",
-        about: "Built on Solana, Synthetify is a Decentralized synthetic assets exchange. Synthetify platform leverages Solana blockchain infrastructure to enable ultimate trading experience with sub-second settlement time.",
-        pic: "@/assets/logos/SNY.svg",
-      },
     ],
     portsol: [
-      {
-        name: "Port Finance Twitter",
-        feed: "https://nitter.zelcore.io/port_finance/rss",
-        site: "https://twitter.com/port_finance",
-        about: "Port Finance is a non-custodial money market protocol on Solana. Its goals are to bring a whole suite of interest rate products, including: variable rate lending, fixed-rate lending and interest rate swap to the Solana blockchain.<a href=\"https://t.me/port_finance\" target=\"_blank\">Telegram</a> | <a href=\"https://discord.com/invite/nAMXAYhTb2\" target=\"_blank\">Discord</a>",
-        pic: "@/assets/logos/PORT.svg",
-      },
     ],
     abrsol: [
-      {
-        name: "Allbridge Twitter",
-        feed: "https://nitter.zelcore.io/Allbridge_io/rss",
-        site: "https://twitter.com/Allbridge_io",
-        about: "Allbridge is a simple, modern, and reliable way to transfer assets between blockchains.",
-        pic: "@/assets/logos/ABR.svg",
-      },
       {
         name: "Allbridge Reddit",
         feed: "https://reddit.com/r/allbridge/.rss",
@@ -6516,13 +4526,6 @@ const newssources = {
     ],
     crpsol: [
       {
-        name: "CropperFinance Twitter",
-        feed: "https://nitter.zelcore.io/CropperFinance/rss",
-        site: "https://twitter.com/CropperFinance",
-        about: "CranePay [CRP] is a cryptocurrency, which is a direct descendant of Bitcoin and based on the ideas of decentralized P2P networks from Satoshi Nakamoto.",
-        pic: "@/assets/logos/CRP.svg",
-      },
-      {
         name: "CropperFinance Medium",
         feed: "https://cropperfinance.medium.com/feed",
         site: "https://cropperfinance.medium.com",
@@ -6531,13 +4534,6 @@ const newssources = {
       },
     ],
     ivnsol: [
-      {
-        name: "Investin Twitter",
-        feed: "https://nitter.zelcore.io/Investin_pro/rss",
-        site: "https://twitter.com/Investin_pro",
-        about: "IVN Security is a decentralised security service network aiming for a free and secure Internet using blockchain technology.",
-        pic: "@/assets/logos/IVN.svg",
-      },
       {
         name: "Investin Medium",
         feed: "https://medium.com/feed/investin-pro",
@@ -6548,13 +4544,6 @@ const newssources = {
     ],
     grapesol: [
       {
-        name: "Grape Network Twitter",
-        feed: "https://nitter.zelcore.io/grapeprotocol/rss",
-        site: "https://twitter.com/grapeprotocol",
-        about: "",
-        pic: "@/assets/logos/GRAPE.svg",
-      },
-      {
         name: "Grape Network Medium",
         feed: "https://medium.com/feed/great-ape",
         site: "https://medium.com/great-ape",
@@ -6563,13 +4552,6 @@ const newssources = {
       },
     ],
     ninjasol: [
-      {
-        name: "Ninja Protocol Twitter",
-        feed: "https://nitter.zelcore.io/NinjaProtocol/rss",
-        site: "https://twitter.com/NinjaProtocol",
-        about: "",
-        pic: "@/assets/logos/NINJA.svg",
-      },
     ],
     fluxtrx: [
       {
@@ -6579,29 +4561,8 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     crwnysol: [
-      {
-        name: "Crowny Twitter",
-        feed: "https://nitter.zelcore.io/crownyio/rss",
-        site: "https://www.twitter.com/crownyio",
-        about: "Crowny is a platform that will allow brands to create effective campaigns and reach their target audiences with ease and simplicity.",
-        pic: "@/assets/logos/CRWNY.svg",
-      },
       {
         name: "Crowny Medium",
         feed: "https://crowny.medium.com/feed",
@@ -6618,29 +4579,8 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     safemoonv2bep: [
-      {
-        name: "SafeMoon Twitter",
-        feed: "https://nitter.zelcore.io/safemoon/rss",
-        site: "https://twitter.com/safemoon",
-        about: "SafeMoon Protocol is a decentralized finance (DeFi) token. According to the SafeMoon website, SafeMoon has three functions that take place during each trade: Reflection, LP Acquisition and Burn.",
-        pic: "@/assets/logos/SAFEMOON.svg",
-      },
       {
         name: "SafeMoon Reddit",
         feed: "https://www.reddit.com/r/SafeMoon/.rss",
@@ -6651,13 +4591,6 @@ const newssources = {
     ],
     msolsol: [
       {
-        name: "Marinade staked SOL (mSOL) Twitter",
-        feed: "https://nitter.zelcore.io/MarinadeFinance/rss",
-        site: "https://twitter.com/MarinadeFinance",
-        about: undefined,
-        pic: "@/assets/logos/MSOL.svg",
-      },
-      {
         name: "Marinade staked SOL (mSOL) Medium",
         feed: "https://medium.com/feed/marinade-finance",
         site: "https://medium.com/marinade-finance",
@@ -6666,13 +4599,6 @@ const newssources = {
       },
     ],
     stsolsol: [
-      {
-        name: "Lido Staked SOL Twitter",
-        feed: "https://nitter.zelcore.io/LidoFinance/rss",
-        site: "https://twitter.com/LidoFinance",
-        about: undefined,
-        pic: "@/assets/logos/STSOL.svg",
-      },
       {
         name: "Lido Staked SOL Reddit",
         feed: "https://www.reddit.com/r/lidofinance/.rss",
@@ -6683,13 +4609,6 @@ const newssources = {
     ],
     slimsol: [
       {
-        name: "Solanium Twitter",
-        feed: "https://nitter.zelcore.io/solanium_io/rss",
-        site: "https://twitter.com/solanium_io",
-        about: undefined,
-        pic: "@/assets/logos/SLIM.svg",
-      },
-      {
         name: "Solanium Medium",
         feed: "https://medium.com/feed/@solanium",
         site: "https://medium.com/@solanium",
@@ -6698,13 +4617,6 @@ const newssources = {
       },
     ],
     dflsol: [
-      {
-        name: "DeFi Land Twitter",
-        feed: "https://nitter.zelcore.io/DeFi_Land/rss",
-        site: "https://twitter.com/DeFi_Land",
-        about: undefined,
-        pic: "@/assets/logos/DFL.svg",
-      },
       {
         name: "DeFi Land Medium",
         feed: "https://defiland.medium.com/feed",
@@ -6715,13 +4627,6 @@ const newssources = {
     ],
     insol: [
       {
-        name: "Sol Invictus Twitter",
-        feed: "https://nitter.zelcore.io/InvictusDAO/rss",
-        site: "https://twitter.com/InvictusDAO",
-        about: undefined,
-        pic: "@/assets/logos/IN.svg",
-      },
-      {
         name: "Sol Invictus Medium",
         feed: "https://medium.com/feed/@Sol-Invictus",
         site: "https://medium.com/@Sol-Invictus",
@@ -6730,13 +4635,6 @@ const newssources = {
       },
     ],
     jetsol: [
-      {
-        name: "Jet Protocol Twitter",
-        feed: "https://nitter.zelcore.io/jetprotocol/rss",
-        site: "https://twitter.com/jetprotocol",
-        about: undefined,
-        pic: "@/assets/logos/JET.svg",
-      },
       {
         name: "Jet Protocol Medium",
         feed: "https://medium.com/feed/jetprotocol",
@@ -6754,13 +4652,6 @@ const newssources = {
     ],
     dxlsol: [
       {
-        name: "Dexlab Twitter",
-        feed: "https://nitter.zelcore.io/dexlab_official/rss",
-        site: "https://twitter.com/dexlab_official",
-        about: undefined,
-        pic: "@/assets/logos/DXL.svg",
-      },
-      {
         name: "Dexlab Medium",
         feed: "https://medium.com/feed/dexlab-official",
         site: "https://medium.com/dexlab-official",
@@ -6769,13 +4660,6 @@ const newssources = {
       },
     ],
     likesol: [
-      {
-        name: "Only1 (LIKE) Twitter",
-        feed: "https://nitter.zelcore.io/only1nft/rss",
-        site: "https://twitter.com/only1nft",
-        about: undefined,
-        pic: "@/assets/logos/LIKE.svg",
-      },
       {
         name: "Only1 (LIKE) Medium",
         feed: "https://only1nft.medium.com/feed",
@@ -6786,13 +4670,6 @@ const newssources = {
     ],
     mndesol: [
       {
-        name: "Marinade Twitter",
-        feed: "https://nitter.zelcore.io/MarinadeFinance/rss",
-        site: "https://twitter.com/MarinadeFinance",
-        about: undefined,
-        pic: "@/assets/logos/MNDE.svg",
-      },
-      {
         name: "Marinade Medium",
         feed: "https://medium.com/feed/marinade-finance",
         site: "https://medium.com/marinade-finance",
@@ -6801,13 +4678,6 @@ const newssources = {
       },
     ],
     whapisol: [
-      {
-        name: "Wrapped HAPI Twitter",
-        feed: "https://nitter.zelcore.io/i_am_hapi_one/rss",
-        site: "https://twitter.com/i_am_hapi_one",
-        about: undefined,
-        pic: "@/assets/logos/WHAPI.svg",
-      },
       {
         name: "Wrapped HAPI Medium",
         feed: "https://medium.com/feed/i-am-hapi",
@@ -6818,13 +4688,6 @@ const newssources = {
     ],
     rinsol: [
       {
-        name: "Aldrin Twitter",
-        feed: "https://nitter.zelcore.io/Aldrin_Exchange/rss",
-        site: "https://twitter.com/Aldrin_Exchange",
-        about: undefined,
-        pic: "@/assets/logos/RIN.svg",
-      },
-      {
         name: "Aldrin Medium",
         feed: "https://aldrin-rin.medium.com/feed",
         site: "https://aldrin-rin.medium.com",
@@ -6833,13 +4696,6 @@ const newssources = {
       },
     ],
     cyssol: [
-      {
-        name: "Cyclos Twitter",
-        feed: "https://nitter.zelcore.io/cyclosfi/rss",
-        site: "https://twitter.com/cyclosfi",
-        about: undefined,
-        pic: "@/assets/logos/CYS.svg",
-      },
       {
         name: "Cyclos Medium",
         feed: "https://medium.com/feed/@cyclosfinance",
@@ -6850,13 +4706,6 @@ const newssources = {
     ],
     fabsol: [
       {
-        name: "FABRIC Twitter",
-        feed: "https://nitter.zelcore.io/official_fabric/rss",
-        site: "https://twitter.com/official_fabric",
-        about: undefined,
-        pic: "@/assets/logos/FAB.svg",
-      },
-      {
         name: "FABRIC Medium",
         feed: "https://xfabric.medium.com/feed",
         site: "https://xfabric.medium.com",
@@ -6866,13 +4715,6 @@ const newssources = {
     ],
     wagsol: [
       {
-        name: "Waggle Network Twitter",
-        feed: "https://nitter.zelcore.io/wagglenetwork/rss",
-        site: "https://twitter.com/wagglenetwork",
-        about: undefined,
-        pic: "@/assets/logos/WAG.svg",
-      },
-      {
         name: "Waggle Network Medium",
         feed: "https://medium.com/feed/@wagglenetwork",
         site: "https://medium.com/@wagglenetwork",
@@ -6881,13 +4723,6 @@ const newssources = {
       },
     ],
     molasol: [
-      {
-        name: "MOONLANA Twitter",
-        feed: "https://nitter.zelcore.io/xMoonLana/rss",
-        site: "https://twitter.com/xMoonLana",
-        about: undefined,
-        pic: "@/assets/logos/MOLA.svg",
-      },
       {
         name: "MOONLANA Medium",
         feed: "https://moonlana.medium.com/feed",
@@ -6905,13 +4740,6 @@ const newssources = {
     ],
     soldsol: [
       {
-        name: "Solanax Twitter",
-        feed: "https://nitter.zelcore.io/Solanaxorg/rss",
-        site: "https://twitter.com/Solanaxorg",
-        about: undefined,
-        pic: "@/assets/logos/SOLD.svg",
-      },
-      {
         name: "Solanax Medium",
         feed: "https://medium.com/feed/@solanax",
         site: "https://medium.com/@solanax",
@@ -6928,13 +4756,6 @@ const newssources = {
     ],
     catosol: [
       {
-        name: "CATO Twitter",
-        feed: "https://nitter.zelcore.io/SolanaCATO/rss",
-        site: "https://twitter.com/SolanaCATO",
-        about: undefined,
-        pic: "@/assets/logos/CATO.svg",
-      },
-      {
         name: "CATO Medium",
         feed: "https://medium.com/feed/@solanacato",
         site: "https://medium.com/@solanacato",
@@ -6944,13 +4765,6 @@ const newssources = {
     ],
     cstrsol: [
       {
-        name: "CoreStarter Twitter",
-        feed: "https://nitter.zelcore.io/CoreStarter/rss",
-        site: "https://twitter.com/CoreStarter",
-        about: undefined,
-        pic: "@/assets/logos/CSTR.svg",
-      },
-      {
         name: "CoreStarter Medium",
         feed: "https://corestarter.medium.com/feed",
         site: "https://corestarter.medium.com",
@@ -6959,13 +4773,6 @@ const newssources = {
       },
     ],
     saosol: [
-      {
-        name: "Sator Twitter",
-        feed: "https://nitter.zelcore.io/SatorSAO/rss",
-        site: "https://twitter.com/SatorSAO",
-        about: undefined,
-        pic: "@/assets/logos/SAO.svg",
-      },
       {
         name: "Sator Medium",
         feed: "https://satortoken.medium.com/feed",
@@ -6983,13 +4790,6 @@ const newssources = {
     ],
     apyssol: [
       {
-        name: "APYSwap Twitter",
-        feed: "https://nitter.zelcore.io/apyswap/rss",
-        site: "https://twitter.com/apyswap",
-        about: undefined,
-        pic: "@/assets/logos/APYS.svg",
-      },
-      {
         name: "APYSwap Medium",
         feed: "https://apyswap.medium.com/feed",
         site: "https://apyswap.medium.com",
@@ -7005,13 +4805,6 @@ const newssources = {
       },
     ],
     sunnysol: [
-      {
-        name: "Sunny Governance Token Twitter",
-        feed: "https://nitter.zelcore.io/SunnyAggregator/rss",
-        site: "https://twitter.com/SunnyAggregator",
-        about: undefined,
-        pic: "@/assets/logos/SUNNY.svg",
-      },
       {
         name: "Sunny Governance Token Medium",
         feed: "https://medium.com/feed/sunny-aggregator",
@@ -7029,13 +4822,6 @@ const newssources = {
     ],
     kurosol: [
       {
-        name: "Kurobi Twitter",
-        feed: "https://nitter.zelcore.io/kurobi_io/rss",
-        site: "https://twitter.com/kurobi_io",
-        about: undefined,
-        pic: "@/assets/logos/KURO.svg",
-      },
-      {
         name: "Kurobi Medium",
         feed: "https://kurobi.medium.com/feed",
         site: "https://kurobi.medium.com",
@@ -7045,13 +4831,6 @@ const newssources = {
     ],
     babena: [
       {
-        name: "Babena Twitter",
-        feed: "https://nitter.zelcore.io/BabenaFinance/rss",
-        site: "https://twitter.com/BabenaFinance",
-        about: "Babena is a new token on the Kadena network. We took a CEFI concept and turned it into DEFI.",
-        pic: "@/assets/logos/BABENA.svg",
-      },
-      {
         name: "Babena Medium",
         feed: "https://thanos-42.medium.com/feed",
         site: "https://thanos-42.medium.com",
@@ -7060,13 +4839,6 @@ const newssources = {
       },
     ],
     fio: [
-      {
-        name: "Fio Twitter",
-        feed: "https://nitter.zelcore.io/joinFIO/rss",
-        site: "https://twitter.com/joinFIO",
-        about: "FIO Protocol (FIO) is a blockchain protocol that aims to enable a better way of sending/receiving coins and tokens.",
-        pic: "@/assets/logos/FIO.svg",
-      },
       {
         name: "Fio Medium",
         feed: "https://medium.com/feed/fio-blog",
@@ -7084,13 +4856,6 @@ const newssources = {
     ],
     kdlaunch: [
       {
-        name: "KDLaunch Twitter",
-        feed: "https://nitter.zelcore.io/KDLaunch/rss",
-        site: "https://twitter.com/KdLaunch",
-        about: "KDLaunch is the premiere launchpad on Kadena, enabling new projects to launch fairly, safely, and securely.",
-        pic: "@/assets/logos/KDL.svg",
-      },
-      {
         name: "KDLaunch Medium",
         feed: "https://kdlaunch.medium.com/feed",
         site: "https://kdlaunch.medium.com",
@@ -7099,13 +4864,6 @@ const newssources = {
       },
     ],
     smtfbep: [
-      {
-        name: "SmartFi Twitter",
-        feed: "https://nitter.zelcore.io/smartfiportal/rss",
-        site: "https://twitter.com/smartfiportal",
-        about: "SmartFi provides easy to use financial tools to earn, trade and lend crypto.",
-        pic: "@/assets/logos/SMTF.svg",
-      },
       {
         name: "SmartFi Medium",
         feed: "https://medium.com/feed/@SmartFiPortal",
@@ -7123,13 +4881,6 @@ const newssources = {
     ],
     lunaterra: [
       {
-        name: "Terra (LUNA) Twitter",
-        feed: "https://nitter.zelcore.io/terra_money/rss",
-        site: "https://twitter.com/terra_money",
-        about: "Terra aims to build a new financial infrastructure that works better for everyone.",
-        pic: "@/assets/logos/LUNA.svg",
-      },
-      {
         name: "Terra (LUNA) Medium",
         feed: "https://medium.com/feed/terra-money",
         site: "https://medium.com/terra-money",
@@ -7145,13 +4896,6 @@ const newssources = {
       },
     ],
     ustterra: [
-      {
-        name: "Terra (UST) Twitter",
-        feed: "https://nitter.zelcore.io/terra_money/rss",
-        site: "https://twitter.com/terra_money",
-        about: "Terra aims to build a new financial infrastructure that works better for everyone.",
-        pic: "@/assets/logos/UST.svg",
-      },
       {
         name: "Terra (UST) Medium",
         feed: "https://medium.com/feed/terra-money",
@@ -7169,13 +4913,6 @@ const newssources = {
     ],
     sdtterra: [
       {
-        name: "Terra (SDT) Twitter",
-        feed: "https://nitter.zelcore.io/terra_money/rss",
-        site: "https://twitter.com/terra_money",
-        about: "Terra aims to build a new financial infrastructure that works better for everyone.",
-        pic: "@/assets/logos/SDT.svg",
-      },
-      {
         name: "Terra (SDT) Medium",
         feed: "https://medium.com/feed/terra-money",
         site: "https://medium.com/terra-money",
@@ -7191,13 +4928,6 @@ const newssources = {
       },
     ],
     krtterra: [
-      {
-        name: "Terra (KRT) Twitter",
-        feed: "https://nitter.zelcore.io/terra_money/rss",
-        site: "https://twitter.com/terra_money",
-        about: "Terra aims to build a new financial infrastructure that works better for everyone.",
-        pic: "@/assets/logos/KRT.svg",
-      },
       {
         name: "Terra (KRT) Medium",
         feed: "https://medium.com/feed/terra-money",
@@ -7215,13 +4945,6 @@ const newssources = {
     ],
     mamznterra: [
       {
-        name: "Mirror (mAMZN) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock.",
-        pic: "@/assets/logos/MAMZN.svg",
-      },
-      {
         name: "Mirror (mAMZN) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
@@ -7230,13 +4953,6 @@ const newssources = {
       },
     ],
     maaplterra: [
-      {
-        name: "Mirror (mAAPL) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Apple (mAAPL) is a synthetic asset tracking the price of an Apple stock.",
-        pic: "@/assets/logos/MAAPL.svg",
-      },
       {
         name: "Mirror (mAAPL) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
@@ -7247,13 +4963,6 @@ const newssources = {
     ],
     mabnbterra: [
       {
-        name: "Mirror (mABNB) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Airbnb (mABNB) is a synthetic asset tracking the price of an Airbnb stock.",
-        pic: "@/assets/logos/MABNB.svg",
-      },
-      {
         name: "Mirror (mABNB) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
@@ -7262,13 +4971,6 @@ const newssources = {
       },
     ],
     mcointerra: [
-      {
-        name: "Mirror (mCOIN) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Coinbase (mCOIN) is a synthetic asset tracking the price of a Coinbase stock.",
-        pic: "@/assets/logos/MCOIN.svg",
-      },
       {
         name: "Mirror (mCOIN) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
@@ -7279,13 +4981,6 @@ const newssources = {
     ],
     mmsftterra: [
       {
-        name: "Mirror (mMSFT) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Microsoft (mMSFT) is a synthetic asset tracking the price of a Microsoft stock.",
-        pic: "@/assets/logos/MMSFT.svg",
-      },
-      {
         name: "Mirror (mMSFT) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
@@ -7294,13 +4989,6 @@ const newssources = {
       },
     ],
     mgooglterra: [
-      {
-        name: "Mirror (mGOOGL) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Google (mGOOGL) is a synthetic asset tracking the price of a Google stock.",
-        pic: "@/assets/logos/MGOOGL.svg",
-      },
       {
         name: "Mirror (mGOOGL) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
@@ -7311,13 +4999,6 @@ const newssources = {
     ],
     mtslaterra: [
       {
-        name: "Mirror (mTSLA) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Tesla (mTSLA) is a synthetic asset tracking the price of an Tesla stock.",
-        pic: "@/assets/logos/MTSLA.svg",
-      },
-      {
         name: "Mirror (mTSLA) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
@@ -7327,13 +5008,6 @@ const newssources = {
     ],
     mtwtrterra: [
       {
-        name: "Mirror (mTWTR) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Twitter (mTWTR) is a synthetic asset tracking the price of a Twitter stock.",
-        pic: "@/assets/logos/MTWTR.svg",
-      },
-      {
         name: "Mirror (mTWTR) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
         site: "https://medium.com/@mirror-protocol",
@@ -7342,13 +5016,6 @@ const newssources = {
       },
     ],
     mnflxterra: [
-      {
-        name: "Mirror (mNFLX) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Netflix (mNFLX) is a synthetic asset tracking the price of a Netflix stock.",
-        pic: "@/assets/logos/MNFLX.svg",
-      },
       {
         name: "Mirror (mNFLX) Medium",
         feed: "https://medium.com/feed/@mirror-protocol",
@@ -7362,13 +5029,6 @@ const newssources = {
         name: "Saito Blog",
         feed: "https://org.saito.tech/blog/feed",
         site: "https://org.saito.tech/blog",
-        about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers.",
-        pic: "@/assets/logos/SAITO.svg",
-      },
-      {
-        name: "Saito Twitter",
-        feed: "https://nitter.zelcore.io/SaitoOfficial/rss",
-        site: "https://twitter.com/SaitoOfficial",
         about: "Saito is a layer one blockchain that pays nodes in the P2P network instead of miners or stakers.",
         pic: "@/assets/logos/SAITO.svg",
       },
@@ -7389,13 +5049,6 @@ const newssources = {
     ],
     bittorrenttron: [
       {
-        name: "BitTorrent Twitter",
-        feed: "https://nitter.zelcore.io/bittorrent/rss",
-        site: "https://twitter.com/bittorrent",
-        about: "BitTorrent is a popular peer-to-peer (P2P) file sharing and torrent platform which has become increasingly decentralized in recent years.",
-        pic: "@/assets/logos/BTT.svg",
-      },
-      {
         name: "BitTorrent Reddit",
         feed: "https://www.reddit.com/r/bittorrent/.rss",
         site: "https://www.reddit.com/r/bittorrent",
@@ -7404,13 +5057,6 @@ const newssources = {
       },
     ],
     bittorrenteth: [
-      {
-        name: "BitTorrent Twitter",
-        feed: "https://nitter.zelcore.io/bittorrent/rss",
-        site: "https://twitter.com/bittorrent",
-        about: "BitTorrent is a popular peer-to-peer (P2P) file sharing and torrent platform which has become increasingly decentralized in recent years.",
-        pic: "@/assets/logos/BTT.svg",
-      },
       {
         name: "BitTorrent Reddit",
         feed: "https://www.reddit.com/r/bittorrent/.rss",
@@ -7421,13 +5067,6 @@ const newssources = {
     ],
     bittorrentbsc: [
       {
-        name: "BitTorrent Twitter",
-        feed: "https://nitter.zelcore.io/bittorrent/rss",
-        site: "https://twitter.com/bittorrent",
-        about: "BitTorrent is a popular peer-to-peer (P2P) file sharing and torrent platform which has become increasingly decentralized in recent years.",
-        pic: "@/assets/logos/BTT.svg",
-      },
-      {
         name: "BitTorrent Reddit",
         feed: "https://www.reddit.com/r/bittorrent/.rss",
         site: "https://www.reddit.com/r/bittorrent",
@@ -7436,13 +5075,6 @@ const newssources = {
       },
     ],
     egldbsc: [
-      {
-        name: "ElrondNetwork Twitter",
-        feed: "https://nitter.zelcore.io/elrondnetwork/rss",
-        site: "https://twitter.com/elrondnetwork",
-        about: "Elrond is the internet-scale blockchain, designed from scratch that introduces two key innovations: a novel Adaptive State Sharding mechanism, and a Secure Proof of Stake algorithm.",
-        pic: "@/assets/logos/EGLD.svg",
-      },
       {
         name: "ElrondNetwork Reddit",
         feed: "https://www.reddit.com/r/elrondnetwork/.rss",
@@ -7460,13 +5092,6 @@ const newssources = {
     ],
     xhteth: [
       {
-        name: "HollaEx Token Twitter",
-        feed: "https://nitter.zelcore.io/hollaex/rss",
-        site: "https://twitter.com/hollaex",
-        about: "HollaEx Token or XHT is a token issued by HollaEx.",
-        pic: "@/assets/logos/XHT.svg",
-      },
-      {
         name: "HollaEx Token Reddit",
         feed: "https://www.reddit.com/r/hollaex/.rss",
         site: "https://www.reddit.com/r/hollaex",
@@ -7476,13 +5101,6 @@ const newssources = {
     ],
     backalleykda: [
       {
-        name: "Backalley Twitter",
-        feed: "https://nitter.zelcore.io/backalleyio/rss",
-        site: "https://twitter.com/backalleyio",
-        about: "Backalley is a permissionless launchpad built on the Kadena blockchain.",
-        pic: "@/assets/logos/BKA.svg",
-      },
-      {
         name: "Backalley Medium",
         feed: "https://medium.com/feed/@backalley",
         site: "https://medium.com/@backalley",
@@ -7491,26 +5109,12 @@ const newssources = {
       },
     ],
     kdswapkda: [
-      {
-        name: "KDSwap Twitter",
-        feed: "https://nitter.zelcore.io/KDSwap/rss",
-        site: "https://twitter.com/KDSwap",
-        about: "A revolutionary gas-free DEX built on Kadena.",
-        pic: "@/assets/logos/KDS.svg",
-      },
     ],
     avaxavalanchex: [
       {
         name: "Avalanche Medium",
         feed: "https://medium.com/feed/avalancheavax",
         site: "https://medium.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/AVAX.svg",
-      },
-      {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
         about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
         pic: "@/assets/logos/AVAX.svg",
       },
@@ -7531,13 +5135,6 @@ const newssources = {
         pic: "@/assets/logos/AVAX.svg",
       },
       {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/AVAX.svg",
-      },
-      {
         name: "Avalanche Reddit",
         feed: "https://reddit.com/r/Avax/.rss",
         site: "https://reddit.com/r/Avax",
@@ -7550,13 +5147,6 @@ const newssources = {
         name: "Avalanche Medium",
         feed: "https://medium.com/feed/avalancheavax",
         site: "https://medium.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/AVAX.svg",
-      },
-      {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
         about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
         pic: "@/assets/logos/AVAX.svg",
       },
@@ -7608,26 +5198,12 @@ const newssources = {
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
     ],
     usdte: [
       {
         name: "Tether Reddit",
         feed: "https://reddit.com/r/Tether/.rss",
         site: "https://reddit.com/r/Tether",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
@@ -7642,22 +5218,8 @@ const newssources = {
       },
     ],
     wbtce: [
-      {
-        name: "WBTC Twitter",
-        feed: "https://nitter.zelcore.io/WrappedBTC/rss",
-        site: "https://twitter.com/WrappedBTC",
-        about: "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
-        pic: "@/assets/logos/WBTC.svg",
-      },
     ],
     daie: [
-      {
-        name: "Dai Twitter",
-        feed: "https://nitter.zelcore.io/MakerDAO/rss",
-        site: "https://twitter.com/MakerDAO",
-        about: "Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.",
-        pic: "@/assets/logos/DAI.svg",
-      },
       {
         name: "Dai Reddit",
         feed: "https://www.reddit.com/r/MakerDAO/.rss",
@@ -7681,13 +5243,6 @@ const newssources = {
       },
     ],
     linke: [
-      {
-        name: "Chainlink Twitter",
-        feed: "https://nitter.zelcore.io/chainlink/rss",
-        site: "https://twitter.com/chainlink",
-        about: "Chainlink is a blockchain-base middleware, acting as a bridge between cryptocurrency smart contracts and off-chain resources like data feeds, various web APIs, and traditional bank account payments.",
-        pic: "@/assets/logos/LINK.svg",
-      },
       {
         name: "Chainlink Reddit",
         feed: "https://reddit.com/r/chainlink/.rss",
@@ -7719,13 +5274,6 @@ const newssources = {
         pic: "@/assets/logos/AVAX.svg",
       },
       {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/AVAX.svg",
-      },
-      {
         name: "Avalanche Reddit",
         feed: "https://reddit.com/r/Avax/.rss",
         site: "https://reddit.com/r/Avax",
@@ -7742,13 +5290,6 @@ const newssources = {
         pic: "@/assets/logos/SAVAX.svg",
       },
       {
-        name: "Avalanche Twitter",
-        feed: "https://nitter.zelcore.io/avalancheavax/rss",
-        site: "https://twitter.com/avalancheavax",
-        about: "Avalanche is an umbrella platform for launching decentralized finance (DeFi) applications, financial assets, trading and other services.",
-        pic: "@/assets/logos/SAVAX.svg",
-      },
-      {
         name: "Avalanche Reddit",
         feed: "https://reddit.com/r/Avax/.rss",
         site: "https://reddit.com/r/Avax",
@@ -7757,13 +5298,6 @@ const newssources = {
       },
     ],
     joe: [
-      {
-        name: "Joe Twitter",
-        feed: "https://nitter.zelcore.io/traderjoe_xyz/rss",
-        site: "https://twitter.com/traderjoe_xyz",
-        about: "Trader Joe is a one-stop decentralized trading platform on the Avalanche network. It combines DEX services with DeFi lending to offer leveraged trading.",
-        pic: "@/assets/logos/JOE.svg",
-      },
       {
         name: "Joe Reddit",
         feed: "https://reddit.com/r/traderjoe_xyz/.rss",
@@ -7780,26 +5314,12 @@ const newssources = {
         about: "BENQI is a non-custodial liquidity market protocol, built on Avalanche.",
         pic: "@/assets/logos/QI.svg",
       },
-      {
-        name: "Benqi Twitter",
-        feed: "https://nitter.zelcore.io/BenqiFinance/rss",
-        site: "https://twitter.com/BenqiFinance",
-        about: "BENQI is a non-custodial liquidity market protocol, built on Avalanche.",
-        pic: "@/assets/logos/QI.svg",
-      },
     ],
     yusd: [
       {
         name: "Yeti USD Medium",
         feed: "https://yetifinance.medium.com/feed",
         site: "https://yetifinance.medium.com",
-        about: "Yeti Stablecoin pegged to USD",
-        pic: "@/assets/logos/YUSD.svg",
-      },
-      {
-        name: "Yeti USD Twitter",
-        feed: "https://nitter.zelcore.io/YetiFinance/rss",
-        site: "https://twitter.com/YetiFinance",
         about: "Yeti Stablecoin pegged to USD",
         pic: "@/assets/logos/YUSD.svg",
       },
@@ -7812,22 +5332,8 @@ const newssources = {
         about: "The Miners of Kadenia is Kadena’s very first Game-Fi protocol and the first Game-Fi to be exclusively hosted on decentralized Flux Nodes",
         pic: "@/assets/logos/MOK.svg",
       },
-      {
-        name: "Miners of Kadenia Twitter",
-        feed: "https://nitter.zelcore.io/MinersOfKadenia/rss",
-        site: "https://twitter.com/MinersOfKadenia",
-        about: "The Miners of Kadenia is Kadena’s very first Game-Fi protocol and the first Game-Fi to be exclusively hosted on decentralized Flux Nodes",
-        pic: "@/assets/logos/MOK.svg",
-      },
     ],
     usdctrc: [
-      {
-        name: "Circle Twitter",
-        feed: "https://nitter.zelcore.io/centre_io/rss",
-        site: "https://twitter.com/centre_io",
-        about: "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
-        pic: "@/assets/logos/USDC.svg",
-      },
       {
         name: "Circle Blog",
         feed: "https://medium.com/feed/circle-blog",
@@ -7844,33 +5350,12 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     kdx: [
       {
         name: "eckoDEX Blog",
         feed: "https://blog.ecko.finance/rss",
         site: "https://blog.ecko.finance",
-        about: "eckoDEX is end-to-end decentralized trading on Kadena",
-        pic: "@/assets/logos/KDX.svg",
-      },
-      {
-        name: "eckoDEX Twitter",
-        feed: "https://nitter.zelcore.io/eckoDAO/rss",
-        site: "https://twitter.com/eckoDAO",
         about: "eckoDEX is end-to-end decentralized trading on Kadena",
         pic: "@/assets/logos/KDX.svg",
       },
@@ -7883,26 +5368,12 @@ const newssources = {
         about: "eckoDEX is end-to-end decentralized trading on Kadena",
         pic: "@/assets/logos/KDX.svg",
       },
-      {
-        name: "eckoDEX Twitter",
-        feed: "https://nitter.zelcore.io/eckoDAO/rss",
-        site: "https://twitter.com/eckoDAO",
-        about: "eckoDEX is end-to-end decentralized trading on Kadena",
-        pic: "@/assets/logos/KDX.svg",
-      },
     ],
     ergo: [
       {
         name: "Ergo Reddit",
         feed: "https://reddit.com/r/ergonauts/.rss",
         site: "https://reddit.com/r/ergonauts",
-        about: "Ergo is a next-generation Proof of Work smart-contract platform that enables new models of financial interaction, underpinned by a safe and rich scripting language built with flexible and powerful Zero-Knowledge proofs (Σ-protocols).",
-        pic: "@/assets/logos/ERG.svg",
-      },
-      {
-        name: "Ergo Twitter",
-        feed: "https://nitter.zelcore.io/ergoplatformorg/rss",
-        site: "https://twitter.com/ergoplatformorg",
         about: "Ergo is a next-generation Proof of Work smart-contract platform that enables new models of financial interaction, underpinned by a safe and rich scripting language built with flexible and powerful Zero-Knowledge proofs (Σ-protocols).",
         pic: "@/assets/logos/ERG.svg",
       },
@@ -7915,31 +5386,10 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     sigmausd: [],
     sigmarsv: [],
     erdoge: [
-      {
-        name: "Erdoge Twitter",
-        feed: "https://nitter.zelcore.io/erdogecommunity/rss",
-        site: "https://twitter.com/erdogecommunity",
-        about: "Official Erdoge Twitter.",
-        pic: "@/assets/logos/ERDOGE.svg",
-      },
     ],
     ergopad: [
       {
@@ -7949,49 +5399,14 @@ const newssources = {
         about: "Official Ergopad Twitter.",
         pic: "@/assets/logos/ERGOPAD.svg",
       },
-      {
-        name: "Ergopad Twitter",
-        feed: "https://nitter.zelcore.io/ErgoPadOfficial/rss",
-        site: "https://twitter.com/ErgoPadOfficial",
-        about: "Official Ergopad Twitter.",
-        pic: "@/assets/logos/ERGOPAD.svg",
-      },
     ],
     paideia: [
-      {
-        name: "Paideia Twitter",
-        feed: "https://nitter.zelcore.io/PaideiaDAO/rss",
-        site: "https://twitter.com/PaideiaDAO",
-        about: "Official Paideia Twitter.",
-        pic: "@/assets/logos/PAIDEIA.svg",
-      },
     ],
     ergoland: [
-      {
-        name: "Ergoland Twitter",
-        feed: "https://nitter.zelcore.io/ErgoLend/rss",
-        site: "https://twitter.com/ErgoLend",
-        about: "Official Ergoland Twitter.",
-        pic: "@/assets/logos/EXLE.svg",
-      },
     ],
     egio: [
-      {
-        name: "ErgoGames Twitter",
-        feed: "https://nitter.zelcore.io/ErgoGamesio/rss",
-        site: "https://twitter.com/ErgoGamesio",
-        about: "Official ErgoGames Twitter.",
-        pic: "@/assets/logos/EGIO.svg",
-      },
     ],
     comet: [
-      {
-        name: "Comet Twitter",
-        feed: "https://nitter.zelcore.io/CometMooning/rss",
-        site: "https://twitter.com/CometMooning",
-        about: "Official Comet Twitter.",
-        pic: "@/assets/logos/COMET.svg",
-      },
     ],
     noweth: [
       {
@@ -7999,13 +5414,6 @@ const newssources = {
         feed: "https://changenow-io.medium.com/feed",
         site: "https://changenow-io.medium.com",
         about: "Official ChangeNOW Blog.",
-        pic: "@/assets/logos/NOW.svg",
-      },
-      {
-        name: "ChangeNOW Token Twitter",
-        feed: "https://nitter.zelcore.io/ChangeNOW_io/rss",
-        site: "https://twitter.com/ChangeNOW_io",
-        about: "Official ChangeNOW Twitter.",
         pic: "@/assets/logos/NOW.svg",
       },
       {
@@ -8025,13 +5433,6 @@ const newssources = {
         pic: "@/assets/logos/NOW.svg",
       },
       {
-        name: "ChangeNOW Token Twitter",
-        feed: "https://nitter.zelcore.io/ChangeNOW_io/rss",
-        site: "https://twitter.com/ChangeNOW_io",
-        about: "Official ChangeNOW Twitter.",
-        pic: "@/assets/logos/NOW.svg",
-      },
-      {
         name: "ChangeNOW Token Reddit",
         feed: "https://reddit.com/r/ChangeNOW_io/.rss",
         site: "https://www.reddit.com/r/ChangeNOW_io",
@@ -8040,13 +5441,6 @@ const newssources = {
       },
     ],
     rsrerc: [
-      {
-        name: "Reserve Rights Twitter",
-        feed: "https://nitter.zelcore.io/reserveprotocol/rss",
-        site: "https://twitter.com/reserveprotocol",
-        about: "Reserve Rights is a dual-token stablecoin platform that was launched in May 2019 following a successful initial exchange offering (IEO) on the Huobi Prime platform.",
-        pic: "@/assets/logos/RSR.svg",
-      },
       {
         name: "Reserve Rights Medium",
         feed: "https://medium.com/feed/reserve-currency",
@@ -8060,13 +5454,6 @@ const newssources = {
         name: "Algorand Blog",
         feed: "https://medium.com/feed/algorand-foundation",
         site: "https://medium.com/algorand-foundation",
-        about: "Official Algorand Blog.",
-        pic: "@/assets/logos/ALGO.svg",
-      },
-      {
-        name: "Algorand Twitter",
-        feed: "https://nitter.zelcore.io/AlgoFoundation/rss",
-        site: "https://twitter.com/AlgoFoundation",
         about: "Official Algorand Blog.",
         pic: "@/assets/logos/ALGO.svg",
       },
@@ -8086,26 +5473,12 @@ const newssources = {
         about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
         pic: "@/assets/logos/USDT.svg",
       },
-      {
-        name: "Tether Twitter",
-        feed: "https://nitter.zelcore.io/tether_to/rss",
-        site: "https://twitter.com/tether_to",
-        about: "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-        pic: "@/assets/logos/USDT.svg",
-      },
     ],
     usdcalgo: [
       {
         name: "Centre Blog",
         feed: "https://medium.com/feed/centre-blog",
         site: "https://medium.com/centre-blog",
-        about: "USDC provides a fully collateralized US dollar stablecoin, and is based on the open source asset-backed stablecoin framework developed by Centre.",
-        pic: "@/assets/logos/USDC.svg",
-      },
-      {
-        name: "Centre Twitter",
-        feed: "https://nitter.zelcore.io/centre_io/rss",
-        site: "https://twitter.com/centre_io",
         about: "USDC provides a fully collateralized US dollar stablecoin, and is based on the open source asset-backed stablecoin framework developed by Centre.",
         pic: "@/assets/logos/USDC.svg",
       },
@@ -8118,13 +5491,6 @@ const newssources = {
         about: "Your planet needs you.",
         pic: "@/assets/logos/Planets.svg",
       },
-      {
-        name: "PlanetWatch Twitter",
-        feed: "https://nitter.zelcore.io/planetwatchsas/rss",
-        site: "https://twitter.com/planetwatchsas",
-        about: "Planetwatch decentralizes, incentivizes and gamifies air quality monitoring. Your planet needs you! $algo #planetwatchers $planet",
-        pic: "@/assets/logos/Planets.svg",
-      },
     ],
     xetalgo: [
       {
@@ -8132,13 +5498,6 @@ const newssources = {
         feed: "https://medium.com/feed/xfiniteofficial",
         site: "https://medium.com/xfiniteofficial",
         about: "Welcome To The World Of Decentralized Entertainment Ecosystem",
-        pic: "@/assets/logos/XET.svg",
-      },
-      {
-        name: "Xfinite Official",
-        feed: "https://nitter.zelcore.io/XfiniteOfficial/rss",
-        site: "https://twitter.com/XfiniteOfficial",
-        about: "Building a decentralized entertainment ecosystem on @algorand $ALGO powered by $XET",
         pic: "@/assets/logos/XET.svg",
       },
     ],
@@ -8150,22 +5509,8 @@ const newssources = {
         about: "Bringing Music Assets into DeFi",
         pic: "@/assets/logos/OPUL.svg",
       },
-      {
-        name: "Opulous",
-        feed: "https://nitter.zelcore.io/opulousapp/rss",
-        site: "https://twitter.com/opulousapp",
-        about: "$OPUL is launching the next gen of #MFTs & peer-to-peer #DeFi loans to change how artists get funding & connect with fans. Built on @Algorand http://t.me/opulousapp",
-        pic: "@/assets/logos/OPUL.svg",
-      },
     ],
     stblalgo: [
-      {
-        name: "AlgoStable",
-        feed: "https://nitter.zelcore.io/algofiorg/rss",
-        site: "https://twitter.com/algofiorg",
-        about: "Building DeFi that scales on @Algorand. YC S21. Earn interest, borrow, and trade your crypto.",
-        pic: "@/assets/logos/STBL.svg",
-      },
     ],
     fluxalgo: [
       {
@@ -8175,33 +5520,12 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     kaspa: [
       {
         name: "Kaspa Blog",
         feed: "https://hashdag.medium.com/feed",
         site: "https://hashdag.medium.com",
-        about: "Kaspa is a proof-of-work (PoW) cryptocurrency which implements the GHOSTDAG protocol.",
-        pic: "@/assets/logos/KAS.svg",
-      },
-      {
-        name: "Kaspa Twitter",
-        feed: "https://nitter.zelcore.io/CurrencyKaspa/rss",
-        site: "https://twitter.com/CurrencyKaspa",
         about: "Kaspa is a proof-of-work (PoW) cryptocurrency which implements the GHOSTDAG protocol.",
         pic: "@/assets/logos/KAS.svg",
       },
@@ -8221,20 +5545,6 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     usdcgoerli: [
       {
@@ -8248,13 +5558,6 @@ const newssources = {
     zusdtestkda: [],
     zusdkda: [],
     developmentkadena: [
-      {
-        name: "Kadena Twitter",
-        feed: "https://nitter.zelcore.io/kadena_io/rss",
-        site: "https://twitter.com/kadena_io",
-        about: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
-        pic: "@/assets/logos/KDA.svg",
-      },
       {
         name: "Kadena Medium",
         feed: "https://medium.com/feed/kadena-io",
@@ -8272,13 +5575,6 @@ const newssources = {
     ],
     base: [
       {
-        name: "Base Twitter",
-        feed: "https://nitter.zelcore.io/buildonbase/rss",
-        site: "https://twitter.com/buildonbase",
-        about: "A new Ethereum L2, incubated by Coinbase and built on the open-source OP Stack. We have no plans to issue a new network token.",
-        pic: "@/assets/logos/BASE.svg",
-      },
-      {
         name: "Base Reddit",
         feed: "https://www.reddit.com/r/CoinBase/.rss",
         site: "https://www.reddit.com/r/CoinBase",
@@ -8287,13 +5583,6 @@ const newssources = {
       },
     ],
     basegoerli: [
-      {
-        name: "Base Twitter",
-        feed: "https://nitter.zelcore.io/buildonbase/rss",
-        site: "https://twitter.com/buildonbase",
-        about: "A new Ethereum L2, incubated by Coinbase and built on the open-source OP Stack. We have no plans to issue a new network token.",
-        pic: "@/assets/logos/BASE.svg",
-      },
       {
         name: "Base Reddit",
         feed: "https://www.reddit.com/r/CoinBase/.rss",
@@ -8328,29 +5617,8 @@ const newssources = {
         about: "Blog source for all things Flux, officially, from the Zelcore Team.",
         pic: "@/assets/logos/FLUX.svg",
       },
-      {
-        name: "Flux Twitter",
-        feed: "https://nitter.zelcore.io/RunOnFlux/rss",
-        site: "https://twitter.com/RunOnFlux",
-        about: "Official Flux Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
-      {
-        name: "Zelcore Twitter",
-        feed: "https://nitter.zelcore.io/zelcore_io/rss",
-        site: "https://twitter.com/zelcore_io",
-        about: "Official zelcore Twitter.",
-        pic: "@/assets/logos/FLUX.svg",
-      },
     ],
     clore: [
-      {
-        name: "Clore.AI Twitter",
-        feed: "https://nitter.zelcore.io/clore_ai/rss",
-        site: "https://twitter.com/clore_ai",
-        about: "Official Clore.AI Twitter.",
-        pic: "@/assets/logos/CLORE.svg",
-      },
     ],
   },
 };
