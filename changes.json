@@ -1,23 +1,26 @@
 {
-  "version": "7.9.0",
-  "codename": "Apis cerana skorikovi",
+  "version": "8.1.1",
+  "codename": "Powered by Flux",
   "info": [
-    "Version 7.9 comes with major blockchain implementation rework, stability fixes, and various improvements."
+    "Version 8.1.1 represents a major update to Zelcore, incorporating a range of enhancements, bug fixes, and performance improvements. Key updates include a enhanced swaps user interface, enhanced Wallet Connect integration, and various optimizations to boost overall efficiency and user experience."
   ],
   "bugs":[
-    "Updated Solana package and its implementation",
-    "Updated SPL package and its implementation",
-    "Updated Ergo implementation",
-    "Updated Monero implementation",
-    "Updated Ethereum common implementation",
-    "Updated Stellar implementation",
-    "Updated Substrate implementation",
-    "Updated Tron implementation",
-    "Various minor updates of other packages",
-    "Various minor styling & functional fixes"
+    "User Interface Enhancements: Corrected some UI/UX issues.",
+    "XRP Swaps: Resolved an issue causing XRP swaps to fail.",
+    "Algorand Transactions: Fixed a bug that was hindering the receipt of Algorand coins during swaps.",
+    "Wallet Connect Security: Corrected a security rule that was erroneously rejecting certain Wallet Connect transactions."
   ],
   "features": [
-    "Performance optimizations",
-    "General improvements"
+    "Monero Support: Added new dynamic monero endpoint. Additionally added monero support sunsetting notice.",
+    "Sending Support: Reworked Kaspa, Stellar, Onotlogy and Terra sending to support BigNumbers.",
+    "User Interface Enhancements: Comprehensive enhancement of the swaps UI/UX to improve user interaction and visual appeal.",
+    "Wallet Connect Integration: Enhanced integration features a more seamless connection process and improved handling of transactions, fostering a smoother user experience.",
+    "Improved Cardano Support: Updates to the Cardano wallet include better transaction processing and enhanced send functionality.",
+    "Testnet Support: Zelcore now supports Sepolia Base Testnet. Support for Goerli Testnet has been removed.",
+    "Full Node: Full Node binaries updated to latest versions.",
+    "RVN Assets: RVN asset list updated.",
+    "Fees: Base chain fees adjusted.",
+    "Performance Optimizations: Significant under-the-hood enhancements have been implemented, resulting in quicker load times and more fluid transactions.",
+    "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }

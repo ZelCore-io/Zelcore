@@ -1,379 +1,105 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 132 132"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="SerumDEX - Copy.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs16">
-    <clipPath
-       id="clip-path">
-      <path
-         id="Path_472468"
-         data-name="Path 472468"
-         d="m -23726,11620.7 h 35 l 151.172,-60.113 14.584,-23.477 -81.1,-38.415 -124.139,65.448 z"
-         fill="none"
-         stroke="#4770f6"
-         stroke-width="1" />
-    </clipPath>
-    <clipPath
-       id="clip-path-2">
-      <path
-         id="Path_472468-2"
-         data-name="Path 472468"
-         d="m -23529.727,11498.692 h -35 l -151.172,60.113 -14.584,23.477 81.1,38.415 124.139,-65.448 z"
-         transform="translate(23730.482,-11498.692)"
-         fill="none"
-         stroke="#da4dff"
-         stroke-width="1" />
-    </clipPath>
-    <linearGradient
-       id="linear-gradient"
-       x1="195.72391"
-       y1="203.27287"
-       x2="85.646933"
-       y2="203.27287"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.93060024,1.0745753)">
-      <stop
-         offset="0"
-         stop-color="#4171f7"
-         id="stop6" />
-      <stop
-         offset="1"
-         stop-color="#f74bda"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-2"
-       x1="113.43509"
-       y1="224.77711"
-       x2="155.62865"
-       y2="209.94501"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.76027922,1.3153062)">
-      <stop
-         offset="0"
-         stop-color="#f14cdb"
-         stop-opacity="0.031"
-         id="stop11" />
-      <stop
-         offset="0"
-         stop-color="#fff"
-         stop-opacity="0"
-         id="stop13" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity="0.4"
-         id="stop15" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-3"
-       x1="293.20462"
-       y1="207.81755"
-       x2="346.90447"
-       y2="223.54781"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.76051379,1.3149005)">
-      <stop
-         offset="0"
-         stop-color="#231f20"
-         stop-opacity="0.4"
-         id="stop18" />
-      <stop
-         offset="1"
-         stop-color="#231f20"
-         stop-opacity="0"
-         id="stop20" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-4"
-       x1="0.331"
-       y1="2.5469999"
-       x2="0.61000001"
-       y2="3.3469999"
-       gradientUnits="objectBoundingBox">
-      <stop
-         offset="0"
-         stop-color="#eae8fc"
-         id="stop23" />
-      <stop
-         offset="0.52"
-         stop-color="#f7f7fe"
-         id="stop25" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         id="stop27" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-5"
-       x1="0.63599998"
-       y1="2.694"
-       x2="0.36399999"
-       y2="3.349"
-       gradientUnits="objectBoundingBox">
-      <stop
-         offset="0"
-         stop-color="#dad4f4"
-         id="stop30" />
-      <stop
-         offset="0.65"
-         stop-color="#f1effb"
-         id="stop32" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         id="stop34" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-7"
-       x1="158.40653"
-       y1="260.83681"
-       x2="145.48135"
-       y2="291.96179"
-       xlink:href="#linear-gradient-5"
-       gradientTransform="scale(0.75984272,1.3160618)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient-4"
-       id="linearGradient1044"
-       gradientUnits="userSpaceOnUse"
-       x1="335.0054"
-       y1="253.85151"
-       x2="348.26322"
-       y2="291.86674"
-       gradientTransform="scale(0.75984272,1.3160618)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient-5"
-       id="linearGradient1046"
-       gradientUnits="userSpaceOnUse"
-       x1="477.68313"
-       y1="260.83681"
-       x2="464.75795"
-       y2="291.96179"
-       gradientTransform="scale(0.75984272,1.3160618)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient-4"
-       id="linearGradient1048"
-       gradientUnits="userSpaceOnUse"
-       x1="15.728804"
-       y1="253.85151"
-       x2="28.986618"
-       y2="291.86674"
-       gradientTransform="scale(0.75984272,1.3160618)" />
-  </defs>
-  <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="2.2284577"
-     inkscape:cx="9.6479283"
-     inkscape:cy="28.495044"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Сгруппировать_185895" />
-  <g
-     id="Layer_2"
-     data-name="Layer 2">
-    <g
-       id="Layer_1-2"
-       data-name="Layer 1">
-      <g
-         id="Сгруппировать_185902"
-         data-name="Сгруппировать 185902">
-        <g
-           id="Сгруппировать_185895"
-           data-name="Сгруппировать 185895"
-           transform="translate(0.44874085,-0.44874085)">
-          <path
-             id="Прямоугольник_193240"
-             data-name="Прямоугольник 193240"
-             d="m 65.551259,0.44874085 v 0 A 66,66 0 0 1 131.55126,66.448741 v 0 A 66,66 0 0 1 65.551259,132.44874 v 0 A 66,66 0 0 1 -0.44874085,66.448741 v 0 A 66,66 0 0 1 65.551259,0.44874085 Z"
-             fill="#f0b92a"
-             style="fill:#01060d;fill-opacity:1" />
-          <g
-             id="Group_9111"
-             data-name="Group 9111"
-             transform="matrix(0.36986645,0,0,0.36986701,8670.735,-4297.9666)">
-            <g
-               id="Group_9079"
-               data-name="Group 9079"
-               transform="translate(334,153.21)">
-              <g
-                 id="Mask_Group_19"
-                 data-name="Mask Group 19"
-                 clip-path="url(#clip-path)">
-                <g
-                   id="Ellipse_447"
-                   data-name="Ellipse 447"
-                   transform="translate(-23726,11520)"
-                   fill="none"
-                   stroke="#4770f6"
-                   stroke-width="18">
-                  <circle
-                     cx="126"
-                     cy="126"
-                     r="126"
-                     stroke="none"
-                     id="circle41" />
-                  <circle
-                     cx="126"
-                     cy="126"
-                     r="117"
-                     fill="none"
-                     id="circle43" />
-                </g>
-              </g>
-              <path
-                 id="Path_472469"
-                 data-name="Path 472469"
-                 d="m -23704.479,11618.516 -46.578,-0.09 44.363,44.363 a 179.043,179.043 0 0 1 -0.4,-22.588 119.587,119.587 0 0 1 2.615,-21.686 z"
-                 fill="#4770f6" />
-            </g>
-            <g
-               id="Group_9081"
-               data-name="Group 9081"
-               transform="translate(-23340.057,11783.903)">
-              <g
-                 id="Mask_Group_19-2"
-                 data-name="Mask Group 19"
-                 transform="translate(0,42.092)"
-                 clip-path="url(#clip-path-2)">
-                <g
-                   id="Ellipse_447-2"
-                   data-name="Ellipse 447"
-                   transform="translate(-51.244,-151.302)"
-                   fill="none"
-                   stroke="#da4dff"
-                   stroke-width="18">
-                  <circle
-                     cx="126"
-                     cy="126"
-                     r="126"
-                     stroke="none"
-                     id="circle49" />
-                  <circle
-                     cx="126"
-                     cy="126"
-                     r="117"
-                     fill="none"
-                     id="circle51" />
-                </g>
-              </g>
-              <path
-                 id="Path_472469-2"
-                 data-name="Path 472469"
-                 d="m -23751.057,11662.7 46.578,0.09 -44.363,-44.363 a 179.043,179.043 0 0 1 0.4,22.588 119.587,119.587 0 0 1 -2.615,21.686 z"
-                 transform="translate(23930.291,-11618.427)"
-                 fill="#da4dff" />
-            </g>
-            <g
-               id="Group_9080"
-               data-name="Group 9080"
-               transform="translate(-787.373,-2541.164)">
-              <g
-                 id="Group_3861"
-                 data-name="Group 3861"
-                 transform="translate(-22559.867,14275.115)">
-                <path
-                   id="Path_455715"
-                   data-name="Path 455715"
-                   d="m 182.656,90.129 v -59.5 L 131.128,0.9 79.6,30.631 v 59.5 l 51.528,29.769 z"
-                   transform="translate(-50.092,-0.9)"
-                   fill="url(#linear-gradient)"
-                   style="fill:url(#linear-gradient)" />
-                <path
-                   id="Path_455716"
-                   data-name="Path 455716"
-                   d="M 131.091,111.231 79.6,81.5 v 59.35 l 51.491,29.731 z"
-                   transform="translate(-50.092,-51.621)"
-                   opacity="0.56"
-                   fill="url(#linear-gradient-2)"
-                   style="fill:url(#linear-gradient-2)" />
-                <path
-                   id="Path_455717"
-                   data-name="Path 455717"
-                   d="m 218.5,170.517 0.037,0.037 51.528,-29.768 V 81.437 L 270.028,81.4 218.5,111.168 Z"
-                   transform="translate(-137.501,-51.558)"
-                   opacity="0.56"
-                   fill="url(#linear-gradient-3)"
-                   style="fill:url(#linear-gradient-3)" />
-                <path
-                   id="Path_455718"
-                   data-name="Path 455718"
-                   d="M 278.707,118.6 242.6,139.434 V 181.1 l 36.107,20.871 36.106,-20.871 v -41.666 z"
-                   transform="translate(-152.667,-74.968)"
-                   fill="#ffffff" />
-                <path
-                   id="Path_455719"
-                   data-name="Path 455719"
-                   d="M 36.107,118.6 0,139.434 V 181.1 L 36.107,201.971 72.213,181.1 v -41.666 z"
-                   transform="translate(0,-74.968)"
-                   fill="#ffffff" />
-              </g>
-              <path
-                 id="Path_455720"
-                 data-name="Path 455720"
-                 d="M 278.707,160.267 242.6,139.434 278.707,118.6 l 36.107,20.834 z"
-                 transform="translate(-22712.535,14200.146)"
-                 fill="#ffffff" />
-              <path
-                 id="Path_455721"
-                 data-name="Path 455721"
-                 d="M 278.707,237.338 242.6,216.467 V 174.8 l 36.107,20.834 z"
-                 transform="translate(-22712.535,14164.78)"
-                 fill="url(#linear-gradient-4)"
-                 style="fill:url(#linearGradient1044)" />
-              <path
-                 id="Path_455722"
-                 data-name="Path 455722"
-                 d="M 376.107,216.467 340,237.338 v -41.7 L 376.107,174.8 Z"
-                 transform="translate(-22773.826,14164.78)"
-                 fill="url(#linear-gradient-5)"
-                 style="fill:url(#linearGradient1046)" />
-              <path
-                 id="Path_455723"
-                 data-name="Path 455723"
-                 d="M 36.107,160.267 0,139.434 36.107,118.6 72.214,139.434 Z"
-                 transform="translate(-22559.867,14200.146)"
-                 fill="#ffffff" />
-              <path
-                 id="Path_455724"
-                 data-name="Path 455724"
-                 d="M 36.107,237.338 0,216.467 V 174.8 l 36.107,20.834 z"
-                 transform="translate(-22559.867,14164.78)"
-                 fill="url(#linear-gradient-4)"
-                 style="fill:url(#linearGradient1048)" />
-              <path
-                 id="Path_455725"
-                 data-name="Path 455725"
-                 d="M 133.507,216.467 97.4,237.338 v -41.7 L 133.507,174.8 Z"
-                 transform="translate(-22621.162,14164.78)"
-                 fill="url(#linear-gradient-7)"
-                 style="fill:url(#linear-gradient-7)" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg12" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 132 132"
+	 style="enable-background:new 0 0 132 132;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1B63EF;}
+	.st1{clip-path:url(#SVGID_00000157988179712738709070000017076708089130918587_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_00000155108781480734062600000014282802779602962843_);}
+	.st4{fill:none;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:5.3498;}
+	.st6{fill:#FFFFFF;}
+	.st7{clip-path:url(#SVGID_00000151529636726229731240000015318850379570181049_);}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview14" inkscape:current-layer="Сгруппировать_185895" inkscape:cx="9.6479283" inkscape:cy="28.495044" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="2.2284577" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<path class="st0" d="M117,7c4.4,0,8,3.6,8,8v102c0,4.4-3.6,8-8,8H15c-4.4,0-8-3.6-8-8V15c0-4.4,3.6-8,8-8H117 M117,0H15
+	C6.7,0,0,6.7,0,15v102c0,8.3,6.7,15,15,15h102c8.3,0,15-6.7,15-15V15C132,6.7,125.3,0,117,0L117,0z"/>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<defs>
+										<rect id="SVGID_1_" x="46" y="46" width="40" height="40"/>
+									</defs>
+									<clipPath id="SVGID_00000023249865246907139560000014287119489797919129_">
+										<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+									</clipPath>
+									<g style="clip-path:url(#SVGID_00000023249865246907139560000014287119489797919129_);">
+										<path class="st2" d="M66,86c11,0,20-9,20-20s-9-20-20-20s-20,9-20,20S55,86,66,86z M65.3,66.8L64.9,67l0,0v9l-4.1-2.4v1.6
+											c0,0.4,0.3,0.9,0.6,1.1L66,79l0,0l0,0l0,0l0,0l4.5-2.6c0.4-0.2,0.6-0.7,0.6-1.1v-1.6L67,76.1v-9l0,0l-0.4-0.2
+											C66.3,66.6,65.7,66.6,65.3,66.8z M67.7,65.8L67.7,65.8L67.7,65.8l7.1-4.1v4.7l1.4-0.8c0.4-0.2,0.6-0.7,0.6-1.1v-5.2l0,0
+											l0,0l0,0l0,0l-4.5-2.6c-0.4-0.2-0.9-0.2-1.3,0l-1.4,0.8l4.2,2.4L66.6,64v0.4c0,0.4,0.3,0.9,0.6,1.1L67.7,65.8L67.7,65.8
+											L67.7,65.8z M59.7,56.7l-4.5,2.6l0,0l0,0v5.2c0,0.4,0.3,0.9,0.6,1.1l1.4,0.8v-4.7l7.2,4.1l0,0l0,0l0,0l0,0l0.4-0.2
+											c0.4-0.2,0.6-0.7,0.6-1.1V64l0,0l0,0l0,0l-7.1-4.1l0,0l4.1-2.4L61,56.7C60.6,56.4,60,56.4,59.7,56.7z M74.8,67.6
+											c0-0.4,0.3-0.9,0.6-1.1l1.4-0.8v4.8l0,0V72c0,0.4-0.3,0.9-0.6,1.1l-4.5,2.6v-1.6c0-0.4,0.3-0.9,0.6-1.1l2.4-1.4L74.8,67.6
+											L74.8,67.6z M57.2,71.6l2.4,1.4c0.4,0.2,0.6,0.7,0.6,1.1v1.6l-4.5-2.6c-0.4-0.2-0.6-0.7-0.6-1.1v-1.6v-4.8l1.4,0.8
+											c0.4,0.2,0.6,0.7,0.6,1.1L57.2,71.6L57.2,71.6z M60.8,56l3.3-1.9l0,0l1.3-0.7c0.4-0.2,0.9-0.2,1.3,0l4.7,2.7L70,56.9
+											c-0.4,0.2-0.9,0.2-1.3,0L66,55.4l-2.5,1.4c-0.4,0.2-0.9,0.2-1.3,0L60.8,56z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<polygon id="SVGID_00000158747883195527356680000004152784985024348038_" points="28.6,58.4 39,58.4 83.9,40.5 88.3,33.5 
+							64.2,22.1 27.3,41.5 						"/>
+					</defs>
+					<clipPath id="SVGID_00000071555904138523764910000003430312577436184458_">
+						<use xlink:href="#SVGID_00000158747883195527356680000004152784985024348038_"  style="overflow:visible;"/>
+					</clipPath>
+					
+						<g id="Mask_Group_19_00000149355165236507293900000010873734993626260917_" style="clip-path:url(#SVGID_00000071555904138523764910000003430312577436184458_);">
+						<g id="Ellipse_447_00000133530469753244528680000016607469594725138365_" transform="translate(-23726 11520)">
+							<circle class="st4" cx="23792.1" cy="-11454.1" r="37.4"/>
+							<circle class="st5" cx="23792.1" cy="-11454.1" r="34.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path class="st6" d="M34.4,70.9L21.2,57.7H35c-0.5,2.1-0.7,4.3-0.8,6.5C34.1,66.4,34.2,68.6,34.4,70.9z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<polygon id="SVGID_00000000216006580982341260000007599539196878831271_" points="103.4,73.6 93,73.6 48.1,91.5 43.7,98.5 
+							67.8,109.9 104.7,90.5 						"/>
+					</defs>
+					<clipPath id="SVGID_00000106135286837160959370000007253987246436111807_">
+						<use xlink:href="#SVGID_00000000216006580982341260000007599539196878831271_"  style="overflow:visible;"/>
+					</clipPath>
+					
+						<g id="Mask_Group_19_00000114757736267906920030000002183791434012395451_" style="clip-path:url(#SVGID_00000106135286837160959370000007253987246436111807_);">
+						<g id="Ellipse_447_00000019668123109921042760000000650799229752783013_" transform="translate(-23726 11520)">
+							<circle class="st4" cx="23791.9" cy="-11453.9" r="37.4"/>
+							<circle class="st5" cx="23791.9" cy="-11453.9" r="34.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path class="st6" d="M97.6,61.1l13.2,13.2H97c0.5-2.1,0.7-4.3,0.8-6.5C97.9,65.6,97.8,63.4,97.6,61.1z"/>
+	</g>
+</g>
 </svg>

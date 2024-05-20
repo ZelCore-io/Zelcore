@@ -1,285 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Layer_1"
-   data-name="Layer 1"
-   viewBox="0 0 1937.9368 352.83249"
-   version="1.1"
-   width="1937.9368"
-   height="352.83249"
-   sodipodi:docname="logo_text_dark_bg.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview41"
-     showgrid="false"
-     inkscape:zoom="0.53768524"
-     inkscape:cx="968.96838"
-     inkscape:cy="176.41624"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="text1992" />
-  <metadata
-     id="metadata64">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs35">
-    <linearGradient
-       id="linear-gradient"
-       x1="356.07999"
-       y1="587.71997"
-       x2="79.980003"
-       y2="587.71997"
-       gradientTransform="translate(0.2,-426.32)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#4171f7"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#f74bda"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-2"
-       x1="97.559998"
-       y1="659.10999"
-       x2="184.10001"
-       y2="606.57001"
-       gradientTransform="translate(0.2,-426.32)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#f14cdb"
-         stop-opacity="0.03"
-         id="stop7" />
-      <stop
-         offset="0"
-         stop-color="#fff"
-         stop-opacity="0"
-         id="stop9" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity="0.4"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-3"
-       x1="230.55"
-       y1="599.04999"
-       x2="340.79001"
-       y2="654.69"
-       gradientTransform="translate(0.2,-426.32)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#231f20"
-         stop-opacity="0.4"
-         id="stop14" />
-      <stop
-         offset="1"
-         stop-color="#231f20"
-         stop-opacity="0"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-4"
-       x1="274.82001"
-       y1="604.48999"
-       x2="301.98001"
-       y2="739.5"
-       gradientTransform="translate(0.2,-426.32)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#eae8fc"
-         id="stop19" />
-      <stop
-         offset="0.52"
-         stop-color="#f7f7fe"
-         id="stop21" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         id="stop23" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-5"
-       x1="401.92999"
-       y1="629.20001"
-       x2="375.48999"
-       y2="739.85999"
-       gradientTransform="translate(0.2,-426.32)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#dad4f4"
-         id="stop26" />
-      <stop
-         offset="0.65"
-         stop-color="#f1effb"
-         id="stop28" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         id="stop30" />
-    </linearGradient>
-    <linearGradient
-       id="linear-gradient-6"
-       x1="32.220001"
-       y1="604.48999"
-       x2="59.380001"
-       y2="739.5"
-       xlink:href="#linear-gradient-4" />
-    <linearGradient
-       id="linear-gradient-7"
-       x1="159.33"
-       y1="629.20001"
-       x2="132.89999"
-       y2="739.85999"
-       xlink:href="#linear-gradient-5" />
-    <linearGradient
-       xlink:href="#linear-gradient-4"
-       id="linearGradient971"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.2,-426.32)"
-       x1="274.82001"
-       y1="604.48999"
-       x2="301.98001"
-       y2="739.5" />
-    <linearGradient
-       xlink:href="#linear-gradient-5"
-       id="linearGradient973"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.2,-426.32)"
-       x1="401.92999"
-       y1="629.20001"
-       x2="375.48999"
-       y2="739.85999" />
-  </defs>
-  <g
-     id="g47"
-     transform="translate(0,9.3324991)">
-    <polygon
-       points="79.6,241.6 218.6,321.9 357.6,241.6 357.6,81.1 218.6,0.9 79.6,81.1 "
-       fill="url(#linear-gradient)"
-       id="polygon37"
-       style="fill:url(#linear-gradient)" />
-    <polygon
-       points="218.5,161.7 79.6,81.5 79.6,241.6 218.5,321.8 "
-       opacity="0.56"
-       fill="url(#linear-gradient-2)"
-       style="isolation:isolate;fill:url(#linear-gradient-2)"
-       id="polygon39" />
-    <polygon
-       points="357.5,81.4 218.5,161.7 218.5,321.8 218.6,321.9 357.6,241.6 357.6,81.5 "
-       opacity="0.56"
-       fill="url(#linear-gradient-3)"
-       style="isolation:isolate;fill:url(#linear-gradient-3)"
-       id="polygon41" />
-    <polygon
-       points="437.4,287.2 437.4,174.8 340,118.6 242.6,174.8 242.6,287.2 340,343.5 "
-       fill="#ffffff"
-       id="polygon43" />
-    <polygon
-       points="194.8,287.2 194.8,174.8 97.4,118.6 0,174.8 0,287.2 97.4,343.5 "
-       fill="#ffffff"
-       id="polygon45" />
-  </g>
-  <polygon
-     points="340,231 242.6,174.8 340,118.6 437.4,174.8 "
-     fill="#ffffff"
-     id="polygon49"
-     transform="translate(0,9.3324991)" />
-  <polygon
-     points="340,343.5 242.6,287.2 242.6,174.8 340,231 "
-     fill="url(#linear-gradient-4)"
-     id="polygon51"
-     style="fill:url(#linearGradient971)"
-     transform="translate(0,9.3324991)" />
-  <polygon
-     points="437.4,287.2 340,343.5 340,231 437.4,174.8 "
-     fill="url(#linear-gradient-5)"
-     id="polygon53"
-     style="fill:url(#linearGradient973)"
-     transform="translate(0,9.3324991)" />
-  <polygon
-     points="97.4,231 0,174.8 97.4,118.6 194.8,174.8 "
-     fill="#ffffff"
-     id="polygon55"
-     transform="translate(0,9.3324991)" />
-  <polygon
-     points="97.4,343.5 0,287.2 0,174.8 97.4,231 "
-     fill="url(#linear-gradient-6)"
-     id="polygon57"
-     style="fill:url(#linear-gradient-6)"
-     transform="translate(0,9.3324991)" />
-  <polygon
-     points="194.8,287.2 97.4,343.5 97.4,231 194.8,174.8 "
-     fill="url(#linear-gradient-7)"
-     id="polygon59"
-     style="fill:url(#linear-gradient-7)"
-     transform="translate(0,9.3324991)" />
-  <g
-     aria-label="zelcore"
-     transform="scale(0.99981514,1.0001849)"
-     id="text1992"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke:none;stroke-width:0.541168">
-    <path
-       d="m 679.09832,256.79999 v 40 h -184.4 v -31.6 l 117.2,-142 h -114.8 V 83.199988 h 178.8 v 31.600002 l -117.6,142 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path866" />
-    <path
-       d="m 922.69763,191.19999 q 0,5.2 -0.8,14.8 h -167.6 q 4.4,23.6 22.8,37.6 18.8,13.6 46.4,13.6 35.2,0 58,-23.2 l 26.8,30.8 q -14.4,17.2 -36.4,26 -22,8.8 -49.6,8.8 -35.2,0 -62,-14 -26.8,-14 -41.6,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.2 14,-56 14.4,-25.2 39.6,-39.200002 25.2,-14 56.8,-14 31.2,0 55.6,14 24.8,13.600002 38.4,38.800002 14,24.8 14,57.6 z m -108,-70.4 q -24,0 -40.8,14.4 -16.4,14 -20,37.6 h 121.2 q -3.2,-23.2 -19.6,-37.6 -16.4,-14.4 -40.8,-14.4 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path868" />
-    <path
-       d="m 970.69752,-1.2207031e-5 h 49.99998 V 296.79999 h -49.99998 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path870" />
-    <path
-       d="m 1184.2973,299.59999 q -33.2,0 -59.6,-14 -26.4,-14 -41.2,-38.8 -14.8,-25.2 -14.8,-56.8 0,-31.6 14.8,-56.4 14.8,-24.8 40.8,-38.800002 26.4,-14 60,-14 31.6,0 55.2,12.8 24,12.800002 36,36.800002 l -38.4,22.4 q -9.2,-14.8 -23.2,-22 -13.6,-7.6 -30,-7.6 -28,0 -46.4,18.4 -18.4,18 -18.4,48.4 0,30.4 18,48.8 18.4,18 46.8,18 16.4,0 30,-7.2 14,-7.6 23.2,-22.4 l 38.4,22.4 q -12.4,24 -36.4,37.2 -23.6,12.8 -54.8,12.8 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path872" />
-    <path
-       d="m 1411.4966,299.59999 q -32.4,0 -58.4,-14 -26,-14 -40.8,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.6 14.4,-56.4 14.8,-24.8 40.8,-38.800002 26,-14 58.4,-14 32.8,0 58.8,14 26,14.000002 40.4,38.800002 14.8,24.8 14.8,56.4 0,31.6 -14.8,56.8 -14.4,24.8 -40.4,38.8 -26,14 -58.8,14 z m 0,-42.8 q 27.6,0 45.6,-18.4 18,-18.4 18,-48.4 0,-30 -18,-48.4 -18,-18.4 -45.6,-18.4 -27.6,0 -45.6,18.4 -17.6,18.4 -17.6,48.4 0,30 17.6,48.4 18,18.4 45.6,18.4 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path874" />
-    <path
-       d="m 1621.096,114.39999 q 21.6,-33.600002 76,-33.600002 v 47.600002 q -6.4,-1.2 -11.6,-1.2 -29.2,0 -45.6,17.2 -16.4,16.8 -16.4,48.8 v 103.6 h -50 V 83.199988 h 47.6 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path876" />
-    <path
-       d="m 1938.2951,191.19999 q 0,5.2 -0.8,14.8 h -167.6 q 4.4,23.6 22.8,37.6 18.8,13.6 46.4,13.6 35.2,0 58,-23.2 l 26.8,30.8 q -14.4,17.2 -36.4,26 -22,8.8 -49.6,8.8 -35.2,0 -62,-14 -26.8,-14 -41.6,-38.8 -14.4,-25.2 -14.4,-56.8 0,-31.2 14,-56 14.4,-25.2 39.6,-39.200002 25.2,-14 56.8,-14 31.2,0 55.6,14 24.8,13.600002 38.4,38.800002 14,24.8 14,57.6 z m -108,-70.4 q -24,0 -40.8,14.4 -16.4,14 -20,37.6 h 121.2 q -3.2,-23.2 -19.6,-37.6 -16.4,-14.4 -40.8,-14.4 z"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:400px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#da4dfc;fill-opacity:1;stroke-width:0.541168"
-       id="path878" />
-  </g>
+<svg width="1080" height="246" viewBox="0 0 1080 246" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M378.528 160.623V182.915H275.803V165.305L341.093 86.1703H277.14V63.8789H376.746V81.4891L311.233 160.623H378.528Z" fill="white"/>
+<path d="M514.232 124.066C514.232 125.998 514.084 128.747 513.786 132.313H420.42C422.054 141.081 426.288 148.066 433.122 153.267C440.104 158.32 448.72 160.846 458.97 160.846C472.043 160.846 482.813 156.537 491.28 147.917L506.21 165.082C500.862 171.472 494.103 176.302 485.933 179.571C477.762 182.84 468.552 184.475 458.301 184.475C445.229 184.475 433.716 181.875 423.763 176.673C413.81 171.472 406.085 164.264 400.588 155.051C395.24 145.688 392.566 135.137 392.566 123.397C392.566 111.805 395.166 101.403 400.365 92.189C405.713 82.8266 413.067 75.5448 422.426 70.3435C431.785 65.1422 442.332 62.5415 454.068 62.5415C465.655 62.5415 475.979 65.1422 485.041 70.3435C494.252 75.3962 501.382 82.6037 506.433 91.9661C511.632 101.18 514.232 111.88 514.232 124.066ZM454.068 84.8329C445.154 84.8329 437.578 87.5078 431.339 92.8577C425.248 98.0591 421.534 105.044 420.197 113.812H487.715C486.527 105.192 482.887 98.2077 476.796 92.8577C470.706 87.5078 463.129 84.8329 454.068 84.8329Z" fill="white"/>
+<path d="M540.973 17.5132H568.827V182.915H540.973V17.5132Z" fill="white"/>
+<path d="M659.965 184.476C647.635 184.476 636.567 181.875 626.763 176.674C616.958 171.472 609.308 164.265 603.811 155.051C598.315 145.689 595.566 135.137 595.566 123.397C595.566 111.657 598.315 101.18 603.811 91.9666C609.308 82.7528 616.884 75.5453 626.54 70.344C636.344 65.1426 647.486 62.542 659.965 62.542C671.7 62.542 681.951 64.9197 690.715 69.6752C699.629 74.4307 706.313 81.2667 710.77 90.1833L689.378 102.666C685.962 97.1679 681.654 93.0811 676.454 90.4062C671.403 87.5826 665.833 86.1708 659.742 86.1708C649.343 86.1708 640.727 89.5888 633.893 96.4248C627.06 103.112 623.643 112.103 623.643 123.397C623.643 134.692 626.986 143.757 633.671 150.593C640.504 157.28 649.194 160.624 659.742 160.624C665.833 160.624 671.403 159.286 676.454 156.611C681.654 153.788 685.962 149.627 689.378 144.128L710.77 156.611C706.165 165.528 699.406 172.438 690.492 177.342C681.728 182.098 671.552 184.476 659.965 184.476Z" fill="white"/>
+<path d="M786.532 184.475C774.499 184.475 763.655 181.875 753.999 176.673C744.343 171.472 736.766 164.264 731.27 155.051C725.922 145.688 723.248 135.137 723.248 123.397C723.248 111.657 725.922 101.18 731.27 91.9661C736.766 82.7523 744.343 75.5448 753.999 70.3435C763.655 65.1422 774.499 62.5415 786.532 62.5415C798.713 62.5415 809.632 65.1422 819.288 70.3435C828.944 75.5448 836.446 82.7523 841.794 91.9661C847.291 101.18 850.039 111.657 850.039 123.397C850.039 135.137 847.291 145.688 841.794 155.051C836.446 164.264 828.944 171.472 819.288 176.673C809.632 181.875 798.713 184.475 786.532 184.475ZM786.532 160.623C796.782 160.623 805.25 157.205 811.935 150.369C818.62 143.533 821.962 134.543 821.962 123.397C821.962 112.251 818.62 103.26 811.935 96.4244C805.25 89.5883 796.782 86.1703 786.532 86.1703C776.282 86.1703 767.814 89.5883 761.129 96.4244C754.593 103.26 751.325 112.251 751.325 123.397C751.325 134.543 754.593 143.533 761.129 150.369C767.814 157.205 776.282 160.623 786.532 160.623Z" fill="white"/>
+<path d="M903.295 81.2667C911.317 68.7836 925.43 62.542 945.633 62.542V89.0687C943.256 88.6229 941.102 88.4 939.171 88.4C928.327 88.4 919.859 91.5951 913.768 97.9852C907.678 104.227 904.632 113.292 904.632 125.181V182.915H876.778V63.8795H903.295V81.2667Z" fill="white"/>
+<path d="M1080 124.066C1080 125.998 1079.85 128.747 1079.55 132.314H986.188C987.822 141.082 992.056 148.066 998.889 153.268C1005.87 158.32 1014.49 160.847 1024.74 160.847C1037.81 160.847 1048.58 156.537 1057.05 147.918L1071.98 165.082C1066.63 171.472 1059.87 176.302 1051.7 179.572C1043.53 182.841 1034.32 184.476 1024.07 184.476C1011 184.476 999.483 181.875 989.53 176.674C979.577 171.472 971.852 164.265 966.356 155.051C961.008 145.689 958.334 135.137 958.334 123.397C958.334 111.806 960.934 101.403 966.133 92.1895C971.481 82.8271 978.834 75.5453 988.193 70.344C997.552 65.1426 1008.1 62.542 1019.84 62.542C1031.42 62.542 1041.75 65.1426 1050.81 70.344C1060.02 75.3967 1067.15 82.6042 1072.2 91.9666C1077.4 101.18 1080 111.88 1080 124.066ZM1019.84 84.8333C1010.92 84.8333 1003.35 87.5083 997.107 92.8582C991.016 98.0595 987.302 105.044 985.965 113.812H1053.48C1052.29 105.193 1048.65 98.2082 1042.56 92.8582C1036.47 87.5083 1028.9 84.8333 1019.84 84.8333Z" fill="white"/>
+<circle cx="122.58" cy="123.378" r="122.58" fill="#1B63EF"/>
+<path d="M116.067 129.797L118.444 128.425C120.615 127.172 124.136 127.172 126.307 128.425L128.683 129.797L122.375 133.439L116.067 129.797Z" fill="white"/>
+<path d="M116.091 129.808L122.399 133.45L122.399 188.809L116.091 185.167L116.091 129.808Z" fill="white"/>
+<path d="M122.209 133.469L128.517 129.827L128.517 185.186L122.209 188.828L122.209 133.469Z" fill="white"/>
+<path d="M122.501 188.652L154.042 170.442L154.042 180.47C154.042 182.977 152.281 186.026 150.11 187.28L122.501 203.22L122.501 188.652Z" fill="white"/>
+<path d="M91.0332 170.442L122.574 188.652L122.574 203.22L94.9649 187.28C92.7935 186.026 91.0332 182.977 91.0332 180.47L91.0332 170.442Z" fill="white"/>
+<path d="M126.578 111.441L132.886 115.083L132.886 122.367L130.51 120.995C128.338 119.742 126.578 116.693 126.578 114.185L126.578 111.441Z" fill="white"/>
+<path d="M126.578 111.441L170.735 85.9474L177.043 89.5894L132.886 115.083L126.578 111.441Z" fill="white"/>
+<path d="M144.934 71.3799L153.618 66.3659C155.79 65.1122 159.31 65.1122 161.482 66.3659L189.091 82.3059L176.474 89.5899L144.934 71.3799Z" fill="white"/>
+<path d="M132.697 115.075L176.854 89.5807L176.854 96.8647L132.697 122.359L132.697 115.075Z" fill="white"/>
+<path d="M176.4 89.4438L189.017 82.1598L189.017 114.04C189.017 116.547 187.256 119.596 185.085 120.85L176.4 125.864L176.4 89.4438Z" fill="white"/>
+<path d="M56.0684 82.0142L83.6773 66.0742C85.8487 64.8205 89.3693 64.8205 91.5408 66.0742L100.225 71.0882L68.6846 89.2982L56.0684 82.0142Z" fill="white"/>
+<path d="M112.593 114.646L118.901 111.004L118.901 113.748C118.901 116.256 117.141 119.305 114.969 120.558L112.593 121.93L112.593 114.646Z" fill="white"/>
+<path d="M68.5977 89.1523L112.755 114.646L112.755 121.93L68.5977 96.4363L68.5977 89.1523Z" fill="white"/>
+<path d="M56.0684 81.8687L68.6846 89.1527L68.6846 125.573L60.0001 120.559C57.8287 119.305 56.0684 116.256 56.0684 113.749L56.0684 81.8687Z" fill="white"/>
+<path d="M68.7942 89.4118C68.6857 89.3492 68.6857 89.2475 68.7942 89.1848L74.7092 85.7698C74.8178 85.7072 74.9938 85.7072 75.1024 85.7698L118.866 111.037C118.975 111.1 118.975 111.201 118.866 111.264L112.951 114.679C112.843 114.742 112.667 114.742 112.558 114.679L68.7942 89.4118Z" fill="white"/>
+<path d="M176.4 133.026C176.4 130.519 178.16 127.47 180.331 126.216L189.016 121.202L189.016 150.338L176.4 157.622L176.4 133.026Z" fill="white"/>
+<path d="M157.461 172.951C157.461 170.443 159.221 167.394 161.393 166.141L189.001 150.201L189.001 160.229C189.001 162.736 187.241 165.785 185.07 167.039L157.461 182.979L157.461 172.951Z" fill="white"/>
+<path d="M56.0684 150.338L83.6773 166.278C85.8487 167.532 87.609 170.581 87.609 173.088L87.609 183.116L60.0001 167.176C57.8287 165.923 56.0684 162.874 56.0684 160.366L56.0684 150.338Z" fill="white"/>
+<path d="M56.0684 121.202L64.7529 126.216C66.9243 127.47 68.6846 130.519 68.6846 133.026L68.6846 157.622L56.0684 150.338L56.0684 121.202Z" fill="white"/>
+<path d="M90.4491 62.0562L110.635 50.4017L123.251 57.6858L106.997 67.0702C104.826 68.3238 101.305 68.3238 99.1336 67.0702L90.4491 62.0562Z" fill="white"/>
+<path d="M109.679 50.9849L118.363 45.9709C120.535 44.7172 124.056 44.7172 126.227 45.9709L155.097 62.6393L146.413 67.6533C144.242 68.907 140.721 68.907 138.549 67.6533L109.679 50.9849Z" fill="white"/>
 </svg>

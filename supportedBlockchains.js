@@ -382,13 +382,6 @@ const supportedBlockchains = {
     hasTokens: false,
     unit: "TESTKDA",
   },
-  testnetropstenethereum: {
-    coin: "testnetropstenethereum",
-    name: "Testnet Goerli Ethereum",
-    family: "goerli",
-    hasTokens: false,
-    unit: "TESTETH",
-  },
   testnetsepoliaethereum: {
     coin: "testnetsepoliaethereum",
     name: "Testnet Sepolia Ethereum",

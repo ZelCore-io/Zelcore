@@ -1,20 +1,21 @@
-<svg id="FTX" xmlns="http://www.w3.org/2000/svg" width="132" height="132" viewBox="0 0 132 132">
-  <g id="Layer_1" data-name="Layer 1">
-    <g id="full-wrapp">
-      <g id="wrapp">
-        <g id="bg">
-          <path id="bg-line" d="M66,0h0a66,66,0,0,1,66,66h0a66,66,0,0,1-66,66h0A66,66,0,0,1,0,66H0A66,66,0,0,1,66,0Z" fill="#4adef2"/>
-          <path id="bg-circle" d="M66,10h0a56,56,0,0,1,56,56h0a56,56,0,0,1-56,56h0A56,56,0,0,1,10,66h0A56,56,0,0,1,66,10Z" fill="#1d1d1d"/>
-        </g>
-        <g id="Layer_2" data-name="Layer 2" transform="translate(28.739 37.058)">
-          <g id="Layer_1-2" data-name="Layer 1" transform="translate(0 0)">
-            <path id="Path_472521" data-name="Path 472521" d="M565.3,0Q590.818,0,616.34,0q.008,8.249,0,16.494-25.519.008-51.04,0Q565.291,8.25,565.3,0Z" transform="translate(-545.182 0)" fill="#fff"/>
-            <path id="Path_472522" data-name="Path 472522" d="M.021,637.521q8.233-.043,16.469,0,.043,8.233,0,16.469-8.235.042-16.469,0Q-.021,645.757.021,637.521Z" transform="translate(0 -614.818)" fill="#fff"/>
-            <path id="Path_472523" data-name="Path 472523" d="M565.249,637.57q18.419-.039,36.835,0,.039,8.233,0,16.469-18.419.038-36.835,0Q565.211,645.8,565.249,637.57Z" transform="translate(-545.119 -614.866)" fill="#fff"/>
-            <path id="Path_472524" data-name="Path 472524" d="M565.1,1275.02q8.219-.089,16.435,0,.085,8.214,0,16.435-8.219.081-16.435,0Q565.018,1283.239,565.1,1275.02Z" transform="translate(-544.955 -1229.611)" fill="#fff"/>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="FTX" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 132 132" style="enable-background:new 0 0 132 132;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1B63EF;}
+</style>
+<g id="Layer_1-2" transform="translate(0 0)">
+	<path id="Path_472521" class="st0" d="M50.6,35.1c17,0,34,0,51,0c0,5.5,0,11,0,16.5c-17,0-34,0-51,0C50.6,46.1,50.6,40.6,50.6,35.1
+		z"/>
+	<path id="Path_472522" class="st0" d="M30.5,57.8c5.5,0,11,0,16.5,0c0,5.5,0,11,0,16.5c-5.5,0-11,0-16.5,0
+		C30.4,68.7,30.4,63.3,30.5,57.8z"/>
+	<path id="Path_472523" class="st0" d="M50.6,57.8c12.3,0,24.6,0,36.8,0c0,5.5,0,11,0,16.5c-12.3,0-24.6,0-36.8,0
+		C50.5,68.7,50.5,63.2,50.6,57.8z"/>
+	<path id="Path_472524" class="st0" d="M50.6,80.5c5.5-0.1,11-0.1,16.4,0c0.1,5.5,0.1,11,0,16.4c-5.5,0.1-11,0.1-16.4,0
+		C50.5,91.4,50.5,85.9,50.6,80.5z"/>
+</g>
+<path class="st1" d="M117,7c4.4,0,8,3.6,8,8v102c0,4.4-3.6,8-8,8H15c-4.4,0-8-3.6-8-8V15c0-4.4,3.6-8,8-8H117 M117,0H15
+	C6.7,0,0,6.7,0,15v102c0,8.3,6.7,15,15,15h102c8.3,0,15-6.7,15-15V15C132,6.7,125.3,0,117,0L117,0z"/>
 </svg>

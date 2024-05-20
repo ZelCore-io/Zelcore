@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="图层_1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 132 132"
+	 style="enable-background:new 0 0 132 132;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1B63EF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#1B63EF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview7" inkscape:current-layer="图层_1" inkscape:cx="28.923253" inkscape:cy="276.91867" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1361" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="1.746" pagecolor="#ffffff" showgrid="false" width="132px">
+	</sodipodi:namedview>
+<g id="编组">
+	<g id="Clip-2">
+	</g>
+</g>
+<path class="st0" d="M117,7c4.4,0,8,3.6,8,8v102c0,4.4-3.6,8-8,8H15c-4.4,0-8-3.6-8-8V15c0-4.4,3.6-8,8-8H117 M117,0H15
+	C6.7,0,0,6.7,0,15v102c0,8.3,6.7,15,15,15h102c8.3,0,15-6.7,15-15V15C132,6.7,125.3,0,117,0L117,0z"/>
+<g>
+	<polygon id="Fill-3" class="st1" points="66,66 85.2,66 85.2,46.7 66,46.7 	"/>
+	<path id="Fill-1" class="st1" d="M66,85.2c-10.6,0-19.3-8.6-19.3-19.3S55.4,46.8,66,46.8V31c-19.3,0-35,15.7-35,35s15.7,35,35,35
+		s35-15.7,35-35H85.3C85.3,76.6,76.6,85.2,66,85.2"/>
+</g>
+</svg>
