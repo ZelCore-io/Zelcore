@@ -1,6 +1,107 @@
 
 # Changelog
 
+## [8.5.0] - Powered by Flux
+
+We are thrilled to announce Version 8.5 of our wallet, bringing you new features and important fixes to enhance your experience and broaden your asset management capabilities. Here’s what’s new:
+
+### Added
+- **Alephium Blockchain Support:** We have added native support for the Alephium blockchain, allowing users to manage and transact with Alephium coin directly within the wallet.
+- **Fantom Blockchain Support:** Users can now manage assets on the Fantom blockchain, with support for the following tokens:
+  - USDC
+  - USDC.E
+  - DAI
+- **New Tokens:** We've expanded our token support with the addition of the following tokens:
+  - Bonk ERC20
+  - Render ERC20
+  - Brett BASE
+- **UI Chain Indicator:** A new chain indicator icon has been added to the user interface to enhance the user experience by clearly displaying the blockchain a token belongs to.
+
+### Fixed
+- **BitPay Implementation Bug:** A bug in the BitPay integration that was preventing proper propagation has been resolved, ensuring smoother transactions.
+- **Ripple (XRP) Transaction Fetching Issue:** We’ve fixed an issue that was causing problems in fetching Ripple (XRP) transactions, improving reliability.
+
+### Updated
+- **Node Binaries (Desktop):** The node binaries for the desktop version have been updated to the latest versions, ensuring compatibility and performance improvements.
+- **Packages:** Various packages have been updated to improve security and performance.
+- **Ravencoin Asset List:** The asset list for Ravencoin has been updated, providing the latest information for asset management.
+
+## [8.4.2] - Powered by Flux
+We are thrilled to announce Version 8.4 of our wallet, bringing you new features and important fixes to enhance your experience and broaden your asset management capabilities. Here’s what’s new:
+### Fixed
+- **Swap Token Inconsistency:** Resolved an issue that caused swaps to result in a smaller amount than requested.
+
+### Added
+- **Alephium ERC20 Support**: We are pleased to announce support for the Alephium ERC20 token.
+- **Extended Swap UI**: We have added a feature that allows you to view and select zero-balance assets to preview swap rates.
+
+## [8.4.1] - Powered by Flux
+We are thrilled to announce Version 8.4 of our wallet, bringing you new features and important fixes to enhance your experience and broaden your asset management capabilities. Here’s what’s new:
+### Fixed
+- **Security Update**: Updated security configurations and packages.
+
+## [8.4.0] - Powered by Flux
+We are thrilled to announce Version 8.4.0 of our wallet, bringing you new features and important fixes to enhance your experience and broaden your asset management capabilities. Here’s what’s new:
+
+### Added
+- **Replace by Fee Functionality for Bitcoin and Litecoin:** Users can now take advantage of the replace by fee (RBF) feature for Bitcoin and Litecoin transactions, allowing for increased flexibility in managing transaction fees and confirmation times.
+- **Arbitrum Chain Support:** We have added support for the Arbitrum chain, enabling users to manage assets on this layer-2 scaling solution for Ethereum. The supported tokens include:
+  - ARB
+  - USDC.E
+  - DAI
+  - USDT
+- **New Tokens:** We've expanded our token support with the addition of the following tokens:
+  - Pepe ERC20
+  - Floki ERC20
+  - Floki BEP20
+  - Turbo ERC20
+
+### Fixed
+- **Broadcasting Cardano Transaction Issue:** A issue with Cardano that prevented sending from some accounts has been resolved, ensuring seamless transactions.
+- **Improved Cardano Private Key Export:** The functionality for exporting private keys for Cardano has been improved, providing a more reliable and user-friendly experience.
+
+## [8.3.1] - Powered by Flux
+
+### Added
+- **Added Spam Filter on NFTs:** We have introduced a spam filter on NFTs to prevent unwanted or malicious content from being displayed in your wallet.
+### Changed
+- **Rework of SignMessaage:** We have reworked the SignMessage feature to provide a more intuitive and user-friendly experience, making it easier to sign messages and verify ownership of your addresses.
+- **Updated LUNAC backends:** We have updated the LUNAC backends ensuring a more reliable connection to the network.",
+
+## [8.3.0] - Powered by Flux
+We're excited to announce Version 8.3.0 of our wallet, featuring a range of significant updates and improvements aimed at enhancing your user experience and security. Here’s what’s new:
+
+### Added
+- **Bitcoin and Litecoin Taproot Accounts:** Users can now create and manage Taproot accounts for both Bitcoin and Litecoin, enhancing the privacy and efficiency of your transactions.
+- **Bitcoin, Litecoin, and Digibyte Native Segwit Accounts:** We've added support for native Segwit accounts for Bitcoin, Litecoin, and Digibyte, offering lower transaction fees and improved processing times.
+- **Karate Combat Token (ERC20):** The Karate Combat token has been added as an ERC20 token, expanding the range of assets you can manage within our wallet.
+
+### Changed
+- **Renaming of Bitcoin, Litecoin, and Digibyte P2PKH Accounts to Legacy:** To reflect industry standards and improve clarity, Bitcoin, Litecoin, and Digibyte P2PKH accounts have been renamed to legacy accounts.
+- **Major Refactor on UTXO Coin Support:** We have undertaken a significant refactor of our UTXO coin support. This involves updating the underlying libraries, implementing additional security measures, and enhancing error reporting to provide a more robust and secure user experience.
+- **Beldex Coin**: Beldex coin has been added with an updated implementation and upgraded infrastructure, providing improved performance and stability.
+
+### Fixed
+- **Various Minor Bug Fixes:** A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet.
+
+## [8.2.0] - Powered by Flux
+We're excited to announce Version 8.2.0 of our wallet, featuring a range of significant updates and improvements aimed at enhancing your user experience and security. Here’s what’s new:
+
+### Changed
+- **Full Rework of UI/UX on the Security Section**: The security section has been completely redesigned, resulting in a more intuitive and user-friendly interface. This overhaul includes performance boosts and enhanced security measures, ensuring a safer and smoother experience for all users.
+- **Introduction of FluxID**: We are pleased to introduce FluxID, an update from the previous ZelID system. FluxID brings improvements to our identity management capabilities, offering a better user experience.
+
+### Added
+- **Multiple EasyLogin Accounts**: Users now have the ability to enable and manage multiple EasyLogin accounts. This feature provides greater flexibility and control over your login credentials, making account management more convenient than ever.
+- **New EasyLogin System with Strong Biometrics**: The new EasyLogin system now leverages strong biometrics wherever supported, providing an additional layer of security for your account. This system ensures that your login process is both secure and effortless.
+- **BigNumber Support for UTXO Transactions**: We've implemented BigNumber support for UTXO transactions, ensuring higher accuracy and reliability in your transaction processes. This update enhances the precision of your transactions, making your digital asset management more dependable.
+- **Backend Change for BitcoinCash to Blockbook**: To improve availability and stability, we have switched the backend for BitcoinCash transactions to Blockbook. This change ensures a more reliable and robust service for managing your BitcoinCash assets.
+- **Buy Crypto Button**: A new 'Buy Crypto' button has been added to various sections within the wallet, aimed at increasing user ease and improving the overall experience. This feature simplifies the process of purchasing cryptocurrencies, making it more accessible for all users.
+- **New Binance Smart Chain Contract for TrueUSD BEP20**: We have integrated the new Binance Smart Chain contract for TrueUSD BEP20. The previous contract will now be labeled as TrueUSD OLD BEP20, ensuring clear differentiation and easier management of your TrueUSD assets.
+
+### Fixed
+- **White Screen Bug Fix for FIO Naming Schema**: A bug that caused a white screen when interacting with the FIO naming schema has been fixed, ensuring a smoother and uninterrupted user experience.
+
 ## [8.1.1] - Powered by Flux
 - Version 8.1.1 represents a major update to Zelcore, incorporating a range of enhancements, bug fixes, and performance improvements. Key updates include a enhanced swaps user interface, enhanced Wallet Connect integration, and various optimizations to boost overall efficiency and user experience.
 
@@ -188,7 +289,7 @@
 ### Fixed
 - Updated XRP implementation to fix issue with balance and transactions not showing
 - Fixed issue with ERC20 token transactions appearing as ETH transactions
-- Fixed issue of ZELID browser button not openning ZELID signing dialog in UBUNTU 22
+- Fixed issue of FLUXID browser button not openning FLUXID signing dialog in UBUNTU 22
 
 ## [7.7.1] - Apis cerana javana
 ### Added
