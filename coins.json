@@ -62393,6 +62393,127 @@
       "https://api.mainnet-beta.solana.com"
     ]
   },
+  "dogwifhatsol": {
+    "coin": "dogwifhatsol",
+    "name": "Dogwifhat SPL",
+    "uri": [
+      "dogwifhat",
+      "wif"
+    ],
+    "slip": 501,
+    "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "addresses": [
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "transactions": []
+      }
+    ],
+    "unit": "WIF",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WIF.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#fbc31b",
+    "decimals": 6,
+    "explorer": [
+      "https://explorer.solana.com/tx/",
+      "https://solanascan.io/txn/",
+      "https://solanabeach.io/transaction/"
+    ],
+    "node": [
+      "node.sol.zelcore.io",
+      "api.mainnet-beta.solana.com"
+    ],
+    "api": [
+      "https://node.sol.zelcore.io",
+      "https://api.mainnet-beta.solana.com"
+    ]
+  },
   "babena": {
     "coin": "babena",
     "name": "Babena KDA Token",
@@ -75195,6 +75316,734 @@
     ],
     "api": [
       "https://api.ftmscan.com/api"
+    ]
+  },
+  "toncoin": {
+    "coin": "toncoin",
+    "name": "Toncoin",
+    "uri": [
+      "toncoin",
+      "ton"
+    ],
+    "assetId": 0,
+    "addresses": [
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      }
+    ],
+    "unit": "TON",
+    "workchain": 0,
+    "type": "tonbasechain",
+    "family": "ton",
+    "coinType": "native",
+    "logolink": "@/assets/logos/TON.svg",
+    "slip": 607,
+    "bip44HPathType": 2,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#0098ea",
+    "decimals": 9,
+    "explorer": [
+      "https://tonscan.org/tx/"
+    ],
+    "node": [
+      "https://toncenter.com/api/v2/jsonRPC"
+    ],
+    "api": [
+      "https://toncenter.com/api"
+    ],
+    "limits": {
+      "amount": {
+        "min": 1e-9
+      }
+    }
+  },
+  "usdtton": {
+    "coin": "usdtton",
+    "name": "USDT TON Token",
+    "uri": [
+      "usdtton",
+      "usdtcoin",
+      "usdt"
+    ],
+    "addresses": [
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      }
+    ],
+    "unit": "USDT",
+    "workchain": 0,
+    "type": "tonbasechain",
+    "family": "ton",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDT.svg",
+    "contractAddress": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "slip": 607,
+    "bip44HPathType": 2,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#50AF95",
+    "decimals": 6,
+    "explorer": [
+      "https://tonscan.org/tx/"
+    ],
+    "node": [
+      "https://toncenter.com/api/v2/jsonRPC"
+    ],
+    "api": [
+      "https://toncenter.com/api"
+    ]
+  },
+  "notcointon": {
+    "coin": "notcointon",
+    "name": "Notcoin TON Token",
+    "uri": [
+      "notcointon",
+      "notcoin"
+    ],
+    "addresses": [
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      }
+    ],
+    "unit": "NOT",
+    "workchain": 0,
+    "type": "tonbasechain",
+    "family": "ton",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NOT.svg",
+    "contractAddress": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+    "slip": 607,
+    "bip44HPathType": 2,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#FF0000",
+    "decimals": 9,
+    "explorer": [
+      "https://tonscan.org/tx/"
+    ],
+    "node": [
+      "https://toncenter.com/api/v2/jsonRPC"
+    ],
+    "api": [
+      "https://toncenter.com/api"
+    ]
+  },
+  "dogston": {
+    "coin": "dogston",
+    "name": "DOGS TON Token",
+    "uri": [
+      "dogston",
+      "dogs"
+    ],
+    "addresses": [
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      },
+      {
+        "address": "",
+        "publicKey": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "state": "uninitialized",
+        "transactions": []
+      }
+    ],
+    "unit": "DOGS",
+    "workchain": 0,
+    "type": "tonbasechain",
+    "family": "ton",
+    "coinType": "token",
+    "logolink": "@/assets/logos/DOGS.svg",
+    "contractAddress": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+    "slip": 607,
+    "bip44HPathType": 2,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#000000",
+    "decimals": 9,
+    "explorer": [
+      "https://tonscan.org/tx/"
+    ],
+    "node": [
+      "https://toncenter.com/api/v2/jsonRPC"
+    ],
+    "api": [
+      "https://toncenter.com/api"
+    ]
+  },
+  "tao": {
+    "coin": "tao",
+    "name": "Bittensor",
+    "uri": [
+      "tao",
+      "bittensor"
+    ],
+    "addresses": [
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      },
+      {
+        "address": "",
+        "privKeyWIF": "",
+        "confirmed": 0,
+        "unconfirmed": 0,
+        "bonded": 0,
+        "unbonding": 0,
+        "transactions": []
+      }
+    ],
+    "unit": "TAO",
+    "type": "substrate",
+    "coinType": "native",
+    "logolink": "@/assets/logos/TAO.svg",
+    "fee": 0.000125,
+    "feepolicy": {
+      "economy": 0,
+      "normal": 0.0001,
+      "fast": 0.0002
+    },
+    "color": "#000000",
+    "decimals": 9,
+    "existentialDeposit": 5e-7,
+    "ss58prefix": 42,
+    "genesisHash": "0x2f0555cc76fc2840a25a6ea3b9637146806f1f44b090c175ffde2a7e5ab36c03",
+    "chainName": "Bittensor",
+    "specName": "bittensor",
+    "slip": 1005,
+    "bip44HPathType": 1,
+    "explorer": [
+      "https://x.taostats.io/extrinsic/"
+    ],
+    "node": [
+      "ws://bittensor-finney.api.onfinality.io/public-ws"
+    ],
+    "api": [
+      "https://api.subquery.network/sq/TaoStats"
     ]
   }
 }

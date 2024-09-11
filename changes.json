@@ -1,26 +1,20 @@
 {
-  "version": "8.1.1",
+  "version": "8.6.0",
   "codename": "Powered by Flux",
   "info": [
-    "Version 8.1.1 represents a major update to Zelcore, incorporating a range of enhancements, bug fixes, and performance improvements. Key updates include a enhanced swaps user interface, enhanced Wallet Connect integration, and various optimizations to boost overall efficiency and user experience."
+    "We are excited to introduce Version 8.6.0 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:"
   ],
   "bugs":[
-    "User Interface Enhancements: Corrected some UI/UX issues.",
-    "XRP Swaps: Resolved an issue causing XRP swaps to fail.",
-    "Algorand Transactions: Fixed a bug that was hindering the receipt of Algorand coins during swaps.",
-    "Wallet Connect Security: Corrected a security rule that was erroneously rejecting certain Wallet Connect transactions."
+    "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Monero Support: Added new dynamic monero endpoint. Additionally added monero support sunsetting notice.",
-    "Sending Support: Reworked Kaspa, Stellar, Onotlogy and Terra sending to support BigNumbers.",
-    "User Interface Enhancements: Comprehensive enhancement of the swaps UI/UX to improve user interaction and visual appeal.",
-    "Wallet Connect Integration: Enhanced integration features a more seamless connection process and improved handling of transactions, fostering a smoother user experience.",
-    "Improved Cardano Support: Updates to the Cardano wallet include better transaction processing and enhanced send functionality.",
-    "Testnet Support: Zelcore now supports Sepolia Base Testnet. Support for Goerli Testnet has been removed.",
-    "Full Node: Full Node binaries updated to latest versions.",
-    "RVN Assets: RVN asset list updated.",
-    "Fees: Base chain fees adjusted.",
-    "Performance Optimizations: Significant under-the-hood enhancements have been implemented, resulting in quicker load times and more fluid transactions.",
+    "TON Blockchain Support: We’ve added support for the TON blockchain, allowing users to manage the following tokens: USDT, NOT, DOGS",
+    "WIF Token on Solana Blockchain: Users can now manage the WIF token on the Solana blockchain directly through the wallet.",
+    "CSV Export Functionality (Mobile): You can now export transaction history as CSV files in the mobile version of the app, simplifying record-keeping.",
+    "Extended Price Display Options: We’ve expanded the ability to display asset prices in crypto, with the addition of SATS (Satoshis) and ETH as price display options.",
+    "CSV Output Location: CSV files generated through the export function will now be saved directly to the user's Downloads folder for easier access.",
+    "Preparation for FLUX-BASE Snapshot: We’ve laid the groundwork for the upcoming FLUX-BASE snapshot. Full functionality will become available in a future release, as announced.",
+    "Packages: Various packages have been updated to improve security and performance.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }
