@@ -1,6 +1,27 @@
 
 # Changelog
 
+## [8.6.0] - Powered by Flux
+
+We are excited to introduce Version 8.6.0 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:
+
+### Added
+- **TON Blockchain Support:** We’ve added support for the TON blockchain, allowing users to manage the following tokens:
+  - USDT
+  - NOT
+  - DOGS
+- **WIF Token on Solana Blockchain:** Users can now manage the WIF token on the Solana blockchain directly through the wallet.
+- **CSV Export Functionality (Mobile):** You can now export transaction history as CSV files in the mobile version of the app, simplifying record-keeping.
+- **Extended Price Display Options:** We’ve expanded the ability to display asset prices in crypto, with the addition of SATS (Satoshis) and ETH as price display options.
+
+### Updated
+- **CSV Output Location:** CSV files generated through the export function will now be saved directly to the user's Downloads folder for easier access.
+- **Preparation for FLUX-BASE Snapshot:** We’ve laid the groundwork for the upcoming FLUX-BASE snapshot. Full functionality will become available in a future release, as announced.
+- **Packages:** Various packages have been updated to improve security and performance.
+
+### Fixed
+- **Security Update**: Updated security configurations and packages.
+
 ## [8.5.0] - Powered by Flux
 
 We are thrilled to announce Version 8.5 of our wallet, bringing you new features and important fixes to enhance your experience and broaden your asset management capabilities. Here’s what’s new:

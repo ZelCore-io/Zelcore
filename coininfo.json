@@ -16416,6 +16416,36 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "dogwifhatsol": {
+    "description": "Popular meme Dogwifhat vibes wif frens onchain.",
+    "total_supply": 998926392,
+    "circulating_supply": 998926392,
+    "websites": [
+      "https://dogwifcoin.org/"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "https://solscan.io/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/dogwifcoin",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/dogwifcoin",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "dogwifhat",
+    "coingeckoID": "dogwifcoin",
+    "auditInfos": [],
+    "whitepaper": []
+  },
   "babena": {
     "description": "Babena is a new token on the Kadena network. We took a CEFI concept and turned it into DEFI. It’s equivalent is called a certificate of deposit. You lock tokens for a period of time, and get more tokens out of it. The added twist is the longer you lock them for, the higher APY you get.",
     "total_supply": 1680990,
@@ -19553,5 +19583,170 @@
     "coingeckoID": "sai",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "toncoin": {
+    "description": "Toncoin (TON) is the native cryptocurrency of the decentralized layer-1 blockchain, The Open Network (TON). The TON blockchain is open-sourced and supported by many network contributors, including the Switzerland-based non-profit organization, the TON Foundation.",
+    "total_supply": 5111113001,
+    "circulating_supply": 2534780289,
+    "websites": [
+      "https://ton.org"
+    ],
+    "explorers": [
+      "https://tonviewer.com",
+      "https://tonscan.org"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/tonblockchain",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/ton_blockchain",
+    "reddit": "",
+    "repository": "https://github.com/ton-blockchain",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "toncoin",
+    "coinMarketCapID": "toncoin",
+    "coingeckoID": "the-open-network",
+    "auditInfos": [
+      "https://certificate.quantstamp.com/full/ton-locker-contract/6872997f-1110-45cc-b70f-2a4cd639da1f/index.html"
+    ],
+    "whitepaper": [
+      "https://ton.org/whitepaper.pdf"
+    ]
+  },
+  "notcointon": {
+    "description": "Notcoin started as a viral Telegram game that onboarded many users into web3 through a tap-to-earn mining mechanic.",
+    "total_supply": 10247443122,
+    "circulating_supply": 10247443122,
+    "websites": [
+      "https://notco.in"
+    ],
+    "explorers": [
+      "https://tonviewer.com/EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/notcoin",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/thenotcoin",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "not",
+    "coinMarketCapID": "notcoin",
+    "coingeckoID": "notcoin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://cdn.joincommunity.xyz/notcoin/Notcoin_Whitepaper.pdf"
+    ]
+  },
+  "usdtton": {
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    "total_supply": 1550057493.363429,
+    "circulating_supply": 1550057493.363429,
+    "websites": [
+      "https://tether.to"
+    ],
+    "explorers": [
+      "https://tonscan.org/jetton/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://enjinx.io/eth/token/0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "https://facebook.com/tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDT",
+    "coinMarketCapID": "tether",
+    "coingeckoID": "tether",
+    "auditInfos": [
+      {
+        "auditor": "CertiK",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=tether"
+      }
+    ],
+    "whitepaper": [
+      "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    ]
+  },
+  "dogston": {
+    "description": "Dogs Community is a vibrant, community-driven initiative built on the TON Blockchain, designed to leverage Telegram's vast user base and native meme culture.",
+    "total_supply": null,
+    "circulating_supply": null,
+    "websites": [
+      "https://t.me/dogshouse_bot"
+    ],
+    "explorers": [
+      "https://tonviewer.com/EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/dogs_community",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/realDogsHouse",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "dogs",
+    "coingeckoID": "dogs-2",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "tao": {
+    "description": "Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. Machine learning models train collaboratively and are rewarded in TAO according to the informational value they offer the collective. TAO also grants external access, allowing users to extract information from the network while tuning its activities to their needs.",
+    "total_supply": 21000000,
+    "circulating_supply": 7365504,
+    "websites": [
+      "https://bittensor.com"
+    ],
+    "explorers": [
+      "https://x.taostats.io/",
+      "https://bittensor.com/scan"
+    ],
+    "medium": "https://blog.bittensor.com/",
+    "discord": "https://discord.gg/bittensor",
+    "telegram": "https://t.me/bittensor",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/opentensor",
+    "reddit": "https://www.reddit.com/r/bittensor_",
+    "repository": "https://github.com/opentensor/BitTensor",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "TAO",
+    "coinMarketCapID": "bittensor",
+    "coingeckoID": "bittensor",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://bittensor.com/whitepaper"
+    ]
   }
 }
