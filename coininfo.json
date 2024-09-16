@@ -26,7 +26,7 @@
     "linkedin": "",
     "cryptoCompareID": "TOK",
     "coinMarketCapID": "tokok",
-    "coingeckoID": "tokok",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -57,7 +57,7 @@
     "linkedin": "",
     "cryptoCompareID": "CONI",
     "coinMarketCapID": "coni",
-    "coingeckoID": "coinbene-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -1708,7 +1708,7 @@
     "linkedin": "https://www.linkedin.com/company/genesis-vision",
     "cryptoCompareID": "GVT",
     "coinMarketCapID": "genesis-vision",
-    "coingeckoID": "genesis-vision",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://genesis.vision/white-paper-eng.pdf"
@@ -2057,7 +2057,7 @@
     "linkedin": "https://www.linkedin.com/company/quantstamp",
     "cryptoCompareID": "QSP",
     "coinMarketCapID": "quantstamp",
-    "coingeckoID": "quantstamp",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://docsend.com/view/shcsmhe"
@@ -2156,7 +2156,7 @@
     "linkedin": "",
     "cryptoCompareID": "SNGLS",
     "coinMarketCapID": "singulardtv",
-    "coingeckoID": "singulardtv",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -2642,7 +2642,7 @@
     "linkedin": "",
     "cryptoCompareID": "TENT",
     "coinMarketCapID": "tent",
-    "coingeckoID": "snowgem",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -3091,7 +3091,7 @@
     "linkedin": "",
     "cryptoCompareID": "BBO",
     "coinMarketCapID": "bigbom",
-    "coingeckoID": "bigbom-eco",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -3710,7 +3710,7 @@
     "linkedin": "https://hk.linkedin.com/company/cryptocom",
     "cryptoCompareID": "MCO",
     "coinMarketCapID": "crypto-com",
-    "coingeckoID": "monaco",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "SlowMist",
@@ -4224,7 +4224,7 @@
     "linkedin": "",
     "cryptoCompareID": "WINGS",
     "coinMarketCapID": "wings",
-    "coingeckoID": "wings",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -4255,7 +4255,7 @@
     "linkedin": "",
     "cryptoCompareID": "DTA",
     "coinMarketCapID": "data",
-    "coingeckoID": "data",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -4417,7 +4417,7 @@
     "linkedin": "",
     "cryptoCompareID": "ADT",
     "coinMarketCapID": "adtoken",
-    "coingeckoID": "adtoken",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -4479,7 +4479,7 @@
     "linkedin": "",
     "cryptoCompareID": "ATL",
     "coinMarketCapID": "atlant",
-    "coingeckoID": "atlant",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -4765,7 +4765,7 @@
     "linkedin": "",
     "cryptoCompareID": "BCPT",
     "coinMarketCapID": "blockmason",
-    "coingeckoID": "blockmason-credit-protocol",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://blockmason.io/credit-protocol-whitepaper"
@@ -5104,7 +5104,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "gunthy",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -5165,7 +5165,7 @@
     "linkedin": "",
     "cryptoCompareID": "CMM",
     "coinMarketCapID": "commercium",
-    "coingeckoID": "commercium",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -5411,7 +5411,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "stableusd",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -5442,7 +5442,7 @@
     "linkedin": "",
     "cryptoCompareID": "NUKE",
     "coinMarketCapID": "nuketoken",
-    "coingeckoID": "nuke-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -5668,7 +5668,7 @@
     "linkedin": "",
     "cryptoCompareID": "SIN",
     "coinMarketCapID": "sinovate",
-    "coingeckoID": "suqa",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://sinovate.io/sin-whitepaper"
@@ -6017,7 +6017,7 @@
     "linkedin": "",
     "cryptoCompareID": "VBK",
     "coinMarketCapID": "veriblock",
-    "coingeckoID": "veriblock",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://www.veriblock.org/wp-content/uploads/2018/03/PoP-White-Paper.pdf"
@@ -6211,7 +6211,7 @@
     "linkedin": "",
     "cryptoCompareID": "ZB",
     "coinMarketCapID": "zb-token",
-    "coingeckoID": "zb-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -6242,7 +6242,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "hotbit-token",
-    "coingeckoID": "hotbit-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -6273,7 +6273,7 @@
     "linkedin": "",
     "cryptoCompareID": "HPT",
     "coinMarketCapID": "huobi-pool-token",
-    "coingeckoID": "huobi-pool-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://huobi-pool-service.s3-ap-northeast-1.amazonaws.com/prd/hpt/doc/HuobipoolTokenWhitepaperEN.pdf"
@@ -6498,7 +6498,7 @@
     "linkedin": "",
     "cryptoCompareID": "LMY",
     "coinMarketCapID": "lunchmoney",
-    "coingeckoID": "lunch-money",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -6560,7 +6560,7 @@
     "linkedin": "",
     "cryptoCompareID": "NTK",
     "coinMarketCapID": "netkoin",
-    "coingeckoID": "netkoin",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -7138,7 +7138,7 @@
     "linkedin": "",
     "cryptoCompareID": "COIN",
     "coinMarketCapID": "coin-artist",
-    "coingeckoID": "coin-artist",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -7300,7 +7300,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "toshimon",
-    "coingeckoID": "toshi-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -7361,7 +7361,7 @@
     "linkedin": "",
     "cryptoCompareID": "BTCB",
     "coinMarketCapID": "bitcoin-bep2",
-    "coingeckoID": "bitcoin-bep2",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://bitcoin.org/bitcoin.pdf"
@@ -9841,7 +9841,7 @@
     "linkedin": "https://www.linkedin.com/company/safemoon",
     "cryptoCompareID": "SAFEMOON",
     "coinMarketCapID": "safemoon",
-    "coingeckoID": "safemoon",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "CertiK",
@@ -9909,7 +9909,7 @@
     "linkedin": "https://www.linkedin.com/in/donna-tremble-94b05713b",
     "cryptoCompareID": "HUP",
     "coinMarketCapID": "hup-life",
-    "coingeckoID": "huplife",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://www.hup.life/#tokenomics"
@@ -12224,7 +12224,7 @@
     "linkedin": "",
     "cryptoCompareID": "FEI",
     "coinMarketCapID": "fei-protocol",
-    "coingeckoID": "fei-protocol",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://fei.money/static/media/whitepaper.7d5e2986.pdf"
@@ -12512,7 +12512,7 @@
     "linkedin": "",
     "cryptoCompareID": "REEF",
     "coinMarketCapID": "reef",
-    "coingeckoID": "reef-finance",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://docs.reef.finance"
@@ -14511,7 +14511,7 @@
     "linkedin": "",
     "cryptoCompareID": "VID",
     "coinMarketCapID": "videocoin",
-    "coingeckoID": "videocoin",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://storage.googleapis.com/videocoin-preico/VideoCoin-Whitepaper.pdf"
@@ -15882,7 +15882,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "invictus",
-    "coingeckoID": "invictus",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -16223,7 +16223,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "solanax",
-    "coingeckoID": "solanax",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://solanax.org/whitepaper.pdf?v=6"
@@ -16561,7 +16561,7 @@
     "linkedin": "https://www.linkedin.com/company/smartfiportal",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "smartfi",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -16668,7 +16668,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "terra-sdt",
-    "coingeckoID": "terra-sdt",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "CertiK",
@@ -16706,7 +16706,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "terra-krw",
-    "coingeckoID": "terra-krw",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "CertiK",
@@ -16744,7 +16744,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-amazon",
-    "coingeckoID": "mirrored-amazon",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16781,7 +16781,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-apple",
-    "coingeckoID": "mirrored-apple",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16817,7 +16817,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-airbnb-inc",
-    "coingeckoID": "mirrored-airbnb",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16853,7 +16853,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-coinbase",
-    "coingeckoID": "mirrored-coinbase",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16890,7 +16890,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-microsoft",
-    "coingeckoID": "mirrored-microsoft",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16927,7 +16927,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-google",
-    "coingeckoID": "mirrored-google",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -16964,7 +16964,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-tesla",
-    "coingeckoID": "mirrored-tesla",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -17001,7 +17001,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-twitter",
-    "coingeckoID": "mirrored-twitter",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -17038,7 +17038,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "mirrored-netflix",
-    "coingeckoID": "mirrored-netflix",
+    "coingeckoID": "",
     "auditInfos": [
       {
         "auditor": "Cyber Unit",
@@ -17246,7 +17246,7 @@
     "linkedin": "",
     "cryptoCompareID": "xht",
     "coinMarketCapID": "hollaex-token",
-    "coingeckoID": "hollaex-token",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://whitepaper.hollaex.com"
@@ -17853,7 +17853,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "miners-of-kadenia",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -18744,8 +18744,8 @@
     "twitch": "",
     "linkedin": "",
     "cryptoCompareID": "USDC",
-    "coinMarketCapID": "USDC",
-    "coingeckoID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
     "auditInfos": [],
     "whitepaper": [
       "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
@@ -19716,37 +19716,5 @@
     "coingeckoID": "dogs-2",
     "auditInfos": [],
     "whitepaper": []
-  },
-  "tao": {
-    "description": "Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. Machine learning models train collaboratively and are rewarded in TAO according to the informational value they offer the collective. TAO also grants external access, allowing users to extract information from the network while tuning its activities to their needs.",
-    "total_supply": 21000000,
-    "circulating_supply": 7365504,
-    "websites": [
-      "https://bittensor.com"
-    ],
-    "explorers": [
-      "https://x.taostats.io/",
-      "https://bittensor.com/scan"
-    ],
-    "medium": "https://blog.bittensor.com/",
-    "discord": "https://discord.gg/bittensor",
-    "telegram": "https://t.me/bittensor",
-    "bitcointalk": "",
-    "facebook": "",
-    "twitter": "https://twitter.com/opentensor",
-    "reddit": "https://www.reddit.com/r/bittensor_",
-    "repository": "https://github.com/opentensor/BitTensor",
-    "youtube": "",
-    "instagram": "",
-    "tiktok": "",
-    "twitch": "",
-    "linkedin": "",
-    "cryptoCompareID": "TAO",
-    "coinMarketCapID": "bittensor",
-    "coingeckoID": "bittensor",
-    "auditInfos": [],
-    "whitepaper": [
-      "https://bittensor.com/whitepaper"
-    ]
   }
 }
