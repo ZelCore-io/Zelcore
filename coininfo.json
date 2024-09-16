@@ -1925,7 +1925,8 @@
     "facebook": "https://facebook.com/MithrilToken",
     "twitter": "https://twitter.com/MithrilToken",
     "reddit": "https://reddit.com/r/MithrilToken",
-    "repository": "https://github.com/mithio/mithril-smart-contract"
+    "repository": "https://github.com/mithio/mithril-smart-contract",
+    "coingeckoID": "mithril"
   },
   "oax": {
     "description": "OAX is an ERC20 token developed to fuel an open-source decentralized exchange platform “openANX” which provides an aggregated order book to increase liquidity; holds collateral for asset gateways to reduce credit risk; and features an off-chain, predetermined dispute resolution system governed by the Decentralized Autonomous Organization(DAO) to maximize consumer protection.",
@@ -3024,7 +3025,8 @@
     "facebook": "https://facebook.com/AionBlockchain",
     "twitter": "https://twitter.com/Aion_Network",
     "reddit": "https://reddit.com/r/AionNetwork",
-    "repository": "https://github.com/aionnetwork/aion"
+    "repository": "https://github.com/aionnetwork/aion",
+    "coingeckoID": "aion"
   },
   "airswap": {
     "description": "AirSwap is a decentralized token exchange based on the Swap protocol whitepaper. Swap provides a decentralized trading solution based on a peer-to-peer design. The design solves two problems encountered in a peer-to-peer trading environment: counterparty discovery and pricing suggestions.",
@@ -3549,7 +3551,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "",
+    "coingeckoID": "ethlend",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -7638,7 +7640,7 @@
     "linkedin": "",
     "cryptoCompareID": "STAKE",
     "coinMarketCapID": "xdai",
-    "coingeckoID": "xdai",
+    "coingeckoID": "xdai-stake",
     "auditInfos": [],
     "whitepaper": [
       "https://forum.poa.network/t/posdao-white-paper/2208"
@@ -14415,7 +14417,7 @@
     "linkedin": "",
     "cryptoCompareID": "LOOM",
     "coinMarketCapID": "loom-network",
-    "coingeckoID": "loom-network",
+    "coingeckoID": "loom-network-new",
     "auditInfos": [],
     "whitepaper": [
       "https://medium.com/loom-network/introducing-loom-network-scaling-ethereum-today-9ea26b5b57c"
@@ -19088,7 +19090,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "",
-    "coingeckoID": "",
+    "coingeckoID": "ethereum",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -19288,11 +19290,43 @@
     "total_supply": null,
     "circulating_supply": null,
     "websites": [
-      "https://arbitrum.io/",
-      "https://arbitrum.foundation/"
+      "https://arbitrum.io",
+      "https://arbitrum.foundation"
     ],
     "explorers": [
-      "https://arbiscan.io/tx/"
+      "https://arbiscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/arbitrum",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/arbitrum",
+    "reddit": "",
+    "repository": "https://github.com/OffchainLabs/arbitrum",
+    "youtube": "https://www.youtube.com/c/arbitrum",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "ethereum",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/OffchainLabs"
+    ]
+  },
+  "arbitrumarb": {
+    "description": "Arbitrum is an Ethereum layer-two (L2) scaling solution. It uses optimistic rollups to achieve its goal of improving speed, scalability and cost-efficiency on Ethereum. Arbitrum benefits from the security and compatibility of Ethereum. Another benefit is the higher throughput and lower fees compared to Ethereum. That is made possible thanks to moving most of the computation and storage load off-chain.",
+    "total_supply": null,
+    "circulating_supply": null,
+    "websites": [
+      "https://arbitrum.io",
+      "https://arbitrum.foundation"
+    ],
+    "explorers": [
+      "https://arbiscan.io/tx/0x912ce59144191c1204e64559fe8253a0e49e6548"
     ],
     "medium": "",
     "discord": "https://discord.gg/arbitrum",
@@ -19309,7 +19343,7 @@
     "linkedin": "",
     "cryptoCompareID": "",
     "coinMarketCapID": "arb",
-    "coingeckoID": "",
+    "coingeckoID": "arbitrum",
     "auditInfos": [],
     "whitepaper": [
       "https://github.com/OffchainLabs"
