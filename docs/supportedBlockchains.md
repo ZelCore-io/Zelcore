@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 82
-- **Total Coins (including tokens)**: 589
+- **Total Blockchains**: 81
+- **Total Coins (including tokens)**: 588
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -73,7 +73,6 @@ This document provides an overview of the supported blockchains and their associ
 | snowgem | TENT | zcash | TENT | None |
 | solana | Solana | solana | SOL | WSOL, SRM, MSRM, COPE, FIDA, FTT, KIN, MAPS, MEDIA, OXY, RAY, STEP, USDC, USDT, ROPE, MER, TULIP, ALEPH, LINK, SUSHI, WOO, C98, SAMO, MNGO, ATLAS, POLIS, ORCA, AURY, SLND, SBR, LIQ, SNY, PORT, ABR, CRP, IVN, GRAPE, NINJA, CRWNY, FLUX-SOL, MSOL, STSOL, SLIM, DFL, IN, JET, DXL, LIKE, MNDE, WHAPI, RIN, CYS, FAB, WAG, MOLA, SOLD, CATO, CSTR, SAO, APYS, SUNNY, KURO, WIF |
 | stellar | Stellar Lumens | stellar | XLM | None |
-| tao | Bittensor | substrate | TAO | None |
 | testnet | Flux Test Coin | zcash | TESTFLUX | None |
 | testnetbitcoin | Testnet Bitcoin Legacy | blockbook | TESTBTC | None |
 | testnetbitcoinnativesegwit | Testnet Bitcoin Native Segwit | blockbook | TESTBTC | None |
