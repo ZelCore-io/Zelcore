@@ -2672,7 +2672,7 @@
     "linkedin": "",
     "cryptoCompareID": "TENT",
     "coinMarketCapID": "tent",
-    "coingeckoID": "snowgem",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
       "https://www.gemlink.org/wp-content/uploads/2022/02/gemlink-wp2.pdf"
@@ -7361,7 +7361,7 @@
     "linkedin": "",
     "cryptoCompareID": "BTCB",
     "coinMarketCapID": "bitcoin-bep2",
-    "coingeckoID": "",
+    "coingeckoID": "binance-bitcoin",
     "auditInfos": [],
     "whitepaper": [
       "https://bitcoin.org/bitcoin.pdf"
@@ -9841,7 +9841,7 @@
     "linkedin": "https://www.linkedin.com/company/safemoon",
     "cryptoCompareID": "SAFEMOON",
     "coinMarketCapID": "safemoon",
-    "coingeckoID": "",
+    "coingeckoID": "safemoon-2",
     "auditInfos": [
       {
         "auditor": "CertiK",
@@ -9875,7 +9875,7 @@
     "linkedin": "https://www.linkedin.com/company/safemoon",
     "cryptoCompareID": "SAFEMOON",
     "coinMarketCapID": "safemoon",
-    "coingeckoID": "safemoon",
+    "coingeckoID": "safemoon-2",
     "auditInfos": [
       {
         "auditor": "CertiK",
@@ -10003,7 +10003,7 @@
     "linkedin": "",
     "cryptoCompareID": "BTCB",
     "coinMarketCapID": "bitcoin-bep2",
-    "coingeckoID": "bitcoin-bep2",
+    "coingeckoID": "binance-bitcoin",
     "auditInfos": [],
     "whitepaper": []
   },
@@ -15721,7 +15721,7 @@
     "linkedin": "https://www.linkedin.com/company/safemoon",
     "cryptoCompareID": "SAFEMOON",
     "coinMarketCapID": "safemoon",
-    "coingeckoID": "safemoon",
+    "coingeckoID": "safemoon-2",
     "auditInfos": [
       {
         "auditor": "CertiK",
