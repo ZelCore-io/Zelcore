@@ -7246,7 +7246,7 @@
     ]
   },
   "beldex": {
-    "description": "BDX operates on the Beldex decentralized blockchain for performing secure and anonymous peer-to-peer (P2P) transactions, while the ecosystem supports secure and confidential dApps, among them: BChat, BelNet, Beldex Browser, the Beldex privacy protocol, and the Beldex bridge. Initially, Beldex was developed on a PoW architecture followed by PoS integration in order to increase the scalability of the BDX token, lower fees and reduce transaction times.",
+    "description": "Beldex is a leading confidential dApp ecosystem consisting of decentralized and confidential applications that include BChat, BelNet, Beldex browser, the Beldex protocol, and the Beldex bridge. The Beldex project is committed to enhancing your confidentiality online.",
     "total_supply": 9924613675,
     "circulating_supply": 6447233675,
     "websites": [
@@ -19326,7 +19326,7 @@
       "https://arbitrum.foundation"
     ],
     "explorers": [
-      "https://arbiscan.io/tx/0x912ce59144191c1204e64559fe8253a0e49e6548"
+      "https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548"
     ],
     "medium": "",
     "discord": "https://discord.gg/arbitrum",
@@ -19750,5 +19750,200 @@
     "coingeckoID": "dogs-2",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "tao": {
+    "description": "Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. Machine learning models train collaboratively and are rewarded in TAO according to the informational value they offer the collective. TAO also grants external access, allowing users to extract information from the network while tuning its activities to their needs.",
+    "total_supply": 21000000,
+    "circulating_supply": 7365504,
+    "websites": [
+      "https://bittensor.com"
+    ],
+    "explorers": [
+      "https://x.taostats.io",
+      "https://bittensor.com/scan"
+    ],
+    "medium": "https://blog.bittensor.com",
+    "discord": "https://discord.gg/bittensor",
+    "telegram": "https://t.me/bittensor",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/opentensor",
+    "reddit": "https://www.reddit.com/r/bittensor_",
+    "repository": "https://github.com/opentensor/BitTensor",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "TAO",
+    "coinMarketCapID": "bittensor",
+    "coingeckoID": "bittensor",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://bittensor.com/whitepaper"
+    ]
+  },
+  "optimism": {
+    "description": "Optimism is a Layer 2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs while maintaining the security of the Ethereum network. It achieves this by using optimistic rollups, a technology that processes transactions off-chain and then batches them onto Ethereum",
+    "total_supply": 4294967296,
+    "circulating_supply": 1187596466,
+    "websites": [
+      "https://www.optimism.io/"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/optimism",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/optimism",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "optimism-ethereum",
+    "coingeckoID": "optimism",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "optimismop": {
+    "description": "Optimism is a Layer 2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs while maintaining the security of the Ethereum network. It achieves this by using optimistic rollups, a technology that processes transactions off-chain and then batches them onto Ethereum",
+    "total_supply": 4294967296,
+    "circulating_supply": 1187596466,
+    "websites": [
+      "https://www.optimism.io/"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/optimism",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/optimism",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "optimism-ethereum",
+    "coingeckoID": "optimism",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdcop": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
+  },
+  "daiop": {
+    "description": "Sai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Sai is worth $1, and will always be worth $1, regardless of how much Sai is in existence. There is no centralized authority like Tether that backs its value, and no traditional bank that backs each Sai with a real US dollar. There is nothing that can be shut down, and no centralized authority that needs to be trusted. Sai lives entirely within the Ethereum blockchain using smart contracts.\r\n\r\n*Features of Sai:\r\n1. Sai is always worth $1 USD each\r\n2. It can be freely traded like any other ERC20 token\r\n3. Anyone with an Ethereum wallet can own, accept, and transfer it\r\n4. It can be exchanged without any middleman\r\n5. No individual person or company has control over it\r\n6. No government or authority can shut it down\r\n\r\n*How Sai Works?\r\nSai is a masterpiece of game theory that carefully balances economic incentives in the pursuit of one goal — a token that is continuously approaching the value of $1 USD.\r\n\r\nWhen Sai is worth above $1, mechanisms work to decrease the price. When Sai is worth below $1, mechanisms work to increase the price. The rational actors that take part in these mechanisms do so because they earn money anytime Sai is not perfectly worth $1. This is why Sai is always floating slightly above or below $1 — it is an endless wave function bouncing infinitely close to $1, but never quite achieving it. The farther Sai goes from $1, the more incentive there is to fix it. This is the magic of Sai.\r\n\r\n*How is Sai Created?\r\nSai is simply a loan against Ethereum. By using the MakerDAO dApp, advanced users can take loans out in Sai against their ETH holdings.\r\n\r\nFirst, ETH is turned into “wrapped ETH” (WETH), which is simply an ERC20 wrapping around ETH. This “tokenizes” ETH so it can be used like any other ERC20 token. Next, WETH is turned into “pooled ETH” (PETH), which means it joins a large pool of Ethereum that is the collateral for all Sai created. Once you have PETH, you can create a “collateralized debt position” (CDP), which locks up your PETH and allows you to draw Sai against your collateral, which is PETH. As you draw out Sai, the ratio of debt in the CDP increases. There is a debt limit that sets a maximum amount of Sai you can draw against your CDP. Once you have Sai, you can spend or trade it freely like any other ERC20 token.\r\n\r\n*There are several important reasons why you would create Sai, despite the hassle:\r\n\r\n1. You need a loan, and have an asset (ETH) to use as collateral for your loan\r\n\r\n2. You believe ETH is going up in value. You can use your CDP to buy ETH on margin — you lock up your ETH in a CDP, draw Sai against it, use the Sai to buy more ETH on an exchange, and then use that ETH to further increase the size of your CDP. This can be accomplished without any third-party or centralized authority allowing you to do so — margin trading can be accomplished entirely on the blockchain.\r\n\r\n3. The demand for Sai has driven the price above $1 USD. When this occurs, you can create Sai then immediately sell it on an exchange for greater than $1 USD. This is essentially free money, and is one of the mechanisms the Maker system uses to keep Sai pegged to $1 USD. Sai being worth over $1 USD encourages more Sai to be created.\r\nThese three reasons are enough to ensure that Sai is continually created.",
+    "total_supply": 84184453,
+    "circulating_supply": 84184453,
+    "websites": [
+      "https://makerdao.com"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+      "https://ethplorer.io/address/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+      "https://enjinx.io/eth/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MakerDAO",
+    "reddit": "https://reddit.com/r/MakerDAO",
+    "repository": "https://github.com/makerdao/dai.js",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "sai",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdtop": {
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    "total_supply": 1550057493.363429,
+    "circulating_supply": 1550057493.363429,
+    "websites": [
+      "https://tether.to"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "https://facebook.com/tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDT",
+    "coinMarketCapID": "tether",
+    "coingeckoID": "tether",
+    "auditInfos": [
+      {
+        "auditor": "CertiK",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=tether"
+      }
+    ],
+    "whitepaper": [
+      "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    ]
   }
 }
