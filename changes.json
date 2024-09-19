@@ -5,15 +5,20 @@
     "We are excited to introduce Version 8.6.0 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:"
   ],
   "bugs":[
+    "WalletConnect QR Scanning (Mobile): Fixed an issue that was preventing proper QR scanning of WalletConnect on mobile devices.",
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
     "TON Blockchain Support: We’ve added support for the TON blockchain, allowing users to manage the following tokens: USDT, NOT, DOGS",
+    "Bittensor (TAO) Blockchain Support: Added support for the Bittensor (TAO) blockchain, allowing users to manage TAO assets.",
+    "Optimism (OP) Network Support: Optimism network is now supported, with the following tokens available: OP, USDC.E, DAI, USDT",
+    "Revamped Monero Support: We’ve introduced improved support for Monero by leveraging self-hosted infrastructure, providing more reliable transactions.",
     "WIF Token on Solana Blockchain: Users can now manage the WIF token on the Solana blockchain directly through the wallet.",
     "CSV Export Functionality (Mobile): You can now export transaction history as CSV files in the mobile version of the app, simplifying record-keeping.",
     "Extended Price Display Options: We’ve expanded the ability to display asset prices in crypto, with the addition of SATS (Satoshis) and ETH as price display options.",
     "CSV Output Location: CSV files generated through the export function will now be saved directly to the user's Downloads folder for easier access.",
     "Preparation for FLUX-BASE Snapshot: We’ve laid the groundwork for the upcoming FLUX-BASE snapshot. Full functionality will become available in a future release, as announced.",
+    "Matic Renamed to POL: The Matic network has been rebranded to POL, and the wallet reflects this update across all features.",
     "Packages: Various packages have been updated to improve security and performance.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
