@@ -1,6 +1,16 @@
 
 # Changelog
 
+## [8.6.2] - Powered by Flux (Windows Only)
+
+### Fixed
+- **Update Cert:** Updated windows signing certificate and process.
+
+## [8.6.1] - Powered by Flux
+
+### Fixed
+- **Bug Fix:** Fixed a bug that was preventing sending transactions on polkadot and kusama networks.
+
 ## [8.6.0] - Powered by Flux
 
 We are excited to introduce Version 8.6.0 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:
