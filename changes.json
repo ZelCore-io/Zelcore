@@ -1,8 +1,8 @@
 {
-  "version": "8.6.0",
+  "version": "8.6.2",
   "codename": "Powered by Flux",
   "info": [
-    "We are excited to introduce Version 8.6.0 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:"
+    "We are excited to introduce Version 8.6.2 of our wallet, packed with new features and critical fixes to further elevate your asset management experience. Here’s what’s new:"
   ],
   "bugs":[
     "WalletConnect QR Scanning (Mobile): Fixed an issue that was preventing proper QR scanning of WalletConnect on mobile devices.",
