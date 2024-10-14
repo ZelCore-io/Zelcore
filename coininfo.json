@@ -3206,16 +3206,47 @@
     ]
   },
   "ethos": {
-    "description": "Ethos is a people-powered financial services company that makes it easy and safe for users to interact with the new economy. ",
+    "description": "The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.",
     "total_supply": 222295208,
     "circulating_supply": 117621897.36213696,
     "websites": [
-      "https://ethos.io"
+      "https://www.vgxfoundation.com"
     ],
     "explorers": [
       "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
       "https://ethplorer.io/address/0x5af2be193a6abca9c8817001f45744777db30756",
       "https://enjinx.io/eth/token/0x5af2be193a6abca9c8817001f45744777db30756"
+    ],
+    "medium": "https://medium.com/@vgxfoundation",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "ethoseth": {
+    "description": "Ethos and its 'Magic Keys' lets you safely store and trade without having to worry about loosing access to your wallet.",
+    "total_supply": 5000000000,
+    "circulating_supply": 0,
+    "websites": [
+      "https://ethos.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e",
+      "https://ethplorer.io/address/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e",
+      "https://enjinx.io/eth/token/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e"
     ],
     "medium": "",
     "discord": "",
@@ -3234,7 +3265,9 @@
     "coinMarketCapID": "",
     "coingeckoID": "",
     "auditInfos": [],
-    "whitepaper": []
+    "whitepaper": [
+      "https://www.ethos.io/whitepaper"
+    ]
   },
   "coinfi": {
     "description": "CoinFi(COFI) is a decentralized market intelligence platform providing investors and traders with information needed to make wise market decisions. With the ever-growing list of coins and tokens on the market, for traders and investors alike, there is a distinct lack of information. What information that is available is scattered across various social media platforms, blogs and podcasts. Harnessing and processing this information can be quite tedious and fatigue can result in poor decisions.\r\n\r\nCoinFi seeks to allow users to monitor and analyze real-time market data with a crowdsourced and curated news database. News from various channels will be surfaced by incentivized community curators who will be rewarded with CoinFi tokens for being the first to surface a high-value content. CoinFi will also store and display historical news and its effects on a coin, filtering all news submissions based on relevancy, category and recency. There are various trading Signals indicative of market movement. CoinFi will internally develop quantitative models based on high-frequency hedge funds in the equities market, while traders will also have the opportunity to share and monetize their own trading signals in a manner of crowdsourcing market intelligence. CoinFi plans to start off targeting existing retail traders in cryptocurrency and as the platform grows, move upmarket and develop further features catering to institutional traders. There will be 3 tiers of subscription: Free, Stake and Premium, with varying degrees of access to market information.",
@@ -19945,5 +19978,162 @@
     "whitepaper": [
       "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
     ]
+  },
+  "blast": {
+    "description": "Blast is the only Ethereum L2 with native yield for ETH and stablecoins.",
+    "total_supply": 100000000000,
+    "circulating_supply": 100000000000,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethereum",
+    "coingeckoID": "ethereum",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "blastblast": {
+    "description": "Blast is the only Ethereum L2 with native yield for ETH and stablecoins.",
+    "total_supply": 100000000000,
+    "circulating_supply": 100000000000,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "blast",
+    "coingeckoID": "blast",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wbtcblast": {
+    "description": "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
+    "total_supply": 44.92940603,
+    "circulating_supply": 9697806943.00,
+    "websites": [
+      "https://wbtc.network"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
+      "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://enjinx.io/en-GB/eth/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://ftmscan.com/token/0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "https://explorer-mainnet.maticvigil.com/tokens/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/token-transfers"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "WBTC",
+    "coinMarketCapID": "wrapped-bitcoin",
+    "coingeckoID": "wrapped-bitcoin",
+    "auditInfos": [
+      {
+        "auditor": "SlowMist",
+        "reportUrl": "https://www.slowmist.com/en/security-audit-certificate.html?id=19b0299be6f8f7bc6fc7a701aed5a28bae5c2225c122b3637c593420a4070c55"
+      }
+    ],
+    "whitepaper": [
+      "https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf"
+    ]
+  },
+  "wethblast": {
+    "description": "Ethereum is a <a href=\"https://coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
+    "total_supply": 181129.592488127017262493,
+    "circulating_supply": 7682756585.00,
+    "websites": [
+      "https://ethereum.org"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0x4300000000000000000000000000000000000004"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=428589",
+    "facebook": "https://facebook.com/ethereumproject",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "repository": "https://github.com/ethereum/go-ethereum",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "WETH",
+    "coinMarketCapID": "weth",
+    "coingeckoID": "weth",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdbblast": {
+    "description": "Blast's native stablecoin.",
+    "total_supply": 239756886.475667824985261229,
+    "circulating_supply": 405998035.00,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0x4300000000000000000000000000000000000003"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "usdblast",
+    "coinMarketCapID": "usdb",
+    "coingeckoID": "usdb",
+    "auditInfos": [],
+    "whitepaper": []
   }
 }
