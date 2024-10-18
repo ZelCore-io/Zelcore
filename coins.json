@@ -3016,6 +3016,27 @@
   },
   "ethos": {
     "coin": "ethos",
+    "name": "EthOS Old ERC20",
+    "uri": [
+      "ethosold"
+    ],
+    "unit": "VGX",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ETHOS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x5af2be193a6abca9c8817001f45744777db30756",
+    "color": "#0fc",
+    "decimals": 8
+  },
+  "ethoseth": {
+    "coin": "ethoseth",
     "name": "EthOS ERC20",
     "uri": [
       "ethos"
@@ -3031,9 +3052,9 @@
       "normal": 80,
       "fast": 120
     },
-    "contractAddress": "0x5af2be193a6abca9c8817001f45744777db30756",
+    "contractAddress": "0xcdb8fc4Ef27dfEAbA9b31899a9d165398bF97b9e",
     "color": "#0fc",
-    "decimals": 8
+    "decimals": 18
   },
   "singularitynet": {
     "coin": "singularitynet",
@@ -14554,5 +14575,124 @@
     "contractAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "color": "#50AF95",
     "decimals": 6
+  },
+  "blast": {
+    "coin": "blast",
+    "name": "Ethereum BLAST",
+    "uri": [
+      "ethereumblast"
+    ],
+    "chainID": 81457,
+    "slip": 60,
+    "unit": "ETH",
+    "type": "blast",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/ETH.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.004,
+      "normal": 0.005,
+      "fast": 0.008
+    },
+    "contractAddress": "0x4200000000000000000000000000000000000010",
+    "color": "#B0B0B0",
+    "decimals": 18
+  },
+  "blastblast": {
+    "coin": "blastblast",
+    "name": "BLAST Token",
+    "uri": [
+      "blast"
+    ],
+    "chainID": 81457,
+    "slip": 60,
+    "unit": "BLAST",
+    "type": "blast",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BLAST.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.004,
+      "normal": 0.005,
+      "fast": 0.008
+    },
+    "contractAddress": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "color": "#B0B0B0",
+    "decimals": 18
+  },
+  "wbtcblast": {
+    "coin": "wbtcblast",
+    "name": "Wrapped Bitcoin BLAST",
+    "uri": [
+      "wbtcblast",
+      "wbtc",
+      "wrapped-bitcoin"
+    ],
+    "chainID": 81457,
+    "slip": 60,
+    "unit": "WBTC",
+    "type": "blast",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WBTC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.004,
+      "normal": 0.005,
+      "fast": 0.008
+    },
+    "contractAddress": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
+    "color": "#342946",
+    "decimals": 8
+  },
+  "wethblast": {
+    "coin": "wethblast",
+    "name": "Wrapped Ether BLAST",
+    "uri": [
+      "wethblast",
+      "wrappedether",
+      "weth"
+    ],
+    "chainID": 81457,
+    "slip": 60,
+    "unit": "WETH",
+    "type": "blast",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WETH.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.004,
+      "normal": 0.005,
+      "fast": 0.008
+    },
+    "color": "#b0b0b0",
+    "contractAddress": "0x4300000000000000000000000000000000000004",
+    "decimals": 18
+  },
+  "usdbblast": {
+    "coin": "usdbblast",
+    "name": "USDB BLAST",
+    "uri": [
+      "usdbblast"
+    ],
+    "chainID": 81457,
+    "slip": 60,
+    "unit": "USDB",
+    "type": "blast",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDB.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.004,
+      "normal": 0.005,
+      "fast": 0.008
+    },
+    "color": "#FCFC00",
+    "contractAddress": "0x4300000000000000000000000000000000000003",
+    "decimals": 18
   }
 }
