@@ -229,25 +229,6 @@
       "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf"
     ]
   },
-  "xcash": {
-    "description": "X-Cash is a truly innovative blockchain with unique features built from scratch. Click the buttons to discover how these technologies will help making the bridge between cryptocurrencies and the real world.",
-    "total_supply": 100000000000,
-    "circulating_supply": 42894995224,
-    "websites": [
-      "https://x-network.io"
-    ],
-    "explorers": [
-      "https://explorer.x-cash.org/Explorer"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "https://t.me/xcashglobal",
-    "bitcointalk": "https://bitcointalk.org/index.php?topic=4781246.0",
-    "facebook": "",
-    "twitter": "https://twitter.com/XCashCrypto",
-    "reddit": "https://reddit.com/r/xcash",
-    "repository": "https://github.com/X-CASH-official/X-CASH"
-  },
   "dash": {
     "description": "Dash <a href=\"https://coingecko.com/buzz/darkcoin-to-dash\">(formerly known as Darkcoin until March 26th 2015)</a> is a cryptocurrency that focuses on privacy and anonymity. Dash protects your privacy by anonymizing transaction that you make over the network using a technology that is developed by the Dash team called DarkSend. DarkSend is inspired out of the CoinJoin project that was meant to anonymize <a href=\"https://coingecko.com/en/coins/bitcoin\">Bitcoin</a> transactions. \r\n\r\nIn Dash, payments are private so nobody can track you, your transactions and balances are nobody’s business. Dash harnesses the power of its Masternode network to power an innovative technology called InstantX. When sending money, users can select the “Use InstantX” box in their wallet, and transactions will be fully sent and irreversible within four seconds. Besides, it has advanced encryption and a trustless protocol for complete security in your payments and anonymization process.\r\n\r\nThe new Dash rebranding of Darkcoin focuses on making open-sourced private digital currency more mainstream. Heavy emphasis are placed on security, instant transaction, and security when it comes to the Dash core development team. Dash was released on the 18th January 2014 with zero premine coins. It uses 11 rounds of hashing algorithm namely blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo which makes it highly secure.\r\n\r\nAs of the current design, there will only be 22 million Dash ever created, making it a deflationary currency. \r\n\r\nCoinGecko had a chance to interview Evan Duffield, creator of Dash to get some insights and perspectives on Dash. Check out here to read more: <a href=\"https://coingecko.com/buzz/interview-evan-duffield-dash\">CoinGecko Interview with Evan Duffield, Creator of Dash</a>",
     "total_supply": 18920000,
@@ -1629,27 +1610,6 @@
     "auditInfos": [],
     "whitepaper": []
   },
-  "FET": {
-    "description": "Fetch.AI (\"the Project\") brings together machine learning (\"ML\"), artificial intelligence (\"AI\"), multi-agent systems and decentralized ledger technology to create an economic internet — an environment where digital representatives of the economy's moving parts (such as data, hardware, services, people and infrastructure) can get useful work done through effective introductions and predictions\r\n\r\nThese agents can be thought of as digital entities: life-forms that are able to make decisions on their own behalf as well as on behalf of their stakeholders (individuals, private enterprises and governments for example). Fetch.AI's digital world is exposed to agents via its Open Economic Framework (OEF) and is underpinned by unique smart ledger technology to deliver high performance, low cost transactions. The ledger delivers useful proof-of-work that builds market intelligence and trust over time — growing the value of the network as it is used. Fetch.AI can be neatly interfaced to existing systems with minimal effort, allowing it to take advantage of the old economy whilst building the new: plug existing data in to Fetch.AI and watch markets spontaneously form from the bottom up.",
-    "total_supply": 1152997575,
-    "circulating_supply": 112497353.936,
-    "websites": [
-      "https://fetch.ai"
-    ],
-    "explorers": [
-      "https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd",
-      "https://ethplorer.io/address/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd",
-      "https://enjinx.io/address/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "https://t.me/fetch_ai",
-    "bitcointalk": "",
-    "facebook": "",
-    "twitter": "https://twitter.com/fetch_ai",
-    "reddit": "https://reddit.com/r/FetchAI_Community",
-    "repository": "https://github.com/fetchai/ledger"
-  },
   "gifto": {
     "description": "Gifto as a network protocol, is a brainchild of Andy Tian, the co-founder and CEO of Asia Innovations Group (AIG). The team at AIG comprises of crypto-technology and blockchain enthusiasts.\r\n\r\nAndy saw potential in designing a decentralized network powered by the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain to fix the current broken content monetization model with a better model. Most people introduced to the global content industry will identify the following problems with the current model:\r\nThe Gifto network was launched in December 2017 and has been tested along with AIG’s flagship product, Uplive.  Uplive is a live streaming mobile application with over 20 million users.\r\n\r\nAn official Gifto report in February 2018, stated that Gifto featured in the top 10 traded cryptocurrencies by volume. The universal blockchain-based virtual gifting protocol has not only bridged the gap between content creators and the audience but has also introduced a way to acknowledge and reward the content creators. Besides monetizing decentralized content, it has revamped the modern creator-audience relationship.\r\n\r\nIt has already received support from a number of large institutional investors including KPCB and Wicklow Capital. This can only be seen a positive for Gifto as it proves that the idea has been scrutinized and accepted by a fairly large number of people.",
     "total_supply": 1000000000,
@@ -1884,27 +1844,6 @@
     "coingeckoID": "lunyr",
     "auditInfos": [],
     "whitepaper": []
-  },
-  "moeda": {
-    "description": "Moeda is a cooperative banking system powered by blockchain, built for everyone",
-    "total_supply": 19628888,
-    "circulating_supply": 17773197.641131464,
-    "websites": [
-      "https://moedaseeds.com"
-    ],
-    "explorers": [
-      "https://etherscan.io/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
-      "https://ethplorer.io/address/0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
-      "https://enjinx.io/eth/token/0x51db5ad35c671a87207d88fc11d593ac0c8415bd"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "",
-    "bitcointalk": "https://bitcointalk.org/index.php?topic=2027555",
-    "facebook": "https://facebook.com/moedaseeds",
-    "twitter": "https://twitter.com/moedaseeds",
-    "reddit": "https://reddit.com/r/MoedaBanking",
-    "repository": "https://github.com/moedabank/moeda"
   },
   "mithril": {
     "description": "Mithril is a decentralized ecosystem on the ethereum blockchain. It is a system that rewards users who engage in “social mining”. Mithril rewards users for the impact their content may have in viewers and the popularity it attracts, such as number of likes and views.  In the blockchain network and cryptocurrency, Mithril is a very innovative idea that aims to change the way we think about social media entirely. This particular innovation will decentralize and reward social media content creators in a fair and open way.The process of building a social media platform from the scratch is a long, rigorous and exhausting one. Even though blockchain based social media platforms are not new innovations, they usually cannot interact with existing platforms. The Mithril integration protocol permits MITH mining on all social media networks. Therefore, Mithril can also leverage existing sites for their own purposes. In addition, it permits content influencers to make use of their pre-existing followers network to mine Mithril. This acts as a big plus to the Mithril ecosystem. It requires less stress and work than establishing followers on an entirely new platform. It also helps Mithril to have an edge and a bigger pool of users. This means that, content providers only need to start making use of the Mithril integration protocol in order to make more money.\r\n\r\nInstead of an ICO, Mithril held a private crowdsale where 400,000,000 MITH was distributed and 50,000,000 was retained by the Mithril team for development and marketing. Mithril MITH tokens are mined by participating on partner applications and this social mining is a gamechanger. Creating and sharing content earns Mithril MITH, which can then be spent with partner applications. Because mythril is a crafting ingredient in the Final Fantasy video game series, online searches for how to spend MITH have these pages mixed in, which will likely continue for several years until the platform gains enough big-name retail spending partners to rise up SEO rankings.\r\n\r\nMITH is currently available on Bithumb and OKEx, but more exchanges will likely list the token soon. Although exchanges are never the best place to store your cryptocurrencies due to security concerns, this is one possibility. Better would be to store them using an ERC-20 wallet that allows you to add custom tokens, such as MyEtherWallet, <a href=\"https://coingecko.com/buzz/how-to-use-mycrypto-desktop-app?locale=en\">MyCrypto</a>, or Coinfy.\r\n\r\nAlthough the Mithril platform and its flagship social network Lit are still in fairly early development, as an early mover, they are poised to be a leader in the decentralized social networking space. If Mithril gets its way, centralized social networking companies may soon have worthy competitors that offer users more control of their data while rewarding people for creating the content that is ultimately the life-blood of all social networks.",
@@ -2160,27 +2099,6 @@
     "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
-  },
-  "tnb": {
-    "description": "TNB is token represent to Miao'A International Timechain (M.I.T). That is dedicated to building a precision time-valuebased transmission network.",
-    "total_supply": 4415707418,
-    "circulating_supply": 2612987802,
-    "websites": [
-      "https://tnb.fund"
-    ],
-    "explorers": [
-      "https://etherscan.io/token/0xf7920b0768ecb20a123fac32311d07d193381d6f",
-      "https://ethplorer.io/address/0xf7920b0768ecb20a123fac32311d07d193381d6f",
-      "https://enjinx.io/eth/token/0xf7920b0768ecb20a123fac32311d07d193381d6f"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "https://t.me/tnbgroup",
-    "bitcointalk": "",
-    "facebook": "",
-    "twitter": "https://twitter.com/TimeNewBank",
-    "reddit": "https://reddit.com/r/TimeNewBank",
-    "repository": "https://github.com/fanxiong/crowdsale-contracts"
   },
   "tierion": {
     "description": "Tierion is launching a universal platform for data verification that operates at massive scale. Businesses safeguard and notarize important documents such as property titles and contracts to ensure anyone can prove their veracity. Surprisingly, there isn’t a universal equivalent for safeguarding digital data. Companies in healthcare, insurance, and financial services are trusted with safeguarding huge volumes of critical data. Proving the authenticity of information within these industries is currently cumbersome, expensive, and in many cases impossible.\r\n\r\n",
@@ -2471,27 +2389,6 @@
     "whitepaper": [
       "https://cindicator.com/Cindicator_WhitePaper_en.pdf"
     ]
-  },
-  "digix": {
-    "description": "Digix makes it possible to buy gold in an efficient manner via cryptocurrency by providing investors with a tokenized version of gold so you don’t have to physically own or store it. Digix has two cryptocurrencies, <a href=\"https://coingecko.com/en/coins/digix-gold\">Digix Gold (DGX)</a> and DigixDAO (DGD), each of which serves a key role in the structure.  The company proudly gets 99.99 percent of its gold from LBMA-approved refiners, with zero percent from fractional reserves, delivering confidence. With Digix, investors can take advantage of the stability and value of gold as well as the ease of cryptocurrency. Digix essentially tokenizes gold within Ethereum. It takes advantage of the Distributed Ledger’s immutability, auditability, and transparency, applying all these benefits to the precious physical asset of gold. Additionally, Digix has developed multiple technologies, such as the DGX tokens and <a href=\"https://coingecko.com/buzz/digixdao-introduces-gold-tokens-ethereum\">introduced a new Proof of Asset protocol</a> (POA).\r\n\r\nA key feature of Digix is its physical gold bullion. By investing, users buy bullion from the LBMA refineries, including the Assay Certificates from refiners like Nadir Bullion, PAMP Suisse, Valcambi, and others. For security, Digix includes third-party auditing from Bureau Veritas. Every quarter, it audits each gold asset within the safehouse vaults. This auditor has been in business since 1828 and is a world leader in certification, inspection, and testing services. With such a long track record, investors should be able to trust Bureau Veritas for their auditing services. Finally, Digix involves recast, which means customers can take their DGX delivery at the partnering custodial vault. \r\n\r\nDigix incorporated in Singapore in December 2014 and the DGD crowdsale took place on March 30th, 2016. It was the first ever crowdsale and major Distributed Autonomous Organization hosted on the <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> network. The sale intended to run for 30 days but met its 5.5 million dollars hard cap in just 12 hours, selling 1.7 million DGD tokens and reserving 300,000 for the Digix team. Pledges who sent over 15,000 USD worth of Ether received a special badge which will allow them to submit proposals to the DigixDAO. For better or worse, when you see the word DAO, you might think of hacking. In July 2017, over 4000 DGD were indeed stolen due to a vulnerability in the crowdsale smart contract. The bug was eventually fixed and the tokens reimbursed to the 35 affected addresses.\r\n\r\nIn January 2018, the vast majority of the cryptocurrency market crashed. DGD was the only coin in the top 100 to rise in value in that time. Perhaps this is an early indicator that people will seek gold as a safe haven during times of market uncertainty. The ICO price of DGD was about 3 dollars, but in 2018, DGD reached an all-time high of over 400 dollars. When Digix finally delivers the DGX tokens and the rewards to DGD participants start rolling in, we might see an even higher demand for DigixDAO. When DGX goes live, it will be available for purchase with Ether on the Digix marketplace.\r\n\r\n\r\n\r\n",
-    "total_supply": 1999999,
-    "circulating_supply": 1999999,
-    "websites": [
-      "https://digix.global"
-    ],
-    "explorers": [
-      "https://etherscan.io/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
-      "https://ethplorer.io/address/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
-      "https://enjinx.io/eth/token/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "",
-    "bitcointalk": "https://bitcointalk.org/index.php?topic=1417151",
-    "facebook": "",
-    "twitter": "https://twitter.com/digixglobal",
-    "reddit": "https://reddit.com/r/digix",
-    "repository": "https://github.com/DigixGlobal/cacp-contracts"
   },
   "agrello": {
     "description": "Agrello develops an AI powered interface, allowing you to easily create and manage smart-contract-based agreements which are legally binding, just like traditional contracts. Agrello is highly end-user oriented and enables anyone to create smart-contracts. No coding or legal skills required.",
@@ -3206,16 +3103,47 @@
     ]
   },
   "ethos": {
-    "description": "Ethos is a people-powered financial services company that makes it easy and safe for users to interact with the new economy. ",
+    "description": "The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem.",
     "total_supply": 222295208,
     "circulating_supply": 117621897.36213696,
     "websites": [
-      "https://ethos.io"
+      "https://www.vgxfoundation.com"
     ],
     "explorers": [
       "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756",
       "https://ethplorer.io/address/0x5af2be193a6abca9c8817001f45744777db30756",
       "https://enjinx.io/eth/token/0x5af2be193a6abca9c8817001f45744777db30756"
+    ],
+    "medium": "https://medium.com/@vgxfoundation",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "ethoseth": {
+    "description": "Ethos and its 'Magic Keys' lets you safely store and trade without having to worry about loosing access to your wallet.",
+    "total_supply": 5000000000,
+    "circulating_supply": 0,
+    "websites": [
+      "https://ethos.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e",
+      "https://ethplorer.io/address/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e",
+      "https://enjinx.io/eth/token/0xcdb8fc4ef27dfeaba9b31899a9d165398bf97b9e"
     ],
     "medium": "",
     "discord": "",
@@ -3234,7 +3162,9 @@
     "coinMarketCapID": "",
     "coingeckoID": "",
     "auditInfos": [],
-    "whitepaper": []
+    "whitepaper": [
+      "https://www.ethos.io/whitepaper"
+    ]
   },
   "coinfi": {
     "description": "CoinFi(COFI) is a decentralized market intelligence platform providing investors and traders with information needed to make wise market decisions. With the ever-growing list of coins and tokens on the market, for traders and investors alike, there is a distinct lack of information. What information that is available is scattered across various social media platforms, blogs and podcasts. Harnessing and processing this information can be quite tedious and fatigue can result in poor decisions.\r\n\r\nCoinFi seeks to allow users to monitor and analyze real-time market data with a crowdsourced and curated news database. News from various channels will be surfaced by incentivized community curators who will be rewarded with CoinFi tokens for being the first to surface a high-value content. CoinFi will also store and display historical news and its effects on a coin, filtering all news submissions based on relevancy, category and recency. There are various trading Signals indicative of market movement. CoinFi will internally develop quantitative models based on high-frequency hedge funds in the equities market, while traders will also have the opportunity to share and monetize their own trading signals in a manner of crowdsourcing market intelligence. CoinFi plans to start off targeting existing retail traders in cryptocurrency and as the platform grows, move upmarket and develop further features catering to institutional traders. There will be 3 tiers of subscription: Free, Stake and Premium, with varying degrees of access to market information.",
@@ -5028,27 +4958,6 @@
     "whitepaper": [
       "https://developers.tron.network/docs"
     ]
-  },
-  "btt": {
-    "description": "Blocktrade.com is a top-tier trading facility for Crypto Assets, Crypto Traded Indices™, and other blockchain related Financial Instruments.\r\nWe bring blockchain-based technologies and crypto assets to a unified and connected marketplace. It is Swiss guarded with the highest security and integrity features, performance driven, high volume and market-depth that meets stringent statutory compliance.\r\n\r\nBlocktrade.com will bring you the sophistication and the simplicity you need, with institutional features at the palm of your hand.",
-    "total_supply": 57746762,
-    "circulating_supply": 55387833.52876051,
-    "websites": [
-      "https://blocktrade.com"
-    ],
-    "explorers": [
-      "https://etherscan.io/token/0xfa456cf55250a839088b27ee32a424d7dacb54ff",
-      "https://ethplorer.io/address/0xfa456cf55250a839088b27ee32a424d7dacb54ff",
-      "https://enjinx.io/eth/token/0xfa456cf55250a839088b27ee32a424d7dacb54ff"
-    ],
-    "medium": "",
-    "discord": "",
-    "telegram": "",
-    "bitcointalk": "",
-    "facebook": "https://facebook.com/Blocktradecom",
-    "twitter": "https://twitter.com/Blocktradecom",
-    "reddit": "",
-    "repository": "https://github.com/InoCoin/ino-client"
   },
   "bitcoinzero": {
     "description": "Privacy based Bitcoin with Masternodes. ",
@@ -17947,8 +17856,9 @@
     "twitch": "",
     "linkedin": "",
     "cryptoCompareID": "",
-    "coinMarketCapID": "kaddex",
-    "coingeckoID": "kaddex",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "livecoinwatchID": "KDX",
     "auditInfos": [
       {
         "auditor": "nccgroup",
@@ -19750,6 +19660,37 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "hamsterkombatton": {
+    "description": "Make your way from the shaved hamster to the grandmaster CEO of the tier-1 crypto exchange. Buy upgrades, complete quests, invite friends and become the best",
+    "total_supply": 100000000000,
+    "circulating_supply": 64375000000,
+    "websites": [
+      "https://hamsterkombatgame.io"
+    ],
+    "explorers": [
+      "https://tonviewer.com/EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/hamster_kombat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/hamster_kombat",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "hamster-kombat",
+    "coingeckoID": "hamster-kombat",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://hamsterkombatgame.io/docs/HK_WP_03.pdf"
+    ]
+  },
   "tao": {
     "description": "Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. Machine learning models train collaboratively and are rewarded in TAO according to the informational value they offer the collective. TAO also grants external access, allowing users to extract information from the network while tuning its activities to their needs.",
     "total_supply": 21000000,
@@ -19943,6 +19884,268 @@
     ],
     "whitepaper": [
       "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    ]
+  },
+  "blast": {
+    "description": "Blast is the only Ethereum L2 with native yield for ETH and stablecoins.",
+    "total_supply": 100000000000,
+    "circulating_supply": 100000000000,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethereum",
+    "coingeckoID": "ethereum",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "blastblast": {
+    "description": "Blast is the only Ethereum L2 with native yield for ETH and stablecoins.",
+    "total_supply": 100000000000,
+    "circulating_supply": 100000000000,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "blast",
+    "coingeckoID": "blast",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wbtcblast": {
+    "description": "Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Wrapped Bitcoin(WBTC) is the first ERC20 token backed 1: 1 with Bitcoin. Completely transparent. 100% verifiable.Community led.",
+    "total_supply": 44.92940603,
+    "circulating_supply": 9697806943.00,
+    "websites": [
+      "https://wbtc.network"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
+      "https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://enjinx.io/en-GB/eth/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "https://ftmscan.com/token/0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "https://explorer-mainnet.maticvigil.com/tokens/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6/token-transfers"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "WBTC",
+    "coinMarketCapID": "wrapped-bitcoin",
+    "coingeckoID": "wrapped-bitcoin",
+    "auditInfos": [
+      {
+        "auditor": "SlowMist",
+        "reportUrl": "https://www.slowmist.com/en/security-audit-certificate.html?id=19b0299be6f8f7bc6fc7a701aed5a28bae5c2225c122b3637c593420a4070c55"
+      }
+    ],
+    "whitepaper": [
+      "https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf"
+    ]
+  },
+  "wethblast": {
+    "description": "Ethereum is a <a href=\"https://coingecko.com/en?category_id=29&view=market\">smart contract platform</a> that enables developers to build tokens and decentralized applications (dapps). ETH is the native currency for the Ethereum platform and also works as the transaction fees to miners on the Ethereum network.\r\n\r\nEthereum is the pioneer for blockchain based smart contracts. Smart contract is essentially a computer code that runs exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference. It can facilitate the exchange of money, content, property, shares, or anything of value. When running on the blockchain a smart contract becomes like a self-operating computer program that automatically executes when specific conditions are met.\r\n\r\nEthereum allows programmers to run complete-turing smart contracts that is capable of any customizations. Rather than giving a set of limited operations, Ethereum allows developers to have complete control over customization of their smart contract, giving developers the power to build unique and innovative applications.\r\n\r\nEthereum being the first blockchain based smart contract platform, they have gained much popularity, resulting in new competitors fighting for market share. The competitors includes: <a href=\"https://coingecko.com/en/coins/ethereum_classic\">Ethereum Classic</a> which is the oldchain of Ethereum, <a href=\"https://coingecko.com/en/coins/qtum\">Qtum</a>, <a href=\"https://coingecko.com/en/coins/eos\">EOS</a>, <a href=\"https://coingecko.com/en/coins/neo\">Neo</a>, <a href=\"https://coingecko.com/en/coins/icon\">Icon</a>, <a href=\"https://coingecko.com/en/coins/tron\">Tron</a> and <a href=\"https://coingecko.com/en/coins/cardano\">Cardano</a>.\r\n\r\nEthereum wallets are fairly simple to set up with multiple popular choices such as myetherwallet, <a href=\"https://coingecko.com/buzz/complete-beginners-guide-to-metamask?locale=en\">metamask</a>, and <a href=\"https://coingecko.com/buzz/trezor-model-t-wallet-review\">Trezor</a>. Read here for more guide on using ethereum wallet: <a href=\"https://coingecko.com/buzz/how-to-use-an-ethereum-wallet\">How to Use an Ethereum Wallet</a>",
+    "total_supply": 181129.592488127017262493,
+    "circulating_supply": 7682756585.00,
+    "websites": [
+      "https://ethereum.org"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0x4300000000000000000000000000000000000004"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=428589",
+    "facebook": "https://facebook.com/ethereumproject",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "repository": "https://github.com/ethereum/go-ethereum",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "WETH",
+    "coinMarketCapID": "weth",
+    "coingeckoID": "weth",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdbblast": {
+    "description": "Blast's native stablecoin.",
+    "total_supply": 239756886.475667824985261229,
+    "circulating_supply": 405998035.00,
+    "websites": [
+      "https://blast.io"
+    ],
+    "explorers": [
+      "https://blastscan.io/token/0x4300000000000000000000000000000000000003"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/blast-l2",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/Blast",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "usdblast",
+    "coinMarketCapID": "usdb",
+    "coingeckoID": "usdb",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "near": {
+    "description": "NEAR Protocol is a decentralized application platform designed to make apps usable on the web. The network runs on a Proof-of-Stake (PoS) consensus mechanism called Nightshade, which aims to offer scalability and stable fees.",
+    "total_supply": 1000000000,
+    "circulating_supply": 290164001,
+    "websites": [
+      "https://near.org"
+    ],
+    "explorers": [
+      "https://nearblocks.io",
+      "https://bscscan.com/token/0x1fa4a73a3f0133f0025378af00236f3abdee5d63"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/nearprotocol",
+    "telegram": "https://t.me/cryptonear",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/nearprotocol",
+    "reddit": "https://www.reddit.com/r/nearprotocol",
+    "repository": "https://github.com/near",
+    "youtube": "https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "NEAR",
+    "coinMarketCapID": "near-protocol",
+    "coingeckoID": "near",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdtnear": {
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    "total_supply": 1550057493.363429,
+    "circulating_supply": 1550057493.363429,
+    "websites": [
+      "https://tether.to"
+    ],
+    "explorers": [
+      "https://nearblocks.io/token/usdt.tether-token.near",
+      "https://tonscan.org/jetton/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://enjinx.io/eth/token/0xdac17f958d2ee523a2206206994597c13d831ec7"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "https://facebook.com/tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDT",
+    "coinMarketCapID": "tether",
+    "coingeckoID": "tether",
+    "auditInfos": [
+      {
+        "auditor": "CertiK",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=tether"
+      }
+    ],
+    "whitepaper": [
+      "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    ]
+  },
+  "usdcnear": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
     ]
   }
 }
