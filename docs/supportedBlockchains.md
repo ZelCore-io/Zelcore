@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 81
-- **Total Coins (including tokens)**: 588
+- **Total Blockchains**: 85
+- **Total Coins (including tokens)**: 604
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -22,13 +22,14 @@ This document provides an overview of the supported blockchains and their associ
 | beldex | Beldex | cryptonight | BDX | None |
 | bitcoin | Bitcoin Legacy | blockbook | BTC | USDT, MAID |
 | bitcoincash | Bitcoin Cash | blockbook | BCH | None |
-| bitcoingold | Bitcoin Gold | btc | BTG | None |
+| bitcoingold | Bitcoin Gold | blockbook | BTG | None |
 | bitcoinnativesegwit | Bitcoin Native Segwit | blockbook | BTC | None |
 | bitcointaproot | Bitcoin Taproot | blockbook | BTC | None |
 | bitcoinz | BitcoinZ | zcash | BTCZ | None |
 | bitcoinzero | Bitcoin Zero | electrum | BZX | None |
 | bitcore | Bitcore | electrum | BTX | None |
 | bithereum | Bithereum | electrum | BTH | None |
+| blast | Ethereum BLAST | blast | ETH | BLAST, WBTC, WETH, USDB |
 | bnbbinance | BNB (BC) BEP2 | bnb | BNB | BTCB, RUNE, TUSD, BUSD, NEXO, CHZ, NOW |
 | bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI |
 | btcp | Bitcoin Private | zcash | BTCP | None |
@@ -61,10 +62,12 @@ This document provides an overview of the supported blockchains and their associ
 | litecoinnativesegwit | Litecoin Native Segwit | blockbook | LTC | None |
 | litecointaproot | Litecoin Taproot | blockbook | LTC | None |
 | lunaterra | Terra | terra | LUNC | mAMZN, mAAPL, mABNB, mCOIN, mMSFT, mGOOGL, mTSLA, mTWTR, mNFLX |
-| maticpolygon | Polygon | polygon | MATIC | WETH, USDT, USDC.E, USDC, QUICK, UNI, LINK, WBTC, DAI, AAVE, SUSHI, SNX, TEL, NEXO, UBT, WRX, CTSI, WOO, FISH, HEX, OM, KNC, FLUX-MATIC |
+| maticpolygon | Polygon | polygon | POL | WETH, USDT, USDC.E, USDC, QUICK, UNI, LINK, WBTC, DAI, AAVE, SUSHI, SNX, TEL, NEXO, UBT, WRX, CTSI, WOO, FISH, HEX, OM, KNC, FLUX-POL |
 | monero | Monero | cryptonight | XMR | None |
+| near | Near | near | NEAR | USDT, USDC |
 | neo | NEO Legacy | neo | NEO | FISH |
 | ontology | Ontology | ontology | ONT | None |
+| optimism | Ethereum OP | optimism | ETH | OP, USDC, DAI, USDT |
 | raptoreum | Raptoreum | electrum | RTM | None |
 | ravencoin | Ravencoin | btc | RVN | NAHAN, SEEDMONEY |
 | ripple | XRP | ripple | XRP | None |
@@ -81,7 +84,7 @@ This document provides an overview of the supported blockchains and their associ
 | testnetkadena | Testnet Kadena | kadena | TESTKDA | None |
 | testnetsepoliaethereum | Testnet Sepolia Ethereum | sepolia | TESTETH | None |
 | testnetwnd | Testnet Westend | substrate | TESTWND | None |
-| toncoin | Toncoin | tonbasechain | TON | USDT, NOT, DOGS |
+| toncoin | Toncoin | tonbasechain | TON | USDT, NOT, DOGS, HMSTR |
 | tron | TRON | tron | TRX | BTT, GENX, JST, USDT, REV, SUNOLD, USDJ, SUN, FLUX-TRX, BTT, USDC |
 | veriblock | VeriBlock | veriblock | VBK | None |
 | vertcoin | Vertcoin | blockbook | VTC | None |

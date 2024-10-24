@@ -1,6 +1,46 @@
 
 # Changelog
 
+## [8.8.0] - Powered by Flux
+
+We are thrilled to announce Version 8.8.0 of our wallet, introducing groundbreaking features and enhancements that elevate your crypto experience. Here's what's new:
+
+### Added
+- **Crypto-to-Fiat Offramp:** Introducing off-ramp functionality, allowing you to seamlessly convert cryptocurrencies to fiat. This marks a new era in our wallet's capabilities. Only for supported countries.
+- **NEAR Blockchain Support:** You can now manage assets on the NEAR blockchain, including:
+  - USDC
+  - USDT
+- **WalletConnect Revamp:** We've completely overhauled WalletConnect integration to ensure a smoother experience and access to advanced features.
+- **Hamster Kombat Token on TON Blockchain:** We've added support for the Hamster Kombat (HMSTR) token on the TON blockchain.
+
+### Updated
+- **UI/UX Enhancements in Purchase Section:** We've made significant improvements to the user interface and experience in the purchase section for more intuitive navigation and ease of use.
+
+### Fixed
+- **Security Update:** Updated security configurations and packages.
+
+## [8.7.0] - Powered by Flux
+
+Version 8.7.0 brings exciting new integrations, updates, and improvements designed to enhance your wallet’s functionality and user experience. Here’s what’s new:
+
+### Added
+- **Blast Blockchain Support:** We’ve introduced support for the Blast blockchain, allowing users to manage the following tokens:
+  - Blast
+  - WBTC (Wrapped Bitcoin)
+  - WETH (Wrapped Ethereum)
+  - USDB (USD Blast)
+  
+### Updated
+- **Token Updates:** Ethos, Cronos, and FET Token specifications have been updated.
+- **FullNode UI:** The FullNode interface has been revamped for a smoother and more intuitive user experience.
+- **FullNode Binaries:** We’ve updated the binaries for several supported blockchains to enhance performance and compatibility, including:
+  - Zcash
+  - BitcoinZ
+  - Groestlcoin
+
+### Fixed
+- **WalletConnect Enhancements:** Various improvements have been made to WalletConnect, including the ability to automatically disconnect sessions upon logging out for improved security and convenience.
+
 ## [8.6.2] - Powered by Flux (Windows Only)
 
 ### Fixed

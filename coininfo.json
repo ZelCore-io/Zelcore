@@ -7954,11 +7954,11 @@
     "whitepaper": []
   },
   "cro": {
-    "description": "Crypto.com Coin (CRO) is the native cryptocurrency token of Crypto.com Chain — a decentralized, open-source blockchain developed by the Crypto.com payment, trading and financial services company.",
-    "total_supply": 100000000000,
-    "circulating_supply": 22455707761,
+    "description": "The first blockchain that interoperates with both Ethereum and Cosmos ecosystems. For DeFi, NFTs, Games and Metaverse.",
+    "total_supply": 30000000000,
+    "circulating_supply": 26571560696,
     "websites": [
-      "https://chain.crypto.com"
+      "https://cronos.org"
     ],
     "explorers": [
       "https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
@@ -7966,20 +7966,20 @@
       "https://enjinx.io/eth/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
     ],
     "medium": "",
-    "discord": "",
-    "telegram": "https://t.me/CryptoComOfficial",
+    "discord": "https://discord.gg/cronos",
+    "telegram": "https://t.me/Cronos_POS_Announcements",
     "bitcointalk": "",
-    "facebook": "https://facebook.com/CryptoComOfficial",
-    "twitter": "https://twitter.com/cryptocom",
-    "reddit": "https://reddit.com/r/Crypto_com",
+    "facebook": "",
+    "twitter": "https://x.com/cronos_chain",
+    "reddit": "",
     "repository": "",
-    "youtube": "https://www.youtube.com/channel/UCOMprzxakZOqmY23LYIawmg",
-    "instagram": "https://www.instagram.com/cryptocomofficial",
+    "youtube": "",
+    "instagram": "",
     "tiktok": "",
     "twitch": "",
     "linkedin": "",
-    "cryptoCompareID": "CRO",
-    "coinMarketCapID": "crypto-com-coin",
+    "cryptoCompareID": "cro",
+    "coinMarketCapID": "cronos",
     "coingeckoID": "crypto-com-chain",
     "auditInfos": [
       {
@@ -7988,7 +7988,7 @@
       }
     ],
     "whitepaper": [
-      "https://www.crypto.com/images/chain_whitepaper.pdf"
+      "https://whitepaper.cronos.org"
     ]
   },
   "uma": {
@@ -8770,7 +8770,7 @@
     "whitepaper": []
   },
   "matic": {
-    "description": "Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
+    "description": "Polygon is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
     "total_supply": 10000000000,
     "circulating_supply": 4966397110,
     "websites": [
@@ -11917,12 +11917,11 @@
     ]
   },
   "feteth": {
-    "description": "Fetch.ai is delivering AI to the crypto economy. Autonomous Economic Agents, powered by artificial intelligence, can provide automation to decentralised finance that can serve the needs of a single user or aggregate millions of data points for on-chain oracles. These agent-based systems provide greater flexibility, speed and crypto-economic security than existing oracle networks and represent the future of decentralized finance. This technology enables creation of personalised oracles that maintain user’s DeFi positions using decentralized and non-custodial protocols to increase the security and convenience of crypto asset management. The Fetch.ai network is an interchain protocol, based on the Cosmos-SDK, and uses a high-performance WASM-based smart contract language (Cosmwasm) to allow advanced cryptography and machine learning logic to be implemented on chain. This also allows the Fetch.ai network to serve as a layer-2 network for Ethereum and as an interchain bridge to the rest of the blockchain world. ",
-    "total_supply": 1152997575,
-    "circulating_supply": 746113681,
+    "description": "As the largest open-sourced, independent entity in AI research and development, this alliance aims to accelerate the advancement of decentralized Artificial General Intelligence (AGI) and, ultimately, Artificial Superintelligence (ASI).",
+    "total_supply": 2719493896,
+    "circulating_supply": 2609959126,
     "websites": [
-      "https://fetch.ai",
-      "https://community.fetch.ai"
+      "https://www.superintelligence.io"
     ],
     "explorers": [
       "https://etherscan.io/token/0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
@@ -11930,15 +11929,15 @@
       "https://blockchair.com/ethereum/erc-20/token/0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
       "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f"
     ],
-    "medium": "https://medium.com/fetch-ai",
+    "medium": "",
     "discord": "",
-    "telegram": "https://t.me/fetch_ai",
+    "telegram": "https://t.co/hOfiBtUb9S",
     "bitcointalk": "",
     "facebook": "",
-    "twitter": "https://twitter.com/fetch_ai",
-    "reddit": "https://reddit.com/r/FetchAI_Community",
+    "twitter": "https://x.com/ASI_Alliance",
+    "reddit": "",
     "repository": "",
-    "youtube": "https://www.youtube.com/c/FetchAI",
+    "youtube": "",
     "instagram": "",
     "tiktok": "",
     "twitch": "",
@@ -11957,7 +11956,7 @@
       }
     ],
     "whitepaper": [
-      "https://fetch.ai/wp-content/uploads/2019/10/technical-introduction.pdf"
+      "https://434267010-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FE0eZgP8lxRNljW57Uw4H%2Fuploads%2FzuLTqcvU0P6PejPUONJG%2FArtificial%20Superintelligence%20(ASI)%20Alliance%20Vision%20Paper.pdf?alt=media&token=e794c589-d4ef-44d3-97c0-697b06956479"
     ]
   },
   "glmeth": {
@@ -12599,7 +12598,7 @@
     ]
   },
   "maticpolygon": {
-    "description": "Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
+    "description": "Polygon is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
     "total_supply": 10000000000,
     "circulating_supply": 4966397110,
     "websites": [
@@ -16423,7 +16422,7 @@
     "total_supply": 998926392,
     "circulating_supply": 998926392,
     "websites": [
-      "https://dogwifcoin.org/"
+      "https://dogwifcoin.org"
     ],
     "explorers": [
       "https://explorer.solana.com/address/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
@@ -19788,7 +19787,7 @@
     "total_supply": 4294967296,
     "circulating_supply": 1187596466,
     "websites": [
-      "https://www.optimism.io/"
+      "https://www.optimism.io"
     ],
     "explorers": [
       "https://optimistic.etherscan.io"
@@ -19817,7 +19816,7 @@
     "total_supply": 4294967296,
     "circulating_supply": 1187596466,
     "websites": [
-      "https://www.optimism.io/"
+      "https://www.optimism.io"
     ],
     "explorers": [
       "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042"

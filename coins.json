@@ -899,7 +899,7 @@
     "config": "bitcoingold",
     "rpcport": 8332,
     "testnetrpcport": 18332,
-    "type": "btc",
+    "type": "blockbook",
     "coinType": "native",
     "logolink": "@/assets/logos/BTG.svg",
     "fee": 2.26e-05,
@@ -5924,10 +5924,9 @@
   },
   "cro": {
     "coin": "cro",
-    "name": "Crypto.com Coin ERC20",
+    "name": "Cronos",
     "uri": [
-      "cro",
-      "crypto.comcoin"
+      "cro"
     ],
     "unit": "CRO",
     "type": "eth",
@@ -5941,7 +5940,7 @@
       "fast": 120
     },
     "contractAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-    "color": "#002559",
+    "color": "#2B3865",
     "decimals": 8
   },
   "uma": {
@@ -6512,7 +6511,7 @@
     "type": "eth",
     "family": "ethlike",
     "coinType": "token",
-    "logolink": "@/assets/logos/MATIC.svg",
+    "logolink": "@/assets/logos/POL.svg",
     "fee": 120000,
     "feepolicy": {
       "economy": 50,
@@ -8773,11 +8772,14 @@
   },
   "feteth": {
     "coin": "feteth",
-    "name": "Fetch.ai ERC20",
+    "name": "Artificial Superintelligence ERC20",
     "uri": [
       "fetch",
       "fet",
-      "feteth"
+      "feteth",
+      "artificial",
+      "superintelligence",
+      "asi"
     ],
     "unit": "FET",
     "type": "eth",
@@ -9228,7 +9230,7 @@
     "type": "polygon",
     "family": "ethlike",
     "coinType": "native",
-    "logolink": "@/assets/logos/MATIC.svg",
+    "logolink": "@/assets/logos/POL.svg",
     "fee": 21000,
     "feepolicy": {
       "economy": 22,
@@ -9244,7 +9246,7 @@
   },
   "wethpoly": {
     "coin": "wethpoly",
-    "name": "Wrapped Ether POLY",
+    "name": "Wrapped Ether POL",
     "uri": [
       "wethpoly",
       "wrappedether",
@@ -9267,7 +9269,7 @@
   },
   "usdtpoly": {
     "coin": "usdtpoly",
-    "name": "Tether POLY",
+    "name": "Tether POL",
     "uri": [
       "usdtpoly",
       "tether",
@@ -9290,7 +9292,7 @@
   },
   "usdcpoly": {
     "coin": "usdcpoly",
-    "name": "USD Coin Bridged POLY",
+    "name": "USD Coin Bridged POL",
     "uri": [
       "usdcpoly",
       "usdc",
@@ -9313,7 +9315,7 @@
   },
   "usdccirclepoly": {
     "coin": "usdccirclepoly",
-    "name": "USD Coin POLY",
+    "name": "USD Coin POL",
     "uri": [
       "usdccirclepoly",
       "usdc",
@@ -9336,7 +9338,7 @@
   },
   "quickpoly": {
     "coin": "quickpoly",
-    "name": "QuickSwap POLY",
+    "name": "QuickSwap POL",
     "uri": [
       "quickswap",
       "quick",
@@ -9359,7 +9361,7 @@
   },
   "unipoly": {
     "coin": "unipoly",
-    "name": "Uniswap POLY",
+    "name": "Uniswap POL",
     "uri": [
       "unipoly",
       "uni",
@@ -9382,7 +9384,7 @@
   },
   "linkpoly": {
     "coin": "linkpoly",
-    "name": "Chainlink POLY",
+    "name": "Chainlink POL",
     "uri": [
       "linkpoly",
       "link",
@@ -9405,7 +9407,7 @@
   },
   "wbtcpoly": {
     "coin": "wbtcpoly",
-    "name": "Wrapped Bitcoin POLY",
+    "name": "Wrapped Bitcoin POL",
     "uri": [
       "wbtcpoly",
       "wbtc",
@@ -9428,7 +9430,7 @@
   },
   "daipoly": {
     "coin": "daipoly",
-    "name": "Dai POLY",
+    "name": "Dai POL",
     "uri": [
       "daipoly",
       "dai",
@@ -9451,7 +9453,7 @@
   },
   "aavepoly": {
     "coin": "aavepoly",
-    "name": "Aave POLY",
+    "name": "Aave POL",
     "uri": [
       "aavepoly",
       "aave"
@@ -9473,7 +9475,7 @@
   },
   "sushipoly": {
     "coin": "sushipoly",
-    "name": "SushiSwap POLY",
+    "name": "SushiSwap POL",
     "uri": [
       "sushipoly",
       "sushi",
@@ -9496,7 +9498,7 @@
   },
   "snxpoly": {
     "coin": "snxpoly",
-    "name": "Synthetix POLY",
+    "name": "Synthetix POL",
     "uri": [
       "snxpoly",
       "snx",
@@ -9519,7 +9521,7 @@
   },
   "telpoly": {
     "coin": "telpoly",
-    "name": "Telcoin POLY",
+    "name": "Telcoin POL",
     "uri": [
       "telpoly",
       "tel",
@@ -9542,7 +9544,7 @@
   },
   "nexopoly": {
     "coin": "nexopoly",
-    "name": "Nexo POLY",
+    "name": "Nexo POL",
     "uri": [
       "nexopoly",
       "nexo"
@@ -9564,7 +9566,7 @@
   },
   "ubtpoly": {
     "coin": "ubtpoly",
-    "name": "Unibright POLY",
+    "name": "Unibright POL",
     "uri": [
       "ubtpoly",
       "ubt",
@@ -9587,7 +9589,7 @@
   },
   "wrxpoly": {
     "coin": "wrxpoly",
-    "name": "WazirX POLY",
+    "name": "WazirX POL",
     "uri": [
       "wrxpoly",
       "wrx",
@@ -9610,7 +9612,7 @@
   },
   "ctsipoly": {
     "coin": "ctsipoly",
-    "name": "Cartesi POLY",
+    "name": "Cartesi POL",
     "uri": [
       "ctsipoly",
       "ctsi",
@@ -9633,7 +9635,7 @@
   },
   "woopoly": {
     "coin": "woopoly",
-    "name": "WOO Network POLY",
+    "name": "WOO Network POL",
     "uri": [
       "woopoly",
       "woo",
@@ -9656,7 +9658,7 @@
   },
   "fishpoly": {
     "coin": "fishpoly",
-    "name": "Polycat Finance POLY",
+    "name": "Polycat Finance POL",
     "uri": [
       "fishpoly",
       "fish",
@@ -9679,7 +9681,7 @@
   },
   "hexpoly": {
     "coin": "hexpoly",
-    "name": "HEX POLY",
+    "name": "HEX POL",
     "uri": [
       "hexpoly",
       "hex"
@@ -9701,7 +9703,7 @@
   },
   "ompoly": {
     "coin": "ompoly",
-    "name": "MANTRA DAO POLY",
+    "name": "MANTRA DAO POL",
     "uri": [
       "ompoly",
       "om",
@@ -9724,7 +9726,7 @@
   },
   "kncpoly": {
     "coin": "kncpoly",
-    "name": "Kyber Network Crystal v2 POLY",
+    "name": "Kyber Network Crystal v2 POL",
     "uri": [
       "kncpoly",
       "knc",
@@ -13740,7 +13742,7 @@
   },
   "fluxmatic": {
     "coin": "fluxmatic",
-    "name": "Flux MATIC Token POLY",
+    "name": "Flux POL Token POL",
     "uri": [
       "fluxmatic"
     ],
