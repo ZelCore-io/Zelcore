@@ -1,13 +1,14 @@
 {
-  "version": "8.8.0",
+  "version": "8.8.2",
   "codename": "Powered by Flux",
   "info": [
-    "We are thrilled to announce Version 8.8.0 of our wallet, introducing groundbreaking features and enhancements that elevate your crypto experience. Here's what's new:"
+    "We are thrilled to announce Version 8.8.2 of our wallet, introducing groundbreaking features and enhancements that elevate your crypto experience. Here's what's new:"
   ],
   "bugs":[
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
+    "Three Protocol (THREE): Introduced full support for the THREE Protocol ERC20 token.",
     "Crypto-to-Fiat Offramp: Introducing off-ramp functionality, allowing you to seamlessly convert cryptocurrencies to fiat. This marks a new era in our wallet's capabilities. Only for supported countries.",
     "NEAR Blockchain Support: You can now manage assets on the NEAR blockchain, including: USDC, USDT",
     "WalletConnect Revamp: We've completely overhauled WalletConnect integration to ensure a smoother experience and access to advanced features.",

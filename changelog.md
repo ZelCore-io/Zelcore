@@ -1,6 +1,19 @@
 
 # Changelog
 
+## [8.8.2] - Powered by Flux
+
+### Added
+- **Three Protocol (THREE):** Introduced full support for the THREE Protocol ERC20 token.
+
+## [8.8.1] - Powered by Flux
+
+### Added
+- **Offramp:** Improving moonpay support for selling assets for fiat.
+
+### Fixed
+- **UI:** Fixed some UI related issues that will stop automatic refresh of wallet.
+
 ## [8.8.0] - Powered by Flux
 
 We are thrilled to announce Version 8.8.0 of our wallet, introducing groundbreaking features and enhancements that elevate your crypto experience. Here's what's new:
