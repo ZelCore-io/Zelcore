@@ -18562,6 +18562,37 @@
       "http://renderfoundation.com/whitepaper"
     ]
   },
+  "threeeth": {
+    "description": "Three Protocol Token (THREE) stands out as a utility token designed to empower decentralized governance and financial mechanisms within the Three Protocol ecosystem. Unlike traditional securities or investment vehicles, THREE provides holders with voting rights, enabling them to participate actively in the decision-making processes of the ecosystem.",
+    "total_supply": 100000000,
+    "circulating_supply": 7343981.00,
+    "websites": [
+      "https://www.threeprotocol.ai"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xa059b81568fee88791de88232e838465826cf419"
+    ],
+    "medium": "https://medium.com/@jobs3io",
+    "discord": "",
+    "telegram": "https://t.me/Threeprotocol",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/profile.php?id=61558495460634",
+    "twitter": "https://x.com/threeprotocol",
+    "reddit": "https://www.reddit.com/r/Jobs3/?rdt=40245",
+    "repository": "https://github.com/ThreeProtocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "three",
+    "coinMarketCapID": "three-protocol-token",
+    "coingeckoID": "three",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://three-3.gitbook.io/litepaper"
+    ]
+  },
   "algorand": {
     "description": "Algorand is a self-sustaining, decentralized, blockchain-based network that supports a wide range of applications. These systems are secure, scalable and efficient, all critical properties for effective applications in the real world. Algorand will support computations that require reliable performance guarantees to create new forms of trust.",
     "total_supply": 10000000000,
@@ -19699,7 +19730,7 @@
       "https://bittensor.com"
     ],
     "explorers": [
-      "https://x.taostats.io",
+      "https://taostats.io",
       "https://bittensor.com/scan"
     ],
     "medium": "https://blog.bittensor.com",

@@ -13,6 +13,7 @@
     "NEAR Blockchain Support: You can now manage assets on the NEAR blockchain, including: USDC, USDT",
     "WalletConnect Revamp: We've completely overhauled WalletConnect integration to ensure a smoother experience and access to advanced features.",
     "Hamster Kombat Token on TON Blockchain: We've added support for the Hamster Kombat (HMSTR) token on the TON blockchain.",
+    "Offramp: Improving moonpay support for selling assets for fiat.",
     "Packages: Various packages have been updated to improve security and performance.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
