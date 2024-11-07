@@ -13566,28 +13566,6 @@
     "color": "#da8e2e",
     "decimals": 18
   },
-  "threeeth": {
-    "coin": "threeeth",
-    "name": "Three ERC20",
-    "uri": [
-      "three",
-      "threeeth"
-    ],
-    "unit": "THREE",
-    "type": "eth",
-    "family": "ethlike",
-    "coinType": "token",
-    "logolink": "@/assets/logos/THREE.svg",
-    "fee": 120000,
-    "feepolicy": {
-      "economy": 50,
-      "normal": 80,
-      "fast": 120
-    },
-    "contractAddress": "0xa059b81568fee88791de88232e838465826cf419",
-    "color": "#BC90FF",
-    "decimals": 9
-  },
   "algorand": {
     "coin": "algorand",
     "name": "Algorand",

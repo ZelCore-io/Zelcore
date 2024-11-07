@@ -1,10 +1,14 @@
 
 # Changelog
 
+## [8.8.3] - Powered by Flux
+
+### Fixed
+- **Various Fixes:** Fixed swap native coin fee calculations and DAI price display for some networks.
+
 ## [8.8.2] - Powered by Flux
 
-### Added
-- **Three Protocol (THREE):** Introduced full support for the THREE Protocol ERC20 token.
+Not Released
 
 ## [8.8.1] - Powered by Flux
 
