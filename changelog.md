@@ -8,7 +8,8 @@
 
 ## [8.8.2] - Powered by Flux
 
-Not Released
+### Added
+- **Three Protocol (THREE):** Introduced full support for the THREE Protocol ERC20 token.
 
 ## [8.8.1] - Powered by Flux
 
