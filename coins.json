@@ -14809,5 +14809,99 @@
     },
     "color": "#2775CA",
     "decimals": 6
+  },
+  "zksync": {
+    "coin": "zksync",
+    "name": "Ethereum ZkSync Era",
+    "uri": [
+      "ethereumzksync"
+    ],
+    "chainID": 324,
+    "slip": 60,
+    "unit": "ETH",
+    "type": "zksync",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/ETH.svg",
+    "fee": 200000,
+    "feepolicy": {
+      "economy": 0.05,
+      "normal": 0.1,
+      "fast": 0.2
+    },
+    "contractAddress": "0x32400084c286cf3e17e7b677ea9583e60a000324",
+    "color": "#B0B0B0",
+    "decimals": 18
+  },
+  "zksynczksync": {
+    "coin": "zksynczksync",
+    "name": "ZKsync Token ZkSync Era",
+    "uri": [
+      "zksync"
+    ],
+    "chainID": 324,
+    "slip": 60,
+    "unit": "ZK",
+    "type": "zksync",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZK.svg",
+    "fee": 200000,
+    "feepolicy": {
+      "economy": 0.05,
+      "normal": 0.1,
+      "fast": 0.2
+    },
+    "contractAddress": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "usdtzksync": {
+    "coin": "usdtzksync",
+    "name": "USDT ZkSync Era",
+    "uri": [
+      "usdtzksync",
+      "usdtcoin",
+      "usdt"
+    ],
+    "unit": "USDT",
+    "type": "zksync",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDT.svg",
+    "contractAddress": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+    "slip": 60,
+    "fee": 200000,
+    "feepolicy": {
+      "economy": 0.05,
+      "normal": 0.1,
+      "fast": 0.2
+    },
+    "color": "#50AF95",
+    "decimals": 6
+  },
+  "usdczksync": {
+    "coin": "usdczksync",
+    "name": "USD Coin ZkSync Era",
+    "uri": [
+      "usdczksync",
+      "usdcoin",
+      "usdc"
+    ],
+    "unit": "USDC",
+    "type": "zksync",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDC.svg",
+    "contractAddress": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+    "slip": 60,
+    "fee": 200000,
+    "feepolicy": {
+      "economy": 0.05,
+      "normal": 0.1,
+      "fast": 0.2
+    },
+    "color": "#2775CA",
+    "decimals": 6
   }
 }
