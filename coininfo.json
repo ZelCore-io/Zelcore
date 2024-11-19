@@ -20178,5 +20178,150 @@
     "whitepaper": [
       "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
     ]
+  },
+  "zksync": {
+    "description": "zkSync is a trustless scaling and privacy solution for Ethereum. It’s a technology for scaling public blockchains by moving the computation off-chain. It’s trustless, secure, and has no compromises on decentralization.",
+    "total_supply": 120234271,
+    "circulating_supply": 120234271,
+    "websites": [
+      "https://zksync.io"
+    ],
+    "explorers": [
+      "https://explorer.zksync.io",
+      "https://era.zksync.network",
+      "https://zksync-era.l2scan.co",
+      "https://zksync.blockscout.com",
+      "https://zkscan.io",
+      "https://hyperscan.xyz"
+    ],
+    "medium": "",
+    "discord": "https://join.zksync.dev",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/zksync",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethereum",
+    "coingeckoID": "ethereum",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "zksynczksync": {
+    "description": "zkSync is a trustless scaling and privacy solution for Ethereum. It’s a technology for scaling public blockchains by moving the computation off-chain. It’s trustless, secure, and has no compromises on decentralization.",
+    "total_supply": 12106891188,
+    "circulating_supply": 532255445,
+    "websites": [
+      "https://zksync.io"
+    ],
+    "explorers": [
+      "https://explorer.zksync.io",
+      "https://era.zksync.network",
+      "https://zksync-era.l2scan.co",
+      "https://zksync.blockscout.com",
+      "https://zkscan.io",
+      "https://hyperscan.xyz"
+    ],
+    "medium": "",
+    "discord": "https://join.zksync.dev",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/zksync",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "zksync",
+    "coingeckoID": "zksync",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdtzksync": {
+    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    "total_supply": 1550057493.363429,
+    "circulating_supply": 1550057493.363429,
+    "websites": [
+      "https://tether.to"
+    ],
+    "explorers": [
+      "https://nearblocks.io/token/usdt.tether-token.near",
+      "https://tonscan.org/jetton/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+      "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://enjinx.io/eth/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "https://era.zksync.network/token/0x493257fd37edb34451f62edf8d2a0c418852ba4c"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "https://facebook.com/tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDT",
+    "coinMarketCapID": "tether",
+    "coingeckoID": "tether",
+    "auditInfos": [
+      {
+        "auditor": "CertiK",
+        "reportUrl": "https://cmc.certik-skynet.com/redirect?project=tether"
+      }
+    ],
+    "whitepaper": [
+      "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    ]
+  },
+  "usdczksync": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://era.zksync.network/token/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
   }
 }
