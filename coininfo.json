@@ -18863,7 +18863,7 @@
     "discord": "https://discord.gg/bUQ7Hwwb",
     "telegram": "https://t.me/kaspaenglish",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5373286.0",
-    "facebook": "https://www.facebook.com/groups/runonflux",
+    "facebook": "",
     "twitter": "https://twitter.com/CurrencyKaspa",
     "reddit": "https://reddit.com/r/kaspa",
     "repository": "https://github.com/kaspanet",
@@ -20322,6 +20322,68 @@
     "auditInfos": [],
     "whitepaper": [
       "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
+  },
+  "kasperkas": {
+    "description": "Kasper, The Ghost of Kaspa is a cryptocurrency on the Kaspa blockchain, created without pre-mining or insider allocations. It has a capped total supply of 28.7 billion tokens and uses the KRC20 standard. The project aims to develop a decentralised ecosystem with various applications, including DeFi and gaming. Founded by Alberto García and Andrew Zalesski, Kasper focuses on developing its ecosystem through community engagement and feature integration.",
+    "total_supply": 28700000000,
+    "circulating_supply": 28700000000,
+    "websites": [
+      "https://kaspercoin.net"
+    ],
+    "explorers": [
+      "https://explorer.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/Nj2CmgReUv",
+    "telegram": "https://t.me/+K3qrtpjPmAs5YjRk",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/KasperCoin",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "KASPER",
+    "coinMarketCapID": "kasper-the-ghost-of-kaspa",
+    "coingeckoID": "kasper",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://cdn.prod.website-files.com/66f04552e25a73fe3de213c0/67168197d983a1669224e2aa_Kasper%20Whitepaper.pdf"
+    ]
+  },
+  "nachokas": {
+    "description": "Nacho the 𐤊at is a memecoin based on the KRC-20 token standard, launched on the Kaspa blockchain as a tribute to Shai Wyborski’s pet cat. Despite its meme origins, it plays a critical role in demonstrating the potential of the Kaspa ecosystem through its innovative tools like KatBot and KatScan, making it easier for users to engage with the blockchain. Nacho is fully community-driven, with no pre-allocations or centralised control, reinforcing its decentralised and fair launch ethos.",
+    "total_supply": 287000000000,
+    "circulating_supply": 287000000000,
+    "websites": [
+      "https://nachowyborski.xyz"
+    ],
+    "explorers": [
+      "https://explorer.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/nachothekat",
+    "telegram": "https://t.me/nachothecat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/NachoWyborski",
+    "reddit": "https://reddit.com/r/NachoWyborski",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "NACHO",
+    "coinMarketCapID": "nacho-the-kat",
+    "coingeckoID": "nacho",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://nachowyborski.xyz/Nacho_the_kat_Whitepaper_240605.pdf"
     ]
   }
 }

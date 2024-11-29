@@ -14903,5 +14903,55 @@
     },
     "color": "#2775CA",
     "decimals": 6
+  },
+  "kasperkas": {
+    "coin": "kasperkas",
+    "name": "Kasper the Ghost of Kaspa",
+    "uri": [
+      "kasper",
+      "kasperkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KASPER",
+    "contractAddress": "KASPER",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KASPER.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#0ff8fa"
+  },
+  "nachokas": {
+    "coin": "nachokas",
+    "name": "Nacho the 𐤊at",
+    "uri": [
+      "nacho",
+      "nachokas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "NACHO",
+    "contractAddress": "NACHO",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/NACHO.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#70c7af"
   }
 }
