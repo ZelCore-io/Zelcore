@@ -55,7 +55,7 @@ This document provides an overview of the supported blockchains and their associ
 | hush | Hush | zcash | HUSH | None |
 | ilcoin | ILCoin | btc | ILC | None |
 | kadena | Kadena | kadena | KDA | FLUX-KDA, BABE, KDL, BKA, KDS, MOK, KDX, SKDX, zUSDTEST, zUSD |
-| kaspa | Kaspa | kaspa | KAS | None |
+| kaspa | Kaspa | kaspa | KAS | KASPER, NACHO |
 | komodo | Komodo | zcash | KMD | None |
 | ksm | Kusama | substrate | KSM | None |
 | litecoin | Litecoin Legacy | blockbook | LTC | None |
