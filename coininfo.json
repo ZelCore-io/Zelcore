@@ -20385,5 +20385,36 @@
     "whitepaper": [
       "https://nachowyborski.xyz/Nacho_the_kat_Whitepaper_240605.pdf"
     ]
+  },
+  "babykonankas": {
+    "description": "In the vast world of crypto, where loyalty, courage, and community matter most, Baby Konan ($BKONAN) emerged—not just as a memecoin, but as a heartfelt tribute to the legacy of Konan of Kaspa. Born from innovation and a deep respect for our roots, Baby Konan wasn’t simply created—it was crafted with purpose, ingenuity, and a relentless desire to honor every holder of $KONAN on Kaspa.",
+    "total_supply": 287000000000,
+    "circulating_supply": 287000000000,
+    "websites": [
+      "https://babykonancoin.io/"
+    ],
+    "explorers": [
+      "https://explorer.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/babykonancoin/1",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/BabyKonanCoin",
+    "reddit": "",
+    "repository": "https://github.com/BabyKonanCoin/KaspaAPI",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://babykonancoin.io/"
+    ]
   }
 }

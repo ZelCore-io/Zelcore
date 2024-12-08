@@ -14953,5 +14953,30 @@
     },
     "coinType": "token",
     "color": "#70c7af"
+  },
+  "babykonankas": {
+    "coin": "babykonankas",
+    "name": "Baby Konan",
+    "uri": [
+      "bkonan",
+      "bkonankas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "BKONAN",
+    "contractAddress": "BKONAN",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/BKONAN.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#70c7af"
   }
 }

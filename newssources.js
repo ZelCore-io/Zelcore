@@ -8928,6 +8928,15 @@ const newssources = {
         pic: "@/assets/logos/CLORE.svg",
       },
     ],
+    babykonankas: [
+      {
+        name: "Baby Konan X",
+        feed: "https://rss.app/feed/8u3kdFU1nVEWSpX2",
+        site: "https://x.com/BabyKonanCoin",
+        about: "Official Baby Konan X",
+        pic: "@/assets/logos/BKONAN.svg",
+      },
+    ],
   },
 };
 
