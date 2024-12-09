@@ -1,6 +1,38 @@
 
 # Changelog
 
+## [8.10.0] - Powered by Flux
+
+We are excited to unveil Version 8.10.0 of our wallet, packed with exciting new features to broaden your crypto journey. Here's what's new:
+
+### Added
+- **Kaspa Blockchain Support (KRC20 Tokens):** We've expanded our support for the Kaspa blockchain, enabling management of KRC20 tokens. To kick things off, we've added two community favorites:
+  - Kasper the Ghost of Kaspa
+  - Nacho the 𐤊at
+
+## [8.9.0] - Powered by Flux
+
+We’re excited to unveil Version 8.9.0 of our wallet, packed with enhancements and new features to continue revolutionizing your crypto journey. Here's what’s new:
+
+### Added
+- **ZkSync Era Blockchain Support:** We’ve introduced support for the ZkSync Era blockchain, bringing cutting-edge scalability to your wallet. Supported tokens include:
+  - ZkSync
+  - USDT
+  - USDC
+
+### Fixed
+- **Security Update:** Updated security configurations and packages.
+
+## [8.8.5] - Powered by Flux
+
+### Fixed
+- **Various Fixes:** Fixed solana sending issue.
+
+## [8.8.4] - Powered by Flux
+
+### Fixed
+- **Various Fixes:** Fixed swap sending issue for XRP and TON blockchains.
+
 ## [8.8.3] - Powered by Flux
 
 ### Fixed
