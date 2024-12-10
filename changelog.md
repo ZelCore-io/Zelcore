@@ -1,6 +1,12 @@
 
 # Changelog
 
+## [8.10.1] - Powered by Flux
+We are excited to unveil Version 8.10.1 of our wallet, packed with exciting new features to broaden your crypto journey. Here's what's new:
+
+### Fixed
+- **Various Fixes:** Fixed kaspa sending issue on windows.
+
 ## [8.10.0] - Powered by Flux
 
 We are excited to unveil Version 8.10.0 of our wallet, packed with exciting new features to broaden your crypto journey. Here's what's new:
