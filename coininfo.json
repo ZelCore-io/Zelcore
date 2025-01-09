@@ -20385,5 +20385,38 @@
     "whitepaper": [
       "https://nachowyborski.xyz/Nacho_the_kat_Whitepaper_240605.pdf"
     ]
+  },
+  "telestai": {
+    "description": "Telestai is a next-generation blockchain forked from Ravencoin, utilizing a low-power mining algorithm known as Meraki. The goal is to create a decentralized, open-source ecosystem that empowers developers to build applications with real-world valu",
+    "total_supply": 1969194240,
+    "circulating_supply": 103865075,
+    "websites": [
+      "http://telestai.io"
+    ],
+    "explorers": [
+      "https://blockbook.telestai.io",
+      "https://telestai.cryptoscope.io"
+    ],
+    "medium": "https://medium.com/@john-117/telestai-the-foundations-for-a-new-online-ecosystem-f1dde5645f93",
+    "discord": "https://discord.gg/VmFXfHnZE5",
+    "telegram": "",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5505103.0",
+    "facebook": "",
+    "twitter": "https://x.com/Telestai_io",
+    "reddit": "",
+    "repository": "https://github.com/Telestai-Project",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "livecoinwatchID": "TLS",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://medium.com/@john-117/telestai-the-foundations-for-a-new-online-ecosystem-f1dde5645f93"
+    ]
   }
 }

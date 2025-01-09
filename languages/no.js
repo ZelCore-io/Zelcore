@@ -10,7 +10,7 @@ export default {
     zelcoreplus: "zelcore+",
     zelcore_website: "zelcore.io",
     zelcore_website_text: "Zelcore Website",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Lagre",
     cancel: "Avbryt",
     ok: "OK",

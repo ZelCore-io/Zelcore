@@ -8,7 +8,7 @@ export default {
     zelcore: "zelcore",
     zelcore_website: "zelcore.io",
     zelcore_website_text: "Zelcore Website",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Gem",
     cancel: "Annuller",
     ok: "OK",

@@ -12,7 +12,7 @@ export default {
     zelcoreplus_cap: "Zelcore+",
     zelcore_website: "zelcore.io",
     zelcore_website_text: "Zelcore Website",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Save",
     cancel: "Cancel",
     ok: "OK",
@@ -161,6 +161,8 @@ export default {
     fair: "Fair",
     strong: "Strong",
     password_strength: "Password strength",
+    legacy: "Legacy",
+    recommended: "Recommended",
 
     // Flux ID
     full_node_wallet: "Full Node wallet",
@@ -376,6 +378,7 @@ export default {
     displaying_or_sharing_seed: "Displaying or sharing your seed phrase with someone else can result in the loss of your funds. Please keep it safe and secure. We recommend storing it in a safe location.",
     mnemonic_account_present: "BIP44 Mnemonic Account already present. To use new mnemonic account, delete current mnemonic account first.",
     use_biometrics: "Do you want to use biometrics for Easy Login?",
+    select_word_count: "Select the word count of the seed phrase",
     // account warning
     password_is_key: "Your password is the key to access your funds, make it as strong and unique as possible.",
     credentials_key: "Your account credentials are the key to access your funds, make it as strong and unique as possible.",
@@ -642,7 +645,7 @@ export default {
       + "a transaction to be visible on the Omni Explorer and transaction table, please be patient. Your transaction is instantly visible in your Bitcoin Zelcore wallet.",
     warning_monero_fee: "{coinname} fee is not known prior the transaction creation, this is just an approximation. Transaction creation takes a few seconds. Unconfirmed transactions are not properly shown in transaction table and may not reflect your balance.",
     warning_monero_spend: "Only outputs that are older than 10 blocks (~30 minutes) can be used to construct {coinname} transactions. This may affect your maximum spendable amount if you have recently sent or received a transaction.",
-    warning_ripple: "The Ripple fee is calculated automatically depending on the status of the network. It takes a while for transactions to be visible in transaction history and on the explorer.",
+    warning_ripple: "The Ripple fee is calculated automatically depending on the status of the network. It takes a while for transactions to be visible in transaction history and on the explorer. Ripple address must maintain a minimum of 1.2 XRP balance.",
     warning_neo: "Transactions take a few seconds to be reflected in transaction table and show on the explorer",
     warning_substrate: "Transaction fee may slightly differ, shown value is an estimate. Normal and fast fee policies can includes a tip to increase transaction priority. It may take up to a few minutes till transaction is reflected in transaction table and balance updated.",
     warning_trc20: "Tron TRC20 token transfers require you to have a balance of TRX so that it can be used as Energy to power the contract execution. TRX will be deducted from your account up to a maximum Fee Limit set allowed.",
@@ -700,7 +703,7 @@ export default {
     eos_account_exchange: "EOS account for exchange:",
     neo_whole_numbers: "Please, enter only whole amount of NEO (1, 2 etc... )",
     xrp_activation_required: "XRP activation is required",
-    xrp_requires_locked: "10 XRP is required as a locked reserve as per the XRP blockchain. Click to view details.",
+    xrp_requires_locked: "1.2 XRP is required as a locked reserve as per the XRP blockchain. Click to view details.",
     confirmations: "Confirmations: {confirmations}",
     internal_transaction: "Internal Transaction: Yes",
     tx_fee_paid: "Transaction Fee: {txfee} {unit}",
@@ -911,6 +914,14 @@ export default {
     stasher: "Stasher",
     staked: "Staked",
     latest_mining: "Latest Mining",
+    add_to_storage: "Add to Flux Storage",
+    fluxnode_in_fluxstorage: "FluxNode in Flux Storage",
+    flux_node_added_storage_success: "FluxNode added sucessfuly to Flux Storage",
+    add_to_storage_info: "Add your FluxNode to the Flux Storage to make it easily available for your FluxOS setup.",
+    add_to_storage_added: "Your FluxNode is available in Flux Storage, you can now use it in your FluxOS setup.",
+    add_to_storage_added_info: "Copy the Flux Storage Phrase and use it in your FluxOS setup.",
+    flux_storage_phrase: "Flux Storage Phrase",
+    error_adding_to_storage: "Error adding FluxNode to Flux Storage. Try again later.",
 
     // zelnodes dialog
     simple_setup_and_management_zelnodes: "Simple Setup and Management of your FluxNodes",
@@ -1278,6 +1289,7 @@ export default {
     private_mode: "Values are hidden",
     privacy_mode: "Privacy Mode",
     privacy: "Privacy",
+    currency_total: "Currency Total",
     mode: "mode",
     crypto: "Crypto",
     crypto_currency: "Crypto Currency",
@@ -1761,6 +1773,7 @@ export default {
     avaxp_sending_error: "Sending of Avalanche P chain is not suported",
     something_wrong_activated_widgets: "Something went wrong while storing activated widgets. Please contact the Zelcore Team.",
     beldex_tx_note: "In case of outgoing transaction, transaction fee is included in the amount and Payment ID might be randomly generated encrypted data.",
+    sending_not_supported: "Sending of {chain} is not yet supported",
 
     // New strings
     cryptowolf_no_history: "Sorry, exchange history is currently unavailable.",
@@ -2352,7 +2365,7 @@ export default {
     gas_claimed: "{coinname} GAS claimed. Transaction URL is {explorer}{txid}",
 
     chain_id: "Chain ID",
-    warning_kda_crosschain: "You are about to do a cross chain transfer from chain {myChainID} on which you are currently operating to chain {targetChainID}. "
+    warning_kda_crosschain: "You are about to do a Cross Chain Transfer from Chain ID {myChainID} on which you are currently operating to Chain ID {targetChainID}. "
       + "This operation may take up to 4 minutes and may result in failure depending on a Public Gas Station faucet operation or selected account availability. Don't close zelcore while it's processing the operation. The initial request key will be in log file.",
     receiver_acc_does_not_exist: "Receiver account does not exist on chainID {chainID} and receivers public key was not supplied",
     receiver_acc_multisig: "Receiver account on chainID {chainID} is a multisignature account to which we are unable to transfer.",

@@ -12,7 +12,7 @@ export default {
     zelcoreplus_cap: "Zelcore",
     zelcore_website: "zelcore.io",
     zelcore_website_text: "Situs Zelcore",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Simpan",
     cancel: "Batal",
     ok: "OK",
@@ -249,7 +249,8 @@ export default {
     register_info_message_2: "Untuk menyinkronkan akun yang ada ke perangkat ini, masukkan kredensial Anda.",
     weak_password_dialog_title: "Peringatan keamanan",
     weak_password_dialog_proceed: "Lanjutkan",
-    weak_password_dialog_message_1: "Dengan melanjutkan dengan kata sandi yang lemah, Anda mengakui dan menerima tanggung jawab penuh atas potensi kerugian dana atau keamanan akun yang terganggu yang mungkin terjadi. Perusahaan kami sangat menyarankan untuk tidak menggunakan kata sandi yang lemah untuk akun Anda karena meningkatnya "
+    weak_password_dialog_message_1: "Dengan melanjutkan dengan kata sandi yang lemah, Anda mengakui dan menerima tanggung jawab penuh atas potensi kerugian dana atau keamanan akun yang terganggu yang mungkin terjadi. "
+      + "Perusahaan kami sangat menyarankan untuk tidak menggunakan kata sandi yang lemah untuk akun Anda karena meningkatnya "
       + "risiko akses tidak sah dan kerugian finansial. Sangat penting untuk menggunakan kata sandi yang kuat dan unik untuk melindungi aset dan informasi pribadi Anda.",
     weak_password_dialog_message_2: "Jika terjadi akses tidak sah atau aktivitas penipuan yang timbul dari penggunaan kata sandi yang lemah, perusahaan kami tidak bertanggung jawab atas segala kerugian atau kerusakan finansial yang diakibatkannya. "
       + "Kami menekankan pentingnya berhati-hati dan tekun dalam mengamankan kredensial akun Anda.",
@@ -257,7 +258,8 @@ export default {
       + "Dengan memilih untuk mempertahankan kata sandi yang lemah, Anda mengabaikan klaim atau keluhan terhadap perusahaan kami sehubungan dengan pelanggaran keamanan akun atau kerugian finansial.",
     weak_password_dialog_message_4: "Kami sangat menganjurkan Anda untuk memprioritaskan keamanan akun Anda dengan memilih kata sandi yang kuat yang terdiri dari kombinasi huruf besar dan kecil, angka, dan karakter khusus. Selain itu, pertimbangkan untuk menerapkan otentikasi multi-faktor"
       + "untuk lapisan perlindungan tambahan.",
-    weak_password_dialog_message_5: "Keputusan Anda untuk menggunakan kata sandi yang lemah sepenuhnya bersifat sukarela, dan dengan melakukannya, Anda bertanggung jawab penuh atas risiko yang terkait. Perusahaan kami tidak bertanggung jawab atas konsekuensi penggunaan tindakan perlindungan kata sandi yang tidak memadai.",
+    weak_password_dialog_message_5: "Keputusan Anda untuk menggunakan kata sandi yang lemah sepenuhnya bersifat sukarela, dan dengan melakukannya, Anda bertanggung jawab penuh atas risiko yang terkait. "
+      + "Perusahaan kami tidak bertanggung jawab atas konsekuensi penggunaan tindakan perlindungan kata sandi yang tidak memadai.",
     weak_password_dialog_consent: "Dengan mencentang kotak ini saya secara sadar menerima semua risiko dan ingin melanjutkan",
     back_to_login: "Kembali untuk masuk",
     add_to_device: "Sinkronkan/Daftarkan Akun di Perangkat ini",
@@ -307,7 +309,8 @@ export default {
     // create.vue
     create_account_info: "Kredensial ini digunakan untuk membuat dompet dan enkripsi akun Anda.",
     create_account_info2: "Nama pengguna dan kata sandi peka huruf besar / kecil. Jadikan mereka KUAT & UNIK.",
-    create_account_info3: "Informasi akun Anda tidak akan pernah dikirim ke server mana pun dan tetap terenkripsi di perangkat ini. Jika Anda ingin masuk ke perangkat lain nanti, Anda harus mendaftarkan akun Anda di perangkat baru dengan nama pengguna dan kata sandi yang sama untuk mengakses akun tersebut.",
+    create_account_info3: "Informasi akun Anda tidak akan pernah dikirim ke server mana pun dan tetap terenkripsi di perangkat ini. Jika Anda ingin masuk ke perangkat lain nanti, "
+      + "Anda harus mendaftarkan akun Anda di perangkat baru dengan nama pengguna dan kata sandi yang sama untuk mengakses akun tersebut.",
     confirm_password: "Konfirmasikan Kata Sandi",
     login_to_account: "Masuk ke akun",
     account_exist: "Akun {username} sudah ada",
@@ -767,7 +770,7 @@ export default {
     create_associated_address: "Buat Alamat Terkait",
     create_receiver_associated_address: "Buat Alamat Terkait Penerima",
     yes_create: "Ya, Buat!",
-    spl_creation_success: "Alamat Token SPL terkait dibuat",
+    spl_creation_address: "Alamat Token SPL terkait dibuat",
     solana_public_key: "Kunci Publik Solana",
     spl_creation_success: "Alamat Token SPL terkait telah dibuat",
     create_receiver_spl: "Buat alamat Token SPL Terkait Penerima",
@@ -1074,7 +1077,8 @@ export default {
     enter_zelnode_ik: "Masukkan kunci Identitas FluxNode Anda",
     enter_zelnode_addr: "Masukkan Alamat FluxNode Anda",
     automatic_log_out: "Logout Otomatis",
-    auto_log_out_info_full_node: "Bagus! Lihatlah pengaturan logout otomatis Anda. Pengoperasian di Full Node memerlukan waktu, terutama ketika pengindeksan ulang diperlukan. Oleh karena itu kami menyarankan untuk mengatur logout otomatis ke waktu yang lebih tinggi atau menonaktifkannya dengan menggerakkan penggeser. Selagi Anda menjalankan operasi ini",
+    auto_log_out_info_full_node: "Bagus! Lihatlah pengaturan logout otomatis Anda. Pengoperasian di Full Node memerlukan waktu, terutama ketika pengindeksan ulang diperlukan. "
+      + "Oleh karena itu kami menyarankan untuk mengatur logout otomatis ke waktu yang lebih tinggi atau menonaktifkannya dengan menggerakkan penggeser. Selagi Anda menjalankan operasi ini",
     next_step: "Langkah selanjutnya",
     configuration_done_reindex1: "Anda telah memodifikasi file konfigurasi Anda. Pengindeksan ulang blockchain Anda diperlukan agar Anda dapat menyiapkan FluxNode Anda.",
     configuration_done_reindex2: "Anda dapat memeriksa ulang konfigurasi yang dimodifikasi di bawah ini. Lanjutkan dengan menyimpannya, ini akan memulai pengindeksan ulang. Tindakan pengindeksan ulang akan memakan waktu beberapa jam.",
@@ -1384,15 +1388,18 @@ export default {
     ex_serum_dex_text: "Serum adalah bursa terdesentralisasi (DEX) dan ekosistem yang menghadirkan kecepatan tak tertandingi dan biaya transaksi rendah untuk keuangan terdesentralisasi. Ia dibangun di Solana dan sepenuhnya tanpa izin. Dana Anda selalu di bawah kendali Anda.",
     ex_binance_dex_text: "Arsitektur rantai ganda Binance Chain & Binance Smart Chain memberdayakan Anda untuk membangun aplikasi terdesentralisasi Anda sendiri, sekaligus memanfaatkan kinerja perdagangan cepat yang ditawarkan di bursa terdesentralisasi Binance.",
     ex_ftx_text: "FTX adalah bursa mata uang kripto yang dibangun oleh pedagang, untuk pedagang. FTX menawarkan produk inovatif termasuk derivatif pertama di industri, opsi, produk volatilitas, dan token leverage.",
-    ex_stex_text: "Diluncurkan pada September 2017, STEX adalah bursa terpusat berlisensi yang berlokasi di Tallinn, Estonia. Bursa ini memiliki 3 jenis verifikasi yang memungkinkan pengguna mengurangi biaya perdagangan hingga 0,1%. Bursa ini mendukung perdagangan kripto ke kripto dan fiat ke kripto tanpa batas penarikan.",
-    ex_gemini_text: "Gemini adalah platform yang sederhana, elegan, dan aman untuk membangun portofolio kripto Anda. Gemini adalah perusahaan kepercayaan berlisensi di New York yang menjalani ujian bank secara berkala dan tunduk pada audit keamanan siber yang dilakukan oleh Departemen Layanan Keuangan New York.",
+    ex_stex_text: "Diluncurkan pada September 2017, STEX adalah bursa terpusat berlisensi yang berlokasi di Tallinn, Estonia. Bursa ini memiliki 3 jenis verifikasi yang memungkinkan pengguna mengurangi biaya perdagangan hingga 0,1%. "
+      + "Bursa ini mendukung perdagangan kripto ke kripto dan fiat ke kripto tanpa batas penarikan.",
+    ex_gemini_text: "Gemini adalah platform yang sederhana, elegan, dan aman untuk membangun portofolio kripto Anda. "
+      + "Gemini adalah perusahaan kepercayaan berlisensi di New York yang menjalani ujian bank secara berkala dan tunduk pada audit keamanan siber yang dilakukan oleh Departemen Layanan Keuangan New York.",
     ex_kucoin_text: "Bursa KuCoin dibuka untuk perdagangan mata uang kripto pada September 2017 yang berlokasi di Seychelles. Dengan cepat menjadi salah satu bursa paling bereputasi dalam industri yang menawarkan layanan yang andal di seluruh dunia.",
     ex_huobi_text: "Huobi adalah bursa mata uang kripto yang berbasis di Seychelles dan merupakan salah satu bursa mata uang kripto terbesar yang berbasis dan melayani khalayak Asia, telah beroperasi di bidang ini sejak 2013.",
     ex_coinbasePro_text: "Sebagai bursa mata uang kripto arus utama terkemuka di Amerika Serikat, Coinbase telah menjadi jalur masuk standar bagi investor kripto baru. Coinbase memiliki mata uang stabil dolar AS sendiri.",
     ex_gateio_text: "Gate.io didirikan pada tahun 2013, merupakan bursa TOP10 untuk perdagangan aset digital global dan volume riil. Dengan keamanan sebagai salah satu fitur utama kami, Gate.io menyediakan sertifikat audit deposit keamanan 100%.",
     ex_binance_text: "Binance adalah bursa mata uang kripto yang berdomisili di Kepulauan Cayman yang menyediakan platform untuk memperdagangkan berbagai mata uang kripto yang didirikan pada tahun 2017. Binance dianggap sebagai bursa mata uang kripto terbesar di dunia dalam hal volume perdagangan.",
     ex_binanceus_text: "Diluncurkan pada bulan September 2019, Binance.US adalah pasar aset digital, yang didukung oleh mesin pencocokan dan teknologi dompet yang dilisensikan dari bursa mata uang kripto terbesar di dunia, Binance.",
-    ex_kraken_text: "Kraken adalah bursa mata uang kripto dan bank yang berbasis di Amerika Serikat, yang didirikan pada tahun 2011. Bursa ini menyediakan perdagangan mata uang kripto ke uang fiat, dan menyediakan informasi harga ke Terminal Bloomberg. Reputasi tinggi dan perusahaan yang sudah lama berdiri menjadikannya pilihan yang mudah.",
+    ex_kraken_text: "Kraken adalah bursa mata uang kripto dan bank yang berbasis di Amerika Serikat, yang didirikan pada tahun 2011. Bursa ini menyediakan perdagangan mata uang kripto ke uang fiat, dan menyediakan informasi harga ke Terminal Bloomberg. "
+      + "Reputasi tinggi dan perusahaan yang sudah lama berdiri menjadikannya pilihan yang mudah.",
     ex_bittrex_text: "Bittrex Global berpusat di Liechtenstein dan Bermuda, menempatkan mereka dalam sistem keuangan kelas dunia yang diatur oleh undang-undang revolusioner. Bittrex adalah bursa veteran dengan perdagangan secepat kilat dan standar keamanan tinggi.",
     create_ftx_account: "Buat akun FTX",
     ex_ascendex_text: "AscendEX (sebelumnya BitMax) adalah platform keuangan aset digital global yang didirikan oleh sekelompok veteran perdagangan kuantitatif Wall Street pada tahun 2018, yang dibangun berdasarkan nilai inti “Efisiensi, Ketahanan, dan Transparansi.”",
@@ -1484,7 +1491,8 @@ export default {
 
     // Tooltips and script text
     auto_updates_disabled: "Pembaruan otomatis Zelcore dinonaktifkan. Zelcore Anda mungkin sudah ketinggalan zaman. Pastikan untuk mengunduh versi terbaru!",
-    launches_a_fullnode_extended: "Meluncurkan Full Node dengan fungsi yang diperluas! Karena Zelcore menggunakan enkripsi, dana Anda tidak akan dapat diakses di perangkat lunak Full Node lain selain Zelcore. Full Node hanya untuk pengguna tingkat lanjut, jika Anda tidak tahu apa itu Full Node, jangan gunakan!",
+    launches_a_fullnode_extended: "Meluncurkan Full Node dengan fungsi yang diperluas! Karena Zelcore menggunakan enkripsi, dana Anda tidak akan dapat diakses di perangkat lunak Full Node lain selain Zelcore. "
+      + "Full Node hanya untuk pengguna tingkat lanjut, jika Anda tidak tahu apa itu Full Node, jangan gunakan!",
     wrong_pin: "PIN salah - Akses ditolak",
     error_d2fa_cert: "Kesalahan pada sertifikat d2FA. Coba lagi atau hubungi tim Zelcore.",
     able_to_paste: "Tidak dapat menempel",
@@ -1569,8 +1577,8 @@ export default {
     unable_to_update: "Tidak dapat memeriksa pembaruan!",
     zeltrez_advanced: "ZelTreZ telah maju! Selamat datang di Zelcore!",
     first_login_title: "Selamat datang di Zelcore!",
-    first_login_message: "Kami mendeteksi ini adalah login pertama pada akun ini di perangkat ini, kami akan menjalankan fitur smartify untuk melihat apakah akun Anda memiliki saldo dalam beberapa koin/aset di dompet Anda, jika Anda sudah menjadi pengguna Zelcore, cukup gunakan yang baru perangkat. "
-      + "Proses ini akan memakan waktu sekitar 2 menit. Tunggu proses selesai, Anda akan mendapat notifikasi. Terima kasih.",
+    first_login_message: "Kami mendeteksi ini adalah login pertama pada akun ini di perangkat ini, kami akan menjalankan fitur smartify untuk melihat apakah akun Anda memiliki saldo dalam beberapa koin/aset di dompet Anda, "
+      + "jika Anda sudah menjadi pengguna Zelcore, cukup gunakan yang baru perangkat. Proses ini akan memakan waktu sekitar 2 menit. Tunggu proses selesai, Anda akan mendapat notifikasi. Terima kasih.",
     zeltrez_failed: "Gagal memutakhirkan ke Zelcore. Silakan hapus instalan ZelTreZ dan hapus semua filenya",
     d2fa_is_processing: "d2FA Anda sedang memproses permintaan terbaru Anda. Untuk masuk, Anda harus menggunakan pengaturan sebelumnya.",
     d2fa_is_not_confirmed: "d2FA Anda belum dikonfirmasi oleh jaringan. Ini akan segera diaktifkan.",
@@ -1736,7 +1744,6 @@ export default {
     tx_refusal_details: "Detail penolakan transaksi: {reason}",
     algo_receiver_not_optin: "Alamat penerima tidak mengizinkan penerimaan {coinname}. Hubungi penerima untuk ikut serta menerima {coinname} terlebih dahulu.",
     algo_receiver_min_transfer: "Jumlah transfer minimum untuk penerima ini adalah 0,1 ALGO",
-    tx_refused_by_network: "Transaksi ditolak oleh jaringan {coinname}",
     unencrypted_found: "Dompet tidak terenkripsi ditemukan di {activeCoinWalletFile}. Cadangan dompet ini dibuat di {activeCoinWalletFileBackup}. Zelcore tidak akan menggunakan dompet ini.dat, itu akan menggunakan dompet terenkripsi Anda.dat.",
     unencrypted_use: "Dompet tidak terenkripsi ditemukan di {activeCoinWalletFile}. Cadangan dompet ini dibuat di {activeCoinWalletFileBackup}. Zelcore sekarang akan menggunakan dompet ini. Jika Anda ingin menggunakan dompet Full Node lainnya di masa mendatang, gunakan dompet yang dicadangkan.dat.",
     fiat_rates_unavilable: "Tarif tetap untuk {coinname} tidak tersedia",
@@ -1891,7 +1898,8 @@ export default {
     post_only_text: "Pesanan Post-Only tidak akan langsung dieksekusi terhadap pasar. Gunakan untuk memastikan Potongan Harga Pembuat. Jika itu akan dieksekusi melawan perintah istirahat, itu akan dibatalkan sebagai gantinya.",
     reduce_only_text: "Perintah Reduce-Only hanya akan mengurangi posisi Anda, bukan meningkatkannya. Jika pesanan ini akan meningkatkan posisi Anda, itu diubah atau dibatalkan sehingga tidak.",
     position_closed_successfully: "Posisi berhasil ditutup",
-    exchange_time_in_force_label: "Waktu yang Berlaku untuk pesanan ini. Jika pesanan Anda disetel ke ImmediateOrCancel, bagian yang belum terisi yang tersisa segera setelah penempatan akan dibatalkan. Jika disetel ke FillOrKill, pesanan hanya akan dieksekusi jika kuantitas penuhnya dapat segera diisi.",
+    exchange_time_in_force_label: "Waktu yang Berlaku untuk pesanan ini. Jika pesanan Anda disetel ke ImmediateOrCancel, bagian yang belum terisi yang tersisa segera setelah penempatan akan dibatalkan. "
+      + "Jika disetel ke FillOrKill, pesanan hanya akan dieksekusi jika kuantitas penuhnya dapat segera diisi.",
     exchange_my_open_orders: "Pesanan terbuka saya",
     exchange_my_closed_orders: "Pesanan saya yang ditutup",
     exchange_invalid_data: "Data tidak valid",
@@ -2292,7 +2300,7 @@ export default {
       + "Ini sangat membantu dalam skenario peralihan solusi Backend. Tindakan pemindaian ulang mungkin memakan waktu beberapa jam.",
     cryptonight_rescan_mymonero: "Solusi backend disinkronkan dengan alamat Anda sejak Transaksi Dimulai {0}. Kemajuan pemindaian adalah {1} / {2}. Jika menurut Anda alamat Anda menerima transaksi sebelum blok mulai, Anda harus meluncurkan pemindaian ulang alamat Anda. \n"
       + "Ini sangat membantu dalam skenario peralihan solusi Backend. Tindakan pemindaian ulang mungkin memakan waktu beberapa jam.",
-    cryptonight_rescan_lws: "Solusi backend disinkronkan dengan alamat Anda sejak Blok Awal {0}. Kemajuan pemindaian adalah {1} / {2}. Jika menurut Anda alamat Anda menerima transaksi sebelum blok awal, Anda harus meluncurkan pemindaian ulang alamat Anda. \ N"
+    cryptonight_rescan_lws: "Solusi backend disinkronkan dengan alamat Anda sejak Blok Awal {0}. Kemajuan pemindaian adalah {1} / {2}. Jika menurut Anda alamat Anda menerima transaksi sebelum blok awal, Anda harus meluncurkan pemindaian ulang alamat Anda. \n"
       + "Ini sangat membantu dalam skenario peralihan solusi Backend. Tindakan pemindaian ulang harus disetujui oleh tim Zelcore terlebih dahulu. Pemindaian ulang mungkin memerlukan waktu hingga seminggu.",
     cryptonight_rescan2: "Harap masukkan jumlah blok terakhir yang ingin Anda pindai ulang",
     cryptonight_rescan2_mymonero: "Harap masukkan tinggi blok awal karena Anda ingin alamat Anda sinkron dengan blockchain",
@@ -2309,8 +2317,8 @@ export default {
     invalid_lot_size: "Jumlah yang tidak valid. Jumlah harus kelipatan {value}.",
     bitmex_apilimit: "Bitmex memiliki batas laju API yang dapat menyebabkan pertukaran tidak dimuat sama sekali. Jika Anda mengalami masalah, silakan hubungi Bitmex untuk meningkatkan batas kredensial API Anda. Fitur yang lebih canggih akan segera ditambahkan.",
     tos_exchange: "Negara-negara berikut ini tunduk pada beberapa peraturan hukum: Amerika Serikat, Albania, Bosnia dan Herzegovina, Belarus, Kongo, Pantai Gading, Krimea, Kuba, Irak, Iran, Jepang, Korea Utara, Liberia, Makedonia, Myanmar, Serbia, Sudan, Suriah dan Zimbabwe "
-      + "Harap dicatat bahwa pengguna yang terhubung dengan Jaringan Pribadi Virtual atau layanan proxy dari negara-negara yang terdaftar, perdagangan dan akses ke antarmuka yang diatur ini melalui Zelcore tidak disarankan dan hanya pengguna akhir yang bertanggung jawab untuk menyadari pembatasan pemerintah setempat. \n"
-      + "\n Perlu diperhatikan bahwa bursa mungkin memerlukan KYC untuk mengakses semua fungsinya seperti penarikan.",
+      + "Harap dicatat bahwa pengguna yang terhubung dengan Jaringan Pribadi Virtual atau layanan proxy dari negara-negara yang terdaftar, perdagangan dan akses ke antarmuka yang diatur ini melalui "
+      + "Zelcore tidak disarankan dan hanya pengguna akhir yang bertanggung jawab untuk menyadari pembatasan pemerintah setempat. \n\n Perlu diperhatikan bahwa bursa mungkin memerlukan KYC untuk mengakses semua fungsinya seperti penarikan.",
     continue: "Lanjutkan",
     country_restriction: "Akses terbatas",
     not_enough_kmd_reward: "Hadiah KMD tidak cukup untuk membuat transaksi",
@@ -2395,7 +2403,8 @@ export default {
     fio_manage: "Kelola Pegangan Kripto FIO",
     fio_register_info: "Mendaftarkan Pegangan Kripto FIO Anda dan mengikatnya dengan dompet Zelcore pilihan Anda. Setelah pendaftaran selesai, Anda dapat mengelola Pegangan Kripto FIO Anda langsung dari Zelcore. FIO Crypto Handle membutuhkan biaya hingga 50 FIO untuk mendaftar.",
     fio_input_fio: "Masukkan Pegangan Kripto FIO yang diinginkan",
-    fio_select_wallet: "Pilih dompet untuk diikat dengan FIO Crypto Handle Anda atau biarkan kosong untuk mendaftar tanpa pemetaan alamat apa pun. Perhatikan bahwa semua alamat yang dipilih akan diekspos ke publik. Semua token rantai yang tidak ditentukan dipetakan ke alamat yang sama dengan alamat utama aset rantai.",
+    fio_select_wallet: "Pilih dompet untuk diikat dengan FIO Crypto Handle Anda atau biarkan kosong untuk mendaftar tanpa pemetaan alamat apa pun. Perhatikan bahwa semua alamat yang dipilih akan diekspos ke publik. "
+      + "Semua token rantai yang tidak ditentukan dipetakan ke alamat yang sama dengan alamat utama aset rantai.",
     fio_no_wallet_mapping: "Tidak ada pemetaan dompet",
     fio_remap_all: "Memetakan ulang semua alamat Pegangan Kripto FIO",
     fio_remap: "Memetakan ulang aset tertentu",
@@ -2456,7 +2465,8 @@ export default {
     fluxnode_management_note_11: "Apakah ini juga berfungsi di perangkat lain?",
     fluxnode_management_note_12: "Ya, ini berfungsi pada versi Desktop dan Seluler Zelcore apa pun. Buka Aplikasi FluxNode setelah Anda masuk ke perangkat lain dan data FluxNodes Anda akan disinkronkan, hanya alias yang harus ditambahkan secara manual pada node baru.",
     fluxnode_management_note_13: "Apakah saya akan mendapatkan notifikasi dari FLuxNodes saya jika offline?",
-    fluxnode_management_note_14: "Ya, tetapi ini hanya akan berfungsi pada perangkat yang telah Anda tetapkan aliasnya. Jangan lupa untuk menyetel alias FluxNode pada perangkat baru. Aktifkan juga notifikasi offline dan meskipun Anda keluar dari akun, Anda akan mendapatkan notifikasi jika salah satu FluxNodes Anda offline.",
+    fluxnode_management_note_14: "Ya, tetapi ini hanya akan berfungsi pada perangkat yang telah Anda tetapkan aliasnya. Jangan lupa untuk menyetel alias FluxNode pada perangkat baru. "
+      + "Aktifkan juga notifikasi offline dan meskipun Anda keluar dari akun, Anda akan mendapatkan notifikasi jika salah satu FluxNodes Anda offline.",
     fluxnode_management_note_15: "Mengapa saya tidak melihat opsi untuk memulai FluxNode?",
     fluxnode_management_note_16: "Opsi untuk memulai FluxNode hanya akan muncul setelah agunan Anda mencapai 100 konfirmasi.",
     fluxnode_management_note_17: "Dapatkah saya memantau fluxnode lain?",
@@ -2531,7 +2541,8 @@ export default {
     znode_enter_a_valid_fee_address: "Silakan masukkan Alamat Sumber Biaya",
     znode_enter_valid_ipv4: "Harap masukkan alamat IPv4 yang valid",
     activate_my_znode: "Daftarkan FiroNode saya!",
-    znode_end_process: "Silakan hentikan daemon FiroNode di VPS Anda dan ganti file zcoin.conf dengan yang di bawah ini. Setelah mengganti file zcoin.conf, jalankan kembali daemon Anda dan pastikan sudah dimulai dengan benar dan disinkronkan dengan jaringan Firo sebelum Anda melanjutkan langkah selanjutnya.",
+    znode_end_process: "Silakan hentikan daemon FiroNode di VPS Anda dan ganti file zcoin.conf dengan yang di bawah ini. Setelah mengganti file zcoin.conf, "
+      + "jalankan kembali daemon Anda dan pastikan sudah dimulai dengan benar dan disinkronkan dengan jaringan Firo sebelum Anda melanjutkan langkah selanjutnya.",
     register_znode: "Sekarang saatnya mendaftarkan FiroNode Anda di blockchain. Setelah Anda menekan daftar, transaksi khusus akan dikirim ke jaringan untuk mendaftarkan FiroNode Anda. "
       + "Anda akan menerima transaksi untuk memeriksanya di explorer. Setelah transaksi dikonfirmasi FiroNode Anda akan muncul di bagian Fironode Saya",
     list_of_znode_outputs: "FiroNode membutuhkan keluaran transaksi tepat 1000 XZC. Berikut adalah daftar output yang tersedia. Klik pada output untuk menggunakannya untuk menyiapkan FiroNode.",
@@ -2560,7 +2571,8 @@ export default {
     znodes_overview: "Tinjauan FiroNodes",
     znodes_on_zcoin_network: "FiroNodes di jaringan Firo",
     my_monitoring_znodes: "Fironode Pemantauan Saya",
-    znode_list_unspent: "Di bawah ini Anda dapat melihat semua keluaran transaksi yang belum terpakai yang tersedia di dompet Full Node Anda. Saldo Anda tidak akan mencerminkan keluaran transaksi yang belum terpakai yang dikunci. Klik pada baris dari tabel di bawah ini untuk mengunci keluaran transaksi.",
+    znode_list_unspent: "Di bawah ini Anda dapat melihat semua keluaran transaksi yang belum terpakai yang tersedia di dompet Full Node Anda. Saldo Anda tidak akan mencerminkan keluaran transaksi yang belum terpakai yang dikunci. "
+      + "Klik pada baris dari tabel di bawah ini untuk mengunci keluaran transaksi.",
     znode_lock_list: "Di bawah ini Anda dapat melihat semua keluaran transaksi terkunci yang tersedia di dompet Node Lengkap Anda. Klik satu baris dari tabel di bawah ini untuk membuka kunci jumlah tersebut sehingga dapat digunakan kembali di dompet.",
     znode_show_list_unspent: "Tampilkan Daftar yang Tidak Terpakai",
     znode_show_locked_list: "Tampilkan Daftar Terkunci",
@@ -2974,7 +2986,8 @@ export default {
     rbf: "Ganti dengan Biaya",
     send_new_transaction: "Kirim Transaksi Baru",
     rbf_at_least_one_input_the_same: "Minimal satu input harus sama dengan transaksi awal",
-    rbf_info: "RBF adalah fitur dalam Bitcoin yang memungkinkan Anda mengganti transaksi yang belum dikonfirmasi dengan transaksi baru yang membayar biaya lebih tinggi. Intinya, jika transaksi awal Anda terhenti karena biaya rendah, RBF memungkinkan Anda 'menaikkan' biayanya dengan cepat konfirmasi.",
+    rbf_info: "RBF adalah fitur dalam Bitcoin yang memungkinkan Anda mengganti transaksi yang belum dikonfirmasi dengan transaksi baru yang membayar biaya lebih tinggi. "
+      + "Intinya, jika transaksi awal Anda terhenti karena biaya rendah, RBF memungkinkan Anda 'menaikkan' biayanya dengan cepat konfirmasi.",
 
     // New CoinOverview Page
     transaction_history: "Riwayat Transaksi",
@@ -3077,7 +3090,8 @@ export default {
     error_balance: "Anda tidak memiliki cukup {asset} yang tersedia",
     error_not_enough_gas: "Anda tidak memiliki cukup {unit} gas yang tersedia. Harap tambahkan lebih banyak gas {unit} ke dompet Anda.",
     bridge_kda_info: "zUSD hanya beroperasi pada rantai KDA 2 dan memerlukan akun K:. ",
-    fusion_bridge_ui_disclaimer: "PENTING: Untuk memastikan dana Anda aman, selalu gunakan antarmuka front-end kami untuk bertransaksi. JANGAN berinteraksi langsung dengan kontrak pintar – ini dapat menyebabkan hilangnya dana secara permanen. UI kami dirancang untuk menjaga keamanan transaksi Anda dan efisien.",
+    fusion_bridge_ui_disclaimer: "PENTING: Untuk memastikan dana Anda aman, selalu gunakan antarmuka front-end kami untuk bertransaksi. JANGAN berinteraksi langsung dengan kontrak pintar – ini dapat menyebabkan hilangnya dana secara permanen. "
+      + "UI kami dirancang untuk menjaga keamanan transaksi Anda dan efisien.",
     error_sending_transaction: "Kesalahan pengiriman transaksi!",
     transaction_confirmed: "Transaksi telah dikonfirmasi di blockchain!",
     error_confirming_transaction: "Kesalahan mengonfirmasi transaksi dalam {seconds} detik! Transaksi masih dapat dikonfirmasi nanti di blockchain.",
@@ -3101,7 +3115,7 @@ export default {
     show_qr: "Tampilkan Kode QR",
 
     // Ton Blockchain
-    logical_time:"Waktu Logis",
+    logical_time: "Waktu Logis",
     logical_time_description: "Waktu Logis atau Waktu Lamport adalah metode yang menetapkan stempel waktu logis pada peristiwa dalam sistem terdistribusi untuk mengurutkan sebagian peristiwa tersebut dan mempertimbangkan hubungan sebab akibat, bahkan tanpa adanya jam fisik yang disinkronkan.",
     fee_breakdown_exended: "Rincian Biaya: biaya penyimpanan {storage} {unit}, biaya eksekusi {execution} {unit}, biaya lainnya {other} {unit}.",
     from_address: "Dari Alamat",
@@ -3279,7 +3293,7 @@ export default {
       },
       signing: {
         title: {
-          processing: "Transaksi Berhasil Dikirim",
+          processed: "Transaksi Berhasil Dikirim",
           error: "Kesalahan Pengiriman Transaksi",
           processing: "Pemrosesan Transaksi...",
           signing: "Penandatanganan Transaksi...",

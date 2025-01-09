@@ -9560,6 +9560,22 @@
         "about": "Nacho Reddit",
         "pic": "@/assets/logos/NACHO.svg"
       }
+    ],
+    "telestai": [
+      {
+        "name": "Telestai Blog",
+        "feed": "https://medium.com/feed/@john-117",
+        "site": "https://medium.com/@john-117",
+        "about": "Telestai is committed to giving power back to users, freeing them from the constraints of current digital services.",
+        "pic": "@/assets/logos/TLS.svg"
+      },
+      {
+        "name": "Telestai Twitter",
+        "feed": "https://rss.app/feeds/QcLODzSVQa3g1qKc.xml",
+        "site": "https://twitter.com/Telestai_io",
+        "about": "Telestai is committed to giving power back to users, freeing them from the constraints of current digital services.",
+        "pic": "@/assets/logos/TLS.svg"
+      }
     ]
   }
 }

@@ -10,7 +10,7 @@ export default {
     zelcoreplus: "zelcore+",
     zelcore_website: "Zelcore.io",
     zelcore_website_text: "Ιστοσελίδα zelcore",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Αποθήκευση",
     cancel: "Ακύρωση",
     ok: "Εντάξει",

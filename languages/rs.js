@@ -10,7 +10,7 @@ export default {
     zelcoreplus: "zelcore+",
     zelcore_website: "zelcore.io",
     zelcore_website_text: "Zelcore web stranica",
-    info_zelcore_io: "info@zelcore.io",
+    info_zelcore_io: "{'info@zelcore.io'}",
     save: "Sačuvaj",
     cancel: "Odustani",
     ok: "U redu",
