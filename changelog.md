@@ -1,6 +1,34 @@
 
 # Changelog
 
+## [8.12.0] - Powered by Flux
+
+We’re proud to introduce Version 8.12.0 of our wallet, focusing on extending blockchain support and enhancing user experience. Here's what’s new:
+
+### Added
+- **Telestai Blockchain and TLS Asset Support:** Full integration of the Telestai UTXO blockchain, including support for managing, sending, and receiving Telestai (TLS) assets.
+
+## [8.11.0] - Powered by Flux
+
+We are excited to present Version 8.11.0 of our wallet, featuring new functionalities, critical fixes, and usability improvements. Here's what's new:
+
+### Added
+- **18-Word and 24-Word Seed Phrase Support:** Expanded seed phrase options to include 18-word and 24-word phrases for enhanced wallet security and flexibility.
+- **Multiple Seed Account Support:** Removed the one seed account limit, enabling the management of multiple accounts within the wallet.
+- **Legacy Account Option:** Introduced legacy account support with username/password options and BIP44 recommended accounts for streamlined account management.
+
+### Updated
+- **Account Synchronization:** Adjusted the sync account order for better organization and usability.
+- **RVN Token List:** Updated the Ravencoin token list to include the latest assets.
+
+### Fixed
+- **Kadena Send Chain ID Visualization:** Resolved issues with visualizing chain IDs when sending transactions on the Kadena blockchain.
+- **Kadena WalletConnect:** Fixed signing-related issues for a smoother WalletConnect experience.
+- **XRP Minimum Balance:** Adjusted the minimum required XRP balance to 1.2 for compliance and functionality.
+- **RVN Asset Sending:** Addressed bugs related to sending Ravencoin assets.
+- **RVN Backend Improvements:** Implemented backend optimizations for improved performance and reliability.
+- **Add Asset Dialog:** Fixed issues in the add asset dialog to ensure seamless asset management.
+
 ## [8.10.1] - Powered by Flux
 We are excited to unveil Version 8.10.1 of our wallet, packed with exciting new features to broaden your crypto journey. Here's what's new:
 
