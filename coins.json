@@ -78733,6 +78733,31 @@
       "https://api.kasplex.org"
     ]
   },
+  "babykonankas": {
+    "coin": "babykonankas",
+    "name": "Baby Konan",
+    "uri": [
+      "bkonan",
+      "bkonankas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "BKONAN",
+    "contractAddress": "BKONAN",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/BKONAN.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#70C7BA"
+  },
   "telestai": {
     "coin": "telestai",
     "name": "Telestai",
@@ -78851,22 +78876,95 @@
       "normal": 2000,
       "fast": 5000
     },
-    "color": "#9f9874",
-    "explorer": [
-      "https://blockbook.tls.zelcore.io/tx/",
-      "https://blockbook.telestai.io/tx/",
-      "https://blockbook2.telestai.io/tx/"
+    "color": "#9f9874"
+  },
+  "jellyfcsol": {
+    "coin": "jellyfcsol",
+    "name": "JellfFishCoin SPL",
+    "uri": [
+      "jellyfc",
+      "jellyfcsol",
+      "jellffishcoin"
     ],
-    "node": [
-      "blockbook.tls.zelcore.io",
-      "blockbook.telestai.io",
-      "blockbook2.telestai.io"
+    "slip": 501,
+    "mint": "GFreY9SAUz96P7qkF19A4dtA4TmZgtL9Gmu8gV9Kpump",
+    "unit": "JELLYFC",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/JELLYFC.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#9fdade",
+    "decimals": 6
+  },
+  "officialtrumpsol": {
+    "coin": "officialtrumpsol",
+    "name": "OFFICIAL TRUMP SPL",
+    "uri": [
+      "officialtrumpsol",
+      "trump"
     ],
-    "api": [],
-    "blockbook": [
-      "https://blockbook.tls.zelcore.io/api/",
-      "https://blockbook.telestai.io/api/",
-      "https://blockbook2.telestai.io/api/"
-    ]
+    "slip": 501,
+    "mint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "unit": "TRUMP",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TRUMP.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#c41220",
+    "decimals": 6
+  },
+  "melaniamemesol": {
+    "coin": "melaniamemesol",
+    "name": "Melania Meme SPL",
+    "uri": [
+      "melaniamemesol",
+      "melania"
+    ],
+    "slip": 501,
+    "mint": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "unit": "MELANIA",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/MELANIA.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#000000",
+    "decimals": 6
+  },
+  "dogelonmarssol": {
+    "coin": "dogelonmarssol",
+    "name": "Dogelon Mars SPL",
+    "uri": [
+      "dogelonmarssol",
+      "dogelon"
+    ],
+    "slip": 501,
+    "mint": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
+    "unit": "ELON",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ELON.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#f8d9ad",
+    "decimals": 4
   }
 }
