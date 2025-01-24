@@ -20386,6 +20386,37 @@
       "https://nachowyborski.xyz/Nacho_the_kat_Whitepaper_240605.pdf"
     ]
   },
+  "babykonankas": {
+    "description": "In the vast world of crypto, where loyalty, courage, and community matter most, Baby Konan ($BKONAN) emerged—not just as a memecoin, but as a heartfelt tribute to the legacy of Konan of Kaspa. Born from innovation and a deep respect for our roots, Baby Konan wasn’t simply created—it was crafted with purpose, ingenuity, and a relentless desire to honor every holder of $KONAN on Kaspa.",
+    "total_supply": 287000000000,
+    "circulating_supply": 287000000000,
+    "websites": [
+      "https://babykonancoin.io/"
+    ],
+    "explorers": [
+      "https://explorer.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/babykonancoin/1",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/BabyKonanCoin",
+    "reddit": "",
+    "repository": "https://github.com/BabyKonanCoin/KaspaAPI",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://babykonancoin.io/"
+    ]
+  },
   "telestai": {
     "description": "Telestai is a next-generation blockchain forked from Ravencoin, utilizing a low-power mining algorithm known as Meraki. The goal is to create a decentralized, open-source ecosystem that empowers developers to build applications with real-world valu",
     "total_supply": 1969194240,
@@ -20418,5 +20449,127 @@
     "whitepaper": [
       "https://medium.com/@john-117/telestai-the-foundations-for-a-new-online-ecosystem-f1dde5645f93"
     ]
+  },
+  "jellyfcsol": {
+    "description": "Jellyfc is a community-driven token project founded by BrandonCoin from YouTube and his dedicated team. Our mission is to keep the community informed like no other project has, with daily updates on YouTube and weekly podcast-style live stream team meetings. Jellyfc had a fair launch with no presale and features a locked liquidity pool through Raydium, ensuring trust and stability for our community. We're now taking things to the next level by developing a robust Web3 ecosystem designed to reward users and provide real utility. This includes our already-implemented faucet and mining pool, with even more innovative features on the way.",
+    "total_supply": 999991714.695564,
+    "circulating_supply": 99990000,
+    "websites": [
+      "https://jellyfc.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/GFreY9SAUz96P7qkF19A4dtA4TmZgtL9Gmu8gV9Kpump"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/CoinJellyf54307",
+    "reddit": "",
+    "repository": "",
+    "youtube": "https://www.youtube.com/@jellyfishcoin",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "jellffishcoin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://jellyfc.com"
+    ]
+  },
+  "officialtrumpsol": {
+    "description": "Trump Memes are intended to function as an expression of support for, and engagement with, the ideals and beliefs embodied by the symbol \"$TRUMP\" and the associated artwork, and are not intended to be, or to be the subject of, an investment opportunity, investment contract, or security of any type.",
+    "total_supply": 999999993,
+    "circulating_supply": 200000000,
+    "websites": [
+      "https://gettrumpmemes.com",
+      "https://x.com/realDonaldTrump/status/1880446012168249386"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/GetTrumpMemes",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "official-trump",
+    "coingeckoID": "official-trump",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "melaniamemesol": {
+    "description": "Melania memes are digital collectibles intended to function as an expression of support for and engagement with the values embodied by the symbol MELANIA. and the associated artwork, and are not intended to be, or to be the subject of, an investment opportunity, investment contract, or security of any type.",
+    "total_supply": 1000000000,
+    "circulating_supply": 999999992,
+    "websites": [
+      "https://melaniameme.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/TrueMELANIAmeme",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "melania-meme",
+    "coingeckoID": "melania-meme",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "dogelonmarssol": {
+    "description": "Dogelon Mars plays on several popular themes in the meme coin space. Its name is a mixture of Dogecoin and Elon Musk, the billionaire entrepreneur who is an outspoken supporter of Doge. It alludes to Mars, a spin on the famous moon meme, implying that Dogelon will experience a massive upward movement. Beyond its tongue-in-cheek name, Dogelon Mars has managed to build a significant community, with more than 300,000 Twitter followers and more than 84,000 followers on Telegram.",
+    "total_supply": 1000000000000000,
+    "circulating_supply": 549652770159583,
+    "websites": [
+      "https://dogelonmars.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/dogelonmars",
+    "telegram": "https://t.me/DogelonMars",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/dogelonmars",
+    "reddit": "https://www.reddit.com/r/dogelon",
+    "repository": "",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/dogelonmars",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "dogelon",
+    "coingeckoID": "dogelon-mars",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
   }
 }
