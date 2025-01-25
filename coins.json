@@ -59815,7 +59815,7 @@
     "family": "ethlike",
     "coinType": "token",
     "logolink": "@/assets/logos/SAFEMOON.svg",
-    "fee": 63000,
+    "fee": 200000,
     "feepolicy": {
       "economy": 6,
       "normal": 10,
