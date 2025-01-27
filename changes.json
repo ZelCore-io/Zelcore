@@ -1,14 +1,17 @@
 {
-  "version": "8.12.0",
+  "version": "8.13.0",
   "codename": "Powered by Flux",
   "info": [
-    "We’re proud to introduce Version 8.12.0 of our wallet, focusing on extending blockchain support and enhancing user experience. Here's what’s new:"
+    "We are thrilled to announce Version 8.13.0 of our wallet, packed with new token additions, blockchain updates, and backend improvements. Here's what's new:"
   ],
   "bugs":[
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Telestai Blockchain and TLS Asset Support: Full integration of the Telestai UTXO blockchain, including support for managing, sending, and receiving Telestai (TLS) assets.",
+    "Solana Blockchain Tokens: Added support for the following tokens on the Solana blockchain: OFFICIAL TRUMP, Melania Meme, Dogelon Mars",
+    "Kaspa KRC20 Token: Introduced support for the Baby Konan token on the Kaspa blockchain.",
+    "Avalanche Blockchain Implementation: Enhanced the Avalanche blockchain integration for improved performance and compatibility.",
+    "Backend Updates: Upgraded multiple backend packages and systems to ensure greater reliability, performance, and security.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }
