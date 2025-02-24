@@ -20571,5 +20571,417 @@
     "livecoinwatchID": "",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "bitgettokeneth": {
+    "description": "Bitget Token (BGB) is the native utility token of the Bitget exchange, a leading cryptocurrency trading platform. BGB is primarily used to reduce trading fees on the Bitget platform, with users able to enjoy discounts when paying fees with the token. It is also used for participation in platform governance, staking, and various promotions within the Bitget ecosystem.",
+    "total_supply": 1199999994,
+    "circulating_supply": 1199999994,
+    "websites": [
+      "https://www.bitget.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x54d2252757e1672eead234d27b1270728ff90581"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/Bitget_NewMarket_Bot",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/bitgetglobal",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "bitget-token-new",
+    "coingeckoID": "bitget-token",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.bitget.com/cdnstatic/files/BGB-whitepaper-en.pdf"
+    ]
+  },
+  "ethenaeth": {
+    "description": "Ethena is a decentralized finance (DeFi) protocol built on the Ethereum blockchain, aiming to provide a synthetic dollar, USDe, as a stable and scalable digital currency independent of traditional banking systems. Unlike fiat-backed stablecoins, USDe maintains its value through a delta-hedging strategy involving perpetual and deliverable futures contracts, as well as holding liquid stablecoins like USDC and USDT.",
+    "total_supply": 15000000000,
+    "circulating_supply": 3128125000,
+    "websites": [
+      "https://www.ethena.fi"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x57e114B691Db790C35207b2e685D4A43181e6061"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/ethena",
+    "telegram": "https://t.me/ethena_labs",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/ethena_labs",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethena",
+    "coingeckoID": "ethena",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ethena.fi"
+    ]
+  },
+  "ethenausdeeth": {
+    "description": "Ethena USDe (USDe) is a decentralized stablecoin designed to maintain a 1:1 peg to the US Dollar. It is issued by the Ethena protocol and operates on the Ethereum blockchain as an ERC-20 token. USDe is built with an algorithmic approach, aiming to provide stability and liquidity in decentralized finance (DeFi) applications.",
+    "total_supply": 6039695538,
+    "circulating_supply": 6039498734,
+    "websites": [
+      "https://ethena.fi"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ethena",
+    "telegram": "https://t.me/ethena_labs",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/ethena_labs",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethena-usde",
+    "coingeckoID": "ethena-usde",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ethena.fi"
+    ]
+  },
+  "ethenausdebsc": {
+    "description": "Ethena USDe (USDe) is a decentralized stablecoin designed to maintain a 1:1 peg to the US Dollar. It is issued by the Ethena protocol and operates on the Ethereum blockchain as an ERC-20 token. USDe is built with an algorithmic approach, aiming to provide stability and liquidity in decentralized finance (DeFi) applications.",
+    "total_supply": 2606,
+    "circulating_supply": 6053742841,
+    "websites": [
+      "https://ethena.fi"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ethena",
+    "telegram": "https://t.me/ethena_labs",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/ethena_labs",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethena-usde",
+    "coingeckoID": "ethena-usde",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ethena.fi"
+    ]
+  },
+  "ethenausdeop": {
+    "description": "Ethena USDe (USDe) is a decentralized stablecoin designed to maintain a 1:1 peg to the US Dollar. It is issued by the Ethena protocol and operates on the Ethereum blockchain as an ERC-20 token. USDe is built with an algorithmic approach, aiming to provide stability and liquidity in decentralized finance (DeFi) applications.",
+    "total_supply": 15160,
+    "circulating_supply": 6053742841,
+    "websites": [
+      "https://ethena.fi"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ethena",
+    "telegram": "https://t.me/ethena_labs",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/ethena_labs",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethena-usde",
+    "coingeckoID": "ethena-usde",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ethena.fi"
+    ]
+  },
+  "ethenausdearb": {
+    "description": "Ethena USDe (USDe) is a decentralized stablecoin designed to maintain a 1:1 peg to the US Dollar. It is issued by the Ethena protocol and operates on the Ethereum blockchain as an ERC-20 token. USDe is built with an algorithmic approach, aiming to provide stability and liquidity in decentralized finance (DeFi) applications.",
+    "total_supply": 6404528,
+    "circulating_supply": 6053742841,
+    "websites": [
+      "https://ethena.fi"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ethena",
+    "telegram": "https://t.me/ethena_labs",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/ethena_labs",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethena-usde",
+    "coingeckoID": "ethena-usde",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ethena.fi"
+    ]
+  },
+  "ondoeth": {
+    "description": "Ondo Token (ONDO) is the native governance token of the Ondo Finance protocol, which focuses on providing decentralized investment solutions in the DeFi space. The ONDO token allows users to participate in protocol governance, enabling them to vote on decisions regarding the future direction and development of the platform.",
+    "total_supply": 10000000000,
+    "circulating_supply": 4231519801,
+    "websites": [
+      "https://ondo.finance",
+      "https://docs.ondo.finance",
+      "https://fluxfinance.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/ondofinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/OndoFoundation",
+    "reddit": "",
+    "repository": "https://github.com/ondoprotocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ondo-finance",
+    "coingeckoID": "ondo-finance",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.ondo.foundation/ondo-token"
+    ]
+  },
+  "mantleeth": {
+    "description": "Mantle (MNT) is the native governance token of the Mantle Network, a modular blockchain designed to enhance scalability and performance for decentralized applications (dApps) and decentralized finance (DeFi). The Mantle Network is a Layer 2 solution built on Ethereum, utilizing the Optimistic Rollup technology to improve transaction throughput and reduce costs.",
+    "total_supply": 6219316794,
+    "circulating_supply": 6219316794,
+    "websites": [
+      "https://www.mantle.xyz"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/0xMantle",
+    "telegram": "https://t.me/mantlenetwork",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/0xMantle",
+    "reddit": "",
+    "repository": "https://github.com/mantlenetworkio",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "mantle",
+    "coingeckoID": "mantle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.mantle.xyz/network"
+    ]
+  },
+  "virtualsprotocoleth": {
+    "description": "The Virtuals Protocol is a blockchain-based platform that integrates artificial intelligence (AI) and tokenization to create multimodal autonomous agents capable of operating in various digital environments. Its goal is to democratize AI access, allowing developers, collaborators, and users to participate in the creation and monetization of these agents, particularly in the gaming and entertainment sectors.",
+    "total_supply": 1000000000,
+    "circulating_supply": 758186168,
+    "websites": [
+      "https://www.virtuals.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x44ff8620b8cA30902395A7bD3F2407e1A091BF73"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/virtuals",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/virtuals_io",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "virtual-protocol",
+    "coingeckoID": "virtual-protocol",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://whitepaper.virtuals.io"
+    ]
+  },
+  "virtualsprotocolbase": {
+    "description": "The Virtuals Protocol is a blockchain-based platform that integrates artificial intelligence (AI) and tokenization to create multimodal autonomous agents capable of operating in various digital environments. Its goal is to democratize AI access, allowing developers, collaborators, and users to participate in the creation and monetization of these agents, particularly in the gaming and entertainment sectors.",
+    "total_supply": 488128484,
+    "circulating_supply": 762952713,
+    "websites": [
+      "https://www.virtuals.io"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/virtuals",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/virtuals_io",
+    "reddit": "",
+    "repository": "https://github.com/ethena-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "virtual-protocol",
+    "coingeckoID": "virtual-protocol",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://whitepaper.virtuals.io"
+    ]
+  },
+  "firstdigitalusdeth": {
+    "description": "First Digital USD (FDUSD) is a stablecoin pegged 1:1 to the US dollar, designed to provide a reliable digital currency solution. It operates on multiple blockchains, including Ethereum and BNB Chain, adhering to ERC-20 and BEP-20 standards, respectively. This multi-chain approach enhances its accessibility and usability across various platforms.",
+    "total_supply": 1774251993,
+    "circulating_supply": 1774251993,
+    "websites": [
+      "https://firstdigitallabs.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/FDLabsHQ",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "first-digital-usd",
+    "coingeckoID": "first-digital-usd",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "firstdigitalusdbsc": {
+    "description": "First Digital USD (FDUSD) is a stablecoin pegged 1:1 to the US dollar, designed to provide a reliable digital currency solution. It operates on multiple blockchains, including Ethereum and BNB Chain, adhering to ERC-20 and BEP-20 standards, respectively. This multi-chain approach enhances its accessibility and usability across various platforms.",
+    "total_supply": 101649569,
+    "circulating_supply": 1773498030,
+    "websites": [
+      "https://firstdigitallabs.com"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/FDLabsHQ",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "first-digital-usd",
+    "coingeckoID": "first-digital-usd",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "firstdigitalusdsol": {
+    "description": "First Digital USD (FDUSD) is a stablecoin pegged 1:1 to the US dollar, designed to provide a reliable digital currency solution. It operates on multiple blockchains, including Ethereum and BNB Chain, adhering to ERC-20 and BEP-20 standards, respectively. This multi-chain approach enhances its accessibility and usability across various platforms.",
+    "total_supply": 1774251993,
+    "circulating_supply": 1774251993,
+    "websites": [
+      "https://firstdigitallabs.com"
+    ],
+    "explorers": [
+      "https://solscan.io/token/9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/FDLabsHQ",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "first-digital-usd",
+    "coingeckoID": "first-digital-usd",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
   }
 }

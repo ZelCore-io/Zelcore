@@ -15013,6 +15013,29 @@
     },
     "color": "#9f9874"
   },
+  "jellyfcsol": {
+    "coin": "jellyfcsol",
+    "name": "JellfFishCoin SPL",
+    "uri": [
+      "jellyfc",
+      "jellyfcsol",
+      "jellffishcoin"
+    ],
+    "slip": 501,
+    "mint": "GFreY9SAUz96P7qkF19A4dtA4TmZgtL9Gmu8gV9Kpump",
+    "unit": "JELLYFC",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/JELLYFC.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#9fdade",
+    "decimals": 6
+  },
   "officialtrumpsol": {
     "coin": "officialtrumpsol",
     "name": "OFFICIAL TRUMP SPL",
@@ -15078,5 +15101,312 @@
     },
     "color": "#f8d9ad",
     "decimals": 4
+  },
+  "bitgettokeneth": {
+    "coin": "bitgettokeneth",
+    "name": "Bitget Token ERC 20",
+    "uri": [
+      "bitgettokeneth",
+      "bitget"
+    ],
+    "unit": "BGB",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BGB.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+    "color": "#00F0FF",
+    "decimals": 18
+  },
+  "ethenaeth": {
+    "coin": "ethenaeth",
+    "name": "Ethena ERC 20",
+    "uri": [
+      "ethenaeth",
+      "ethena"
+    ],
+    "unit": "ENA",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ENA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+    "color": "#A3A3A3",
+    "decimals": 18
+  },
+  "ethenausdeeth": {
+    "coin": "ethenausdeeth",
+    "name": "Ethena USDe ERC 20",
+    "uri": [
+      "ethenausdeeth",
+      "Ethena USDe"
+    ],
+    "unit": "USDe",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDe.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "color": "#949494",
+    "decimals": 18
+  },
+  "ethenausdebsc": {
+    "coin": "ethenausdebsc",
+    "name": "Ethena USDe Token BEP20",
+    "uri": [
+      "ethenausdebsc"
+    ],
+    "unit": "USDe",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDe.svg",
+    "fee": 63000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "color": "#A3A3A3",
+    "contractAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "decimals": 18
+  },
+  "ethenausdeop": {
+    "coin": "ethenausdeop",
+    "name": "Ethena USDe Token OP",
+    "uri": [
+      "ethenausdeop"
+    ],
+    "unit": "USDe",
+    "type": "optimism",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDe.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "color": "#A3A3A3",
+    "decimals": 18
+  },
+  "ethenausdearb": {
+    "coin": "ethenausdearb",
+    "name": "Ethena USDe Token Arb",
+    "uri": [
+      "ethenausdearb"
+    ],
+    "unit": "USDe",
+    "type": "arbitrum",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDe.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "color": "#A3A3A3",
+    "decimals": 18
+  },
+  "ondoeth": {
+    "coin": "ondoeth",
+    "name": "Ondo ERC 20",
+    "uri": [
+      "ondoeth",
+      "ondo"
+    ],
+    "unit": "ONDO",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ONDO.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "color": "#030508",
+    "decimals": 18
+  },
+  "mantleeth": {
+    "coin": "mantleeth",
+    "name": "Mantle ERC 20",
+    "uri": [
+      "mantleeth",
+      "mantle"
+    ],
+    "unit": "MNT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/MANTLE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "color": "#A0A0A0",
+    "decimals": 18
+  },
+  "virtualsprotocoleth": {
+    "coin": "virtualsprotocoleth",
+    "name": "Virtuals Protocol ERC 20",
+    "uri": [
+      "virtualsprotocoleth",
+      "virtualsprotocol",
+      "virtuals"
+    ],
+    "unit": "VIRTUAL",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VIRTUAL.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x44ff8620b8cA30902395A7bD3F2407e1A091BF73",
+    "color": "#3A928E",
+    "decimals": 18
+  },
+  "virtualsprotocolsol": {
+    "coin": "virtualsprotocolsol",
+    "name": "Virtuals Protocol SPL",
+    "uri": [
+      "virtualsprotocolsol",
+      "virtualsprotocol",
+      "virtuals"
+    ],
+    "slip": 501,
+    "mint": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "unit": "VIRTUAL",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VIRTUAL.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#3A928E",
+    "decimals": 9
+  },
+  "virtualsprotocolbase": {
+    "coin": "virtualsprotocolbase",
+    "name": "Virtuals Protocol BASE",
+    "uri": [
+      "virtualsprotocolbase",
+      "virtualsprotocol"
+    ],
+    "unit": "FDUSD",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VIRTUAL.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "color": "#3A928E",
+    "decimals": 18
+  },
+  "firstdigitalusdeth": {
+    "coin": "firstdigitalusdeth",
+    "name": "First Digital USD ERC 20",
+    "uri": [
+      "firstdigitalusdeth",
+      "firstdigitalusd"
+    ],
+    "unit": "FDUSD",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FDUSD.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "color": "#ECEFF3",
+    "decimals": 18
+  },
+  "firstdigitalusdbsc": {
+    "coin": "firstdigitalusdbsc",
+    "name": "First Digital USD BEP20",
+    "uri": [
+      "firstdigitalusdbsc",
+      "firstdigitalusd"
+    ],
+    "unit": "FDUSD",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FDUSD.svg",
+    "fee": 63000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "color": "#ECEFF3",
+    "decimals": 18
+  },
+  "firstdigitalusdsol": {
+    "coin": "firstdigitalusdsol",
+    "name": "First Digital USD SPL",
+    "uri": [
+      "firstdigitalusdsol",
+      "firstdigitalusd"
+    ],
+    "slip": 501,
+    "mint": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "unit": "FDUSD",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FDUSD.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#ECEFF3",
+    "decimals": 6
   }
 }
