@@ -10,6 +10,7 @@ We are thrilled to announce Version 8.13.0 of our wallet, packed with new token 
   - OFFICIAL TRUMP
   - Melania Meme
   - Dogelon Mars
+  - JellfFishCoin
 - **Kaspa KRC20 Token:** Introduced support for the **Baby Konan** token on the Kaspa blockchain.
 
 ### Updated
