@@ -1,4 +1,4 @@
-# ZelCore
+# Zelcore
 
 - Open issue or create a Pull Request, start a discussion
 - Add or correct language (look at en.js for English source for translation)
