@@ -10,7 +10,7 @@ Integration is done in 2 steps.
 
 Adjustment consist of editing 3 files AND adding logo
 Zelcore repository is located at [zelcore Github](https://github.com/zelcore-io/zelcore)
-Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources.js
+Files that need to be adjusted are coinsSimple.js, coininfo.json,  and newssources.json
 
 ### coinSimple.js
 
@@ -74,7 +74,7 @@ This file consist of an object of coin objects. This is a definition of a coin a
 - backend - Only Tron type backend is coded. Leave like this.
 - identifier - contract name or a number. It is always a string. Make sure to get this right!
 
-### coininfo.js
+### coininfo.json
 
 This files controls some social interactions of coins. Displays description, links of coins, articles, available explorer, coin circulation and so on. Again a named object.
 
@@ -144,7 +144,7 @@ Fields are done to be self-explanatory:
     ],
 - Others - feel free to add slack, wechat groups or others. We may let it available in the future
 
-### newssources.js
+### newssources.json
 
 Zelcore contains News section. A general one and asset news section as well. It can handle many of RSS feeds
 Here is an example for Quant

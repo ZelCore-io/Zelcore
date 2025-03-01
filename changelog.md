@@ -1,6 +1,42 @@
 
 # Changelog
 
+## [8.14.0] - Powered by Flux
+
+We are excited to introduce Version 8.14.0 of our wallet. This release delivers enhanced user interface improvements, updated blockchain token support, and strengthened security and login features.
+
+### Added
+- **Core Enhancements:**  
+  - Implemented a Vuex hot update mechanism that refreshes the store seamlessly after application load.
+  - Integrated automatic currency detection in the purchase module using ipapi, so that the default fiat currency is set based on the user’s location.
+  - Introduced throttling constants and system time accuracy checks within the login flows to better protect against brute-force attempts.
+
+### Updated
+- **Token Lists:**  
+  - **Arbitrum:** Added the **USDe** token.  
+  - **Base ETH:** Expanded token list with **FDUSD**.  
+  - **BNB (BSC) BEP20:** Now includes **USDe** and **FDUSD**.  
+  - **Ethereum:** Token list updated to include **USDe** and **FDUSD**.  
+  - **Optimism:** Added the **USDe** token.  
+  - **Solana:** Expanded token list to include **VIRTUAL** and **FDUSD**.
+
+- **User Interface & Experience:**  
+  - Modernized layout components: several grid-based layouts have been converted to flex layouts with adjusted margins and spacing for enhanced responsiveness.
+  - Updated error messaging and visual cues within the purchase module for better clarity when providers are unavailable.
+
+- **Login & Security:**  
+  - Revised login process in both standard and easy sign-in components:
+    - Now checks for system time accuracy during blocked account scenarios.
+    - Now D2FA pin is required to disable D2FA protection.
+
+### Fixed
+- **Styling & Layout Issues:**  
+  - Corrected various styling inconsistencies in the Purchase and login components, ensuring a smoother and more consistent user experience.
+  
+- **Error Handling:**  
+  - Improved handling of provider errors in the purchase flow.
+  - Fixed login throttling behavior by enforcing proper lockout conditions and updating error notifications for time discrepancies.
+
 ## [8.13.0] - Powered by Flux
 
 We are thrilled to announce Version 8.13.0 of our wallet, packed with new token additions, blockchain updates, and backend improvements. Here's what's new:

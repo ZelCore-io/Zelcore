@@ -223,6 +223,7 @@ export default {
     d2fa_desktop_change_need: "d2FA needs to be changed using Zelcore Desktop",
     message_d2fa: "Please authenticate your account using your PIN.",
     about_d2fa: "Your account is protected by the decentralized authentication system, to learn more about this system visit our info page.",
+    easy_login_phrase_restrictions: "Easy Login phrase must be at least 8 characters long and include at least 2 of uppercase letter, lowercase letter, number, symbol.",
 
     // Proxy Cities
     proxy_cze: "Prague, CZE",
@@ -1774,6 +1775,14 @@ export default {
     something_wrong_activated_widgets: "Something went wrong while storing activated widgets. Please contact the Zelcore Team.",
     beldex_tx_note: "In case of outgoing transaction, transaction fee is included in the amount and Payment ID might be randomly generated encrypted data.",
     sending_not_supported: "Sending of {chain} is not yet supported",
+    too_many_failed_attempts: "Too many failed attempts. Please wait a minute before trying again.",
+    // Please wait ${waitTime} seconds before trying again.
+    too_many_failed_attempts_seconds: "Please wait {seconds} seconds before trying again.",
+    too_many_failed_attempts_minutes: "Please wait {minutes} minutes before trying again.",
+    not_able_to_retrive_internet_time: "Unable to retrieve the network time. Check your connection.",
+    system_time_inaccurate: "Your system time is out of sync. Please ensure it is correct.",
+    signing_request_from: "Signing request from",
+    invalid_url: "Failed to open URL. Invalid URL",
 
     // New strings
     cryptowolf_no_history: "Sorry, exchange history is currently unavailable.",
@@ -2043,6 +2052,8 @@ export default {
     buy_orders_sum: "Buy Orders Sum:",
     no_buy_orders: "No Buy Orders",
     no_sell_orders: "No Sell Orders",
+    no_providers_available: "We do not find any provider to sell {sellcoin} and buy {buycoin}",
+    no_providers_available_amount: "We do not find any provider to sell {amount} {sellcoin} and buy {buycoin}",
     loading: "Loading...",
     available_amount: "Available amount:",
     price_two: "Price:",
@@ -2164,6 +2175,7 @@ export default {
     swap_transfer_for: "This request will allow a transfer of up to {amount} {unit}!",
     show_details: "Show Details",
     hide_details: "Hide Details",
+    invalid_flux_url: "Invalid Flux URL parameter provided",
 
     // Zelcore Plus
     free: "Free",

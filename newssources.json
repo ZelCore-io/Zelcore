@@ -9085,6 +9085,15 @@
         "pic": "@/assets/logos/CLORE.svg"
       }
     ],
+    "babykonankas": [
+      {
+        "name": "Baby Konan X",
+        "feed": "https://rss.app/feeds/QP3uUPehDk3xgSHP.xml",
+        "site": "https://x.com/BabyKonanCoin",
+        "about": "Official Baby Konan X",
+        "pic": "@/assets/logos/BKONAN.svg"
+      }
+    ],
     "arbitrum": [
       {
         "name": "Ethereum Reddit",
@@ -9575,6 +9584,175 @@
         "site": "https://twitter.com/Telestai_io",
         "about": "Telestai is committed to giving power back to users, freeing them from the constraints of current digital services.",
         "pic": "@/assets/logos/TLS.svg"
+      }
+    ],
+    "jellyfcsol": [
+      {
+        "name": "JellyFish Coin Twitter",
+        "feed": "https://rss.app/feeds/kkudsDMG9xWtYgC7.xml",
+        "site": "https://x.com/CoinJellyf54307",
+        "about": "Official JellyFish Coin Twitter",
+        "pic": "@/assets/logos/JELLYFC.svg"
+      }
+    ],
+    "officialtrumpsol": [
+      {
+        "name": "OFFICIAL TRUMP Twitter",
+        "feed": "https://rss.app/feeds/WTCdHVmdSDwyudW0.xml",
+        "site": "https://x.com/GetTrumpMemes",
+        "about": "Trump Memes are intended to function as an expression of support for, and engagement with, the ideals and beliefs embodied by the symbol \"$TRUMP\", and are not intended to be an investment opportunity, investment contract, or security of any type.",
+        "pic": "@/assets/logos/TRUMP.svg"
+      }
+    ],
+    "melaniamemesol": [
+      {
+        "name": "Melania Meme Twitter",
+        "feed": "https://rss.app/feeds/Tv8P6YyWNeAAXvAN.xml",
+        "site": "https://x.com/TrueMELANIAmeme",
+        "about": "Melania memes are digital collectibles intended to function as an expression of support for and engagement with the values embodied by the symbol MELANIA, and are not intended to be an investment opportunity, investment contract, or security of any type.",
+        "pic": "@/assets/logos/MELANIA.svg"
+      }
+    ],
+    "dogelonmarssol": [
+      {
+        "name": "Dogelon Mars Twitter",
+        "feed": "https://rss.app/feeds/HsXsQ3StVM3XGwtX.xml",
+        "site": "https://x.com/dogelonmars",
+        "about": "Dogelon Mars plays on several popular themes in the meme coin space.",
+        "pic": "@/assets/logos/ELON.svg"
+      },
+      {
+        "name": "Dogelon Mars Reddit",
+        "feed": "https://www.reddit.com/r/dogelon/.rss",
+        "site": "https://www.reddit.com/r/dogelon",
+        "about": "Dogelon Mars plays on several popular themes in the meme coin space.",
+        "pic": "@/assets/logos/ELON.svg"
+      }
+    ],
+    "bitgettokeneth": [
+      {
+        "name": "Bitget Official Twitter",
+        "feed": "https://rss.app/feeds/o4pp93TcKW8OJpo6.xml",
+        "site": "https://x.com/bitgetglobal",
+        "about": "Bitget Official twitter account",
+        "pic": "@/assets/logos/BGB.svg"
+      }
+    ],
+    "ethenaeth": [
+      {
+        "name": "Ethena Labs Official Twitter",
+        "feed": "https://rss.app/feeds/3zK0Dpf5k9vDDQ8a.xml",
+        "site": "https://twitter.com/ethena_labs",
+        "about": "Ethena Labs Official twitter account",
+        "pic": "@/assets/logos/ENA.svg"
+      }
+    ],
+    "ethenausdeeth": [
+      {
+        "name": "Ethena Labs Official Twitter",
+        "feed": "https://rss.app/feeds/pKOajbJ6eFwoFxTv.xml",
+        "site": "https://x.com/ethena_labs",
+        "about": "Ethena Labs Official twitter account",
+        "pic": "@/assets/logos/USDe.svg"
+      }
+    ],
+    "ethenausdebsc": [
+      {
+        "name": "Ethena Labs Official Twitter",
+        "feed": "https://rss.app/feeds/pKOajbJ6eFwoFxTv.xml",
+        "site": "https://x.com/ethena_labs",
+        "about": "Ethena Labs Official twitter account",
+        "pic": "@/assets/logos/USDe.svg"
+      }
+    ],
+    "ethenausdeop": [
+      {
+        "name": "Ethena Labs Official Twitter",
+        "feed": "https://rss.app/feeds/pKOajbJ6eFwoFxTv.xml",
+        "site": "https://x.com/ethena_labs",
+        "about": "Ethena Labs Official twitter account",
+        "pic": "@/assets/logos/USDe.svg"
+      }
+    ],
+    "ethenausdearb": [
+      {
+        "name": "Ethena Labs Official Twitter",
+        "feed": "https://rss.app/feeds/pKOajbJ6eFwoFxTv.xml",
+        "site": "https://x.com/ethena_labs",
+        "about": "Ethena Labs Official twitter account",
+        "pic": "@/assets/logos/USDe.svg"
+      }
+    ],
+    "ondoeth": [
+      {
+        "name": "Ondo Foundation Official Twitter",
+        "feed": "https://rss.app/feeds/dd9sWPbPpz2qQln6.xml",
+        "site": "https://x.com/OndoFoundation",
+        "about": "Ondo Foundation Official twitter account",
+        "pic": "@/assets/logos/ONDO.svg"
+      }
+    ],
+    "mantleeth": [
+      {
+        "name": "Mantle Network Official Twitter",
+        "feed": "https://rss.app/feeds/xdZpvnnwnFillbSo.xml",
+        "site": "https://twitter.com/0xMantle",
+        "about": "Mantle Network Official twitter account",
+        "pic": "@/assets/logos/MANTLE.svg"
+      }
+    ],
+    "virtualsprotocoleth": [
+      {
+        "name": "Virtuals Official Twitter",
+        "feed": "https://rss.app/feeds/7cwEzZ3qbl9Q7bZ6.xml",
+        "site": "https://twitter.com/virtuals_io",
+        "about": "Virtuals Official twitter account",
+        "pic": "@/assets/logos/VIRTUAL.svg"
+      }
+    ],
+    "virtualsprotocolsol": [
+      {
+        "name": "Virtuals Official Twitter",
+        "feed": "https://rss.app/feeds/7cwEzZ3qbl9Q7bZ6.xml",
+        "site": "https://twitter.com/virtuals_io",
+        "about": "Virtuals Official twitter account",
+        "pic": "@/assets/logos/VIRTUAL.svg"
+      }
+    ],
+    "virtualsprotocolbase": [
+      {
+        "name": "Virtuals Official Twitter",
+        "feed": "https://rss.app/feeds/7cwEzZ3qbl9Q7bZ6.xml",
+        "site": "https://twitter.com/virtuals_io",
+        "about": "Virtuals Official twitter account",
+        "pic": "@/assets/logos/VIRTUAL.svg"
+      }
+    ],
+    "firstdigitalusdeth": [
+      {
+        "name": "First Digital Labs Official Twitter",
+        "feed": "https://rss.app/feeds/nkGlThJmepTpufrh.xml",
+        "site": "https://twitter.com/FDLabsHQ",
+        "about": "First Digital Labs Official twitter account",
+        "pic": "@/assets/logos/FDUSD.svg"
+      }
+    ],
+    "firstdigitalusdbsc": [
+      {
+        "name": "First Digital Labs Official Twitter",
+        "feed": "https://rss.app/feeds/nkGlThJmepTpufrh.xml",
+        "site": "https://twitter.com/virtuals_io",
+        "about": "First Digital Labs Official twitter account",
+        "pic": "@/assets/logos/FDUSD.svg"
+      }
+    ],
+    "firstdigitalusdsol": [
+      {
+        "name": "First Digital Labs Official Twitter",
+        "feed": "https://rss.app/feeds/nkGlThJmepTpufrh.xml",
+        "site": "https://twitter.com/FDLabsHQ",
+        "about": "First Digital Labs Official twitter account",
+        "pic": "@/assets/logos/FDUSD.svg"
       }
     ]
   }

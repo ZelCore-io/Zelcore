@@ -4,7 +4,7 @@
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
 - **Total Blockchains**: 87
-- **Total Coins (including tokens)**: 617
+- **Total Coins (including tokens)**: 631
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -12,12 +12,12 @@ This document provides an overview of the supported blockchains and their associ
 | alephium | Alephium | alephium | ALPH | None |
 | algorand | Algorand | algorand | ALGO | USDT, USDC, PLANETS, XET, OPUL, STBL, FLUX-ALGO |
 | anon | Anon | zcash | ANON | None |
-| arbitrum | Ethereum ARB | arbitrum | ETH | ARB, USDC.E, DAI, USDT |
+| arbitrum | Ethereum ARB | arbitrum | ETH | ARB, USDC.E, DAI, USDT, USDe |
 | avaxavalanchec | Avax C-Chain | avalanchec | AVAX-C | USDC, USDC.E, USDT, USDT.E, WETH.E, WBTC.E, DAI.E, LINK.E, WAVAX, JOE, QI, SAVAX, YUSD, FLUX-AVAX |
 | avaxavalanchep | Avax P-Chain | avalanchep | AVAX-P | None |
 | avaxavalanchex | Avax X-Chain | avalanchex | AVAX-X | None |
 | axe | Axe | btc | AXE | None |
-| base | Base ETH | base | ETH | USDC, DAI, FLUX-BASE, BRETT |
+| base | Base ETH | base | ETH | USDC, DAI, FLUX-BASE, BRETT, FDUSD |
 | basesepolia | Base ETH Sepolia | basesepolia | bsETH | None |
 | beldex | Beldex | cryptonight | BDX | None |
 | bitcoin | Bitcoin Legacy | blockbook | BTC | USDT, MAID |
@@ -31,7 +31,7 @@ This document provides an overview of the supported blockchains and their associ
 | bithereum | Bithereum | electrum | BTH | None |
 | blast | Ethereum BLAST | blast | ETH | BLAST, WBTC, WETH, USDB |
 | bnbbinance | BNB (BC) BEP2 | bnb | BNB | BTCB, RUNE, TUSD, BUSD, NEXO, CHZ, NOW |
-| bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI |
+| bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI, USDe, FDUSD |
 | btcp | Bitcoin Private | zcash | BTCP | None |
 | bzedge | BZEdge | zcash | BZE | None |
 | cardano | Cardano | cardano | ADA | None |
@@ -46,7 +46,7 @@ This document provides an overview of the supported blockchains and their associ
 | eos | EOS | eos | EOS | None |
 | ergo | Ergo | ergo | ERG | FLUX-ERG, SIGUSD, SIGRSV, ERDOGE, ERGOPAD, PAIDEIA, EXLE, EGIO, COMET |
 | etc | Ethereum Classic | etc | ETC | None |
-| ethereum | Ethereum | eth | ETH | BNB, SONM, OMG, ZIL, ZRX, GNT, KCS, BAT, MKR, KNCL, ENG, PAY, SUB, CVC, STX, ABT, ADX, AE, AST, BBO, APPC, BLZ, BNT, COFI, SAI, DGX, ELEC, ELF, ENJ, STORJ, IOST, DENT, LEND, LINK, MANA, LRC, QASH, ICN, MCO, POE, POLY, POWR, RCN, RDN, REQ, SNT, SALT, STORM, EDO, TUSD, DCN, WAX, WINGS, DTA, FUN, KIN, SRN, AOA, THETA, USDC, GUSD, PAX, CONI, TOK, POR, ADT, MFT, ATL, ANT, ARN, BRD, REP, QKC, LOOM, EURS, GUNTHY, MTL, VGX, ETHOS, AGI, AMB, BCPT, CDT, CELR, CND, DATA, DLT, DOCK, EVX, GTO, GVT, HOT, INS, IOTX, KEY, LUN, MTH, OAX, OST, PPT, QSP, REN, RLC, SNGLS, TNT, VIB, VIBE, WABI, WPR, DIBI, FUEL, LEO, BXY, USDS, NUKE, GCSTAR, GCTGT, GCWAL, GCBEST, GCHD, GCLOWE, DMME, HT, BUSD, OKB, BF, MX, ZB, HTB, HPT, GOLF, ENQ, FTM, 0xBTC, VYA, AERGO, LMY, NTK, GMC, BAZ, CSO, UBT, USDT, HEX, COMP, VIDT, DRGN, WHALE, WBTC, OM, COIN, UNI, TOSHI, NEXO, DAI, STAKE, REV, AAVE, SNX, YFI, FTT, GRT, SUSHI, CEL, CRO, UMA, RENBTC, CHSB, AMPL, RSR, UST, HEDG, QNT, OCEAN, HUSD, CVT, GNO, CHZ, NXM, 1INCH, POL, ARNX, XCM, GT, KNC, PRE, FLUX-ETH, SAFEMOON, AXS, STETH, AMP, TEL, ONE, WAVES, SHIB, PERP, AUDIO, CRV, SAND, VGX, ANKR, SXP, ALPHA, FET, GLM, USDN, SKL, NMR, SRM, LPT, ALICE, FEI, OGN, INJ, AGIX, PAXG, BAND, STMX, STMX, REEF, CTSI, NKN, TRIBE, GODS, PBX, STRAX, EWTB, PROM, WOO, COTI, OXT, TOMO, ORBS, UOS, BADGER, PHA, MVL, NU, ANT, DODO, XYO, UTK, YFII, MLN, BAL, BORA, STRK, SNM, ADX, LOOM, DATA, AERGO, VID, OM, OXY, RAY, ALEPH, C98, WETH, QUICK, DYDX, XDB, VLX, FX, ASD, CRWNY, SAITO, BTT, XHT, NOW, RSR, KARATE, PEPE, FLOKI, TURBO, ALPH, BONK, RENDER, THREE |
+| ethereum | Ethereum | eth | ETH | BNB, SONM, OMG, ZIL, ZRX, GNT, KCS, BAT, MKR, KNCL, ENG, PAY, SUB, CVC, STX, ABT, ADX, AE, AST, BBO, APPC, BLZ, BNT, COFI, SAI, DGX, ELEC, ELF, ENJ, STORJ, IOST, DENT, LEND, LINK, MANA, LRC, QASH, ICN, MCO, POE, POLY, POWR, RCN, RDN, REQ, SNT, SALT, STORM, EDO, TUSD, DCN, WAX, WINGS, DTA, FUN, KIN, SRN, AOA, THETA, USDC, GUSD, PAX, CONI, TOK, POR, ADT, MFT, ATL, ANT, ARN, BRD, REP, QKC, LOOM, EURS, GUNTHY, MTL, VGX, ETHOS, AGI, AMB, BCPT, CDT, CELR, CND, DATA, DLT, DOCK, EVX, GTO, GVT, HOT, INS, IOTX, KEY, LUN, MTH, OAX, OST, PPT, QSP, REN, RLC, SNGLS, TNT, VIB, VIBE, WABI, WPR, DIBI, FUEL, LEO, BXY, USDS, NUKE, GCSTAR, GCTGT, GCWAL, GCBEST, GCHD, GCLOWE, DMME, HT, BUSD, OKB, BF, MX, ZB, HTB, HPT, GOLF, ENQ, FTM, 0xBTC, VYA, AERGO, LMY, NTK, GMC, BAZ, CSO, UBT, USDT, HEX, COMP, VIDT, DRGN, WHALE, WBTC, OM, COIN, UNI, TOSHI, NEXO, DAI, STAKE, REV, AAVE, SNX, YFI, FTT, GRT, SUSHI, CEL, CRO, UMA, RENBTC, CHSB, AMPL, RSR, UST, HEDG, QNT, OCEAN, HUSD, CVT, GNO, CHZ, NXM, 1INCH, POL, ARNX, XCM, GT, KNC, PRE, FLUX-ETH, SAFEMOON, AXS, STETH, AMP, TEL, ONE, WAVES, SHIB, PERP, AUDIO, CRV, SAND, VGX, ANKR, SXP, ALPHA, FET, GLM, USDN, SKL, NMR, SRM, LPT, ALICE, FEI, OGN, INJ, AGIX, PAXG, BAND, STMX, STMX, REEF, CTSI, NKN, TRIBE, GODS, PBX, STRAX, EWTB, PROM, WOO, COTI, OXT, TOMO, ORBS, UOS, BADGER, PHA, MVL, NU, ANT, DODO, XYO, UTK, YFII, MLN, BAL, BORA, STRK, SNM, ADX, LOOM, DATA, AERGO, VID, OM, OXY, RAY, ALEPH, C98, WETH, QUICK, DYDX, XDB, VLX, FX, ASD, CRWNY, SAITO, BTT, XHT, NOW, RSR, KARATE, PEPE, FLOKI, TURBO, ALPH, BONK, RENDER, THREE, BGB, ENA, USDe, ONDO, MNT, VIRTUAL, FDUSD |
 | fio | Fio Protocol | fio | FIO | None |
 | ftm | Fantom | ftm | FTM | USDC, USDC.E, DAI |
 | gemlink | Gemlink | zcash | GLINK | None |
@@ -67,14 +67,14 @@ This document provides an overview of the supported blockchains and their associ
 | near | Near | near | NEAR | USDT, USDC |
 | neo | NEO Legacy | neo | NEO | FISH |
 | ontology | Ontology | ontology | ONT | None |
-| optimism | Ethereum OP | optimism | ETH | OP, USDC, DAI, USDT |
+| optimism | Ethereum OP | optimism | ETH | OP, USDC, DAI, USDT, USDe |
 | raptoreum | Raptoreum | electrum | RTM | None |
 | ravencoin | Ravencoin | btc | RVN | NAHAN, SEEDMONEY |
 | ripple | XRP | ripple | XRP | None |
 | safecoin | Safecoin Classic | zcash | SAFE | None |
 | sinovate | SINOVATE | blockbook | SIN | None |
 | snowgem | TENT | zcash | TENT | None |
-| solana | Solana | solana | SOL | WSOL, SRM, MSRM, COPE, FIDA, FTT, KIN, MAPS, MEDIA, OXY, RAY, STEP, USDC, USDT, ROPE, MER, TULIP, ALEPH, LINK, SUSHI, WOO, C98, SAMO, MNGO, ATLAS, POLIS, ORCA, AURY, SLND, SBR, LIQ, SNY, PORT, ABR, CRP, IVN, GRAPE, NINJA, CRWNY, FLUX-SOL, MSOL, STSOL, SLIM, DFL, IN, JET, DXL, LIKE, MNDE, WHAPI, RIN, CYS, FAB, WAG, MOLA, SOLD, CATO, CSTR, SAO, APYS, SUNNY, KURO, WIF, JELLYFC, TRUMP, MELANIA, ELON |
+| solana | Solana | solana | SOL | WSOL, SRM, MSRM, COPE, FIDA, FTT, KIN, MAPS, MEDIA, OXY, RAY, STEP, USDC, USDT, ROPE, MER, TULIP, ALEPH, LINK, SUSHI, WOO, C98, SAMO, MNGO, ATLAS, POLIS, ORCA, AURY, SLND, SBR, LIQ, SNY, PORT, ABR, CRP, IVN, GRAPE, NINJA, CRWNY, FLUX-SOL, MSOL, STSOL, SLIM, DFL, IN, JET, DXL, LIKE, MNDE, WHAPI, RIN, CYS, FAB, WAG, MOLA, SOLD, CATO, CSTR, SAO, APYS, SUNNY, KURO, WIF, JELLYFC, TRUMP, MELANIA, ELON, VIRTUAL, FDUSD |
 | stellar | Stellar Lumens | stellar | XLM | None |
 | tao | Bittensor | substrate | TAO | None |
 | telestai | Telestai | blockbook | TLS | None |

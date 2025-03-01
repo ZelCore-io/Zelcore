@@ -3,21 +3,21 @@
 Integration of Terra CW20 Token is fairly straightforward and consist of following integration scheme.
 Integration is done in 2 steps.
 
- 1. Adjusting zelcore files
- 2. Adjusting rates/markets repository
+1. Adjusting zelcore files
+2. Adjusting rates/markets repository
 
 ## Adjusting zelcore Files
 
 Adjustment consist of editing 3 files AND adding logo
 Zelcore repository is located at [zelcore Github](https://github.com/zelcore-io/zelcore)
-Files that need to be adjusted are coinsSimple.js, coininfo.js,  and newssources.js
+Files that need to be adjusted are coinsSimple.js, coininfo.json,  and newssources.json
 
 ### coinSimple.js
 
 This file consist of an object of coin objects. This is a definition of a coin and technically everything that is needed for a coin to function in zelcore. Coin specification is a named object. In case of Terra CW20 Tokens, following configuration shall be present
 
 ```js
-  mamznterra: {
+mamznterra: {
     coin: "mamznterra",
     name: "Mirrored Amazon TERRA",
     uri: [
@@ -28,8 +28,8 @@ This file consist of an object of coin objects. This is a definition of a coin a
     terraType: "CW20", // native or CW20
     addresses: [],
     api: [
-      "https://columbus-lcd.terra.dev/",
-      "https://lcd.terra.dev/",
+      "https://lcd.terra-classic.zelcore.io/",
+      "https://terra-classic-lcd.publicnode.com/",
     ],
     unit: "mAMZN",
     type: "terra",
@@ -39,8 +39,8 @@ This file consist of an object of coin objects. This is a definition of a coin a
     ],
     logolink: "@/assets/logos/MAMZN.svg",
     node: [
-      "https://columbus-fcd.terra.dev",
-      "https://fcd.terra.dev",
+      "https://fcd.terra-classic.zelcore.io",
+      "https://terra-classic-fcd.publicnode.com",
     ],
     fee: 566,
     feepolicy: {
@@ -75,48 +75,48 @@ This file consist of an object of coin objects. This is a definition of a coin a
 - color - dominant color of the Token. Shall correspond to logo
 - backend - Only terra type backend is coded. Leave like this.
 
-### coininfo.js
+### coininfo.json
 
 This files controls some social interactions of coins. Displays description, links of coins, articles, available explorer, coin circulation and so on. Again a named object.
 
-  mamznterra: {
-    description: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock. It can be minted on the Mirror Protocol, which references on-chain prices provided by Band Protocol's decentralized network of oracles. mAMZN exists as CW20 and ERC20 versions, which can be traded on Terraswap and Uniswap, respectively.",
-    total_supply: 4055,
-    circulating_supply: 4055,
-    websites: [
-      "https://mirror.finance",
-    ],
-    explorers: [
-      "https://finder.terra.money/classic/address/terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
-      "https://etherscan.io/token/0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
-      "https://ethplorer.io/address/0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
-    ],
-    medium: "https://medium.com/@mirror-protocol",
-    discord: "https://discord.gg/KYC22sngFn",
-    telegram: "https://t.me/mirror_protocol",
-    bitcointalk: "",
-    facebook: "",
-    twitter: "https://twitter.com/mirror_protocol",
-    reddit: "",
-    repository: "https://github.com/mirror-protocol",
-    youtube: "",
-    instagram: "",
-    tiktok: "",
-    twitch: "",
-    linkedin: "",
-    cryptoCompareID: "",
-    coinMarketCapID: "mirrored-amazon",
-    coingeckoID: "mirrored-amazon",
-    auditInfos: [
-      {
-        auditor: "Cyber Unit",
-        reportUrl: "https://docsend.com/view/p4es2dgvwadamgqg",
-      },
-    ],
-    whitepaper: [
-      "https://docs.mirror.finance",
-    ],
-  },
+mamznterra: {
+description: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock. It can be minted on the Mirror Protocol, which references on-chain prices provided by Band Protocol's decentralized network of oracles. mAMZN exists as CW20 and ERC20 versions, which can be traded on Terraswap and Uniswap, respectively.",
+total_supply: 4055,
+circulating_supply: 4055,
+websites: [
+"https://mirror.finance",
+],
+explorers: [
+"https://finder.terra.money/classic/address/terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+"https://etherscan.io/token/0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
+"https://ethplorer.io/address/0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7",
+],
+medium: "https://medium.com/@mirror-protocol",
+discord: "https://discord.gg/KYC22sngFn",
+telegram: "https://t.me/mirror_protocol",
+bitcointalk: "",
+facebook: "",
+twitter: "https://twitter.com/mirror_protocol",
+reddit: "",
+repository: "https://github.com/mirror-protocol",
+youtube: "",
+instagram: "",
+tiktok: "",
+twitch: "",
+linkedin: "",
+cryptoCompareID: "",
+coinMarketCapID: "mirrored-amazon",
+coingeckoID: "mirrored-amazon",
+auditInfos: [
+{
+auditor: "Cyber Unit",
+reportUrl: "https://docsend.com/view/p4es2dgvwadamgqg",
+},
+],
+whitepaper: [
+"https://docs.mirror.finance",
+],
+},
 
 Fields are done to be self-explanatory:
 
@@ -142,38 +142,37 @@ Fields are done to be self-explanatory:
 - coinMarketCapID - the ID of the asset at the coinMarketCap aggregator api
 - coingeckoID - the ID of the asset at the coingecko aggregator api
 - auditInfos - available audit reports for the asset in dictionary format e.g. [
-      {
-        auditor: "Quantstamp",
-        reportUrl: "https://certificate.quantstamp.com/view/serum",
-      },
-    ],
+  {
+  auditor: "Quantstamp",
+  reportUrl: "https://certificate.quantstamp.com/view/serum",
+  },
+  ],
 - whitepaper - available whitepapers for the asset e.g. [
-      "https://docs.projectserum.com",
-    ],
+  "https://docs.projectserum.com",
+  ],
 - Others - feel free to add slack, wechat groups or others. We may let it available in the future
 
-### newssources.js
+### newssources.json
 
 zelcore contains News section. A general one and asset news section as well. It can handle many of RSS feeds
 Here is an example for Quant
 
-    mamznterra: [
-      {
-        name: "Mirror (mAMZN) Twitter",
-        feed: "https://nitter.zelcore.io/mirror_protocol/rss",
-        site: "https://twitter.com/mirror_protocol",
-        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
-        pic: "@/assets/logos/MAMZN.svg",
-      },
-      {
-        name: "Mirror (mAMZN) Medium",
-        feed: "https://medium.com/feed/@mirror-protocol",
-        site: "https://medium.com/@mirror-protocol",
-        about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
-        pic: "@/assets/logos/MAMZN.svg",
-      },
-    ],
-
+mamznterra: [
+{
+name: "Mirror (mAMZN) Twitter",
+feed: "https://nitter.zelcore.io/mirror_protocol/rss",
+site: "https://twitter.com/mirror_protocol",
+about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
+pic: "@/assets/logos/MAMZN.svg",
+},
+{
+name: "Mirror (mAMZN) Medium",
+feed: "https://medium.com/feed/@mirror-protocol",
+site: "https://medium.com/@mirror-protocol",
+about: "Mirrored Amazon (mAMZN) is a synthetic asset tracking the price of an Amazon stock",
+pic: "@/assets/logos/MAMZN.svg",
+},
+],
 This array is an object of available news for an asset.
 
 - name - name of the news
@@ -191,7 +190,7 @@ Please look at many examples in [Logos directory](https://github.com/zelcore-io/
 Zelcore uses its own Rates and Markets services. The repository can be found in [rates-api](https://github.com/zelcore-io/rates-api).
 1 File have to be adjusted at rates-api/src/services/. Add the asset's aggregator ID on the corresponding list. Adding the ID of one aggregetor is enough.
 
- 1. coinAggregatorIDs.js
+1. coinAggregatorIDs.js
 
 You can find them in [services folder](https://github.com/zelcore-io/rates-api/blob/master/src/services/) of rates-api.
 Adjustment is usually very simple and adding just your UNIT to an api call will do. Or you can write a custom call specifically for your asset. Note that the output of the asset has to be the UNIT used in zelcore coinSimple.js file.
@@ -203,3 +202,4 @@ Please follow the styling, try using linting in your pull requests. We use 2 spa
 ## Thank you for your PRs
 
 Zelcore Team
+
