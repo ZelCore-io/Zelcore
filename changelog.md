@@ -1,6 +1,22 @@
 
 # Changelog
 
+## [8.15.0] - Enhanced Security & Fluxnode Revamp
+
+We are proud to release Version 8.15.0, delivering crucial updates in security, major improvements in encryption, and an entirely revamped Fluxnode Dashboard. See what's improved:
+
+### Added
+- **Advanced Encryption Standard (AES-GCM):** Updated encryption methods to AES-GCM, leveraging the latest cryptographic standards for robust protection.
+- **Enhanced Key Derivation:** Significantly improved AES key derivation techniques to bolster security against brute force attacks.
+
+### Updated
+- **Fluxnode Dashboard Redesign:** Completely refactored the Fluxnode Dashboard, enhancing both backend logic and frontend user interface for improved clarity, usability, and functionality.
+- **CS and ID Language Support:** Refreshed translations for Czech (CS) and Indonesian (ID) languages to enhance user experience.
+- **Biometric Security Integration:** Upgraded biometric security measures by combining keystore and biometric secrets for superior authentication protection.
+
+### Recommendations
+- **Reset EasyLogin & D2FA:** Strongly encouraged to reset EasyLogin and Decentralized Two-Factor Authentication (D2FA) to fully benefit from the improved encryption and security updates.
+
 ## [8.14.0] - Powered by Flux
 
 We are excited to introduce Version 8.14.0 of our wallet. This release delivers enhanced user interface improvements, updated blockchain token support, and strengthened security and login features.
