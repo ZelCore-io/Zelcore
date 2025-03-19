@@ -1,29 +1,19 @@
 {
-  "version": "8.14.0",
+  "version": "8.15.0",
   "codename": "Powered by Flux",
   "info": [
-    "We are excited to introduce Version 8.14.0 of our wallet. This release delivers enhanced user interface improvements, updated blockchain token support, and strengthened security and login features."
+    "We are proud to release Version 8.15.0, delivering crucial updates in security, major improvements in encryption, and an entirely revamped Fluxnode Dashboard."
   ],
   "bugs": [
-    "Corrected various styling inconsistencies in the Purchase and login components, ensuring a smoother and more consistent user experience.",
-    "Improved handling of provider errors in the purchase flow.",
-    "Fixed login throttling behavior by enforcing proper lockout conditions and updating error notifications for time discrepancies.",
-    "Implemented a Vuex hot update mechanism that refreshes the store seamlessly after application load.",
-    "Updated error messaging and visual cues within the purchase module for better clarity when providers are unavailable.",
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Arbitrum: Added the USDe token.",
-    "Base ETH: Expanded token list with FDUSD.",
-    "BNB (BSC) BEP20: Now includes USDe and FDUSD.",
-    "Ethereum: Token list updated to include USDe and FDUSD.",
-    "Optimism: Added the USDe token.",
-    "Solana: Expanded token list to include VIRTUAL and FDUSD.",
-    "Integrated automatic currency detection in the purchase module using ipapi, so that the default fiat currency is set based on the user’s location.",
-    "Introduced throttling constants and system time accuracy checks within the login flows to better protect against brute-force attempts.",
-    "Modernized layout components: several grid-based layouts have been converted to flex layouts with adjusted margins and spacing for enhanced responsiveness.",
-    "Revised login process in both standard and easy sign-in components: now checks for system time accuracy during blocked account scenarios.",
-    "Now D2FA pin is required to disable D2FA protection.",
+    "Reset EasyLogin & D2FA: Strongly encouraged to reset EasyLogin and Decentralized Two-Factor Authentication (D2FA) to fully benefit from the improved encryption and security updates.",
+    "Fluxnode Dashboard Redesign: Completely refactored the Fluxnode Dashboard, enhancing both backend logic and frontend user interface for improved clarity, usability, and functionality.",
+    "Advanced Encryption Standard (AES-GCM): Updated encryption methods to AES-GCM, leveraging the latest cryptographic standards for robust protection.",
+    "Enhanced Key Derivation: Significantly improved AES key derivation techniques to bolster security against brute force attacks.",
+    "Biometric Security Integration: Upgraded biometric security measures by combining keystore and biometric secrets for superior authentication protection.",
+    "CS and ID Language Support: Refreshed translations for Czech (CS) and Indonesian (ID) languages to enhance user experience.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }
