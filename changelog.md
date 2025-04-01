@@ -1,6 +1,22 @@
 
 # Changelog
 
+## [8.15.4] - Powered by Flux
+
+### Fixed
+- **UI Fixes and Adjustments:** Various Purchase and Swap UI Treatments. Other UI improvements.
+- **Monero Sending Fix:** Fixed a bug related to monero cryptoasset sending.
+
+## [8.15.3] - Powered by Flux
+
+### Fixed
+- **UI Fixes and Adjustments:** Various Fluxnodes App UI Treatments. Other UI improvements.
+
+## [8.15.1] - Powered by Flux
+
+### Fixed
+- **Mobile GCM decryption incompatibility:** Resolved an issue where mobile GCM decryption was incompatible with the latest version of the desktop.
+
 ## [8.15.0] - Enhanced Security & Fluxnode Revamp
 
 We are proud to release Version 8.15.0, delivering crucial updates in security, major improvements in encryption, and an entirely revamped Fluxnode Dashboard. See what's improved:
