@@ -20391,7 +20391,7 @@
     "total_supply": 287000000000,
     "circulating_supply": 287000000000,
     "websites": [
-      "https://babykonancoin.io/"
+      "https://babykonancoin.io"
     ],
     "explorers": [
       "https://explorer.kaspa.org"
@@ -20414,7 +20414,7 @@
     "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": [
-      "https://babykonancoin.io/"
+      "https://babykonancoin.io"
     ]
   },
   "telestai": {
@@ -20980,6 +20980,2380 @@
     "cryptoCompareID": "",
     "coinMarketCapID": "first-digital-usd",
     "coingeckoID": "first-digital-usd",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "ink": {
+    "description": "Ink is an Ethereum OP Stack layer 2 blockchain designed to be the house of DeFi for the Superchain; a powerful baselayer for deploying innovative DeFi protocols.",
+    "total_supply": 120614183,
+    "circulating_supply": 120614183,
+    "websites": [
+      "https://inkonchain.com"
+    ],
+    "explorers": [
+      "https://explorer.inkonchain.com"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/inkonchain",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/inkonchain",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ethereum",
+    "coingeckoID": "ethereum",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "usdceink": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://explorer.inkonchain.com/token/0xF1815bd50389c46847f0Bda824eC8da914045D14"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
+  },
+  "lidodao": {
+    "description": "Lido DAO is a decentralized autonomous organization that enables users to stake Ether and receive daily rewards while keeping full control of their staked tokens. It works by allowing users to deposit Ether into a smart contract, which is then locked into the Ethereum proof-of-stake deposit contract, and staked Ether will be withdrawable only when transfers and smart contracts are implemented on Ethereum 2.0.",
+    "total_supply": 1000000000,
+    "circulating_supply": 897877243,
+    "websites": [
+      "https://stake.lido.fi",
+      "https://blog.lido.fi",
+      "https://lido.fi"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/vgdPfhZ",
+    "telegram": "https://t.me/lidofinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/lidofinance",
+    "reddit": "https://www.reddit.com/r/LidoFinance",
+    "repository": "https://github.com/lidofinance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "lido-dao",
+    "coingeckoID": "lido-dao",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+    ]
+  },
+  "lidodaobsc": {
+    "description": "Lido DAO is a decentralized autonomous organization that enables users to stake Ether and receive daily rewards while keeping full control of their staked tokens. It works by allowing users to deposit Ether into a smart contract, which is then locked into the Ethereum proof-of-stake deposit contract, and staked Ether will be withdrawable only when transfers and smart contracts are implemented on Ethereum 2.0.",
+    "total_supply": 3758.243733,
+    "circulating_supply": 0,
+    "websites": [
+      "https://stake.lido.fi",
+      "https://blog.lido.fi",
+      "https://lido.fi"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x986854779804799C1d68867F5E03e601E781e41b"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/vgdPfhZ",
+    "telegram": "https://t.me/lidofinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/lidofinance",
+    "reddit": "https://www.reddit.com/r/LidoFinance",
+    "repository": "https://github.com/lidofinance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "lido-dao",
+    "coingeckoID": "lido-dao",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+    ]
+  },
+  "lidodaoarb": {
+    "description": "Lido DAO is a decentralized autonomous organization that enables users to stake Ether and receive daily rewards while keeping full control of their staked tokens. It works by allowing users to deposit Ether into a smart contract, which is then locked into the Ethereum proof-of-stake deposit contract, and staked Ether will be withdrawable only when transfers and smart contracts are implemented on Ethereum 2.0.",
+    "total_supply": 1419509.383664294423036823,
+    "circulating_supply": 918074863.00,
+    "websites": [
+      "https://stake.lido.fi",
+      "https://blog.lido.fi",
+      "https://lido.fi"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/vgdPfhZ",
+    "telegram": "https://t.me/lidofinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/lidofinance",
+    "reddit": "https://www.reddit.com/r/LidoFinance",
+    "repository": "https://github.com/lidofinance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "lido-dao",
+    "coingeckoID": "lido-dao",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+    ]
+  },
+  "lidodaosol": {
+    "description": "Lido DAO is a decentralized autonomous organization that enables users to stake Ether and receive daily rewards while keeping full control of their staked tokens. It works by allowing users to deposit Ether into a smart contract, which is then locked into the Ethereum proof-of-stake deposit contract, and staked Ether will be withdrawable only when transfers and smart contracts are implemented on Ethereum 2.0.",
+    "total_supply": 1419509.383664294423036823,
+    "circulating_supply": 918074863.00,
+    "websites": [
+      "https://stake.lido.fi",
+      "https://blog.lido.fi",
+      "https://lido.fi"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/vgdPfhZ",
+    "telegram": "https://t.me/lidofinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/lidofinance",
+    "reddit": "https://www.reddit.com/r/LidoFinance",
+    "repository": "https://github.com/lidofinance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "lido-dao",
+    "coingeckoID": "lido-dao",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+    ]
+  },
+  "dexe": {
+    "description": "DeXe (Decentralized Social Trading Platform) is an online, decentralized and autonomous cryptocurrency assets portfolio environment. It offers yield farming platform which uses DEXE as staking token.",
+    "total_supply": 96504599.336094511795478536,
+    "circulating_supply": 995019987.00,
+    "websites": [
+      "https://dexe.network"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/dexe_network_official_chat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/DexeNetwork",
+    "reddit": "",
+    "repository": "https://github.com/dexe-network/DeXe-Protocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "dexe",
+    "coingeckoID": "dexe",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://whitepaper.dexe.network"
+    ]
+  },
+  "dexebsc": {
+    "description": "DeXe (Decentralized Social Trading Platform) is an online, decentralized and autonomous cryptocurrency assets portfolio environment. It offers yield farming platform which uses DEXE as staking token.",
+    "total_supply": 23288481.598106,
+    "circulating_supply": 995693111.00,
+    "websites": [
+      "https://dexe.network"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x6E88056E8376Ae7709496Ba64d37fa2f8015ce3e"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/dexe_network_official_chat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/DexeNetwork",
+    "reddit": "",
+    "repository": "https://github.com/dexe-network/DeXe-Protocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "dexe",
+    "coingeckoID": "dexe",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://whitepaper.dexe.network"
+    ]
+  },
+  "move": {
+    "description": "Movement Network is an ecosystem of Modular Move-Based Blockchains that enables developers to build secure, performant, and interoperable blockchain applications, bridging the gap between Move and EVM ecosystems. Movement Network is the first Move-EVM L2 for Ethereum, alongside open-source tooling and protocols to facilitate the adoption of the Move programming language across blockchain ecosystems.",
+    "total_supply": 10000000000,
+    "circulating_supply": 2450000000,
+    "websites": [
+      "https://www.movementnetwork.xyz"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/movementlabsxyz",
+    "telegram": "https://t.me/movementlabsxyz",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/movementfdn",
+    "reddit": "",
+    "repository": "https://github.com/movementlabsxyz",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "movement",
+    "coingeckoID": "movement",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.movementnetwork.xyz"
+    ]
+  },
+  "pudgypenguinssol": {
+    "description": "Pudgy Penguins has become the face of crypto with one of the most influential communities in the industry. From large companies wearing the Penguin, to being featured in ETF commercials, to garnering millions of followers and over 100 billion views, the Pengu has become a cultural icon making PENGU the world’s social currency.",
+    "total_supply": 76724221264,
+    "circulating_supply": 62860396090,
+    "websites": [
+      "https://www.pudgypenguins.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/pudgypenguins",
+    "telegram": "https://t.me/pengutg",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pudgypenguins",
+    "reddit": "",
+    "repository": "",
+    "youtube": "https://www.youtube.com/@pudgypenguinsofficial",
+    "instagram": "https://instagram.com/pudgypenguins",
+    "tiktok": "https://www.tiktok.com/@kindpengu",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pudgy-penguins",
+    "coingeckoID": "pudgy-penguins",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "jupitersol": {
+    "description": "Jupiter is a decentralized exchange (DEX) aggregator that allows users to swap tokens at optimal prices with low slippage and transaction fees in the Solana ecosystem. It also provides users the optimal routes for direct swaps between multiple exchanges and liquidity pools.",
+    "total_supply": 6999978149,
+    "circulating_supply": 2690911111,
+    "websites": [
+      "https://jup.ag"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/jup",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/JupiterExchange",
+    "reddit": "",
+    "repository": "https://github.com/jup-ag",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "jupiter-ag",
+    "coingeckoID": "jupiter-exchange-solana",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "jasmy": {
+    "description": "JasmyCoin is the native token of the Jasmy platform, a Japan-based project that allows users to control the use of their personal data and get paid for sharing it. In a nutshell, data generated from IoT devices, like smartphones and tech wearables, is securely stored in data lockers on the Jasmy platform. Merchants pay to access these data lockers using JasmyCoin.",
+    "total_supply": 50000000000,
+    "circulating_supply": 48419999999,
+    "websites": [
+      "https://www.jasmy.co.jp"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/jasmyofficial",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/JasmyMGT",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "jasmy",
+    "coingeckoID": "jasmycoin",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "ai16zsol": {
+    "description": "ai16z is the first venture capital DAO led by AI agents. The project is led by an AI agent @pmairca and aims to leverage AI and collective intelligence to make investment decisions. Their goal is to redefine venture capitalism in the age of artificial intelligence.",
+    "total_supply": 1099998755,
+    "circulating_supply": 1099998755,
+    "websites": [
+      "https://elizaos.ai",
+      "https://www.daos.fun/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pmairca",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ai16z",
+    "coingeckoID": "ai16z",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "spx6900": {
+    "description": "SPX tokens can be traded on centralized crypto exchanges. The most popular exchange to buy and trade SPX6900 is Bybit, where the most active trading pair SPX/USDT has a trading volume of $6,951,725 in the last 24 hours. Other popular options include Kraken and KuCoin.",
+    "total_supply": 930993086,
+    "circulating_supply": 930993086,
+    "websites": [
+      "https://www.spx6900.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/SPX6900Portal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/SPX6900aeons",
+    "reddit": "https://reddit.com/r/spx6900",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "spx6900",
+    "coingeckoID": "spx6900",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.spx6900.com"
+    ]
+  },
+  "spx6900base": {
+    "description": "SPX tokens can be traded on centralized crypto exchanges. The most popular exchange to buy and trade SPX6900 is Bybit, where the most active trading pair SPX/USDT has a trading volume of $6,951,725 in the last 24 hours. Other popular options include Kraken and KuCoin.",
+    "total_supply": 38969524.72519981,
+    "circulating_supply": 558147413.00,
+    "websites": [
+      "https://www.spx6900.com"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/SPX6900Portal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/SPX6900aeons",
+    "reddit": "https://reddit.com/r/spx6900",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "spx6900",
+    "coingeckoID": "spx6900",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.spx6900.com"
+    ]
+  },
+  "spx6900sol": {
+    "description": "ai16z is the first venture capital DAO led by AI agents. The project is led by an AI agent @pmairca and aims to leverage AI and collective intelligence to make investment decisions. Their goal is to redefine venture capitalism in the age of artificial intelligence.",
+    "total_supply": 1099998755,
+    "circulating_supply": 1099998755,
+    "websites": [
+      "https://www.spx6900.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/SPX6900Portal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/SPX6900aeons",
+    "reddit": "https://reddit.com/r/spx6900",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "spx6900",
+    "coingeckoID": "spx6900",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "gala": {
+    "description": "Gala is a blockchain gaming ecosystem. Gamers can explore different type of games and have their experiences interact across each other on the Gala platform. The GALA token is the utility token and primary medium of exchange of the ecosystem. Game items are represented as NFTs on the Ethereum blockchain and users can trade them on all marketplaces.",
+    "total_supply": 39952930358.1341895,
+    "circulating_supply": 800539837.00,
+    "websites": [
+      "https://gala.com",
+      "https://news.gala.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xd1d2eb1b1e90b638588728b4130137d262c87cae"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/PoweredByGala",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/GoGalaGames",
+    "reddit": "https://reddit.com/r/GoGalaGames",
+    "repository": "https://github.com/GalaChain",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "gala",
+    "coingeckoID": "gala",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "starknet": {
+    "description": "StarkNet is a permissionless decentralized Layer 2 (L2) validity rollup, built to allow Ethereum to scale via cryptographic protocols called STARKs, without compromising Ethereum’s core principles of decentralization, transparency, inclusivity and security. The StarkNet Token is needed to operate the ecosystem, maintain and secure it, decide on its values and strategic goals, and direct its evolution. This token will be required for (i) governance, (ii) payment of transaction fees on StarkNet, and (iii) participation in StarkNet’s consensus mechanism.",
+    "total_supply": 10000000000,
+    "circulating_supply": 2743505868,
+    "websites": [
+      "https://starknet.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xca14007eff0db1f8135f4c25b34de49ab0d42766"
+    ],
+    "medium": "https://starkware.medium.com",
+    "discord": "http://starknet.io/discord",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/Starknet",
+    "reddit": "",
+    "repository": "https://github.com/starkware-libs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "starknet-token",
+    "coingeckoID": "starknet",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "aioznetwork": {
+    "description": "AIOZ Network is a decentralized platform (DePIN) for Web3 AI, storage, and streaming, enabling a faster, secure, and decentralized future. It is powered by a global network of DePINs, which rewards users for sharing their computational resources to store, transcode, and stream digital media content, as well as power decentralized AI computation.",
+    "total_supply": 1165543924,
+    "circulating_supply": 1165143280,
+    "websites": [
+      "https://aioz.network",
+      "https://blog.aioz.network"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x626e8036deb333b408be468f951bdb42433cbf18"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/aioznetwork",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/aioznetwork",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aioz-network",
+    "coingeckoID": "aioz-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "aioznetworkbsc": {
+    "description": "AIOZ Network is a decentralized platform (DePIN) for Web3 AI, storage, and streaming, enabling a faster, secure, and decentralized future. It is powered by a global network of DePINs, which rewards users for sharing their computational resources to store, transcode, and stream digital media content, as well as power decentralized AI computation.",
+    "total_supply": 110533334,
+    "circulating_supply": 327500572.00,
+    "websites": [
+      "https://aioz.network",
+      "https://blog.aioz.network"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x33d08d8c7a168333a85285a68c0042b39fc3741d"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/aioznetwork",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/aioznetwork",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aioz-network",
+    "coingeckoID": "aioz-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "jitosol": {
+    "description": "Jito is a liquid staking and maximum extractable value (MEV) protocol for the Solana network. The protocol enables Solana users to easily participate in staking and helps decentralize the Solana network by spreading stake across the network. Users can stake SOL (the native token on the Solana network) on Jito in exchange for JitoSOL. JitoSOL rewards holders with staking rewards and transaction revenue collected via MEV extraction on Solana. JTO is the governance token of the Jito protocol putting the decision making and future of the network in the hands of the community.",
+    "total_supply": 1000000000,
+    "circulating_supply": 309305342,
+    "websites": [
+      "https://www.jito.network",
+      "https://www.jito.network/blog/announcing-jto-the-jito-governance-token"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/jitocommunity",
+    "telegram": "https://t.me/+csIgnEQMCHhiYjVh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/jito_sol",
+    "reddit": "",
+    "repository": "",
+    "youtube": "https://www.youtube.com/@MidcurveMedia",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "jito",
+    "coingeckoID": "jito-governance-token",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "aerodromefinancebase": {
+    "description": "Aerodrome Finance operates as a decentralized exchange (DEX) on the Base blockchain, facilitating liquidity via automated market-making and token swaps. It has a powerful liquidity incentive engine, a vote-lock governance model, and a user-friendly interface. Aerodrome NFT holders govern the token distribution and are rewarded with fees generated by the protocol.",
+    "total_supply": 1560788060,
+    "circulating_supply": 809381118,
+    "websites": [
+      "https://aerodrome.finance"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x940181a94a35a4569e4529a3cdfb74e38fd98631"
+    ],
+    "medium": "https://medium.com/@aerodromefi",
+    "discord": "https://discord.gg/aerodrome",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/aerodromefi",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aerodrome-finance",
+    "coingeckoID": "aerodrome-finance",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://aerodrome.finance/docs"
+    ]
+  },
+  "morpho": {
+    "description": "Morpho is an open, efficient, and resilient platform that allows anyone to earn yield and borrow assets. Lenders can earn on Morpho using Morpho Vaults, non-custodial, simple-to-use lending vaults that optimize yields for depositors. Borrowers can borrow any assets directly from Morpho Markets.",
+    "total_supply": 1000000000,
+    "circulating_supply": 236296435,
+    "websites": [
+      "https://morpho.org",
+      "https://app.morpho.org"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+    ],
+    "medium": "https://medium.com/morpho-labs",
+    "discord": "https://discord.com/invite/BWXbJMHMdz",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MorphoLabs",
+    "reddit": "",
+    "repository": "https://github.com/morpho-org",
+    "youtube": "https://www.youtube.com/@Morpho-Labs",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "morpho",
+    "coingeckoID": "morpho",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/morpho-org/morpho-blue/blob/main/morpho-blue-whitepaper.pdf"
+    ]
+  },
+  "morphobase": {
+    "description": "Morpho is an open, efficient, and resilient platform that allows anyone to earn yield and borrow assets. Lenders can earn on Morpho using Morpho Vaults, non-custodial, simple-to-use lending vaults that optimize yields for depositors. Borrowers can borrow any assets directly from Morpho Markets.",
+    "total_supply": 21377044.48045814122336201,
+    "circulating_supply": 346778202.00,
+    "websites": [
+      "https://morpho.org",
+      "https://app.morpho.org"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842"
+    ],
+    "medium": "https://medium.com/morpho-labs",
+    "discord": "https://discord.com/invite/BWXbJMHMdz",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MorphoLabs",
+    "reddit": "",
+    "repository": "https://github.com/morpho-org",
+    "youtube": "https://www.youtube.com/@Morpho-Labs",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "morpho",
+    "coingeckoID": "morpho",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/morpho-org/morpho-blue/blob/main/morpho-blue-whitepaper.pdf"
+    ]
+  },
+  "gigachadsol": {
+    "description": "GIGA is a meme token deployed on the Solana blockchain intended to honor the legend Ernest Khalimov the original “Gigachad”, by utilizing the strength of memes and “Chad” energy.",
+    "total_supply": 9604136902,
+    "circulating_supply": 9604136902,
+    "websites": [
+      "https://www.gigachad.fitness"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/GIGACHAD_meme",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "gigachad-meme",
+    "coingeckoID": "gigachad-2",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "mogcoin": {
+    "description": "MOG is unique due to its dedication to memes and viral content. The community is driven by a passion for humor and a desire to push boundaries. It is a supportive and unified group, with members working together to create and share viral memes. This collective effort aims to establish MOG as a leading force in the memecoin movement, driven by a sense of camaraderie and a shared goal of creating something new and exciting.",
+    "total_supply": 390567524379062,
+    "circulating_supply": 390567524379062,
+    "websites": [
+      "https://www.mogcoin.xyz"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xaaee1a9723aadb7afa2810263653a34ba2c21c7a"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/mogcoinYUP",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MogCoin",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "mog-coin",
+    "coingeckoID": "mog-coin",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.mogcoin.xyz"
+    ]
+  },
+  "mogcoinbase": {
+    "description": "MOG is unique due to its dedication to memes and viral content. The community is driven by a passion for humor and a desire to push boundaries. It is a supportive and unified group, with members working together to create and share viral memes. This collective effort aims to establish MOG as a leading force in the memecoin movement, driven by a sense of camaraderie and a shared goal of creating something new and exciting.",
+    "total_supply": 50196167969862.032253355508862631,
+    "circulating_supply": 217051743.00,
+    "websites": [
+      "https://www.mogcoin.xyz"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x2da56acb9ea78330f947bd57c54119debda7af71"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/mogcoinYUP",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MogCoin",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "mog-coin",
+    "coingeckoID": "mog-coin",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.mogcoin.xyz"
+    ]
+  },
+  "aixbtsol": {
+    "description": "AIXBT is an AI-driven crypto market intelligence platform designed to provide token holders with a strategic edge in the rapidly evolving crypto space. Leveraging advanced narrative detection and alpha-focused analysis, AIXBT automates the process of tracking and interpreting market trends, helping users gain actionable insights. This project emphasizes integrating various data sources and platforms for comprehensive analysis and decision-making.",
+    "total_supply": 3058349.93,
+    "circulating_supply": 28642940.18,
+    "websites": [
+      "https://app.virtuals.io/virtuals/1199"
+    ],
+    "explorers": [
+      "https://solscan.io/token/14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/aixbtportal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/aixbt_agent",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aixbt",
+    "coingeckoID": "aixbt",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "aixbtbase": {
+    "description": "AIXBT is an AI-driven crypto market intelligence platform designed to provide token holders with a strategic edge in the rapidly evolving crypto space. Leveraging advanced narrative detection and alpha-focused analysis, AIXBT automates the process of tracking and interpreting market trends, helping users gain actionable insights. This project emphasizes integrating various data sources and platforms for comprehensive analysis and decision-making.",
+    "total_supply": 998914867.384139147138361299,
+    "circulating_supply": 91056565.00,
+    "websites": [
+      "https://app.virtuals.io/virtuals/1199"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/aixbtportal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/aixbt_agent",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aixbt",
+    "coingeckoID": "aixbt",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "xaut": {
+    "description": "Tether Gold is a digital token backed by physical gold. It can be used for easy transportation, divisibility, 24/7 trading, and easy redeemability. What's unique about the project is that it provides ownership of real physical gold with the benefits of a crypto asset, making it a neutral monetary unit with direct gold exposure and no custodian fees.",
+    "total_supply": 246524.33,
+    "circulating_supply": 764684580.00,
+    "websites": [
+      "https://gold.tether.to"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x68749665ff8d2d112fa859aa293f07a622782f38"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/1006796576013301",
+    "twitter": "https://twitter.com/tethergold",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "https://www.linkedin.com/company/tether",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "tether-gold",
+    "coingeckoID": "tether-gold",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "eigenlayer": {
+    "description": "The EIGEN token is a universal intersubjective work token designed for EigenLayer, enabling security for various digital tasks that are not just objectively verifiable but also intersubjectively attributable. Unlike traditional work tokens that are tied to one specific digital task or objective faults (verifiable on-chain), EIGEN addresses a broader category of faults where multiple external observers agree on whether the task was performed correctly. This expands the range of tasks that can be securely managed on a blockchain.",
+    "total_supply": 1716131545.248809061538461573,
+    "circulating_supply": 230032929.00,
+    "websites": [
+      "https://eigenfoundation.org",
+      "https://www.eigenlayer.xyz"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xec53bf9167f50cdeb3ae105f56099aaab9061f83"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/eigenlayer",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/eigenfoundation",
+    "reddit": "",
+    "repository": "",
+    "youtube": "https://www.youtube.com/@EigenLayer",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "https://www.linkedin.com/company/eigenfoundation",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "eigenlayer",
+    "coingeckoID": "eigenlayer",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.eigenlayer.xyz/eigenlayer/overview/whitepaper"
+    ]
+  },
+  "pendle": {
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization.",
+    "total_supply": 281527448.458531430459890761,
+    "circulating_supply": 407970113.00,
+    "websites": [
+      "https://pendle.finance",
+      "https://medium.com/pendle"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/EAujvncY2R",
+    "telegram": "https://t.me/pendlefinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "reddit": "",
+    "repository": "https://github.com/pendle-finance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pendle",
+    "coingeckoID": "pendle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/pendle-finance/pendle-v2-resources/tree/main/whitepapers"
+    ]
+  },
+  "pendleop": {
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization.",
+    "total_supply": 506162.66262433491643126,
+    "circulating_supply": 407411950.00,
+    "websites": [
+      "https://pendle.finance",
+      "https://medium.com/pendle"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/EAujvncY2R",
+    "telegram": "https://t.me/pendlefinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "reddit": "",
+    "repository": "https://github.com/pendle-finance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pendle",
+    "coingeckoID": "pendle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/pendle-finance/pendle-v2-resources/tree/main/whitepapers"
+    ]
+  },
+  "pendlebsc": {
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization.",
+    "total_supply": 3275285.192406,
+    "circulating_supply": 406360183.00,
+    "websites": [
+      "https://pendle.finance",
+      "https://medium.com/pendle"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0xb3ed0a426155b79b898849803e3b36552f7ed507"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/EAujvncY2R",
+    "telegram": "https://t.me/pendlefinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "reddit": "",
+    "repository": "https://github.com/pendle-finance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pendle",
+    "coingeckoID": "pendle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/pendle-finance/pendle-v2-resources/tree/main/whitepapers"
+    ]
+  },
+  "pendlearb": {
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization.",
+    "total_supply": 29725324.055829255115448795,
+    "circulating_supply": 406649036.00,
+    "websites": [
+      "https://pendle.finance",
+      "https://medium.com/pendle"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/EAujvncY2R",
+    "telegram": "https://t.me/pendlefinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "reddit": "",
+    "repository": "https://github.com/pendle-finance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pendle",
+    "coingeckoID": "pendle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/pendle-finance/pendle-v2-resources/tree/main/whitepapers"
+    ]
+  },
+  "pendlebase": {
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization.",
+    "total_supply": 763737.315381215038386504,
+    "circulating_supply": 406649036.00,
+    "websites": [
+      "https://pendle.finance",
+      "https://medium.com/pendle"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/EAujvncY2R",
+    "telegram": "https://t.me/pendlefinance",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pendle_fi",
+    "reddit": "",
+    "repository": "https://github.com/pendle-finance",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "pendle",
+    "coingeckoID": "pendle",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://github.com/pendle-finance/pendle-v2-resources/tree/main/whitepapers"
+    ]
+  },
+  "superverse": {
+    "description": "The SuperVerse is building and delivering Web3 products that empower crypto natives with next-generation NFT functionality, and onboard Web2 users through immersive blockchain gaming experiences. The SuperVerse comprises two core verticals: NFT marketplace technology and video games. This wide array of Web3 tools and features is supported and governed by a single protocol and token: $SUPER ERC20 (formerly known as SuperFarm). The SuperVerse harbors two central products: GigaMart, a next-gen NFT marketplace with advanced analytics tools and unique social features, and Impostors, a social-gaming metaverse.",
+    "total_supply": 999998077.416917273445203134,
+    "circulating_supply": 235332207.00,
+    "websites": [
+      "https://superverse.co"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
+    ],
+    "medium": "https://medium.com/superfarm",
+    "discord": "",
+    "telegram": "https://t.me/SuperVerseDAO",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/SuperVerse",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "superverse",
+    "coingeckoID": "superfarm",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "superversepoly": {
+    "description": "The SuperVerse is building and delivering Web3 products that empower crypto natives with next-generation NFT functionality, and onboard Web2 users through immersive blockchain gaming experiences. The SuperVerse comprises two core verticals: NFT marketplace technology and video games. This wide array of Web3 tools and features is supported and governed by a single protocol and token: $SUPER ERC20 (formerly known as SuperFarm). The SuperVerse harbors two central products: GigaMart, a next-gen NFT marketplace with advanced analytics tools and unique social features, and Impostors, a social-gaming metaverse.",
+    "total_supply": 959555.204632466468872959,
+    "circulating_supply": 0,
+    "websites": [
+      "https://superverse.co"
+    ],
+    "explorers": [
+      "https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737"
+    ],
+    "medium": "https://medium.com/superfarm",
+    "discord": "",
+    "telegram": "https://t.me/SuperVerseDAO",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/SuperVerse",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "superverse",
+    "coingeckoID": "superfarm",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "paypalusd": {
+    "description": "PayPal USD is designed to contribute to the opportunity stablecoins offer for payments and is 100% backed by U.S. dollar deposits, short-term U.S. Treasuries, and similar cash equivalents. PayPal USD is redeemable 1:1 for U.S. dollars and is issued by Paxos Trust Company.",
+    "total_supply": 672328820.905344,
+    "circulating_supply": 802787733.00,
+    "websites": [
+      "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/PayPal",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "paypal-usd",
+    "coingeckoID": "paypal-usd",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "grasssol": {
+    "description": "Grass is a decentralized network sharing application that allows users to sell their unused bandwidth. It works by allowing verified institutions to reward users directly for supplying the bandwidth they need to enhance their online services.",
+    "total_supply": 1759991737.93,
+    "circulating_supply": 999995305.64,
+    "websites": [
+      "https://www.getgrass.io"
+    ],
+    "explorers": [
+      "https://solscan.io/token/Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/getgrass",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/getgrass_io",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "grass",
+    "coingeckoID": "grass",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://wynd-network.gitbook.io/grass-docs"
+    ]
+  },
+  "popcatsol": {
+    "description": "Popcat, an Internet meme from October 2020, features two images of a cat named 'Oatmeal' with one image showing a closed mouth and the other edited to form an 'O' shape with its mouth. The POPCAT token is a meme coin with no inherent value or financial expectations, and it is intended solely for entertainment.",
+    "total_supply": 185722180.04,
+    "circulating_supply": 979940166.12,
+    "websites": [
+      "https://popcatsolana.xyz"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "https://solscan.io/token/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/popcatsolana",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/Popcatsolana",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "popcat-sol",
+    "coingeckoID": "popcat",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wrose": {
+    "description": "Oasis is the leading privacy-enabled and scalable layer-1 blockchain network. It combines high throughput and low gas fees with secure architecture to provide a next-generation foundation for Web3 and will power DeFi, GameFi, NFTs, Metaverse, Data tokenization and Data DAOs.",
+    "total_supply": 800767.55969055,
+    "circulating_supply": 205181311.65,
+    "websites": [
+      "https://oasisprotocol.org"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x26B80FBfC01b71495f477d5237071242e0d959d7"
+    ],
+    "medium": "",
+    "discord": "https://oasis.io/discord",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/oasisprotocol",
+    "twitter": "https://twitter.com/OasisProtocol",
+    "reddit": "https://reddit.com/r/oasisnetwork",
+    "repository": "https://github.com/oasisprotocol/oasis-core",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "oasis-network",
+    "coingeckoID": "oasis-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.oasis.io"
+    ]
+  },
+  "wrosebsc": {
+    "description": "Oasis is the leading privacy-enabled and scalable layer-1 blockchain network. It combines high throughput and low gas fees with secure architecture to provide a next-generation foundation for Web3 and will power DeFi, GameFi, NFTs, Metaverse, Data tokenization and Data DAOs.",
+    "total_supply": 7380005.837589,
+    "circulating_supply": 0,
+    "websites": [
+      "https://oasisprotocol.org"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a"
+    ],
+    "medium": "",
+    "discord": "https://oasis.io/discord",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/oasisprotocol",
+    "twitter": "https://twitter.com/OasisProtocol",
+    "reddit": "https://reddit.com/r/oasisnetwork",
+    "repository": "https://github.com/oasisprotocol/oasis-core",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "oasis-network",
+    "coingeckoID": "oasis-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.oasis.io"
+    ]
+  },
+  "wrosesol": {
+    "description": "Oasis is the leading privacy-enabled and scalable layer-1 blockchain network. It combines high throughput and low gas fees with secure architecture to provide a next-generation foundation for Web3 and will power DeFi, GameFi, NFTs, Metaverse, Data tokenization and Data DAOs.",
+    "total_supply": 0,
+    "circulating_supply": 1190.64,
+    "websites": [
+      "https://oasisprotocol.org"
+    ],
+    "explorers": [
+      "https://solscan.io/token/S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo"
+    ],
+    "medium": "",
+    "discord": "https://oasis.io/discord",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/oasisprotocol",
+    "twitter": "https://twitter.com/OasisProtocol",
+    "reddit": "https://reddit.com/r/oasisnetwork",
+    "repository": "https://github.com/oasisprotocol/oasis-core",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "oasis-network",
+    "coingeckoID": "oasis-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.oasis.io"
+    ]
+  },
+  "wroseavac": {
+    "description": "Oasis is the leading privacy-enabled and scalable layer-1 blockchain network. It combines high throughput and low gas fees with secure architecture to provide a next-generation foundation for Web3 and will power DeFi, GameFi, NFTs, Metaverse, Data tokenization and Data DAOs.",
+    "total_supply": 1335.67,
+    "circulating_supply": 0,
+    "websites": [
+      "https://oasisprotocol.org"
+    ],
+    "explorers": [
+      "https://snowtrace.io/token/0x12AF5C1a232675f62F405b5812A80e7a6F75D746"
+    ],
+    "medium": "",
+    "discord": "https://oasis.io/discord",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "bitcointalk": "",
+    "facebook": "https://www.facebook.com/oasisprotocol",
+    "twitter": "https://twitter.com/OasisProtocol",
+    "reddit": "https://reddit.com/r/oasisnetwork",
+    "repository": "https://github.com/oasisprotocol/oasis-core",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "oasis-network",
+    "coingeckoID": "oasis-network",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.oasis.io"
+    ]
+  },
+  "layerzero": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 946753970.476661,
+    "circulating_supply": 309925450.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x6985884C4392D348587B19cb9eAAf157F13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzerobsc": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 4499717.387249,
+    "circulating_supply": 310835356.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzeropoly": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 1056277.216437,
+    "circulating_supply": 309925450.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://polygonscan.com/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzeroavac": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 1048091.53,
+    "circulating_supply": 0,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://snowtrace.io/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzeroop": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 5077596.324908,
+    "circulating_supply": 310887442.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://optimistic.etherscan.io/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzeroarb": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 35213418.099129,
+    "circulating_supply": 312989230.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "layerzerobase": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 6351786.901817,
+    "circulating_supply": 312442216.00,
+    "websites": [
+      "https://layerzero.foundation"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x6985884c4392d348587b19cb9eaaf157f13271cd"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/ktbvm8Nkcr",
+    "telegram": "https://t.me/joinchat/VcqxYkStIDsyN2Rh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/LayerZero_Fndn",
+    "reddit": "",
+    "repository": "https://github.com/LayerZero-Labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "layerzero",
+    "coingeckoID": "layerzero",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "mewsol": {
+    "description": "LayerZero is an interoperability protocol that connects blockchains for developers to build omnichain applications, tokens, and experiences. The protocol relies on immutable on-chain endpoints, a configurable Security Stack, and a permissionless set of Executors to transfer censorship-resistant messages between chains.",
+    "total_supply": 88886133494.62,
+    "circulating_supply": 88886133494.62,
+    "websites": [
+      "https://mew.xyz"
+    ],
+    "explorers": [
+      "https://solscan.io/token/MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/MewsWorld",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/mew",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "mew",
+    "coingeckoID": "cat-in-a-dogs-world",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf"
+    ]
+  },
+  "blur": {
+    "description": "$BLUR is the governance token for the Blur NFT marketplace. The token will allow Blur to decentralize its NFT marketplace by putting controls into the hands of the community. This is in contrast to its competitor, Opensea which operates as a company with private investors and does not have a token.",
+    "total_supply": 3000000000,
+    "circulating_supply": 241222126.00,
+    "websites": [
+      "https://blur.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x5283d291dbcf85356a21ba090e6db59121208b44"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://discord.com/invite/blurdao",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/blur_io",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "blur-token",
+    "coingeckoID": "blur",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "echelonprime": {
+    "description": "PRIME is the native token of the Echelon Prime Foundation, a Web3 ecosystem advancing the next generation of gaming. Echelon creates and distributes tools to encourage innovation in, and promote the growth of, novel gaming models and economies. The first game to adopt and utilize PRIME is Parallel, a sci-fi trading card game.",
+    "total_supply": 111111111.110999999999998888,
+    "circulating_supply": 188386347.00,
+    "websites": [
+      "https://echelon.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xb23d80f5FefcDDaa212212F028021B41DEd428CF"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/N4nQg8SYM8",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/EchelonFND",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "echelon-prime",
+    "coingeckoID": "echelon-prime",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "echelonprimebase": {
+    "description": "PRIME is the native token of the Echelon Prime Foundation, a Web3 ecosystem advancing the next generation of gaming. Echelon creates and distributes tools to encourage innovation in, and promote the growth of, novel gaming models and economies. The first game to adopt and utilize PRIME is Parallel, a sci-fi trading card game.",
+    "total_supply": 1420138.101246304498933724,
+    "circulating_supply": 188386347.00,
+    "websites": [
+      "https://echelon.io"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/N4nQg8SYM8",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/EchelonFND",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "echelon-prime",
+    "coingeckoID": "echelon-prime",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "creditcoin": {
+    "description": "Creditcoin is a foundational L1 blockchain designed to match and record credit transactions, and by extension, the credit history of transacting partners. By design, Creditcoin is intended to facilitate an inter-blockchain lending market with loan cycle history recorded on Creditcoin, but with loan payments and repayments occurring on other blockchains; with Bitcoin and Ethereum being the currently supported networks, and support for other blockchains in the pipeline.",
+    "total_supply": 549564264.291934899999999961,
+    "circulating_supply": 280504184.28,
+    "websites": [
+      "https://creditcoin.org"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xa3ee21c306a700e682abcdfe9baa6a08f3820419"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/creditcoin",
+    "telegram": "https://t.me/creditcoinctc",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/creditcoin",
+    "reddit": "https://reddit.com/r/creditcoin",
+    "repository": "https://github.com/gluwa/creditcoin",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "creditcoin",
+    "coingeckoID": "creditcoin-2",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.creditcoin.org/white-paper"
+    ]
+  },
+  "etherfi": {
+    "description": "Ether.fi is a decentralized staking protocol that enables Ethereum stakers to maximize their potential rewards, similar to liquid staking protocols like Lido. It allows users to deposit ETH or liquidity tokens for staking and receive an equivalent asset, eETH, which can be used in DeFi for yield opportunities. Stakers control their assets and can earn more rewards as their staking rewards are automatically compounded over time.",
+    "total_supply": 1000000000,
+    "circulating_supply": 134692095.00,
+    "websites": [
+      "https://www.ether.fi"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/zqGzcuQWvD",
+    "telegram": "https://t.me/+C3fpSjmPqzA5NTVh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/ether_fi",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ether-fi-ethfi",
+    "coingeckoID": "ether-fi",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper"
+    ]
+  },
+  "etherfiarb": {
+    "description": "Ether.fi is a decentralized staking protocol that enables Ethereum stakers to maximize their potential rewards, similar to liquid staking protocols like Lido. It allows users to deposit ETH or liquidity tokens for staking and receive an equivalent asset, eETH, which can be used in DeFi for yield opportunities. Stakers control their assets and can earn more rewards as their staking rewards are automatically compounded over time.",
+    "total_supply": 9022271.13705374,
+    "circulating_supply": 134377378.00,
+    "websites": [
+      "https://www.ether.fi"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/zqGzcuQWvD",
+    "telegram": "https://t.me/+C3fpSjmPqzA5NTVh",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/ether_fi",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "ether-fi-ethfi",
+    "coingeckoID": "ether-fi",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper"
+    ]
+  },
+  "aethir": {
+    "description": "Aethir is the only Enterprise-grade AI-focused GPU-as-a-service provider in the market. Its decentralized cloud computing infrastructure allows GPU providers (containers) to meet Enterprise clients who need powerful H100 chips for professional AI/ML tasks.",
+    "total_supply": 42000000000,
+    "circulating_supply": 241386814.00,
+    "websites": [
+      "https://www.aethir.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/aethircloud",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/AethirCloud",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aethir",
+    "coingeckoID": "aethir",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://aethir.gitbook.io/aethir/ljvx8d8ee4ElPliP31K1"
+    ]
+  },
+  "aethirarb": {
+    "description": "Aethir is the only Enterprise-grade AI-focused GPU-as-a-service provider in the market. Its decentralized cloud computing infrastructure allows GPU providers (containers) to meet Enterprise clients who need powerful H100 chips for professional AI/ML tasks.",
+    "total_supply": 1557562469.725412613436834543,
+    "circulating_supply": 240987403.00,
+    "websites": [
+      "https://www.aethir.com"
+    ],
+    "explorers": [
+      "https://arbiscan.io/token/0xc87b37a581ec3257b734886d9d3a581f5a9d056c"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/aethircloud",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/AethirCloud",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aethir",
+    "coingeckoID": "aethir",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://aethir.gitbook.io/aethir/ljvx8d8ee4ElPliP31K1"
+    ]
+  },
+  "aethirsol": {
+    "description": "Aethir is the only Enterprise-grade AI-focused GPU-as-a-service provider in the market. Its decentralized cloud computing infrastructure allows GPU providers (containers) to meet Enterprise clients who need powerful H100 chips for professional AI/ML tasks.",
+    "total_supply": 42000000000,
+    "circulating_supply": 30850549.91,
+    "websites": [
+      "https://www.aethir.com"
+    ],
+    "explorers": [
+      "https://solscan.io/token/Dm5BxyMetG3Aq5PaG1BrG7rBYqEMtnkjvPNMExfacVk7"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/aethircloud",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/AethirCloud",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "aethir",
+    "coingeckoID": "aethir",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://aethir.gitbook.io/aethir/ljvx8d8ee4ElPliP31K1"
+    ]
+  },
+  "peanutsol": {
+    "description": "PNUT tokens can be traded on centralized crypto exchanges. The most popular exchange to buy and trade Peanut the Squirrel is Binance, where the most active trading pair PNUT/USDT has a trading volume of $39,951,239 in the last 24 hours. Other popular options include OKX and Gate.io.",
+    "total_supply": 999853003.67,
+    "circulating_supply": 999853003.67,
+    "websites": [
+      "https://www.pnutsol.com"
+    ],
+    "explorers": [
+      "https://solscan.io/token/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/pnutportal",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/pnutsolana",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "peanut-the-squirrel",
+    "coingeckoID": "peanut-the-squirrel",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "convexfinance": {
+    "description": "Convex is a protocol that simplifies the Curve boosting experience to maximize yields. It allows Curve liquidity providers to earn trading fees and claim boosted CRV without locking CRV themselves, enabling them to receive boosted CRV and liquidity mining rewards with minimal effort.",
+    "total_supply": 99862026.168600667734472899,
+    "circulating_supply": 204332058.14,
+    "websites": [
+      "https://www.pnutsol.com"
+    ],
+    "explorers": [
+      "http://etherscan.io/token/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/WHwgFwRG6h",
+    "telegram": "https://t.me/convexEthChat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/convexfinance",
+    "reddit": "",
+    "repository": "https://github.com/convex-eth/platform",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "convex-finance",
+    "coingeckoID": "convex-finance",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "onyxcoin": {
+    "description": "Onyx Protocol, a decentralized platform that facilitates an all-in-1 peer-to-peer lending protocol! The Onyx Protocol represents a significant step towards supporting abroader segment of the digital assets, such as Ether (ETH), ERC-20 tokens, ERC-721 tokens, and ERC-1155 tokens. These can be supplied or borrowed through an aggregated and unified balance, supported by non-custodial custody via decentralized smart contracts.",
+    "total_supply": 68892071756.90896214749976,
+    "circulating_supply": 335809426.00,
+    "websites": [
+      "https://onyx.org"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/OnyxOrg",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/OnyxDAO",
+    "reddit": "",
+    "repository": "https://github.com/Onyx-Protocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "onyxcoin",
+    "coingeckoID": "chain-2",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://onyx.org/Whitepaper.pdf"
+    ]
+  },
+  "onyxcoinbsc": {
+    "description": "Onyx Protocol, a decentralized platform that facilitates an all-in-1 peer-to-peer lending protocol! The Onyx Protocol represents a significant step towards supporting abroader segment of the digital assets, such as Ether (ETH), ERC-20 tokens, ERC-721 tokens, and ERC-1155 tokens. These can be supplied or borrowed through an aggregated and unified balance, supported by non-custodial custody via decentralized smart contracts.",
+    "total_supply": 456912870.101831,
+    "circulating_supply": 334993952.00,
+    "websites": [
+      "https://onyx.org"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/OnyxOrg",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/OnyxDAO",
+    "reddit": "",
+    "repository": "https://github.com/Onyx-Protocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "onyxcoin",
+    "coingeckoID": "chain-2",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://onyx.org/Whitepaper.pdf"
+    ]
+  },
+  "onyxcoinbase": {
+    "description": "Onyx Protocol, a decentralized platform that facilitates an all-in-1 peer-to-peer lending protocol! The Onyx Protocol represents a significant step towards supporting abroader segment of the digital assets, such as Ether (ETH), ERC-20 tokens, ERC-721 tokens, and ERC-1155 tokens. These can be supplied or borrowed through an aggregated and unified balance, supported by non-custodial custody via decentralized smart contracts.",
+    "total_supply": 437431964.599507156853207785,
+    "circulating_supply": 334050738.00,
+    "websites": [
+      "https://onyx.org"
+    ],
+    "explorers": [
+      "https://basescan.org/token/0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/OnyxOrg",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/OnyxDAO",
+    "reddit": "",
+    "repository": "https://github.com/Onyx-Protocol",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "onyxcoin",
+    "coingeckoID": "chain-2",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://onyx.org/Whitepaper.pdf"
+    ]
+  },
+  "spaceid": {
+    "description": "SPACE ID is building a universal name service network with a one-stop identity platform to discover, register, trade, and manage web3 domains. It also includes a Web3 Name SDK and API for developers across blockchains and provides a multi-chain name service for everyone to easily build and create a web3 identity.",
+    "total_supply": 1795541310.048921513805725396,
+    "circulating_supply": 90732503.00,
+    "websites": [
+      "https://space.id"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x2dff88a56767223a5529ea5960da7a3f5f766406"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/spaceid",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/SpaceIDProtocol",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "space-id",
+    "coingeckoID": "space-id",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.space.id"
+    ]
+  },
+  "spaceidbsc": {
+    "description": "SPACE ID is building a universal name service network with a one-stop identity platform to discover, register, trade, and manage web3 domains. It also includes a Web3 Name SDK and API for developers across blockchains and provides a multi-chain name service for everyone to easily build and create a web3 identity.",
+    "total_supply": 199724622.125518,
+    "circulating_supply": 90645017.00,
+    "websites": [
+      "https://space.id"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0x2dff88a56767223a5529ea5960da7a3f5f766406"
+    ],
+    "medium": "",
+    "discord": "https://discord.com/invite/spaceid",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/SpaceIDProtocol",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "space-id",
+    "coingeckoID": "space-id",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.space.id"
+    ]
+  },
+  "safepal": {
+    "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth.",
+    "total_supply": 200000000,
+    "circulating_supply": 249742405.00,
+    "websites": [
+      "https://www.safepal.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x12e2b8033420270db2f3b328e32370cb5b2ca134"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/BuKynZqRNj",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/isafepal",
+    "reddit": "",
+    "repository": "https://github.com/SafePalWallet",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "safepal",
+    "coingeckoID": "safepal",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.safepal.com/pub/SFP_Whitepaper.pdf?a=5"
+    ]
+  },
+  "safepalbsc": {
+    "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth.",
+    "total_supply": 500000000,
+    "circulating_supply": 249826888.98,
+    "websites": [
+      "https://www.safepal.com"
+    ],
+    "explorers": [
+      "https://bscscan.com/token/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/BuKynZqRNj",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/isafepal",
+    "reddit": "",
+    "repository": "https://github.com/SafePalWallet",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "safepal",
+    "coingeckoID": "safepal",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.safepal.com/pub/SFP_Whitepaper.pdf?a=5"
+    ]
+  },
+  "bioprotocol": {
+    "description": "BIO is a curation and liquidity protocol for Decentralized Science (DeSci). Our mission is to accelerate biotechnology by giving global communities of patients, scientists, and biotech professionals the ability to collectively fund, build, and own tokenized biotech projects and intellectual property (IP).",
+    "total_supply": 500000000,
+    "circulating_supply": 249826888.98,
+    "websites": [
+      "https://bio.xyz"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xcb1592591996765ec0efc1f92599a19767ee5ffa"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/bioxyz",
+    "telegram": "https://t.me/bio_protocol",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/bioprotocol",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "bio",
+    "coingeckoID": "bio-protocol",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.bio.xyz/bio"
+    ]
+  },
+  "bioprotocolsol": {
+    "description": "BIO is a curation and liquidity protocol for Decentralized Science (DeSci). Our mission is to accelerate biotechnology by giving global communities of patients, scientists, and biotech professionals the ability to collectively fund, build, and own tokenized biotech projects and intellectual property (IP).",
+    "total_supply": 3320000000,
+    "circulating_supply": 1378213176.05,
+    "websites": [
+      "https://bio.xyz"
+    ],
+    "explorers": [
+      "https://solscan.io/token/bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/bioxyz",
+    "telegram": "https://t.me/bio_protocol",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/bioprotocol",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "bio",
+    "coingeckoID": "bio-protocol",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.bio.xyz/bio"
+    ]
+  },
+  "vana": {
+    "description": "Vana is an EVM-compatible Layer 1 blockchain network that enables users to transform personal data into financial assets by aggregating private datasets for AI model training. This approach allows individuals to tokenize and monetize their data through Data Decentralized Autonomous Organizations (Data DAOs), granting them ownership and control over their digital footprints.",
+    "total_supply": 112641600,
+    "circulating_supply": 0,
+    "websites": [
+      "https://www.vana.org"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/withvana",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/withvana",
+    "reddit": "",
+    "repository": "https://github.com/vana-com",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "vana",
+    "coingeckoID": "vana",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.vana.org/docs/vana-whitepaper"
+    ]
+  },
+  "bookofmemesol": {
+    "description": "BOOK OF MEME (BOME) is a Solana-based meme coin created by the artist Darkfarms to serve as a digital archive for memes.",
+    "total_supply": 68999659569,
+    "circulating_supply": 68999659569,
+    "websites": [
+      "https://llwapirxnupqu7xw2fspfidormcfar7ek2yp65nu7k5opjwhdywq.arweave.net/WuwHojdtHwp-9tFk8qBuiwRQR-RWsP91tPq656bHHi0"
+    ],
+    "explorers": [
+      "https://solscan.io/token/ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/BOOK_OF_MEME",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/Darkfarms1",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "book-of-meme",
+    "coingeckoID": "book-of-meme",
     "livecoinwatchID": "",
     "auditInfos": [],
     "whitepaper": []
