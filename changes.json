@@ -12,12 +12,20 @@
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Reset EasyLogin & D2FA: Strongly encouraged to reset EasyLogin and Decentralized Two-Factor Authentication (D2FA) to fully benefit from the improved encryption and security updates.",
-    "Fluxnode Dashboard Redesign: Completely refactored the Fluxnode Dashboard, enhancing both backend logic and frontend user interface for improved clarity, usability, and functionality.",
-    "Advanced Encryption Standard (AES-GCM): Updated encryption methods to AES-GCM, leveraging the latest cryptographic standards for robust protection.",
-    "Enhanced Key Derivation: Significantly improved AES key derivation techniques to bolster security against brute force attacks.",
-    "Biometric Security Integration: Upgraded biometric security measures by combining keystore and biometric secrets for superior authentication protection.",
-    "CS and ID Language Support: Refreshed translations for Czech (CS) and Indonesian (ID) languages to enhance user experience.",
+    "Blockchain Support: Introduced support for the Ink Chain (powered by Kraken), including native ETH, USDC.E token, and WalletConnect capabilities.",
+    "User Interface & Experience: Integrated direct links to FluxOs, FluxDrive, FluxAI, FluxEdge, and FuxionX within the APPs section.",
+    "User Interface & Experience: Added new dialogs directly on the Portfolio Overview screen (Add/Hide Asset, Wallet Edit, Smartify).",
+    "Flux Integration: Enhanced Flux storage validation - A Flux node alias is now required before uploading configuration data.",
+    "User Interface & Experience: Improved portfolio management dialogs with an added wallet selector.",
+    "User Interface & Experience: Added support link for swap, purchase and off-ramp transactions through affiliated providers.",
+    "Token Support (Ethereum - ERC20): Added LDO, DEXE, MOVE, JASMY, SPX, Gala, STRK, AIOZ, MORPHO, MOG, XAUt, EIGEN, PENDLE, SUPER, PYUSD, ROSE, ZRO, BLUR, PRIME, CTC, ETHFI, ATH, CVX, XCN, ID, SFP, BIO, MEME, VANA, AUTOS.",
+    "Token Support (BNB Chain - BEP20): Added LDO, DEXE, AIOZ, PENDLE, ROSE, ZRO, ID, SFP, XCN.",
+    "Token Support (Solana - SPL): Added LDO, PENGU, JUP, AI16Z, SPX, JTO, GIG, aixbt, GRASS, POPCAT, ROSE, MEW, ATH, PNUT, CVX, BIO, BOME.",
+    "Token Support (Base): Added SPX, ZERO, MORPHO, MOG, aixbt, PENDLE, ROSE, ZRO, PRIME, XCN.",
+    "Token Support (Arbitrum): Added LDO, PENDLE, ROSE, ZRO, ETHFI, ATH.",
+    "Token Support (Optimism): Added PENDLE, ROSE, ZRO.",
+    "Token Support (Polygon - POLY): Added SUPER, ROSE, ZRO.",
+    "Token Support (Avalanche - AVAX-C): Added ROSE, ZRO.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }

@@ -17035,5 +17035,27 @@
     },
     "color": "#568731",
     "decimals": 6
+  },
+  "autoseth": {
+    "coin": "autoseth",
+    "name": "CryptoAutos ERC20",
+    "uri": [
+      "autoseth",
+      "autos"
+    ],
+    "unit": "AUTOS",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AUTOS.png",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
+    "color": "#1A1A1A",
+    "decimals": 18
   }
 }

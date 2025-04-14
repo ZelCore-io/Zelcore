@@ -1,6 +1,36 @@
 
 # Changelog
 
+**[8.16.0] - New Chain Support and Expanded Features**
+
+We're pleased to announce Version 8.16.0 of Zelcore! This update introduces support for a new blockchain, expands our token listings significantly, updates key Flux integration requirements, and adds enhanced portfolio management features.
+
+**Added**
+
+* **Blockchain Support:**
+    * Introduced support for the **Ink Chain** (powered by Kraken), including native ETH, USDC.E token, and WalletConnect capabilities.
+* **User Interface & Experience:**
+    * Integrated direct links to **FluxOs, FluxDrive, FluxAI, FluxEdge, and FuxionX** within the APPs section for easier access to the Flux ecosystem.
+    * Added new dialogs directly on the **Portfolio Overview** screen for Add/Hide Asset, Wallet Edit, and Smartify actions, streamlining asset management.
+    * Added support link for swap, purchase and off-ramp transactions through affiliated providers.
+
+**Updated**
+
+* **Flux Integration:**
+    * Enhanced Flux storage validation: A **Flux node alias is now required** before uploading configuration data to Flux storage.
+* **User Interface & Experience:**
+    * Improved portfolio management dialogs: Added a **wallet selector** to the new Add/Hide Asset, Wallet Edit, and Smartify dialogs for better control when managing multiple wallets.
+* **Token Lists:**
+    * Significantly expanded token support across multiple networks:
+        * **Ethereum (ERC20):** Added LDO, DEXE, MOVE, JASMY, SPX, Gala, STRK, AIOZ, MORPHO, MOG, XAUt, EIGEN, PENDLE, SUPER, PYUSD, ROSE, ZRO, BLUR, PRIME, CTC, ETHFI, ATH, CVX, XCN, ID, SFP, BIO, MEME, VANA, AUTOS.
+        * **BNB Chain (BEP20):** Added LDO, DEXE, AIOZ, PENDLE, ROSE, ZRO, ID, SFP, XCN.
+        * **Solana (SPL):** Added LDO, PENGU, JUP, AI16Z, SPX, JTO, GIG, aixbt, GRASS, POPCAT, ROSE, MEW, ATH, PNUT, CVX, BIO, BOME.
+        * **Base:** Added SPX, ZERO, MORPHO, MOG, aixbt, PENDLE, ROSE, ZRO, PRIME, XCN.
+        * **Arbitrum:** Added LDO, PENDLE, ROSE, ZRO, ETHFI, ATH.
+        * **Optimism:** Added PENDLE, ROSE, ZRO.
+        * **Polygon (POLY):** Added SUPER, ROSE, ZRO.
+        * **Avalanche C-Chain (AVAX-C):** Added ROSE, ZRO.
+
 ## [8.15.4] - Powered by Flux
 
 ### Fixed
