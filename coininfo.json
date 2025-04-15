@@ -2744,12 +2744,12 @@
     "total_supply": 17000000,
     "circulating_supply": 5888464.51111923,
     "websites": [
-      "https://zerocurrency.io"
+      "https://zero.directory/"
     ],
     "explorers": [
       "https://insight.zerocurrency.io/insight",
       "https://explorer.zeromachine.io",
-      "https://zero.cryptonode.cloud/insight"
+      "https://zerochain.info"
     ],
     "medium": "",
     "discord": "",
@@ -23354,6 +23354,36 @@
     "cryptoCompareID": "",
     "coinMarketCapID": "book-of-meme",
     "coingeckoID": "book-of-meme",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "autoseth": {
+    "description": "CryptoAutos is the world’s first crypto automotive marketplace, integrated with blockchain technology. It is a secure, automotive platform & global concierge network that allows you to seamlessly purchase luxury cars.",
+    "total_supply": 1000000000,
+    "circulating_supply": 493267074,
+    "websites": [
+      "https://www.cryptoautos.com"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xf477AC7719e2e659001455cDDA0cc8f3aD10b604"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/CryptoAutosOfficial",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/CryptoAutos_",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "cryptoautos",
+    "coingeckoID": "cryptoautos",
     "livecoinwatchID": "",
     "auditInfos": [],
     "whitepaper": []
