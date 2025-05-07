@@ -15328,7 +15328,7 @@
       "virtualsprotocolbase",
       "virtualsprotocol"
     ],
-    "unit": "FDUSD",
+    "unit": "VIRTUAL",
     "type": "base",
     "family": "ethlike",
     "coinType": "token",
