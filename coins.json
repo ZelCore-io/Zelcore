@@ -7430,7 +7430,7 @@
     },
     "color": "#b64326",
     "proxy": [
-      "https://proxy.rtm.zelcore.io/?server=explorer.rtm.zelcore.io&port=50002&contype=tls&coin=raptoreum&call=",
+      "https://proxy.rtm.zelcore.io/?server=127.0.0.1&port=50002&contype=tls&coin=raptoreum&call=",
       "https://proxy.rtm.zelcore.io/?server=zelx.raptoreum.com&port=50002&contype=tls&coin=raptoreum&call="
     ]
   },
@@ -15328,7 +15328,7 @@
       "virtualsprotocolbase",
       "virtualsprotocol"
     ],
-    "unit": "FDUSD",
+    "unit": "VIRTUAL",
     "type": "base",
     "family": "ethlike",
     "coinType": "token",
