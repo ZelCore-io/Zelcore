@@ -1,6 +1,38 @@
 
 # Changelog
 
+**[8.17.0] – EVM v2 API, Substrate Node Mode & Maintenance Updates**
+
+Version 8.17.0 modernises Zelcore’s back-end plumbing, brings a smoother experience to Bittensor (TAO) holders, and rolls out the latest core-node binaries.
+
+### **Added**
+  - **Bittensor / TAO:** Balances are now fetched directly from a user-selectable WebSocket **nodeService** instead of the rate-limited Taostats API.
+  - **Bittensor / TAO:** New helper to translate Substrate chain IDs and decimals.
+
+### **Updated**
+  - **Optimism, Sepolia & all other EVM explorers:** Migrated from legacy Etherscan URLs to **Zelcore-hosted v2** endpoints.
+  - **Electrum proxy hardening:** **Bitcore (BTX)** and **Raptoreum (RTM)** proxies now tunnel through `127.0.0.1` for better isolation.
+  - **Installer binaries:** (Linux / macOS / Windows hashes refreshed):
+
+    | Coin           | Old                        | New |
+    | -------------- | -------------------------- | --- |
+    | Zcash          | 6.0.0 ➜ **6.2.0**         |     |
+    | Horizen (zend) | 5.0.5 ➜ **5.0.6**         |     |
+    | Firo (zcoind)  | 0.14.1.40 ➜ **0.14.1.41** |     |
+    | Dash           | 22.0.0 ➜ **22.1.2**       |     |
+    | Groestlcoin    | 28.0.0 ➜ **29.0.0**       |     |
+    | DigiByte       | 7.17.3 ➜ **8.22.2**       |     |
+
+  - **TAO workflow tweaks:** Auto-refresh for TAO balances is skipped to avoid node rate limits.
+  - **TAO workflow tweaks:** Transaction fetch limit raised from 50 → 60.
+  - **User Interface & Experience:** Offramp (Sell) and Purchase (Buy) history screens completely rebuilt to match the new UI.
+  - **Swap dialog:** Zero-balance assets are now shown by default; search is null-safe and sorts non-zero balances first.
+  - **Portfolio warnings:** Unsupported-coin notice expanded to include **Sinovate** and **VeriBlock** types.
+### **Fixed**
+
+  - **Kaspa KRC-20 import:**: corrected variable mix-up that blocked token saves.
+  - **Substrate bonded balance:**: now returned as a fixed-precision string.
+
 **[8.16.0] - New Chain Support and Expanded Features**
 
 We're pleased to announce Version 8.16.0 of Zelcore! This update introduces support for a new blockchain, expands our token listings significantly, updates key Flux integration requirements, and adds enhanced portfolio management features.

@@ -12,20 +12,14 @@
     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Blockchain Support: Introduced support for the Ink Chain (powered by Kraken), including native ETH, USDC.E token, and WalletConnect capabilities.",
-    "User Interface & Experience: Integrated direct links to FluxOs, FluxDrive, FluxAI, FluxEdge, and FuxionX within the APPs section.",
-    "User Interface & Experience: Added new dialogs directly on the Portfolio Overview screen (Add/Hide Asset, Wallet Edit, Smartify).",
-    "Flux Integration: Enhanced Flux storage validation - A Flux node alias is now required before uploading configuration data.",
-    "User Interface & Experience: Improved portfolio management dialogs with an added wallet selector.",
-    "User Interface & Experience: Added support link for swap, purchase and off-ramp transactions through affiliated providers.",
-    "Token Support (Ethereum - ERC20): Added LDO, DEXE, MOVE, JASMY, SPX, Gala, STRK, AIOZ, MORPHO, MOG, XAUt, EIGEN, PENDLE, SUPER, PYUSD, ROSE, ZRO, BLUR, PRIME, CTC, ETHFI, ATH, CVX, XCN, ID, SFP, BIO, MEME, VANA, AUTOS.",
-    "Token Support (BNB Chain - BEP20): Added LDO, DEXE, AIOZ, PENDLE, ROSE, ZRO, ID, SFP, XCN.",
-    "Token Support (Solana - SPL): Added LDO, PENGU, JUP, AI16Z, SPX, JTO, GIG, aixbt, GRASS, POPCAT, ROSE, MEW, ATH, PNUT, CVX, BIO, BOME.",
-    "Token Support (Base): Added SPX, ZERO, MORPHO, MOG, aixbt, PENDLE, ROSE, ZRO, PRIME, XCN.",
-    "Token Support (Arbitrum): Added LDO, PENDLE, ROSE, ZRO, ETHFI, ATH.",
-    "Token Support (Optimism): Added PENDLE, ROSE, ZRO.",
-    "Token Support (Polygon - POLY): Added SUPER, ROSE, ZRO.",
-    "Token Support (Avalanche - AVAX-C): Added ROSE, ZRO.",
+    "Backend Infrastructure: All Ethereum-family networks now use Zelcore-hosted v2 API endpoints, improving speed and reliability across Optimism, Sepolia and many others.",
+    "Blockchain Support: Added native node connectivity for Bittensor (TAO); balances are fetched directly over WebSocket (nodeService) instead of the Taostats API, and transaction history limit raised to 60.",
+    "Security & Stability: Electrum proxy hardening for Bitcore (BTX) and Raptoreum (RTM) now routes through 127.0.0.1 for better isolation.",
+    "Core-Node Upgrades: Shipped updated binaries – Zcash 6.2.0, Horizen (zend) 5.0.6, Firo (zcoind) 0.14.1.41, Dash 22.1.2, Groestlcoin 29.0.0, DigiByte 8.22.2.",
+    "User Interface & Experience: Offramp (Sell) and Purchase (Buy) history screens completely rebuilt to match the new UI.",
+    "User Interface & Experience: Swap dialog now shows zero-balance assets by default, features null-safe search, and prioritises tokens with balances.",
+    "User Interface & Experience: Portfolio unsupported-coin warning now covers Sinovate and VeriBlock types.",
+    "Performance Tweaks: TAO auto-refresh disabled to respect node rate limits.",
     "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
   ]
 }
