@@ -1,6 +1,32 @@
 
 # Changelog
 
+**[8.18.0] – Traditional Finance Integration & Multi-Language Support**
+
+Version 8.18.0 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform.
+
+### **Added**
+  - **Stocks Portfolio Integration:** Revolutionary new feature allowing users to connect and manage traditional brokerage accounts (stocks, ETFs, mutual funds) directly within ZelCore. Features include:
+    - Connect multiple brokerage accounts through secure OAuth integration
+    - View consolidated portfolio across all connected brokerages
+    - Real-time portfolio values with allocation visualization
+    - Privacy mode support for sensitive financial data
+    - Available under ZelCore+ features
+  - **Multi-Language Expansion:** Comprehensive AI-powered translations added for 17 languages:
+    - Czech, Danish, Finnish, French, Greek, Indonesian, Italian, Norwegian, Polish, Portuguese, Russian, Serbian, Spanish, Swedish, Turkish, Ukrainian, and Chinese
+  - **User Interface & Experience:** Added variant link styling with proper hover effect exclusions
+
+### **Fixed**
+  - **Extension Compatibility:** Fixed conditional checks for browser extension support
+  - **Production Build:** Resolved production build issues
+
+**[8.17.2] – Powered by Flux**
+
+### **Fixed**
+  - **FluxNodes dashboard:** Fixed bugs and undefined rewards display issues resolved.
+  - **Swaps:** Hardcoded exchange limitations fixed - all exchanges and their limits are now properly available.
+
+
 **[8.17.0] – EVM v2 API, Substrate Node Mode & Maintenance Updates**
 
 Version 8.17.0 modernises Zelcore’s back-end plumbing, brings a smoother experience to Bittensor (TAO) holders, and rolls out the latest core-node binaries.

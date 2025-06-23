@@ -1,25 +1,23 @@
 {
-  "version": "8.15.4",
-  "codename": "Powered by Flux",
+  "version": "8.18.0",
+  "codename": "Traditional Finance Integration & Multi-Language Support",
   "info": [
-    "We are proud to release Version 8.15.4, delivering crucial updates in security, major improvements in encryption, and an entirely revamped Fluxnode Dashboard."
+    "Version 8.18.0 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform."
   ],
   "bugs": [
-    "UI Fixes and Adjustments: Various Purchase and Swap UI Treatments. Other UI improvements.",
-    "Monero Sending Fix: Fixed a bug related to monero cryptoasset sending.",
-    "UI Fixes and Adjustments: Various Fluxnodes App UI Treatments. Other UI improvements",
-    "Mobile GCM decryption incompatibility: Resolved an issue where mobile GCM decryption was incompatible with the latest version of the desktop.",
-    "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
+    "Extension Compatibility: Fixed conditional checks for browser extension support.",
+    "Production Build: Resolved production build issues.",
+     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
   ],
   "features": [
-    "Backend Infrastructure: All Ethereum-family networks now use Zelcore-hosted v2 API endpoints, improving speed and reliability across Optimism, Sepolia and many others.",
-    "Blockchain Support: Added native node connectivity for Bittensor (TAO); balances are fetched directly over WebSocket (nodeService) instead of the Taostats API, and transaction history limit raised to 60.",
-    "Security & Stability: Electrum proxy hardening for Bitcore (BTX) and Raptoreum (RTM) now routes through 127.0.0.1 for better isolation.",
-    "Core-Node Upgrades: Shipped updated binaries – Zcash 6.2.0, Horizen (zend) 5.0.6, Firo (zcoind) 0.14.1.41, Dash 22.1.2, Groestlcoin 29.0.0, DigiByte 8.22.2.",
-    "User Interface & Experience: Offramp (Sell) and Purchase (Buy) history screens completely rebuilt to match the new UI.",
-    "User Interface & Experience: Swap dialog now shows zero-balance assets by default, features null-safe search, and prioritises tokens with balances.",
-    "User Interface & Experience: Portfolio unsupported-coin warning now covers Sinovate and VeriBlock types.",
-    "Performance Tweaks: TAO auto-refresh disabled to respect node rate limits.",
-    "General Improvements: Across-the-board refinements have been made to sharpen feature performance and ensure a secure, seamless wallet experience."
+    "Stocks Portfolio Integration: Revolutionary new feature allowing users to connect and manage traditional brokerage accounts (stocks, ETFs, mutual funds) directly within ZelCore.",
+    "Secure OAuth Integration: Connect multiple brokerage accounts through industry-standard secure OAuth flows.",
+    "Consolidated Portfolio View: View and manage holdings across all connected brokerages in one unified interface.",
+    "Real-Time Portfolio Management: Access real-time portfolio values with interactive allocation visualizations.",
+    "Privacy Mode Support: Sensitive financial data can be hidden using ZelCore's privacy mode feature.",
+    "ZelCore+ Feature: Stocks portfolio management is available as part of the ZelCore+ subscription.",
+    "Multi-Language Expansion: Comprehensive AI-powered translations added for Czech, Danish, Finnish, French, Greek, Indonesian, Italian, Norwegian, Polish, Portuguese, Russian, Serbian, Spanish, Swedish, Turkish, Ukrainian, and Chinese.",
+    "User Interface & Experience: Added variant link styling with proper hover effect exclusions.",
+    "General Improvements: Various performance optimizations and enhancements to ensure a smooth user experience."
   ]
 }
