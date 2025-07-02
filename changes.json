@@ -1,13 +1,14 @@
 {
-  "version": "8.18.0",
+  "version": "8.18.1",
   "codename": "Traditional Finance Integration & Multi-Language Support",
   "info": [
-    "Version 8.18.0 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform."
+    "Version 8.18.1 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform."
   ],
   "bugs": [
     "Extension Compatibility: Fixed conditional checks for browser extension support.",
     "Production Build: Resolved production build issues.",
-     "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet."
+    "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet.",
+    "Fixed bug of FluxNode names disappearing in case a service is unreachable."
   ],
   "features": [
     "Stocks Portfolio Integration: Revolutionary new feature allowing users to connect and manage traditional brokerage accounts (stocks, ETFs, mutual funds) directly within ZelCore.",

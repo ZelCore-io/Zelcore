@@ -1,6 +1,12 @@
 
 # Changelog
 
+**[8.18.1] – Powered by Flux**
+
+### **Fixed**
+  - **FluxNodes dashboard:** Fixed bug of FluxNode names disappearing in case a service is unreachable.
+  - **Seed Phrase showing:** Fixes a bug of inability to show seed phrase for accounts using biometrics authentication only.
+
 **[8.18.0] – Traditional Finance Integration & Multi-Language Support**
 
 Version 8.18.0 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform.
