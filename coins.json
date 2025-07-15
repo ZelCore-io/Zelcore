@@ -17057,5 +17057,49 @@
     "contractAddress": "0xf477AC7719e2e659001455cDDA0cc8f3aD10b604",
     "color": "#1A1A1A",
     "decimals": 18
+  },
+  "sui": {
+    "coin": "sui",
+    "name": "Sui",
+    "uri": [
+      "sui"
+    ],
+    "unit": "SUI",
+    "type": "sui",
+    "coinType": "native",
+    "logolink": "@/assets/logos/SUI.svg",
+    "contractAddress": "0x2::sui::SUI",
+    "slip": 784,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#4DA2FF",
+    "decimals": 9
+  },
+  "usdcsui": {
+    "coin": "usdcsui",
+    "name": "USD Coin SUI",
+    "uri": [
+      "usdcsui",
+      "usdcoin",
+      "usdc"
+    ],
+    "unit": "USDC",
+    "type": "sui",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDC.svg",
+    "contractAddress": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+    "slip": 784,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#2775CA",
+    "decimals": 6
   }
 }

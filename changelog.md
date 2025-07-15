@@ -60,8 +60,8 @@ Version 8.17.0 modernises Zelcore’s back-end plumbing, brings a smoother exper
   - **User Interface & Experience:** Offramp (Sell) and Purchase (Buy) history screens completely rebuilt to match the new UI.
   - **Swap dialog:** Zero-balance assets are now shown by default; search is null-safe and sorts non-zero balances first.
   - **Portfolio warnings:** Unsupported-coin notice expanded to include **Sinovate** and **VeriBlock** types.
-### **Fixed**
 
+### **Fixed**
   - **Kaspa KRC-20 import:**: corrected variable mix-up that blocked token saves.
   - **Substrate bonded balance:**: now returned as a fixed-precision string.
 
