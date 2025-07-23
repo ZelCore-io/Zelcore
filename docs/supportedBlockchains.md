@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 88
-- **Total Coins (including tokens)**: 707
+- **Total Blockchains**: 89
+- **Total Coins (including tokens)**: 709
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -77,6 +77,7 @@ This document provides an overview of the supported blockchains and their associ
 | snowgem | TENT | zcash | TENT | None |
 | solana | Solana | solana | SOL | WSOL, SRM, MSRM, COPE, FIDA, FTT, KIN, MAPS, MEDIA, OXY, RAY, STEP, USDC, USDT, ROPE, MER, TULIP, ALEPH, LINK, SUSHI, WOO, C98, SAMO, MNGO, ATLAS, POLIS, ORCA, AURY, SLND, SBR, LIQ, SNY, PORT, ABR, CRP, IVN, GRAPE, NINJA, CRWNY, FLUX-SOL, MSOL, STSOL, SLIM, DFL, IN, JET, DXL, LIKE, MNDE, WHAPI, RIN, CYS, FAB, WAG, MOLA, SOLD, CATO, CSTR, SAO, APYS, SUNNY, KURO, WIF, JELLYFC, TRUMP, MELANIA, ELON, VIRTUAL, FDUSD, LDO, PENGU, JUP, AI16Z, SPX, JTO, GIGA, AIXBT, GRASS, POPCAT, wROSE, MEW, ATH, PNUT, BIO, BOME |
 | stellar | Stellar Lumens | stellar | XLM | None |
+| sui | Sui | sui | SUI | USDC |
 | tao | Bittensor | substrate | TAO | None |
 | telestai | Telestai | blockbook | TLS | None |
 | testnet | Flux Test Coin | zcash | TESTFLUX | None |
