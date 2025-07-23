@@ -1,24 +1,27 @@
 {
-  "version": "8.18.1",
-  "codename": "Traditional Finance Integration & Multi-Language Support",
+  "version": "8.19.0",
+  "codename": "Sui Blockchain Integration & AI Enhancement",
   "info": [
-    "Version 8.18.1 brings a groundbreaking new feature that bridges traditional finance with crypto, plus comprehensive language support upgrades across the platform."
+    "Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features."
   ],
   "bugs": [
-    "Extension Compatibility: Fixed conditional checks for browser extension support.",
-    "Production Build: Resolved production build issues.",
-    "Various Minor Bug Fixes: A range of minor bugs have been fixed to improve the overall user experience and ensure smoother operation of the wallet.",
-    "Fixed bug of FluxNode names disappearing in case a service is unreachable."
+    "FluxNodes Dashboard: Resolved issues with node management and status display.",
+    "Transaction Processing: Improved reliability for various blockchain transactions.",
+    "Out of Commission Handling: Added proper handling for temporarily unavailable coins (Fantom, EOS).",
+    "Various Minor Bug Fixes: Multiple stability and performance improvements across the platform."
   ],
   "features": [
-    "Stocks Portfolio Integration: Revolutionary new feature allowing users to connect and manage traditional brokerage accounts (stocks, ETFs, mutual funds) directly within ZelCore.",
-    "Secure OAuth Integration: Connect multiple brokerage accounts through industry-standard secure OAuth flows.",
-    "Consolidated Portfolio View: View and manage holdings across all connected brokerages in one unified interface.",
-    "Real-Time Portfolio Management: Access real-time portfolio values with interactive allocation visualizations.",
-    "Privacy Mode Support: Sensitive financial data can be hidden using ZelCore's privacy mode feature.",
-    "ZelCore+ Feature: Stocks portfolio management is available as part of the ZelCore+ subscription.",
-    "Multi-Language Expansion: Comprehensive AI-powered translations added for Czech, Danish, Finnish, French, Greek, Indonesian, Italian, Norwegian, Polish, Portuguese, Russian, Serbian, Spanish, Swedish, Turkish, Ukrainian, and Chinese.",
-    "User Interface & Experience: Added variant link styling with proper hover effect exclusions.",
+    "FluxAI GPT Integration: Revolutionary AI assistant feature powered by Flux infrastructure.",
+    "Interactive AI Chat: Advanced chat interface with persistent session management and conversation history.",
+    "Multi-Language AI Support: AI assistant supports multiple languages for global accessibility.",
+    "Secure Data Handling: AI features include robust encryption and secure data processing.",
+    "Sui Blockchain Support: Complete integration of the Sui blockchain, enabling users to manage Sui assets directly within ZelCore.",
+    "Native SUI Coin: Full send/receive functionality for the native SUI cryptocurrency.",
+    "Sui USDC Token: Support for USDC token on the Sui network with complete transaction capabilities.",
+    "Swap support for SUI blockchain: Users can swap SUI and USDC tokens seamlessly.", 
+    "Sui WalletConnect Integration: Connect to Sui dApps and services through industry-standard WalletConnect protocol.",
+    "Enhanced Backend Infrastructure: Improved middleware integration for better API performance and reliability.",
+    "Flux Daemon Updates: Latest version integration for improved performance and stability.",
     "General Improvements: Various performance optimizations and enhancements to ensure a smooth user experience."
   ]
 }

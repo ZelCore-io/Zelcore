@@ -1,6 +1,34 @@
 
 # Changelog
 
+**[8.19.0] – Sui Blockchain Integration & AI Enhancement**
+
+Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features.
+
+### **Added**
+  - **FluxAI GPT Integration:** Revolutionary AI assistant feature powered by Flux infrastructure:
+    - Interactive AI chat interface with session management
+    - Persistent conversation history across sessions
+    - Multi-language AI support
+    - Secure data handling with encryption
+
+  - **Sui Blockchain Support:** Complete integration of the Sui blockchain, enabling users to manage Sui assets directly within ZelCore. Features include:
+    - Native SUI coin support with full send/receive functionality
+    - USDC token support on the Sui network
+    - Added swap support for SUI blockchain
+    - WalletConnect integration for Sui dApps and services
+    - Advanced blockchain framework implementation
+
+### **Updated**
+  - **Flux Daemon:** Updated to latest version for improved performance and stability
+  - **Backend Infrastructure:** Enhanced middleware integration for better API performance
+  - **Blockchain Framework:** Expanded framework to support new chain types and WalletConnect protocols
+
+### **Fixed**
+  - **FluxNodes Dashboard:** Resolved issues with node management and status display
+  - **Transaction Processing:** Improved reliability for various blockchain transactions
+  - **Out of Commission Handling:** Added proper handling for temporarily unavailable coins (Fantom, EOS)
+
 **[8.18.1] – Powered by Flux**
 
 ### **Fixed**
