@@ -4,7 +4,7 @@
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
 - **Total Blockchains**: 89
-- **Total Coins (including tokens)**: 709
+- **Total Coins (including tokens)**: 710
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -17,7 +17,7 @@ This document provides an overview of the supported blockchains and their associ
 | avaxavalanchep | Avax P-Chain | avalanchep | AVAX-P | None |
 | avaxavalanchex | Avax X-Chain | avalanchex | AVAX-X | None |
 | axe | Axe | btc | AXE | None |
-| base | Base ETH | base | ETH | USDC, DAI, FLUX-BASE, BRETT, VIRTUAL, SPX, AERO, MORPHO, MOG, AIXBT, PENDLE, ZRO, PRIME, XCN |
+| base | Base ETH | base | ETH | USDC, DAI, FLUX-BASE, BRETT, VIRTUAL, SPX, AERO, MORPHO, MOG, AIXBT, PENDLE, ZRO, PRIME, XCN, ZEN |
 | basesepolia | Base ETH Sepolia | basesepolia | bsETH | None |
 | beldex | Beldex | cryptonight | BDX | None |
 | bitcoin | Bitcoin Legacy | blockbook | BTC | USDT, MAID |
