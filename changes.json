@@ -1,5 +1,5 @@
 {
-  "version": "8.19.0",
+  "version": "8.19.1",
   "codename": "Sui Blockchain Integration & AI Enhancement",
   "info": [
     "Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features."
@@ -11,6 +11,9 @@
     "Various Minor Bug Fixes: Multiple stability and performance improvements across the platform."
   ],
   "features": [
+    "Etherscan Backends: Updated to use v2 endpoints for enhanced performance and reliability.",
+    "Daemon Update: Updated Flux Mac daemon to latest version for improved performance and stability.",
+    "Horizen Decomision: Horizen is being decommissioned and will be removed in the future version.",
     "FluxAI GPT Integration: Revolutionary AI assistant feature powered by Flux infrastructure.",
     "Interactive AI Chat: Advanced chat interface with persistent session management and conversation history.",
     "Multi-Language AI Support: AI assistant supports multiple languages for global accessibility.",
