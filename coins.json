@@ -17101,5 +17101,26 @@
     },
     "color": "#2775CA",
     "decimals": 6
+  },
+  "horizenbase": {
+    "coin": "horizenbase",
+    "name": "Horizen BASE Token",
+    "uri": [
+      "horizenbase"
+    ],
+    "unit": "ZEN",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZENBASE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
+    "color": "#fecb17",
+    "decimals": 18
   }
 }

@@ -6,7 +6,7 @@ Version 8.19.0 introduces major new blockchain support and AI capabilities, expa
 ### **Updated**
   - **Etherscan Backends:** Updated to use v2 endpoints for enhanced performance and reliability.
   - **Daemon Update:** Updated Flux Mac daemon to latest version for improved performance and stability.
-  - **Horizen Decomision:** Horizen is being decommissioned and will be removed in the future version.
+  - **Horizen Decommission:** Horizen is being decommissioned and will be removed in the future version.
 
 **[8.19.0] – Sui Blockchain Integration & AI Enhancement**
 
