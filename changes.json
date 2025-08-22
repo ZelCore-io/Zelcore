@@ -1,10 +1,11 @@
 {
-  "version": "8.19.1",
+  "version": "8.19.2",
   "codename": "Sui Blockchain Integration & AI Enhancement",
   "info": [
     "Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features."
   ],
   "bugs": [
+    "WalletConnect: Updated WalletConnect to latest version.",
     "FluxNodes Dashboard: Resolved issues with node management and status display.",
     "Transaction Processing: Improved reliability for various blockchain transactions.",
     "Out of Commission Handling: Added proper handling for temporarily unavailable coins (Fantom, EOS).",

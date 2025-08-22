@@ -1,5 +1,10 @@
 
 # Changelog
+**[8.19.2] – Sui Blockchain Integration & AI Enhancement**
+
+### **Fixed**
+  - **WalletConnect:** Updated WalletConnect to latest version.
+
 **[8.19.1] – Sui Blockchain Integration & AI Enhancement**
 Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features.
 
