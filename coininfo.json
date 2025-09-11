@@ -21013,6 +21013,64 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "kasplextest": {
+    "description": "Kasplex is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture. This is the testnet version for development and testing purposes.",
+    "total_supply": 0,
+    "circulating_supply": 0,
+    "websites": [
+      "https://kasplex.org"
+    ],
+    "explorers": [
+      "https://frontend.kasplextest.xyz"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/kasplex",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wkaskasplextest": {
+    "description": "Wrapped Kaspa (WKAS) is an ERC-20 token on the Kasplex testnet that represents Kaspa (KAS) tokens in a wrapped format, enabling KAS to be used in DeFi applications and smart contracts on the Kasplex Layer 2 network. This is the testnet version for development and testing purposes.",
+    "total_supply": 6078272,
+    "circulating_supply": 6078272,
+    "websites": [
+      "https://kasplex.org"
+    ],
+    "explorers": [
+      "https://explorer.testnet.kasplextest.xyz/token/0xf40178040278E16c8813dB20a84119A605812FB3"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/kasplex",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
   "usdceink": {
     "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
     "total_supply": 293184174,
