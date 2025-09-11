@@ -1,5 +1,33 @@
 
 # Changelog
+**[8.20.0] – FluxDrive Integration & Kasplex Support**
+
+Version 8.20.0 introduces groundbreaking file management capabilities through FluxDrive integration and expands blockchain support with Kasplex Testnet, delivering enhanced functionality and user experience improvements.
+
+### **Added**
+  - **FluxDrive File Management System:** Revolutionary decentralized file storage and management capabilities:
+    - Complete file upload and download functionality with drag-and-drop support
+    - Advanced file type validation and size restrictions for security
+    - Progress tracking for upload operations with parallel processing support
+    - Secure file encryption before upload to protect user data
+    - Integration with Flux ecosystem for decentralized storage solutions
+    - File organization with folder management and navigation
+    - Cross-platform file system access
+
+  - **Kasplex Testnet Blockchain Support:** New testnet integration expanding Kaspa ecosystem support:
+    - Native KAS coin support for testnet transactions
+    - WKAS token support on the Kasplex testnet network
+    - Full WalletConnect integration for dApp connectivity
+
+### **Updated**
+  - **Seed Phrase Security:** Enhanced seed phrase handling with improved validation:
+    - Automatic trimming and lowercase conversion for consistency
+    - Better paste handling with multi-word support
+
+### **Fixed**
+  - **User Interface Improvements:** Various enhancements for better user experience
+  - **FluxDrive App Navigation:** Direct routing to FluxDrive from Apps section instead of external links
+
 **[8.19.2] – Sui Blockchain Integration & AI Enhancement**
 
 ### **Fixed**

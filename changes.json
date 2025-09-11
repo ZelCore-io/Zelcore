@@ -1,31 +1,30 @@
 {
-  "version": "8.19.2",
-  "codename": "Sui Blockchain Integration & AI Enhancement",
+  "version": "8.20.0",
+  "codename": "FluxDrive Integration & Kasplex Support",
   "info": [
-    "Version 8.19.0 introduces major new blockchain support and AI capabilities, expanding ZelCore's functionality with cutting-edge features."
+    "Version 8.20.0 introduces groundbreaking file management capabilities through FluxDrive integration and expands blockchain support with Kasplex Testnet, delivering enhanced functionality and user experience improvements."
   ],
   "bugs": [
-    "WalletConnect: Updated WalletConnect to latest version.",
-    "FluxNodes Dashboard: Resolved issues with node management and status display.",
-    "Transaction Processing: Improved reliability for various blockchain transactions.",
-    "Out of Commission Handling: Added proper handling for temporarily unavailable coins (Fantom, EOS).",
+    "User Interface Improvements: Various enhancements for better user experience.",
+    "FluxDrive App Navigation: Direct routing to FluxDrive from Apps section instead of external links.",
     "Various Minor Bug Fixes: Multiple stability and performance improvements across the platform."
   ],
   "features": [
-    "Etherscan Backends: Updated to use v2 endpoints for enhanced performance and reliability.",
-    "Daemon Update: Updated Flux Mac daemon to latest version for improved performance and stability.",
-    "Horizen Decommission: Horizen is being decommissioned and will be removed in the future version.",
-    "FluxAI GPT Integration: Revolutionary AI assistant feature powered by Flux infrastructure.",
-    "Interactive AI Chat: Advanced chat interface with persistent session management and conversation history.",
-    "Multi-Language AI Support: AI assistant supports multiple languages for global accessibility.",
-    "Secure Data Handling: AI features include robust encryption and secure data processing.",
-    "Sui Blockchain Support: Complete integration of the Sui blockchain, enabling users to manage Sui assets directly within ZelCore.",
-    "Native SUI Coin: Full send/receive functionality for the native SUI cryptocurrency.",
-    "Sui USDC Token: Support for USDC token on the Sui network with complete transaction capabilities.",
-    "Swap support for SUI blockchain: Users can swap SUI and USDC tokens seamlessly.", 
-    "Sui WalletConnect Integration: Connect to Sui dApps and services through industry-standard WalletConnect protocol.",
-    "Enhanced Backend Infrastructure: Improved middleware integration for better API performance and reliability.",
-    "Flux Daemon Updates: Latest version integration for improved performance and stability.",
+    "FluxDrive File Management System: Revolutionary decentralized file storage and management capabilities.",
+    "File Upload/Download: Complete file upload and download functionality with drag-and-drop support.",
+    "File Type Validation: Advanced file type validation and size restrictions for security.",
+    "Upload Progress Tracking: Progress tracking for upload operations with parallel processing support.",
+    "Secure File Encryption: Secure file encryption before upload to protect user data.",
+    "Flux Ecosystem Integration: Integration with Flux ecosystem for decentralized storage solutions.",
+    "File Organization: File organization with folder management and navigation capabilities.",
+    "Cross-platform File Access: Cross-platform file system access.",
+    "Kasplex Testnet Blockchain Support: New testnet integration expanding Kaspa ecosystem support.",
+    "Native KAS Coin: Native KAS coin support for testnet transactions.",
+    "WKAS Token Support: WKAS token support on the Kasplex testnet network.",
+    "Kasplex WalletConnect: Full WalletConnect integration for dApp connectivity.",
+    "Seed Phrase Security: Enhanced seed phrase handling with improved validation.",
+    "Automatic Text Processing: Automatic trimming and lowercase conversion for consistency.",
+    "Better Paste Handling: Improved paste handling with multi-word support.",
     "General Improvements: Various performance optimizations and enhancements to ensure a smooth user experience."
   ]
 }

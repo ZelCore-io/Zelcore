@@ -15432,6 +15432,55 @@
     "color": "#B0B0B0",
     "decimals": 18
   },
+  "kasplextest": {
+    "coin": "kasplextest",
+    "name": "Kasplex Testnet",
+    "uri": [
+      "kasplextestnet",
+      "kasplex"
+    ],
+    "chainID": 167012,
+    "slip": 60,
+    "unit": "KAS",
+    "type": "kasplextest",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/KASPLEX.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 2000,
+      "normal": 2500,
+      "fast": 3000
+    },
+    "contractAddress": "",
+    "color": "#49D9B7",
+    "decimals": 18
+  },
+  "wkaskasplextest": {
+    "coin": "wkaskasplextest",
+    "name": "Wrapped Kaspa Kasplex Testnet Token",
+    "uri": [
+      "wrappedkaspakasplextestnet",
+      "wkaskasplextest",
+      "wkas"
+    ],
+    "unit": "WKAS",
+    "type": "kasplextest",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KASPLEX.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 2000,
+      "normal": 2500,
+      "fast": 3000
+    },
+    "contractAddress": "0xf40178040278E16c8813dB20a84119A605812FB3",
+    "color": "#49D9B7",
+    "decimals": 18,
+    "chainID": 167012,
+    "slip": 60
+  },
   "usdceink": {
     "coin": "usdceink",
     "name": "Stargate Bridged USDC Ink",
