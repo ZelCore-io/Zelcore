@@ -26,7 +26,6 @@ Version 8.20.0 introduces groundbreaking file management capabilities through Fl
 
 ### **Fixed**
   - **User Interface Improvements:** Various enhancements for better user experience
-  - **FluxDrive App Navigation:** Direct routing to FluxDrive from Apps section instead of external links
 
 **[8.19.2] – Sui Blockchain Integration & AI Enhancement**
 
