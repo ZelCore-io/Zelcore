@@ -23511,5 +23511,35 @@
     "livecoinwatchID": "",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "igralabstest": {
+    "description": "IgraLabs is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture. This is the testnet version for development and testing purposes.",
+    "total_supply": 0,
+    "circulating_supply": 0,
+    "websites": [
+      "https://igralabs.com"
+    ],
+    "explorers": [
+      "https://explorer.caravel.igralabs.com",
+      "https://explorer-tn10.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/igra_labs",
+    "reddit": "",
+    "repository": "https://github.com/IGRALABS",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
   }
 }
