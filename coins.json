@@ -17171,29 +17171,5 @@
     "contractAddress": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
     "color": "#fecb17",
     "decimals": 18
-  },
-  "igralabstest": {
-    "coin": "igralabstest",
-    "name": "IgraLabs Testnet",
-    "uri": [
-      "igralabstestnet",
-      "igralabs"
-    ],
-    "chainID": 19416,
-    "slip": 60,
-    "unit": "KAS",
-    "type": "igralabstest",
-    "family": "ethlike",
-    "coinType": "native",
-    "logolink": "@/assets/logos/IGRA.svg",
-    "fee": 120000,
-    "feepolicy": {
-      "economy": 2000,
-      "normal": 2500,
-      "fast": 3000
-    },
-    "contractAddress": "",
-    "color": "#C68A23",
-    "decimals": 18
   }
 }
