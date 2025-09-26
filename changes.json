@@ -1,12 +1,13 @@
 {
-  "version": "8.20.0",
-  "codename": "FluxDrive Integration & Kasplex Support",
+  "version": "8.21.0",
+  "codename": "Kasplex Mainnet & FluxONE",
   "info": [
-    "Version 8.20.0 introduces groundbreaking file management capabilities through FluxDrive integration and expands blockchain support with Kasplex Testnet, delivering enhanced functionality and user experience improvements."
+    "Version 8.21.0 brings Kasplex mainnet online, introduces FluxONE—our AI image studio inside FluxAI—and delivers quality‑of‑life improvements across swaps, widgets, and FluxDrive."
   ],
   "bugs": [
-    "User Interface Improvements: Various enhancements for better user experience.",
-    "Various Minor Bug Fixes: Multiple stability and performance improvements across the platform."
+    "Testnet Coins & UI: Corrected naming/placement for testnet coins and minor visual issues (panel routing, colors, focus states).",
+    "FluxDrive Max File Size: Fixed an issue with max file size formatting.",
+    "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
     "Kasplex Mainnet (EVM): New Kasplex network available in Networks (EVM‑compatible).",

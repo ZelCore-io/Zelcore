@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 91
-- **Total Coins (including tokens)**: 713
+- **Total Blockchains**: 92
+- **Total Coins (including tokens)**: 715
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -53,12 +53,13 @@ This document provides an overview of the supported blockchains and their associ
 | genesis | Genesis | electrum | GENX | None |
 | groestlcoin | Groestlcoin | blockbook | GRS | None |
 | hush | Hush | zcash | HUSH | None |
-| igralabstest | IgraLabs Testnet | igralabstest | KAS | None |
+| igralabstestnet | IgraLabs Testnet | igralabstest | KAS | None |
 | ilcoin | ILCoin | btc | ILC | None |
 | ink | Ethereum Ink | ink | ETH | USDC.E |
 | kadena | Kadena | kadena | KDA | FLUX-KDA, BABE, KDL, BKA, KDS, MOK, KDX, SKDX, zUSDTEST, zUSD |
 | kaspa | Kaspa | kaspa | KAS | KASPER, NACHO, BKONAN |
-| kasplextest | Kasplex Testnet | kasplextest | KAS | WKAS |
+| kasplex | Kaspa EVM Kasplex | kasplex | KAS | WKAS |
+| kasplextestnet | Kasplex Testnet | kasplextest | KAS | WKAS |
 | komodo | Komodo | zcash | KMD | None |
 | ksm | Kusama | substrate | KSM | None |
 | litecoin | Litecoin Legacy | blockbook | LTC | None |
