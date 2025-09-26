@@ -21065,9 +21065,9 @@
     "tiktok": "",
     "twitch": "",
     "linkedin": "",
-    "cryptoCompareID": "",
-    "coinMarketCapID": "wrapped-kaspa",
-    "coingeckoID": "wrapped-kaspa",
+    "cryptoCompareID": "KAS",
+    "coinMarketCapID": "kaspa",
+    "coingeckoID": "kaspa",
     "auditInfos": [],
     "whitepaper": []
   },
