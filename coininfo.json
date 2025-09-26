@@ -21013,7 +21013,65 @@
     "auditInfos": [],
     "whitepaper": []
   },
-  "kasplextest": {
+  "kasplex": {
+    "description": "Kasplex is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture.",
+    "total_supply": 0,
+    "circulating_supply": 0,
+    "websites": [
+      "https://kasplex.org"
+    ],
+    "explorers": [
+      "kasplex_mainnet_placeholder_explorer"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/kasplex",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "KAS",
+    "coinMarketCapID": "kaspa",
+    "coingeckoID": "kaspa",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wkaskasplex": {
+    "description": "Wrapped Kaspa (WKAS) is an ERC-20 token on the Kasplex EVM Mainnet that represents Kaspa (KAS) tokens in a wrapped format, enabling KAS to be used in DeFi applications and smart contracts on the Kasplex Layer 2 network.",
+    "total_supply": 450305,
+    "circulating_supply": 450305,
+    "websites": [
+      "https://kasplex.org"
+    ],
+    "explorers": [
+      "https://explorer.kasplex.org/address/0x2c2Ae87Ba178F48637acAe54B87c3924F544a83e"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/kasplex",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "wrapped-kaspa",
+    "coingeckoID": "wrapped-kaspa",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "kasplextestnet": {
     "description": "Kasplex is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture. This is the testnet version for development and testing purposes.",
     "total_supply": 0,
     "circulating_supply": 0,
@@ -23509,6 +23567,36 @@
     "coinMarketCapID": "usd-coin",
     "coingeckoID": "usd-coin",
     "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "igralabstestnet": {
+    "description": "IgraLabs is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture. This is the testnet version for development and testing purposes.",
+    "total_supply": 0,
+    "circulating_supply": 0,
+    "websites": [
+      "https://igralabs.com"
+    ],
+    "explorers": [
+      "https://explorer.caravel.igralabs.com",
+      "https://explorer-tn10.kaspa.org"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/igra_labs",
+    "reddit": "",
+    "repository": "https://github.com/IGRALABS",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
   }
