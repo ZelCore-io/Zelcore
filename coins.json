@@ -15432,8 +15432,56 @@
     "color": "#B0B0B0",
     "decimals": 18
   },
-  "kasplextest": {
-    "coin": "kasplextest",
+  "kasplex": {
+    "coin": "kasplex",
+    "name": "Kaspa EVM Kasplex",
+    "uri": [
+      "kasplex"
+    ],
+    "chainID": 202555,
+    "slip": 60,
+    "unit": "KAS",
+    "type": "kasplex",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/KAS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 2000,
+      "normal": 2500,
+      "fast": 3000
+    },
+    "contractAddress": "0x",
+    "color": "#49D9B7",
+    "decimals": 18
+  },
+  "wkaskasplex": {
+    "coin": "wkaskasplex",
+    "name": "Wrapped Kaspa EVM Kasplex Token",
+    "uri": [
+      "wrappedkaspakasplex",
+      "wkaskasplex",
+      "wkas"
+    ],
+    "unit": "WKAS",
+    "type": "kasplex",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WKAS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 2000,
+      "normal": 2500,
+      "fast": 3000
+    },
+    "contractAddress": "0x2c2Ae87Ba178F48637acAe54B87c3924F544a83e",
+    "color": "#49D9B7",
+    "decimals": 18,
+    "chainID": 202555,
+    "slip": 60
+  },
+  "kasplextestnet": {
+    "coin": "kasplextestnet",
     "name": "Kasplex Testnet",
     "uri": [
       "kasplextestnet",
@@ -17170,6 +17218,30 @@
     },
     "contractAddress": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
     "color": "#fecb17",
+    "decimals": 18
+  },
+  "igralabstestnet": {
+    "coin": "igralabstestnet",
+    "name": "IgraLabs Testnet",
+    "uri": [
+      "igralabstestnet",
+      "igralabs"
+    ],
+    "chainID": 19416,
+    "slip": 60,
+    "unit": "KAS",
+    "type": "igralabstest",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/IGRA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 2000,
+      "normal": 2500,
+      "fast": 3000
+    },
+    "contractAddress": "",
+    "color": "#C68A23",
     "decimals": 18
   }
 }
