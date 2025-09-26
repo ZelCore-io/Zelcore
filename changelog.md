@@ -1,5 +1,46 @@
 
 # Changelog
+
+## **[8.21.0] – Kasplex Mainnet & FluxONE**
+
+Version 8.21.0 brings Kasplex **mainnet** online, introduces **FluxONE**—our AI image studio inside FluxAI—and adds quality‑of‑life upgrades across swaps, widgets, and FluxDrive.
+
+### **Added**
+
+- **Kasplex Mainnet (EVM)**
+  - New **Kasplex** network available in Networks (EVM‑compatible).
+  - **WKAS (Wrapped Kaspa)** token support on Kasplex mainnet.
+  - You can now **import Kasplex tokens**; dedicated sections added for Kasplex Testnet as well.
+  - Note: **KAS on Kasplex mainnet is required for gas** when interacting with Kasplex contracts.
+
+- **IgraLabs Testnet (EVM)**
+  - Token import flow and chain indicator support included.
+  - Note: **KAS on IgraLabs Testnet is required for gas** on IgraLabs Testnet contracts.
+
+- **FluxONE (inside FluxAI) – AI Image Studio**
+  - Create images with adjustable **aspect ratios**, **formats (JPG/PNG/WEBP)**, and **quality** controls.
+  - **Big preview**, **one‑click download**, and **mobile share** support.
+  - **Session management**: see interaction history, resume, and manage sessions.
+  - **Login‑less access**: FluxONE can be launched without signing in (see EasyLogin screen).
+  - **Model selection via Zelcore API** provider (e.g., *Llama 3.1, DeepSeek 8B, DeepSeek 32B*).
+  - New **App Selector** inside FluxAI lets you switch between **FluxGPT** (chat) and **FluxONE** (images).
+
+- **Quick‑access widgets**
+  - New **FluxAI Shortcut** and **FluxDrive Shortcut** widgets on Portfolio, for faster access to chat, image generation, and file storage.
+
+### **Updated**
+
+- **Swap History:** Each swap now displays the **fiat value at the time of execution** with a helpful tooltip in history and details.
+- **FluxDrive:** Clearer **max file size** display (now shown in MB) and minor upload UX polish.
+- **Dependency freeze** for reproducible builds
+- **Linux (.deb) installer improvements**: Sets up the `zelcore` alternative and configures Chromium sandbox permissions for improved stability on Debian‑based systems.
+- Minor hardware‑wallet library alignment and build‑script refinements.
+
+### **Fixed**
+- Corrected naming/placement for testnet coins and minor visual issues (panel routing, colors, focus states).
+- FluxDrive: fixed an issue with **max file size** formatting.
+- General package and copy cleanups.
+
 **[8.20.0] – FluxDrive Integration & Kasplex Support**
 
 Version 8.20.0 introduces groundbreaking file management capabilities through FluxDrive integration and expands blockchain support with Kasplex Testnet, delivering enhanced functionality and user experience improvements.
