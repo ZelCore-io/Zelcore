@@ -14530,7 +14530,7 @@
       "normal": 0.05,
       "fast": 0.1
     },
-    "contractAddress": "0x4200000000000000000000000000000000000010",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#B0B0B0",
     "decimals": 18
   },
@@ -14644,7 +14644,7 @@
       "normal": 0.005,
       "fast": 0.008
     },
-    "contractAddress": "0x4200000000000000000000000000000000000010",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#B0B0B0",
     "decimals": 18
   },
@@ -14829,7 +14829,7 @@
       "normal": 0.1,
       "fast": 0.2
     },
-    "contractAddress": "0x32400084c286cf3e17e7b677ea9583e60a000324",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#B0B0B0",
     "decimals": 18
   },
