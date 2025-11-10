@@ -23599,5 +23599,36 @@
     "coingeckoID": "",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "sonic": {
+    "description": "Sonic is the highest-performing EVM layer-1 blockchain, combining speed, incentives, and world-class infrastructure, powering the next generation of DeFi applications. The chain provides 400,000 TPS and sub-second finality.",
+    "total_supply": 3222625000,
+    "circulating_supply": 2880000000,
+    "websites": [
+      "https://www.soniclabs.com"
+    ],
+    "explorers": [
+      "https://sonicscan.org"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/3Ynr2QDSnB",
+    "telegram": "https://t.me/Sonic_English",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/SonicLabs",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "S",
+    "coinMarketCapID": "sonic",
+    "coingeckoID": "sonic-3",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://www.soniclabs.com/whitepaper"
+    ]
   }
 }
