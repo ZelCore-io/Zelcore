@@ -6826,7 +6826,7 @@
       "sol"
     ],
     "slip": 501,
-    "mint": "11111111111111111111111111111111",
+    "mint": "So11111111111111111111111111111111111111111",
     "unit": "SOL",
     "type": "solana",
     "coinType": "native",
@@ -17242,6 +17242,31 @@
     },
     "contractAddress": "",
     "color": "#C68A23",
+    "decimals": 18
+  },
+  "sonic": {
+    "coin": "sonic",
+    "name": "Sonic",
+    "uri": [
+      "Sonic",
+      "sonic",
+      "soniclabs"
+    ],
+    "chainID": 146,
+    "slip": 60,
+    "unit": "S",
+    "type": "sonic",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/SONIC.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 30,
+      "normal": 35,
+      "fast": 40
+    },
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "color": "#f5f5f5",
     "decimals": 18
   }
 }

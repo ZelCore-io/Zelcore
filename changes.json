@@ -5,8 +5,9 @@
     "Version 8.21.0 brings Kasplex mainnet online, introduces FluxONE—our AI image studio inside FluxAI—and delivers quality‑of‑life improvements across swaps, widgets, and FluxDrive."
   ],
   "bugs": [
-    "Testnet Coins & UI: Corrected naming/placement for testnet coins and minor visual issues (panel routing, colors, focus states).",
-    "FluxDrive Max File Size: Fixed an issue with max file size formatting.",
+    "Minor coin configuration fixes.",
+    "Desktop Spellcheck: Removed desktop spellcheck to improve performance; spellcheck remains available via context menu where needed.",
+    "FluxDrive Max File Size: Improved FluxDrive max file size consistency and validation.",
     "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
