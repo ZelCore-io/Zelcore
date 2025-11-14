@@ -1,8 +1,8 @@
 {
-  "version": "8.21.0",
-  "codename": "Kasplex Mainnet & FluxONE",
+  "version": "8.22.2",
+  "codename": "Flux 9 & Notifications System",
   "info": [
-    "Version 8.21.0 brings Kasplex mainnet online, introduces FluxONE—our AI image studio inside FluxAI—and delivers quality‑of‑life improvements across swaps, widgets, and FluxDrive."
+    "Version 8.22.2 enhances security with a comprehensive login notification system, adds file encryption to FluxDrive, improves FluxAI navigation with an app selector, and latest flux v9.0.0 daemon."
   ],
   "bugs": [
     "Minor coin configuration fixes.",
@@ -11,23 +11,18 @@
     "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
-    "Kasplex Mainnet (EVM): New Kasplex network available in Networks (EVM‑compatible).",
-    "WKAS Support: WKAS (Wrapped Kaspa) token support on Kasplex mainnet.",
-    "Kasplex Tokens: You can now import Kasplex tokens; dedicated sections added for Kasplex Testnet as well.",
-    "Gas Requirements (Kasplex): KAS on Kasplex mainnet is required for gas when interacting with Kasplex contracts.",
-    "IgraLabs Testnet (EVM): Token import flow and chain indicator support included.",
-    "Gas Requirements (IgraLabs): KAS on IgraLabs Testnet is required for gas on IgraLabs Testnet contracts.",
-    "FluxONE (inside FluxAI): AI image studio with adjustable aspect ratios, formats (JPG/PNG/WEBP), and quality controls.",
-    "FluxONE Experience: Big preview, one‑click download, and mobile share support.",
-    "FluxONE Sessions: Session management with interaction history and resume.",
-    "Login‑less Access: FluxONE can be launched without signing in (EasyLogin screen).",
-    "Model Selection: Choose models via Zelcore API provider (e.g., Llama 3.1, DeepSeek 8B/32B).",
-    "FluxAI App Selector: Switch between FluxGPT (chat) and FluxONE (images).",
-    "Quick‑access Widgets: New FluxAI Shortcut and FluxDrive Shortcut on Portfolio for faster access.",
-    "Swap History: Each swap now shows the fiat value at the time of execution with a helpful tooltip in history and details.",
-    "FluxDrive UX: Clearer max file size display (now shown in MB) and minor upload UX polish.",
-    "Dependency Freeze: Reproducible builds with CI.",
-    "Linux (.deb) Installer: Post‑install sets up the zelcore alternative and configures Chromium sandbox permissions for improved stability.",
+    "Substrate Chains: Fixed transaction handling for Polkadot (DOT), Kusama (KSM), and Westend (WND) to use node-based nonce and header calls for improved reliability. Additionally these assets are now switched to assethub equivalents.",
+    "Full Node Binaries: Updated Flux daemon to v9.0.5 for improved stability.",
+    "News Sources: Updated social media news source endpoints.",
+    "Security Notifications System (Opt-in): Disabled by default. Users must accept and enable login notification tracking in the new Notifications section under Account settings.",
+    "Login Activity Tracking: View detailed history of all login attempts (successful and failed) with timestamps, device information, and location data.",
+    "Known Devices Management: Authorize and manage trusted devices for your account with device naming and removal capabilities.",
+    "Security Alerts: Receive notifications for login attempts from known, new or unknown devices.",
+    "Legacy Login Warning Banner: Visual indicator when using legacy authentication methods.",
+    "FluxDrive File Encryption Toggle: Choose to encrypt or upload files without encryption based on your needs.",
+    "Visual Encryption Indicator: Lock icon displays on files to show encryption status at a glance.",
+    "FluxAI App Selector: New app selector in the topbar allows seamless switching between FluxGPT (chat) and FluxONE (image generation).",
+    "Backend Infrastructure: Updated EVM backend for enhanced reliability across BSC, Polygon, Avalanche C-Chain, Base, Base Sepolia, Arbitrum, Optimism, Blast, and zkSync networks.",
     "Under the Hood: Minor hardware‑wallet library alignment and build‑script refinements."
   ]
 }

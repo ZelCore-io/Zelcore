@@ -1,6 +1,45 @@
 
 # Changelog
 
+## **[8.22.2] – Maintenance Release**
+
+### **Fixed**
+- **Substrate Chains**: Fixed transaction handling for Polkadot (DOT), Kusama (KSM), and Westend (WND) to use node-based nonce and header calls for improved reliability. Additionally these assets are now switched to assethub equivalents.
+
+## **[8.22.1] – Maintenance Release**
+
+### **Updated**
+- **Full Node Binaries**: Updated Flux daemon to v9.0.5 for improved stability.
+- **News Sources**: Updated social media news source endpoints.
+
+### **Fixed**
+- Minor coin configuration fixes.
+
+## **[8.22.0] – Flux 9 & Notifications System**
+
+Version 8.22.0 enhances security with a comprehensive login notification system, adds file encryption to FluxDrive, improves FluxAI navigation with an app selector, and latest flux v9.0.0 daemon.
+
+### **Added**
+
+- **Security Notifications System** (Opt-in required - disabled by default)
+  - Users must **accept and enable** login notification tracking in the new **Notifications** section under Account settings for the feature to work.
+  - **Login Activity Tracking**: View detailed history of all login attempts (successful and failed) with timestamps, device information, and location data.
+  - **Known Devices Management**: Authorize and manage trusted devices for your account with device naming and removal capabilities.
+  - **Security Alerts**: Receive notifications for login attempts from known, new or unknown devices.
+  - **Legacy Login Warning Banner**: Visual indicator when using legacy authentication methods.
+- **FluxDrive File Encryption**
+  - **Encryption Toggle**: Choose to encrypt or upload files without encryption based on your needs.
+  - **Visual Encryption Indicator**: Lock icon displays on files to show encryption status at a glance.
+- **FluxAI App Selector**: New app selector in the topbar allows seamless switching between **FluxGPT** (chat) and **FluxONE** (image generation).
+
+### **Updated**
+- **Full Node Binaries**: Updated Flux daemon to v9.0.0 for macOS with improved performance and stability.
+- **Backend Infrastructure**: Updated EVM backend for enhanced reliability across BSC, Polygon, Avalanche C-Chain, Base, Base Sepolia, Arbitrum, Optimism, Blast, and zkSync networks.
+
+### **Fixed**
+- Removed desktop spellcheck to improve performance; spellcheck remains available via context menu where needed.
+- Improved FluxDrive max file size consistency and validation.
+
 ## **[8.21.0] – Kasplex Mainnet & FluxONE**
 
 Version 8.21.0 brings Kasplex **mainnet** online, introduces **FluxONE**—our AI image studio inside FluxAI—and adds quality‑of‑life upgrades across swaps, widgets, and FluxDrive.
