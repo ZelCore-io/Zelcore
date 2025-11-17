@@ -8486,8 +8486,9 @@
       "https://polkadot.network"
     ],
     "explorers": [
+      "https://assethub-polkadot.subscan.io",
+      "https://polkadot.polkascan.io",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://medium.com/polkadot-network",
@@ -8517,8 +8518,9 @@
       "https://polkadot.network"
     ],
     "explorers": [
+      "https://assethub-polkadot.subscan.io",
+      "https://polkadot.polkascan.io",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://medium.com/polkadot-network",
@@ -8579,7 +8581,8 @@
       "https://kusama.network"
     ],
     "explorers": [
-      "https://kusama.subscan.io",
+      "https://assethub-kusama.subscan.io",
+      "https://kusama.polkascan.io",
       "https://polkascan.io/pre/kusama-cc3"
     ],
     "medium": "",
@@ -10262,7 +10265,7 @@
     "explorers": [
       "https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
+      "https://assethub-polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://polkadot.network/blog",
@@ -23600,35 +23603,33 @@
     "auditInfos": [],
     "whitepaper": []
   },
-  "sonic": {
-    "description": "Sonic is the highest-performing EVM layer-1 blockchain, combining speed, incentives, and world-class infrastructure, powering the next generation of DeFi applications. The chain provides 400,000 TPS and sub-second finality.",
-    "total_supply": 3222625000,
-    "circulating_supply": 2880000000,
+  "veil": {
+    "description": "Veil is a privacy-focused cryptocurrency using RingCT technology (similar to Monero) with stealth addresses, confidential transactions, and Bulletproofs for enhanced privacy and security.",
+    "total_supply": 300000000,
+    "circulating_supply": 175000000,
     "websites": [
-      "https://www.soniclabs.com"
+      "https://veil-project.com"
     ],
     "explorers": [
-      "https://sonicscan.org"
+      "https://explorer.veil-project.com"
     ],
     "medium": "",
-    "discord": "https://discord.gg/3Ynr2QDSnB",
-    "telegram": "https://t.me/Sonic_English",
-    "bitcointalk": "",
+    "discord": "https://discord.veil-project.com",
+    "telegram": "https://t.me/VEILProject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5065331",
     "facebook": "",
-    "twitter": "https://x.com/SonicLabs",
-    "reddit": "",
-    "repository": "",
+    "twitter": "https://twitter.com/ProjectVeil",
+    "reddit": "https://www.reddit.com/r/veil",
+    "repository": "https://github.com/Veil-Project/veil",
     "youtube": "",
     "instagram": "",
     "tiktok": "",
     "twitch": "",
     "linkedin": "",
-    "cryptoCompareID": "S",
-    "coinMarketCapID": "sonic",
-    "coingeckoID": "sonic-3",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "veil",
+    "coingeckoID": "veil",
     "auditInfos": [],
-    "whitepaper": [
-      "https://www.soniclabs.com/whitepaper"
-    ]
+    "whitepaper": []
   }
 }
