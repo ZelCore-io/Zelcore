@@ -17259,13 +17259,82 @@
     "family": "ethlike",
     "coinType": "native",
     "logolink": "@/assets/logos/SONIC.svg",
-    "fee": 100000,
+    "fee": 21000,
     "feepolicy": {
-      "economy": 30,
-      "normal": 35,
-      "fast": 40
+      "economy": 55,
+      "normal": 60,
+      "fast": 65
     },
     "contractAddress": "0x0000000000000000000000000000000000000000",
+    "color": "#f5f5f5",
+    "decimals": 18
+  },
+  "usdcsonic": {
+    "coin": "usdcsonic",
+    "name": "USD Coin Sonic",
+    "uri": [
+      "usdcsonic",
+      "usdcoin",
+      "usdc"
+    ],
+    "unit": "USDC",
+    "type": "sonic",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 55,
+      "normal": 60,
+      "fast": 65
+    },
+    "contractAddress": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+    "color": "#2276CB",
+    "decimals": 6
+  },
+  "usdtsonic": {
+    "coin": "usdtsonic",
+    "name": "USDT Sonic",
+    "uri": [
+      "usdtsonic",
+      "usdtcoin",
+      "usdt"
+    ],
+    "unit": "USDT",
+    "type": "sonic",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDT.svg",
+    "contractAddress": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 55,
+      "normal": 60,
+      "fast": 65
+    },
+    "color": "#50AF95",
+    "decimals": 6
+  },
+  "wsonic": {
+    "coin": "wsonic",
+    "name": "Wrapped Sonic",
+    "uri": [
+      "wsonic",
+      "wrappedsonic",
+      "sonic"
+    ],
+    "unit": "wS",
+    "type": "sonic",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SONIC.svg",
+    "contractAddress": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 55,
+      "normal": 60,
+      "fast": 65
+    },
     "color": "#f5f5f5",
     "decimals": 18
   }
