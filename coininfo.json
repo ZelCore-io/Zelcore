@@ -8486,8 +8486,9 @@
       "https://polkadot.network"
     ],
     "explorers": [
+      "https://assethub-polkadot.subscan.io",
+      "https://polkadot.polkascan.io",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://medium.com/polkadot-network",
@@ -8517,8 +8518,9 @@
       "https://polkadot.network"
     ],
     "explorers": [
+      "https://assethub-polkadot.subscan.io",
+      "https://polkadot.polkascan.io",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://medium.com/polkadot-network",
@@ -8579,7 +8581,8 @@
       "https://kusama.network"
     ],
     "explorers": [
-      "https://kusama.subscan.io",
+      "https://assethub-kusama.subscan.io",
+      "https://kusama.polkascan.io",
       "https://polkascan.io/pre/kusama-cc3"
     ],
     "medium": "",
@@ -10262,7 +10265,7 @@
     "explorers": [
       "https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
       "https://polkascan.io",
-      "https://polkadot.subscan.io",
+      "https://assethub-polkadot.subscan.io",
       "https://polkastats.io"
     ],
     "medium": "https://polkadot.network/blog",

@@ -1,6 +1,93 @@
 
 # Changelog
 
+## **[8.23.0] – Sonic Blockchain & Enhanced Payment Features**
+
+Version 8.23.0 introduces Sonic blockchain support, payment callback functionality for merchants, Zcash TEX address support, and important infrastructure updates.
+
+### **Added**
+
+- **Sonic Blockchain Support (EVM):** Complete integration of the Sonic blockchain with the following features:
+  - Native S coin support with full send/receive functionality
+  - USDC, USDT, and wS (Wrapped Sonic) token support
+  - WalletConnect integration for Sonic dApps and services
+  - Etherscan-compatible API integration
+
+- **Payment Callback System:** New merchant-focused feature enabling real-time payment confirmations:
+  - Callback URLs can be included in payment URIs
+  - Automatic POST notification after successful transactions with transaction details (ID, addresses, amount, coin)
+  - Supports HTTP/HTTPS protocols with 10-second timeout
+  - Compatible with all supported blockchain types
+
+- **Zcash TEX Address Support:** Added support for Bech32m-encoded transparent addresses (ZIP-320 standard):
+  - Full TEX address validation and conversion
+  - Backward compatible with legacy t-addresses
+  - Enhanced address flexibility for Zcash transactions
+
+- **Global Transaction History:** New wallet-level transaction view showing recent activity:
+  - Displays 20 most recent transactions across all assets
+  - Includes blockchain icon overlays and coin name display
+  - Refresh button for manual updates
+  - Wallet label display in transaction details
+
+- **Login Experience Improvements:**
+  - New MainLogin screen with improved user interface
+  - Enhanced EasyLogin workflow as default entry point
+  - Legacy login option with clear visual indicators
+
+### **Updated**
+
+- **Kadena Explorer URLs:** Updated to use community-maintained explorers:
+  - Mainnet: `explorer.kda.zelcore.io`
+  - Testnet/Devnet: `explorer.chainweb-community.org`
+
+- **Full Node Binaries:** Updated daemon versions for improved stability and performance
+- **Package Dependencies:** Updated multiple core dependencies for security and performance
+
+### **Fixed**
+
+- Enhanced authentication flow with better error handling
+- Various UI/UX improvements and stability fixes
+
+## **[8.22.2] – Maintenance Release**
+
+### **Fixed**
+- **Substrate Chains**: Fixed transaction handling for Polkadot (DOT), Kusama (KSM), and Westend (WND) to use node-based nonce and header calls for improved reliability. Additionally these assets are now switched to assethub equivalents.
+
+## **[8.22.1] – Maintenance Release**
+
+### **Updated**
+- **Full Node Binaries**: Updated Flux daemon to v9.0.5 for improved stability.
+- **News Sources**: Updated social media news source endpoints.
+
+### **Fixed**
+- Minor coin configuration fixes.
+
+## **[8.22.0] – Flux 9 & Notifications System**
+
+Version 8.22.0 enhances security with a comprehensive login notification system, adds file encryption to FluxDrive, improves FluxAI navigation with an app selector, and latest flux v9.0.0 daemon.
+
+### **Added**
+
+- **Security Notifications System** (Opt-in required - disabled by default)
+  - Users must **accept and enable** login notification tracking in the new **Notifications** section under Account settings for the feature to work.
+  - **Login Activity Tracking**: View detailed history of all login attempts (successful and failed) with timestamps, device information, and location data.
+  - **Known Devices Management**: Authorize and manage trusted devices for your account with device naming and removal capabilities.
+  - **Security Alerts**: Receive notifications for login attempts from known, new or unknown devices.
+  - **Legacy Login Warning Banner**: Visual indicator when using legacy authentication methods.
+- **FluxDrive File Encryption**
+  - **Encryption Toggle**: Choose to encrypt or upload files without encryption based on your needs.
+  - **Visual Encryption Indicator**: Lock icon displays on files to show encryption status at a glance.
+- **FluxAI App Selector**: New app selector in the topbar allows seamless switching between **FluxGPT** (chat) and **FluxONE** (image generation).
+
+### **Updated**
+- **Full Node Binaries**: Updated Flux daemon to v9.0.0 for macOS with improved performance and stability.
+- **Backend Infrastructure**: Updated EVM backend for enhanced reliability across BSC, Polygon, Avalanche C-Chain, Base, Base Sepolia, Arbitrum, Optimism, Blast, and zkSync networks.
+
+### **Fixed**
+- Removed desktop spellcheck to improve performance; spellcheck remains available via context menu where needed.
+- Improved FluxDrive max file size consistency and validation.
+
 ## **[8.21.0] – Kasplex Mainnet & FluxONE**
 
 Version 8.21.0 brings Kasplex **mainnet** online, introduces **FluxONE**—our AI image studio inside FluxAI—and adds quality‑of‑life upgrades across swaps, widgets, and FluxDrive.
