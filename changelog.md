@@ -1,6 +1,37 @@
 
 # Changelog
 
+## **[8.24.0] – Veil Integration & Enhanced Security**
+
+Version 8.24.0 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains.
+
+### **Added**
+
+- **Veil Blockchain Support:** Complete integration of the Veil privacy-focused blockchain:
+  - Native VEIL coin support with full send/receive functionality
+  - Privacy-preserving transaction capabilities
+  - Dedicated Veil API and explorer integration
+  - Support for viewing spend and view keys (public/secret)
+
+### **Updated**
+- **Beldex Library:** Updated to v2.0.0 to support the latest Beldex network fork
+- **Login Experience:** Improved login sections with refactored token import and notification triggers
+- **Platform Notifications:** Enhanced mobile-friendly notification display
+- **Solana Logo:** Updated to new official branding
+- **Terra Configuration:** Adjusted Terra blockchain settings
+
+### **Fixed**
+- **Monero Transactions:** Fixed patch issue affecting Monero transaction processing
+- **Fusion Algorand Claiming:** Resolved issue with claiming rewards using Algorand addresses
+- **Transaction Fee Validation:** Added fee checks before sending to prevent failed transactions
+
+# **[8.23.1] – Sonic Blockchain & Enhanced Payment Features**
+
+Version 8.23.1 introduces important bug fixes and stability improvements to enhance the user experience.
+
+### **Fixed**
+- Fetching swwap pairs properly.
+
 ## **[8.23.0] – Sonic Blockchain & Enhanced Payment Features**
 
 Version 8.23.0 introduces Sonic blockchain support, payment callback functionality for merchants, Zcash TEX address support, and important infrastructure updates.
