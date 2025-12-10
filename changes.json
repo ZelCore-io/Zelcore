@@ -1,23 +1,22 @@
 {
-  "version": "8.23.0",
-  "codename": "Sonic Blockchain & Enhanced Payment Features",
+  "version": "8.24.0",
+  "codename": "Veil Integration & Enhanced Security",
   "info": [
-    "Version 8.23.0 introduces Sonic blockchain support, payment callback functionality for merchants, Zcash TEX address support, and important infrastructure updates."
+    "Version 8.24.0 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
   ],
   "bugs": [
-    "Enhanced authentication flow with better error handling",
+    "Monero Transactions: Fixed patch issue affecting Monero transaction processing.",
+    "Fusion Algorand Claiming: Resolved issue with claiming rewards using Algorand addresses.",
+    "Transaction Fee Validation: Added fee checks before sending to prevent failed transactions.",
     "Various UI/UX improvements and stability fixes",
     "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
-    "Sonic Blockchain Support (EVM): Complete integration of the Sonic blockchain with the following features: Native S coin support with full send/receive functionality; USDC, USDT, and wS (Wrapped Sonic) token support; WalletConnect integration for Sonic dApps and services; Etherscan-compatible API integration.",
-    "Payment Callback System: New merchant-focused feature enabling real-time payment confirmations: Callback URLs can be included in payment URIs; Automatic POST notification after successful transactions with transaction details (ID, addresses, amount, coin); Supports HTTP/HTTPS protocols with 10-second timeout; Compatible with all supported blockchain types.",
-    "Zcash TEX Address Support: Added support for Bech32m-encoded transparent addresses (ZIP-320 standard): Full TEX address validation and conversion; Backward compatible with legacy t-addresses; Enhanced address flexibility for Zcash transactions.",
-    "Global Transaction History: New wallet-level transaction view showing recent activity: Displays 20 most recent transactions across all assets; Includes blockchain icon overlays and coin name display; Refresh button for manual updates; Wallet label display in transaction details.",
-    "Login Experience Improvements: New MainLogin screen with improved user interface; Enhanced EasyLogin workflow as default entry point; Legacy login option with clear visual indicators.",
-    "Kadena Explorer URLs: Updated to use community-maintained explorers: Mainnet: explorer.kda.zelcore.io; Testnet/Devnet: explorer.chainweb-community.org.",
-    "Full Node Binaries: Updated daemon versions for improved stability and performance",
-    "Package Dependencies: Updated multiple core dependencies for security and performance",
-    "Under the Hood: Minor hardware‑wallet library alignment and build‑script refinements."
+    "Veil Blockchain Support: Complete integration of the Veil privacy-focused blockchain: Native VEIL coin support with full send/receive functionality; Privacy-preserving transaction capabilities; Dedicated Veil API and explorer integration; Support for viewing spend and view keys (public/secret).",
+    "Beldex Library: Updated to v2.0.0 to support the latest Beldex network fork.",
+    "Login Experience: Improved login sections with refactored token import and notification triggers.",
+    "Platform Notifications: Enhanced mobile-friendly notification display.",
+    "Solana Logo: Updated to new official branding.",
+    "Terra Configuration: Adjusted Terra blockchain settings."
   ]
 }
