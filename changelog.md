@@ -1,6 +1,13 @@
 
 # Changelog
 
+## **[8.24.1] – Maintenance Release**
+
+### **Fixed**
+- **Veil Performance:** Optimized WASM module loading for faster address generation
+- **ETH Token Fees:** Fixed native coin balance check for gas fees on ERC-20 and other ETH-like tokens
+- **Login Spinner:** Fixed spinner state during D2FA authentication flow
+
 ## **[8.24.0] – Veil Integration & Enhanced Security**
 
 Version 8.24.0 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains.
