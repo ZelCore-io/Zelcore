@@ -1,10 +1,11 @@
 {
-  "version": "8.24.0",
+  "version": "8.24.1",
   "codename": "Veil Integration & Enhanced Security",
   "info": [
-    "Version 8.24.0 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
+    "Version 8.24.1 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
   ],
   "bugs": [
+    "ETH Token Fees: Fixed native coin balance check for gas fees on ERC-20 and other ETH-like tokens.",
     "Monero Transactions: Fixed patch issue affecting Monero transaction processing.",
     "Fusion Algorand Claiming: Resolved issue with claiming rewards using Algorand addresses.",
     "Transaction Fee Validation: Added fee checks before sending to prevent failed transactions.",
