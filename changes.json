@@ -1,8 +1,8 @@
 {
-  "version": "8.24.0",
+  "version": "8.24.1",
   "codename": "Veil Integration & Enhanced Security",
   "info": [
-    "Version 8.24.0 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
+    "Version 8.24.1 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
   ],
   "bugs": [
     "Monero Transactions: Fixed patch issue affecting Monero transaction processing.",

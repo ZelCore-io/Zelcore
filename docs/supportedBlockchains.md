@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 93
-- **Total Coins (including tokens)**: 719
+- **Total Blockchains**: 94
+- **Total Coins (including tokens)**: 720
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -93,6 +93,7 @@ This document provides an overview of the supported blockchains and their associ
 | testnetwnd | Testnet Westend | substrate | TESTWND | None |
 | toncoin | Toncoin | tonbasechain | TON | USDT, NOT, DOGS, HMSTR |
 | tron | TRON | tron | TRX | BTT, GENX, JST, USDT, REV, SUNOLD, USDJ, SUN, FLUX-TRX, BTT, USDC |
+| veil | Veil | veil | VEIL | None |
 | veriblock | VeriBlock | veriblock | VBK | None |
 | vertcoin | Vertcoin | blockbook | VTC | None |
 | zcash | Zcash | zcash | ZEC | None |

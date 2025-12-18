@@ -23747,5 +23747,34 @@
     "whitepaper": [
       "https://www.soniclabs.com/whitepaper"
     ]
+  },
+  "veil": {
+    "description": "Veil is a privacy-focused cryptocurrency using RingCT technology (similar to Monero) with stealth addresses, confidential transactions, and Bulletproofs for enhanced privacy and security.",
+    "total_supply": 300000000,
+    "circulating_supply": 175000000,
+    "websites": [
+      "https://veil-project.com"
+    ],
+    "explorers": [
+      "https://explorer.veil.zelcore.io"
+    ],
+    "medium": "",
+    "discord": "https://discord.veil-project.com",
+    "telegram": "https://t.me/VEILProject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5065331",
+    "facebook": "",
+    "twitter": "https://twitter.com/ProjectVeil",
+    "reddit": "https://www.reddit.com/r/veil",
+    "repository": "https://github.com/Veil-Project/veil",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "veil",
+    "coingeckoID": "veil",
+    "auditInfos": [],
+    "whitepaper": []
   }
 }
