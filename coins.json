@@ -17337,5 +17337,25 @@
     },
     "color": "#f5f5f5",
     "decimals": 18
+  },
+  "veil": {
+    "coin": "veil",
+    "name": "Veil",
+    "uri": [
+      "veil"
+    ],
+    "slip": 698,
+    "unit": "VEIL",
+    "type": "veil",
+    "coinType": "native",
+    "logolink": "@/assets/logos/VEIL.svg",
+    "fee": 0.001,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.2,
+      "fast": 0.4
+    },
+    "color": "#0078ff",
+    "decimals": 8
   }
 }
