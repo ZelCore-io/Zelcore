@@ -19237,6 +19237,36 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "cloreeth": {
+    "description": "Clore.ai is a peer-to-peer marketplace for GPU leasing, connecting high-performance computing resources with users for AI development, scientific research, and cryptocurrency mining. Features Proof of Holding rewards system.",
+    "total_supply": 1300000000,
+    "circulating_supply": 0,
+    "websites": [
+      "https://clore.ai"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xE60201989b8628F43dC0605f585a72Bcf1F1e977"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/7sAEVGza8w",
+    "telegram": "https://t.me/clorechat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/clore_ai",
+    "reddit": "",
+    "repository": "https://gitlab.com/cloreai-public",
+    "youtube": "https://www.youtube.com/@cloreai",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "clore-ai",
+    "coingeckoID": "clore-ai",
+    "livecoinwatchID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
   "arbitrum": {
     "description": "Arbitrum is an Ethereum layer-two (L2) scaling solution. It uses optimistic rollups to achieve its goal of improving speed, scalability and cost-efficiency on Ethereum. Arbitrum benefits from the security and compatibility of Ethereum. Another benefit is the higher throughput and lower fees compared to Ethereum. That is made possible thanks to moving most of the computation and storage load off-chain.",
     "total_supply": null,

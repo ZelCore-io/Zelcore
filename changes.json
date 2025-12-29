@@ -1,10 +1,11 @@
 {
-  "version": "8.24.1",
+  "version": "8.24.2",
   "codename": "Veil Integration & Enhanced Security",
   "info": [
-    "Version 8.24.1 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
+    "Version 8.24.2 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
   ],
   "bugs": [
+    "ETH Token Fees: Fixed native coin balance check for gas fees on ERC-20 and other ETH-like tokens.",
     "Monero Transactions: Fixed patch issue affecting Monero transaction processing.",
     "Fusion Algorand Claiming: Resolved issue with claiming rewards using Algorand addresses.",
     "Transaction Fee Validation: Added fee checks before sending to prevent failed transactions.",
@@ -12,6 +13,10 @@
     "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
+    "Quick Receive Button: New receive button in portfolio for easy QR code and address access.",
+    "Message Signing: Now available to all users (previously ZelCore+ only).",
+    "Wallet Editing: Added edit icon to portfolio for easier wallet management.",
+    "Experience: Improved dropdown navigation.",
     "Veil Blockchain Support: Complete integration of the Veil privacy-focused blockchain: Native VEIL coin support with full send/receive functionality; Privacy-preserving transaction capabilities; Dedicated Veil API and explorer integration; Support for viewing spend and view keys (public/secret).",
     "Beldex Library: Updated to v2.0.0 to support the latest Beldex network fork.",
     "Login Experience: Improved login sections with refactored token import and notification triggers.",
