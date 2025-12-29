@@ -14126,6 +14126,28 @@
       "maximumFeeRate": 25000
     }
   },
+  "cloreeth": {
+    "coin": "cloreeth",
+    "name": "Clore.AI ERC20",
+    "uri": [
+      "cloreeth",
+      "cloreethereum"
+    ],
+    "unit": "CLORE",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CLORE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xE60201989b8628F43dC0605f585a72Bcf1F1e977",
+    "color": "#f73737",
+    "decimals": 18
+  },
   "arbitrum": {
     "coin": "arbitrum",
     "name": "Ethereum ARB",
