@@ -54,7 +54,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -77,7 +77,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -3750,7 +3750,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -4062,7 +4062,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -4085,7 +4085,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -7258,7 +7258,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -7297,7 +7297,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -8470,7 +8470,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -8534,7 +8534,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -8924,7 +8924,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -8963,7 +8963,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -9054,7 +9054,7 @@
       },
       {
         "name": "Flux Twitter",
-        "feed": "https://rss.app/feeds/RwkHCp2Q16Yz99nE.xml",
+        "feed": "https://rss.app/feeds/dFl0VL8qwvoMqlw4.xml",
         "site": "https://twitter.com/RunOnFlux",
         "about": "Official Flux Twitter.",
         "pic": "@/assets/logos/FLUX.svg"
@@ -9077,6 +9077,15 @@
       }
     ],
     "clore": [
+      {
+        "name": "Clore.AI Twitter",
+        "feed": "https://rss.app/feeds/Il0f2t74Zsc3NHyw.xml",
+        "site": "https://twitter.com/clore_ai",
+        "about": "Official Clore.AI Twitter.",
+        "pic": "@/assets/logos/CLORE.svg"
+      }
+    ],
+    "cloreeth": [
       {
         "name": "Clore.AI Twitter",
         "feed": "https://rss.app/feeds/Il0f2t74Zsc3NHyw.xml",
@@ -9753,6 +9762,897 @@
         "site": "https://twitter.com/FDLabsHQ",
         "about": "First Digital Labs Official twitter account",
         "pic": "@/assets/logos/FDUSD.svg"
+      }
+    ],
+    "ink": [
+      {
+        "name": "Ethereum Reddit",
+        "feed": "https://www.reddit.com/r/ethereum/.rss",
+        "site": "https://www.reddit.com/r/ethereum",
+        "about": "Ethereum Reddit with the latest news and announcements",
+        "pic": "@/assets/logos/ETH.svg"
+      },
+      {
+        "name": "Ethereum Twitter",
+        "feed": "https://rss.app/feeds/aDDmxI7YNo3DGzXo.xml",
+        "site": "https://twitter.com/ethereum",
+        "about": "Official ethereum Twitter.",
+        "pic": "@/assets/logos/ETH.svg"
+      }
+    ],
+    "usdceink": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
+    ],
+    "lidodao": [
+      {
+        "name": "Lido Finance Official Twitter",
+        "feed": "https://rss.app/feeds/yPcHdKBPJplnTuZV.xml",
+        "site": "https://x.com/lidofinance",
+        "about": "Lido DAO Official twitter account",
+        "pic": "@/assets/logos/LDO.svg"
+      },
+      {
+        "name": "Lido Finance Reddit",
+        "feed": "https://www.reddit.com/r/LidoFinance/.rss",
+        "site": "https://www.reddit.com/r/LidoFinance",
+        "about": "Lido Finance profile on Reddit",
+        "pic": "@/assets/logos/LDO.svg"
+      }
+    ],
+    "lidodaobsc": [
+      {
+        "name": "Lido Finance Official Twitter",
+        "feed": "https://rss.app/feeds/yPcHdKBPJplnTuZV.xml",
+        "site": "https://x.com/lidofinance",
+        "about": "Lido DAO Official twitter account",
+        "pic": "@/assets/logos/LDO.svg"
+      },
+      {
+        "name": "Lido Finance Reddit",
+        "feed": "https://www.reddit.com/r/LidoFinance/.rss",
+        "site": "https://www.reddit.com/r/LidoFinance",
+        "about": "Lido Finance profile on Reddit",
+        "pic": "@/assets/logos/LDO.svg"
+      }
+    ],
+    "lidodaoarb": [
+      {
+        "name": "Lido Finance Official Twitter",
+        "feed": "https://rss.app/feeds/yPcHdKBPJplnTuZV.xml",
+        "site": "https://x.com/lidofinance",
+        "about": "Lido DAO Official twitter account",
+        "pic": "@/assets/logos/LDO.svg"
+      },
+      {
+        "name": "Lido Finance Reddit",
+        "feed": "https://www.reddit.com/r/LidoFinance/.rss",
+        "site": "https://www.reddit.com/r/LidoFinance",
+        "about": "Lido Finance profile on Reddit",
+        "pic": "@/assets/logos/LDO.svg"
+      }
+    ],
+    "lidodaosol": [
+      {
+        "name": "Lido Finance Official Twitter",
+        "feed": "https://rss.app/feeds/yPcHdKBPJplnTuZV.xml",
+        "site": "https://x.com/lidofinance",
+        "about": "Lido DAO Official twitter account",
+        "pic": "@/assets/logos/LDO.svg"
+      },
+      {
+        "name": "Lido Finance Reddit",
+        "feed": "https://www.reddit.com/r/LidoFinance/.rss",
+        "site": "https://www.reddit.com/r/LidoFinance",
+        "about": "Lido Finance profile on Reddit",
+        "pic": "@/assets/logos/LDO.svg"
+      }
+    ],
+    "dexe": [
+      {
+        "name": "Dexe Protocol Official Twitter",
+        "feed": "https://rss.app/feeds/1B8NJkWIqIsbgvmp.xml",
+        "site": "https://x.com/DexeNetwork",
+        "about": "Dexe Protocol Official twitter account",
+        "pic": "@/assets/logos/DEXE.svg"
+      }
+    ],
+    "dexebsc": [
+      {
+        "name": "Dexe Protocol Official Twitter",
+        "feed": "https://rss.app/feeds/1B8NJkWIqIsbgvmp.xml",
+        "site": "https://x.com/DexeNetwork",
+        "about": "Dexe Protocol Official twitter account",
+        "pic": "@/assets/logos/DEXE.svg"
+      }
+    ],
+    "move": [
+      {
+        "name": "Movement Network Foundation Official Twitter",
+        "feed": "https://rss.app/feeds/WxgMsBm7XNlHZAQw.xml",
+        "site": "https://x.com/movementfdn",
+        "about": "Movement Network Foundation Official twitter account",
+        "pic": "@/assets/logos/MOVE.svg"
+      }
+    ],
+    "pudgypenguinssol": [
+      {
+        "name": "Pudgy Penguins Official Twitter",
+        "feed": "https://rss.app/feeds/lMPKNnDeKpbbpyj7.xml",
+        "site": "https://x.com/pudgypenguins",
+        "about": "Pudgy Penguins Official twitter account",
+        "pic": "@/assets/logos/PENGU.svg"
+      }
+    ],
+    "jupitersol": [
+      {
+        "name": "Jupiter Official Twitter",
+        "feed": "https://rss.app/feeds/h1mQdGVSjhoDaZDV.xml",
+        "site": "https://twitter.com/JupiterExchange",
+        "about": "Jupiter Official twitter account",
+        "pic": "@/assets/logos/JUP.svg"
+      }
+    ],
+    "jasmy": [
+      {
+        "name": "Jasmy-MGT Official Twitter",
+        "feed": "https://rss.app/feeds/6gUU1qFEzP5TowBp.xml",
+        "site": "https://twitter.com/JasmyMGT",
+        "about": "Jasmy Official twitter account",
+        "pic": "@/assets/logos/JASMY.svg"
+      }
+    ],
+    "ai16zsol": [
+      {
+        "name": "ai16z twitter account",
+        "feed": "https://rss.app/feeds/DjXIz6FfpCDRF8Pf.xml",
+        "site": "https://x.com/pmairca",
+        "about": "ai16z twitter account",
+        "pic": "@/assets/logos/AI16Z.png"
+      }
+    ],
+    "spx6900": [
+      {
+        "name": "SPX6900 twitter account",
+        "feed": "https://rss.app/feeds/xFzuFvPJ0ODjzp6X.xml",
+        "site": "https://x.com/SPX6900aeons",
+        "about": "SPX6900 twitter account",
+        "pic": "@/assets/logos/SPX.png"
+      },
+      {
+        "name": "SPX6900 Reddit",
+        "feed": "https://www.reddit.com/r/spx6900/.rss",
+        "site": "https://www.reddit.com/r/spx6900",
+        "about": "SPX6900 profile on Reddit",
+        "pic": "@/assets/logos/SPX.png"
+      }
+    ],
+    "spx6900base": [
+      {
+        "name": "SPX6900 twitter account",
+        "feed": "https://rss.app/feeds/xFzuFvPJ0ODjzp6X.xml",
+        "site": "https://x.com/SPX6900aeons",
+        "about": "SPX6900 twitter account",
+        "pic": "@/assets/logos/SPX.png"
+      },
+      {
+        "name": "SPX6900 Reddit",
+        "feed": "https://www.reddit.com/r/spx6900/.rss",
+        "site": "https://www.reddit.com/r/spx6900",
+        "about": "SPX6900 profile on Reddit",
+        "pic": "@/assets/logos/SPX.png"
+      }
+    ],
+    "spx6900sol": [
+      {
+        "name": "SPX6900 twitter account",
+        "feed": "https://rss.app/feeds/xFzuFvPJ0ODjzp6X.xml",
+        "site": "https://x.com/SPX6900aeons",
+        "about": "SPX6900 twitter account",
+        "pic": "@/assets/logos/SPX.png"
+      },
+      {
+        "name": "SPX6900 Reddit",
+        "feed": "https://www.reddit.com/r/spx6900/.rss",
+        "site": "https://www.reddit.com/r/spx6900",
+        "about": "SPX6900 profile on Reddit",
+        "pic": "@/assets/logos/SPX.png"
+      }
+    ],
+    "gala": [
+      {
+        "name": "Gala twitter account",
+        "feed": "https://rss.app/feeds/eZaKd84vOJFzBBbN.xml",
+        "site": "https://x.com/GoGalaGames",
+        "about": "Gala twitter account",
+        "pic": "@/assets/logos/GALA.svg"
+      },
+      {
+        "name": "SPX6900 Reddit",
+        "feed": "https://www.reddit.com/r/GoGalaGames/.rss",
+        "site": "https://www.reddit.com/r/GoGalaGames",
+        "about": "SPX6900 profile on Reddit",
+        "pic": "@/assets/logos/GALA.svg"
+      }
+    ],
+    "starknet": [
+      {
+        "name": "Starknet twitter account",
+        "feed": "https://rss.app/feeds/9w2HMZPOmfeRNOiz.xml",
+        "site": "https://x.com/Starknet",
+        "about": "Starknet Official Twitter account",
+        "pic": "@/assets/logos/STARK.svg"
+      }
+    ],
+    "aioznetwork": [
+      {
+        "name": "AIOZ Network twitter account",
+        "feed": "https://rss.app/feeds/ci2uXymRtGq8EmS8.xml",
+        "site": "https://x.com/aioznetwork",
+        "about": "AIOZ Network Official Twitter account",
+        "pic": "@/assets/logos/AIOZ.svg"
+      }
+    ],
+    "aioznetworkbsc": [
+      {
+        "name": "AIOZ Network twitter account",
+        "feed": "https://rss.app/feeds/ci2uXymRtGq8EmS8.xml",
+        "site": "https://x.com/aioznetwork",
+        "about": "AIOZ Network Official Twitter account",
+        "pic": "@/assets/logos/AIOZ.svg"
+      }
+    ],
+    "jitosol": [
+      {
+        "name": "Jito twitter account",
+        "feed": "https://rss.app/feeds/Wz3HX2xOUWPhrzZx.xml",
+        "site": "https://x.com/jito_sol",
+        "about": "Jito Official Twitter account",
+        "pic": "@/assets/logos/JTO.svg"
+      }
+    ],
+    "aerodromefinancebase": [
+      {
+        "name": "Aerodrome Finance twitter account",
+        "feed": "https://rss.app/feeds/DgnQHEBLIRz7csvf.xml",
+        "site": "https://x.com/aerodromefi",
+        "about": "Aerodrome Finance Official Twitter account",
+        "pic": "@/assets/logos/AERO.svg"
+      }
+    ],
+    "morpho": [
+      {
+        "name": "Morpho Labs twitter account",
+        "feed": "https://rss.app/feeds/tTpLRiMf9kyvU0QB.xml",
+        "site": "Morpho Labs",
+        "about": "Morpho Labs Official Twitter account",
+        "pic": "@/assets/logos/MORPHO.svg"
+      }
+    ],
+    "morphobase": [
+      {
+        "name": "Morpho Labs twitter account",
+        "feed": "https://rss.app/feeds/tTpLRiMf9kyvU0QB.xml",
+        "site": "Morpho Labs",
+        "about": "Morpho Labs Official Twitter account",
+        "pic": "@/assets/logos/MORPHO.svg"
+      }
+    ],
+    "gigachadsol": [
+      {
+        "name": "Gigachad meme twitter account",
+        "feed": "https://rss.app/feeds/sUUIiOv5akDNc4QU.xml",
+        "site": "https://x.com/GIGACHAD_meme",
+        "about": "Gigachad Official Twitter account",
+        "pic": "@/assets/logos/GIGA.png"
+      }
+    ],
+    "mogcoin": [
+      {
+        "name": "MOG COIN twitter account",
+        "feed": "https://rss.app/feeds/Zkp3TuNxfMJkwGea.xml",
+        "site": "https://twitter.com/MogCoin",
+        "about": "MOG COIN Official Twitter account",
+        "pic": "@/assets/logos/MOG.png"
+      }
+    ],
+    "mogcoinbase": [
+      {
+        "name": "MOG COIN twitter account",
+        "feed": "https://rss.app/feeds/Zkp3TuNxfMJkwGea.xml",
+        "site": "https://twitter.com/MogCoin",
+        "about": "MOG COIN Official Twitter account",
+        "pic": "@/assets/logos/MOG.png"
+      }
+    ],
+    "aixbtsol": [
+      {
+        "name": "aixbt twitter account",
+        "feed": "https://rss.app/feeds/sMAj7CaKrJbfkuEs.xml",
+        "site": "https://x.com/aixbt_agent",
+        "about": "aixbt Official Twitter account",
+        "pic": "@/assets/logos/AIXBT.png"
+      }
+    ],
+    "aixbtbase": [
+      {
+        "name": "aixbt twitter account",
+        "feed": "https://rss.app/feeds/sMAj7CaKrJbfkuEs.xml",
+        "site": "https://x.com/aixbt_agent",
+        "about": "aixbt Official Twitter account",
+        "pic": "@/assets/logos/AIXBT.png"
+      }
+    ],
+    "xaut": [
+      {
+        "name": "Tether Gold twitter account",
+        "feed": "https://rss.app/feeds/ZQReGAfqBHzvYVgv.xml",
+        "site": "https://x.com/tethergold",
+        "about": "Tether Gold Official Twitter account",
+        "pic": "@/assets/logos/XAUt.svg"
+      }
+    ],
+    "eigenlayer": [
+      {
+        "name": "Eigen foundation twitter account",
+        "feed": "https://rss.app/feeds/mDv9VcjJe5YxSe5V.xml",
+        "site": "https://x.com/eigenfoundation",
+        "about": "Eigen Foundation Official Twitter account",
+        "pic": "@/assets/logos/EIGEN.svg"
+      }
+    ],
+    "pendle": [
+      {
+        "name": "Pendle twitter account",
+        "feed": "https://rss.app/feeds/kShvR3RJZ906GefE.xml",
+        "site": "https://twitter.com/pendle_fi",
+        "about": "Pendle Official Twitter account",
+        "pic": "@/assets/logos/PENDLE.svg"
+      }
+    ],
+    "pendleop": [
+      {
+        "name": "Pendle twitter account",
+        "feed": "https://rss.app/feeds/kShvR3RJZ906GefE.xml",
+        "site": "https://twitter.com/pendle_fi",
+        "about": "Pendle Official Twitter account",
+        "pic": "@/assets/logos/PENDLE.svg"
+      }
+    ],
+    "pendlebsc": [
+      {
+        "name": "Pendle twitter account",
+        "feed": "https://rss.app/feeds/kShvR3RJZ906GefE.xml",
+        "site": "https://twitter.com/pendle_fi",
+        "about": "Pendle Official Twitter account",
+        "pic": "@/assets/logos/PENDLE.svg"
+      }
+    ],
+    "pendlearb": [
+      {
+        "name": "Pendle twitter account",
+        "feed": "https://rss.app/feeds/kShvR3RJZ906GefE.xml",
+        "site": "https://twitter.com/pendle_fi",
+        "about": "Pendle Official Twitter account",
+        "pic": "@/assets/logos/PENDLE.svg"
+      }
+    ],
+    "pendlebase": [
+      {
+        "name": "Pendle twitter account",
+        "feed": "https://rss.app/feeds/kShvR3RJZ906GefE.xml",
+        "site": "https://twitter.com/pendle_fi",
+        "about": "Pendle Official Twitter account",
+        "pic": "@/assets/logos/PENDLE.svg"
+      }
+    ],
+    "superverse": [
+      {
+        "name": "Superverse twitter account",
+        "feed": "https://rss.app/feeds/RzQyCEisdSBj2Eer.xml",
+        "site": "https://twitter.com/SuperVerse",
+        "about": "Superverse Official Twitter account",
+        "pic": "@/assets/logos/SUPER.svg"
+      }
+    ],
+    "superversepoly": [
+      {
+        "name": "Superverse twitter account",
+        "feed": "https://rss.app/feeds/RzQyCEisdSBj2Eer.xml",
+        "site": "https://twitter.com/SuperVerse",
+        "about": "Superverse Official Twitter account",
+        "pic": "@/assets/logos/SUPER.svg"
+      }
+    ],
+    "paypalusd": [
+      {
+        "name": "PayPal twitter account",
+        "feed": "https://rss.app/feeds/2KsbVROjnlMXIf6u.xml",
+        "site": "https://x.com/PayPal",
+        "about": "PayPal Official Twitter account",
+        "pic": "@/assets/logos/PYUSD.svg"
+      }
+    ],
+    "grasssol": [
+      {
+        "name": "Grass twitter account",
+        "feed": "https://rss.app/feeds/36Y0xWgUJgSzpD9V.xml",
+        "site": "https://x.com/getgrass_io",
+        "about": "Grass Official Twitter account",
+        "pic": "@/assets/logos/GRASS.svg"
+      }
+    ],
+    "popcatsol": [
+      {
+        "name": "Popcat twitter account",
+        "feed": "https://rss.app/feeds/mOS3NoZ1Kl8cHoZL.xml",
+        "site": "https://twitter.com/Popcatsolana",
+        "about": "Popcat Official Twitter account",
+        "pic": "@/assets/logos/POPCAT.svg"
+      }
+    ],
+    "wrose": [
+      {
+        "name": "Oasis twitter account",
+        "feed": "https://rss.app/feeds/HxuL5ITCFLwz6H6b.xml",
+        "site": "https://x.com/OasisProtocol",
+        "about": "Oasis Official Twitter account",
+        "pic": "@/assets/logos/ROSE.svg"
+      },
+      {
+        "name": "Oasis Network Reddit",
+        "feed": "https://reddit.com/r/oasisnetwork/.rss",
+        "site": "https://reddit.com/r/oasisnetwork/",
+        "about": "Oasis Network profile on Reddit",
+        "pic": "@/assets/logos/ROSE.svg"
+      }
+    ],
+    "wrosebsc": [
+      {
+        "name": "Oasis twitter account",
+        "feed": "https://rss.app/feeds/HxuL5ITCFLwz6H6b.xml",
+        "site": "https://x.com/OasisProtocol",
+        "about": "Oasis Official Twitter account",
+        "pic": "@/assets/logos/ROSE.svg"
+      },
+      {
+        "name": "Oasis Network Reddit",
+        "feed": "https://reddit.com/r/oasisnetwork/.rss",
+        "site": "https://reddit.com/r/oasisnetwork/",
+        "about": "Oasis Network profile on Reddit",
+        "pic": "@/assets/logos/ROSE.svg"
+      }
+    ],
+    "wrosesol": [
+      {
+        "name": "Oasis twitter account",
+        "feed": "https://rss.app/feeds/HxuL5ITCFLwz6H6b.xml",
+        "site": "https://x.com/OasisProtocol",
+        "about": "Oasis Official Twitter account",
+        "pic": "@/assets/logos/ROSE.svg"
+      },
+      {
+        "name": "Oasis Network Reddit",
+        "feed": "https://reddit.com/r/oasisnetwork/.rss",
+        "site": "https://reddit.com/r/oasisnetwork/",
+        "about": "Oasis Network profile on Reddit",
+        "pic": "@/assets/logos/ROSE.svg"
+      }
+    ],
+    "wroseavac": [
+      {
+        "name": "Oasis twitter account",
+        "feed": "https://rss.app/feeds/HxuL5ITCFLwz6H6b.xml",
+        "site": "https://x.com/OasisProtocol",
+        "about": "Oasis Official Twitter account",
+        "pic": "@/assets/logos/ROSE.svg"
+      },
+      {
+        "name": "Oasis Network Reddit",
+        "feed": "https://reddit.com/r/oasisnetwork/.rss",
+        "site": "https://reddit.com/r/oasisnetwork/",
+        "about": "Oasis Network profile on Reddit",
+        "pic": "@/assets/logos/ROSE.svg"
+      }
+    ],
+    "layerzero": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzerobsc": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzeropoly": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzeroavac": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzeroop": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzeroarb": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "layerzerobase": [
+      {
+        "name": "LayerZero twitter account",
+        "feed": "https://rss.app/feeds/HYUPR1m8YkccrN5y.xml",
+        "site": "https://x.com/LayerZero_Core",
+        "about": "LayerZero Official Twitter account",
+        "pic": "@/assets/logos/ZRO.svg"
+      }
+    ],
+    "mewsol": [
+      {
+        "name": "MEW twitter account",
+        "feed": "https://rss.app/feeds/xHrzoUxCrCf2uXUa.xml",
+        "site": "https://x.com/mew",
+        "about": "MEW Official Twitter account",
+        "pic": "@/assets/logos/MEW.svg"
+      }
+    ],
+    "blur": [
+      {
+        "name": "BLUR twitter account",
+        "feed": "https://rss.app/feeds/w1DL9CaWr7VdIqLC.xml",
+        "site": "https://twitter.com/blur_io",
+        "about": "BLUR Official Twitter account",
+        "pic": "@/assets/logos/BLUR.svg"
+      }
+    ],
+    "echelonprime": [
+      {
+        "name": "Echelon twitter account",
+        "feed": "https://rss.app/feeds/iWXV79t5nKST78D6.xml",
+        "site": "https://x.com/EchelonFND",
+        "about": "Echelon Prime Foundation Official Twitter account",
+        "pic": "@/assets/logos/PRIME.svg"
+      }
+    ],
+    "echelonprimebase": [
+      {
+        "name": "Echelon twitter account",
+        "feed": "https://rss.app/feeds/iWXV79t5nKST78D6.xml",
+        "site": "https://x.com/EchelonFND",
+        "about": "Echelon Prime Foundation Official Twitter account",
+        "pic": "@/assets/logos/PRIME.svg"
+      }
+    ],
+    "creditcoin": [
+      {
+        "name": "Creditcoin twitter account",
+        "feed": "https://rss.app/feeds/AcE6j1WIhfaTwXfu.xml",
+        "site": "https://x.com/creditcoin",
+        "about": "Creditcoin Official Twitter account",
+        "pic": "@/assets/logos/CTC.svg"
+      }
+    ],
+    "etherfi": [
+      {
+        "name": "Ether.fi twitter account",
+        "feed": "https://rss.app/feeds/4d70nn9hAWjmTTs1.xml",
+        "site": "https://x.com/ether_fi",
+        "about": "Ether.fi Official Twitter account",
+        "pic": "@/assets/logos/ETHFI.svg"
+      }
+    ],
+    "etherfiarb": [
+      {
+        "name": "Ether.fi twitter account",
+        "feed": "https://rss.app/feeds/4d70nn9hAWjmTTs1.xml",
+        "site": "https://x.com/ether_fi",
+        "about": "Ether.fi Official Twitter account",
+        "pic": "@/assets/logos/ETHFI.svg"
+      }
+    ],
+    "aethir": [
+      {
+        "name": "Aethir twitter account",
+        "feed": "https://rss.app/feeds/Kodot2a1sLrAEWUT.xml",
+        "site": "https://x.com/AethirCloud",
+        "about": "Aethir Official Twitter account",
+        "pic": "@/assets/logos/ATH.svg"
+      }
+    ],
+    "aethirarb": [
+      {
+        "name": "Aethir twitter account",
+        "feed": "https://rss.app/feeds/Kodot2a1sLrAEWUT.xml",
+        "site": "https://x.com/AethirCloud",
+        "about": "Aethir Official Twitter account",
+        "pic": "@/assets/logos/ATH.svg"
+      }
+    ],
+    "aethirsol": [
+      {
+        "name": "Aethir twitter account",
+        "feed": "https://rss.app/feeds/Kodot2a1sLrAEWUT.xml",
+        "site": "https://x.com/AethirCloud",
+        "about": "Aethir Official Twitter account",
+        "pic": "@/assets/logos/ATH.svg"
+      }
+    ],
+    "peanutsol": [
+      {
+        "name": "PNUT - Peanut The Squirrel twitter account",
+        "feed": "https://rss.app/feeds/Y1jPATU61pRltpOS.xml",
+        "site": "https://x.com/pnutsolana",
+        "about": "PNUT - Peanut The Squirrel Official Twitter account",
+        "pic": "@/assets/logos/PNUT.svg"
+      }
+    ],
+    "convexfinance": [
+      {
+        "name": "Convex Finance twitter account",
+        "feed": "https://rss.app/feeds/FuCfJ1TaQg7pPyd5.xml",
+        "site": "https://twitter.com/convexfinance",
+        "about": "Convex Finance Official Twitter account",
+        "pic": "@/assets/logos/CVX.svg"
+      }
+    ],
+    "onyxcoin": [
+      {
+        "name": "Onyxcoin twitter account",
+        "feed": "https://rss.app/feeds/ywGxDCXhtaLOAwLN.xml",
+        "site": "https://twitter.com/OnyxDAO",
+        "about": "Onyxcoin Official Twitter account",
+        "pic": "@/assets/logos/XCN.svg"
+      }
+    ],
+    "onyxcoinbsc": [
+      {
+        "name": "Onyxcoin twitter account",
+        "feed": "https://rss.app/feeds/ywGxDCXhtaLOAwLN.xml",
+        "site": "https://twitter.com/OnyxDAO",
+        "about": "Onyxcoin Official Twitter account",
+        "pic": "@/assets/logos/XCN.svg"
+      }
+    ],
+    "onyxcoinbase": [
+      {
+        "name": "Onyxcoin twitter account",
+        "feed": "https://rss.app/feeds/ywGxDCXhtaLOAwLN.xml",
+        "site": "https://twitter.com/OnyxDAO",
+        "about": "Onyxcoin Official Twitter account",
+        "pic": "@/assets/logos/XCN.svg"
+      }
+    ],
+    "spaceid": [
+      {
+        "name": "Space ID twitter account",
+        "feed": "https://rss.app/feeds/ePHNABGzOY9Kjxz5.xml",
+        "site": "https://x.com/SpaceIDProtocol",
+        "about": "Space ID Official Twitter account",
+        "pic": "@/assets/logos/ID.svg"
+      }
+    ],
+    "spaceidbsc": [
+      {
+        "name": "Space ID twitter account",
+        "feed": "https://rss.app/feeds/ePHNABGzOY9Kjxz5.xml",
+        "site": "https://x.com/SpaceIDProtocol",
+        "about": "Space ID Official Twitter account",
+        "pic": "@/assets/logos/ID.svg"
+      }
+    ],
+    "safepal": [
+      {
+        "name": "Space ID twitter account",
+        "feed": "https://rss.app/feeds/ePHNABGzOY9Kjxz5.xml",
+        "site": "https://x.com/SpaceIDProtocol",
+        "about": "Space ID Official Twitter account",
+        "pic": "@/assets/logos/SFP.svg"
+      }
+    ],
+    "safepalbsc": [
+      {
+        "name": "Space ID twitter account",
+        "feed": "https://rss.app/feeds/ePHNABGzOY9Kjxz5.xml",
+        "site": "https://x.com/SpaceIDProtocol",
+        "about": "Space ID Official Twitter account",
+        "pic": "@/assets/logos/SFP.svg"
+      }
+    ],
+    "bioprotocol": [
+      {
+        "name": "Bio Protocol twitter account",
+        "feed": "https://rss.app/feeds/qj0FQZbPnVqGIKjG.xml",
+        "site": "https://x.com/bioprotocol",
+        "about": "Bio Protocol Official Twitter account",
+        "pic": "@/assets/logos/BIO.svg"
+      }
+    ],
+    "bioprotocolsol": [
+      {
+        "name": "Bio Protocol twitter account",
+        "feed": "https://rss.app/feeds/qj0FQZbPnVqGIKjG.xml",
+        "site": "https://x.com/bioprotocol",
+        "about": "Bio Protocol Official Twitter account",
+        "pic": "@/assets/logos/BIO.svg"
+      }
+    ],
+    "vana": [
+      {
+        "name": "Vana twitter account",
+        "feed": "https://rss.app/feeds/IjXn1Nz4uCqleyFA.xml",
+        "site": "https://x.com/withvana",
+        "about": "Vana Official Twitter account",
+        "pic": "@/assets/logos/VANA.svg"
+      }
+    ],
+    "bookofmemesol": [
+      {
+        "name": "Book of Meme twitter account",
+        "feed": "https://rss.app/feeds/KyVr1whNrRF9WDTd.xml",
+        "site": "https://twitter.com/Darkfarms1",
+        "about": "Book of Meme Official Twitter account",
+        "pic": "@/assets/logos/BOME.svg"
+      }
+    ],
+    "autoseth": [
+      {
+        "name": "CryptoAutos News",
+        "feed": "https://rss.app/feeds/bwLpT9u1tzKhvjOf.xml",
+        "site": "https://twitter.com/CryptoAutos_",
+        "about": "Autos Official Twitter account",
+        "pic": "@/assets/logos/AUTOS.png"
+      }
+    ],
+    "sui": [
+      {
+        "name": "Sui twitter account",
+        "feed": "https://rss.app/feeds/9svTWurfP8GLWvRB.xml",
+        "site": "https://twitter.com/SuiNetwork",
+        "about": "Sui Official Twitter account",
+        "pic": "@/assets/logos/SUI.svg"
+      }
+    ],
+    "usdcsui": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
+    ],
+    "kasplex": [
+      {
+        "name": "Kasplex X",
+        "feed": "https://rss.app/feeds/OnHFLphCyORZJC5s.xml",
+        "site": "https://x.com/kasplex",
+        "about": "Official Kasplex X",
+        "pic": "@/assets/logos/KASPLEX.svg"
+      }
+    ],
+    "wkaskasplex": [
+      {
+        "name": "Kasplex X",
+        "feed": "https://rss.app/feeds/OnHFLphCyORZJC5s.xml",
+        "site": "https://x.com/kasplex",
+        "about": "Official Kasplex X",
+        "pic": "@/assets/logos/KASPLEX.svg"
+      }
+    ],
+    "sonic": [
+      {
+        "name": "Sonic Twitter",
+        "feed": "https://rss.app/feeds/Q2DnPwAD2ys4BGsi.xml",
+        "site": "https://x.com/SonicLabs",
+        "about": "Official Sonic Twitter",
+        "pic": "@/assets/logos/SONIC.svg"
+      }
+    ],
+    "usdcsonic": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
+    ],
+    "usdtsonic": [
+      {
+        "name": "Tether Reddit",
+        "feed": "https://reddit.com/r/Tether/.rss",
+        "site": "https://reddit.com/r/Tether",
+        "about": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
+        "pic": "@/assets/logos/USDT.svg"
+      },
+      {
+        "name": "Tether Twitter",
+        "feed": "https://rss.app/feeds/xJRDF7TtcLWgwx91.xml",
+        "site": "https://twitter.com/tether_to",
+        "about": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
+        "pic": "@/assets/logos/USDT.svg"
+      }
+    ],
+    "wsonic": [
+      {
+        "name": "Sonic Twitter",
+        "feed": "https://rss.app/feeds/Q2DnPwAD2ys4BGsi.xml",
+        "site": "https://x.com/SonicLabs",
+        "about": "Official Sonic Twitter",
+        "pic": "@/assets/logos/SONIC.svg"
+      }
+    ],
+    "veil": [
+      {
+        "name": "Veil Twitter",
+        "feed": "https://rss.app/feeds/3IyIcxyhh6k4Ds8e.xml",
+        "site": "https://twitter.com/ProjectVeil",
+        "about": "Official Veil Project Twitter.",
+        "pic": "@/assets/logos/VEIL.svg"
+      },
+      {
+        "name": "Veil Reddit",
+        "feed": "https://www.reddit.com/r/veil.rss",
+        "site": "https://www.reddit.com/r/veil/",
+        "about": "Official Veil Reddit.",
+        "pic": "@/assets/logos/VEIL.svg"
       }
     ]
   }
