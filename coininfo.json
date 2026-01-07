@@ -23778,6 +23778,78 @@
       "https://www.soniclabs.com/whitepaper"
     ]
   },
+  "atom": {
+    "description": "The Cosmos stack is the most widely-adopted and battle-tested Layer 1 blockchain technology stack, in production with 200+ chains today. It is performant, customizable, and EVM-compatible, offering engineers full end-to-end control of their blockchain infrastructure and implementation.",
+    "total_supply": 478284220,
+    "circulating_supply": 478284220,
+    "websites": [
+      "https://cosmos.network"
+    ],
+    "explorers": [
+      "https://www.mintscan.io/cosmos",
+      "https://atomscan.com"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/cosmosOG",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/cosmos",
+    "reddit": "",
+    "repository": "https://github.com/COSMOS",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "atom",
+    "coinMarketCapID": "cosmos",
+    "coingeckoID": "cosmos",
+    "auditInfos": [
+      {
+        "auditor": "CertiK",
+        "reportUrl": "https://skynet.certik.com/projects/cosmos?utm_source=CMC&utm_campaign=AuditByCertiKLink"
+      }
+    ],
+    "whitepaper": [
+      "https://cosmos.network/whitepaper"
+    ]
+  },
+  "usdccosmoshub": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://www.mintscan.io/cosmos/assets/ibc%2FF663521BF1836B00F5F177680F74BFB9A8B5654A694D0D2BC249E03CF2509013"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
+  },
   "veil": {
     "description": "Veil is a privacy-focused cryptocurrency using RingCT technology (similar to Monero) with stealth addresses, confidential transactions, and Bulletproofs for enhanced privacy and security.",
     "total_supply": 300000000,
