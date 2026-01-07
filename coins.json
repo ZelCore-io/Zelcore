@@ -4992,6 +4992,7 @@
     "coin": "usdterc",
     "name": "Tether ERC20",
     "uri": [
+      "usdterc",
       "tether",
       "usdt"
     ],
@@ -17359,6 +17360,51 @@
     },
     "color": "#f5f5f5",
     "decimals": 18
+  },
+  "atom": {
+    "coin": "atom",
+    "name": "ATOM",
+    "uri": [
+      "atom"
+    ],
+    "unit": "ATOM",
+    "type": "cosmoshub",
+    "family": "cosmos",
+    "coinType": "native",
+    "logolink": "@/assets/logos/ATOM.svg",
+    "slip": 118,
+    "fee": 130000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.015,
+      "fast": 0.02
+    },
+    "denom": "uatom",
+    "color": "#2e344c",
+    "decimals": 6
+  },
+  "usdccosmoshub": {
+    "coin": "usdccosmoshub",
+    "name": "USD Coin Cosmos Hub",
+    "uri": [
+      "usdcoin",
+      "usdc"
+    ],
+    "unit": "USDC",
+    "type": "cosmoshub",
+    "family": "cosmos",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDC.svg",
+    "fee": 130000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.015,
+      "fast": 0.02
+    },
+    "contractAddress": "ibc/F663521BF1836B00F5F177680F74BFB9A8B5654A694D0D2BC249E03CF2509013",
+    "denom": "uusdc",
+    "color": "#2775CA",
+    "decimals": 6
   },
   "veil": {
     "coin": "veil",

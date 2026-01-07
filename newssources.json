@@ -10639,6 +10639,31 @@
         "pic": "@/assets/logos/SONIC.svg"
       }
     ],
+    "atom": [
+      {
+        "name": "Cosmoshub twitter account",
+        "feed": "https://rss.app/feeds/zXkr0aXIHarGBNhl.xml",
+        "site": "https://x.com/cosmoshub",
+        "about": "Cosmoshub Official Twitter account",
+        "pic": "@/assets/logos/ATOM.svg"
+      }
+    ],
+    "usdccosmoshub": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
+    ],
     "veil": [
       {
         "name": "Veil Twitter",
