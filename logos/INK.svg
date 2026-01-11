@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 150 150">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #7132f5;
+        fill-rule: evenodd;
+      }
+
+      .st2 {
+        fill: #fff;
+      }
+
+      .st3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <circle class="st2" cx="75" cy="75" r="75"/>
+  <g class="st3">
+    <path class="st1" d="M150,75C150,33.6,116.4,0,75,0,33.6,0,0,33.6,0,75c0,41.4,33.6,75,75,75s75-33.6,75-75ZM85.7,131.1c0,5.1-4.2,9.2-10.1,9.3-.2,0-.3,0-.5,0h-.2c-36.1,0-65.4-29.4-65.4-65.5S38.8,9.5,75,9.5s.4,0,.6,0c6.7.1,10.1,4.3,10.1,9.3s-4.6,9-9.4,9-5.1,0-9.7.4c-4.6.4-9.4,4.2-9.4,9.3s4.2,9.4,9.4,9.4h41.2c5.2,0,9.4,4.2,9.4,9.3s-4.2,9.3-9.4,9.3h-63.4c-5.2,0-9.4,4.2-9.4,9.4s4.2,9.3,9.4,9.3h32c5.2,0,9.4,4.2,9.4,9.4s-4.2,9.3-9.4,9.3h-9.7c-5.2,0-9.4,4.2-9.4,9.3s4.3,9,9.4,9.3c.4,0,.8,0,1.1,0,1.8.1,2.8.2,3.8.3,1.2,0,2.4,0,5,0,5.2,0,9.3,3.8,9.3,9Z"/>
+  </g>
+</svg>
