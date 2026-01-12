@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 94
-- **Total Coins (including tokens)**: 721
+- **Total Blockchains**: 95
+- **Total Coins (including tokens)**: 723
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -13,6 +13,7 @@ This document provides an overview of the supported blockchains and their associ
 | algorand | Algorand | algorand | ALGO | USDT, USDC, PLANETS, XET, OPUL, STBL, FLUX-ALGO |
 | anon | Anon | zcash | ANON | None |
 | arbitrum | Ethereum ARB | arbitrum | ETH | ARB, USDC.E, DAI, USDT, USDe, LDO, PENDLE, ZRO, ETHFI, ATH |
+| atom | ATOM | cosmoshub | ATOM | USDC |
 | avaxavalanchec | Avax C-Chain | avalanchec | AVAX-C | USDC, USDC.E, USDT, USDT.E, WETH.E, WBTC.E, DAI.E, LINK.E, WAVAX, JOE, QI, SAVAX, YUSD, FLUX-AVAX, wROSE, ZRO |
 | avaxavalanchep | Avax P-Chain | avalanchep | AVAX-P | None |
 | avaxavalanchex | Avax X-Chain | avalanchex | AVAX-X | None |
