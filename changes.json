@@ -1,27 +1,18 @@
 {
-  "version": "8.24.2",
-  "codename": "Veil Integration & Enhanced Security",
+  "version": "8.25.0",
+  "codename": "Cosmos Integration & Expanded Token Support",
   "info": [
-    "Version 8.24.2 introduces full support for the Veil privacy blockchain and important bug fixes across multiple blockchains."
+    "Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support."
   ],
   "bugs": [
-    "ETH Token Fees: Fixed native coin balance check for gas fees on ERC-20 and other ETH-like tokens.",
-    "Monero Transactions: Fixed patch issue affecting Monero transaction processing.",
-    "Fusion Algorand Claiming: Resolved issue with claiming rewards using Algorand addresses.",
-    "Transaction Fee Validation: Added fee checks before sending to prevent failed transactions.",
+    "Kadena SpireKey Accounts: Implemented sending to SpireKey (r:) accounts with clear user messaging.",
+    "Veil Sending: Enhanced transaction building with proper UTXO handling and zerocoin conversion detection.",
     "Various UI/UX improvements and stability fixes",
     "General Cleanups: Package and copy refinements across the app."
   ],
   "features": [
-    "Quick Receive Button: New receive button in portfolio for easy QR code and address access.",
-    "Message Signing: Now available to all users (previously ZelCore+ only).",
-    "Wallet Editing: Added edit icon to portfolio for easier wallet management.",
-    "Experience: Improved dropdown navigation.",
-    "Veil Blockchain Support: Complete integration of the Veil privacy-focused blockchain: Native VEIL coin support with full send/receive functionality; Privacy-preserving transaction capabilities; Dedicated Veil API and explorer integration; Support for viewing spend and view keys (public/secret).",
-    "Beldex Library: Updated to v2.0.0 to support the latest Beldex network fork.",
-    "Login Experience: Improved login sections with refactored token import and notification triggers.",
-    "Platform Notifications: Enhanced mobile-friendly notification display.",
-    "Solana Logo: Updated to new official branding.",
-    "Terra Configuration: Adjusted Terra blockchain settings."
+    "Cosmos Hub Blockchain Support: Full integration including native ATOM coin with send/receive, USDC token support, WalletConnect for Cosmos dApps, manual IBC token import, transaction history, and news feed integration.",
+    "CLORE Ecosystem Expansion: Added ETH token support on the CLORE blockchain network.",
+    "FluxNodes Dashboard: Enhanced node management with new Start All Nodes functionality and improved individual node start dialogs."
   ]
 }

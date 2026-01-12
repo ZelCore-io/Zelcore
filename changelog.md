@@ -1,6 +1,31 @@
 
 # Changelog
 
+## [8.25.0] – Cosmos Integration & Expanded Token Support
+
+Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support.
+
+### Added
+
+- **Cosmos Hub Blockchain Support:** Full integration including:
+  - Native ATOM coin with send/receive
+  - USDC token support
+  - WalletConnect for Cosmos dApps
+  - Manual IBC token import
+  - Transaction history
+  - News feed integration
+
+- **CLORE Ecosystem Expansion:** Added ETH token support on the CLORE blockchain network
+
+### Updated
+
+- **FluxNodes Dashboard:** Enhanced node management with new "Start All Nodes" functionality and improved individual node start dialogs
+
+### Fixed
+
+- **Kadena SpireKey Accounts:** Implemented sending to SpireKey (`r:`) accounts with clear user messaging
+- **Veil Sending:** Enhanced transaction building with proper UTXO handling and zerocoin conversion detection
+
 ## **[8.24.2] – User Interface Improvements**
 
 ### **Added**

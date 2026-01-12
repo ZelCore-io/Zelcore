@@ -4769,6 +4769,100 @@
       "https://docs.cardano.org/en/latest"
     ]
   },
+  "snek": {
+    "description": "SNEK is a community-driven meme token on the Cardano blockchain, inspired by the viral internet snake meme. It has become the largest meme coin in the Cardano ecosystem with over 30,000 holders.",
+    "total_supply": 76715880000,
+    "circulating_supply": 76715880000,
+    "websites": [
+      "https://snek.com",
+      "https://snek.fun"
+    ],
+    "explorers": [
+      "https://cexplorer.io/asset/asset1kmp6nmdx5ptmn5cyptfrqklsn2vw7wgxubhkq5"
+    ],
+    "medium": "",
+    "discord": "https://discord.gg/snekcoin",
+    "telegram": "https://t.me/snekcoinada",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/snek",
+    "reddit": "https://reddit.com/r/snekcoinada",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "https://tiktok.com/@snekcoinada",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "snek",
+    "coingeckoID": "snek",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "wmt": {
+    "description": "World Mobile Token (WMT) is the native utility token for World Mobile, a project aiming to connect the unconnected by providing affordable mobile and internet access in underserved regions using blockchain technology and a sharing economy model.",
+    "total_supply": 2000000000,
+    "circulating_supply": 900000000,
+    "websites": [
+      "https://worldmobile.io",
+      "https://worldmobiletoken.com"
+    ],
+    "explorers": [
+      "https://cexplorer.io/asset/asset1f4fp3guzxs8ac4j3vvskeypc3r7vvw6vr7vdqv"
+    ],
+    "medium": "https://worldmobile.medium.com",
+    "discord": "https://discord.gg/worldmobile",
+    "telegram": "https://t.me/WorldMobileTeam",
+    "bitcointalk": "",
+    "facebook": "https://facebook.com/WorldMobileToken",
+    "twitter": "https://twitter.com/wmtoken",
+    "reddit": "https://reddit.com/r/WorldMobileToken",
+    "repository": "https://github.com/world-mobile-group",
+    "youtube": "https://youtube.com/c/WorldMobile",
+    "instagram": "https://instagram.com/WorldMobileTeam",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "https://linkedin.com/company/worldmobilegroup",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "world-mobile-token",
+    "coingeckoID": "world-mobile-token",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://worldmobile.io/whitepaper"
+    ]
+  },
+  "min": {
+    "description": "Minswap is the first multi-pool decentralized exchange (DEX) on the Cardano blockchain. MIN is the governance and utility token of the Minswap protocol, used for voting on proposals and earning protocol fees.",
+    "total_supply": 5000000000,
+    "circulating_supply": 3500000000,
+    "websites": [
+      "https://minswap.org",
+      "https://linktr.ee/minswap"
+    ],
+    "explorers": [
+      "https://cexplorer.io/asset/asset1a38hr3593e5tf5fjmfvfjm5s3tfxxnayfd2d8m"
+    ],
+    "medium": "https://minswap-labs.medium.com",
+    "discord": "https://discord.gg/minswap",
+    "telegram": "https://t.me/MinswapMafia",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/MinswapDEX",
+    "reddit": "https://reddit.com/r/MinSwap",
+    "repository": "https://github.com/minswap",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "minswap",
+    "coingeckoID": "minswap",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.minswap.org"
+    ]
+  },
   "ripple": {
     "description": "Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=\"https://coingecko.com/en/coins/ethereum\">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.\r\n\r\nRipple was originally founded by a single company, <a href=\"https://crunchbase.com/organization/ripple-labs\">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=\"https://coingecko.com/en/coins/bitcoin\">bitcoin’s</a> development. It also doesn’t have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself — around 60 billion at the latest count.\r\n\r\nEven at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple’s price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency’s value, and isn’t something Ripple Labs plans to do anytime soon.\r\n\r\nIn actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.\r\n\r\nXRP by Ripple price can be found on this page alongside the market capitalization and additional stats.\r\n\r\n",
     "total_supply": 100000000000,
