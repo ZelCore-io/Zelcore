@@ -4,7 +4,7 @@
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
 - **Total Blockchains**: 95
-- **Total Coins (including tokens)**: 723
+- **Total Coins (including tokens)**: 726
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -35,7 +35,7 @@ This document provides an overview of the supported blockchains and their associ
 | bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI, USDe, FDUSD, LDO, DEXE, AIOZ, PENDLE, wROSE, ZRO, XCN, ID, SFP |
 | btcp | Bitcoin Private | zcash | BTCP | None |
 | bzedge | BZEdge | zcash | BZE | None |
-| cardano | Cardano | cardano | ADA | None |
+| cardano | Cardano | cardano | ADA | SNEK, WMT, MIN |
 | clore | Clore.AI | blockbook | CLORE | None |
 | commercium | Commercium | zcash | CMM | None |
 | dash | Dash | blockbook | DASH | None |
