@@ -1,8 +1,8 @@
 {
-  "version": "8.25.0",
-  "codename": "Cosmos Integration & Expanded Token Support",
+  "version": "8.26.1",
+  "codename": "Cardano Enhancement & Kaspa Improvements",
   "info": [
-    "Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support."
+    "Version 8.26.1 expands Cardano capabilities with native token support and WalletConnect integration, while introducing Kaspa transaction optimizations and performance enhancements."
   ],
   "bugs": [
     "Kadena SpireKey Accounts: Implemented sending to SpireKey (r:) accounts with clear user messaging.",
