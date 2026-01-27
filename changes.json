@@ -5,14 +5,14 @@
     "Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support."
   ],
   "bugs": [
-    "Kadena SpireKey Accounts: Implemented sending to SpireKey (r:) accounts with clear user messaging.",
-    "Veil Sending: Enhanced transaction building with proper UTXO handling and zerocoin conversion detection.",
+    "Kaspa Transaction Handling: Improved UTXO management and transaction processing with minimum transfer threshold set to 0.3 KAS for change outputs.",
+    "Kaspa Fee Calculation: Enhanced fee calculation and change handling for more efficient transactions.",
+    "Kaspa UTXO Selection: Optimized UTXO selection algorithm for better transaction efficiency.",
     "Various UI/UX improvements and stability fixes",
-    "General Cleanups: Package and copy refinements across the app."
+    "Performance optimizations and general bug fixes"
   ],
   "features": [
-    "Cosmos Hub Blockchain Support: Full integration including native ATOM coin with send/receive, USDC token support, WalletConnect for Cosmos dApps, manual IBC token import, transaction history, and news feed integration.",
-    "CLORE Ecosystem Expansion: Added ETH token support on the CLORE blockchain network.",
-    "FluxNodes Dashboard: Enhanced node management with new Start All Nodes functionality and improved individual node start dialogs."
+    "Cardano Native Token Support: Full support for Cardano native tokens including SNEK (Snek), MIN (Minswap), and WMT (World Mobile Token) with manual token import functionality.",
+    "Cardano WalletConnect Integration: Complete WalletConnect support enabling seamless connection to Cardano dApps, transaction signing through WalletConnect, and support for CIP-30 wallet standard."
   ]
 }
