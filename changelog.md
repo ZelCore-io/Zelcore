@@ -1,6 +1,30 @@
 
 # Changelog
 
+## [8.26.0] – Cardano Enhancement & Kaspa Improvements
+
+Version 8.26.0 expands Cardano capabilities with native token support and WalletConnect integration, while introducing Kaspa transaction optimizations and performance enhancements.
+
+### Added
+
+- **Cardano Token Support:** Full native token support for the Cardano blockchain:
+  - SNEK (Snek) token support
+  - MIN (Minswap) token support
+  - WMT (World Mobile Token) support
+  - Manual Cardano token import functionality
+
+- **Cardano WalletConnect Integration:** Complete WalletConnect support for Cardano enabling:
+  - Seamless connection to Cardano dApps
+  - Transaction signing through WalletConnect
+  - Support for CIP-30 wallet standard
+
+### Updated
+
+- **Kaspa Transaction Handling:** Improved UTXO management and transaction processing:
+  - Minimum transfer threshold set to 0.3 KAS for change outputs
+  - Optimized UTXO selection for better transaction efficiency
+  - Enhanced fee calculation and change handling
+
 ## [8.25.0] – Cosmos Integration & Expanded Token Support
 
 Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support.
