@@ -23972,5 +23972,72 @@
     "coingeckoID": "veil",
     "auditInfos": [],
     "whitepaper": []
+  },
+  "osmo": {
+    "description": "Osmosis is the premier cross-chain DeFi hub. As the liquidity center and primary trading venue of Cosmos – the open, emergent ecosystem of sovereign Layer 1s connected with the Inter-Blockchain Communication protocol (IBC) – it is the access point for the wide world of appchains, the gateway to the interchain.",
+    "total_supply": 984943360,
+    "circulating_supply": 760703900,
+    "websites": [
+      "https://osmosis.zone"
+    ],
+    "explorers": [
+      "https://www.mintscan.io/osmosis",
+      "https://atomscan.com/osmosis"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "https://t.me/osmosis_chat",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/osmosis",
+    "reddit": "",
+    "repository": "https://github.com/osmosis-labs",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "osmo",
+    "coinMarketCapID": "osmosis",
+    "coingeckoID": "osmosis",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://docs.osmosis.zone"
+    ]
+  },
+  "usdcosmosis": {
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+    "total_supply": 293184174,
+    "circulating_supply": 293184174,
+    "websites": [
+      "https://circle.com/en/usdc",
+      "https://centre.io"
+    ],
+    "explorers": [
+      "https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://ethplorer.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://enjinx.io/eth/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "https://www.mintscan.io/cosmos/assets/ibc%2FF663521BF1836B00F5F177680F74BFB9A8B5654A694D0D2BC249E03CF2509013"
+    ],
+    "medium": "https://medium.com/centre-blog",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "https://github.com/centrehq/centre-tokens",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "USDC",
+    "coinMarketCapID": "usd-coin",
+    "coingeckoID": "usd-coin",
+    "auditInfos": [],
+    "whitepaper": [
+      "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf"
+    ]
   }
 }
