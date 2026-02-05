@@ -10679,6 +10679,31 @@
         "about": "Official Veil Reddit.",
         "pic": "@/assets/logos/VEIL.svg"
       }
+    ],
+    "osmo": [
+      {
+        "name": "Osmosis twitter account",
+        "feed": "https://rss.app/feeds/855yN2f31vbJ1fsg.xml",
+        "site": "https://x.com/osmosis",
+        "about": "Osmosis Official Twitter account",
+        "pic": "@/assets/logos/OSMO.svg"
+      }
+    ],
+    "usdcosmosis": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a type of cryptocurrency that is referred to as a stablecoin created by Coinbase.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
     ]
   }
 }
