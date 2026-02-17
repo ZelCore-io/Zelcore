@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 95
-- **Total Coins (including tokens)**: 726
+- **Total Blockchains**: 96
+- **Total Coins (including tokens)**: 728
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -73,6 +73,7 @@ This document provides an overview of the supported blockchains and their associ
 | neo | NEO Legacy | neo | NEO | FISH |
 | ontology | Ontology | ontology | ONT | None |
 | optimism | Ethereum OP | optimism | ETH | OP, USDC, DAI, USDT, USDe, PENDLE, ZRO |
+| osmo | OSMO | osmosis | OSMO | USDC |
 | raptoreum | Raptoreum | electrum | RTM | None |
 | ravencoin | Ravencoin | btc | RVN | NAHAN, SEEDMONEY |
 | ripple | XRP | ripple | XRP | None |
