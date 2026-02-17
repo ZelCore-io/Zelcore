@@ -1,6 +1,57 @@
 
 # Changelog
 
+## [8.27.0] – Address Generation Engine & Osmosis Integration
+
+Version 8.27.0 introduces a brand-new address generation engine supporting 30+ blockchain families, adds Osmosis blockchain support, and brings performance improvements across the application.
+
+### Added
+
+- **Address Generation Engine:** Completely new address derivation system covering all supported blockchain families:
+  - Unified BIP44 derivation logic with per-family address generators
+  - Support for Bitcoin variants (Legacy, SegWit, Native SegWit, Taproot), Ethereum-like chains, Cosmos-based chains, Solana, Cardano, TON, Tron, Substrate/Polkadot, Stellar, XRP, Algorand, Near, Sui, Kadena, Alephium, Ergo, Neo, Ontology, Veriblock, Veil, Kaspa, BNB, Avalanche, EOS, FIO, and more
+  - Encrypted address caching for faster wallet loading
+  - Automatic cache regeneration on version mismatch
+
+- **Osmosis (OSMO) Blockchain Support:** Full Cosmos-based chain integration including:
+  - Native OSMO coin with send/receive
+  - USDC token support
+
+- **FluxNodes Collateral Public Key:** Node operators can now view the collateral public key directly in the node dashboard and edit dialogs
+
+- **XRP Transaction History:** Expanded transaction history to include non-payment transaction types
+
+### Updated
+
+- **Application Performance:** Optimized build with improved code splitting for faster load times (vendor-vue, vendor-element-plus, vendor-blockchain, charts)
+- **Encryption Layer:** Refactored to use Web Crypto Subtle API with compression support for improved performance
+- **CSV Export:** Improved portfolio CSV export with enhanced data handling
+- **Veil Packages:** Updated Veil dependencies and adjusted patches
+
+## [8.26.0] – Cardano Enhancement & Kaspa Improvements
+
+Version 8.26.0 expands Cardano capabilities with native token support and WalletConnect integration, while introducing Kaspa transaction optimizations and performance enhancements.
+
+### Added
+
+- **Cardano Token Support:** Full native token support for the Cardano blockchain:
+  - SNEK (Snek) token support
+  - MIN (Minswap) token support
+  - WMT (World Mobile Token) support
+  - Manual Cardano token import functionality
+
+- **Cardano WalletConnect Integration:** Complete WalletConnect support for Cardano enabling:
+  - Seamless connection to Cardano dApps
+  - Transaction signing through WalletConnect
+  - Support for CIP-30 wallet standard
+
+### Updated
+
+- **Kaspa Transaction Handling:** Improved UTXO management and transaction processing:
+  - Minimum transfer threshold set to 0.3 KAS for change outputs
+  - Optimized UTXO selection for better transaction efficiency
+  - Enhanced fee calculation and change handling
+
 ## [8.25.0] – Cosmos Integration & Expanded Token Support
 
 Version 8.25.0 brings full Cosmos (ATOM) blockchain integration and expands the CLORE ecosystem with ETH token support.

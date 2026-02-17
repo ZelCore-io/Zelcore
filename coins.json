@@ -6530,6 +6530,7 @@
     ],
     "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
     "assetName": "534e454b",
+    "contractAddress": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
     "unit": "SNEK",
     "type": "cardano",
     "coinType": "token",
@@ -6554,10 +6555,11 @@
     ],
     "policyId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e",
     "assetName": "776f726c646d6f62696c65746f6b656e",
+    "contractAddress": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
     "unit": "WMT",
     "type": "cardano",
     "coinType": "token",
-    "logolink": "@/assets/logos/WMT.png",
+    "logolink": "@/assets/logos/WMT.svg",
     "fee": 0.168273,
     "feepolicy": {
       "economy": 1,
@@ -6578,10 +6580,11 @@
     ],
     "policyId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
     "assetName": "4d494e",
+    "contractAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
     "unit": "MIN",
     "type": "cardano",
     "coinType": "token",
-    "logolink": "@/assets/logos/MIN.png",
+    "logolink": "@/assets/logos/MIN.svg",
     "fee": 0.168273,
     "feepolicy": {
       "economy": 1,
@@ -14022,7 +14025,7 @@
       "basechain"
     ],
     "chainID": 8453,
-    "contractAddress": "0x4200000000000000000000000000000000000006",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "slip": 60,
     "unit": "ETH",
     "type": "base",
@@ -14060,7 +14063,7 @@
       "normal": 0.001,
       "fast": 1
     },
-    "contractAddress": "0x4200000000000000000000000000000000000006",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#0052FF",
     "decimals": 18
   },
@@ -14239,7 +14242,7 @@
       "normal": 0.05,
       "fast": 0.1
     },
-    "contractAddress": "",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#B0B0B0",
     "decimals": 18
   },
@@ -15522,7 +15525,7 @@
       "normal": 0.05,
       "fast": 0.1
     },
-    "contractAddress": "",
+    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "color": "#B0B0B0",
     "decimals": 18
   },
