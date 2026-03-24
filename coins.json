@@ -17319,18 +17319,18 @@
   },
   "igralabstestnet": {
     "coin": "igralabstestnet",
-    "name": "IgraLabs Testnet",
+    "name": "Kaspa (Igra Testnet)",
     "uri": [
       "igralabstestnet",
       "igralabs"
     ],
     "chainID": 19416,
     "slip": 60,
-    "unit": "KAS",
+    "unit": "tiKAS",
     "type": "igralabstest",
     "family": "ethlike",
     "coinType": "native",
-    "logolink": "@/assets/logos/IGRA.svg",
+    "logolink": "@/assets/logos/KAS_TEST.svg",
     "fee": 120000,
     "feepolicy": {
       "economy": 2000,
@@ -17338,6 +17338,52 @@
       "fast": 3000
     },
     "contractAddress": "",
+    "color": "#C68A23",
+    "decimals": 18
+  },
+  "igralabs": {
+    "coin": "igralabs",
+    "name": "Kaspa (Igra L2)",
+    "uri": [
+      "igralabs",
+      "igra"
+    ],
+    "chainID": 38833,
+    "slip": 60,
+    "unit": "iKAS",
+    "type": "igralabs",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/KAS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 1000,
+      "normal": 1500,
+      "fast": 2500
+    },
+    "contractAddress": "",
+    "color": "#C68A23",
+    "decimals": 18
+  },
+  "igralabsigra": {
+    "coin": "igralabsigra",
+    "name": "IGRA Token (Igra L2)",
+    "uri": [
+      "igralabsigra",
+      "igratoken"
+    ],
+    "unit": "IGRA",
+    "type": "igralabs",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/IGRA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 1000,
+      "normal": 1500,
+      "fast": 2500
+    },
+    "contractAddress": "0x093d77d397F8acCbaee0820345E9E700B1233cD1",
     "color": "#C68A23",
     "decimals": 18
   },

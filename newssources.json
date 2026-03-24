@@ -10589,6 +10589,24 @@
         "pic": "@/assets/logos/KASPLEX.svg"
       }
     ],
+    "igralabs": [
+      {
+        "name": "Igra Labs Twitter",
+        "feed": "https://rss.app/feeds/E8Z2Q9x5o7xEO3qJ.xml",
+        "site": "https://x.com/igra_labs",
+        "about": "Official Igra Labs Twitter",
+        "pic": "@/assets/logos/IGRA.svg"
+      }
+    ],
+    "igralabsigra": [
+      {
+        "name": "Igra Labs Twitter",
+        "feed": "https://rss.app/feeds/E8Z2Q9x5o7xEO3qJ.xml",
+        "site": "https://x.com/igra_labs",
+        "about": "Official Igra Labs Twitter",
+        "pic": "@/assets/logos/IGRA.svg"
+      }
+    ],
     "sonic": [
       {
         "name": "Sonic Twitter",

@@ -23736,6 +23736,64 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "igralabs": {
+    "description": "IgraLabs is a Layer 2 EVM-compatible blockchain built on the Kaspa network, featuring zkEVM technology and Based Rollup architecture.",
+    "total_supply": 0,
+    "circulating_supply": 0,
+    "websites": [
+      "https://igralabs.com"
+    ],
+    "explorers": [
+      "https://explorer.igralabs.com"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/igra_labs",
+    "reddit": "",
+    "repository": "https://github.com/IGRALABS",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "KAS",
+    "coinMarketCapID": "kaspa",
+    "coingeckoID": "kaspa",
+    "auditInfos": [],
+    "whitepaper": []
+  },
+  "igralabsigra": {
+    "description": "IGRA is the native governance and utility token of the Igra Network, a Layer 2 EVM-compatible blockchain built on the Kaspa network featuring zkEVM technology and Based Rollup architecture.",
+    "total_supply": 1000000000,
+    "circulating_supply": 0,
+    "websites": [
+      "https://igralabs.com"
+    ],
+    "explorers": [
+      "https://explorer.igralabs.com"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "https://x.com/igra_labs",
+    "reddit": "",
+    "repository": "https://github.com/IGRALABS",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "",
+    "auditInfos": [],
+    "whitepaper": []
+  },
   "sonic": {
     "description": "Sonic is the highest-performing EVM layer-1 blockchain, combining speed, incentives, and world-class infrastructure, powering the next generation of DeFi applications. The chain provides 400,000 TPS and sub-second finality.",
     "total_supply": 3222625000,
