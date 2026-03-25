@@ -1,21 +1,19 @@
 {
-  "version": "8.28.0",
-  "codename": "Address Generation Engine & Osmosis Integration",
+  "version": "8.30.0",
+  "codename": "Igra L2 Mainnet & KAS Bridge",
   "info": [
-    "Version 8.27.0 introduces a brand-new address generation engine supporting 30+ blockchain families, adds Osmosis blockchain support, and brings performance improvements across the application."
+    "Version 8.30.0 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform."
   ],
   "bugs": [
-    "Application Performance: Optimized build with improved code splitting for faster load times (vendor-vue, vendor-element-plus, vendor-blockchain, charts).",
-    "Encryption Layer: Refactored to use Web Crypto Subtle API with compression support for improved performance.",
-    "CSV Export: Improved portfolio CSV export with enhanced data handling.",
-    "Veil Packages: Updated Veil dependencies and adjusted patches.",
+    "CSV export fixes for Stellar and Solana",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
   "features": [
-    "Address Generation Engine: Completely new address derivation system covering all supported blockchain families including Bitcoin variants (Legacy, SegWit, Native SegWit, Taproot), Ethereum-like chains, Cosmos-based chains, Solana, Cardano, TON, Tron, Substrate/Polkadot, Stellar, XRP, Algorand, Near, Sui, Kadena, Alephium, Ergo, Neo, Ontology, Veriblock, Veil, Kaspa, BNB, Avalanche, EOS, FIO, and more. Features unified BIP44 derivation logic with per-family address generators, encrypted address caching for faster wallet loading, and automatic cache regeneration on version mismatch.",
-    "Osmosis (OSMO) Blockchain Support: Full Cosmos-based chain integration including native OSMO coin with send/receive and USDC token support.",
-    "FluxNodes Collateral Public Key: Node operators can now view the collateral public key directly in the node dashboard and edit dialogs.",
-    "XRP Transaction History: Expanded transaction history to include non-payment transaction types."
+    "Igra L2 Mainnet (iKAS): Full integration of the Igra L2 blockchain, an EVM-compatible Layer 2 built on Kaspa.",
+    "IGRA Token: Native IGRA governance token support on Igra L2.",
+    "Igra Bridge: In-app bridge for transferring KAS (Kaspa L1) to iKAS (Igra L2) with live balance and fiat estimates.",
+    "ZAP Auction Portal: Access the Zealous Auctions Protocol fair-launch DEX directly from ZelCore via WalletConnect.",
+    "Updated Electron and various core dependencies."
   ]
 }
