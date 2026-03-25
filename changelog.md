@@ -1,6 +1,73 @@
 
 # Changelog
 
+## [8.30.0] – Igra L2 Mainnet & KAS Bridge
+
+Version 8.30.0 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform.
+
+### Added
+
+- **Igra L2 Mainnet (iKAS):** Full integration of the Igra L2 blockchain (chain ID 38833), an EVM-compatible Layer 2 built on Kaspa:
+  - Native iKAS coin with send/receive
+  - IGRA governance token support
+  - WalletConnect support for Igra dApps
+  - News feed integration via Igra Labs official channels
+
+- **Igra Bridge:** In-app bridge dialog for transferring KAS (Kaspa L1) to iKAS (Igra L2):
+  - One-click bridging with live balance and fiat estimates
+  - Minimum bridge amount of 10 KAS
+  - Accessible from Kaspa and Igra coin screens
+
+- **ZAP Auction Portal:** Access the Zealous Auctions Protocol (ZAP) fair-launch DEX directly from ZelCore:
+  - Connect to ZAP via WalletConnect from the Igra coin screen
+  - Every transaction requires explicit approval inside ZelCore
+
+### Updated
+- **Dependencies:** Updated electron-builder, WalletConnect, Polkadot, Stellar, Solana, Cardano, Alephium, and other core libraries
+- **Igra Testnet:** Renamed to "Kaspa (Igra Testnet)" with distinct branding to differentiate from mainnet
+
+### Fixed
+
+- Various UI/UX improvements, linter fixes, and stability improvements
+- CSV export fixes for Stellar and Solana
+
+## [8.29.0] – Earn: Multi-Chain Staking
+
+Version 8.29.0 introduces Earn, a new multi-chain staking feature that lets you stake and earn rewards directly from ZelCore across Solana, Ethereum, and Flux (Titan) blockchains.
+
+### Added
+
+- **Earn – Multi-Chain Staking:** Stake assets and earn rewards without leaving your wallet:
+  - **Solana Staking:** Delegate SOL to earn staking rewards, powered by Chorus One validator infrastructure
+  - **Ethereum Vault Staking:** Stake ETH through Chorus One vault for competitive APY
+  - **Flux Titan Shared Nodes:** Participate in Flux Titan shared node staking with tiered lockup options (3, 6, or 12 months)
+
+- **Earn Quick Actions:** Stake button added to Portfolio and Coin Overview screens for quick access to staking
+
+- **Staking Provider Partnership:** Chorus One integrated as staking infrastructure provider for Solana and Ethereum
+
+### Fixed
+
+- Various UI/UX improvements and stability fixes
+
+## [8.28.0] – Rango DEX Integration
+
+Version 8.28.0 introduces Rango DEX swap support with client-side signing across multiple blockchains.
+
+### Added
+
+- **Rango DEX Swap Support:** Swap tokens across multiple blockchains directly from your wallet, supporting EVM chains, Solana, Tron, Cosmos, TON, NEAR, Sui, and Kadena
+
+### Updated
+
+- **Swap Experience:** Added loading spinner overlay during swap execution, dynamic status labels in swap history, and new swap progress notifications (swap sent, executing swap, approving token)
+- **Native Token Addresses:** Corrected contract addresses for Base, Arbitrum, and Ink chains to use the canonical native token address
+
+### Fixed
+
+- **Transaction Search:** Added safety guards to prevent crashes when accessing undefined transaction data
+- **Swap History Fees:** Fixed fee calculation to properly handle missing fee values
+
 ## [8.27.0] – Address Generation Engine & Osmosis Integration
 
 Version 8.27.0 introduces a brand-new address generation engine supporting 30+ blockchain families, adds Osmosis blockchain support, and brings performance improvements across the application.

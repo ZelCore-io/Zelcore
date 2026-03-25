@@ -3,8 +3,8 @@
 
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
-- **Total Blockchains**: 96
-- **Total Coins (including tokens)**: 728
+- **Total Blockchains**: 97
+- **Total Coins (including tokens)**: 730
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -54,7 +54,8 @@ This document provides an overview of the supported blockchains and their associ
 | genesis | Genesis | electrum | GENX | None |
 | groestlcoin | Groestlcoin | blockbook | GRS | None |
 | hush | Hush | zcash | HUSH | None |
-| igralabstestnet | IgraLabs Testnet | igralabstest | KAS | None |
+| igralabs | Kaspa (Igra L2) | igralabs | iKAS | IGRA |
+| igralabstestnet | Kaspa (Igra Testnet) | igralabstest | tiKAS | None |
 | ilcoin | ILCoin | btc | ILC | None |
 | ink | Ethereum Ink | ink | ETH | USDC.E |
 | kadena | Kadena | kadena | KDA | FLUX-KDA, BABE, KDL, BKA, KDS, MOK, KDX, SKDX, zUSDTEST, zUSD |
