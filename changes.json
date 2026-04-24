@@ -1,11 +1,14 @@
 {
-  "version": "8.30.0",
+  "version": "8.31.0",
   "codename": "Igra L2 Mainnet & KAS Bridge",
   "info": [
-    "Version 8.30.0 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform."
+    "Version 8.31.0 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform."
   ],
   "bugs": [
     "CSV export fixes for Stellar and Solana",
+    "Rewrote Solana NFT transfers using Metaplex Umi and DAS API. Now supports standard, programmable, compressed, and Metaplex Core NFTs.",
+    "Fixed Avalanche C-Chain transaction fetching and display.",
+    "Swap providers are now sorted by output amount so the BEST RATE badge reflects the true best deal.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
