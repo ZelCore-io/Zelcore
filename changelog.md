@@ -1,6 +1,24 @@
 
 # Changelog
 
+## [8.31.0] – Maintenance & Polish
+
+### Fixed
+
+- **Swap Provider Ranking:** Providers are now sorted by output amount, so the `BEST RATE` badge reflects the actual best deal. Provider cards also display the effective rate (buy/sell) consistent with the output column.
+- **Purchases:** Fixed the Finchpay logo by URL-encoding `#` characters in the asset URL.
+
+### Updated
+
+- **Clipboard:** Clipboard access has been refactored to go through the Electron main process, removing the deprecated renderer-side dependency.
+
+## [8.30.1] – Bug Fixes & Solana NFT Improvements
+
+### Fixed
+
+- **Solana NFT Transfers:** Rewrote NFT transfer logic using Metaplex Umi and DAS API. Now supports standard, programmable, compressed, and Metaplex Core NFTs.
+- **Avalanche C-Chain:** Fixed transaction fetching and display.
+
 ## [8.30.0] – Igra L2 Mainnet & KAS Bridge
 
 Version 8.30.0 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform.
