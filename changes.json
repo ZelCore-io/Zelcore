@@ -1,22 +1,19 @@
 {
-  "version": "8.31.1",
-  "codename": "Igra L2 Mainnet & KAS Bridge",
+  "version": "8.32.0",
+  "codename": "Performance & Polish",
   "info": [
-    "Version 8.31.1 brings full Igra L2 mainnet support to ZelCore, including a native KAS-to-iKAS bridge and access to the ZAP fair-launch auction platform."
+    "Version 8.32.0 modernizes ZelCore's interface foundation for a more stable, maintainable wallet, alongside larger FluxDrive uploads and smarter Buy/Sell crypto search."
   ],
   "bugs": [
-    "CSV export fixes for Stellar and Solana",
-    "Rewrote Solana NFT transfers using Metaplex Umi and DAS API. Now supports standard, programmable, compressed, and Metaplex Core NFTs.",
-    "Fixed Avalanche C-Chain transaction fetching and display.",
-    "Swap providers are now sorted by output amount so the BEST RATE badge reflects the true best deal.",
+    "Fixed the Sell crypto (off-ramp) available balance for XRP, XLM, Polkadot, and Flux, which previously failed to calculate.",
+    "Large FluxDrive uploads no longer time out and abort midway, so multi-gigabyte transfers can complete.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
   "features": [
-    "Igra L2 Mainnet (iKAS): Full integration of the Igra L2 blockchain, an EVM-compatible Layer 2 built on Kaspa.",
-    "IGRA Token: Native IGRA governance token support on Igra L2.",
-    "Igra Bridge: In-app bridge for transferring KAS (Kaspa L1) to iKAS (Igra L2) with live balance and fiat estimates.",
-    "ZAP Auction Portal: Access the Zealous Auctions Protocol fair-launch DEX directly from ZelCore via WalletConnect.",
-    "Updated Electron and various core dependencies."
+    "Modernized Interface: Rebuilt roughly 112 of the app's screens and dialogs on Vue 3's current architecture for a more stable, maintainable foundation, with no change to how the wallet looks or works.",
+    "FluxDrive Larger Uploads: Maximum upload size raised from 100 MB to 5 GB, now read live from the FluxDrive service.",
+    "Smarter Buy/Sell Search: The Buy and Sell crypto asset pickers now match by ticker symbol (e.g. BTC) and coin name (e.g. Bitcoin), not just internal ID.",
+    "Titan Staking APY: The Titan stake modify dialog now shows estimated APY per lockup period instead of the raw fee percentage."
   ]
 }
