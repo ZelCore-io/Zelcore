@@ -1,6 +1,30 @@
 
 # Changelog
 
+## [8.32.0] – Performance & Polish
+
+Version 8.32.0 modernizes ZelCore's interface foundation for a more stable, maintainable wallet, alongside larger FluxDrive uploads and smarter Buy/Sell crypto search.
+
+### Added
+
+- **FluxDrive Larger Uploads:** The maximum file upload size has been raised from 100 MB to 5 GB:
+  - Limit is now read live from the FluxDrive service, with a 5 GB bundled fallback
+  - The upload dialog shows the current cap (e.g. "5 GB")
+
+### Updated
+
+- **Performance & Stability:** Roughly 112 of the app's screens, panels, and dialogs — including Send, Receive, Portfolio, Login, Account, Welcome, Fusion, FluxDrive, Buy, and Sell — have been rebuilt on Vue 3's modern architecture. This is an internal modernization for a more maintainable, up-to-date foundation; the wallet looks and works exactly as before.
+- **Buy/Sell Crypto Search:** The asset pickers on the Buy and Sell crypto screens now match by ticker symbol (e.g. "BTC") and coin name (e.g. "Bitcoin"), not just the internal coin ID.
+- **Titan Staking:** The Titan stake modify dialog now shows estimated APY per lockup period instead of the raw fee percentage, matching the rest of the Earn flow.
+- **FluxDrive Service:** Migrated to new FluxDrive backend and IPFS gateway endpoints for continued uploads, downloads, and previews.
+
+### Fixed
+
+- **Sell Crypto Balance:** Fixed the available (spendable) balance shown on the Sell crypto screen for XRP, XLM, Polkadot, and Flux, which previously failed to calculate.
+- **FluxDrive Large Uploads:** Raised the client upload timeout so large, multi-gigabyte transfers no longer abort partway through.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
 ## [8.31.0] – Maintenance & Polish
 
 ### Fixed
