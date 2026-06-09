@@ -10648,6 +10648,58 @@
         "pic": "@/assets/logos/USDT.svg"
       }
     ],
+    "hyperevm": [
+      {
+        "name": "Hyperliquid Twitter",
+        "feed": "https://rss.app/feeds/PHT7nIhC6ceWkn3W.xml",
+        "site": "https://twitter.com/HyperliquidX",
+        "about": "Official Hyperliquid (HYPE) X account. HYPE is the native gas token of HyperEVM and the Hyperliquid L1 order-book DEX.",
+        "pic": "@/assets/logos/HYPERLIQUID.svg"
+      }
+    ],
+    "whypehyperevm": [
+      {
+        "name": "Hyperliquid Twitter",
+        "feed": "https://rss.app/feeds/PHT7nIhC6ceWkn3W.xml",
+        "site": "https://twitter.com/HyperliquidX",
+        "about": "Wrapped HYPE (WHYPE) is the ERC-20 wrapper of native HYPE on HyperEVM; news comes from the official Hyperliquid X account.",
+        "pic": "@/assets/logos/WHYPE.svg"
+      }
+    ],
+    "purrhyperevm": [
+      {
+        "name": "Hyperliquid Twitter",
+        "feed": "https://rss.app/feeds/PHT7nIhC6ceWkn3W.xml",
+        "site": "https://twitter.com/HyperliquidX",
+        "about": "PURR is the first HIP-1 native token on Hyperliquid; announcements come from the official Hyperliquid X account.",
+        "pic": "@/assets/logos/PURR.svg"
+      }
+    ],
+    "usdchyperevm": [
+      {
+        "name": "Circle Blog",
+        "feed": "https://medium.com/feed/circle-blog",
+        "site": "https://medium.com/circle-blog",
+        "about": "USD Coin (USDC) is a fully-reserved, fiat-backed stablecoin issued by Circle.",
+        "pic": "@/assets/logos/USDC.svg"
+      },
+      {
+        "name": "Circle Twitter",
+        "feed": "https://rss.app/feeds/rdKeOOKNrjk5uDfw.xml",
+        "site": "https://twitter.com/circle",
+        "about": "Official Circle Twitter",
+        "pic": "@/assets/logos/USDC.svg"
+      }
+    ],
+    "usdt0hyperevm": [
+      {
+        "name": "USDT0 Blog",
+        "feed": "https://api.paragraph.com/blogs/rss/@tetherzero",
+        "site": "https://blog.usdt0.to",
+        "about": "USDT0 is the canonical omnichain USDT on HyperEVM, 1:1 backed by Tether via the LayerZero OFT standard.",
+        "pic": "@/assets/logos/USDT0.svg"
+      }
+    ],
     "wsonic": [
       {
         "name": "Sonic Twitter",
