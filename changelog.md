@@ -1,6 +1,31 @@
 
 # Changelog
 
+## [8.33.0] – Hyperliquid HyperEVM
+
+Version 8.33.0 brings full Hyperliquid HyperEVM support to ZelCore — the native HYPE coin alongside the WHYPE, PURR, USDC, and USDT0 tokens — with WalletConnect and FIO Crypto Handle support.
+
+### Added
+
+- **Hyperliquid HyperEVM:** Added support for the Hyperliquid HyperEVM network (chain 999) and its native **HYPE** coin, including send, receive, and balance/transaction history. This brings the total to 98 supported blockchains.
+- **HyperEVM Tokens:** Added the **WHYPE**, **PURR**, **USDC**, and **USDT0** tokens on Hyperliquid HyperEVM.
+- **WalletConnect & FIO:** Hyperliquid HyperEVM (`eip155:999`) is now recognized over WalletConnect and supported by FIO Crypto Handles.
+
+### Fixed
+
+- **BitcoinZ Sending:** Updated the transaction library for BitcoinZ's Canopy hard fork, so BTCZ sends are signed with the correct consensus branch ID and accepted by the network.
+- **Buy/Sell History:** The transaction-details popup on the Buy and Sell crypto screens now displays its content left-aligned even when opened directly, without first visiting the Swap screen.
+
+## [8.32.1] – Maintenance
+
+### Updated
+
+- **Dependencies:** Routine same-major dependency updates for security and stability, including Vue, ethers, axios, and DOMPurify.
+
+### Fixed
+
+- **Zcash Sending:** Updated the transaction library for Zcash's NU6.2 hard fork, so ZEC sends are signed with the correct consensus branch ID and accepted by the network.
+
 ## [8.32.0] – Performance & Polish
 
 Version 8.32.0 modernizes ZelCore's interface foundation for a more stable, maintainable wallet, alongside larger FluxDrive uploads and smarter Buy/Sell crypto search.

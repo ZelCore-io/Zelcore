@@ -1,19 +1,18 @@
 {
-  "version": "8.32.0",
-  "codename": "Performance & Polish",
+  "version": "8.33.0",
+  "codename": "Hyperliquid HyperEVM",
   "info": [
-    "Version 8.32.0 modernizes ZelCore's interface foundation for a more stable, maintainable wallet, alongside larger FluxDrive uploads and smarter Buy/Sell crypto search."
+    "Version 8.33.0 adds full Hyperliquid HyperEVM support — the native HYPE coin plus the WHYPE, PURR, USDC, and USDT0 tokens — with WalletConnect and FIO handle support, a BitcoinZ Canopy sending fix, and Buy/Sell history polish."
   ],
   "bugs": [
-    "Fixed the Sell crypto (off-ramp) available balance for XRP, XLM, Polkadot, and Flux, which previously failed to calculate.",
-    "Large FluxDrive uploads no longer time out and abort midway, so multi-gigabyte transfers can complete.",
+    "BitcoinZ Sending: Updated the transaction library for BitcoinZ's Canopy hard fork, so BTCZ sends are signed with the correct consensus branch ID and accepted by the network.",
+    "Buy/Sell History: Fixed the transaction-details popup so its content is left-aligned when opened directly from the Buy and Sell crypto screens.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
   "features": [
-    "Modernized Interface: Rebuilt roughly 112 of the app's screens and dialogs on Vue 3's current architecture for a more stable, maintainable foundation, with no change to how the wallet looks or works.",
-    "FluxDrive Larger Uploads: Maximum upload size raised from 100 MB to 5 GB, now read live from the FluxDrive service.",
-    "Smarter Buy/Sell Search: The Buy and Sell crypto asset pickers now match by ticker symbol (e.g. BTC) and coin name (e.g. Bitcoin), not just internal ID.",
-    "Titan Staking APY: The Titan stake modify dialog now shows estimated APY per lockup period instead of the raw fee percentage."
+    "Hyperliquid HyperEVM: Added support for the Hyperliquid HyperEVM network and its native HYPE coin, including send, receive, and balance/transaction history.",
+    "HyperEVM Tokens: Added the WHYPE, PURR, USDC, and USDT0 tokens on Hyperliquid HyperEVM.",
+    "WalletConnect & FIO: Hyperliquid HyperEVM is now available over WalletConnect and supported by FIO Crypto Handles."
   ]
 }
