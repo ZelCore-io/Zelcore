@@ -9177,6 +9177,35 @@
     "auditInfos": [],
     "whitepaper": []
   },
+  "wingssolana": {
+    "description": "Wings (WINGS) is the utility token of Wingbits, an aviation DePIN network on Solana where operators run ADS-B antennas to collect flight data and earn rewards.",
+    "total_supply": 10000000000,
+    "circulating_supply": 0,
+    "websites": [
+      "https://wingbits.com"
+    ],
+    "explorers": [
+      "https://explorer.solana.com/address/WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd"
+    ],
+    "medium": "",
+    "discord": "",
+    "telegram": "",
+    "bitcointalk": "",
+    "facebook": "",
+    "twitter": "",
+    "reddit": "",
+    "repository": "",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "twitch": "",
+    "linkedin": "",
+    "cryptoCompareID": "",
+    "coinMarketCapID": "",
+    "coingeckoID": "wingbits",
+    "auditInfos": [],
+    "whitepaper": []
+  },
   "serum": {
     "description": "Serum is a decentralized exchange (DEX) and an ecosystem that brings high speed and low transaction costs to decentralized finance (DeFi). It is permissionless and is built on the Solana blockchain. Serum was created to eliminate the vulnerabilities in the current DeFi space that exist due to incomplete decentralization. It is claimed to be fully decentralized and runs on a non-custodial exchange with cross-chain trading support and no know your customer (KYC) requirements",
     "total_supply": 10000000000,

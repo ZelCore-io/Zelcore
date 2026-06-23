@@ -6938,6 +6938,27 @@
     "color": "#1ae5ae",
     "decimals": 9
   },
+  "wingssolana": {
+    "coin": "wingssolana",
+    "name": "Wings SPL",
+    "uri": [
+      "wingssolana"
+    ],
+    "slip": 501,
+    "mint": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
+    "unit": "WINGS",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WINGS.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#46f1ff",
+    "decimals": 6
+  },
   "serum": {
     "coin": "serum",
     "name": "Serum SPL",
