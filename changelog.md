@@ -1,6 +1,84 @@
 
 # Changelog
 
+## [8.36.0] – SUI Network Migration
+
+Version 8.36.0 reconnects SUI after the Sui network switched off the interface ZelCore relied on.
+
+### Fixed
+
+- **SUI Restored:** The Sui network retired the connection method ZelCore used, which left every SUI action failing — balances, transaction history, sending, swaps, staking and connected apps. SUI works normally again, and now falls back to another connection if one is unavailable.
+- **SUI Staking:** Rewards and APY are worked out from each validator's own on-chain rate history, and every stake position now shows the validator actually holding it.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.35.2] – NEAR & SUI Staking
+
+Version 8.35.2 fixes ZelCore+ purchases failing at checkout, adds a total-rewards view for NEAR staking, and tidies up notifications and dialogs.
+
+### Updated
+
+- **NEAR Staking Rewards:** The Earn tab now shows the total rewards you've earned from NEAR staking, worked out from your complete staking activity — stakes, unstakes, and withdrawals.
+
+### Fixed
+
+- **ZelCore+ Purchases:** Fixed purchasing ZelCore+ failing with an error after checkout. Longer plans and certain regional number formats were affected regardless of balance; purchases now go through, and if your wallet doesn't hold enough FLUX you get a clear message instead of an error.
+- **Notifications & Dialogs:** Incoming-transaction popups no longer pile up — at most three show at once and they dismiss sooner. Long notification messages now wrap instead of being cut off, and popup dialogs scroll properly when their content is taller than the window.
+- **SUI Staking History:** Failed transactions in the SUI staking history are labeled correctly again.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.35.1] – NEAR & SUI Staking
+
+Version 8.35.1 restores Zcash (ZEC) sending after the network's NU6.3 upgrade and fixes Zcash balances not displaying.
+
+### Fixed
+
+- **Zcash Sending:** Updated the transaction library for Zcash's NU6.3 network upgrade, so ZEC sends are signed with the correct consensus branch ID and accepted by the network.
+- **Zcash Balances:** Fixed Zcash balances and transaction history not displaying after a backend explorer upgrade.
+
+## [8.35.0] – NEAR & SUI Staking
+
+Version 8.35.0 adds staking for NEAR and SUI in the Earn tab, makes prices far more reliable on restrictive networks, and hardens the Send screen and transaction history across many coins.
+
+### Added
+
+- **NEAR Staking:** Stake NEAR to earn rewards directly in the Earn tab — pick a validator, stake, unstake fully or partially, and withdraw when you're ready, with live APY (after commission) and full staking history.
+- **SUI Staking:** Stake SUI to earn rewards in the Earn tab, with a clear heads-up during the activation period before rewards begin, plus network info and staking history.
+
+### Updated
+
+- **Dependencies:** Routine same-major dependency updates across the app for security and stability.
+
+### Fixed
+
+- **Prices on Restrictive Networks:** Fixed prices and values not loading for some users behind proxies or restrictive networks. ZelCore now falls back to a direct connection when the proxy is blocked, retries automatically, remembers your last rates at startup, and shows a banner if prices look out of date.
+- **Send Screen Reliability:** A broad set of fixes so the Send screen shows accurate fees and clear error messages across NEAR, SUI, TON, XRP, Cardano, Kaspa, Algorand, and EOS — no more stuck spinners, blank or zero fees, or silently swallowed errors.
+- **"Transaction Sent" Popup:** Fixed a case where the confirmation popup could linger or reappear after switching coins.
+- **FIO Crypto Handles:** Fixed address resolution so sending to FIO Handles works reliably.
+- **Igra Bridge:** Restored bridging on the Igra network following its Toccata upgrade.
+- **Transaction History:** More reliable history loading for Cosmos-based coins and Ink.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.34.0] – Kaspa Fees & Swap Improvements
+
+Version 8.34.0 fixes Kaspa (KAS) sending and swaps, improves swaps, smooths out token importing, and adds Wings (WINGS) on Solana.
+
+### Added
+
+- **WINGS on Solana:** Wings (WINGS) is now built in on Solana, so its balance and price show up automatically — no manual import needed. This brings the total to 736 supported coins.
+
+### Updated
+
+- **Token Import:** Importing a token ZelCore already supports now just adds it to your portfolio, instead of showing a confusing error. This covers all token-import screens.
+- **Swaps:** Quotes are fetched more efficiently, so the app no longer sends repeated requests for amounts you've already changed.
+
+### Fixed
+
+- **Kaspa (KAS) Sending & Swaps:** KAS sends and swaps were being rejected by the network over fees. They now use a live fee estimate and go through reliably, and the Send screen shows the estimated fee before you send.
+- **Swap & Buy/Sell History:** Fixed a background refresh issue in the swap and Buy/Sell history screens that could keep running after you left them.
+
 ## [8.33.0] – Hyperliquid HyperEVM
 
 Version 8.33.0 brings full Hyperliquid HyperEVM support to ZelCore — the native HYPE coin alongside the WHYPE, PURR, USDC, and USDT0 tokens — with WalletConnect and FIO Crypto Handle support.
