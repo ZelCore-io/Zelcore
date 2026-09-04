@@ -1,14 +1,24 @@
 {
-  "version": "8.36.0",
-  "codename": "SUI Network Migration",
+  "version": "8.37.0",
+  "codename": "Tokenized Stocks (bStocks)",
   "info": [
-    "Version 8.36.0 reconnects SUI after the Sui network switched off the interface ZelCore relied on, restoring balances, transaction history, sending, swaps and staking."
+    "Version 8.37.0 introduces bStocks — tokenized US stocks on BNB Smart Chain, backed 1:1 by real shares — and lets you buy FluxDrive storage plans with FLUX without leaving the app."
   ],
   "bugs": [
-    "SUI Restored: The Sui network retired the connection method ZelCore used, which left every SUI action failing — balances, transaction history, sending, swaps, staking and connected apps. SUI works normally again, and now falls back to another connection if one is unavailable.",
-    "SUI Staking: Rewards and APY are worked out from each validator's own on-chain rate history, and every stake position now shows the validator actually holding it.",
+    "Flux Staking Sign-In: Fixed FluxID sign-in failing for anyone using a region proxy. Sign-in now connects directly and only falls back to the proxy when the direct connection is blocked.",
+    "Titan Staking: The redeem dialog now lists labeled wallets instead of a raw internal ID, completed stakes are tagged correctly, and the MAX button no longer fills in a negative amount when the network is fully subscribed.",
+    "Portfolio Stability: Fixed the app breaking when opening or switching to a coin whose data is temporarily unavailable.",
+    "FluxDrive Messages: An expired-subscription notice no longer shows raw page code in the notification, and it is now recognized whatever wording the server returns.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
-  "features": []
+  "features": [
+    "bStocks — Tokenized US Stocks: Browse and add tokenized US equities on BNB Smart Chain from a dedicated 'Add bStocks' screen. Each bStock is backed 1:1 by real shares, issued by BTech Holdings Ltd under an FSRA-approved prospectus (ADGM).",
+    "bStock Prices & Charts: Every bStock shows a live price and full price-history chart in your portfolio, along with how many shares each token represents.",
+    "Buy & Sell bStocks: bStocks are available in the Swap and Buy/Sell screens, so you can trade into and out of them using the balances you already hold.",
+    "FluxDrive Plans In-App: Buy or renew a FluxDrive storage plan with FLUX without leaving ZelCore. The plan is credited to the FluxID of the wallet you pay from, and you are notified as soon as it lands.",
+    "Earn PIN Confirmation: Staking actions in the Earn tab — stake, unstake, modify and redeem — now ask for your d2FA PIN before signing, the same as sending, if you have d2FA enabled.",
+    "FluxDrive Search: File search now looks across your whole FluxDrive account instead of only the files already loaded on screen.",
+    "Longer Price Charts: The 3-month, 1-year and max chart ranges now show the year on date labels, so points months apart are no longer ambiguous."
+  ]
 }
