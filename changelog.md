@@ -1,6 +1,32 @@
 
 # Changelog
 
+## [8.37.0] – Tokenized Stocks (bStocks)
+
+Version 8.37.0 introduces bStocks — tokenized US stocks on BNB Smart Chain, backed 1:1 by real shares — and lets you buy FluxDrive storage plans with FLUX without leaving the app.
+
+### Added
+
+- **bStocks — Tokenized US Stocks:** Browse and add tokenized US equities on BNB Smart Chain from a dedicated "Add bStocks" screen. Each bStock is backed 1:1 by real shares, issued by BTech Holdings Ltd under an FSRA-approved prospectus (ADGM). A one-time introduction explains how they work the first time you sign in.
+- **bStock Prices & Charts:** Every bStock shows a live price and full price-history chart in your portfolio, along with how many shares each token represents.
+- **Buy & Sell bStocks:** bStocks are available in the Swap and Buy/Sell screens, so you can trade into and out of them using the balances you already hold.
+- **FluxDrive Plans In-App:** Buy or renew a FluxDrive storage plan with FLUX without leaving ZelCore. The plan is credited to the FluxID of the wallet you pay from, and you are notified as soon as it lands.
+
+### Updated
+
+- **Earn PIN Confirmation:** Staking actions in the Earn tab — stake, unstake, modify and redeem — now ask for your d2FA PIN before signing, the same as sending. Accounts without d2FA enabled are unaffected.
+- **FluxDrive Search:** File search now looks across your whole FluxDrive account instead of only the files already loaded on screen.
+- **Longer Price Charts:** The 3-month, 1-year and max chart ranges now show the year on date labels, so points months apart are no longer ambiguous.
+
+### Fixed
+
+- **Flux Staking Sign-In:** Fixed FluxID sign-in failing for anyone using a region proxy. Sign-in now connects directly and only falls back to the proxy when the direct connection is blocked, so the login phrase is always verified by the server that issued it.
+- **Titan Staking:** The redeem dialog now lists labeled wallets instead of a raw internal ID, completed stakes are tagged correctly, and the MAX button no longer fills in a negative amount when the network is fully subscribed.
+- **Portfolio Stability:** Fixed the app breaking when opening or switching to a coin whose data is temporarily unavailable.
+- **FluxDrive Messages:** An expired-subscription notice no longer shows raw page code in the notification, and it is now recognized whatever wording the server returns.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
 ## [8.36.0] – SUI Network Migration
 
 Version 8.36.0 reconnects SUI after the Sui network switched off the interface ZelCore relied on.
