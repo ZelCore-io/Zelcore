@@ -1,6 +1,14 @@
 
 # Changelog
 
+## [8.37.1] – Buy & Sell Sign-In Fix
+
+Version 8.37.1 fixes Buy & Sell provider checkouts that could not sign you in on desktop 8.37.0.
+
+### Fixed
+
+- **Buy & Sell Sign-In:** Third-party provider checkouts opened from the Buy and Sell screens could fail to load or sign you in on desktop. Providers' pages and sign-in popups now receive the request headers they expect.
+
 ## [8.37.0] – Tokenized Stocks (bStocks)
 
 Version 8.37.0 introduces bStocks — tokenized US stocks on BNB Smart Chain, backed 1:1 by real shares — and lets you buy FluxDrive storage plans with FLUX without leaving the app.

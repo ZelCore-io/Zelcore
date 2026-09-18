@@ -1,10 +1,11 @@
 {
-  "version": "8.37.0",
+  "version": "8.37.1",
   "codename": "Tokenized Stocks (bStocks)",
   "info": [
-    "Version 8.37.0 introduces bStocks — tokenized US stocks on BNB Smart Chain, backed 1:1 by real shares — and lets you buy FluxDrive storage plans with FLUX without leaving the app."
+    "Version 8.37.1 fixes Buy & Sell provider checkouts that could not sign you in on desktop 8.37.0, on top of 8.37.0's bStocks, in-app FluxDrive plans, and Earn improvements."
   ],
   "bugs": [
+    "Buy & Sell Sign-In: Fixed third-party provider checkouts opened from the Buy and Sell screens failing to load or sign you in on desktop. Providers' pages and sign-in popups now receive the request headers they expect.",
     "Flux Staking Sign-In: Fixed FluxID sign-in failing for anyone using a region proxy. Sign-in now connects directly and only falls back to the proxy when the direct connection is blocked.",
     "Titan Staking: The redeem dialog now lists labeled wallets instead of a raw internal ID, completed stakes are tagged correctly, and the MAX button no longer fills in a negative amount when the network is fully subscribed.",
     "Portfolio Stability: Fixed the app breaking when opening or switching to a coin whose data is temporarily unavailable.",
