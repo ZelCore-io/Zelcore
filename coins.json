@@ -17532,6 +17532,77 @@
     "color": "#C68A23",
     "decimals": 18
   },
+  "xdc": {
+    "coin": "xdc",
+    "name": "XDC Network",
+    "uri": [
+      "xdc",
+      "xinfin",
+      "xdcnetwork"
+    ],
+    "chainID": 50,
+    "slip": 60,
+    "unit": "XDC",
+    "type": "xdc",
+    "family": "ethlike",
+    "coinType": "native",
+    "logolink": "@/assets/logos/XDC.svg",
+    "fee": 21000,
+    "feepolicy": {
+      "economy": 12.5,
+      "normal": 15,
+      "fast": 20
+    },
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "color": "#244B81",
+    "decimals": 18
+  },
+  "usdcxdc": {
+    "coin": "usdcxdc",
+    "name": "USD Coin XDC",
+    "uri": [
+      "usdcxdc",
+      "usdcoin",
+      "usdc"
+    ],
+    "unit": "USDC",
+    "type": "xdc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 12.5,
+      "normal": 15,
+      "fast": 20
+    },
+    "contractAddress": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+    "color": "#2276CB",
+    "decimals": 6
+  },
+  "wxdc": {
+    "coin": "wxdc",
+    "name": "Wrapped XDC",
+    "uri": [
+      "wxdc",
+      "wrappedxdc",
+      "xdc"
+    ],
+    "unit": "WXDC",
+    "type": "xdc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/XDC.svg",
+    "contractAddress": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 12.5,
+      "normal": 15,
+      "fast": 20
+    },
+    "color": "#244B81",
+    "decimals": 18
+  },
   "sonic": {
     "coin": "sonic",
     "name": "Sonic",
@@ -17735,5 +17806,3134 @@
     "denom": "uusdc",
     "color": "#2775CA",
     "decimals": 6
+  },
+  "slxsol": {
+    "coin": "slxsol",
+    "name": "Solstice SPL",
+    "uri": [
+      "slxsol",
+      "slx"
+    ],
+    "slip": 501,
+    "mint": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+    "unit": "SLX",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SLX.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#1d1a54",
+    "decimals": 6
+  },
+  "zestbsc": {
+    "coin": "zestbsc",
+    "name": "Zest Protocol BEP20",
+    "uri": [
+      "zestbsc",
+      "zest"
+    ],
+    "unit": "ZEST",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZEST.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x5506599c722389a60580b5213ea1da60d64754a1",
+    "color": "#ff6702",
+    "decimals": 18
+  },
+  "homesol": {
+    "coin": "homesol",
+    "name": "Defi App SPL",
+    "uri": [
+      "homesol",
+      "home"
+    ],
+    "slip": 501,
+    "mint": "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
+    "unit": "HOME",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/HOME.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#101c18",
+    "decimals": 9
+  },
+  "vinesol": {
+    "coin": "vinesol",
+    "name": "Vine Coin SPL",
+    "uri": [
+      "vinesol",
+      "vine"
+    ],
+    "slip": 501,
+    "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+    "unit": "VINE",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VINE.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#03bf8e",
+    "decimals": 6
+  },
+  "plumeeth": {
+    "coin": "plumeeth",
+    "name": "Plume ERC20",
+    "uri": [
+      "plumeeth",
+      "plume"
+    ],
+    "unit": "PLUME",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/PLUME.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
+    "color": "#ff3d00",
+    "decimals": 18
+  },
+  "toshibase": {
+    "coin": "toshibase",
+    "name": "Toshi BASE",
+    "uri": [
+      "toshibase",
+      "toshi"
+    ],
+    "unit": "TOSHI",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/toshibase.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+    "color": "#080606",
+    "decimals": 18
+  },
+  "jellyjellysol": {
+    "coin": "jellyjellysol",
+    "name": "Jelly-My-Jelly SPL",
+    "uri": [
+      "jellyjellysol",
+      "jellyjelly"
+    ],
+    "slip": 501,
+    "mint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+    "unit": "JELLYJELLY",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/JELLYJELLY.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#151212",
+    "decimals": 6
+  },
+  "gpsbase": {
+    "coin": "gpsbase",
+    "name": "GoPlus Security BASE",
+    "uri": [
+      "gpsbase",
+      "gps"
+    ],
+    "unit": "GPS",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GPS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
+    "color": "#00e678",
+    "decimals": 18
+  },
+  "vvvbase": {
+    "coin": "vvvbase",
+    "name": "Venice Token BASE",
+    "uri": [
+      "vvvbase",
+      "vvv"
+    ],
+    "unit": "VVV",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VVV.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+    "color": "#011019",
+    "decimals": 18
+  },
+  "xterbsc": {
+    "coin": "xterbsc",
+    "name": "Xterio BEP20",
+    "uri": [
+      "xterbsc",
+      "xter"
+    ],
+    "unit": "XTER",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/XTER.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x103071da56e7cd95b415320760d6a0ddc4da1ca5",
+    "color": "#5d2ecd",
+    "decimals": 18
+  },
+  "jsol": {
+    "coin": "jsol",
+    "name": "Jambo SPL",
+    "uri": [
+      "jsol",
+      "j"
+    ],
+    "slip": 501,
+    "mint": "Jambjx1oJoZNBZiqbiF9TqgatEZPdyfvYa9WVsKNzUh",
+    "unit": "J",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/J.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#00eafa",
+    "decimals": 9
+  },
+  "acssol": {
+    "coin": "acssol",
+    "name": "Access Protocol SPL",
+    "uri": [
+      "acssol",
+      "acs"
+    ],
+    "slip": 501,
+    "mint": "5MAYDfq5yxtudAhtfyuMBuHZjgAbaS9tbEyEQYAhDS5y",
+    "unit": "ACS",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ACS.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#6590ff",
+    "decimals": 6
+  },
+  "ufdsol": {
+    "coin": "ufdsol",
+    "name": "Unicorn Fart Dust SPL",
+    "uri": [
+      "ufdsol",
+      "ufd"
+    ],
+    "slip": 501,
+    "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+    "unit": "UFD",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/UFD.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#fe0000",
+    "decimals": 6
+  },
+  "vreth": {
+    "coin": "vreth",
+    "name": "Victoria VR ERC20",
+    "uri": [
+      "vreth",
+      "vr"
+    ],
+    "unit": "VR",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/VR.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+    "color": "#ffec00",
+    "decimals": 18
+  },
+  "zigeth": {
+    "coin": "zigeth",
+    "name": "ZIGChain ERC20",
+    "uri": [
+      "zigeth",
+      "zig"
+    ],
+    "unit": "ZIG",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZIG.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+    "color": "#4c5acb",
+    "decimals": 18
+  },
+  "pippinsol": {
+    "coin": "pippinsol",
+    "name": "pippin SPL",
+    "uri": [
+      "pippinsol",
+      "pippin"
+    ],
+    "slip": 501,
+    "mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+    "unit": "PIPPIN",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/PIPPIN.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#ff69b4",
+    "decimals": 6
+  },
+  "ordereth": {
+    "coin": "ordereth",
+    "name": "Orderly ERC20",
+    "uri": [
+      "ordereth",
+      "order"
+    ],
+    "unit": "ORDER",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ORDER.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xabd4c63d2616a5201454168269031355f4764337",
+    "color": "#d9d9d9",
+    "decimals": 18
+  },
+  "torneth": {
+    "coin": "torneth",
+    "name": "Tornado Cash ERC20",
+    "uri": [
+      "torneth",
+      "torn"
+    ],
+    "unit": "TORN",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TORN.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "color": "#000403",
+    "decimals": 18
+  },
+  "tstbsc": {
+    "coin": "tstbsc",
+    "name": "Test BEP20",
+    "uri": [
+      "tstbsc",
+      "tst"
+    ],
+    "unit": "TST",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TST.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x86bb94ddd16efc8bc58e6b056e8df71d9e666429",
+    "color": "#eeb207",
+    "decimals": 18
+  },
+  "cheemsbsc": {
+    "coin": "cheemsbsc",
+    "name": "Cheems Token BEP20",
+    "uri": [
+      "cheemsbsc",
+      "cheems"
+    ],
+    "unit": "CHEEMS",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CHEEMS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
+    "color": "#332b23",
+    "decimals": 18
+  },
+  "alchsol": {
+    "coin": "alchsol",
+    "name": "Alchemist AI SPL",
+    "uri": [
+      "alchsol",
+      "alch"
+    ],
+    "slip": 501,
+    "mint": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+    "unit": "ALCH",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ALCH.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#ff6e01",
+    "decimals": 6
+  },
+  "flockbase": {
+    "coin": "flockbase",
+    "name": "FLock.io BASE",
+    "uri": [
+      "flockbase",
+      "flock"
+    ],
+    "unit": "FLOCK",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FLOCK.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "b3base": {
+    "coin": "b3base",
+    "name": "B3 (Base) BASE",
+    "uri": [
+      "b3base",
+      "b3"
+    ],
+    "unit": "B3",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/B3.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
+    "color": "#3368ef",
+    "decimals": 18
+  },
+  "layersol": {
+    "coin": "layersol",
+    "name": "Solayer SPL",
+    "uri": [
+      "layersol",
+      "layer"
+    ],
+    "slip": 501,
+    "mint": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+    "unit": "LAYER",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/LAYER.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#084d3e",
+    "decimals": 9
+  },
+  "broccolibsc": {
+    "coin": "broccolibsc",
+    "name": "CZ's Dog BEP20",
+    "uri": [
+      "broccolibsc",
+      "broccoli"
+    ],
+    "unit": "BROCCOLI",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BROCCOLI.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714",
+    "color": "#060203",
+    "decimals": 18
+  },
+  "cookiebase": {
+    "coin": "cookiebase",
+    "name": "Cookie DAO BASE",
+    "uri": [
+      "cookiebase",
+      "cookie"
+    ],
+    "unit": "COOKIE",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/COOKIE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "color": "#c7f5d3",
+    "decimals": 18
+  },
+  "animeeth": {
+    "coin": "animeeth",
+    "name": "Animecoin ERC20",
+    "uri": [
+      "animeeth",
+      "anime"
+    ],
+    "unit": "ANIME",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ANIME.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x4dc26fc5854e7648a064a4abd590bbe71724c277",
+    "color": "#fece79",
+    "decimals": 18
+  },
+  "obtarb": {
+    "coin": "obtarb",
+    "name": "Orbiter Finance Arb",
+    "uri": [
+      "obtarb",
+      "obt"
+    ],
+    "unit": "OBT",
+    "type": "arbitrum",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/OBT.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f",
+    "color": "#222222",
+    "decimals": 18
+  },
+  "shellbsc": {
+    "coin": "shellbsc",
+    "name": "MyShell BEP20",
+    "uri": [
+      "shellbsc",
+      "shell"
+    ],
+    "unit": "SHELL",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SHELL.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+    "color": "#0026ab",
+    "decimals": 18
+  },
+  "shelleth": {
+    "coin": "shelleth",
+    "name": "MyShell ERC20",
+    "uri": [
+      "shelleth",
+      "shell"
+    ],
+    "unit": "SHELL",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/shelleth.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+    "color": "#0026ab",
+    "decimals": 18
+  },
+  "cookiebsc": {
+    "coin": "cookiebsc",
+    "name": "Cookie DAO BEP20",
+    "uri": [
+      "cookiebsc",
+      "cookie"
+    ],
+    "unit": "COOKIE",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/cookiebsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+    "color": "#c7f5d3",
+    "decimals": 18
+  },
+  "avlbsc": {
+    "coin": "avlbsc",
+    "name": "Avalon BEP20",
+    "uri": [
+      "avlbsc",
+      "avl"
+    ],
+    "unit": "AVL",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AVL.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x9beee89723ceec27d7c2834bec6834208ffdc202",
+    "color": "#242424",
+    "decimals": 18
+  },
+  "sfieth": {
+    "coin": "sfieth",
+    "name": "Singularity Finance ERC20",
+    "uri": [
+      "sfieth",
+      "sfi"
+    ],
+    "unit": "SFI",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SFI.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x7636d8722fdf7cd34232a915e48e96aa3eb386bf",
+    "color": "#0d070b",
+    "decimals": 18
+  },
+  "zbcnsol": {
+    "coin": "zbcnsol",
+    "name": "Zebec Network SPL",
+    "uri": [
+      "zbcnsol",
+      "zbcn"
+    ],
+    "slip": 501,
+    "mint": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+    "unit": "ZBCN",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZBCN.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#5cffd1",
+    "decimals": 6
+  },
+  "kaitobase": {
+    "coin": "kaitobase",
+    "name": "KAITO BASE",
+    "uri": [
+      "kaitobase",
+      "kaito"
+    ],
+    "unit": "KAITO",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KAITO.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+    "color": "#32ffdc",
+    "decimals": 18
+  },
+  "ncsol": {
+    "coin": "ncsol",
+    "name": "Nodepay SPL",
+    "uri": [
+      "ncsol",
+      "nc"
+    ],
+    "slip": 501,
+    "mint": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+    "unit": "NC",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NC.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#121315",
+    "decimals": 9
+  },
+  "komabsc": {
+    "coin": "komabsc",
+    "name": "Koma Inu BEP20",
+    "uri": [
+      "komabsc",
+      "koma"
+    ],
+    "unit": "KOMA",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KOMA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19",
+    "color": "#f1dbad",
+    "decimals": 18
+  },
+  "forteth": {
+    "coin": "forteth",
+    "name": "Forta ERC20",
+    "uri": [
+      "forteth",
+      "fort"
+    ],
+    "unit": "FORT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FORT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "clankerbase": {
+    "coin": "clankerbase",
+    "name": "tokenbot BASE",
+    "uri": [
+      "clankerbase",
+      "clanker"
+    ],
+    "unit": "CLANKER",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CLANKER.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+    "color": "#8a63d2",
+    "decimals": 18
+  },
+  "kekiuseth": {
+    "coin": "kekiuseth",
+    "name": "Kekius Maximus ERC20",
+    "uri": [
+      "kekiuseth",
+      "kekius"
+    ],
+    "unit": "KEKIUS",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KEKIUS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x26e550ac11b26f78a04489d5f20f24e3559f7dd9",
+    "color": "#97825e",
+    "decimals": 9
+  },
+  "redeth": {
+    "coin": "redeth",
+    "name": "RedStone ERC20",
+    "uri": [
+      "redeth",
+      "red"
+    ],
+    "unit": "RED",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/RED.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de",
+    "color": "#fbebeb",
+    "decimals": 18
+  },
+  "roamsol": {
+    "coin": "roamsol",
+    "name": "ROAM Token SPL",
+    "uri": [
+      "roamsol",
+      "roam"
+    ],
+    "slip": 501,
+    "mint": "RoamA1USA8xjvpTJZ6RvvxyDRzNh6GCA1zVGKSiMVkn",
+    "unit": "ROAM",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ROAM.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#832beb",
+    "decimals": 6
+  },
+  "mubarakbsc": {
+    "coin": "mubarakbsc",
+    "name": "Mubarak BEP20",
+    "uri": [
+      "mubarakbsc",
+      "mubarak"
+    ],
+    "unit": "MUBARAK",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/MUBARAK.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+    "color": "#0b0a09",
+    "decimals": 18
+  },
+  "formbsc": {
+    "coin": "formbsc",
+    "name": "Four BEP20",
+    "uri": [
+      "formbsc",
+      "form"
+    ],
+    "unit": "FORM",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/FORM.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
+    "color": "#70f167",
+    "decimals": 18
+  },
+  "epiceth": {
+    "coin": "epiceth",
+    "name": "Epic Chain ERC20",
+    "uri": [
+      "epiceth",
+      "epic"
+    ],
+    "unit": "EPIC",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/EPIC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x94314a14df63779c99c0764a30e0cd22fa78fc0e",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "tutbsc": {
+    "coin": "tutbsc",
+    "name": "Tutorial BEP20",
+    "uri": [
+      "tutbsc",
+      "tut"
+    ],
+    "unit": "TUT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TUT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xcaae2a2f939f51d97cdfa9a86e79e3f085b799f3",
+    "color": "#feae00",
+    "decimals": 18
+  },
+  "bgscbsc": {
+    "coin": "bgscbsc",
+    "name": "BugsCoin BEP20",
+    "uri": [
+      "bgscbsc",
+      "bgsc"
+    ],
+    "unit": "BGSC",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BGSC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xa4b68d48d7bc6f04420e8077e6f74bdef809dea3",
+    "color": "#3063a3",
+    "decimals": 18
+  },
+  "a8eth": {
+    "coin": "a8eth",
+    "name": "Ancient8 ERC20",
+    "uri": [
+      "a8eth",
+      "a8"
+    ],
+    "unit": "A8",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/A8.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x3e5a19c91266ad8ce2477b91585d1856b84062df",
+    "color": "#031404",
+    "decimals": 18
+  },
+  "maviaeth": {
+    "coin": "maviaeth",
+    "name": "Heroes of Mavia ERC20",
+    "uri": [
+      "maviaeth",
+      "mavia"
+    ],
+    "unit": "MAVIA",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/MAVIA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
+    "color": "#235ed6",
+    "decimals": 18
+  },
+  "brbsc": {
+    "coin": "brbsc",
+    "name": "Bedrock BEP20",
+    "uri": [
+      "brbsc",
+      "br"
+    ],
+    "unit": "BR",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BR.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+    "color": "#3fb0ff",
+    "decimals": 18
+  },
+  "neonsol": {
+    "coin": "neonsol",
+    "name": "Neon EVM SPL",
+    "uri": [
+      "neonsol",
+      "neon"
+    ],
+    "slip": 501,
+    "mint": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+    "unit": "NEON",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NEON.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#df42ab",
+    "decimals": 9
+  },
+  "partibsc": {
+    "coin": "partibsc",
+    "name": "Particle Network BEP20",
+    "uri": [
+      "partibsc",
+      "parti"
+    ],
+    "unit": "PARTI",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/PARTI.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "bananas31bsc": {
+    "coin": "bananas31bsc",
+    "name": "Banana For Scale BEP20",
+    "uri": [
+      "bananas31bsc",
+      "bananas31"
+    ],
+    "unit": "BANANAS31",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BANANAS31.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x3d4f0513e8a29669b960f9dbca61861548a9a760",
+    "color": "#fccb3c",
+    "decimals": 18
+  },
+  "sirenbsc": {
+    "coin": "sirenbsc",
+    "name": "Siren BEP20",
+    "uri": [
+      "sirenbsc",
+      "siren"
+    ],
+    "unit": "SIREN",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SIREN.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+    "color": "#ddc4c5",
+    "decimals": 18
+  },
+  "usdqeth": {
+    "coin": "usdqeth",
+    "name": "Quantoz USDQ ERC20",
+    "uri": [
+      "usdqeth",
+      "usdq"
+    ],
+    "unit": "USDQ",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDQ.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xc83e27f270cce0a3a3a29521173a83f402c1768b",
+    "color": "#040301",
+    "decimals": 6
+  },
+  "eurqeth": {
+    "coin": "eurqeth",
+    "name": "Quantoz EURQ ERC20",
+    "uri": [
+      "eurqeth",
+      "eurq"
+    ],
+    "unit": "EURQ",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/EURQ.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x8df723295214ea6f21026eeeb4382d475f146f9f",
+    "color": "#233f90",
+    "decimals": 6
+  },
+  "gorksol": {
+    "coin": "gorksol",
+    "name": "New XAI Gork SPL",
+    "uri": [
+      "gorksol",
+      "gork"
+    ],
+    "slip": 501,
+    "mint": "38PgzpJYu2HkiYvV8qePFakB8tuobPdGm2FFEn7Dpump",
+    "unit": "GORK",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GORK.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#000000",
+    "decimals": 6
+  },
+  "housesol": {
+    "coin": "housesol",
+    "name": "Housecoin SPL",
+    "uri": [
+      "housesol",
+      "house"
+    ],
+    "slip": 501,
+    "mint": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+    "unit": "HOUSE",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/HOUSE.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#eea252",
+    "decimals": 6
+  },
+  "aiotbsc": {
+    "coin": "aiotbsc",
+    "name": "OKZOO BEP20",
+    "uri": [
+      "aiotbsc",
+      "aiot"
+    ],
+    "unit": "AIOT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AIOT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x55ad16bd573b3365f43a9daeb0cc66a73821b4a5",
+    "color": "#d67d24",
+    "decimals": 18
+  },
+  "b2bsc": {
+    "coin": "b2bsc",
+    "name": "BSquared Network BEP20",
+    "uri": [
+      "b2bsc",
+      "b2"
+    ],
+    "unit": "B2",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/B2.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x783c3f003f172c6ac5ac700218a357d2d66ee2a2",
+    "color": "#ffb852",
+    "decimals": 18
+  },
+  "usd1bsc": {
+    "coin": "usd1bsc",
+    "name": "World Liberty Financial USD BEP20",
+    "uri": [
+      "usd1bsc",
+      "usd1"
+    ],
+    "unit": "USD1",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USD1.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "color": "#ca8404",
+    "decimals": 18
+  },
+  "zkjeth": {
+    "coin": "zkjeth",
+    "name": "Polyhedra Network ERC20",
+    "uri": [
+      "zkjeth",
+      "zkj"
+    ],
+    "unit": "ZKJ",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZKJ.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+    "color": "#f5f5f5",
+    "decimals": 18
+  },
+  "zkjbsc": {
+    "coin": "zkjbsc",
+    "name": "Polyhedra Network BEP20",
+    "uri": [
+      "zkjbsc",
+      "zkj"
+    ],
+    "unit": "ZKJ",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/zkjbsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+    "color": "#f5f5f5",
+    "decimals": 18
+  },
+  "nxpcbsc": {
+    "coin": "nxpcbsc",
+    "name": "Bridged NXPC BEP20",
+    "uri": [
+      "nxpcbsc",
+      "nxpc"
+    ],
+    "unit": "NXPC",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NXPC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xf2b51cc1850fed939658317a22d73d3482767591",
+    "color": "#4bf7c6",
+    "decimals": 18
+  },
+  "wbtcsol": {
+    "coin": "wbtcsol",
+    "name": "Wrapped BTC SPL",
+    "uri": [
+      "wbtcsol",
+      "wbtc"
+    ],
+    "slip": 501,
+    "mint": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "unit": "WBTC",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/wbtcsol.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#221d34",
+    "decimals": 8
+  },
+  "usdssol": {
+    "coin": "usdssol",
+    "name": "USDS SPL",
+    "uri": [
+      "usdssol",
+      "usds"
+    ],
+    "slip": 501,
+    "mint": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "unit": "USDS",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/usdssol.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#00ffa3",
+    "decimals": 6
+  },
+  "bbsc": {
+    "coin": "bbsc",
+    "name": "BUILDon BEP20",
+    "uri": [
+      "bbsc",
+      "b"
+    ],
+    "unit": "B",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/B.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x6bdcce4a559076e37755a78ce0c06214e59e4444",
+    "color": "#081109",
+    "decimals": 18
+  },
+  "kogebsc": {
+    "coin": "kogebsc",
+    "name": "48 Club Token BEP20",
+    "uri": [
+      "kogebsc",
+      "koge"
+    ],
+    "unit": "KOGE",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KOGE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+    "color": "#2c2e35",
+    "decimals": 18
+  },
+  "humasol": {
+    "coin": "humasol",
+    "name": "Huma Finance SPL",
+    "uri": [
+      "humasol",
+      "huma"
+    ],
+    "slip": 501,
+    "mint": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+    "unit": "HUMA",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/HUMA.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#b246ff",
+    "decimals": 6
+  },
+  "usdeton": {
+    "coin": "usdeton",
+    "name": "Ethena USDe TON Token",
+    "uri": [
+      "usdeton",
+      "usde"
+    ],
+    "unit": "USDE",
+    "workchain": 0,
+    "type": "tonbasechain",
+    "family": "ton",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDe.svg",
+    "contractAddress": "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f",
+    "slip": 607,
+    "bip44HPathType": 2,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#232323",
+    "decimals": 6
+  },
+  "xaneth": {
+    "coin": "xaneth",
+    "name": "Anoma ERC20",
+    "uri": [
+      "xaneth",
+      "xan"
+    ],
+    "unit": "XAN",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/XAN.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xcedbea37c8872c4171259cdfd5255cb8923cf8e7",
+    "color": "#f51c2b",
+    "decimals": 18
+  },
+  "crvop": {
+    "coin": "crvop",
+    "name": "Curve DAO OP",
+    "uri": [
+      "crvop",
+      "crv"
+    ],
+    "unit": "CRV",
+    "type": "optimism",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/crvop.svg",
+    "fee": 1000000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "color": "#fee500",
+    "decimals": 18
+  },
+  "stblbsc": {
+    "coin": "stblbsc",
+    "name": "STBL BEP20",
+    "uri": [
+      "stblbsc",
+      "stbl"
+    ],
+    "unit": "STBL",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/stblbsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x8dedf84656fa932157e27c060d8613824e7979e3",
+    "color": "#c19fe7",
+    "decimals": 18
+  },
+  "gigglebsc": {
+    "coin": "gigglebsc",
+    "name": "Giggle Fund BEP20",
+    "uri": [
+      "gigglebsc",
+      "giggle"
+    ],
+    "unit": "GIGGLE",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GIGGLE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e",
+    "color": "#262c35",
+    "decimals": 18
+  },
+  "eurcsol": {
+    "coin": "eurcsol",
+    "name": "EURC SPL",
+    "uri": [
+      "eurcsol",
+      "eurc"
+    ],
+    "slip": 501,
+    "mint": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+    "unit": "EURC",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/EURC.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#2775ca",
+    "decimals": 6
+  },
+  "wctsol": {
+    "coin": "wctsol",
+    "name": "WalletConnect Token SPL",
+    "uri": [
+      "wctsol",
+      "wct"
+    ],
+    "slip": 501,
+    "mint": "WCTk5xWdn5SYg56twGj32sUF3W4WFQ48ogezLBuYTBY",
+    "unit": "WCT",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WCT.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#0988f0",
+    "decimals": 9
+  },
+  "jctbsc": {
+    "coin": "jctbsc",
+    "name": "Janction BEP20",
+    "uri": [
+      "jctbsc",
+      "jct"
+    ],
+    "unit": "JCT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/JCT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xea37a8de1de2d9d10772eeb569e28bfa5cb17707",
+    "color": "#37609e",
+    "decimals": 18
+  },
+  "labsc": {
+    "coin": "labsc",
+    "name": "Lagrange BEP20",
+    "uri": [
+      "labsc",
+      "la"
+    ],
+    "unit": "LA",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/LA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x389ad4bb96d0d6ee5b6ef0efaf4b7db0ba2e02a0",
+    "color": "#f4f8f7",
+    "decimals": 18
+  },
+  "atbsc": {
+    "coin": "atbsc",
+    "name": "Apro BEP20",
+    "uri": [
+      "atbsc",
+      "at"
+    ],
+    "unit": "AT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x9be61a38725b265bc3eb7bfdf17afdfc9d26c130",
+    "color": "#33e509",
+    "decimals": 18
+  },
+  "alloeth": {
+    "coin": "alloeth",
+    "name": "Allora ERC20",
+    "uri": [
+      "alloeth",
+      "allo"
+    ],
+    "unit": "ALLO",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ALLO.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x8408d45b61f5823298f19a09b53b7339c0280489",
+    "color": "#171717",
+    "decimals": 18
+  },
+  "wetsol": {
+    "coin": "wetsol",
+    "name": "HumidiFi SPL",
+    "uri": [
+      "wetsol",
+      "wet"
+    ],
+    "slip": 501,
+    "mint": "WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
+    "unit": "WET",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WET.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#0323f4",
+    "decimals": 6
+  },
+  "fdusdsui": {
+    "coin": "fdusdsui",
+    "name": "First Digital USD SUI",
+    "uri": [
+      "fdusdsui",
+      "fdusd"
+    ],
+    "unit": "FDUSD",
+    "type": "sui",
+    "coinType": "token",
+    "logolink": "@/assets/logos/fdusdsui.svg",
+    "contractAddress": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "slip": 784,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#101010",
+    "decimals": 6
+  },
+  "zkpeth": {
+    "coin": "zkpeth",
+    "name": "zkPass ERC20",
+    "uri": [
+      "zkpeth",
+      "zkp"
+    ],
+    "unit": "ZKP",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZKP.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xe1be424f442d0687129128c6c38aace44f8c8dbc",
+    "color": "#c5ff4a",
+    "decimals": 18
+  },
+  "night": {
+    "coin": "night",
+    "name": "Midnight",
+    "uri": [
+      "night"
+    ],
+    "policyId": "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa",
+    "assetName": "4e49474854",
+    "contractAddress": "0691b2fecca1ac4f53cb6dfb00b7013e561d1f34403b957cbb5af1fa4e49474854",
+    "unit": "NIGHT",
+    "type": "cardano",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NIGHT.svg",
+    "fee": 0.168273,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#fefefe",
+    "decimals": 6,
+    "network": "mainnet",
+    "networkId": 1
+  },
+  "kgstbsc": {
+    "coin": "kgstbsc",
+    "name": "Kyrgyz Som Stablecoin BEP20",
+    "uri": [
+      "kgstbsc",
+      "kgst"
+    ],
+    "unit": "KGST",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KGST.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x94be0bba8e1e303fe998c9360b57b826f1a4f828",
+    "color": "#90681d",
+    "decimals": 18
+  },
+  "cmc20bsc": {
+    "coin": "cmc20bsc",
+    "name": "CoinMarketCap 20 Index DTF BEP20",
+    "uri": [
+      "cmc20bsc",
+      "cmc20"
+    ],
+    "unit": "CMC20",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CMC20.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x2f8a339b5889ffac4c5a956787cda593b3c36867",
+    "color": "#2444d4",
+    "decimals": 18
+  },
+  "breveth": {
+    "coin": "breveth",
+    "name": "Brevis ERC20",
+    "uri": [
+      "breveth",
+      "brev"
+    ],
+    "unit": "BREV",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BREV.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x086f405146ce90135750bbec9a063a8b20a8bffb",
+    "color": "#21252c",
+    "decimals": 18
+  },
+  "skrsol": {
+    "coin": "skrsol",
+    "name": "Seeker SPL",
+    "uri": [
+      "skrsol",
+      "skr"
+    ],
+    "slip": 501,
+    "mint": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
+    "unit": "SKR",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SKR.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#000000",
+    "decimals": 6
+  },
+  "funbase": {
+    "coin": "funbase",
+    "name": "Sport.fun BASE",
+    "uri": [
+      "funbase",
+      "fun"
+    ],
+    "unit": "FUN",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/funbase.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x16ee7ecac70d1028e7712751e2ee6ba808a7dd92",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "riverbsc": {
+    "coin": "riverbsc",
+    "name": "River BEP20",
+    "uri": [
+      "riverbsc",
+      "river"
+    ],
+    "unit": "RIVER",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/RIVER.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+    "color": "#070e31",
+    "decimals": 18
+  },
+  "liteth": {
+    "coin": "liteth",
+    "name": "Lighter ERC20",
+    "uri": [
+      "liteth",
+      "lit"
+    ],
+    "unit": "LIT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/LIT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "birbsol": {
+    "coin": "birbsol",
+    "name": "Moonbirds SPL",
+    "uri": [
+      "birbsol",
+      "birb"
+    ],
+    "slip": 501,
+    "mint": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+    "unit": "BIRB",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BIRB.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#fbfbfb",
+    "decimals": 6
+  },
+  "usateth": {
+    "coin": "usateth",
+    "name": "Tether America USD ERC20",
+    "uri": [
+      "usateth",
+      "usat"
+    ],
+    "unit": "USAT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USAT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x07041776f5007aca2a54844f50503a18a72a8b68",
+    "color": "#e70505",
+    "decimals": 6
+  },
+  "senteth": {
+    "coin": "senteth",
+    "name": "Sentient ERC20",
+    "uri": [
+      "senteth",
+      "sent"
+    ],
+    "unit": "SENT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SENT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x56a3ba04e95d34268a19b2a4474dc979babdaf76",
+    "color": "#fc6a8e",
+    "decimals": 18
+  },
+  "zamaeth": {
+    "coin": "zamaeth",
+    "name": "Zama ERC20",
+    "uri": [
+      "zamaeth",
+      "zama"
+    ],
+    "unit": "ZAMA",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ZAMA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xa12cc123ba206d4031d1c7f6223d1c2ec249f4f3",
+    "color": "#1d1d1b",
+    "decimals": 18
+  },
+  "triabsc": {
+    "coin": "triabsc",
+    "name": "TRIA BEP20",
+    "uri": [
+      "triabsc",
+      "tria"
+    ],
+    "unit": "TRIA",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TRIA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xb0b92de23baa85fb06208277e925ced53edab482",
+    "color": "#080808",
+    "decimals": 18
+  },
+  "azteceth": {
+    "coin": "azteceth",
+    "name": "Aztec ERC20",
+    "uri": [
+      "azteceth",
+      "aztec"
+    ],
+    "unit": "AZTEC",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AZTEC.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xa27ec0006e59f245217ff08cd52a7e8b169e62d2",
+    "color": "#2e0600",
+    "decimals": 18
+  },
+  "checkbase": {
+    "coin": "checkbase",
+    "name": "Checkmate BASE",
+    "uri": [
+      "checkbase",
+      "check"
+    ],
+    "unit": "CHECK",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CHECK.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x9126236476efba9ad8ab77855c60eb5bf37586eb",
+    "color": "#0d1017",
+    "decimals": 18
+  },
+  "tloseth": {
+    "coin": "tloseth",
+    "name": "Telos ERC20",
+    "uri": [
+      "tloseth",
+      "tlos"
+    ],
+    "unit": "TLOS",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TLOS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x193f4a4a6ea24102f49b931deeeb931f6e32405d",
+    "color": "#e68f7b",
+    "decimals": 18
+  },
+  "nvdaoneth": {
+    "coin": "nvdaoneth",
+    "name": "NVIDIA (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "nvdaoneth",
+      "nvdaon"
+    ],
+    "unit": "NVDAON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/NVDAON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x2d1f7226bd1f780af6b9a49dcc0ae00e8df4bdee",
+    "color": "#d9d9d9",
+    "decimals": 18
+  },
+  "slvoneth": {
+    "coin": "slvoneth",
+    "name": "iShares Silver Trust (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "slvoneth",
+      "slvon"
+    ],
+    "unit": "SLVON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/SLVON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xf3e4872e6a4cf365888d93b6146a2baa7348f1a4",
+    "color": "#ffd6bf",
+    "decimals": 18
+  },
+  "tslaoneth": {
+    "coin": "tslaoneth",
+    "name": "Tesla (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "tslaoneth",
+      "tslaon"
+    ],
+    "unit": "TSLAON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/TSLAON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xf6b1117ec07684d3958cad8beb1b302bfd21103f",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "nightbsc": {
+    "coin": "nightbsc",
+    "name": "Midnight BEP20",
+    "uri": [
+      "nightbsc",
+      "night"
+    ],
+    "unit": "NIGHT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/nightbsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xfe930c2d63aed9b82fc4dbc801920dd2c1a3224f",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "ktabase": {
+    "coin": "ktabase",
+    "name": "Keeta BASE",
+    "uri": [
+      "ktabase",
+      "kta"
+    ],
+    "unit": "KTA",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KTA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0xc0634090f2fe6c6d75e61be2b949464abb498973",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "crcloneth": {
+    "coin": "crcloneth",
+    "name": "Circle Internet Group (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "crcloneth",
+      "crclon"
+    ],
+    "unit": "CRCLON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CRCLON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x3632dea96a953c11dac2f00b4a05a32cd1063fae",
+    "color": "#fefdfd",
+    "decimals": 18
+  },
+  "aaploneth": {
+    "coin": "aaploneth",
+    "name": "Apple (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "aaploneth",
+      "aaplon"
+    ],
+    "unit": "AAPLON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AAPLON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x14c3abf95cb9c93a8b82c1cdcb76d72cb87b2d4c",
+    "color": "#d9d9d9",
+    "decimals": 18
+  },
+  "iauoneth": {
+    "coin": "iauoneth",
+    "name": "iShares Gold Trust (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "iauoneth",
+      "iauon"
+    ],
+    "unit": "IAUON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/IAUON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x4f0ca3df1c2e6b943cf82e649d576ffe7b2fabcf",
+    "color": "#ffd6bf",
+    "decimals": 18
+  },
+  "metaoneth": {
+    "coin": "metaoneth",
+    "name": "Meta Platforms (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "metaoneth",
+      "metaon"
+    ],
+    "unit": "METAON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/METAON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x59644165402b611b350645555b50afb581c71eb2",
+    "color": "#cde1f9",
+    "decimals": 18
+  },
+  "qqqoneth": {
+    "coin": "qqqoneth",
+    "name": "Invesco QQQ ETF (Ondo Tokenized ETF) ERC20",
+    "uri": [
+      "qqqoneth",
+      "qqqon"
+    ],
+    "unit": "QQQON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/QQQON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x0e397938c1aa0680954093495b70a9f5e2249aba",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "raveeth": {
+    "coin": "raveeth",
+    "name": "RaveDAO ERC20",
+    "uri": [
+      "raveeth",
+      "rave"
+    ],
+    "unit": "RAVE",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/RAVE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x17205fab260a7a6383a81452ce6315a39370db97",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "stablebsc": {
+    "coin": "stablebsc",
+    "name": "​​Stable BEP20",
+    "uri": [
+      "stablebsc",
+      "stable"
+    ],
+    "unit": "STABLE",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/STABLE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f",
+    "color": "#fbfffe",
+    "decimals": 18
+  },
+  "amznoneth": {
+    "coin": "amznoneth",
+    "name": "Amazon (Ondo Tokenized Stock) ERC20",
+    "uri": [
+      "amznoneth",
+      "amznon"
+    ],
+    "unit": "AMZNON",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/AMZNON.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xbb8774fb97436d23d74c1b882e8e9a69322cfd31",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "gweieth": {
+    "coin": "gweieth",
+    "name": "ETHGas ERC20",
+    "uri": [
+      "gweieth",
+      "gwei"
+    ],
+    "unit": "GWEI",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GWEI.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x2798b1cc5a993085e8a9d46e80499f1b63f42204",
+    "color": "#7dcedc",
+    "decimals": 18
+  },
+  "walsui": {
+    "coin": "walsui",
+    "name": "Walrus SUI",
+    "uri": [
+      "walsui",
+      "wal"
+    ],
+    "unit": "WAL",
+    "type": "sui",
+    "coinType": "token",
+    "logolink": "@/assets/logos/WAL.svg",
+    "contractAddress": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+    "slip": 784,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#8bf6f9",
+    "decimals": 9
+  },
+  "basedeth": {
+    "coin": "basedeth",
+    "name": "Based Token ERC20",
+    "uri": [
+      "basedeth",
+      "based"
+    ],
+    "unit": "BASED",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BASED.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x4f2b33840227ddd0e28da8d4185d6fa07adfed87",
+    "color": "#ff6942",
+    "decimals": 18
+  },
+  "chiparb": {
+    "coin": "chiparb",
+    "name": "USD.AI Arb",
+    "uri": [
+      "chiparb",
+      "chip"
+    ],
+    "unit": "CHIP",
+    "type": "arbitrum",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CHIP.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x0c1c1c109fe34733fca54b82d7b46b75cfb71f6e",
+    "color": "#9a8071",
+    "decimals": 18
+  },
+  "opgbsc": {
+    "coin": "opgbsc",
+    "name": "OpenGradient BEP20",
+    "uri": [
+      "opgbsc",
+      "opg"
+    ],
+    "unit": "OPG",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/OPG.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x5feccd17c393caf1001d18164236a37e731fcb9d",
+    "color": "#bcebf6",
+    "decimals": 18
+  },
+  "geniusbsc": {
+    "coin": "geniusbsc",
+    "name": "Genius Terminal BEP20",
+    "uri": [
+      "geniusbsc",
+      "genius"
+    ],
+    "unit": "GENIUS",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GENIUS.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x1f12b85aac097e43aa1555b2881e98a51090e9a6",
+    "color": "#782fd7",
+    "decimals": 18
+  },
+  "bsbbsc": {
+    "coin": "bsbbsc",
+    "name": "Block Street BEP20",
+    "uri": [
+      "bsbbsc",
+      "bsb"
+    ],
+    "unit": "BSB",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BSB.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x595deaad1eb5476ff1e649fdb7efc36f1e4679cc",
+    "color": "#fe6d47",
+    "decimals": 18
+  },
+  "deepsui": {
+    "coin": "deepsui",
+    "name": "DeepBook SUI",
+    "uri": [
+      "deepsui",
+      "deep"
+    ],
+    "unit": "DEEP",
+    "type": "sui",
+    "coinType": "token",
+    "logolink": "@/assets/logos/DEEP.svg",
+    "contractAddress": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+    "slip": 784,
+    "fee": 0,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 2
+    },
+    "color": "#fefefe",
+    "decimals": 6
+  },
+  "billbsc": {
+    "coin": "billbsc",
+    "name": "Billions Network BEP20",
+    "uri": [
+      "billbsc",
+      "bill"
+    ],
+    "unit": "BILL",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BILL.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xdf24f8c21cb404b3031a450d8e049d6e39fc1fa5",
+    "color": "#0046ff",
+    "decimals": 18
+  },
+  "acneth": {
+    "coin": "acneth",
+    "name": "AITECH Cloud Network ERC20",
+    "uri": [
+      "acneth",
+      "acn"
+    ],
+    "unit": "ACN",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ACN.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x3e76dd57e649a263a532cc9bcc58b32a065fb2a4",
+    "color": "#999999",
+    "decimals": 18
+  },
+  "billeth": {
+    "coin": "billeth",
+    "name": "Billions Network ERC20",
+    "uri": [
+      "billeth",
+      "bill"
+    ],
+    "unit": "BILL",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/billeth.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xb1110919016846972056ab995054d65560d5f05e",
+    "color": "#0046ff",
+    "decimals": 18
+  },
+  "usdgeth": {
+    "coin": "usdgeth",
+    "name": "Global Dollar ERC20",
+    "uri": [
+      "usdgeth",
+      "usdg"
+    ],
+    "unit": "USDG",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/USDG.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+    "color": "#314012",
+    "decimals": 6
+  },
+  "rainarb": {
+    "coin": "rainarb",
+    "name": "Rain Arb",
+    "uri": [
+      "rainarb",
+      "rain"
+    ],
+    "unit": "RAIN",
+    "type": "arbitrum",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/RAIN.svg",
+    "fee": 100000,
+    "feepolicy": {
+      "economy": 0.01,
+      "normal": 0.05,
+      "fast": 0.1
+    },
+    "contractAddress": "0x25118290e6a5f4139381d072181157035864099d",
+    "color": "#c2df13",
+    "decimals": 18
+  },
+  "cfgeth": {
+    "coin": "cfgeth",
+    "name": "Centrifuge ERC20",
+    "uri": [
+      "cfgeth",
+      "cfg"
+    ],
+    "unit": "CFG",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CFG.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "xaut0bsc": {
+    "coin": "xaut0bsc",
+    "name": "Tether Gold Tokens BEP20",
+    "uri": [
+      "xaut0bsc",
+      "xaut0"
+    ],
+    "unit": "XAUT0",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/XAUT0.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x21caef8a43163eea865baee23b9c2e327696a3bf",
+    "color": "#d3b25b",
+    "decimals": 6
+  },
+  "blendeth": {
+    "coin": "blendeth",
+    "name": "Fluent ERC20",
+    "uri": [
+      "blendeth",
+      "blend"
+    ],
+    "unit": "BLEND",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BLEND.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xd8a271974e8edae9d7b58e3370dc1669427503f4",
+    "color": "#fefefe",
+    "decimals": 18
+  },
+  "reeth": {
+    "coin": "reeth",
+    "name": "Re Protocol ERC20",
+    "uri": [
+      "reeth",
+      "re"
+    ],
+    "unit": "RE",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/RE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x526526528f35ac738177003b8773b402b8df8143",
+    "color": "#f4f4f4",
+    "decimals": 18
+  },
+  "arxsol": {
+    "coin": "arxsol",
+    "name": "Arcium SPL",
+    "uri": [
+      "arxsol",
+      "arx"
+    ],
+    "slip": 501,
+    "mint": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "unit": "ARX",
+    "type": "solana",
+    "coinType": "token",
+    "logolink": "@/assets/logos/ARX.svg",
+    "fee": 0.000017,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 1,
+      "fast": 1
+    },
+    "color": "#6d45ff",
+    "decimals": 9
+  },
+  "obase": {
+    "coin": "obase",
+    "name": "o1.exchange BASE",
+    "uri": [
+      "obase",
+      "o"
+    ],
+    "unit": "O",
+    "type": "base",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/O.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 0.1,
+      "normal": 0.5,
+      "fast": 1
+    },
+    "contractAddress": "0x182fa643e5f29d5eca75e7b9cf9336a3fe4620b2",
+    "color": "#000000",
+    "decimals": 18
+  },
+  "kitebsc": {
+    "coin": "kitebsc",
+    "name": "Kite BEP20",
+    "uri": [
+      "kitebsc",
+      "kite"
+    ],
+    "unit": "KITE",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/KITE.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x904567252d8f48555b7447c67dca23f0372e16be",
+    "color": "#9b8564",
+    "decimals": 18
+  },
+  "beatbsc": {
+    "coin": "beatbsc",
+    "name": "Audiera BEP20",
+    "uri": [
+      "beatbsc",
+      "beat"
+    ],
+    "unit": "BEAT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BEAT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xcf3232b85b43bca90e51d38cc06cc8bb8c8a3e36",
+    "color": "#925fc5",
+    "decimals": 18
+  },
+  "ubbsc": {
+    "coin": "ubbsc",
+    "name": "Unibase BEP20",
+    "uri": [
+      "ubbsc",
+      "ub"
+    ],
+    "unit": "UB",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/UB.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x40b8129b786d766267a7a118cf8c07e31cdb6fde",
+    "color": "#4954f1",
+    "decimals": 18
+  },
+  "allobsc": {
+    "coin": "allobsc",
+    "name": "Allora BEP20",
+    "uri": [
+      "allobsc",
+      "allo"
+    ],
+    "unit": "ALLO",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/allobsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xcce5f304fd043d6a4e8ccb5376a4a4fb583b98d5",
+    "color": "#171717",
+    "decimals": 18
+  },
+  "capeth": {
+    "coin": "capeth",
+    "name": "Cap ERC20",
+    "uri": [
+      "capeth",
+      "cap"
+    ],
+    "unit": "CAP",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/CAP.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0x99991c6aabba5a096f24f250b73580f5179b9999",
+    "color": "#d1ed29",
+    "decimals": 18
+  },
+  "evaabsc": {
+    "coin": "evaabsc",
+    "name": "EVAA Protocol BEP20",
+    "uri": [
+      "evaabsc",
+      "evaa"
+    ],
+    "unit": "EVAA",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/EVAA.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0xaa036928c9c0df07d525b55ea8ee690bb5a628c1",
+    "color": "#3400eb",
+    "decimals": 18
+  },
+  "zamabsc": {
+    "coin": "zamabsc",
+    "name": "Zama BEP20",
+    "uri": [
+      "zamabsc",
+      "zama"
+    ],
+    "unit": "ZAMA",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/zamabsc.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x6907a5986c4950bdaf2f81828ec0737ce787519f",
+    "color": "#1d1d1b",
+    "decimals": 18
+  },
+  "grvteth": {
+    "coin": "grvteth",
+    "name": "GRVT Token ERC20",
+    "uri": [
+      "grvteth",
+      "grvt"
+    ],
+    "unit": "GRVT",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/GRVT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xad29f2723fcdbcf665f210f25e06f97477e417cf",
+    "color": "#b2e970",
+    "decimals": 18
+  },
+  "bsbeth": {
+    "coin": "bsbeth",
+    "name": "Block Street ERC20",
+    "uri": [
+      "bsbeth",
+      "bsb"
+    ],
+    "unit": "BSB",
+    "type": "eth",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/bsbeth.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 50,
+      "normal": 80,
+      "fast": 120
+    },
+    "contractAddress": "0xdb6ba5d510f114f9b2ea08bea7d30e32eee33411",
+    "color": "#fe6d47",
+    "decimals": 18
+  },
+  "btwbsc": {
+    "coin": "btwbsc",
+    "name": "Bitway BEP20",
+    "uri": [
+      "btwbsc",
+      "btw"
+    ],
+    "unit": "BTW",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/BTW.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+    "color": "#163300",
+    "decimals": 18
+  },
+  "debitbsc": {
+    "coin": "debitbsc",
+    "name": "Teller BEP20",
+    "uri": [
+      "debitbsc",
+      "debit"
+    ],
+    "unit": "DEBIT",
+    "type": "bsc",
+    "family": "ethlike",
+    "coinType": "token",
+    "logolink": "@/assets/logos/DEBIT.svg",
+    "fee": 120000,
+    "feepolicy": {
+      "economy": 6,
+      "normal": 10,
+      "fast": 15
+    },
+    "contractAddress": "0x66661c7229901f568f16bd1551b3ba826f83ce49",
+    "color": "#030303",
+    "decimals": 18
   }
 }
