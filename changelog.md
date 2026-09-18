@@ -1,6 +1,13 @@
 
 # Changelog
 
+## [8.38.0] – Security Screening
+
+### Added
+
+- **Scam & Drainer Screening:** Before you send, swap or approve a WalletConnect request, ZelCore now checks the recipient, token spender and dApp against known scam and drainer lists and warns you in red. Known scams need an explicit confirmation before signing. Turn it off any time under Settings > Security.
+- **Spam Token Filter:** Tokens flagged as honeypots, fakes or airdrop scams are hidden from your portfolio automatically. Nothing is deleted; find them under Asset Management and show any you actually want.
+
 ## [8.37.1] – Buy & Sell Sign-In Fix
 
 Version 8.37.1 fixes Buy & Sell provider checkouts that could not sign you in on desktop 8.37.0.
