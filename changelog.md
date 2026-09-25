@@ -1,12 +1,33 @@
 
 # Changelog
 
-## [8.38.0] – Security Screening
+## [8.38.0] – Security Screening & XDC Network
+
+Version 8.38.0 screens the addresses, tokens and dApps you interact with against known scam and drainer lists, adds XDC Network as a fully supported blockchain, protects your Ergo tokens from storage rent, and brings 142 new tokens across nine chains.
 
 ### Added
 
 - **Scam & Drainer Screening:** Before you send, swap or approve a WalletConnect request, ZelCore now checks the recipient, token spender and dApp against known scam and drainer lists and warns you in red. Known scams need an explicit confirmation before signing. Turn it off any time under Settings > Security.
-- **Spam Token Filter:** Tokens flagged as honeypots, fakes or airdrop scams are hidden from your portfolio automatically. Nothing is deleted; find them under Asset Management and show any you actually want.
+- **Spam Token Filter:** Turn on Hide spam tokens under Settings > Security to keep tokens flagged as honeypots, fakes or airdrop scams out of your portfolio. It is off by default. Nothing is deleted; find hidden tokens under Asset Management and show any you actually want.
+- **XDC Network:** XDC is now a fully supported blockchain — balances, transaction history, sending, receiving and CSV export. USDC and Wrapped XDC ship with it, and any other XDC token can be added by its contract address.
+- **XDC Addresses in Either Form:** Addresses written the `xdc…` way are accepted wherever XDC or an XDC token is sent, and when importing an XDC token. Pasted into another network's send screen, an `xdc…` address is refused with a note saying which network it belongs to, so funds never land on the wrong chain. The Receive screen shows both the `0x…` and `xdc…` spelling of your address, each with its own copy button.
+- **Ergo Tokens at Risk Alert:** On Ergo, a box that sits unmoved for four years with too little ERG can be claimed by anyone, without your private key, tokens included. Right after you log in, ZelCore checks the Ergo address of every wallet with Ergo activated. If any of your Ergo token boxes will become claimable within a year, a dialog lists each affected wallet with its tokens and the date, and offers **Secure my tokens**: a self-transfer that moves them into a single box carrying enough ERG to survive storage rent for decades. The alert returns at every login until the tokens are secured, and the Ergo send screen links to it while a wallet is at risk.
+- **Ergo Storage Rent Explained:** The send screen of every Ergo asset explains the four-year rule in plain words, with a link to the announcement.
+- **142 New Tokens:** We added 142 popular tokens on Ethereum, BNB Smart Chain, Base, Arbitrum, Optimism, Solana, TON, Sui and Cardano, so more of what you can swap is also something you can hold.
+
+### Changed
+
+- **1 ERG on Every Ergo Token Transfer:** Sending an Ergo token now attaches 1 ERG to the recipient's box instead of the 0.001 ERG network minimum, giving the box decades of rent coverage. Sending a token needs at least 1 ERG plus the fee in your wallet. Swaps and Fusion deposits keep the 0.001 ERG minimum, since the provider sweeps the deposit and would keep the extra ERG.
+- **Flux on Ergo Discontinued:** The Flux–Ergo bridge is terminated. FLUX-ERG balances at Ergo block 1,878,291 (September 21, 2026) are honored 1:1 and can be claimed inside Fusion from early October. Do not buy FLUX on Ergo.
+
+### Fixed
+
+- **Solana Staking Minimum:** Solana raised the minimum for a new stake account to 1 SOL. The Earn wizard still accepted smaller amounts and the stake then failed at the last step with a raw error code. It now asks for at least 1.0023 SOL up front, and the confirmation step shows the validator your stake actually goes to.
+- **Flux Earn Redeem:** When a Titan stake expired, the Redeem window left out the returned stake and could block the redeem entirely. It now shows and pays out the full amount, stake included.
+- **Stable Assets List:** Seventeen stablecoins the app already ships were missing from the Stable Assets group — USDC on BNB Smart Chain and USDT on Arbitrum and Optimism among them. The group is complete again.
+- **Token Balance Errors:** On chains that read tokens one at a time, an unreachable node left the old token balances on screen with nothing to say they were stale. That now reports as the error it is.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
 
 ## [8.37.1] – Buy & Sell Sign-In Fix
 

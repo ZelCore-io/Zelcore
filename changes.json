@@ -1,25 +1,25 @@
 {
-  "version": "8.37.1",
-  "codename": "Tokenized Stocks (bStocks)",
+  "version": "8.38.0",
+  "codename": "Security Screening & XDC Network",
   "info": [
-    "Version 8.37.1 fixes Buy & Sell provider checkouts that could not sign you in on desktop 8.37.0, on top of 8.37.0's bStocks, in-app FluxDrive plans, and Earn improvements."
+    "Version 8.38.0 screens the addresses, tokens and dApps you interact with against known scam and drainer lists, adds XDC Network as a fully supported blockchain, protects your Ergo tokens from storage rent, and brings 142 new tokens across nine chains."
   ],
   "bugs": [
-    "Buy & Sell Sign-In: Fixed third-party provider checkouts opened from the Buy and Sell screens failing to load or sign you in on desktop. Providers' pages and sign-in popups now receive the request headers they expect.",
-    "Flux Staking Sign-In: Fixed FluxID sign-in failing for anyone using a region proxy. Sign-in now connects directly and only falls back to the proxy when the direct connection is blocked.",
-    "Titan Staking: The redeem dialog now lists labeled wallets instead of a raw internal ID, completed stakes are tagged correctly, and the MAX button no longer fills in a negative amount when the network is fully subscribed.",
-    "Portfolio Stability: Fixed the app breaking when opening or switching to a coin whose data is temporarily unavailable.",
-    "FluxDrive Messages: An expired-subscription notice no longer shows raw page code in the notification, and it is now recognized whatever wording the server returns.",
+    "Solana Staking Minimum: Solana raised the minimum for a new stake account to 1 SOL. The Earn wizard still accepted smaller amounts and the stake then failed at the last step with a raw error code. It now asks for at least 1.0023 SOL up front, and the confirmation step shows the validator your stake actually goes to.",
+    "Flux Earn Redeem: When a Titan stake expired, the Redeem window left out the returned stake and could block the redeem entirely. It now shows and pays out the full amount, stake included.",
+    "Stable Assets List: Seventeen stablecoins the app already ships were missing from the Stable Assets group — USDC on BNB Smart Chain and USDT on Arbitrum and Optimism among them. The group is complete again.",
+    "Token Balance Errors: On chains that read tokens one at a time, an unreachable node left the old token balances on screen with nothing to say they were stale. That now reports as the error it is.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
   "features": [
-    "bStocks — Tokenized US Stocks: Browse and add tokenized US equities on BNB Smart Chain from a dedicated 'Add bStocks' screen. Each bStock is backed 1:1 by real shares, issued by BTech Holdings Ltd under an FSRA-approved prospectus (ADGM).",
-    "bStock Prices & Charts: Every bStock shows a live price and full price-history chart in your portfolio, along with how many shares each token represents.",
-    "Buy & Sell bStocks: bStocks are available in the Swap and Buy/Sell screens, so you can trade into and out of them using the balances you already hold.",
-    "FluxDrive Plans In-App: Buy or renew a FluxDrive storage plan with FLUX without leaving ZelCore. The plan is credited to the FluxID of the wallet you pay from, and you are notified as soon as it lands.",
-    "Earn PIN Confirmation: Staking actions in the Earn tab — stake, unstake, modify and redeem — now ask for your d2FA PIN before signing, the same as sending, if you have d2FA enabled.",
-    "FluxDrive Search: File search now looks across your whole FluxDrive account instead of only the files already loaded on screen.",
-    "Longer Price Charts: The 3-month, 1-year and max chart ranges now show the year on date labels, so points months apart are no longer ambiguous."
+    "Scam & Drainer Screening: Before you send, swap or approve a WalletConnect request, ZelCore now checks the recipient, token spender and dApp against known scam and drainer lists and warns you in red. Known scams need an explicit confirmation before signing. Turn it off any time under Settings > Security.",
+    "Spam Token Filter: Turn on Hide spam tokens under Settings > Security to keep tokens flagged as honeypots, fakes or airdrop scams out of your portfolio. It is off by default. Nothing is deleted; find hidden tokens under Asset Management and show any you actually want.",
+    "XDC Network: XDC is now a fully supported blockchain — balances, transaction history, sending, receiving and CSV export. USDC and Wrapped XDC ship with it, and any other XDC token can be added by its contract address.",
+    "XDC Addresses in Either Form: Addresses written the 'xdc…' way are accepted wherever XDC or an XDC token is sent, and when importing an XDC token. Pasted into another network's send screen, an 'xdc…' address is refused with a note saying which network it belongs to, so funds never land on the wrong chain. The Receive screen shows both the '0x…' and 'xdc…' spelling of your address, each with its own copy button.",
+    "Ergo Tokens at Risk Alert: On Ergo, a box that sits unmoved for four years with too little ERG can be claimed by anyone, tokens included. After you log in, ZelCore checks every wallet's Ergo address and, if token boxes will become claimable within a year, offers Secure my tokens: a self-transfer into one box carrying enough ERG to survive storage rent for decades.",
+    "1 ERG on Every Ergo Token Transfer: Sending an Ergo token now attaches 1 ERG to the recipient's box instead of 0.001 ERG, so the box is covered for decades. Sending a token needs at least 1 ERG plus the fee in your wallet. Swaps and Fusion deposits keep the 0.001 ERG minimum.",
+    "Flux on Ergo Discontinued: The Flux–Ergo bridge is terminated. FLUX-ERG balances at Ergo block 1,878,291 (September 21, 2026) are honored 1:1 and can be claimed inside Fusion from early October. Do not buy FLUX on Ergo.",
+    "142 New Tokens: We added 142 popular tokens on Ethereum, BNB Smart Chain, Base, Arbitrum, Optimism, Solana, TON, Sui and Cardano, so more of what you can swap is also something you can hold."
   ]
 }
