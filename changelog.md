@@ -1,6 +1,55 @@
 
 # Changelog
 
+## [8.39.0] – Tax Export & Kaspa
+
+Version 8.39.0 rebuilds Tax & CSV export with complete history, fiat values and templates for popular tax tools, brings KNS names, KRC-20 token discovery, UTXO consolidation and Ledger support to Kaspa, lets you delete a FluxNode and free its collateral without a transaction, replaces the node maps with a faster built-in map, and adds InstaSwap as a swap provider.
+
+### Added
+
+- **Tax & CSV Export:** One export for every coin. Open it from the Export CSV button on a coin's screen or from **Tax & CSV export** in the wallet menu. Pick the wallets, coins and period, then save one combined file or one file per coin. The dialog lists every server it will contact. An encrypted cache on your device means a repeat export only reads what is new. Deleting an account clears its cache.
+- **Tax Tool Templates:** Layouts for Koinly, CoinTracker, CoinLedger, CoinTracking, Blockpit, ZenLedger, TokenTax and eleven more tools, plus neutral and accountant layouts. Each follows the tool's published sample file. Save as CSV, XLSX or JSON.
+- **Custom Mappings and Address List:** Add, reorder and rename columns, map each to a field or a fixed value, and set the date format, timezone, decimal separator and sign convention. A preview shows your own history. Mappings can be exported and imported. For tax tools that sync by address, you can also export or copy a list of your public addresses. It never contains keys.
+- **Kaspa Names:** Send KAS or KRC-20 tokens to a KNS name such as `alice.kas`. The resolved address is shown under the name, and Send stays disabled until it resolves.
+- **KRC-20 Tokens:** Tokens your wallet holds are listed under Imported Kaspa Tokens in Add Assets. They are not added to your portfolio on their own, because anyone can send a token to any address. Verify shows a token's logo, decimals, supply and minting state before you import it, and refuses a ticker that was never deployed. The KAS and token screens find interrupted transfers, whose 0.3 KAS deposit was stuck, and let you complete them.
+- **Kaspa Tools:** With more than 80 UTXOs, the KAS screen offers **Consolidate UTXOs** and shows the merge count and total fee before signing. **Load More** fetches older transactions. Incoming payments show within seconds while a Kaspa or KRC-20 screen is open. Sign Message works with Kaspa addresses, in the Kaspa NG and KasWare format.
+- **Kaspa on Ledger:** Import a Kaspa address from a Ledger device and send KAS. KRC-20 tokens on Ledger are not supported yet.
+- **KCC Tokens:** Kaspa covenant tokens (KRON and KCC-20) at your address are found, checked against ZelCore's own Kaspa node, and shown with balance, supply and history. They are view-only for now: sending is not supported yet.
+- **iKAS to KAS:** The Igra bridge can move iKAS back to KAS. The iKAS is burned on Igra, and the KAS typically arrives within 48-72 hours. Limits and fees are read live from the bridge.
+- **Flux on Ergo to Flux Main Chain:** In Fusion, FLUX-ERG holders at Ergo block 1,878,291 can claim 1:1 to a Flux address with the new migration option, with no fee. Existing snapshot and mining claims now pay out on the Flux main chain, to one of your Flux wallets.
+- **InstaSwap:** InstaSwap is now a swap provider, in three forms: InstaSwap routes your swap through decentralized exchanges, InstaSwap Private makes the deposit and payout impossible to link on-chain, and InstaSwap ZK settles through a zero-knowledge shielded pool.
+- **Swap Badges:** Swap offers can show DEX, Private and ZK badges, with a legend that explains each. A ZK swap can take more than an hour.
+- **CumulusVPN:** CumulusVPN joins FluxDrive and the other Flux network apps in Apps. It opens the CumulusVPN website on desktop and the App Store or Google Play listing on mobile.
+
+### Changed
+
+- **Export Accuracy:** The export reads each address's history to the end, where the old export stopped after one page or a fixed number of rows on many chains. Fees are counted for the wallet that paid them. Failed transactions keep their fee and show no amount. Contract calls, internal transfers and both sides of a swap are written out. Every row is valued from full price history. Rows ZelCore cannot price or classify are flagged, never dropped and never valued at 0. Prices are only fetched when the chosen layout has fiat or price columns. Cosmos Hub, Osmosis, Cardano, Sui and BNB Beacon Chain can now be exported.
+- **Export Layout:** The ZelCore classic layout has new columns, fees are rows of their own, and a transfer between your own addresses shows only its fee. Retired coins such as Fantom Opera and VeriBlock have no history source left and cannot be exported. Their coin screen says why.
+- **Delete a FluxNode, Free Its Collateral:** Deleting a node used to last only until the next refresh, which locked the collateral again. Now the collateral is free at once, with no transaction, and the node stays deleted after restarts and logins. Its unspent collateral is listed under **Available to lock**, with a **Lock** button. Adding a node whose collateral is already listed points you to Edit.
+- **New Node Map:** The Fluxnodes and Firo maps are rebuilt. They have no watermarks, follow the night or light theme, and zoom smoothly. Hover a location for its nodes, click a country to filter, and use **Only my nodes** to see just yours, including new nodes the network list does not show yet. The map opens at once from saved data and refreshes in the background. In narrow windows it sits under the node table.
+- **Kaspa Sends:** The fee shown is the fee charged. A send with an unclear outcome is checked before the app reports it, so you are not led to pay twice. A mistyped or wrong-network address is flagged as you type. KRC-20 transfers pause while the Kasplex indexer is down, as Kasplex asked of all wallets, and resume when it is back.
+- **Hardware Wallets:** Hardware Wallet appears in the import menu without the Experimental label. Trezor still needs experimental features turned on. Swap, Sell, Earn, WalletConnect, Sign Message and other actions a hardware wallet cannot sign are hidden or refused with a clear message, instead of failing part-way or creating an exchange order first.
+- **Lighter Startup:** ZelCore loads less than half as much code at launch. Code for Veil, Polkadot, Monero, Cardano and Ergo loads the first time you use those chains.
+- **Translations:** All 18 languages cover every screen again. About 27,000 missing translations were added and about 5,000 existing ones corrected.
+
+### Fixed
+
+- **Ledger Sends:** Since 8.38.0, every Ledger send showed "Unknown error" while the device was still waiting for your approval, and a Ledger could get stuck on "Loading device…". Sends now wait for the device, and the wizard notices an app you open on the device later.
+- **PIN Before Swapping:** Swap Now and the Fusion deposit ask for your d2FA PIN before signing, like Send, if d2FA is enabled.
+- **Cardano Token Sends:** A token send from a wallet holding other tokens could be refused by the network, and leftover tokens could be left out. The minimum ADA is now priced at the current network rate, and leftover tokens come back as change.
+- **Kaspa History:** Transactions the network never accepted showed as successful. They now show as pending or failed. KRC-20 token screens, which showed an empty history, now list transfers, mints and marketplace trades. The KAS balance updates right after a KRC-20 send. After switching accounts, the next account no longer sees the previous account's Kasplex indexer warning or KCC token status.
+- **Igra Bridge:** An amount equal to your whole KAS balance was accepted, and the bridge then failed with a generic error, because the entry pays its fee on top. The form now keeps 0.05 KAS back for the fee, the same as the Max button.
+- **Deleting an Account:** Deleting an account while a full node was running only logged you out, and the account stayed. It is now deleted once the node stops. If the node cannot be stopped, the account is kept and an error is shown.
+- **Polkadot, Kusama and Beldex:** Polkadot and Kusama history failed to load with "Error while obtaining Polkadot transactions". It loads again. OpenAlias names that point to a Beldex integrated address or subaddress were refused. They now validate.
+- **Payments and Saving:** Starting a second payment while the "Transaction Sent!" window was open left an empty send form. It now fills the form. A change made within 10 seconds of an earlier save, for example when you closed the app right after it, could be lost. It is now saved.
+- **Ergo and Flux on Ergo:** A private key that did not match the Ergo address got past step two of a claim and failed on send. It is now refused at step two. Closing the app while an Ergo token consolidation was waiting could make the app offer a second one, which the network rejects. The pending consolidation is now remembered.
+- **FluxDrive Payments:** Reopening the plans window after paying could start a new payment and strand the first. A payment sent in the last 2 hours is now picked up again, and the window waits for it to be credited. A server error after a payment was sent no longer brings the Pay button back, since the first payment may already be on its way.
+- **Node Map Filters:** The tier filter on the Fluxnodes map did not work, your own nodes were missed when their saved IP had no port, and nodes without a known location were drawn in the Gulf of Guinea.
+- **Earn, Switches and Dropdowns:** The positions table Actions column stays visible on narrow screens, so unstake, withdraw and redeem can be reached. Some switches, such as those in Earn, had a second knob drawn over them. In the night theme, text behind an open dropdown list showed through it.
+- **Horizen:** The ZEN balance and history no longer loaded, because the old ZEN explorers now show the Base network. They load again from Horizen's legacy explorer. Horizen's mainchain stopped at block 1,807,300 when ZEN moved to Base, so Send is now disabled for mainchain ZEN. ZEN on Base is listed as Horizen BASE Token.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
 ## [8.38.0] – Security Screening & XDC Network
 
 Version 8.38.0 screens the addresses, tokens and dApps you interact with against known scam and drainer lists, adds XDC Network as a fully supported blockchain, protects your Ergo tokens from storage rent, and brings 142 new tokens across nine chains.
