@@ -6957,7 +6957,8 @@
       "fast": 1
     },
     "color": "#46f1ff",
-    "decimals": 6
+    "decimals": 6,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "serum": {
     "coin": "serum",
@@ -16027,7 +16028,8 @@
       "fast": 1
     },
     "color": "#923B0F",
-    "decimals": 9
+    "decimals": 9,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "spx6900": {
     "coin": "spx6900",
@@ -17330,7 +17332,8 @@
       "fast": 1
     },
     "color": "#D7F9C0",
-    "decimals": 9
+    "decimals": 9,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "vana": {
     "coin": "vana",
@@ -20935,5 +20938,630 @@
     "contractAddress": "0x66661c7229901f568f16bd1551b3ba826f83ce49",
     "color": "#030303",
     "decimals": 18
+  },
+  "antxkas": {
+    "coin": "antxkas",
+    "name": "ANTX",
+    "uri": [
+      "antx",
+      "antxkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "ANTX",
+    "contractAddress": "ANTX",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/ANTX.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#69b7a1"
+  },
+  "burtkas": {
+    "coin": "burtkas",
+    "name": "Burt",
+    "uri": [
+      "burt",
+      "burtkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "BURT",
+    "contractAddress": "BURT",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/BURT.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#674e7e"
+  },
+  "dogkkas": {
+    "coin": "dogkkas",
+    "name": "DOGK",
+    "uri": [
+      "dogk",
+      "dogkkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "DOGK",
+    "contractAddress": "DOGK",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/DOGK.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#235251"
+  },
+  "fomoonkas": {
+    "coin": "fomoonkas",
+    "name": "FOMOON",
+    "uri": [
+      "fomoon",
+      "fomoonkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "FOMOON",
+    "contractAddress": "FOMOON",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/FOMOON.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#c4d2b6"
+  },
+  "ghoadkas": {
+    "coin": "ghoadkas",
+    "name": "GHOAD",
+    "uri": [
+      "ghoad",
+      "ghoadkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "GHOAD",
+    "contractAddress": "GHOAD",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/GHOAD.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#65c0b9"
+  },
+  "humpykas": {
+    "coin": "humpykas",
+    "name": "HUMPY",
+    "uri": [
+      "humpy",
+      "humpykas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "HUMPY",
+    "contractAddress": "HUMPY",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/HUMPY.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#737d99"
+  },
+  "kangokas": {
+    "coin": "kangokas",
+    "name": "KANGO",
+    "uri": [
+      "kango",
+      "kangokas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KANGO",
+    "contractAddress": "KANGO",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KANGO.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#5cc1a6"
+  },
+  "kapsakas": {
+    "coin": "kapsakas",
+    "name": "KAPSA",
+    "uri": [
+      "kapsa",
+      "kapsakas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KAPSA",
+    "contractAddress": "KAPSA",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KAPSA.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#5d9192"
+  },
+  "kasbtckas": {
+    "coin": "kasbtckas",
+    "name": "KASBTC",
+    "uri": [
+      "kasbtc",
+      "kasbtckas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KASBTC",
+    "contractAddress": "KASBTC",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KASBTC.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#9a7838"
+  },
+  "kasiakas": {
+    "coin": "kasiakas",
+    "name": "KASIA",
+    "uri": [
+      "kasia",
+      "kasiakas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KASIA",
+    "contractAddress": "KASIA",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KASIA.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#5b998a"
+  },
+  "kaspykas": {
+    "coin": "kaspykas",
+    "name": "Kaspy",
+    "uri": [
+      "kaspy",
+      "kaspykas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KASPY",
+    "contractAddress": "KASPY",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KASPY.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#cfd88f"
+  },
+  "kdaokas": {
+    "coin": "kdaokas",
+    "name": "KDAO",
+    "uri": [
+      "kdao",
+      "kdaokas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KDAO",
+    "contractAddress": "KDAO",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KDAO.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#60ead1"
+  },
+  "keirokas": {
+    "coin": "keirokas",
+    "name": "KEIRO",
+    "uri": [
+      "keiro",
+      "keirokas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KEIRO",
+    "contractAddress": "KEIRO",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KEIRO.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#9f7858"
+  },
+  "kekekas": {
+    "coin": "kekekas",
+    "name": "KEKE",
+    "uri": [
+      "keke",
+      "kekekas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KEKE",
+    "contractAddress": "KEKE",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KEKE.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#6ebeae"
+  },
+  "kgirlskas": {
+    "coin": "kgirlskas",
+    "name": "KGIRLS",
+    "uri": [
+      "kgirls",
+      "kgirlskas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KGIRLS",
+    "contractAddress": "KGIRLS",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KGIRLS.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#cd7451"
+  },
+  "knightkas": {
+    "coin": "knightkas",
+    "name": "KNIGHT",
+    "uri": [
+      "knight",
+      "knightkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KNIGHT",
+    "contractAddress": "KNIGHT",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KNIGHT.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#6fc5b6"
+  },
+  "konankas": {
+    "coin": "konankas",
+    "name": "Konan of Kaspa",
+    "uri": [
+      "konan",
+      "konankas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KONAN",
+    "contractAddress": "KONAN",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KONAN.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#66bba8"
+  },
+  "krexkas": {
+    "coin": "krexkas",
+    "name": "Krex",
+    "uri": [
+      "krex",
+      "krexkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KREX",
+    "contractAddress": "KREX",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KREX.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#418c83"
+  },
+  "kroakkas": {
+    "coin": "kroakkas",
+    "name": "Kroak on Kaspa",
+    "uri": [
+      "kroak",
+      "kroakkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "KROAK",
+    "contractAddress": "KROAK",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/KROAK.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#0fb09f"
+  },
+  "pacmankas": {
+    "coin": "pacmankas",
+    "name": "PACMAN",
+    "uri": [
+      "pacman",
+      "pacmankas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "PACMAN",
+    "contractAddress": "PACMAN",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/PACMAN.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#89683d"
+  },
+  "ppkaskas": {
+    "coin": "ppkaskas",
+    "name": "PPKAS",
+    "uri": [
+      "ppkas",
+      "ppkaskas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "PPKAS",
+    "contractAddress": "PPKAS",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/PPKAS.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#6bbcb0"
+  },
+  "slowkas": {
+    "coin": "slowkas",
+    "name": "SLOW",
+    "uri": [
+      "slow",
+      "slowkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "SLOW",
+    "contractAddress": "SLOW",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/SLOW.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#a69573"
+  },
+  "urukkas": {
+    "coin": "urukkas",
+    "name": "URUK",
+    "uri": [
+      "uruk",
+      "urukkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "URUK",
+    "contractAddress": "URUK",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/URUK.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#2d673a"
+  },
+  "wolfykas": {
+    "coin": "wolfykas",
+    "name": "WOLFY",
+    "uri": [
+      "wolfy",
+      "wolfykas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "WOLFY",
+    "contractAddress": "WOLFY",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/WOLFY.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#936748"
+  },
+  "zealkas": {
+    "coin": "zealkas",
+    "name": "ZEAL",
+    "uri": [
+      "zeal",
+      "zealkas"
+    ],
+    "slip": 111111,
+    "pubKeyHash": "1c",
+    "scriptHash": "28",
+    "wif": "80",
+    "unit": "ZEAL",
+    "contractAddress": "ZEAL",
+    "type": "kaspa",
+    "logolink": "@/assets/logos/ZEAL.svg",
+    "decimals": 8,
+    "fee": 0.0001,
+    "feepolicy": {
+      "economy": 1,
+      "normal": 3,
+      "fast": 10
+    },
+    "coinType": "token",
+    "color": "#694df4"
   }
 }
