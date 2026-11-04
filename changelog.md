@@ -1,6 +1,72 @@
 
 # Changelog
 
+## [8.41.0] – Security Hardening
+
+Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets.
+
+### Added
+
+- **Broccoli (F3B):** Broccoli on BNB Smart Chain is now supported.
+
+### Updated
+
+- **Security:** Stronger protection for your private keys, accounts and copied keys.
+- **WalletConnect and Links:** Safer dApp connections, links and sign-in.
+
+### Fixed
+
+- **KMD Rewards:** Updated to the latest Komodo rewards rules.
+- **Sends:** Better address and balance checks when sending.
+- **Swaps:** Clearer swap messages and more reliable Fusion swaps.
+- **Ravencoin Assets:** Improved Ravencoin asset sends.
+- **BitcoinZ Full Node:** Improved BitcoinZ full-node support.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.40.1] – Sell Fix
+
+Version 8.40.1 fixes selling crypto on the Sell screen in 8.40.0.
+
+### Fixed
+
+- **Sell:** Max and typed amounts no longer drop to 0 for BTC and many other coins, so they can be sold again.
+
+## [8.40.0] – Safer Swaps & Sends
+
+Version 8.40.0 gives swaps and sends clearer results, adds Solana Token-2022 tokens and the top KRC-20 tokens, improves Ledger sends on Ethereum and other EVM chains, and moves ZelCore to its new publisher, InFlux Technologies USA LLC.
+
+### Added
+
+- **Solana Token-2022:** WINGS, AI16Z, BIO and other tokens on Solana's newer token program show their balance and history, and you can send, receive and merge them.
+- **KRC-20 Tokens:** The top KRC-20 tokens are built in with their names. Tokens you list on a marketplace show on the token page and count toward your balance.
+- **dApp Safety Checks:** ZelCore checks Cardano and Kaspa dApp requests before you approve them and warns you when it finds a risk. If a request can't be checked, you can check it again.
+
+### Changed
+
+- **New Publisher:** ZelCore is now published by InFlux Technologies USA LLC. Installed apps keep updating as usual. A newly downloaded Windows installer may show "Windows protected your PC" for a while.
+- **macOS 13 or Later:** ZelCore now runs on Electron 44, which needs macOS 13 or later. Macs on macOS 12 stay on 8.39.
+- **Hardware Wallets:** Sell is available for hardware wallets that can send the coin, and the swap screen tells you up front when a hardware wallet can't be used.
+- **Portfolio:** Coins without a market price show a dash, and the total says how many it leaves out. Small amounts and low prices are shown more precisely.
+- **Lighter App:** Some libraries load only when you need them, and unused code was removed.
+- **Dependencies:** Routine updates for security and stability.
+
+### Fixed
+
+- **Swaps:** Each swap ends with one clear status: sent, not sent, or still being confirmed. Rango swaps confirm with the network before showing a result.
+- **Swap Screen:** Quotes, amounts and fees follow the pair you pick, Max uses your live balance, and Rango routes show their network fee. Tron swaps through Rango need at least 40 TRX for fees.
+- **Cardano Swaps:** ZelCore checks the deposit against your balance, the fee and the minimum ADA before it creates the order. Max leaves 0.01 ADA spare.
+- **Fusion:** Min suggests a round amount, and legacy Fusion swaps ask for your d2FA PIN.
+- **Buy and Sell:** Improvements to Max, quote refresh and order history.
+- **Sends:** ZelCore checks the recipient and amount before you enter your PIN and confirms the network's answer for Tron, Bittensor and EVM sends. Improvements for Avalanche X-Chain, Veil and Polygon, and right-click paste keeps the full payment note.
+- **Ledger:** Improved sends on Ethereum, Polygon, BSC and Avalanche C-Chain. ZelCore waits for your approval on the device and shows a clear message if you reject it or unplug the device. Polygon and BSC use the Ethereum app.
+- **FluxDrive and Zelcore+ Payments:** Each payment is sent only once, also across a restart or an account switch. A payment that is still waiting to be credited offers **Check now** and a way to contact support.
+- **Balances:** If a balance can't be loaded, ZelCore keeps the last known amount and tries again. Incoming-transaction alerts only show new payments.
+- **Deleting an Account:** A running full node's wallet is encrypted before the account is deleted.
+- **Fluxnodes:** The Lock and Release buttons stay in view in a narrow window.
+- **Earn:** Titan APR includes the yearly 10% reduction in Flux rewards, Available to Stake leaves room for the fee, and history reloads when you switch chains.
+- **Other Fixes:** Improvements to dates and app language, Tax & CSV export date ranges, XRP activation notices, WalletConnect messages, Easy Login and privacy.
+
 ## [8.39.0] – Tax Export & Kaspa
 
 Version 8.39.0 rebuilds Tax & CSV export with complete history, fiat values and templates for popular tax tools, brings KNS names, KRC-20 token discovery, UTXO consolidation and Ledger support to Kaspa, lets you delete a FluxNode and free its collateral without a transaction, replaces the node maps with a faster built-in map, and adds InstaSwap as a swap provider.
@@ -8,8 +74,9 @@ Version 8.39.0 rebuilds Tax & CSV export with complete history, fiat values and 
 ### Added
 
 - **Tax & CSV Export:** One export for every coin. Open it from the Export CSV button on a coin's screen or from **Tax & CSV export** in the wallet menu. Pick the wallets, coins and period, then save one combined file or one file per coin. The dialog lists every server it will contact. An encrypted cache on your device means a repeat export only reads what is new. Deleting an account clears its cache.
-- **Tax Tool Templates:** Layouts for Koinly, CoinTracker, CoinLedger, CoinTracking, Blockpit, ZenLedger, TokenTax and eleven more tools, plus neutral and accountant layouts. Each follows the tool's published sample file. Save as CSV, XLSX or JSON.
+- **Tax Tool Templates:** Layouts for Koinly, CoinTracker, CoinLedger, CoinTracking, Blockpit, ZenLedger, TokenTax and eleven more tools, plus neutral and accountant layouts. Each follows the tool's published sample file. Save as CSV, XLSX or JSON. The ZelCore classic and Koinly layouts are free for everyone.
 - **Custom Mappings and Address List:** Add, reorder and rename columns, map each to a field or a fixed value, and set the date format, timezone, decimal separator and sign convention. A preview shows your own history. Mappings can be exported and imported. For tax tools that sync by address, you can also export or copy a list of your public addresses. It never contains keys.
+- **Zelcore+ for Tax Export:** The tax tool layouts other than ZelCore classic and Koinly, fiat values, and creating, editing or importing custom mappings come with Zelcore+. Mappings you already saved can always be exported or deleted, with or without Zelcore+.
 - **Kaspa Names:** Send KAS or KRC-20 tokens to a KNS name such as `alice.kas`. The resolved address is shown under the name, and Send stays disabled until it resolves.
 - **KRC-20 Tokens:** Tokens your wallet holds are listed under Imported Kaspa Tokens in Add Assets. They are not added to your portfolio on their own, because anyone can send a token to any address. Verify shows a token's logo, decimals, supply and minting state before you import it, and refuses a ticker that was never deployed. The KAS and token screens find interrupted transfers, whose 0.3 KAS deposit was stuck, and let you complete them.
 - **Kaspa Tools:** With more than 80 UTXOs, the KAS screen offers **Consolidate UTXOs** and shows the merge count and total fee before signing. **Load More** fetches older transactions. Incoming payments show within seconds while a Kaspa or KRC-20 screen is open. Sign Message works with Kaspa addresses, in the Kaspa NG and KasWare format.
@@ -36,11 +103,12 @@ Version 8.39.0 rebuilds Tax & CSV export with complete history, fiat values and 
 
 - **Ledger Sends:** Since 8.38.0, every Ledger send showed "Unknown error" while the device was still waiting for your approval, and a Ledger could get stuck on "Loading device…". Sends now wait for the device, and the wizard notices an app you open on the device later.
 - **PIN Before Swapping:** Swap Now and the Fusion deposit ask for your d2FA PIN before signing, like Send, if d2FA is enabled.
-- **Cardano Token Sends:** A token send from a wallet holding other tokens could be refused by the network, and leftover tokens could be left out. The minimum ADA is now priced at the current network rate, and leftover tokens come back as change.
+- **Cardano Token Sends:** A token send from a wallet holding other tokens could be refused by the network, and leftover tokens could be left out. The minimum ADA is now priced at the current network rate, and leftover tokens come back as change. Max ADA from a wallet that holds tokens was refused by the network. It now works, and the send stops if the amount changed after you confirmed it. When the change was below the network minimum, up to about 1 ADA could be added to the fee. The send now draws on more of your balance, so that change comes back to you instead. Amounts with more decimal places than a token allows are refused.
+- **Kaspa Sends:** A send that would leave a small change, about 0.15 to 0.4 KAS, was refused with "change too small". It now goes through. Max on a KRC-20 token sends the whole token balance.
 - **Kaspa History:** Transactions the network never accepted showed as successful. They now show as pending or failed. KRC-20 token screens, which showed an empty history, now list transfers, mints and marketplace trades. The KAS balance updates right after a KRC-20 send. After switching accounts, the next account no longer sees the previous account's Kasplex indexer warning or KCC token status.
-- **Igra Bridge:** An amount equal to your whole KAS balance was accepted, and the bridge then failed with a generic error, because the entry pays its fee on top. The form now keeps 0.05 KAS back for the fee, the same as the Max button.
+- **Igra Bridge:** An amount equal to your whole KAS balance was accepted, and the bridge then failed with a generic error, because the entry pays its fee on top. The bridge now shows the network fee, and Max sends your balance minus that fee.
 - **Deleting an Account:** Deleting an account while a full node was running only logged you out, and the account stayed. It is now deleted once the node stops. If the node cannot be stopped, the account is kept and an error is shown.
-- **Polkadot, Kusama and Beldex:** Polkadot and Kusama history failed to load with "Error while obtaining Polkadot transactions". It loads again. OpenAlias names that point to a Beldex integrated address or subaddress were refused. They now validate.
+- **Polkadot, Kusama and Beldex:** Polkadot and Kusama history failed to load with "Error while obtaining Polkadot transactions". It loads again, and no error is shown right after a Polkadot send. OpenAlias names that point to a Beldex integrated address or subaddress were refused. They now validate.
 - **Payments and Saving:** Starting a second payment while the "Transaction Sent!" window was open left an empty send form. It now fills the form. A change made within 10 seconds of an earlier save, for example when you closed the app right after it, could be lost. It is now saved.
 - **Ergo and Flux on Ergo:** A private key that did not match the Ergo address got past step two of a claim and failed on send. It is now refused at step two. Closing the app while an Ergo token consolidation was waiting could make the app offer a second one, which the network rejects. The pending consolidation is now remembered.
 - **FluxDrive Payments:** Reopening the plans window after paying could start a new payment and strand the first. A payment sent in the last 2 hours is now picked up again, and the window waits for it to be credited. A server error after a payment was sent no longer brings the Pay button back, since the first payment may already be on its way.
@@ -178,7 +246,7 @@ Version 8.34.0 fixes Kaspa (KAS) sending and swaps, improves swaps, smooths out 
 
 ### Added
 
-- **WINGS on Solana:** Wings (WINGS) is now built in on Solana, so its balance and price show up automatically — no manual import needed. This brings the total to 736 supported coins.
+- **WINGS on Solana:** Wings (WINGS) is now built in on Solana, so its price shows up automatically, with no manual import needed. This brings the total to 736 supported coins. (Correction: WINGS balances only show from 8.40.0, which adds support for Solana Token-2022 tokens.)
 
 ### Updated
 
