@@ -6957,7 +6957,8 @@
       "fast": 1
     },
     "color": "#46f1ff",
-    "decimals": 6
+    "decimals": 6,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "serum": {
     "coin": "serum",
@@ -16027,7 +16028,8 @@
       "fast": 1
     },
     "color": "#923B0F",
-    "decimals": 9
+    "decimals": 9,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "spx6900": {
     "coin": "spx6900",
@@ -17330,7 +17332,8 @@
       "fast": 1
     },
     "color": "#D7F9C0",
-    "decimals": 9
+    "decimals": 9,
+    "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
   },
   "vana": {
     "coin": "vana",

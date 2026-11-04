@@ -4,7 +4,7 @@
 This document provides an overview of the supported blockchains and their associated tokens in the application. Below is a table listing each blockchain, its type, unit, and the tokens it supports.
 
 - **Total Blockchains**: 99
-- **Total Coins (including tokens)**: 881
+- **Total Coins (including tokens)**: 907
 - **Import Any other token**: If you have a token that is not listed here, you can still import it using the "Import Token" feature in the application.
 
 | Coin | Name | Type | Unit | Tokens |
@@ -32,7 +32,7 @@ This document provides an overview of the supported blockchains and their associ
 | bithereum | Bithereum | electrum | BTH | None |
 | blast | Ethereum BLAST | blast | ETH | BLAST, WBTC, WETH, USDB |
 | bnbbinance | BNB (BC) BEP2 | bnb | BNB | BTCB, RUNE, TUSD, BUSD, NEXO, CHZ, NOW |
-| bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI, USDe, FDUSD, LDO, DEXE, AIOZ, PENDLE, wROSE, ZRO, XCN, ID, SFP, ZEST, XTER, TST, CHEEMS, BROCCOLI, SHELL, COOKIE, AVL, KOMA, MUBARAK, FORM, TUT, BGSC, BR, PARTI, BANANAS31, SIREN, AIOT, B2, USD1, ZKJ, NXPC, B, KOGE, STBL, GIGGLE, JCT, LA, AT, KGST, CMC20, RIVER, TRIA, NIGHT, STABLE, OPG, GENIUS, BSB, BILL, XAUT0, KITE, BEAT, UB, ALLO, EVAA, ZAMA, BTW, DEBIT |
+| bscbinance | BNB (BSC) BEP20 | bsc | BNB | CAKE, ETH, USDT, WBNB, FLUX-BSC, BUSD, SAFEMOON, HUP, BTCB, BTT, ADA, XRP, DOGE, USDC, DOT, UNI, BCH, LTC, LINK, ETC, AVAX, DAI, TRX, EOS, ATOM, AXS, XTZ, MKR, SHIB, IOTA, COMP, ZEC, TUSD, TUSDOLD, ZIL, SNX, YFI, NEAR, BAT, FTM, BNT, PAX, ONT, C98, ANKR, SXP, IOTX, WRX, 1INCH, BAKE, ALPHA, PROM, ORE, SFM, SMTF, BTT, EGLD, FLOKI, USDe, FDUSD, LDO, DEXE, AIOZ, PENDLE, wROSE, ZRO, XCN, ID, SFP, ZEST, XTER, TST, CHEEMS, BROCCOLI, SHELL, COOKIE, AVL, KOMA, MUBARAK, FORM, TUT, BGSC, BR, PARTI, BANANAS31, SIREN, AIOT, B2, USD1, ZKJ, NXPC, B, KOGE, STBL, GIGGLE, JCT, LA, AT, KGST, CMC20, RIVER, TRIA, NIGHT, STABLE, OPG, GENIUS, BSB, BILL, XAUT0, KITE, BEAT, UB, ALLO, EVAA, ZAMA, BTW, DEBIT, BROCCOLI |
 | btcp | Bitcoin Private | zcash | BTCP | None |
 | bzedge | BZEdge | zcash | BZE | None |
 | cardano | Cardano | cardano | ADA | SNEK, WMT, MIN, NIGHT |
@@ -60,7 +60,7 @@ This document provides an overview of the supported blockchains and their associ
 | ilcoin | ILCoin | btc | ILC | None |
 | ink | Ethereum Ink | ink | ETH | USDC.E |
 | kadena | Kadena | kadena | KDA | FLUX-KDA, BABE, KDL, BKA, KDS, MOK, KDX, SKDX, zUSDTEST, zUSD |
-| kaspa | Kaspa | kaspa | KAS | KASPER, NACHO, BKONAN |
+| kaspa | Kaspa | kaspa | KAS | KASPER, NACHO, BKONAN, ANTX, BURT, DOGK, FOMOON, GHOAD, HUMPY, KANGO, KAPSA, KASBTC, KASIA, KASPY, KDAO, KEIRO, KEKE, KGIRLS, KNIGHT, KONAN, KREX, KROAK, PACMAN, PPKAS, SLOW, URUK, WOLFY, ZEAL |
 | kasplex | Kaspa EVM Kasplex | kasplex | KAS | WKAS |
 | kasplextestnet | Kasplex Testnet | kasplextest | KAS | WKAS |
 | komodo | Komodo | zcash | KMD | None |
