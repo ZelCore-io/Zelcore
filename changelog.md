@@ -3,7 +3,7 @@
 
 ## [8.41.0] – Security Hardening
 
-Version 8.41.0 hardens wallet security by clearing private keys on logout, saving your account file safely and tightening WalletConnect and link checks, and fixes KMD rewards, swaps, sends and Ravencoin asset sends.
+Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets.
 
 ### Added
 
@@ -11,20 +11,18 @@ Version 8.41.0 hardens wallet security by clearing private keys on logout, savin
 
 ### Updated
 
-- **Logging Out:** Private keys are cleared from memory when you log out or switch accounts.
-- **Account File:** Your account file is saved in a way that a crash or a full disk can't damage, and backup copies are removed once a save succeeds.
-- **Copying Keys:** After you copy a private key, Fluxnode key or VPS configuration, the confirmation no longer shows the key itself.
-- **WalletConnect:** dApps can only sign with the wallet you connected to them.
-- **Links and Sign-in:** "zel:" links open only ZelCore and Flux sites over a secure connection, and your FluxID is sent only to ZelCore and Flux servers.
+- **Security:** Stronger protection for your private keys, accounts and copied keys.
+- **WalletConnect and Links:** Safer dApp connections, links and sign-in.
 
 ### Fixed
 
-- **KMD Rewards:** Reward estimates and claims follow the current Komodo rules (KIP-0001), and the backup explorer works again.
-- **Sends:** Solana and Bitcoin-style coins check the recipient address and your balance before you enter your PIN.
-- **Swaps and Sell:** ZelCore explains why no quotes are shown or a provider is unavailable, Fusion swaps only report success once the deposit is linked, and the swap list and history update correctly.
-- **Ravencoin Assets:** Sub-assets and tagged assets can be sent, the send form shows the asset name, and the fee uses the right decimal separator.
-- **BitcoinZ Full Node:** Sprout addresses are no longer offered.
-- **Extension:** Coins with a missing logo show it again.
+- **KMD Rewards:** Updated to the latest Komodo rewards rules.
+- **Sends:** Better address and balance checks when sending.
+- **Swaps:** Clearer swap messages and more reliable Fusion swaps.
+- **Ravencoin Assets:** Improved Ravencoin asset sends.
+- **BitcoinZ Full Node:** Improved BitcoinZ full-node support.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
 
 ## [8.40.1] – Sell Fix
 
