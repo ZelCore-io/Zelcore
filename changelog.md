@@ -1,6 +1,15 @@
 
 # Changelog
 
+## [8.41.1] – Security Hardening
+
+Version 8.41.1 restores Zcash sends after the network's NU7 upgrade and keeps more secrets out of the copy message.
+
+### Fixed
+
+- **Zcash:** ZEC sends work again after Zcash's NU7 network upgrade (version 5 transactions), and now pay the network's standard ZIP 317 fee.
+- **FluxNodes and Flux ID:** Copying a FluxNode identity key, a storage phrase or your Flux ID private key no longer shows it in the copy message.
+
 ## [8.41.0] – Security Hardening
 
 Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets.

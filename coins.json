@@ -390,9 +390,10 @@
     "color": "#f4b728",
     "libNetwork": "zcash",
     "utxoInfo": {
-      "txVersion": 4,
+      "txVersion": 5,
       "hasExpiryHeight": true,
-      "txVersionGroupId": 2301567109
+      "txVersionGroupId": 648488714,
+      "consensusBranchId": 1998129881
     }
   },
   "bitcoinz": {
