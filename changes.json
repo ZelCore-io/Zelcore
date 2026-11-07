@@ -1,10 +1,12 @@
 {
-  "version": "8.41.0",
+  "version": "8.41.1",
   "codename": "Security Hardening",
   "info": [
-    "Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets."
+    "Version 8.41.1 restores Zcash sends after the network's NU7 upgrade and stops FluxNode keys, storage phrases and your Flux ID private key from showing in the copy message, on top of 8.41.0's stronger wallet security and improvements to KMD rewards, swaps, sends and Ravencoin assets."
   ],
   "bugs": [
+    "Zcash: ZEC sends work again after Zcash's NU7 network upgrade, and now pay the network's standard fee.",
+    "FluxNodes and Flux ID: Copying a FluxNode identity key, a storage phrase or your Flux ID private key no longer shows it in the copy message.",
     "Security: Stronger protection for your private keys, accounts and copied keys.",
     "WalletConnect and Links: Safer dApp connections, links and sign-in.",
     "KMD Rewards: Updated to the latest Komodo rewards rules.",
