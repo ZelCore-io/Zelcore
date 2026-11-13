@@ -381,7 +381,7 @@
     "type": "zcash",
     "coinType": "native",
     "logolink": "@/assets/logos/ZEC.svg",
-    "fee": 0.0000226,
+    "fee": 0.0001,
     "feepolicy": {
       "economy": 1,
       "normal": 5,
