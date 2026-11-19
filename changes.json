@@ -1,17 +1,18 @@
 {
-  "version": "8.41.0",
-  "codename": "Security Hardening",
+  "version": "8.43.0",
+  "codename": "Sends & Retired Chains",
   "info": [
-    "Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets."
+    "Version 8.43.0 makes Zcash sends and swap deposits clearer before you confirm, keeps an amount typed after Max, and adds notices for AXE, Blast, Clore and NEO Legacy."
   ],
   "bugs": [
-    "Security: Stronger protection for your private keys, accounts and copied keys.",
-    "WalletConnect and Links: Safer dApp connections, links and sign-in.",
-    "KMD Rewards: Updated to the latest Komodo rewards rules.",
-    "Sends: Better address and balance checks when sending.",
-    "Swaps: Clearer swap messages and more reliable Fusion swaps.",
-    "Ravencoin Assets: Improved Ravencoin asset sends.",
-    "BitcoinZ Full Node: Improved BitcoinZ full-node support.",
+    "AXE: ZelCore marks AXE as no longer maintained. You can still send your AXE out.",
+    "Blast: The Blast network has shut down. Sending and balance updates are off for ETH on Blast and its tokens, and your history stays. A notice explains what Blast announced and says you can export your private key.",
+    "Clore: The Clore proof-of-work chain has ended, and its claim window closed in February 2026. Sending is off, and the notice links Clore's migration page. The Clore ERC-20 token carries no claim notice.",
+    "NEO Legacy: ZelCore cannot connect to the NEO Legacy network, so balances, history and sending are unavailable for NEO, GAS and NeoFish. Private key export works. Neo N3 is not affected.",
+    "Sends: An amount you type after pressing Max stays as you typed it.",
+    "Zcash: A fee you type below the network's minimum is flagged under the fee field, and Send stays off, before you enter your PIN. The 'sat/B' line is hidden for ZEC because Zcash fees are not charged per byte.",
+    "Swaps: A swap deposit is priced on your latest balance when the swap starts. If the fee changed since the summary you saw, ZelCore shows the new numbers and asks you to confirm again, so nothing is sent on numbers you did not see. If your balance cannot be refreshed, the swap stops with a message.",
+    "Swap Deposits: A deposit that could not be sent is reported as not sent. The message for a Zcash deposit with too low a fee does not mention a fee setting the swap screen lacks.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
