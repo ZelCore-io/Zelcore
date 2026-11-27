@@ -1,21 +1,34 @@
 {
-  "version": "8.41.0",
-  "codename": "Security Hardening",
+  "version": "8.43.0",
+  "codename": "Sends & Retired Chains",
   "info": [
-    "Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets."
+    "Version 8.43.0 makes Zcash sends and swap deposits clearer before you confirm, keeps an amount typed after Max, and adds notices for AXE, Blast, Clore, ILCoin and NEO Legacy."
   ],
   "bugs": [
-    "Security: Stronger protection for your private keys, accounts and copied keys.",
-    "WalletConnect and Links: Safer dApp connections, links and sign-in.",
-    "KMD Rewards: Updated to the latest Komodo rewards rules.",
-    "Sends: Better address and balance checks when sending.",
-    "Swaps: Clearer swap messages and more reliable Fusion swaps.",
-    "Ravencoin Assets: Improved Ravencoin asset sends.",
-    "BitcoinZ Full Node: Improved BitcoinZ full-node support.",
+    "AXE: ZelCore marks AXE as no longer maintained. You can still send your AXE out.",
+    "Blast: The Blast network has shut down. Sending, balance updates and history updates are off for ETH on Blast and its tokens, and the history you already have stays. A notice explains what Blast announced and says you can export your private key.",
+    "Clore: The Clore proof-of-work chain has ended, and its claim window closed in February 2026. Sending is off, and the notice links Clore's migration page. The Clore ERC-20 token carries no claim notice.",
+    "ILCoin: The explorer ZelCore reads ILCoin from is offline, so balances, history and sending are paused for ILC. A notice explains this. Your ILC is not lost, and private key export works.",
+    "KCC Tokens: KCC tokens on Kaspa are paused because the service ZelCore reads them from no longer answers.",
+    "NEO Legacy: ZelCore cannot connect to the NEO Legacy network, so balances, history and sending are unavailable for NEO, GAS and NeoFish. Private key export works. Neo N3 is not affected.",
+    "Swap: Coins on retired networks, and coins with a notice, are not offered in Swap. You can still swap AXE out.",
+    "Sends: An amount you type after pressing Max stays as you typed it.",
+    "Zcash: A fee you type below the network's minimum is flagged under the fee field, and Send stays off, before you enter your PIN. The 'sat/B' line is hidden for ZEC because Zcash fees are not charged per byte.",
+    "Swaps: A swap deposit is priced on your latest balance when the swap starts. If the fee changed since the summary you saw, ZelCore shows the new numbers and asks you to confirm again. If your balance cannot be refreshed, the swap stops with a message.",
+    "Swap Deposits: A deposit that could not be sent is reported as not sent. If a Zcash deposit's fee is below the network minimum, the message shows the minimum and asks you to try again.",
+    "Usernames: The warning for a username that is already taken is shown as an error.",
+    "Notifications: Closing a notification closes only that notification, even if it moves as you tap.",
+    "Portfolio: On a narrow window, the hide-zero option and the filter button move to a second row together, and a long label such as the German one stays on one line.",
+    "Retrieving Wallets: The 'Retrieving deterministic wallets' message has a close button. The retrieval keeps running after you close it.",
+    "XDC: When an XDC server answers with an error, ZelCore tries the next server. A send that may already have reached the network is not sent again on another server.",
+    "Donations: A donation on a Bitcoin-style send is paid from your coins on top of the network fee, so Zcash sends with a donation go through. Donations of 600 satoshis or less are left out.",
+    "Fusion Deposits: If the network answers 'nonce too low' for a deposit ZelCore just sent, ZelCore looks for that deposit on the network and reports it as sent or not sent based on what it finds. If it cannot tell, it says the deposit may still confirm. A deposit the bridge cannot record is shown when you open Fusion, once each time you start ZelCore, with its transaction ID and request number for support.",
+    "WalletConnect: If ZelCore cannot read a dApp's session, it refuses to sign that session's requests.",
+    "NEAR: Transaction history for NEAR and NEAR tokens, and the staking history in Earn, show each transaction's status from the NEAR network. Total Rewards in Earn shows what your stake has earned. History loads for accounts with many transactions.",
+    "Avalanche: X-Chain and P-Chain balances show your current AVAX.",
+    "Stellar: An account that is not funded yet shows a balance of 0, and your XLM balance is shown correctly when the account also holds other assets.",
     "Various UI/UX improvements and stability fixes",
     "Performance optimizations and general bug fixes"
   ],
-  "features": [
-    "Broccoli (F3B): Broccoli on BNB Smart Chain is now supported."
-  ]
+  "features": []
 }
