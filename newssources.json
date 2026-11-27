@@ -7752,13 +7752,6 @@
         "site": "https://www.reddit.com/r/terraluna",
         "about": "Terra aims to build a new financial infrastructure that works better for everyone.",
         "pic": "@/assets/logos/LUNA.svg"
-      },
-      {
-        "name": "Terra (LUNA) Twitter",
-        "feed": "https://nitter.zelcore.io/terra_money/rss",
-        "site": "https://twitter.com/terra_money",
-        "about": "Terra aims to build a new financial infrastructure that works better for everyone.",
-        "pic": "@/assets/logos/LUNA.svg"
       }
     ],
     "ustterra": [

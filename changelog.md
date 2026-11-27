@@ -1,6 +1,75 @@
 
 # Changelog
 
+## [8.43.0] – Sends & Retired Chains
+
+Version 8.43.0 makes Zcash sends and swap deposits clearer before you confirm, keeps an amount typed after Max, and adds notices for AXE, Blast, Clore, ILCoin and NEO Legacy.
+
+### Updated
+
+- **AXE:** ZelCore marks AXE as no longer maintained. You can still send your AXE out.
+- **Blast:** The Blast network has shut down. Sending, balance updates and history updates are off for ETH on Blast and its tokens, and the history you already have stays. A notice explains what Blast announced and says you can export your private key.
+- **Clore:** The Clore proof-of-work chain has ended, and its claim window closed in February 2026. Sending is off, and the notice links Clore's migration page. The Clore ERC-20 token carries no claim notice.
+- **ILCoin:** The explorer ZelCore reads ILCoin from is offline, so balances, history and sending are paused for ILC. A notice explains this. Your ILC is not lost, and private key export works.
+- **KCC Tokens:** KCC tokens on Kaspa are paused because the service ZelCore reads them from no longer answers.
+- **NEO Legacy:** ZelCore cannot connect to the NEO Legacy network, so balances, history and sending are unavailable for NEO, GAS and NeoFish. Private key export works. Neo N3 is not affected.
+- **Swap:** Coins on retired networks, and coins with a notice, are not offered in Swap. You can still swap AXE out.
+
+### Fixed
+
+- **Sends:** An amount you type after pressing Max stays as you typed it.
+- **Zcash:** A fee you type below the network's minimum is flagged under the fee field, and Send stays off, before you enter your PIN. The "sat/B" line is hidden for ZEC because Zcash fees are not charged per byte.
+- **Swaps:** A swap deposit is priced on your latest balance when the swap starts. If the fee changed since the summary you saw, ZelCore shows the new numbers and asks you to confirm again. If your balance cannot be refreshed, the swap stops with a message.
+- **Swap Deposits:** A deposit that could not be sent is reported as not sent. If a Zcash deposit's fee is below the network minimum, the message shows the minimum and asks you to try again.
+- **Usernames:** The warning for a username that is already taken is shown as an error.
+- **Notifications:** Closing a notification closes only that notification, even if it moves as you tap.
+- **Portfolio:** On a narrow window, the hide-zero option and the filter button move to a second row together, and a long label such as the German one stays on one line.
+- **Retrieving Wallets:** The "Retrieving deterministic wallets" message has a close button. The retrieval keeps running after you close it.
+- **XDC:** When an XDC server answers with an error, ZelCore tries the next server. A send that may already have reached the network is not sent again on another server.
+- **Donations:** A donation on a Bitcoin-style send is paid from your coins on top of the network fee, so Zcash sends with a donation go through. Donations of 600 satoshis or less are left out.
+- **Fusion Deposits:** If the network answers "nonce too low" for a deposit ZelCore just sent, ZelCore looks for that deposit on the network and reports it as sent or not sent based on what it finds. If it cannot tell, it says the deposit may still confirm. A deposit the bridge cannot record is shown when you open Fusion, once each time you start ZelCore, with its transaction ID and request number for support.
+- **WalletConnect:** If ZelCore cannot read a dApp's session, it refuses to sign that session's requests.
+- **NEAR:** Transaction history for NEAR and NEAR tokens, and the staking history in Earn, show each transaction's status from the NEAR network. Total Rewards in Earn shows what your stake has earned. History loads for accounts with many transactions.
+- **Avalanche:** X-Chain and P-Chain balances show your current AVAX.
+- **Stellar:** An account that is not funded yet shows a balance of 0, and your XLM balance is shown correctly when the account also holds other assets.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.42.0] – Zcash & Fusion Swaps
+
+Version 8.42.0 brings Zcash sends in line with the network's NU7 upgrade, makes Fusion swaps safer and clearer, and improves account deletion, sends, KMD rewards and WalletConnect requests.
+
+### Updated
+
+- **German:** The German translation uses the formal "Sie" throughout, and status messages read as statements.
+
+### Fixed
+
+- **Zcash:** ZEC sends work on Zcash's NU7 network upgrade (version 5 transactions) and pay the network's standard ZIP 317 fee.
+- **FluxNodes and Flux ID:** When you copy a FluxNode identity key, a storage phrase or your Flux ID private key, the copy message leaves the secret out.
+- **Deleting an Account:** Deleting your last account stays deleted after a restart. ZelCore tells you if the deletion could not be saved and clears the account's keys from memory right away.
+- **Flux ID Sign-In:** Your Flux ID sign-in details are cleared when you log out and go only to servers ZelCore runs.
+- **Fusion Swaps:** ZelCore shows the reason when the bridge refuses a quote and reports a reversed deposit as failed. A deposit that may have gone through is not called failed. A slow Kadena deposit, an Ethereum retry or a second tap on Confirm sends the deposit once.
+- **Fusion Deposits:** If a deposit cannot be linked to its swap, for example because you closed the window or logged out, ZelCore remembers it for that account and links it the next time you open Fusion. If the bridge never received your deposit, ZelCore tells you to contact support.
+- **Swap Limits:** When your amount is below a swap's minimum, the message names the minimum, and it stays steady while limits load.
+- **Sends:** A pasted fee such as 1e-5 reads as 0.00001, and a half-typed or oversized number is cleared. Addresses written in all capitals are accepted where the format allows it. If a check before sending cannot finish, ZelCore tells you why.
+- **Ravencoin Assets:** Asset sends are checked against your asset balance, and the RVN fee against your RVN balance, before you enter your PIN. Long asset names are shortened.
+- **Broccoli (F3B):** Broccoli has its own ticker and price, and a much lighter logo.
+- **KMD Rewards:** The rewards dialog finishes its calculation. A lookup that stalls times out and shows 0 with a message. The reward counts only confirmed incoming transactions. On Ledger, KMD uses the new Komodo explorer.
+- **WalletConnect:** A request on a session with no remembered wallet uses the wallet the dApp was approved for. A request for a wallet the session was not approved for, for example after you deleted that wallet, is refused, so nothing is signed with the wrong wallet.
+- **Coin Icons:** ZelCore retries icons that fail to load later and skips a web page returned in place of an icon.
+- Various UI/UX improvements and stability fixes
+- Performance optimizations and general bug fixes
+
+## [8.41.1] – Security Hardening
+
+Version 8.41.1 restores Zcash sends after the network's NU7 upgrade and keeps more secrets out of the copy message.
+
+### Fixed
+
+- **Zcash:** ZEC sends work again after Zcash's NU7 network upgrade (version 5 transactions), and now pay the network's standard ZIP 317 fee.
+- **FluxNodes and Flux ID:** Copying a FluxNode identity key, a storage phrase or your Flux ID private key no longer shows it in the copy message.
+
 ## [8.41.0] – Security Hardening
 
 Version 8.41.0 strengthens wallet security and improves KMD rewards, swaps, sends and Ravencoin assets.
